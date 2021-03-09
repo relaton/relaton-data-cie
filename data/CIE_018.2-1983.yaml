@@ -1,0 +1,62 @@
+---
+id: CIE018.2-1983
+title:
+- type: title-main
+  content: The Basis of Physical Photometry, 2nd ed. (reprinted 1996)
+  format: text/plain
+- type: main
+  content: The Basis of Physical Photometry, 2nd ed. (reprinted 1996)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-018-2-1983?product_id=1209967
+  type: src
+type: standard
+docid:
+- id: CIE 018.2-1983
+  type: CIE
+- id: '9789290340188'
+  type: ISBN
+date:
+  type: published
+  value: '1983-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '1983-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    This publication describes the basic conventions and principles of modern physical photometry and explains how physical photometry relates to radiometry on the one hand, and to vision on the other. It outlines the fundamentals of  the broad-band spectroradiometric and the visual methods of photometry. The principal physical standards for measuring photometric quantities are described, relevant radiometric quantities are defined, and the results of major international intercomparisons of photometric measurements are summarized.
+
+    The document is in English, with a summary in English, French and German. It consists of 42 pages, 2 figures and 6 tables.
+
+    (see also CIE D001-2006)
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+  type: updates
+  bibitem:
+    id: CIE018-2019
+    title:
+    - type: title-main
+      content: The Basis of Physical Photometry
+      format: text/plain
+    - type: main
+      content: The Basis of Physical Photometry
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-018-2019?product_id=2045732
+      type: src
+    docid:
+      id: CIE 018:2019
+      type: CIE
+    date:
+      type: published
+      value: '2019-05-20'
+    revdate: '2019-05-20'
+doctype: document

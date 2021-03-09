@@ -1,0 +1,98 @@
+---
+id: CIEPP15330-338
+title:
+- type: title-main
+  content: ALTERNATIVE METHOD FOR LUMINOUS INTENSITY DISTRIBUTION ASSESSMENT (PP15,
+    330-338)
+  format: text/plain
+- type: main
+  content: ALTERNATIVE METHOD FOR LUMINOUS INTENSITY DISTRIBUTION ASSESSMENT (PP15,
+    330-338)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/alternative-method-for-luminous-intensity-distribution-assessment-pp15-330-338?product_id=2016261
+  type: src
+type: standard
+docid:
+  id: CIE PP15 330-338
+  type: CIE
+date:
+  type: published
+  value: '2018-05-01'
+contributor:
+- person:
+    name:
+      initial:
+      - content: D
+        language: en
+        script: Latn
+      - content: A
+        language: en
+        script: Latn
+      surname:
+        content: Ospina
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: J
+        language: en
+        script: Latn
+      - content: A
+        language: en
+        script: Latn
+      surname:
+        content: Romero
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: L
+        language: en
+        script: Latn
+      - content: E
+        language: en
+        script: Latn
+      surname:
+        content: Bermeo
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: J
+        language: en
+        script: Latn
+      - content: M
+        language: en
+        script: Latn
+      surname:
+        content: Quintero
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2018-05-01'
+language: en
+script: Latn
+abstract:
+  content: There are few methods to compare full luminous intensity distribution (LID).
+    Current methods provide metric of the distance between LIDs but their formulation
+    does not define an exact limit than can be considered acceptable in order to evaluate
+    if two LIDs are the same luminaire. In this work, we propose a method in which
+    we include uncertainty as a perturbation of the data. As a main result, we use
+    a Monte Carlo Method in order to define an accepting interval to determine whether
+    two LIDs can be considered different measures of the same luminaire.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

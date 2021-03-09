@@ -1,0 +1,83 @@
+---
+id: CIE107-1994
+title:
+- type: title-main
+  content: Review of the official recommendations of the CIE for the colours of signal
+    lights
+  format: text/plain
+- type: main
+  content: Review of the official recommendations of the CIE for the colours of signal
+    lights
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-107-1994?product_id=1210029
+  type: src
+type: standard
+docid:
+- id: CIE 107-1994
+  type: CIE
+- id: '9783900734497'
+  type: ISBN
+date:
+  type: published
+  value: '1994-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '1994-01-01'
+language: en
+script: Latn
+abstract:
+  content: "This Technical Report reviews the CIE international recommendations for
+    the colours of signal lights. The CIE recommendations for signal colours were
+    first adopted in 1951 and were revised in 1975. They have not since been subject
+    to critical review in the light of new experimental evidence and changed technology.
+    Published and unpublished reports of experiments on the recognition of signal
+    colours were compiled and analysed. The data from those reports were brought on
+    to a common base for dim signals, moderately bright signals and bright signals
+    under conditions simulating both night and day observation. Some of the experiments
+    included subjects with defective colour vision. Consideration of the data by the
+    Committee and its expert advisors has lead to a number of recommendations for
+    changes to the internationally accepted colour domains for signal colours, notably:\n\n
+    \  1. Restriction of the yellow boundary of red, abandonment of the restricted
+    purple boundary of red and re-definition of the recommended red in signal systems
+    used by persons with defective colour vision;\n   2. Substantial re-definition
+    of the colour domain for yellow including the definition of special domains for
+    yellow signals of high and low illuminance;\n   3. Restriction of the boundaries
+    of the colour domain for green;\n   4. Amendment of the colour domain for white
+    including the definition of a preferred domain and a secondary domain that can
+    be used when there is little chance of confusion with white lights;\n   5. Restricting
+    the green and white boundaries of blue to enhance recognition as well as defining
+    a more desaturated blue that can be used when there is little chance of confusion
+    with white and a special domain to be used for low illuminance blue signals;\n
+    \  6. Recommending the abandonment of violet as a signal colour. \n\nBased on
+    this report CIE will publish an International Standard on \"Colours of Signal
+    Lights\". The publication contains 42 pages, 14 figures and 6 tables."
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+  type: updates
+  bibitem:
+    id: CIES004/E-2001
+    title:
+    - type: title-main
+      content: Colours of light signals
+      format: text/plain
+    - type: main
+      content: Colours of light signals
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-s004-e-2001?product_id=1210135
+      type: src
+    docid:
+      id: CIE S004/E-2001
+      type: CIE
+    date:
+      type: published
+      value: '2001-01-01'
+    revdate: '2001-01-01'
+doctype: document

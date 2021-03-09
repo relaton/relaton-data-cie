@@ -1,0 +1,71 @@
+---
+id: CIEPP33694-703
+title:
+- type: title-main
+  content: |-
+    ANALYTICAL MODELS FOR PHOTO-EMISSION SPECTRA OF SINGLE COLOUR LEDS
+
+     (PP33, 694-703)
+  format: text/plain
+- type: main
+  content: |-
+    ANALYTICAL MODELS FOR PHOTO-EMISSION SPECTRA OF SINGLE COLOUR LEDS
+
+     (PP33, 694-703)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/analytical-models-for-photo-emission-spectra-of-single-colour-leds-pp33-694-703?product_id=2011364
+  type: src
+type: standard
+docid:
+  id: CIE PP33 694-703
+  type: CIE
+date:
+  type: published
+  value: '2017-10-23'
+contributor:
+- person:
+    name:
+      initial:
+        content: T
+        language: en
+        script: Latn
+      surname:
+        content: Schneider
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      surname:
+        content: Young
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      surname:
+        content: R
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2017-10-23'
+language: en
+script: Latn
+abstract:
+  content: We present an a priori analytic model for the photo-emission spectrum of
+    single colour LEDs. The model establishes a close connection between the spectral
+    properties of LEDs and the underlying solid state physics and can in principle
+    be used to predict the photo-emission spectrum of an LED from only a few of its
+    semiconductor properties. The full model is compared to a simpler, empiric, model
+    by fitting the two models to a large set of experimental LED spectra. The simple
+    model is well suited for good quality fitting of real LED spectra.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

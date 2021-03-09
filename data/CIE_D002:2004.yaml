@@ -1,0 +1,52 @@
+---
+id: CIED002-2004
+title:
+- type: title-main
+  content: Disk version of CIE colorimetric and colour rendering data (Publ. 13.3
+    and 15 tables)
+  format: text/plain
+- type: main
+  content: Disk version of CIE colorimetric and colour rendering data (Publ. 13.3
+    and 15 tables)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-d002-2004?product_id=1210079
+  type: src
+type: standard
+docid:
+  id: CIE D002:2004
+  type: CIE
+date:
+  type: published
+  value: '2004-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2004-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    This disc contains two subdirectories:
+
+    1. Subdirectory PUBL13_3 contains files tabulating data supplementing CIE Publication 13.3 (1995):
+
+    •Spectral radiance factor of CIE/TC-3.2 test-colour samples Nos. 1 ... 14, to be used in calculating special colour rendering indices and the General Colour Rendering Index (Tables 1 and 2 of Publ. 13.3): CIETCS01.TXT, CIETCS02.TXT ... CIETCS14.TXT;
+    •above data in MS-Excel spreadsheet format in two files: CIETS1_8.XLS (Spectral radiance factor of Test Samples 1 to 8) and CIETS914.XLS (Spectral radiance factor of Test Samples 9 to 14).
+
+    2. Subdirectory PUBL15_2004 contains files tabulating data supplementing CIE Publication 15:2004 :
+
+    • the relative spectral power distribution of CIE illuminants A, C, D50, D55, D65 and D75 for wavelength between 300 and 780 nm at 5 nm intervals: A_C_D50_D55_D65_D75.TXT and A_C_D50_D55_D65_D75.XLS files;
+    • the components S0(lambda), S1(lambda) and S2(lambda) of daylight used in the calculation of relative spectral power distributions of CIE daylight illuminants of different correlated colour temperatures, for wavelengths lambda = 300 nm to 830 nm at 5 nm intervals: S0_S1_S2.TXT, S0_S1_S2.XLS files;
+    •CIE 1931 standard colorimetric observer; set of colour-matching functions for wavelength between 380 and 780 nm: CIE2DEG.TXT, CIE2DEG.XLS files;
+    •CIE 1964 supplementary standard colorimetric observer; set of colour-matching functions for wavelength between 380 and 780 nm: CIE10DEG.TXT, CIE10DEG.XLS files;
+    •relative spectral power distributions of illuminants representing typical fluorescent lamps, expressed in microwatts/nm.lm for wavelength between 380 and 780 nm at 5 nm intervals: FL1_12.TXT, FL1_12.XLS and for the new lamps FL1_15.TXT, FL1_15.XLSfiles;
+
+    Each file starts with some text lines containing information on the file. Then the data are presented.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

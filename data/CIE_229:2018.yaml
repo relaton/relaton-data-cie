@@ -1,0 +1,50 @@
+---
+id: CIE229-2018
+title:
+- type: title-main
+  content: Groundwork for Measurement of Effective Intensity of Flashing Lights
+  format: text/plain
+- type: main
+  content: Groundwork for Measurement of Effective Intensity of Flashing Lights
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-229-2018?product_id=2015171
+  type: src
+type: standard
+docid:
+- id: CIE 229:2018
+  type: CIE
+- id: '9783902842084'
+  type: ISBN
+date:
+  type: published
+  value: '2018-05-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2018-05-01'
+language: en
+script: Latn
+abstract:
+  content: The objective of this report is to lay the groundwork for developing a
+    recommendation on the measurement of effective intensity of flashing lights used
+    for signalling applications. It recommends a convolutional method that will rest
+    on some defined visual impulse response function to calculate the effectivity
+    intensity. As one of such realizations of convolutional methods, the Modified
+    Allard Method with an infinite time window is described. However it is not yet
+    an official recommendation due to the lack of experimental verification and the
+    need for further research. This report also provides guidance on physical measurements
+    of effective intensity for the described method, for flashing lights using any
+    type of light sources including xenon flash tubes, light emitting diodes (LEDs)
+    and rotating beacons, which produce pulse widths in the range from microseconds
+    to seconds. This report does not cover specific measurement requirements for signalling
+    light products. While this document refers to flashing lights, the described method
+    applies also to occulting lights, isophase lights, and groups of flashes of varying
+    duration.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

@@ -1,0 +1,57 @@
+---
+id: CIEPO05833-838
+title:
+- type: title-main
+  content: |-
+    COLOUR RENDERING, SPECTRAL DISPERSION AND WAVELENGTH RESOLUTION
+     (PO05, 833-838)
+  format: text/plain
+- type: main
+  content: |-
+    COLOUR RENDERING, SPECTRAL DISPERSION AND WAVELENGTH RESOLUTION
+     (PO05, 833-838)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/colour-rendering-spectral-dispersion-and-wavelength-resolution-po05-833-838?product_id=2011157
+  type: src
+type: standard
+docid:
+  id: CIE PO05 833-838
+  type: CIE
+date:
+  type: published
+  value: '2017-10-23'
+contributor:
+- person:
+    name:
+      initial:
+      - content: L
+        language: en
+        script: Latn
+      - content: L
+        language: en
+        script: Latn
+      - content: A
+        language: en
+        script: Latn
+      surname:
+        content: Price
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2017-10-23'
+language: en
+script: Latn
+abstract:
+  content: |-
+    Several recent studies have summarised the research into colour rendering metrics, stimulated by the rise of LED lighting, and as the spectral characteristics of LED lighting solutions have highlighted deficiencies in existing evaluations. In 2015, the IES published TM-30-15 as a potential replacement for existing colour rendering systems. TM-30-15 provides fidelity index Rf and relative-gamut index Rg, based on 99 spectral reflectances, claimed to have uniform coverage in both the colour and wavelength spaces. The uniform coverage claims highlight two basic requirements for successful colour rendering metrics. Uniform coverage in
+    multidimensional wavelength space requires finer effective wavelength resolution than uniform coverage in 2D colour space, accounting for a substantial increase in the number of reflectances from CRI and CQS. However, it was not proven whether 99 spectral reflectances are sufficient. This study investigates wavelength space requirements, and implications for the sample spaces of a number of current metrics.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

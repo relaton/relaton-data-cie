@@ -1,0 +1,41 @@
+---
+id: CIES012/E-2004(ISO23603-2005)
+title:
+- type: title-main
+  content: Standard method of assessing the spectral quality of daylight simulators
+    for visual appraisal and measurement of colour
+  format: text/plain
+- type: main
+  content: Standard method of assessing the spectral quality of daylight simulators
+    for visual appraisal and measurement of colour
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-s-012-e-2004-iso-23603-2005?product_id=1210121
+  type: src
+type: standard
+docid:
+  id: CIE S 012/E:2004 (ISO 23603:2005)
+  type: CIE
+date:
+  type: published
+  value: '2005-08-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2005-08-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    This standard specifies a method of assessing the spectral quality of the irradiance provided by a daylight simulator to be used for visual appraisal of colours or for colour measurements and a method of assigning a quality grade to the simulator. It specifies the maximum permissible deviation of the chromaticity of the simulator from the chromaticity of the CIE Standard Daylight Illuminant or CIE Daylight Illuminant being simulated, for a simulator to be graded by this method.
+
+    The basis for the assessment is the special metamerism index for change in illuminant, using pairs of virtual (rather than real) specimens specified by their reflecting and fluorescing properties. The pairs of specimens are metameric matches under the CIE daylight illuminant, when evaluated with the CIE 1964 Standard Colorimetric Observer. The method described in this standard quantifies the mismatch when the pairs of virtual specimens are illuminated by the simulator under test and evaluated by the same standard observer.
+
+    The standard is accompanied by a disk containing the spectral data of Tables 3-6 of the standard in MS Excel format.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

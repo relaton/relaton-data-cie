@@ -1,0 +1,101 @@
+---
+id: CIEPO41971-977
+title:
+- type: title-main
+  content: |-
+    MEASUREMENT OF REGULAR SPECTRAL TRANSMITTANCE OF OPTICAL FILTERS
+
+     (PO41, 971-977)
+  format: text/plain
+- type: main
+  content: |-
+    MEASUREMENT OF REGULAR SPECTRAL TRANSMITTANCE OF OPTICAL FILTERS
+
+     (PO41, 971-977)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/measurement-of-regular-spectral-transmittance-of-optical-filters-po41-971-977?product_id=2011177
+  type: src
+type: standard
+docid:
+  id: CIE PO41 971-977
+  type: CIE
+date:
+  type: published
+  value: '2017-10-23'
+contributor:
+- person:
+    name:
+      initial:
+      - content: S
+        language: en
+        script: Latn
+      - content: L
+        language: en
+        script: Latn
+      - content: S
+        language: en
+        script: Latn
+      surname:
+        content: Yang
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: H
+        language: en
+        script: Latn
+      - content: S
+        language: en
+        script: Latn
+      surname:
+        content: Lam
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: Y
+        language: en
+        script: Latn
+      - content: K
+        language: en
+        script: Latn
+      surname:
+        content: B Yan
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: Y
+        language: en
+        script: Latn
+      - content: C
+        language: en
+        script: Latn
+      surname:
+        content: Chau
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2017-10-23'
+language: en
+script: Latn
+abstract:
+  content: |-
+    The Standards and Calibration Laboratory (SCL) of Hong Kong has recently developed the calibration service of regular spectral transmittance for optical filters. The laboratory's reference 3-element trap detector and a double monochromator are used as the reference
+    system, instead of using a reference transmittance spectrophotometer, to measure the ratio of the transmitted optical signal to the incident optical signal. The calibration range for transmittance is from 0,01 to 1 for optical spectral range from 400 nm to 1000 nm. The best measurement uncertainty is estimated as 0,53 % for transmittance range from 1 to 0,05, which could support the demands in optical filter calibration from the testing and certification industry in Hong Kong.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

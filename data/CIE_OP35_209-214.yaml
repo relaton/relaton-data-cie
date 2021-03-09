@@ -1,0 +1,94 @@
+---
+id: CIEOP35209-214
+title:
+- type: title-main
+  content: MODELLING BRIGHTNESS IN TERMS OF ROD, S-CONE AND IPRGC SIGNALS BASED ON
+    A NEW VISUAL EXPERIMENT (OP35, 209-214)
+  format: text/plain
+- type: main
+  content: MODELLING BRIGHTNESS IN TERMS OF ROD, S-CONE AND IPRGC SIGNALS BASED ON
+    A NEW VISUAL EXPERIMENT (OP35, 209-214)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/modelling-brightness-in-terms-of-rod-s-cone-and-iprgc-signals-based-on-a-new-visual-experiment-op35-209-214?product_id=2016245
+  type: src
+type: standard
+docid:
+  id: CIE OP35 209-214
+  type: CIE
+date:
+  type: published
+  value: '2018-05-01'
+contributor:
+- person:
+    name:
+      initial:
+        content: P
+        language: en
+        script: Latn
+      surname:
+        content: Bodrogi
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: X
+        language: en
+        script: Latn
+      surname:
+        content: Guo
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: D
+        language: en
+        script: Latn
+      surname:
+        content: Carella
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: T
+        language: en
+        script: Latn
+      - content: Q
+        language: en
+        script: Latn
+      surname:
+        content: Khanh
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2018-05-01'
+language: en
+script: Latn
+abstract:
+  content: Results of a series of new visual brightness experiments with multi-LED
+    spectra of different chromaticities at four fixed luminance levels (267.6 cd/m2;
+    24.8 cd/m2; 1.6 cd/m2 and 0.34 cd/m2) were modelled in terms of the rod, S-cone
+    and ipRGC signals of the stimuli by the brightness model quantity B. The visual
+    brightness scales of the observers were predicted by the optimum weights of these
+    three mechanisms, rods, S-cones and ipRGCs. In case of 0.34 cd/m2, B could be
+    well predicted by the square root of the standalone rod signal of the stimulus
+    (r2=0.99). For 1.6 cd/m2 (r2=0.95) and 24.8 cd/m2 (r2=0.89) there was rod and
+    S-cone contribution with the optimum signal exponent value of 0.25. For 267.6
+    cd/m2 (r2=0.80), there was S-cone and ipRGC contribution with the exponent value
+    of 0.25. The brightness model is compared with pupil size measurement results
+    of a recent experiment.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

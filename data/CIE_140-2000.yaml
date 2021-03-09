@@ -1,0 +1,62 @@
+---
+id: CIE140-2000
+title:
+- type: title-main
+  content: Road Lighting Calculations (Includes Rev. 2)
+  format: text/plain
+- type: main
+  content: Road Lighting Calculations (Includes Rev. 2)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-140-2000?product_id=1210058
+  type: src
+type: standard
+docid:
+- id: CIE 140-2000
+  type: CIE
+- id: '9783901906541'
+  type: ISBN
+date:
+  type: published
+  value: '2000-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2000-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    The purpose of this report is to update and to replace CIE 30.2-1982 Calculation and measurement of illuminance and luminance in road lighting. It gives the methods which CIE 115-1995 and CIE 136-2000 require for their recommendations.
+
+    It includes the calculation of luminance, illuminance, and their associated measures of uniformity, as well as disability glare. The conventions adopted for luminance and illuminance grids are also included.
+
+    The complete Technical Report consists of 33 pages with 17 figures and 6 tables.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+  type: updates
+  bibitem:
+    id: CIE140-2019
+    title:
+    - type: title-main
+      content: Road Lighting Calculations
+      format: text/plain
+    - type: main
+      content: Road Lighting Calculations
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-140-2019?product_id=2033815
+      type: src
+    docid:
+      id: CIE 140:2019
+      type: CIE
+    date:
+      type: published
+      value: '2019-02-01'
+    revdate: '2019-02-01'
+doctype: document

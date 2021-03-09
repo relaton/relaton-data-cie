@@ -1,0 +1,39 @@
+---
+id: CIE225-2017
+title:
+- type: title-main
+  content: Optical Measurement of High-Power LEDs
+  format: text/plain
+- type: main
+  content: Optical Measurement of High-Power LEDs
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-225-2017?product_id=1987931
+  type: src
+type: standard
+docid:
+- id: CIE 225:2017
+  type: CIE
+- id: '9783902842121'
+  type: ISBN
+date:
+  type: published
+  value: '2017-08-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2017-08-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    Measurement results for light emitting diodes (LEDs) strongly depend on their thermal conditions. In order to achieve reproducible results with small uncertainties it is critical to accurately set and control the junction temperature of an LED during the time of optical measurement. This technical report describes the methods and procedures for measurement of high-power LEDs (HP-LEDs) under DC operation to acquire photometric, radiometric, and colorimetric quantities at a specified junction temperature.
+
+    The publication is written in English, with a short summary in French and German.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

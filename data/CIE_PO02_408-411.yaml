@@ -1,0 +1,84 @@
+---
+id: CIEPO02408-411
+title:
+- type: title-main
+  content: ATTENTION COMPARISON OF DIFFERENT OFFICE LIGHTING SCENARIOS BY BRAINWAVE
+    MEASUREMENTS AND EMPIRICAL MODE DECOMPOSITION (PO02, 408-411)
+  format: text/plain
+- type: main
+  content: ATTENTION COMPARISON OF DIFFERENT OFFICE LIGHTING SCENARIOS BY BRAINWAVE
+    MEASUREMENTS AND EMPIRICAL MODE DECOMPOSITION (PO02, 408-411)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/attention-comparison-of-different-office-lighting-scenarios-by-brainwave-measurements-and-empirical-mode-decomposition-po02-408-411?product_id=2016280
+  type: src
+type: standard
+docid:
+  id: CIE PO02 408-411
+  type: CIE
+date:
+  type: published
+  value: '2018-05-01'
+contributor:
+- person:
+    name:
+      initial:
+      - content: I
+        language: en
+        script: Latn
+      - content: C
+        language: en
+        script: Latn
+      surname:
+        content: Chen
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: C
+        language: en
+        script: Latn
+      - content: H
+        language: en
+        script: Latn
+      surname:
+        content: Wu
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: Y
+        language: en
+        script: Latn
+      - content: C
+        language: en
+        script: Latn
+      surname:
+        content: Chen
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2018-05-01'
+language: en
+script: Latn
+abstract:
+  content: This study aims to evaluate users' attention levels under different lighting
+    environments by measuring and analysing brainwaves. The acquired brainwave signals
+    are processed by Hilbert-Huang transform to find the marginal spectra of intrinsic
+    mode functions for computing the corresponding powers in the alpha and beta bands.
+    The receiver operating characteristic analysis is then utilized to suggest candidates
+    of attention index based on the classification accuracy of binary discrimination
+    tasks.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

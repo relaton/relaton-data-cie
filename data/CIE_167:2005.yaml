@@ -1,0 +1,39 @@
+---
+id: CIE167-2005
+title:
+- type: title-main
+  content: Recommended practice for tabulating spectral data for use in colour
+  format: text/plain
+- type: main
+  content: Recommended practice for tabulating spectral data for use in colour
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-167-2005?product_id=1233525
+  type: src
+type: standard
+docid:
+- id: CIE 167:2005
+  type: CIE
+- id: '9783901906411'
+  type: ISBN
+date:
+  type: published
+  value: '2005-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2005-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    This technical report describes several difficulties resulting from incompatibility of tables of spectral data used for computations, such as colour computations, with automatic digital computers, and provides guidance in tabulating spectral data to facilitate such applications. The recommended practices, with regard to spectral ranges, spectral intervals, etc., are based on the experience of members of the committee, who were experts in the field of colour measurement and computation.
+
+    The report is written in English, with a short summary in French and German. It consists of 21 pages with 3 figures and 12 tables.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

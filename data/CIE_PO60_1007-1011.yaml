@@ -1,0 +1,85 @@
+---
+id: CIEPO601007-1011
+title:
+- type: title-main
+  content: |-
+    PHOTOMETRIC MEASUREMENT OF ROAD LIGHTING LUMINAIRES
+
+     (PO60, 1007-1011)
+  format: text/plain
+- type: main
+  content: |-
+    PHOTOMETRIC MEASUREMENT OF ROAD LIGHTING LUMINAIRES
+
+     (PO60, 1007-1011)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/photometric-measurement-of-road-lighting-luminaires-po60-1007-1011?product_id=2011182
+  type: src
+type: standard
+docid:
+  id: CIE PO60 1007-1011
+  type: CIE
+date:
+  type: published
+  value: '2017-10-23'
+contributor:
+- person:
+    name:
+      initial:
+        content: L
+        language: en
+        script: Latn
+      surname:
+        content: Lipnicky
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: R
+        language: en
+        script: Latn
+      surname:
+        content: Dubnicka
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: D
+        language: en
+        script: Latn
+      surname:
+        content: Gasparovsky
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2017-10-23'
+language: en
+script: Latn
+abstract:
+  content: For the calculation of the photometric parameters of the road lighting
+    are needed photometric data of the used luminaires. These data are in the form
+    of an intensity table (I-table) which gives the distribution of luminous intensity
+    emitted by the luminaire in all relevant directions. A goniophotometer is needed
+    to measure the luminous intensity distribution of luminaires. We know the various
+    goniophotometers which adopting different test methods for testing luminous distribution.
+    The results from goniophotometric measurements are very important for lighting
+    engineers who are using these results in lighting calculation of photometric parameters
+    of the various lighting systems. Especially in road lighting calculation distance
+    between angles should be measured as much as possible providing sufficient photometric
+    data for the calculation. Some new optical systems and some LED luminaires which
+    as found by measurement may contain various local extremes in the luminous intensity
+    distribution curve.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

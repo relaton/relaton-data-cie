@@ -1,0 +1,124 @@
+---
+id: CIES023/E-2013
+title:
+- type: title-main
+  content: Characterization of the Performance of Illuminance Meters and Luminance
+    Meters
+  format: text/plain
+- type: main
+  content: Characterization of the Performance of Illuminance Meters and Luminance
+    Meters
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-s-023-e-2013?product_id=1857801
+  type: src
+type: standard
+docid:
+  id: CIE S 023/E:2013
+  type: CIE
+date:
+  type: published
+  value: '2013-05-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2013-05-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    This CIE International Standard defines quality indices characterizing the performance
+    of illuminance and luminance meters in a general lighting measurement situation, as
+    well as measurement procedures for the individual indices and standard calibration
+    conditions.
+    Measurements of illuminance or luminance and their accuracy are influenced by
+    various parameters, such as operational conditions, properties of light sources, as
+    well as characteristics of the applied photometers. The characteristics of these
+    photometers alone do not allow the determination of the measurement uncertainty for
+    a specific measurement task. Nevertheless, it is generally true that instruments with
+    "better" characteristics in most cases produce smaller uncertainties than instruments
+    with "worse" properties. This Standard has been written to:
+
+    give clear and unambiguous definitions for the individual quality indices;
+    define measurement procedures and methods for numerical evaluation of these
+    quality indices;
+     define calibration conditions for illuminance meters and luminance meters.
+
+    Where different, the definitions of the quality indices and the associated measurement
+    procedures and methods for numerical evaluation given in this Standard supersede
+    those given in CIE Publication 53-1982. CIE publication 69-1987 shall be superseded
+    by this Standard.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: CIEISO/CIE19476-2014
+    title:
+    - type: title-main
+      content: Characterization of the Performance of Illuminance Meters and Luminance
+        Meters
+      format: text/plain
+    - type: main
+      content: Characterization of the Performance of Illuminance Meters and Luminance
+        Meters
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-iso-cie-19476-2014?product_id=1880762
+      type: src
+    docid:
+      id: CIE ISO/CIE 19476:2014
+      type: CIE
+    date:
+      type: published
+      value: '2014-05-01'
+    revdate: '2014-05-01'
+- type: updates
+  bibitem:
+    id: CIEDS023/E-2012
+    title:
+    - type: title-main
+      content: Characterization of the Performance of Illuminance Meters and Luminance
+        Meters
+      format: text/plain
+    - type: main
+      content: Characterization of the Performance of Illuminance Meters and Luminance
+        Meters
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-ds-023-e-2012?product_id=1826966
+      type: src
+    docid:
+      id: CIE DS 023/E:2012
+      type: CIE
+    date:
+      type: published
+      value: '2012-03-01'
+    revdate: '2012-03-01'
+- type: updates
+  bibitem:
+    id: CIE069-1987
+    title:
+    - type: title-main
+      content: 'Methods of characterizing illuminance meters and luminance meters:
+        Performance, characteristics and specifications'
+      format: text/plain
+    - type: main
+      content: 'Methods of characterizing illuminance meters and luminance meters:
+        Performance, characteristics and specifications'
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-069-1987?product_id=1210000
+      type: src
+    docid:
+      id: CIE 069-1987
+      type: CIE
+    date:
+      type: published
+      value: '1987-01-01'
+    revdate: '1987-01-01'
+doctype: document

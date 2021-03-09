@@ -1,0 +1,131 @@
+---
+id: CIEx043-PO47
+title:
+- type: title-main
+  content: VISUAL FIDELITY ASSESSMENT OF ARTWORKS IN VIRTUAL REALITY (PO47, Pages
+    446-449)
+  format: text/plain
+- type: main
+  content: VISUAL FIDELITY ASSESSMENT OF ARTWORKS IN VIRTUAL REALITY (PO47, Pages
+    446-449)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/visual-fidelity-assessment-of-artworks-in-virtual-reality-po47-pages-446-449?product_id=1941869
+  type: src
+type: standard
+docid:
+  id: CIE x043-PO47
+  type: CIE
+date:
+  type: published
+  value: '2016-09-01'
+contributor:
+- person:
+    name:
+      initial:
+      - content: P
+        language: en
+        script: Latn
+      - content: J
+        language: en
+        script: Latn
+      surname:
+        content: Pardo
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: H
+        language: en
+        script: Latn
+      - content: C
+        language: en
+        script: Latn
+      surname:
+        content: Cwierz
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: M
+        language: en
+        script: Latn
+      - content: I
+        language: en
+        script: Latn
+      surname:
+        content: Suero
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: A
+        language: en
+        script: Latn
+      - content: M
+        language: en
+        script: Latn
+      surname:
+        content: Felicisimo
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: M
+        language: en
+        script: Latn
+      - content: E
+        language: en
+        script: Latn
+      surname:
+        content: Polo
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: A
+        language: en
+        script: Latn
+      - content: L
+        language: en
+        script: Latn
+      surname:
+        content: Perez
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2016-09-01'
+language: en
+script: Latn
+abstract:
+  content: 'Head Mounted Displays (HMD) allows immersive experiences in virtual worlds
+    and it would be expected to have many applications, in both fields: recreational
+    and professional. The aim of this paper is to check the accuracy of the visual
+    appearance of real objects captured through a 3D scanner, rendered in a PC and
+    displayed in the latest development kit available of the Oculus Rift Virtual Reality
+    glasses. Subjective evaluation has been carried out in both environments, real
+    and virtual. Ten observers through a survey based on a 5 steps Mean Opinion Score
+    scale. The results indicate greater fidelity in the lighting and shading using
+    the deferred renderer that includes the BRDF model. For colour and texture, the
+    results are slightly worse, but can still be considered acceptable. The worst
+    results were obtained regarding the pixelation effect and correction for chromatic
+    aberration.'
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

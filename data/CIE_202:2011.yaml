@@ -1,0 +1,60 @@
+---
+id: CIE202-2011
+title:
+- type: title-main
+  content: Spectral Responsivity Measurement of Detectors, Radiometers and Photometers
+  format: text/plain
+- type: main
+  content: Spectral Responsivity Measurement of Detectors, Radiometers and Photometers
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-202-2011?product_id=1820326
+  type: src
+type: standard
+docid:
+- id: CIE 202:2011
+  type: CIE
+- id: '9783902842268'
+  type: ISBN
+date:
+  type: published
+  value: '2011-12-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2011-12-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Technical Report gives recommendations for spectral radiant power, irradiance and radiance responsivity measurement of single element detectors in the 200 nm to 2 500 nm wavelength range. It covers measurement setups and methods, summarizes the types and basic properties of typical detectors, radiometers and photometers and gives guidance on how to choose a reference detector. Spectral considerations for source and radiometer applications, detector amplifier application issues and measurement uncertainties are described. Primary detector standards and procedures for the realization of units and responsivity functions are the responsibility of national metrology institutes and are not discussed in this report. This Technical Report was written to update Technical Report CIE 64-1984 "Determination of the Spectral Responsivity of Optical Radiation Detectors" with respect to device and measurement technology, and to include spectral irradiance and radiance responsivity measurements for radiometers and photometers from the ultraviolet wavelength range up to 2 500 nm.
+
+    This publication supersedes CIE 64-1984 "Determination of the Spectral Responsivity of Optical Radiation Detectors".
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+  type: updates
+  bibitem:
+    id: CIE064-1984
+    title:
+    - type: title-main
+      content: Determination of the spectral responsivity of optical radiation detectors
+      format: text/plain
+    - type: main
+      content: Determination of the spectral responsivity of optical radiation detectors
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-064-1984?product_id=1209996
+      type: src
+    docid:
+      id: CIE 064-1984
+      type: CIE
+    date:
+      type: published
+      value: '1984-01-01'
+    revdate: '1984-01-01'
+doctype: document

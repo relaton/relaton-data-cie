@@ -1,0 +1,64 @@
+---
+id: CIE083-2019
+title:
+- type: title-main
+  content: Guide for the Lighting of Sports Events for Colour Television and Film
+    Systems, 3rd Edition
+  format: text/plain
+- type: main
+  content: Guide for the Lighting of Sports Events for Colour Television and Film
+    Systems, 3rd Edition
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-083-2019?product_id=2043181
+  type: src
+type: standard
+docid:
+- id: CIE 083:2019
+  type: CIE
+- id: '9783902842206'
+  type: ISBN
+date:
+  type: published
+  value: '2019'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2019'
+language: en
+script: Latn
+abstract:
+  content: |-
+    CIE 083-2019 is an extended and revised edition of Publication CIE 83-1989 Guide for the lighting of sport events for colour television and film systems, 2nd edition. It replaces CIE 83-1989.
+    The document summarizes television and film techniques with regard to their influencing and determining the lighting needs.
+    Detailed quantitative guidance is provided on the quality aspects to be fulfilled for colour television and colour film including vertical illuminance, uniformity of horizontal illuminance, flicker, colour temperature and colour rendering of the lighting together with lighting requirements on the surrounding spectator areas. Reference is made to HDTV broadcasting techniques.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+  type: updates
+  bibitem:
+    id: CIE083-1989
+    title:
+    - type: title-main
+      content: Guide for the lighting of sports events for colour television and film
+        systems
+      format: text/plain
+    - type: main
+      content: Guide for the lighting of sports events for colour television and film
+        systems
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-083-1989?product_id=1210011
+      type: src
+    docid:
+      id: CIE 083-1989
+      type: CIE
+    date:
+      type: published
+      value: '1989-01-01'
+    revdate: '1989-01-01'
+doctype: document

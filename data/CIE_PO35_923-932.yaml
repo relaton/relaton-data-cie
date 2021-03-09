@@ -1,0 +1,95 @@
+---
+id: CIEPO35923-932
+title:
+- type: title-main
+  content: |-
+    HIGH DYNAMIC RANGE IMAGING LUMINANCE MEASURING DEVICE  (HDR-ILMD) AND APPLICATIONS IN MOTION
+     (PO35, 923-932)
+  format: text/plain
+- type: main
+  content: |-
+    HIGH DYNAMIC RANGE IMAGING LUMINANCE MEASURING DEVICE  (HDR-ILMD) AND APPLICATIONS IN MOTION
+     (PO35, 923-932)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/high-dynamic-range-imaging-luminance-measuring-device-hdr-ilmd-and-applications-in-motion-po35-923-932?product_id=2011171
+  type: src
+type: standard
+docid:
+  id: CIE PO35 923-932
+  type: CIE
+date:
+  type: published
+  value: '2017-10-23'
+contributor:
+- person:
+    name:
+      initial:
+        content: V
+        language: en
+        script: Latn
+      surname:
+        content: Boucher
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: F
+        language: en
+        script: Latn
+      surname:
+        content: Greffier
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: F
+        language: en
+        script: Latn
+      surname:
+        content: Fournela
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: R
+        language: en
+        script: Latn
+      surname:
+        content: Dronneau
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: E
+        language: en
+        script: Latn
+      surname:
+        content: Dumont
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2017-10-23'
+language: en
+script: Latn
+abstract:
+  content: |-
+    An imaging system with a dynamic range comparable to the human eye able to measure luminance in motion has been developed. This High Dynamic Range (HDR) Imaging Luminance Measuring Device (ILMD) is based on four synchronous cameras. The photometric
+    calibration leads to a reachable luminance range of six orders of magnitude. The geometric calibration process is derived from stereoscopic systems. As such, rectified images facilitate the HDR construction 'hole filling' algorithm. This system is finally used to evaluate road lighting performances in accordance with CIE recommendations. In addition, visual adaption and threshold increment calculations can be carried out from HDR luminance images along a roadway.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

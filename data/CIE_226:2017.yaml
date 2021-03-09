@@ -1,0 +1,43 @@
+---
+id: CIE226-2017
+title:
+- type: title-main
+  content: High-Speed Testing Methods for LEDs
+  format: text/plain
+- type: main
+  content: High-Speed Testing Methods for LEDs
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-226-2017?product_id=1987932
+  type: src
+type: standard
+docid:
+- id: CIE 226:2017
+  type: CIE
+- id: '9783902842695'
+  type: ISBN
+date:
+  type: published
+  value: '2017-08-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2017-08-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    There are significant differences between LED packages or LED chips and conventional light sources which require measurements under specific measurement conditions.
+
+    The absence of a heat sink allows only to use short current pulses for the optical measurements in order to avoid significant heating of the device under test. The readings under these pulsed conditions can be converted into values under the final application conditions e.g. by using the corresponding datasheet information. The high-speed measurement procedures necessary for high-volume production testing require also special measurement configurations. These are based on the recommendations of the Technical Report CIE 127:2007 or should at least be traceable back to these.
+
+    This report describes in detail the measurement procedures and configurations that can be used to perform high-speed measurements on LED packages and LED chips. Specific properties of LEDs which need to be considered (e.g. current and temperature dependency of electrical and optical properties) are also highlighted.
+
+    The publication is written in English, with a short summary in French and German.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

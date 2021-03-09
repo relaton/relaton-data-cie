@@ -1,0 +1,119 @@
+---
+id: CIEPP18589-596
+title:
+- type: title-main
+  content: |-
+    MEASUREMENT OF ILLUMINANCE SATISFACTION REGARD TO DUTIES AND NEW CONTROL METHOD OF INTELLIGENT LIGHTING SYSTEM USING SATISFACTION LEVEL
+
+     (PP18, 589-596)
+  format: text/plain
+- type: main
+  content: |-
+    MEASUREMENT OF ILLUMINANCE SATISFACTION REGARD TO DUTIES AND NEW CONTROL METHOD OF INTELLIGENT LIGHTING SYSTEM USING SATISFACTION LEVEL
+
+     (PP18, 589-596)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/measurement-of-illuminance-satisfaction-regard-to-duties-and-new-control-method-of-intelligent-lighting-system-using-satisfaction-level-pp18-589-596?product_id=2011273
+  type: src
+type: standard
+docid:
+  id: CIE PP18 589-596
+  type: CIE
+date:
+  type: published
+  value: '1951-10-23'
+contributor:
+- person:
+    name:
+      initial:
+        content: N
+        language: en
+        script: Latn
+      surname:
+        content: Hiroaki
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: M
+        language: en
+        script: Latn
+      surname:
+        content: Miki
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: S
+        language: en
+        script: Latn
+      surname:
+        content: Dainaka
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: S
+        language: en
+        script: Latn
+      surname:
+        content: Tamura
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: R
+        language: en
+        script: Latn
+      surname:
+        content: Tomioka
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: T
+        language: en
+        script: Latn
+      surname:
+        content: Yamashita
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: H
+        language: en
+        script: Latn
+      surname:
+        content: Aida
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '1951-10-23'
+language: en
+script: Latn
+abstract:
+  content: |-
+    In order to determine the range of illuminance which an office worker believes is most conducive to favourable job performance, we first examine the relation between degrees of job satisfaction and illuminance per worker in an office setting. Following this, using a conventional Intelligent Lighting System (ILS), we discovered instances where the target illuminance cannot be realised owing to physical lighting characteristics when the illuminance of an adjacent worker differs from that of a target worker. Thus, problems such as extremely low illuminance satisfaction of specific workers can occur. Therefore, based on measured satisfaction levels (which are psychological indicators for each user), we propose a novel
+    method for obtaining high illuminance satisfaction. Finally, as illuminance satisfaction can change, we consider a learning function to estimate satisfaction levels while doing daily work, and introduce this learning function to the ILS.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

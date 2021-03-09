@@ -1,0 +1,62 @@
+---
+id: CIE173-2006
+title:
+- type: title-main
+  content: Tubular Daylight Guidance Systems (Including Erratum 1)
+  format: text/plain
+- type: main
+  content: Tubular Daylight Guidance Systems (Including Erratum 1)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-173-2006?product_id=1270666
+  type: src
+type: standard
+docid:
+- id: CIE 173:2006
+  type: CIE
+- id: '9783901906497'
+  type: ISBN
+date:
+  type: published
+  value: '2006-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2006-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    Tubular daylight guidance systems are linear devices that channel daylight into the core of a building. They consist of a light transport section with, at the outer end, some device for collecting natural light and, at the inner end, a means of distribution of light within the interior. Collectors may be either mechanical devices that actively focus and direct daylight (usually sunlight), or be passive devices that accept sunlight and skylight from part or whole sky hemisphere. The transport element is usually a tube lined with highly reflective or prismatic material or may contain lenses or other devices to redirect the light. Light is distributed in an interior by output components, commonly diffusers made of opal or prismatic material. The major emphasis of this Report is on passive zenithal systems, the most commercially successful type of daylight guidance being installed in many parts of the world.
+
+    The Report includes a contextual review of the technology of all generic types of daylight guidance system. The major part of the report is concerned with photometry of components and systems, design methods, maintenance issues in both design and use, energy aspects, cost and benefits, human factors and architectural issues in the context of passive zenithal systems. The report includes case studies showing good practice.
+
+    The report is written in English, with a short summary in French and German. It consists of 73 pages with 44 figures and 5 tables.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+  type: updates
+  bibitem:
+    id: CIE173-2012
+    title:
+    - type: title-main
+      content: Tubular Daylight Guidance Systems (Including Erratum 1)
+      format: text/plain
+    - type: main
+      content: Tubular Daylight Guidance Systems (Including Erratum 1)
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-173-2012?product_id=1840549
+      type: src
+    docid:
+      id: CIE 173:2012
+      type: CIE
+    date:
+      type: published
+      value: '2012-08-01'
+    revdate: '2012-08-01'
+doctype: document

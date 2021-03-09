@@ -1,0 +1,41 @@
+---
+id: CIE051.2-1999
+title:
+- type: title-main
+  content: A method for assessing the quality of daylight simulators for colorimetry
+  format: text/plain
+- type: main
+  content: A method for assessing the quality of daylight simulators for colorimetry
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-051-2-1999?product_id=1209982
+  type: src
+type: standard
+docid:
+- id: CIE 051.2-1999
+  type: CIE
+- id: '9783901906039'
+  type: ISBN
+date:
+  type: published
+  value: '1999-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '1999-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    A method is provided for evaluating the suitability of a test source as a simulator of CIE Standard Illuminants D55, D65, or D75. The Supplement, prepared in 1999, adds the CIE Illuminant D50 to the line of illuminants where the method can be applied to. For each of these standard illuminants, spectral radiance factor data are supplied for five pairs of nonfluorescent samples that are metameric matches. The colorimetric differences of the five pairs are computed for the test illuminant; the average of these differences is taken as the visible range metamerism index and is used as a measure of the quality of the test illuminant as a simulator for nonfluorescent smaples. For fluorescent samples, the quality is further assessed in terms of an ultraviolet range metamerism index, defined as the average of the colorimetric differences computed with the test illuminant for three further pairs of samples, each pair consisting of a fluorescent and a nonfluorescent sample which are metameric under the standard illuminant.
+
+    This report should be used in conjunction with CIE 15.2-1986 Colorimetry.
+
+    This report consists of 30 pages, 1 figure and 12 tables.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

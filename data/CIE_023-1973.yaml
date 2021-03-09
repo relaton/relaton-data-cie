@@ -1,0 +1,86 @@
+---
+id: CIE023-1973
+title:
+- type: title-main
+  content: International recommendations for motorway lighting
+  format: text/plain
+- type: main
+  content: International recommendations for motorway lighting
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-023-1973?product_id=1210137
+  type: src
+type: standard
+docid:
+- id: CIE 023-1973
+  type: CIE
+- id: '9783900734688'
+  type: ISBN
+date:
+  type: published
+  value: '1973-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '1973-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    This CIE recommendation describes the fundamental principles which govern the lighting of motorways and defines commonly accepted values and techniques. The opinions expressed are those held at the time of printing by CIE experts, taking into consideration comments that were received from CIE member countries.
+
+    Motorway lighting differs from country to country; possibilities and usages vary. National codes cannot be identical because they were designed to meet the particular needs and particular circumstances of each country. Nonetheless, there are certain principles and techniques which are generally applicable. These general rules are described, in accordance with recent research and experience, in order to enable countries to issue or revise their own codes. The only methods of providing adequate lighting which are included in this report are those which are firmly established and give satisfactory results within acceptable economic limitations.
+
+    The use of these methods is not considered mandatory, and research into new standards and methods is encouraged. Therefore, the report does not constitute a code. It is hoped, however, that it may serve as a basis of drafting of national codes, so that in the not too distant future the codes of different countries will be more uniform and, thus, more compatible with the growing volume of international traffic.
+
+    The publication contains 28 pages and 18 figures.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: CIE115-2010
+    title:
+    - type: title-main
+      content: Lighting of Roads for Motor and Pedestrian Traffic
+      format: text/plain
+    - type: main
+      content: Lighting of Roads for Motor and Pedestrian Traffic
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-115-2010?product_id=1724306
+      type: src
+    docid:
+      id: CIE 115:2010
+      type: CIE
+    date:
+      type: published
+      value: '2010-07-01'
+    revdate: '2010-07-01'
+- type: updates
+  bibitem:
+    id: CIE115-1995
+    title:
+    - type: title-main
+      content: Recommendations for the lighting of roads for motor and pedestrian
+        traffic
+      format: text/plain
+    - type: main
+      content: Recommendations for the lighting of roads for motor and pedestrian
+        traffic
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-115-1995?product_id=1210038
+      type: src
+    docid:
+      id: CIE 115-1995
+      type: CIE
+    date:
+      type: published
+      value: '1995-01-01'
+    revdate: '1995-01-01'
+doctype: document

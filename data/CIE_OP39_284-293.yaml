@@ -1,0 +1,85 @@
+---
+id: CIEOP39284-293
+title:
+- type: title-main
+  content: |-
+    NEW IMAGE BASED MEASUREMENT METHOD OF REFLECTIVE PROPERTIES OF ROAD SURFACES
+
+     (OP39, 284-293)
+  format: text/plain
+- type: main
+  content: |-
+    NEW IMAGE BASED MEASUREMENT METHOD OF REFLECTIVE PROPERTIES OF ROAD SURFACES
+
+     (OP39, 284-293)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/new-image-based-measurement-method-of-reflective-properties-of-road-surfaces-op39-284-293?product_id=2010482
+  type: src
+type: standard
+docid:
+  id: CIE OP39 284-293
+  type: CIE
+date:
+  type: published
+  value: '2017-10-23'
+contributor:
+- person:
+    name:
+      initial:
+        content: S
+        language: en
+        script: Latn
+      surname:
+        content: Buschmann
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: J
+        language: en
+        script: Latn
+      surname:
+        content: Steblau
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: S
+        language: en
+        script: Latn
+      surname:
+        content: Volker
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2017-10-23'
+language: en
+script: Latn
+abstract:
+  content: Designing a road lighting installation without the knowledge of the reflective
+    properties of the road surface can lead to incorrect luminance levels and distributions,
+    which in turn may cause lower safety and/or energy efficiency. The standard measurement
+    method to determine the reflective properties of road surfaces, the r-tables,
+    is not required by standards and rarely used. Other, non-destructive in situ measurement
+    methods have not been asserted themselves. Cheap, easy and non-destructive methods
+    are desired. Hence, the authors are investigating a method where luminance image
+    processing is used to calculate reflective properties of street lighting scenes.
+    With the help of a calibrated additional luminaire and several luminance images
+    the reduced luminance coefficients in all relevant points of the measurement field
+    are calculated and interpolated to the standard r-table format. With them, simulations
+    in Radiance are made and compared to other simulations where precise measured
+    r-tables and measurements were available.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

@@ -1,0 +1,107 @@
+---
+id: CIEOP51377-384
+title:
+- type: title-main
+  content: |-
+    CONTRAST AND BRIGHTNESS PERCEPTION OF ILLUMINATION PATTERNS IN PHYSICALLY-BASED RENDERED SCENES
+      (OP51, 377-384)
+  format: text/plain
+- type: main
+  content: |-
+    CONTRAST AND BRIGHTNESS PERCEPTION OF ILLUMINATION PATTERNS IN PHYSICALLY-BASED RENDERED SCENES
+      (OP51, 377-384)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/contrast-and-brightness-perception-of-illumination-patterns-in-physically-based-rendered-scenes-op51-377-384?product_id=2010523
+  type: src
+type: standard
+docid:
+  id: CIE OP51 377-384
+  type: CIE
+date:
+  type: published
+  value: '2017-10-23'
+contributor:
+- person:
+    name:
+      forename:
+        content: Perr
+        language: en
+        script: Latn
+      surname:
+        content: Van de
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: L
+        language: en
+        script: Latn
+      surname:
+        content: e
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: K
+        language: en
+        script: Latn
+      surname:
+        content: Smet
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: M
+        language: en
+        script: Latn
+      surname:
+        content: Dujardin
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: W
+        language: en
+        script: Latn
+      - content: R
+        language: en
+        script: Latn
+      surname:
+        content: Ryckaert
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2017-10-23'
+language: en
+script: Latn
+abstract:
+  content: The impact of systematically varied realistic illumination patterns and
+    intensities on the apparent brightness and contrast of an empty, context-free
+    room is investigated. Along with the apparent brightness, contrast and perceived
+    edge transition sharpness of the resulting lighting distributions visible on the
+    room?s rear wall. Several virtual scenes of an empty room with varying lighting
+    settings were rendered, employing a physical-based rendering engine. In total
+    20 virtual scenes were estimated by each observer (six male and five female) on
+    several visual aspects (brightness, contrast and edge transition sharpness). Observers
+    could estimate room brightness consistently and primarily correlated with average
+    scene luminance (R² = 0.85). Results also show that estimating contrast without
+    any predefined criterium and definition is difficult and resulted in observers
+    adopting different criteria for an indoor lit room.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

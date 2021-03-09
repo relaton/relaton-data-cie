@@ -1,0 +1,79 @@
+---
+id: CIE083-1989
+title:
+- type: title-main
+  content: Guide for the lighting of sports events for colour television and film
+    systems
+  format: text/plain
+- type: main
+  content: Guide for the lighting of sports events for colour television and film
+    systems
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-083-1989?product_id=1210011
+  type: src
+type: standard
+docid:
+- id: CIE 083-1989
+  type: CIE
+- id: '9783900734206'
+  type: ISBN
+date:
+  type: published
+  value: '1989-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '1989-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    The present Guide is an extended and revised edition of CIE 28-1975 The lighting of sports events for colour TV broadcasting.
+
+    The recording, transmission and reproduction of sporting action has expanded rapidly in recent years. The number of different sports covered has increased and indeed many sports have increased in popularity as a result of TV exposure. To a greater extent, also, television and film are operating under artificial lighting: outdoor sports are being played in the evenings under floodlights and more indoor sports are attracting the attention of television.
+
+    The electronic television camera and associated video recording is now the principal medium of the cameraman. This report therefore, concentrates on the lighting requirements for colour television, but indicates where these requirements will differ for film recordings. The aim of this report is to give a broad survey of the technical characteristics of the television and film reproduction process and explain why different lighting levels are needed for different sports and for different camera situations.
+
+    Detailed quantitative guidance is given on the quality aspects to be fulfilled for colour television and colour film coverage of a wide variety of sports events. The quality aspects dealt with are:
+
+        * vertical illuminance level and uniformity,
+        * relation between horizontal and vertical illuminance,
+        * uniformity of horizontal illuminance,
+        * flicker,
+        * colour temperature and colour rendering of the lighting and finally
+        * light level on the surrounding spectators areas.
+
+    As an addition to the present Guide, TC 5-11 is preparing a Technical Report giving a comprehensive guide to the lay-out of sports lighting installations that fulfill the quality requirements specified in the present Publication.
+
+    The present Guide contains 19 pages, 3 figures and 2 tables.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+  type: updates
+  bibitem:
+    id: CIE083-2019
+    title:
+    - type: title-main
+      content: Guide for the Lighting of Sports Events for Colour Television and Film
+        Systems, 3rd Edition
+      format: text/plain
+    - type: main
+      content: Guide for the Lighting of Sports Events for Colour Television and Film
+        Systems, 3rd Edition
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-083-2019?product_id=2043181
+      type: src
+    docid:
+      id: CIE 083:2019
+      type: CIE
+    date:
+      type: published
+      value: '2019-01-01'
+    revdate: '2019-01-01'
+doctype: document

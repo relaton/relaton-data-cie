@@ -1,0 +1,38 @@
+---
+id: CIE237-2020
+title:
+- type: title-main
+  content: Non-Linearity of Optical Detector Systems
+  format: text/plain
+- type: main
+  content: Non-Linearity of Optical Detector Systems
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-237-2020?product_id=2096451
+  type: src
+type: standard
+docid:
+- id: CIE 237:2020
+  type: CIE
+- id: '9783902842633'
+  type: ISBN
+date:
+  type: published
+  value: '2020-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2020-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    CIE 237:2020 gives recommendations for the characterization, selection and application of optical radiation detectors to perform linear measurement conditions. It helps the users to find the causes of non-linear behaviour and to avoid non-linear operation. It discusses detector operating circuits, measurement conditions, detector signal measurements in different modes, and preamplifier measurements. It is shown how to produce a detector system that minimizes measurement uncertainties caused by non-linear operation. Non-linearity test methods and procedures are discussed by which the linearity of detectors and their operating circuits can be determined.
+    The publication is written in English, with a short summary in French and German.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

@@ -1,0 +1,68 @@
+---
+id: CIEPP31681-686
+title:
+- type: title-main
+  content: |-
+    BLH, LEDS AND CCT EQUIVALENT MELANOPIC ILLUMINANCES
+
+     (PP31, 681-686)
+  format: text/plain
+- type: main
+  content: |-
+    BLH, LEDS AND CCT EQUIVALENT MELANOPIC ILLUMINANCES
+
+     (PP31, 681-686)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/blh-leds-and-cct-equivalent-melanopic-illuminances-pp31-681-686?product_id=2011362
+  type: src
+type: standard
+docid:
+  id: CIE PP31 681-686
+  type: CIE
+date:
+  type: published
+  value: '2017-10-23'
+contributor:
+- person:
+    name:
+      initial:
+      - content: L
+        language: en
+        script: Latn
+      - content: L
+        language: en
+        script: Latn
+      - content: A
+        language: en
+        script: Latn
+      surname:
+        content: Price
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2017-10-23'
+language: en
+script: Latn
+abstract:
+  content: The full scope of present and future LED technology should not be conflated
+    with one or more existing LED lighting solutions. Existing LEDs with high Correlated
+    Colour Temperatures (CCTs) will clearly have a higher blue component than those
+    with low CCTs. As blue coloured light has a lower wavelength and higher energy
+    per photon, it is not surprising that high CCTs from any lighting technology would
+    be associated with a higher Blue Light Hazard (BLH) weighted dose rate. However,
+    it does not follow from the existence of high CCT LEDs that all LEDs are phototoxic.
+    This study looks at how appropriate CCT is as an easy-to-communicate substitute
+    for hazard ratios, and compares it against other ?correlated? metrics ? based
+    on CCT but with the s-cone sensitivity replaced with other short wavelength action
+    spectra. The aim is to show that CCT is a much better proxy for BLH-dose rate
+    than technology categories.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

@@ -1,0 +1,67 @@
+---
+id: CIES020/E-2007(ISO30061-2007)
+title:
+- type: title-main
+  content: Emergency Lighting
+  format: text/plain
+- type: main
+  content: Emergency Lighting
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-s-020-e-2007-iso-30061-2007?product_id=1565805
+  type: src
+type: standard
+docid:
+  id: CIE S 020/E:2007 (ISO 30061:2007)
+  type: CIE
+date:
+  type: published
+  value: '2008-06-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2008-06-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    This standard specifies the luminous requirements for emergency lighting systems
+    installed in premises or locations where such systems are required. It is principally
+    applicable to locations where the public or workers have access. The primary
+    objective of emergency lighting is the provision of visual conditions that can alleviate
+    panic and facilitate safer evacuation of buildings' occupants during the failure of
+    normal power supply/lighting, in clear (non-smoke) and smoke filled conditions. The
+    emergency lighting scheme design should be based on worst conditions (e.g.
+    minimum light output, maximum glare limits) of the luminaires during operating life.
+    The requirements given in this standard are a minimum for design purposes and are
+    calculated for the full rated duration period and end of design life of the equipment. A
+    special chapter for smoke is included. Safety signs may also fulfil further functions
+    within maintained operation.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+  type: updates
+  bibitem:
+    id: CIES020/E-2007
+    title:
+    - type: title-main
+      content: Emergency Lighting
+      format: text/plain
+    - type: main
+      content: Emergency Lighting
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-s-020-e-2007?product_id=1321509
+      type: src
+    docid:
+      id: CIE S 020/E:2007
+      type: CIE
+    date:
+      type: published
+      value: '2007-02-01'
+    revdate: '2007-02-01'
+doctype: document

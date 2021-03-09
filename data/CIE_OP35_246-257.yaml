@@ -1,0 +1,96 @@
+---
+id: CIEOP35246-257
+title:
+- type: title-main
+  content: COMPARISON OF LUMINANCE BASED METRICS IN DIFFERENT LIGHTING CONDITIONS
+    (OP35, 246-257)
+  format: text/plain
+- type: main
+  content: COMPARISON OF LUMINANCE BASED METRICS IN DIFFERENT LIGHTING CONDITIONS
+    (OP35, 246-257)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/comparison-of-luminance-based-metrics-in-different-lighting-conditions-op35-246-257?product_id=2010475
+  type: src
+type: standard
+docid:
+  id: CIE OP35 246-257
+  type: CIE
+date:
+  type: published
+  value: '2017-10-23'
+contributor:
+- person:
+    name:
+      initial:
+        content: J
+        language: en
+        script: Latn
+      surname:
+        content: Wienold
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: T
+        language: en
+        script: Latn
+      - content: E
+        language: en
+        script: Latn
+      surname:
+        content: Kuhn
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: J
+        language: en
+        script: Latn
+      surname:
+        content: Christoffersen
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: M
+        language: en
+        script: Latn
+      surname:
+        content: Sarey Khanie
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: M
+        language: en
+        script: Latn
+      surname:
+        content: Andersen
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2017-10-23'
+language: en
+script: Latn
+abstract:
+  content: |-
+    In this study, we evaluate established and newly developed metrics for predicting glare using data from three different research studies. The evaluation covers two different targets: 1. How well the user?s perception of glare magnitude correlates to the prediction of the glare metrics? 2. How well do the glare metrics describe the subjects? disturbance by glare? We applied Spearman correlations, logistic regressions and an accuracy evaluation, based on an ROCanalysis. The results show that five of the twelve investigated metrics are failing at least one of the statistical tests. The other seven metrics CGI, modified DGI, DGP, Ev, average Luminance
+    of the image Lavg, UGP and UGR are passing all statistical tests. DGP, CGI, DGI_mod and UGP have largest AUC and might be slightly more robust. The accuracy of the predictions of afore mentioned seven metrics for the disturbance by glare lies in the range of 75-83% and does not confirm findings from other studies stating a poor performance of existing glare metrics.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

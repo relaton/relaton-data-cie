@@ -1,0 +1,97 @@
+---
+id: CIEOP38277-283
+title:
+- type: title-main
+  content: |-
+    DETERMINATION OF ROAD LIGHTING AUTOMATION STRATEGIES CONSIDERING DRIVING SAFETY BASED ON VISIBILITY CONCEPT
+     (OP38, 277-283)
+  format: text/plain
+- type: main
+  content: |-
+    DETERMINATION OF ROAD LIGHTING AUTOMATION STRATEGIES CONSIDERING DRIVING SAFETY BASED ON VISIBILITY CONCEPT
+     (OP38, 277-283)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/determination-of-road-lighting-automation-strategies-considering-driving-safety-based-on-visibility-concept-op38-277-283?product_id=2010481
+  type: src
+type: standard
+docid:
+  id: CIE OP38 277-283
+  type: CIE
+date:
+  type: published
+  value: '2017-10-23'
+contributor:
+- person:
+    name:
+      initial:
+        content: B
+        language: en
+        script: Latn
+      surname:
+        content: Buyukkinaci
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: S
+        language: en
+        script: Latn
+      surname:
+        content: Onaygil
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: O
+        language: en
+        script: Latn
+      surname:
+        content: Guler
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: M
+        language: en
+        script: Latn
+      - content: B
+        language: en
+        script: Latn
+      surname:
+        content: Yurtseven
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2017-10-23'
+language: en
+script: Latn
+abstract:
+  content: Temperature dependence of LED operation is often not fully considered during
+    the design of solid state lighting products. If temperature dependence is not
+    carefully considered, solidstate lighting products are typically overdesigned
+    to be too robust enough to fulfil the requirements under any possible environmental
+    conditions. Temperature dependent nature of LEDs though, could even be a new benefit
+    if properly considered. Overdesign means designing for the worst case that is
+    the highest possible environmental temperature when LED efficiency/efficacy is
+    low. With a control scheme resulting in constant emitted total luminous flux significant
+    electrical power saving can be achieved since at lower temperatures, due to increasing
+    efficiency/efficacy less electrical power, thus, lower forward current levels
+    are sufficient. We present the new, so called iso-flux control scheme and its
+    implementation in an actual smart luminaire. The actual control scheme was designed
+    with a multi-domain LED model and the results were validated by simulation.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

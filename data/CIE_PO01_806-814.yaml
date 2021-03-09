@@ -1,0 +1,63 @@
+---
+id: CIEPO01806-814
+title:
+- type: title-main
+  content: |-
+    COLOUR DISCRIMINATION MAY BE HUE AGNOSTIC: A PILOT STUDY
+
+      (PO01, 806-814)
+  format: text/plain
+- type: main
+  content: |-
+    COLOUR DISCRIMINATION MAY BE HUE AGNOSTIC: A PILOT STUDY
+
+      (PO01, 806-814)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/colour-discrimination-may-be-hue-agnostic-a-pilot-study-po01-806-814?product_id=2010529
+  type: src
+type: standard
+docid:
+  id: CIE PO01 806-814
+  type: CIE
+date:
+  type: published
+  value: '2017-10-23'
+contributor:
+- person:
+    name:
+      initial:
+        content: T
+        language: en
+        script: Latn
+      surname:
+        content: Esposito
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2017-10-23'
+language: en
+script: Latn
+abstract:
+  content: Past studies have hinted that average colour rendering measures, with a
+    particular focus on average gamut area measures, cannot predict the colour discrimination
+    ability of highly structured spectra. A recent study by Esposito and Houser solidified
+    this fi nding, and showed that a new measure, Rd—an error score based on the light-source
+    induced hue transpositions of the FM-100 hue test—could reliably predict error
+    scores. The current study optimized spectra using Rd (and accompanying sub-indices)
+    to determine if several individual transpositions, each with a different nominal
+    hue, would result in different c olour discrimination ability. The results show
+    that four separate stimuli, each of which transposes one cap at different hue
+    angl es, do not produce statistically different mean error scores. Assuming the
+    FM -100 hue test is indicative of colour discrimination ability and knowing that
+    cap transpositions are a strong predictor of FM - 100 error scores, the results
+    suggest that colour discrimination ability may not differ based on hue.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

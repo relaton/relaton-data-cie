@@ -1,0 +1,86 @@
+---
+id: CIES017/E-2011
+title:
+- type: title-main
+  content: 'ILV: International lighting vocabulary, new'
+  format: text/plain
+- type: main
+  content: 'ILV: International lighting vocabulary, new'
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-s-017-e-2011?product_id=1806007
+  type: src
+type: standard
+docid:
+  id: CIE S 017/E:2011
+  type: CIE
+date:
+  type: published
+  value: '2011-08-18'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2011-08-18'
+language: en
+script: Latn
+abstract:
+  content: |-
+    This new edition of the International Lighting Vocabulary (ILV) is the result of intensive work carried out by the Divisions of the CIE to update, and supplement where necessary, the contents of the previous edition (1987). Many new terms have been added, to reflect changes in technologies and practices, existing terms have been updated as necessary, and obsolete terms have been removed.
+
+    The aim of this edition of the International Lighting Vocabulary is to promote international standardization in the use of quantities, units, symbols and terminology related to the science and art of light and lighting, colour and vision, photobiology and image technology.
+
+    This vocabulary provides the definitions and essential information necessary for the understanding and correct usage of the terms included. It does not give extensive detail or explanations of the application of these terms; such information, relevant for experts in each specialized field, is available in the Technical Reports and Standards produced by the CIE.
+
+    For this new edition it was decided to restructure the vocabulary to a fully alphabetical arrangement (based on the English terms), without any division into sections or sub-sections. This decision was taken in order to simplify the ILV and aid its use.
+
+    The Standard comprises 203 pages and presents the definitions of 1448 terms related to light and lighting.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: CIES017/E-2020
+    title:
+    - type: title-main
+      content: 'ILV: International Lighting Vocabulary, 2nd Edition'
+      format: text/plain
+    - type: main
+      content: 'ILV: International Lighting Vocabulary, 2nd Edition'
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-s-017-e-2020?product_id=2200946
+      type: src
+    docid:
+      id: CIE S 017/E:2020
+      type: CIE
+    date:
+      type: published
+      value: '2020-12-01'
+    revdate: '2020-12-01'
+- type: updates
+  bibitem:
+    id: IEC/CIE017.4-1987
+    title:
+    - type: title-main
+      content: International lighting vocabulary, 4th ed. ***CONTACT ciecb@cie.co.at
+        TO OBTAIN THIS PUBLICATION
+      format: text/plain
+    - type: main
+      content: International lighting vocabulary, 4th ed. ***CONTACT ciecb@cie.co.at
+        TO OBTAIN THIS PUBLICATION
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/iec-cie-017-4-1987?product_id=47660
+      type: src
+    docid:
+      id: IEC/CIE 017.4-1987
+      type: CIE
+    date:
+      type: published
+      value: '1987-01-01'
+    revdate: '1987-01-01'
+doctype: document

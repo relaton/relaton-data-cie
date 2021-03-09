@@ -1,0 +1,65 @@
+---
+id: CIEOP0629-33
+title:
+- type: title-main
+  content: ENHANCING COMFORT, ALERTNESS AND PRODUCTIVITY IN INDOOR WORKING ENVIRONMENTS
+    USING DYNAMIC MULTI-CHANNEL LED LIGHTING SYSTEMS THAT MIMIC DAYLIGHT (OP06, 29-33)
+  format: text/plain
+- type: main
+  content: ENHANCING COMFORT, ALERTNESS AND PRODUCTIVITY IN INDOOR WORKING ENVIRONMENTS
+    USING DYNAMIC MULTI-CHANNEL LED LIGHTING SYSTEMS THAT MIMIC DAYLIGHT (OP06, 29-33)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/enhancing-comfort-alertness-and-productivity-in-indoor-working-environments-using-dynamic-multi-channel-led-lighting-systems-that-mimic-daylight-op06-29-33?product_id=2016201
+  type: src
+type: standard
+docid:
+  id: CIE OP06 29-33
+  type: CIE
+date:
+  type: published
+  value: '2018-05-01'
+contributor:
+- person:
+    name:
+      initial:
+        content: A
+        language: en
+        script: Latn
+      surname:
+        content: Llenas
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: J
+        language: en
+        script: Latn
+      surname:
+        content: Carreras
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2018-05-01'
+language: en
+script: Latn
+abstract:
+  content: In this work, a dynamic multi-channel LED lighting system is used to mimic
+    natural light very precisely. First, we propose a closed-loop feedback control
+    using a colour sensor to compensate for spectral shifts due to temperature changes
+    or wear out of the LEDs. Second, we test the lighting system in a 24/7 working
+    room over 1 year with a CCT-changing sequence designed for critical-task performing.
+    Our results show that a precise control over the emitted spectrum can be achieved
+    providing an unprecedented colour quality and enhancing people's level of satisfaction,
+    comfort and alertness in indoor working environments.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

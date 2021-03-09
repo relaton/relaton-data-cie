@@ -1,0 +1,39 @@
+---
+id: CIE156-2004
+title:
+- type: title-main
+  content: Guidelines for the evaluation of gamut mapping algorithms
+  format: text/plain
+- type: main
+  content: Guidelines for the evaluation of gamut mapping algorithms
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-156-2004?product_id=1210072
+  type: src
+type: standard
+docid:
+- id: CIE 156:2004
+  type: CIE
+- id: '9783901906268'
+  type: ISBN
+date:
+  type: published
+  value: '2004-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2004-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    This technical report provides guidelines for the evaluation of the cross-device and cross-media colour image reproduction performance of gamut mapping algorithms (GMAs). The guidelines cover numerous aspects of GMA evaluation including test images, media, viewing conditions, measurement, gamut boundary calculation, gamut mapping algorithms, colour spaces and experimental method. Also provided are example workflows that show how the general principles are applied and a checklist for determining compliance with the guidelines. The results of GMA evaluation carried out in accordance with these guidelines will then serve as the basis for recommending either one gamut mapping algorithm, or a set of algorithms and rules for use in specific applications.
+
+    The Report is written in English, with a short summary in French and German. It consists of 30 pages with 4 figures and 2 tables.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

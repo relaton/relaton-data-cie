@@ -1,0 +1,53 @@
+---
+id: CIE013.3-1995
+title:
+- type: title-main
+  content: Method of measuring and specifying colour rendering properties of light
+    sources
+  format: text/plain
+- type: main
+  content: Method of measuring and specifying colour rendering properties of light
+    sources
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-013-3-1995?product_id=1209965
+  type: src
+type: standard
+docid:
+- id: CIE 013.3-1995
+  type: CIE
+- id: '9783900734572'
+  type: ISBN
+date:
+  type: published
+  value: '1995-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '1995-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    The CIE recommended in 1965 the procedure of measuring and specifying colour rendering properties of light sources, based on a test colour sample method. This method was updated in 1974 taking the chromatic adaptation shift into account. During the past 20 years several misprints were observed and corrected reprints were published from time to time. CIE 13.3-1995 is the corrected version of CIE 13.2-1974 that has been brought up to date to present spectroradiometric and calculation practice. The technical recommendations have not been changed.
+
+    Two computer programs to calculate the CIE colour rendering indices according to the present publication are available for "DOS"-computers to be run in a DOS or in an "MS-WINDOWS" environment as CIE D008.
+
+    This Technical Report establishes the CIE recommended method of measuring and specifying colour rendering properties of light sources based on resultant colour shifts of test objects, referred to as the "Test-colour Method". It is the fundamental method for appraisal of colour rendering properties of light sources, and is recommended for type testing as well as for testing individual lamps.
+
+    This specification applies to most general purpose illuminants (e.g. tungsten filament lamps, tubular fluorescent lamps, and all other kinds of gaseous discharge electrical lamps except sources of predominantly monochromatic radiation such as low pressure sodium, etc.). This method may also be applied to modified daylight.
+
+    The rating consists of a General Colour Rendering Index which may be supplemented by a set of Special Colour Rendering Indices. The derivation of the Special Colour Rendering Indices is based on a general comparison of the length of colour difference vectors in the CIE 1964 Uniform Space.
+
+    To apply the recommended Test-Colour Method the resultant colour shifts for suitably chosen test-colour samples must be calculated. A set of eight test-colour samples is specified by their spectral radiance factors for calculating the General Colour Rendering Index. These samples cover the hue circle, are moderate in saturation, and are approximately the same in lightness. Data for six additional test-colour samples representing a strong red, yellow, green and blue as well as complexion and foliage colours are also supplied. From the colour shifts, Colour Rendering Indices may be found.
+
+    The Technical Report is written in English, with a short summary in French and German. It contains 20 pages, with 2 tables.
+
+    This Technical Report is based in CIE 13.2-1974.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

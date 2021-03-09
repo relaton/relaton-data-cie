@@ -1,0 +1,67 @@
+---
+id: CIE140-2019
+title:
+- type: title-main
+  content: Road Lighting Calculations
+  format: text/plain
+- type: main
+  content: Road Lighting Calculations
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-140-2019?product_id=2033815
+  type: src
+type: standard
+docid:
+- id: CIE 140:2019
+  type: CIE
+- id: '9783902842565'
+  type: ISBN
+date:
+  type: published
+  value: '2019-02-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2019-02-01'
+language: en
+script: Latn
+abstract:
+  content: CIE 140-2019 is a revision and update of CIE Publication 140-2000 Road
+    Lighting Calculations. It replaces CIE 140-2000. In comparison to the previous
+    edition, clauses in this report are corrected and improved where necessary, taking
+    into account recent CIE publications. Values of luminous intensity are generally
+    not per kilolumen, taking into account LED luminaires. The calculation of the
+    threshold increment (TI) is improved and the previous calculation formula is corrected.
+    The edge illuminance ratio (EIR) is introduced, replacing the surround ratio (SR),
+    previously used. The linear interpolation method is accepted as satisfactory for
+    application both in I-tables as well as r-tables. A new Test Data clause is prepared
+    to provide a standard set of input data for testing purposes together with benchmark
+    results of the calculated lighting quality criteria of road lighting installations.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+  type: updates
+  bibitem:
+    id: CIE140-2000
+    title:
+    - type: title-main
+      content: Road Lighting Calculations (Includes Rev. 2)
+      format: text/plain
+    - type: main
+      content: Road Lighting Calculations (Includes Rev. 2)
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-140-2000?product_id=1210058
+      type: src
+    docid:
+      id: CIE 140-2000
+      type: CIE
+    date:
+      type: published
+      value: '2000-01-01'
+    revdate: '2000-01-01'
+doctype: document

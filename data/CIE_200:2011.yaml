@@ -1,0 +1,39 @@
+---
+id: CIE200-2011
+title:
+- type: title-main
+  content: Supplementary System of Photometry
+  format: text/plain
+- type: main
+  content: Supplementary System of Photometry
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-200-2011?product_id=1812070
+  type: src
+type: standard
+docid:
+- id: CIE 200:2011
+  type: CIE
+- id: '9783902842374'
+  type: ISBN
+date:
+  type: published
+  value: '2011-10-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2011-10-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    The CIE Supplementary System of Photometry, which evaluates lights in terms of comparative brightness relationship at any level, is described. The system introduces the concept of equivalent luminance to describe brightness of a light or an object at any level including mesopic levels. The system develops a photometric model to calculate brightness-related equivalent luminance by using three components of existing photometric and colorimetric quantities (photopic luminance, L, scotopic luminance, L?, and chromatic contribution to brightness, c, i.e. brightness-to-luminance ratio (B/L)) with some weighting factors in their combinations that depend on the adaptation level. The use of the system and an example of calculation are also described. Results of testing the system with experimental brightness matching data are given in an appendix.
+
+    The publication is written in English, with a short summary in French and German. It consists of 21 pages with 5 figures and 1 table
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

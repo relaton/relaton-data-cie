@@ -1,0 +1,135 @@
+---
+id: CIEPP39728-735
+title:
+- type: title-main
+  content: |-
+    BROADBAND DEEP-UV TO BLUE LED MEASUREMENTS
+
+     (PP39, 728-735)
+  format: text/plain
+- type: main
+  content: |-
+    BROADBAND DEEP-UV TO BLUE LED MEASUREMENTS
+
+     (PP39, 728-735)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/broadband-deep-uv-to-blue-led-measurements-pp39-728-735?product_id=2011368
+  type: src
+type: standard
+docid:
+  id: CIE PP39 728-735
+  type: CIE
+date:
+  type: published
+  value: '2017-10-23'
+contributor:
+- person:
+    name:
+      initial:
+      - content: G
+        language: en
+        script: Latn
+      - content: P
+        language: en
+        script: Latn
+      surname:
+        content: Eppeldauer
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: V
+        language: en
+        script: Latn
+      - content: B
+        language: en
+        script: Latn
+      surname:
+        content: Podobedov
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: H
+        language: en
+        script: Latn
+      - content: W
+        language: en
+        script: Latn
+      surname:
+        content: Yoon
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: C
+        language: en
+        script: Latn
+      - content: C
+        language: en
+        script: Latn
+      surname:
+        content: Cooksey
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: C
+        language: en
+        script: Latn
+      - content: C
+        language: en
+        script: Latn
+      surname:
+        content: Miller
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2017-10-23'
+language: en
+script: Latn
+abstract:
+  content: Deep-UV LEDs have low output optical power. For radiometric applications,
+    they need evaluations and selections. Traditional photometric measurements in
+    the blue range have large uncertainties because of the poor realizations of the
+    CIE standard V(•) function in the wings. Pyroelectric radiometers with low noise-equivalent-power
+    (NEP) and flat spectral response have been developed with NIST coordination to
+    solve these LED measurement problems. The relative detector-response was determined
+    from spectral reflectance measurements of the black-coating between 250 nm and
+    800 nm. The new pyroelectric radiometers can be used at the output of regular
+    monochromators and they also can accurately measure the broadband irradiance from
+    deep-UV LEDs. The response of these pyroelectric detectors is an order of magnitude
+    more flat in the UV-VIS range than filtered silicon detectors. The irradiance
+    responsivity of the pyroelectric detector was derived from a silicon-trap-detector
+    in the collimated irradiance of a current and temperature controlled LED of 660
+    nm peak. Using this tie point, the relative response curve of the pyroelectric
+    detector was converted into spectral irradiance responsivity. The deviation of
+    this responsivity function from a constant value was less than +/- 0.2 % between
+    250 nm and 780 nm. This spectral flatness was validated in DC mode against a Si
+    photodiode standard down to 350 nm. To improve the stray light in the UV, the
+    validation was performed using an LED collimator with 368-nm peak at the input
+    of the monochromator as an alternate light-source of the originally used tungsten-halogen
+    lamp. The pyroelectric detector measured the integrated irradiance from deep-UV
+    LEDs with nominal peaks of 265 nm, 275 nm, and 285 nm and from high power LEDs
+    with 365 nm, 400 nm, and 405 nm peaks. Source standards were not needed in these
+    detector-based calibrations. The irradiance measurements were made 40 cm away
+    from the LED sources. The spectral irradiance responsivity uncertainty of the
+    pyroelectric radiometer standard at the tie point was 0.25 % (k=1).
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

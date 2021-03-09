@@ -1,0 +1,53 @@
+---
+id: CIED007-1994
+title:
+- type: title-main
+  content: A method of predicting corresponding colours under different chromatic
+    and illuminance adaptations (Computer program to Publ. CIE 109)
+  format: text/plain
+- type: main
+  content: A method of predicting corresponding colours under different chromatic
+    and illuminance adaptations (Computer program to Publ. CIE 109)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-d007-1994?product_id=1210147
+  type: src
+type: standard
+docid:
+  id: CIE D007-1994
+  type: CIE
+date:
+  type: published
+  value: '1994-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '1994-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    A Computer Program Implementing the "Method of Predicting Corresponding Colours under Different Chromatic and Illuminance Adaptation" described in Publication CIE 109-1994
+
+    To enable easy use of the calculation method described in CIE 109-1994, CIE-CB introduced CIE Disk D007 (Rel. 1.0) working in a DOS environment. Using one of the programs included on this disk you can determine the corresponding colour according to CIE 109-1994 in no time. You can learn more about these programs by reading the following description. CIE Disk D007 can be obtained as CD-ROM to be used in a DOS environment.
+
+    Introduction
+
+    The CIE published its Technical Report CIE 109-1994 A Method of Predicting Corresponding Colours under Different Chromatic and Illuminance Adaptation on chromatic adaptation. The report describes some strait forward, but lengthy calculations to obtain corresponding colours under a reference illuminant compared to the tristimulus values of a colour sample illuminated by a test illuminant. The present disk contains the calculation procedure to perform this colour adaptation transformation both as a WINDOWS application and as an executable file to be run under DOS. The programs CIE109_W.exe and CIE109_D.exe enable the prediction of various effects of chromatic adaptation over a wide range of adapting illuminant and illuminance conditions. The program CIE109_W.exe runs under WINDOWS environment (version 3.0 or higher) and CIE109_D.exe is the same program running under DOS.
+
+    Description of the programs
+
+    These programs are based on the Publication CIE 109-1994. They are using the same notation (during the input and displaying results) and they follow the methods and mode of calculation described in the above mentioned publication elaborated by CIE TC 1-32.
+
+    Applicable adaptation conditions
+
+    The chromatic adaptation transform used in these programs can be applied to predict corresponding colours in the following cases. In case of different test and reference illuminants with equal illuminance, the tristimulus values of the corresponding colour in the reference field are determined by giving the tristimulus values of the test sample in the test field. In case of equal test and reference illuminants with different illuminance, the tristimulus values of the corresponding colour in the reference field are determined by giving the tristimulus values of the test sample in the test field. In the case of different test and reference illuminants with different illuminance, the tristimulus values of the corresponding colour in the reference field are determined by giving the tristimulus values of the test sample in the test field.
+
+    The program is started by selecting the FILE/NEW menu point. The DOS version of the program is able to handle up to 6 different windows which can be selected with the mouse or from the keyboard pressing ALT+windows_number. (This is displayed at the top-right corner of each window) The next step is to select a test illuminant. In the WINDOWS version CIE Standard Illuminant A, C, D50, D55, D65 and D75 can be chosen from the scroll down menu, or a CUSTOM defined illuminant can be chosen. In the latter case the chromaticity coordinates of the test illuminant have to be keyed in manually. Also the test illuminance can be set (pre selected value: 1000 lux). The next step is to select the test sample input format (x, y, Y or X, Y, Z). Decimal point has to bused. The next step is to select the reference illuminant. Similarly to the test illuminant the following reference illuminants are preprogrammed in the WINDOWS version: CIE Standard Illuminant A, C, D50, D55, D65 and D75. In this step also the reference illuminance has to be set (preselected value: 1000 lux). Finally the value for the test and reference background Y0 tristimulus value has to be set (pre selected value: 20 %). If all values are set correctly, the "OK" button is clicked and the result window opens, called 'Nayatani method', after the Chairman of the TC elaborating the method. Here all the input data can be checked once again, together with the "Results", the chromaticity coordinates and Y value of the corresponding colour. The results can be printed (selecting the FILE/PRINT menu point) or saved in a file (FILE/SAVE).
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

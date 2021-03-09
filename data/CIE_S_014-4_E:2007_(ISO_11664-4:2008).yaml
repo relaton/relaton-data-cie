@@ -1,0 +1,104 @@
+---
+id: CIES014-4/E-2007(ISO11664-4-2008)
+title:
+- type: title-main
+  content: Colorimetry
+  format: text/plain
+- type: title-part
+  content: 'Part 4: CIE 1976 L*a*b* Colour Spaces'
+  format: text/plain
+- type: main
+  content: 'Colorimetry - Part 4: CIE 1976 L*a*b* Colour Spaces'
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-s-014-4-e-2007-iso-11664-4-2008?product_id=1601627
+  type: src
+type: standard
+docid:
+  id: CIE S 014-4/E:2007 (ISO 11664-4:2008)
+  type: CIE
+date:
+  type: published
+  value: '2008-12-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2008-12-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    The three-dimensional colour space produced by plotting CIE tristimulus values
+    (X,Y,Z) in rectangular coordinates is not visually uniform, nor is the (x,y,Y) space nor
+    the two-dimensional CIE (x,y) chromaticity diagram. Equal distances in these spaces
+    do not represent equally perceptible differences between colour stimuli. For this
+    reason, in 1976, the CIE introduced and recommended two new spaces (known as
+    CIELAB and CIELUV) whose coordinates are non-linear functions of X, Y and Z. The
+    recommendation was put forward in an attempt to unify the then very diverse practice
+    in uniform colour spaces and associated colour difference formulae. Both these
+    more-nearly uniform colour spaces have become well accepted and widely used.
+    Numerical values representing approximately the magnitude of colour differences
+    can be described by simple Euclidean distances in the spaces or by more
+    sophisticated formulae that improve the correlation with the perceived size of
+    differences.
+
+    The purpose of this CIE Standard is to define procedures for calculating the
+    coordinates of the CIE 1976 L*a*b* (CIELAB) colour space and the Euclidean colour
+    difference values based on these coordinates. The standard does not cover more
+    sophisticated colour difference formulae based on CIELAB, such as the CMC
+    formula, the CIE94 formula, the DIN99 formula, and the CIEDE2000 formula nor
+    does it cover the alternative uniform colour space, CIELUV.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ISO/CIE11664-4-2019
+    title:
+    - type: title-main
+      content: Colorimetry
+      format: text/plain
+    - type: title-part
+      content: 'Part 4: CIE 1976 L*a*b* colour space'
+      format: text/plain
+    - type: main
+      content: 'Colorimetry - Part 4: CIE 1976 L*a*b* colour space'
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/iso-cie-11664-4-2019?product_id=2078733
+      type: src
+    docid:
+      id: ISO/CIE 11664-4:2019
+      type: CIE
+    date:
+      type: published
+      value: '2019-07-01'
+    revdate: '2019-07-01'
+- type: updates
+  bibitem:
+    id: CIES014-4/E2007
+    title:
+    - type: title-main
+      content: Colorimetry
+      format: text/plain
+    - type: title-part
+      content: 'Part 4: CIE 1976 L*a*b* Colour Spaces'
+      format: text/plain
+    - type: main
+      content: 'Colorimetry - Part 4: CIE 1976 L*a*b* Colour Spaces'
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-s-014-4-e2007?product_id=1520488
+      type: src
+    docid:
+      id: CIE S 014-4/E2007
+      type: CIE
+    date:
+      type: published
+      value: '2007-09-01'
+    revdate: '2007-09-01'
+doctype: document

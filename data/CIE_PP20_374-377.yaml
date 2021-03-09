@@ -1,0 +1,96 @@
+---
+id: CIEPP20374-377
+title:
+- type: title-main
+  content: SPECTRALLY VARIABLE SOURCE BASED ON SPATIAL CONTROL OF WHITE-LIGHT BEAM
+    (PP20, 374-377)
+  format: text/plain
+- type: main
+  content: SPECTRALLY VARIABLE SOURCE BASED ON SPATIAL CONTROL OF WHITE-LIGHT BEAM
+    (PP20, 374-377)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/spectrally-variable-source-based-on-spatial-control-of-white-light-beam-pp20-374-377?product_id=2016275
+  type: src
+type: standard
+docid:
+  id: CIE PP20 374-377
+  type: CIE
+date:
+  type: published
+  value: '2018-05-01'
+contributor:
+- person:
+    name:
+      initial:
+      - content: D
+        language: en
+        script: Latn
+      - content: H
+        language: en
+        script: Latn
+      surname:
+        content: Lee
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: S
+        language: en
+        script: Latn
+      surname:
+        content: Park
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: J
+        language: en
+        script: Latn
+      - content: K
+        language: en
+        script: Latn
+      surname:
+        content: Yoo
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: J
+        language: en
+        script: Latn
+      surname:
+        content: Hwang
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2018-05-01'
+language: en
+script: Latn
+abstract:
+  content: We experimentally demonstrate the concept of the spectrally variable source
+    whose spectral distribution can be controlled via spatial transmission pattern.
+    We built a proto-type setup consisting of a super-continuum white-light source,
+    a Powell lens for generation of the lineshape beam, a spatially variable spectral
+    filter for the wavelength-to-position transition, and a transmissive LCD display
+    as the computer-assisted spatial light modulator. The experimental results show
+    the control of spectral distribution in a range from 470 nm to 650 nm via 15 spectral
+    channels with a resolution of approximately 15 nm. The results confirm the feasibility
+    of the concept and indicate technical issues for improvement towards a programmable
+    source generating any arbitrary spectral distribution in the whole visible range,
+    which can be a useful tool for colour and vision experiments.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

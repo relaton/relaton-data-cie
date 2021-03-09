@@ -1,0 +1,105 @@
+---
+id: CIEPO36933-941
+title:
+- type: title-main
+  content: |-
+    UNIFORMITY MEASUREMENT METHOD FOR CURVED DISPLAY USING IMAGE LUMINANCE MEASURING DEVICE
+
+     (PO36, 933-941)
+  format: text/plain
+- type: main
+  content: |-
+    UNIFORMITY MEASUREMENT METHOD FOR CURVED DISPLAY USING IMAGE LUMINANCE MEASURING DEVICE
+
+     (PO36, 933-941)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/uniformity-measurement-method-for-curved-display-using-image-luminance-measuring-device-po36-933-941?product_id=2011172
+  type: src
+type: standard
+docid:
+  id: CIE PO36 933-941
+  type: CIE
+date:
+  type: published
+  value: '2017-10-23'
+contributor:
+- person:
+    name:
+      surname:
+        content: Seo
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: S
+        language: en
+        script: Latn
+      surname:
+        content: Y Cho
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: S
+        language: en
+        script: Latn
+      surname:
+        content: Choi
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: D
+        language: en
+        script: Latn
+      surname:
+        content: Jung
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: K
+        language: en
+        script: Latn
+      surname:
+        content: Choi
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2017-10-23'
+language: en
+script: Latn
+abstract:
+  content: Due to display market diversification, conventional flat panel displays
+    are being developed in curved and flexible. The performance of the display evaluation
+    is evaluated not only by the design elements but also by the functional elements
+    (luminance uniformity, resolution, contrast ratio and chromaticity). In FPD, typically
+    use the point-type 9-point measurement as an international standard. Also in Curved
+    display, IEC-TS-62715 proposes a method of optical axis is fixed and divided into
+    9- spots to evaluate the luminance and uniformity. A curved display is designed
+    to allow the same distance between the viewer and every part of the screen, unlike
+    the conventional flat panel display, the distance from the eyes of the viewer
+    to the center of the screen is the same with that to the sides of the screen.
+    However, the edge of the display is a critical area not only the front surface.
+    It is not a good fit to evaluate this area with spot-type device. In this paper,
+    we propose a method of evaluating curved display uniformity using each pixel luminance
+    value measured by ILMD (image luminance measuring device) which Benchmarked from
+    flat panel display evaluation method from DFF (German Flat panel display forum).
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

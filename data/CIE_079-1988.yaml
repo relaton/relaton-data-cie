@@ -1,0 +1,119 @@
+---
+id: CIE079-1988
+title:
+- type: title-main
+  content: A guide for the design of road traffic lights
+  format: text/plain
+- type: main
+  content: A guide for the design of road traffic lights
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-079-1988?product_id=1210007
+  type: src
+type: standard
+docid:
+- id: CIE 079-1988
+  type: CIE
+- id: '9783900734152'
+  type: ISBN
+date:
+  type: published
+  value: '1988-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '1988-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    This document, drafted in collaboration with the Permanent International Association of Road Congresses (PIARC) is a Guide concerned with photometric and colorimetric matters that are related to the design of road traffic lights. Its main purpose is to provide a basis for relevant national standards and codes of practice, but it should also be of direct use to road traffic authorities and manufacturers of the lights. It is derived from the Technical Report CIE 48-1980 (TC-1.6) Light Signals for Road Traffic Control, which contains the experimental evidence on which the Guide is based. The guide has taken account of more recent findings, but essentially it is supplement to CIE 48-1980.
+
+    The visibility of a signal light depends on many factors, the most important of which are the colour, luminous intensity and luminous intensity distribution of the light. The Guide deals with these factors as well as with various symbols and "cut-out" figures that are used with traffic lights.
+
+    The information given in the Guide is classified at four levels of confidence, which depend upon supporting research or practical experience. These levels are called:
+
+        * Recommendations
+        * Proposals
+        * Advice
+        * Suggestions
+
+    The Guide contains detailed information regarding the colour for traffic lights.
+
+    Current CIE practice is followed, although in some cases restricted chromaticity regions are recommended.
+
+    Details are given in the luminous intensities and the luminous intensity distributions. In most cases, day and night regimes will be required. Additionally, data regarding luminance and uniformity of luminance are given. Remarks are made regarding sun phantom, measurement of lights, screening of lights, the influence of disturbing factors and the standardization of appearance.
+
+    The Guide contains information on a number of particular lights, lights on high speed roads, the size and shape of arrows and their symbols, notably for lights for cyclists and pedestrians, low mounted lights, lane indicators, general warning lights, lights for special purposes, and optically programmed lights.
+
+    The publication contains 23 pages, 4 figures and 3 tables. This document, drafted in collaboration with the Permanent International Association of Road Congresses (PIARC) is a Guide concerned with photometric and colorimetric matters that are related to the design of road traffic lights. Its main purpose is to provide a basis for relevant national standards and codes of practice, but it should also be of direct use to road traffic authorities and manufacturers of the lights. It is derived from the Technical Report CIE 48-1980 (TC-1.6) Light Signals for Road Traffic Control, which contains the experimental evidence on which the Guide is based. The guide has taken account of more recent findings, but essentially it is supplement to CIE 48-1980.
+
+    The visibility of a signal light depends on many factors, the most important of which are the colour, luminous intensity and luminous intensity distribution of the light. The Guide deals with these factors as well as with various symbols and "cut-out" figures that are used with traffic lights.
+
+    The information given in the Guide is classified at four levels of confidence, which depend upon supporting research or practical experience. These levels are called:
+
+        * Recommendations
+        * Proposals
+        * Advice
+        * Suggestions
+
+    The Guide contains detailed information regarding the colour for traffic lights.
+
+    Current CIE practice is followed, although in some cases restricted chromaticity regions are recommended.
+
+    Details are given in the luminous intensities and the luminous intensity distributions. In most cases, day and night regimes will be required. Additionally, data regarding luminance and uniformity of luminance are given. Remarks are made regarding sun phantom, measurement of lights, screening of lights, the influence of disturbing factors and the standardization of appearance.
+
+    The Guide contains information on a number of particular lights, lights on high speed roads, the size and shape of arrows and their symbols, notably for lights for cyclists and pedestrians, low mounted lights, lane indicators, general warning lights, lights for special purposes, and optically programmed lights.
+
+    The publication contains 23 pages, 4 figures and 3 tables.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: CIES006.1/E-1998(ISO16508-1999)
+    title:
+    - type: title-intro
+      content: Road traffic lights
+      format: text/plain
+    - type: title-main
+      content: Photometric properties of 200 mm roundel signals
+      format: text/plain
+    - type: main
+      content: Road traffic lights - Photometric properties of 200 mm roundel signals
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-s-006-1-e-1998-iso-16508-1999?product_id=1210129
+      type: src
+    docid:
+      id: CIE S 006.1/E-1998 (ISO 16508:1999)
+      type: CIE
+    date:
+      type: published
+      value: '1999-01-01'
+    revdate: '1999-01-01'
+- type: updates
+  bibitem:
+    id: CIE048-1980
+    title:
+    - type: title-main
+      content: Light signals for road traffic control
+      format: text/plain
+    - type: main
+      content: Light signals for road traffic control
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-048-1980?product_id=1209980
+      type: src
+    docid:
+      id: CIE 048-1980
+      type: CIE
+    date:
+      type: published
+      value: '1980-01-01'
+    revdate: '1980-01-01'
+doctype: document

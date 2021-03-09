@@ -1,0 +1,41 @@
+---
+id: CIE059-1984
+title:
+- type: title-main
+  content: 'Polarization: Definitions and nomenclature, instrument polarization'
+  format: text/plain
+- type: main
+  content: 'Polarization: Definitions and nomenclature, instrument polarization'
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-059-1984?product_id=1209992
+  type: src
+type: standard
+docid:
+- id: CIE 059-1984
+  type: CIE
+- id: '9789637251061'
+  type: ISBN
+date:
+  type: published
+  value: '1984-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '1984-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    This report reviews the effects of polarization on photometric and other measurements which are of particular relevance to photometry. It should not be regarded as comprehensive with regard to all aspects of polarization. The degree of polarization introduced by an optical system into a beam of light varies with the complexity of the instrument. In general, it is wavelength dependent in a given system. Furthermore, the effect of any polarization on the determination of photometric properties will depend on the actual measurement being undertaken. Thus, although polarization can have a very significant effect on many photometric measurements, it is difficult to quantify this in a generalized way. The report discusses polarization effects in the individual optical components which comprises a complete instrument, including the source and detector.
+
+    Additional information is given on the main properties of polarizers, particularly those relevant to photometry.
+
+    The publication contains 31 pages and 4 tables.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

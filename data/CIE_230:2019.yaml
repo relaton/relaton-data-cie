@@ -1,0 +1,38 @@
+---
+id: CIE230-2019
+title:
+- type: title-main
+  content: Validity of Formulae for Predicting Small Colour Differences
+  format: text/plain
+- type: main
+  content: Validity of Formulae for Predicting Small Colour Differences
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-230-2019?product_id=2033251
+  type: src
+type: standard
+docid:
+- id: CIE 230:2019
+  type: CIE
+- id: '9783902842114'
+  type: ISBN
+date:
+  type: published
+  value: '2019-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2019-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    CIE 230:2019 reports on the performance of colour-difference formulae based on the results of experiments to evaluate colour differences visually. The report addresses small colour differences of adjacent colours. Visual responses (V) are compared with calculated colour differences (E) using five colour-difference formulae: CIELAB, CMC, LABJND, CIE94, and CIEDE2000. A power-function (PF) correction is also included. Using the STRESS index, the performances of the colour-difference formulae are tested without and with the PF correction.
+    In addition to the COM dataset used for the development of CIEDE2000, nine new datasets (with particular emphasis on colour differences below 2 CIELAB units) are included in this study. The datasets can be downloaded from the CIE server. In comparison to the original CIEDE2000 formula with no power-function correction, the CIEDE2000 formula with power-function correction (CIEDE2000_PF) gave the better overall performance. For that reason this report recommends the use of CIEDE2000_PF to predict colour differences within the range 0,0 to 5,0 CIELAB units. The LABJND colour-difference formula with power-function correction (LABJND_PF) gives also good results for visual datasets with average colour differences below 1,0 CIELAB units. The members of TC 1-81 urge for more research and further datasets in addition to the three VTCD datasets used in this report.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

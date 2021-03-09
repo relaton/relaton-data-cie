@@ -1,0 +1,69 @@
+---
+id: CIE064-1984
+title:
+- type: title-main
+  content: Determination of the spectral responsivity of optical radiation detectors
+  format: text/plain
+- type: main
+  content: Determination of the spectral responsivity of optical radiation detectors
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-064-1984?product_id=1209996
+  type: src
+type: standard
+docid:
+- id: CIE 064-1984
+  type: CIE
+- id: '9789637251245'
+  type: ISBN
+date:
+  type: published
+  value: '1984-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '1984-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    This Technical Report outlines procedures for determining the spectral responsivity function of photodetectors. It contains two parts:
+
+       1. Determination of the relative spectral responsivity function
+
+          Various methods are presented and instrumental details are discussed. Sources of errors are listed together with diagnostic tests and proposals for remedial action.
+       2. Absolute calibration
+
+          Three different methods are presented for transforming relative spectral data into absolute values.
+
+    The report is intended to serve as a guide in assembling, testing, or modifying new or existing instruments. Its purpose is to describe options in the development of instrumentation, not to present solutions for individual cases.
+
+    The report consists of 73 pages and 10 figures.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+  type: updates
+  bibitem:
+    id: CIE202-2011
+    title:
+    - type: title-main
+      content: Spectral Responsivity Measurement of Detectors, Radiometers and Photometers
+      format: text/plain
+    - type: main
+      content: Spectral Responsivity Measurement of Detectors, Radiometers and Photometers
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-202-2011?product_id=1820326
+      type: src
+    docid:
+      id: CIE 202:2011
+      type: CIE
+    date:
+      type: published
+      value: '2011-12-01'
+    revdate: '2011-12-01'
+doctype: document

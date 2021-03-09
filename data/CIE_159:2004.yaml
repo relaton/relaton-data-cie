@@ -1,0 +1,41 @@
+---
+id: CIE159-2004
+title:
+- type: title-main
+  content: 'A colour appearance model for colour management systems: CIECAM02'
+  format: text/plain
+- type: main
+  content: 'A colour appearance model for colour management systems: CIECAM02'
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-159-2004?product_id=1210075
+  type: src
+type: standard
+docid:
+- id: CIE 159:2004
+  type: CIE
+- id: '9783901906299'
+  type: ISBN
+date:
+  type: published
+  value: '2004-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2004-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    A colour appearance model provides a viewing condition specific method for transforming tristimulus values to and/or from perceptual attribute correlates. This document outlines a specific colour appearance model, CIECAM02, which may be useful for colour management applications. This model is based on CIECAM97s colour appearance model and consists of a chromatic adaptation transform and equations for computing a set of perceptual attribute correlates. The evolution and application of this colour appearance model are presented.
+
+    This report replaces CIE 131-1998, The CIE 1997 interim colour appearance model (simple version) CIECAM97s.
+
+    The Report is written in English, with a short summary in French and German. It consists of 22 pages with 1 figure and 7 tables.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

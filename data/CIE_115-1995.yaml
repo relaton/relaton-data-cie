@@ -1,0 +1,88 @@
+---
+id: CIE115-1995
+title:
+- type: title-main
+  content: Recommendations for the lighting of roads for motor and pedestrian traffic
+  format: text/plain
+- type: main
+  content: Recommendations for the lighting of roads for motor and pedestrian traffic
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-115-1995?product_id=1210038
+  type: src
+type: standard
+docid:
+- id: CIE 115-1995
+  type: CIE
+- id: '9783900734596'
+  type: ISBN
+date:
+  type: published
+  value: '1995-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '1995-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    The purpose of this report is to update CIE 12.2, Recommendations for the lighting of roads for motorized traffic and to add recommendations for the lighting of conflict areas and roads frequented by pedestrians and other users.
+
+    CIE 12.2 was issued in 1977 and since that time much experience, worldwide, has been gained in the application of the luminance concept for the lighting of roads for motor traffic. This experience is reflected in this revision. Conflict areas, where there is an increased potential for accidents to occur, are given detailed treatment. A classification system for these areas is introduced and recommendations are made in terms of the luminance of the road surface, but alternative recommendations in terms of illuminance on the road are given for applications where it is impracticable to use the luminance concept.
+
+    Recommendations for the lighting of pedestrian areas are given in terms of illuminance and to aid selection of the appropriate level a classification system for these areas is introduced.
+
+    Two relatively new concepts, those of Small Target Visibility and semi-cylindrical Illuminance, are discussed.
+
+    In conformity with the most recent CIE practice, recommendations are based on maintained lighting levels and lighting quality. In essence this implies that performance must not fall below the prescribed limits, which are minima, for the life of the installation.
+
+    The Technical Report is written in English, with a short summary in French and German. It contains 25 pages and 7 tables.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: CIE115-2010
+    title:
+    - type: title-main
+      content: Lighting of Roads for Motor and Pedestrian Traffic
+      format: text/plain
+    - type: main
+      content: Lighting of Roads for Motor and Pedestrian Traffic
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-115-2010?product_id=1724306
+      type: src
+    docid:
+      id: CIE 115:2010
+      type: CIE
+    date:
+      type: published
+      value: '2010-07-01'
+    revdate: '2010-07-01'
+- type: updates
+  bibitem:
+    id: CIE023-1973
+    title:
+    - type: title-main
+      content: International recommendations for motorway lighting
+      format: text/plain
+    - type: main
+      content: International recommendations for motorway lighting
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-023-1973?product_id=1210137
+      type: src
+    docid:
+      id: CIE 023-1973
+      type: CIE
+    date:
+      type: published
+      value: '1973-01-01'
+    revdate: '1973-01-01'
+doctype: document

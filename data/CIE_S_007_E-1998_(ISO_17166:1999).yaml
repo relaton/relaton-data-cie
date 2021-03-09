@@ -1,0 +1,68 @@
+---
+id: CIES007/E-1998(ISO17166-1999)
+title:
+- type: title-main
+  content: Erythema reference action spectrum and standard erythema dose
+  format: text/plain
+- type: main
+  content: Erythema reference action spectrum and standard erythema dose
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-s-007-e-1998-iso-17166-1999?product_id=1210085
+  type: src
+type: standard
+docid:
+  id: CIE S 007/E-1998 (ISO 17166:1999)
+  type: CIE
+date:
+  type: published
+  value: '1999-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '1999-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    The CIE undertook a major review of its official recommendations on photobiological effects, their dose relationships and measurement. Based on these investigations the present standard describes present day knowledge of the erythemal effect.
+
+    The problem of dosimetry in skin photobiology lies in the fact that the ability of ultraviolet (UV) radiation to elicit erythema in human skin depends strongly on wavelength, encompassing a range of four orders of magnitude between 250 nm and 400 nm. Thus a statement that a subject received an exposure dose of 1 J. cm -2 (10 4J. m -2) of UV radiation conveys nothing about the consequences of that exposure in terms of erythema. If the radiation source was a UVA fluorescent lamp, no erythemal response would be seen apart from in people exhibiting severe, abnormal pathological photosensitivity. The same dose delivered from an unfiltered mercury arc lamp or fluorescent sun-lamp would result in marked violaceous erythema in most white skinned individuals. Consequently, photobiologists have long recognised the need to express the exposure as an erythemally-weighted quantity.
+
+    Recently the term minimal erythema dose (MED) has been used widely as a 'measure' of erythemal radiation. This is unreasonable because the MED is not a standard measure of anything but, on the contrary, encompasses the variable nature of individual sensitivity to ultraviolet radiation. Variables which affect the MED include optical and radiometric characteristics of the source; determinants of the exposure such as dose increment and field size; nature of the skin such as pigmentation, previous light exposure, and anatomical site; and observational factors such as definition of the end point, time of reading after exposure, and ambient illumination.
+
+    To avoid further confusing misuse of the term MED, we propose that this term be reserved solely for observational studies in humans and other animals, and that a new term, the standard erythema dose (SED) be used as a standardized measure of erythemogenic UV radiation.
+
+    This Standard specifies the erythema reference action spectrum s er (lambda), and the Standard Erythema Dose.
+
+    This Standard has been approved by the CIE and supersedes the recommendations made in Publication CIE 106/4 - 1993 (reprint from CIE-Journal 6/1 17-22 1987) A reference action spectrum for ultraviolet induced erythema in human skin. It has been approved by ISO as a joint ISO/CIE standard.
+
+    This Standard may be obtained from the CIE National Committees or the Central Bureau of the CIE. A French (ISO 17166:1999/CIE S007/F-1998) and a German (CIE S007/G-1998) version is also available.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+  type: updates
+  bibitem:
+    id: ISO/CIE17166-2019
+    title:
+    - type: title-main
+      content: Erythema reference action spectrum and standard erythema dose
+      format: text/plain
+    - type: main
+      content: Erythema reference action spectrum and standard erythema dose
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/iso-cie-17166-2019?product_id=2078724
+      type: src
+    docid:
+      id: ISO/CIE 17166:2019
+      type: CIE
+    date:
+      type: published
+      value: '2019-05-01'
+    revdate: '2019-05-01'
+doctype: document

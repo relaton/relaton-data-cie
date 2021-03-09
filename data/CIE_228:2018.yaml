@@ -1,0 +1,42 @@
+---
+id: CIE228-2018
+title:
+- type: title-main
+  content: Grey-Scale Calculation for Self-Luminous Devices
+  format: text/plain
+- type: main
+  content: Grey-Scale Calculation for Self-Luminous Devices
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-228-2018?product_id=2008609
+  type: src
+type: standard
+docid:
+- id: CIE 228:2018
+  type: CIE
+- id: '9783901906978'
+  type: ISBN
+date:
+  type: published
+  value: '2018-03-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2018-03-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    Contemporary colour media, to which a self-luminous grey (or more generally, neutral) scale would apply, include light emitting diode (LED) displays and liquid crystal displays (LCD). Every colour-difference calculation has a neutral or achromatic component. In stand-alone mode, this neutral scale can be used to calculate barely-visible threshold changes in luminance, equal-appearing suprathreshold steps of grey scale, matching grey appearance or conspicuousness of grey targets during visual search. CIE lightness, L*, as part of the CIELAB and CIELUV colour spaces, was developed to serve similar purposes for reflective materials, and it was adapted in 1983 for use with cathode-ray tube (CRT) displays. Self-luminous devices such as computer displays, wide-area luminaires (when used not for lighting but for artistic or information purposes), advertising media, signage, safety lights, scientific and medical displays, avionics and heads-up displays, often exhibit high luminance, high spatial resolution and high contrast that require a self-luminous neutral scale. A self-luminous neutral scale does not require specification of a reference white; instead it is a function of the background luminance of the visual target, thus the scale has no upper limit. Because the self-luminous neutral scale can involve high contrast over a small visual subtense, it accounts for intraocular scattering. Finally, a self-luminous neutral scale enables the calculation of colour differences (e.g. CIELAB, CIEDE2000, or OSA-UCS) between self-luminous image segments, including consideration of a neutral point. This report recommends a method to calculate a self-luminous neutral scale fulfilling these requirements. The report also refers to applications, for which the recommended calculation could be improved:
+
+     for mesopic light levels (e.g. cinema and video);
+     to calculate effects of any particular visual subtense and shape of contrasts;
+     to reflect the effects of stimulus geometry (e.g. comparison of adjoining fields versus separated fields);
+     to incorporate post-retinal effects (e.g. due to visual cortical computations, such as the white point), and highlights in the surround not adjoining the visual target.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

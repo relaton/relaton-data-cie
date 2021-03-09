@@ -1,0 +1,41 @@
+---
+id: CIE223-2017
+title:
+- type: title-main
+  content: Multispectral Image Formats
+  format: text/plain
+- type: main
+  content: Multispectral Image Formats
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-223-2017?product_id=1944738
+  type: src
+type: standard
+docid:
+- id: CIE 223:2017
+  type: CIE
+- id: '9783902842107'
+  type: ISBN
+date:
+  type: published
+  value: '2017-02-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2017-02-01'
+language: en
+script: Latn
+abstract:
+  content: 'This technical report describes the basic model of multispectral imaging
+    technology followed by the requirements and the examples of multispectral image
+    formats suitable for colour imaging applications. Four example formats are introduced
+    and compared in typical use cases: JPEG 2000, Spectral Binary File Format, Natural
+    Vision, and multispectral image file format AIX. The specifications of those formats
+    except for JPEG 2000 are provided in the Annex.'
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

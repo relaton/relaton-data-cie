@@ -1,0 +1,61 @@
+---
+id: CIE185-2009
+title:
+- type: title-main
+  content: Reappraisal of Colour Matching and Grassmann's Laws
+  format: text/plain
+- type: main
+  content: Reappraisal of Colour Matching and Grassmann's Laws
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-185-2009?product_id=1659806
+  type: src
+type: standard
+docid:
+- id: CIE 185:2009
+  type: CIE
+- id: '9783901906787'
+  type: ISBN
+date:
+  type: published
+  value: '2009-12-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2009-12-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    The laws of additivity and proportionality of colour matches, Grassmann's
+    laws, are the basis of all colour theory, but are not axiomatically true. The
+    extent of departure of human vision from Grassmann's laws has been
+    periodically examined. One exploration, by W. A. Thornton, found
+    considerable failure of transformability of primaries - a symptom of
+    Grassmann additivity failure. In the 14 years since Thornton's finding, several
+    groups have formed to replicate and understand Thornton's results and the
+    limitations of Grassmann's laws. CIE TC 1-56 is the latest of these. During the
+    ten years of this committee's existence, statistical simulations indicated that
+    replicate matches by the same observer (not present in Thornton's data) are
+    required to suppress random errors, and accordingly three laboratories
+    generated intra-observer matching results in three different luminance
+    domains. Two of the studies, respectively conducted at 300 cd*m-2 and
+    30 cd*m-2, confirm Grassmann additivity, but the third study shows failure of
+    additivity at 3 cd*m-2. In addition, Maxwell and maximum-saturation colour
+    matches have long been known to be inconsistent even at high luminance
+    levels and with intra-observer match replication to suppress noise. A practical
+    consequence of the failure of additivity could be problems observed in crossmedia
+    colour matching, although cross-media studies also have other well
+    known sources of imprecision when the colour-matching is asymmetric. Some
+    suggestions are made for a covering theory of Grassmann's laws that might
+    accommodate both Maxwell and maximum-saturation match data while still
+    maintaining consistency with high-luminance success in experiments such as
+    reported recently. Further investigations are indicated for a successor to TC 1-
+    56.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

@@ -1,0 +1,38 @@
+---
+id: CIE238-2020
+title:
+- type: title-main
+  content: Characterization of AC-Driven LEDs for SSL Applications
+  format: text/plain
+- type: main
+  content: Characterization of AC-Driven LEDs for SSL Applications
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-238-2020?product_id=2106335
+  type: src
+type: standard
+docid:
+- id: CIE 238:2020
+  type: CIE
+- id: '9783902842640'
+  type: ISBN
+date:
+  type: published
+  value: '2020-03-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2020-03-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    AC-driven LEDs (AC LEDs) operate on AC power and may be connected directly to a mains supply without the need of any electronics (e.g. LED drivers or control gears) for converting AC power to a constant direct current. Similar to DC-driven LEDs (DC LEDs), accurate measurements of AC LEDs are also difficult due to the high sensitivity of optical and electrical properties of LEDs to their thermal and operating conditions. In addition, forward voltage, current, and junction temperature of an AC LED change rapidly, which makes measurements even more difficult.
+    CIE 238:2020 provides guidance for optical measurements of AC LEDs, performed at testing laboratories with emphasis on reproducibility and small measurement uncertainties by accurately setting and controlling the junction temperature. The report includes measurement methods, instrumentation, and procedures. The measurement methods and procedures used for optical measurement of AC LEDs are based on a specified junction temperature using either single AC cycle operation or continuous AC operation.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

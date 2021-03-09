@@ -1,0 +1,105 @@
+---
+id: CIES014-1/E-2006/ISO10527-2007(E)
+title:
+- type: title-main
+  content: CIE Standard Colorimetric Observers
+  format: text/plain
+- type: main
+  content: CIE Standard Colorimetric Observers
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-s-014-1-e-2006-iso-10527-2007-e?product_id=1529645
+  type: src
+type: standard
+docid:
+  id: CIE S 014-1/E:2006 / ISO 10527:2007 (E)
+  type: CIE
+date:
+  type: published
+  value: '2007-12-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2007-12-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    This CIE Standard replaces ISO/CIE 10527:1991. This Standard contains only minor
+    changes from the previous Standard, it has now been clarified that the values of the
+    colour matching functions apply for standard air to make the Standard conform to
+    other CIE photometric and colorimetric data.
+    Colours with different spectral compositions can look alike. An important
+    function of colorimetry is to determine whether a pair of such metameric colours will
+    look alike. It has long been the practice in colorimetry to make use of sets of colourmatching
+    functions to calculate tristimulus values for colours: equality of tristimulus
+    values for a pair of colours indicates that the colour appearances of the two colours
+    match, when they are viewed in the same conditions by an observer for whom the
+    colour-matching functions apply. The use of standard sets of colour-matching
+    functions makes the comparison of tristimulus values obtained at different times and
+    locations possible.
+    This International Standard specifies colour-matching functions for use in
+    colorimetry. Two sets of colour-matching functions are specified:
+    Colour-matching functions for the CIE 1931 standard colorimetric observer
+    This set of colour-matching functions is representative of the colour-matching
+    properties of observers with normal colour vision for visual field sizes of angular
+    subtense from about 1° to about 4°, for vision at photopic levels of adaptation.
+    Colour-matching functions for the CIE 1964 supplementary standard colorimetric
+    observer.
+    This set of colour-matching functions is representative of the colour-matching
+    properties of observers with normal colour vision for visual field sizes of angular
+    subtense greater than about 4°, for vision at sufficiently high photopic levels
+    and with spectral power distributions such that no participation of the rod
+    receptors of the retina is to be expected. The values in the tables of the colour matching functions and chromaticity coordinates of the CIE 1931 and 1964 standard colorimetric observers are identical
+    with those in the previous standard.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: ISO/CIE11664-1-2019
+    title:
+    - type: title-main
+      content: Colorimetry
+      format: text/plain
+    - type: title-part
+      content: 'Part 1: CIE standard colorimetric observers'
+      format: text/plain
+    - type: main
+      content: 'Colorimetry - Part 1: CIE standard colorimetric observers'
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/iso-cie-11664-1-2019?product_id=2078731
+      type: src
+    docid:
+      id: ISO/CIE 11664-1:2019
+      type: CIE
+    date:
+      type: published
+      value: '2019-07-01'
+    revdate: '2019-07-01'
+- type: updates
+  bibitem:
+    id: CIES014-1/E-2006(ISO11664-1-2007)
+    title:
+    - type: title-main
+      content: CIE Standard Colorimetric Observers
+      format: text/plain
+    - type: main
+      content: CIE Standard Colorimetric Observers
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-s-014-1-e-2006-iso-11664-1-2007?product_id=1601625
+      type: src
+    docid:
+      id: CIE S 014-1/E:2006 (ISO 11664-1:2007)
+      type: CIE
+    date:
+      type: published
+      value: '2008-12-01'
+    revdate: '2008-12-01'
+doctype: document

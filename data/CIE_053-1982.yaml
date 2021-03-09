@@ -1,0 +1,65 @@
+---
+id: CIE053-1982
+title:
+- type: title-main
+  content: Methods of characterizing the performance of radiometers and photometers
+  format: text/plain
+- type: main
+  content: Methods of characterizing the performance of radiometers and photometers
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-053-1982?product_id=1210131
+  type: src
+type: standard
+docid:
+- id: CIE 053-1982
+  type: CIE
+- id: '9789290340539'
+  type: ISBN
+date:
+  type: published
+  value: '1982-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '1982-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    Procedures are outlined for characterizing the performance of radiometers, with special attention to photometers. Quantitative methods are given for evaluating the most important errors. These include:
+
+        * systematic calibration errors;
+        * errors caused by non-standard spectral response;
+        * non-standard spatial evaluation of
+            --irradiance (illuminance),
+            --spherical irradiance (illuminance),
+            --cylindrical irradiance (illuminance) or
+              --radiance (luminance);
+        * non-linearity;
+        * fatigue;
+        * temperature coefficient.
+
+    Ways of judging the significance of less important aspects are suggested. These include:
+
+        * reading error;
+        * effect of modulated radiation;
+        * influence of polarization;
+        * non-uniform response;
+        * detector instability;
+        * zero drift.
+
+    The report deals with general problems of evaluation of photometric and radiometric instruments. Numerical requirements for individual types of instruments in later reports are not included.
+
+    The report includes tables of the relative spectral distributions of five special sources that can be used to estimate the quality of the V(lambda) correction of photometer heads.
+
+    This Technical Report has been supplemented by CIE 69-1987 Methods of Characterizing Illuminance Meters and Luminance Meters.
+
+    The report consists of 30 pages, 3 figures and 1 table.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

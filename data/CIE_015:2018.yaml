@@ -1,0 +1,70 @@
+---
+id: CIE015-2018
+title:
+- type: title-main
+  content: Colorimetry, 4th edition
+  format: text/plain
+- type: main
+  content: Colorimetry, 4th edition
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-015-2018?product_id=2025773
+  type: src
+type: standard
+docid:
+- id: CIE 015:2018
+  type: CIE
+- id: '9783902842138'
+  type: ISBN
+date:
+  type: published
+  value: '2018-10-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+edition: '4'
+revdate: '2018-10-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    This publication provides the recommendations of the CIE concerning colorimetry. Specifically, it includes the use of the standard colorimetric observers and standard illuminants, the reference standard for reflectance, the illuminating and viewing conditions, the calculation of tristimulus values, chromaticity coordinates, colour space coordinates and colour differences and various other colorimetric practices and formulae.
+
+    As a new feature, the publication also includes further details of advanced colorimetry, including colour appearance models, and new findings on cone-fundamental-based tristimulus functions, with appropriate references to other CIE publications. Additionally, new illuminants for different LED types are introduced.
+
+    Tables of the data used in this report are made electronically available for purchasers of this publication via website addresses listed in the document. (the respective addresses can be found in in Clauses 3.3 (page 6) and 11 (page 42)).
+    This publication is consistent with the fundamental data and procedures described in the CIE International Standards on colorimetry.
+
+    For further details of some of the phenomena discussed in the document the reader is directed to the appropriate CIE Technical Reports.
+
+    This report replaces CIE 15:2004 "Colorimetry, 3rd Edition".
+
+    The publication is written in English, with a short summary in French and German. It consists of 111 pages with one figure and 26 tables.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+  type: updates
+  bibitem:
+    id: CIE015-2004
+    title:
+    - type: title-main
+      content: Colorimetry, 3rd edition
+      format: text/plain
+    - type: main
+      content: Colorimetry, 3rd edition
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-015-2004?product_id=1210118
+      type: src
+    docid:
+      id: CIE 015:2004
+      type: CIE
+    date:
+      type: published
+      value: '2004-01-01'
+    revdate: '2004-01-01'
+doctype: document

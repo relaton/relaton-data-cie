@@ -1,0 +1,128 @@
+---
+id: CIEPP14564-568
+title:
+- type: title-main
+  content: |-
+    STUDY ON THE POSSIBIALITY OF LED FILAMENT LAMP AS PHOTOMETRIC STANDARD
+
+     (PP14, 564-568)
+  format: text/plain
+- type: main
+  content: |-
+    STUDY ON THE POSSIBIALITY OF LED FILAMENT LAMP AS PHOTOMETRIC STANDARD
+
+     (PP14, 564-568)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/study-on-the-possibiality-of-led-filament-lamp-as-photometric-standard-pp14-564-568?product_id=2011270
+  type: src
+type: standard
+docid:
+  id: CIE PP14 564-568
+  type: CIE
+date:
+  type: published
+  value: '2017-10-23'
+contributor:
+- person:
+    name:
+      initial:
+        content: H
+        language: en
+        script: Latn
+      surname:
+        content: Liu
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: J
+        language: en
+        script: Latn
+      surname:
+        content: Liu
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: W
+        language: en
+        script: Latn
+      - content: Q
+        language: en
+        script: Latn
+      surname:
+        content: Zhao
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: Y
+        language: en
+        script: Latn
+      - content: D
+        language: en
+        script: Latn
+      surname:
+        content: Lin
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: Y
+        language: en
+        script: Latn
+      surname:
+        content: Su
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: L
+        language: en
+        script: Latn
+      surname:
+        content: Jiang
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: J
+        language: en
+        script: Latn
+      - content: Y
+        language: en
+        script: Latn
+      surname:
+        content: Yan
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2017-10-23'
+language: en
+script: Latn
+abstract:
+  content: |-
+    The current photometric measurement system is based on CIE standard illuminant A (i.e. incandescent lamps), but LED is widely used to instead of incandescent lamp, in the future most of our measurement object will be LED. LED-based standard lamp could short the calibration chain as well as greatly reduce the uncertainty related to spectra deviation. Three LED filament lamps with different colour temperature were used as standard lamp to calibrate the spectroradiometer, and then divers LED lamps were measured, to compare with the incandescent base method, the difference of luminous flux is less than 0.3%, which is inside
+    the range of uncertainty. The repeatability and storage character of LED filament lamp was investigated as well. This study shows LED based lamp could substitute the incandescent lamp as luminous flux and spectral transferring standard for typical white LED measurement.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

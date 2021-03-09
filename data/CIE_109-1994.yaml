@@ -1,0 +1,49 @@
+---
+id: CIE109-1994
+title:
+- type: title-main
+  content: A method of predicting corresponding colours under different chromatic
+    and illuminance adaptations
+  format: text/plain
+- type: main
+  content: A method of predicting corresponding colours under different chromatic
+    and illuminance adaptations
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-109-1994?product_id=1210031
+  type: src
+type: standard
+docid:
+- id: CIE 109-1994
+  type: CIE
+- id: '9783900734510'
+  type: ISBN
+date:
+  type: published
+  value: '1994-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '1994-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    The technical report CIE 109-1994 describes a method for predicting various effects of chromatic adaptation over a wide range of adapting illuminant and illuminance conditions. These effects are estimated using corresponding colours.
+
+    The computational procedure and applicable conditions are also included. The method should only be used for object colour samples. This method was previously proposed for study by the CIE in 1986 and is presented here with the purpose of incorporating recent extensions. In addition, the procedures are given for excluding systematic errors found in the experimental determinations of corresponding colours.
+
+    The corresponding colours are defined as a pair of samples that would elicit the same colour appearance when one sample is viewed under one illumination condition, and the other under a different illumination condition; corresponding colours are always expressed in terms of two sets of tristimulus values. This is an asymmetric colour matching situation, where "asymmetry" is caused by different illumination conditions. The mathematical model for predicting the corresponding colours is known as a chromatic adaptation transform.
+
+    The present method is not a CIE recommendation. It is always to be expected that the method reported by the CIE will be tested by future observation, experimentation, and theoretical study. The chromatic adaptation transform presented in this report will also be tested by future studies, including those since 1986.
+
+    This technical report contains 18 pages, with 3 figures and 2 tables. At the time of publishing above technical report, CIE-CB publishes two computer programs for personal computers running under DOS or MS-WINDOWS* on its disk D007 Rel. 1.0-1994. Both versions of the program enable the calculation of the corresponding colour. The test and reference illuminant chromaticities and illuminances as well as the luminance factor of the background can be user-defined.
+
+    D007 is available as 3,5" or a CD-ROM, to be used under DOS/WINDOWS operating system.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

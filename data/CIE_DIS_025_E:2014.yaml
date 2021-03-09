@@ -1,0 +1,43 @@
+---
+id: CIEDIS025/E-2014
+title:
+- type: title-main
+  content: Test Method for LED Lamps, LED Luminaires and LED Modules
+  format: text/plain
+- type: main
+  content: Test Method for LED Lamps, LED Luminaires and LED Modules
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-dis-025-e-2014?product_id=1883425
+  type: src
+type: standard
+docid:
+  id: CIE DIS 025/E:2014
+  type: CIE
+date:
+  type: published
+  value: '2014-09-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2014-09-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    This standard provides requirements to perform reproducible photometric and colorimetric measurements on LED lamps, LED modules, and LED luminaires (LED devices). It also provides advice for the reporting of the data. The availability of reliable and accurate photometric data for LED devices is a basic requirement for designing good lighting systems and evaluating performance of products. By obtaining these data through measurements in specific normalized measuring conditions, the consistency of the data should be ensured between different laboratories (within the limits of the declared measurement uncertainty) and comparison of different products on the same basis is possible.
+
+    The standard specifies the requirements for measurement of electrical, photometric, and colorimetric quantities of LED lamps, LED modules and LED luminaires, for operation with AC or DC supply voltages, possibly with associated LED control gear. LED light engines are assimilated to LED modules and handled accordingly. Photometric and colorimetric quantities covered in this standard include total luminous flux, luminous efficacy, partial luminous flux, luminous intensity distribution, centre-beam intensity, luminance and luminance distribution, chromaticity coordinates, correlated colour temperature (CCT), colour rendering index (CRI), and angular colour uniformity. This standard does not cover LED packages and products based on OLEDs (organic LEDs).
+
+    The standard aims in particular to cover measurement methods for testing the compliance of LED devices with the photometric and colorimetric requirements of LED performance standards issued by IEC TC 34 "Lamps and related equipment".
+
+    As LED devices offer a large variety of configurations in respect to geometry and/or colour, the photometric and colorimetric performances are considered individually for each configuration.
+
+    The Draft International Standard has been sent to CIE National Committees for comments and sales to interested parties. It is still subject to changes and may not yet be referred to as a CIE International Standard. When approved by the CIE NCs, it will be published as a CIE International Standard.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

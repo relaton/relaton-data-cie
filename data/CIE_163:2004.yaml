@@ -1,0 +1,39 @@
+---
+id: CIE163-2004
+title:
+- type: title-main
+  content: The effects of fluorescence in the characterization of imaging media
+  format: text/plain
+- type: main
+  content: The effects of fluorescence in the characterization of imaging media
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-163-2004?product_id=1210122
+  type: src
+type: standard
+docid:
+- id: CIE 163:2004
+  type: CIE
+- id: '9783901906350'
+  type: ISBN
+date:
+  type: published
+  value: '2004-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2004-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    The addition of fluorescence to either the inks or the substrate greatly increases the level of uncertainty in instrumental readings of the optical properties of printed images. CIE 76-1988 "Intercomparison on measurement of (total) spectral radiance factor of luminescent specimens" shows that even research and standards laboratories experience a degradation in their reproducibility of up to one order of magnitude (10x), in the readings of total spectral radiance factor of strongly coloured, fluorescent materials. There are no recent studies of this magnitude or reliability but it is the opinion of the Reporter who prepared CIE 163:2004 that the state-of-the-art has significantly advanced in the 15 years since the approval of CIE 76-1988.
+
+    This report contains results from a study of the measurement of total spectral radiance factor of digital halftone printing over a range of substrates exhibiting various levels of fluorescence. Colorimetric properties were computed for CIE Illuminant D50 when the UV component was included and when the UV component was excluded from the measurement source. The results indicate and quantify that the fluorescence of the substrate can be measured in both solid ink areas and halftone ink area with the effect being far larger in the latter. The magnitude of the CIELAB colour differences indicate that a significant lack of reproducibility may be experienced between two imaging centers who attempt to apply colour management principles to their individual measurements of the same image printed on fluorescent substrates or between two laboratories who attempt to quantify the colour differences between images printed on fluorescent stock and measured using instruments with different sources. The preliminary reports of CIE TC 1-44 "Practical daylight simulators for colorimetry" have shown that significant variability exists among instruments claiming daylight simulations and an even greater difference between instruments with UV-rich pulsed xenon lamps and those with UV-poor incandescent lamps.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

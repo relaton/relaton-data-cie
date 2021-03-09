@@ -1,0 +1,43 @@
+---
+id: CIE171-2006
+title:
+- type: title-main
+  content: Test cases to assess the accuracy of lighting computer programs
+  format: text/plain
+- type: main
+  content: Test cases to assess the accuracy of lighting computer programs
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-171-2006?product_id=1253803
+  type: src
+type: standard
+docid:
+- id: CIE 171:2006
+  type: CIE
+- id: '9783901906473'
+  type: ISBN
+date:
+  type: published
+  value: '2006-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2006-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    The objective of this report is to help lighting program users and developers assess the accuracy of lighting computer programs and to identify their weaknesses. A validation approach is therefore presented based on the concept of separately testing the different aspects of light propagation. To apply this approach, a suite of test cases has been designed where each test case highlights a given aspect of the lighting simulation domain and is associated with the related reference data.
+
+    Two types of reference data are used: data based on analytical calculation and data based on experimental measurements. The first is associated with theoretical scenarios that avoid uncertainties in the reference values. The second type is obtained through experimental measurements, where the scenario and the protocol are defined in a manner that minimizes the uncertainties associated with the measurements.
+
+    A set of recommendations is also presented in order to achieve reliable experimental data for validation purposes. These recommendations address the choice and description of the scenarios, to the experimental protocol precautions, to the estimation of the error sources and to the presentation of the reference data.
+
+    The report is written in English, with a short summary in French and German. It consists of 97 pages with 27 figures and 65 tables.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

@@ -1,0 +1,68 @@
+---
+id: CIEPO09856-861
+title:
+- type: title-main
+  content: 'TRADE-OFF BETWEEN COLOR FIDELITY AND COLOR GAMUT: A CASE STUDY (PO09,
+    856-861)'
+  format: text/plain
+- type: main
+  content: 'TRADE-OFF BETWEEN COLOR FIDELITY AND COLOR GAMUT: A CASE STUDY (PO09,
+    856-861)'
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/trade-off-between-color-fidelity-and-color-gamut-a-case-study-po09-856-861?product_id=2011160
+  type: src
+type: standard
+docid:
+  id: CIE PO09 856-861
+  type: CIE
+date:
+  type: published
+  value: '2017-10-23'
+contributor:
+- person:
+    name:
+      initial:
+        content: F
+        language: en
+        script: Latn
+      surname:
+        content: Zhang
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: H
+        language: en
+        script: Latn
+      surname:
+        content: Xu
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2017-10-23'
+language: en
+script: Latn
+abstract:
+  content: With the Illuminating Engineering Society of North America (IES) method,
+    including a colour fidelity index (Rf) and a colour gamut index (Rg), for evaluating
+    the colour rendition properties of light sources, the trade-off relationships
+    between colour fidelity and colour gamut were investigated theoretically by optimizing
+    the peak wavelengths, spectral widths, and relative intensities of four-channel
+    LEDs at the correlated colour temperatures (CCTs) ranging from 2800 to 6500 K.
+    The results indicate that the highest scores of Rg at all the selected CCTs indeed
+    decrease with the increasing Rf, and that the pattern of the trade-off between
+    Rf and Rg is almost independent on the CCT. Furthermore, it is feasible to seek
+    out a set of four peak wavelengths for relatively high colour fidelity as well
+    as large colour gamut at different CCTs.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

@@ -1,0 +1,62 @@
+---
+id: CIE097-2005
+title:
+- type: title-main
+  content: Maintenance of indoor electric lighting systems
+  format: text/plain
+- type: main
+  content: Maintenance of indoor electric lighting systems
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-097-2005?product_id=1252706
+  type: src
+type: standard
+docid:
+- id: CIE 097-2005
+  type: CIE
+- id: '9783901906459'
+  type: ISBN
+date:
+  type: published
+  value: '2005-12-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2005-12-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    During the life of a lighting installation, the light available for the task progressively decreases due to accumulation of dirt on surface and aging of equipment. The rate of reduction is influenced by the equipment choice and the environmental and operating conditions. In lighting scheme design we must take account of this fall by the use of a maintenance factor and plan suitable maintenance schedules to limit the decay. Lighting standard "ISO 8995/CIE S 008-2001 Lighting of Indoor Workplaces" in Section 4.8, recommends a minimum maintenance factor. It states that "The lighting scheme should be designed with overall maintenance factor calculated for the selected lighting equipment, space environment and specified maintenance schedule". A high maintenance factor together with an effective maintenance programme promotes energy efficient design of lighting schemes and limits the installed lighting power requirements.
+
+    This revision of the guide describes the parameters influencing the depreciation process and develops the procedure for estimating the maintenance factor for indoor electric lighting systems. It provides information on the selection of equipment and the estimation of economic maintenance cycles and gives advice on servicing techniques. It shows some examples of data but for accurate data it recommends that data should be obtained from the manufacturers.
+
+    This guide replaces CIE 97-1992 "Maintenance of indoor electric lighting systems". It is written in English, with a short summary in French and German, consists of 34 pages with 13 figures and 6 tables.
+  language: en
+  script: Latn
+  format: text/plain
+relation:
+  type: updates
+  bibitem:
+    id: CIE097-1992
+    title:
+    - type: title-main
+      content: Maintenance of indoor electric lighting systems
+      format: text/plain
+    - type: main
+      content: Maintenance of indoor electric lighting systems
+      format: text/plain
+    link:
+      content: https://www.techstreet.com/cie/standards/cie-097-1992?product_id=1210133
+      type: src
+    docid:
+      id: CIE 097-1992
+      type: CIE
+    date:
+      type: published
+      value: '1992-01-01'
+    revdate: '1992-01-01'
+doctype: document

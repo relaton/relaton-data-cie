@@ -1,0 +1,91 @@
+---
+id: CIEPO19499-504
+title:
+- type: title-main
+  content: VISUAL EVALUATION OF 3D COLOUR VOLUME (PO19, 499-504)
+  format: text/plain
+- type: main
+  content: VISUAL EVALUATION OF 3D COLOUR VOLUME (PO19, 499-504)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/visual-evaluation-of-3d-colour-volume-po19-499-504?product_id=2016297
+  type: src
+type: standard
+docid:
+  id: CIE PO19 499-504
+  type: CIE
+date:
+  type: published
+  value: '2018-05-01'
+contributor:
+- person:
+    name:
+      initial:
+      - content: Y
+        language: en
+        script: Latn
+      - content: S
+        language: en
+        script: Latn
+      surname:
+        content: Baek
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: Y
+        language: en
+        script: Latn
+      surname:
+        content: Kwak
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: S
+        language: en
+        script: Latn
+      surname:
+        content: Seo
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: J
+        language: en
+        script: Latn
+      surname:
+        content: Lee
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2018-05-01'
+language: en
+script: Latn
+abstract:
+  content: The colour volume represents the reproducible colour of the display, which
+    is to evaluate the display performance. This colour volume is to calculate the
+    measured colours in three dimensions using the uniform colour space. In this study,
+    we evaluate how the colour volume calculated by LAB visually matches. The evaluation
+    evaluates and compares the QaMbM of CIECAM02 and the IcTcP. The visual experiment
+    is carried out by expressing the colour volume as the richness of the colour.
+    Also, the experiment uses the image with adjusted colour gamut, white luminance
+    and black luminance. Experimental results show that the method of measuring colour
+    gamut volume using CIECAB L*a*b* does not match the visual evaluation. However,
+    the colour gamut volume calculated using QaMbM and IcTcP can very well predict
+    visual data.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

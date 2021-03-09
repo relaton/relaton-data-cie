@@ -1,0 +1,41 @@
+---
+id: CIE161-2004
+title:
+- type: title-main
+  content: Lighting design methods for obstructed interiors
+  format: text/plain
+- type: main
+  content: Lighting design methods for obstructed interiors
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-161-2004?product_id=1210037
+  type: src
+type: standard
+docid:
+- id: CIE 161:2004
+  type: CIE
+- id: '9783901906329'
+  type: ISBN
+date:
+  type: published
+  value: '2004-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2004-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    Traditional lighting calculation methods assume a clear room volume allowance for the influence of room contents. Objects located between light source and task will act to block direct light and will result in some light being absorbed by the object and some reflected from its surface. This may cause both local and general reductions in planar illuminance over a whole installation. This report draws together design related material on the subject. It is intended as specialist reference for use in conjunction with relevant design guidance. It contains information on the magnitudes of likely losses in different types of building interior and design guidance to ameliorate the effects of these light losses.
+
+    A major part of the report is concerned with calculation methods for obstructed interior lit by general lighting systems. Modifications to traditional lighting design calculation methods to acknowledge the influence of room contents, above and below the working plane are described. Advice on the application of computer programs for lighting design and analysis to solution of problems involving obstructed interiors is given.
+
+    The report is written in English, with a short summary in French and German. It consists of 32 pages with 8 figures and 7 tables.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

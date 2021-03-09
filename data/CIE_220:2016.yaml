@@ -1,0 +1,41 @@
+---
+id: CIE220-2016
+title:
+- type: title-main
+  content: Characterization and Calibration Methods of UV Radiometers
+  format: text/plain
+- type: main
+  content: Characterization and Calibration Methods of UV Radiometers
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-220-2016?product_id=1927730
+  type: src
+type: standard
+docid:
+- id: CIE 220:2016
+  type: CIE
+- id: '9783902842077'
+  type: ISBN
+date:
+  type: published
+  value: '2016-09-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2016-09-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    This technical document prepared by CIE Technical Committee TC 2-47 describes quality indices for UV radiometers, which are helpful for manufacturers and users to characterize instruments on a common basis. To harmonize CIE documents, the quality indices described in this document relate to the quality indices described in Joint ISO/CIE International Standard ISO/CIE 19476:2014(E) (formerly CIE S 023/E:2013), and references are made to those where applicable.
+
+    Different from photometers, the subject of ISO/CIE 19476:2014(E), UV radiometers may be designed for various actinic spectra and different spectral ranges. Therefore, instead of only one defined reference-spectrum source (CIE Source A) used in ISO/CIE 19476:2014(E) three reference-spectrum sources are proposed in this document to support the generic spectral characterization of UV radiometers for various applications. The defined spectra of reference sources for the characterization of UV radiometers are given in Annex A.
+
+    This document also describes source-based and detector-based methods along with measurement conditions and limiting boundary conditions for the calibration of UV radiometers used for laboratory as well as industrial applications.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

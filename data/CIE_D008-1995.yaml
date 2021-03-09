@@ -1,0 +1,41 @@
+---
+id: CIED008-1995
+title:
+- type: title-main
+  content: Computer program to calculate CRIs ( to Publ. 13.3)
+  format: text/plain
+- type: main
+  content: Computer program to calculate CRIs ( to Publ. 13.3)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-d008-1995?product_id=1210081
+  type: src
+type: standard
+docid:
+  id: CIE D008-1995
+  type: CIE
+date:
+  type: published
+  value: '1995-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '1995-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    CIE published in 1974 its Publication CIE 13.2 Method of Measuring and Specifying Colour Rendering Properties of Light Sources. Publication CIE 13.3-1995 is an updated version of CIE 13.2, where typing errors were corrected and the terminology was updated. The software discussed in this leaflet and available as CIE D008-1995, Rel. 2.0 is based on the updated method of measuring colour rendering indices. It will produce results that agree - to the uncertainty of rounding the last digits - with results calculated on the basis of CIE 13.3-1995.
+
+    The programs CIE13_3w.exe and CIE13_3d.exe are computer based tools for specifying colour rendering properties of light sources. The programs calculate, according to the rules described in CIE 13.3-1995, the light source chromaticity co-ordinates, the correlated colour temperature, the 14 special colour rendering indices and the general colour rendering index, using the first 8 CIE test colour samples. The program allows the use of other test colour samples as well. The program CIE13_3w.exe runs in a Windows environment (version 3.0 or higher). CIE13_3d.exe is the same program running under DOS.
+
+    Both programs include options to save the results in a file and to print them. CIE13_3w has built in clipboard facilities to transfer data directly to word processors, spread-sheet applications or other Windows programs.
+
+    Although every effort was taken to ensure that no error is contained in the disk, this disk is not an official CIE endorsed publication.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document
