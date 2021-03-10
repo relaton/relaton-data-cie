@@ -23,18 +23,22 @@ contributor:
 - person:
     name:
       forename:
-        content: Sun
+        content: Yu-Jung
         language: en
         script: Latn
       surname:
-        content: Lin Yu-Jung
+        content: Lin
         language: en
         script: Latn
   role: author
 - person:
     name:
-      surname:
+      forename:
         content: Pei-Li
+        language: en
+        script: Latn
+      surname:
+        content: Sun
         language: en
         script: Latn
   role: author

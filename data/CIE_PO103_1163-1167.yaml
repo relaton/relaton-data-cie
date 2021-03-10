@@ -66,18 +66,14 @@ contributor:
 - person:
     name:
       initial:
-        content: C
+      - content: C
+        language: en
+        script: Latn
+      - content: S
         language: en
         script: Latn
       surname:
         content: Lee
-        language: en
-        script: Latn
-  role: author
-- person:
-    name:
-      surname:
-        content: S
         language: en
         script: Latn
   role: author

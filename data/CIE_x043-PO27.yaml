@@ -23,7 +23,10 @@ contributor:
 - person:
     name:
       initial:
-        content: H
+      - content: H
+        language: en
+        script: Latn
+      - content: C
         language: en
         script: Latn
       surname:
@@ -34,11 +37,14 @@ contributor:
 - person:
     name:
       initial:
-        content: P
+      - content: P
+        language: en
+        script: Latn
+      - content: L
         language: en
         script: Latn
       surname:
-        content: C Sun
+        content: Sun
         language: en
         script: Latn
   role: author
@@ -52,7 +58,7 @@ contributor:
         language: en
         script: Latn
       surname:
-        content: L Luo
+        content: Luo
         language: en
         script: Latn
   role: author

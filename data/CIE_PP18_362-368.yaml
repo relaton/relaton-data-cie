@@ -21,11 +21,22 @@ contributor:
 - person:
     name:
       forename:
-        content: Sun
+        content: Wei-Chun
         language: en
         script: Latn
       surname:
-        content: Hung Wei-Chun
+        content: Hung
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      forename:
+        content: Pei-Li
+        language: en
+        script: Latn
+      surname:
+        content: Sun
         language: en
         script: Latn
   role: author
@@ -36,14 +47,18 @@ contributor:
         language: en
         script: Latn
       surname:
-        content: Pei-Li Lai
+        content: Lai
         language: en
         script: Latn
   role: author
 - person:
     name:
+      forename:
+        content: Yan-Mi
+        language: en
+        script: Latn
       surname:
-        content: Chen Yan-Mi
+        content: Chen
         language: en
         script: Latn
   role: author

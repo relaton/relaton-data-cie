@@ -37,15 +37,12 @@ contributor:
   role: author
 - person:
     name:
-      surname:
-        content: Young
+      initial:
+        content: R
         language: en
         script: Latn
-  role: author
-- person:
-    name:
       surname:
-        content: R
+        content: Young
         language: en
         script: Latn
   role: author

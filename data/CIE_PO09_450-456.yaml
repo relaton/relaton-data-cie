@@ -21,11 +21,22 @@ contributor:
 - person:
     name:
       forename:
-        content: Chou
+        content: Wei-Chih
         language: en
         script: Latn
       surname:
-        content: Su Wei-Chih
+        content: Su
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      forename:
+        content: Ching-Ju
+        language: en
+        script: Latn
+      surname:
+        content: Chou
         language: en
         script: Latn
   role: author
@@ -36,7 +47,7 @@ contributor:
         language: en
         script: Latn
       surname:
-        content: Ching-Ju Chen
+        content: Chen
         language: en
         script: Latn
   role: author

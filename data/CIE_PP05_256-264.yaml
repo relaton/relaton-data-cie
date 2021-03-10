@@ -27,11 +27,22 @@ contributor:
 - person:
     name:
       forename:
-        content: Wang
+        content: Xiufeng
         language: en
         script: Latn
       surname:
-        content: Ma Xiufeng
+        content: Ma
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      forename:
+        content: Lixiong
+        language: en
+        script: Latn
+      surname:
+        content: Wang
         language: en
         script: Latn
   role: author
@@ -42,25 +53,29 @@ contributor:
         language: en
         script: Latn
       surname:
-        content: Lixiong Gao
+        content: Gao
         language: en
         script: Latn
   role: author
 - person:
     name:
       forename:
-        content: Ma
+        content: Juan
         language: en
         script: Latn
       surname:
-        content: Yu Juan
+        content: Yu
         language: en
         script: Latn
   role: author
 - person:
     name:
-      surname:
+      forename:
         content: Junrong
+        language: en
+        script: Latn
+      surname:
+        content: Ma
         language: en
         script: Latn
   role: author

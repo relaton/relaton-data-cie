@@ -48,17 +48,6 @@ contributor:
   role: author
 - person:
     name:
-      forename:
-        content: Heijd
-        language: en
-        script: Latn
-      surname:
-        content: van der
-        language: en
-        script: Latn
-  role: author
-- person:
-    name:
       initial:
       - content: F
         language: en
@@ -73,7 +62,7 @@ contributor:
         language: en
         script: Latn
       surname:
-        content: e
+        content: van der Heijde
         language: en
         script: Latn
   role: author

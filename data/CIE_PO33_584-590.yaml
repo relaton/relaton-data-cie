@@ -21,18 +21,22 @@ contributor:
 - person:
     name:
       forename:
-        content: Yu
+        content: Wen-Chun
         language: en
         script: Latn
       surname:
-        content: Liu Wen-Chun
+        content: Liu
         language: en
         script: Latn
   role: author
 - person:
     name:
-      surname:
+      forename:
         content: Hsueh-Ling
+        language: en
+        script: Latn
+      surname:
+        content: Yu
         language: en
         script: Latn
   role: author

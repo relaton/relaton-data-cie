@@ -23,11 +23,22 @@ contributor:
 - person:
     name:
       forename:
-        content: Koga
+        content: Han
         language: en
         script: Latn
       surname:
-        content: Li Han
+        content: Li
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      forename:
+        content: Tomoko
+        language: en
+        script: Latn
+      surname:
+        content: Koga
         language: en
         script: Latn
   role: author
@@ -38,7 +49,7 @@ contributor:
         language: en
         script: Latn
       surname:
-        content: Tomoko Koga
+        content: Koga
         language: en
         script: Latn
   role: author

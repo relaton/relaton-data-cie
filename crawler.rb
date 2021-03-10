@@ -18,18 +18,14 @@ def fetch_docid(hit, doc) # rubocop:disable Metrics/AbcSize,Metrics/MethodLength
     code = 'CIE ' + code.match(/(?<=\()\w{2}\d+,.+(?=\))/).to_s.gsub(/,(?=\s)/, '').gsub(/,(?=\S)/, ' ')
   end
   docid = [RelatonBib::DocumentIdentifier.new(type: 'CIE', id: code)]
-  # isbn = doc.at('//div[contains(@class, "field-name-field-isbn")]/div/div')
   isbn = doc.at('//dt[contains(.,"ISBN")]/following-sibling::dd')
   docid << RelatonBib::DocumentIdentifier.new(type: 'ISBN', id: isbn.text.strip) if isbn
-  # doi = doc.at('//div[contains(@class, "field-name-field-doi")]/div/div')
-  # docid << RelatonBib::DocumentIdentifier.new(type: 'DOI', id: doi.text.strip) if doi
   docid
 end
 
 # @param doc [Mechanize::Page]
 # @return [RelatonBib::TypedTitleStringCollection, Array]
 def fetch_title(doc)
-  # doc.xpath('//hgroup/h2').map { |t| { content: t.text, language: 'en', script: 'Latn' } }
   t = doc.at('//hgroup/h2', '//hgroup/h1')
   return [] unless t
 
@@ -89,17 +85,20 @@ end
 # @return [Array<Hash>]
 def fetch_contributor(doc) # rubocop:disable Metrics/AbcSize,Metrics/MethodLength
   authors = doc.xpath('//hgroup/p[not(@class="pub_date")]').text
-  # .split(/\s?,(?!\sand\s)|\sand\s|(?<=\w{2})\s(?!\w{2})|\.\s(?=\w{2})(?!and\s)/).each_slice(2).map do |p|
   contribs = []
   until authors.empty?
-    /^(?<sname1>[^\s,]+)(,?\s(?<sname2>[\w-]{2,}))?
-     (,?\s(?<fname>[\w-]{2,})(?!,\s?\s\w\.))?
-     ((\s?,\s?|\s)(?<init>(\w\.[\s-]?)+))?
-     ((,\s?|\s|(?<=\s))(and\s)?)?/x =~ authors
+    /^(?<sname1>\S+(?:\sder?\s)?[^\s,]+)
+     (,?\s(?<sname2>[\w-]{2,})(?=,\s+\w\.))?
+     (,?\s(?<fname>[\w-]{2,})(?!,\s+\w\.))?
+     ((\s?,\s?|\s)(?<init>(\w(?:\s?\.|\s|,|$)[\s-]?)+))?
+     ((,\s?|\s|\.|(?<=\s))(and\s)?)?/x =~ authors
+    raise StandardError, "Author name not found in \"#{authors}\"" unless $LAST_MATCH_INFO
     authors.sub! $LAST_MATCH_INFO.to_s, ''
     sname = [sname1, sname2].compact.join ' '
     surname = RelatonBib::LocalizedString.new sname, 'en', 'Latn'
-    initial = (init&.strip || '').split(/\.(?:-|\s)?/).map { |int| RelatonBib::LocalizedString.new(int, 'en', 'Latn') }
+    initial = (init&.strip || '').split(/(?:,|\.)(?:-|\s)?/).map do |int|
+      RelatonBib::LocalizedString.new(int.strip, 'en', 'Latn')
+    end
     forename = fname ? [RelatonBib::LocalizedString.new(fname, 'en', 'Latn')] : []
     fullname = RelatonBib::FullName.new surname: surname, forename: forename, initial: initial
     person = RelatonBib::Person.new name: fullname
@@ -115,12 +114,12 @@ end
 def write_file(bib)
   id = bib.docidentifier[0].id.gsub(%r{[\/\s]}, '_')
   file = "data/#{id}.yaml"
-  if File.exist? file
-    warn "File #{file} exists. Docid: #{bib.docidentifier[0].id}"
-    warn "Link: #{bib.link.detect { |l| l.type == 'src' }.content}"
-  else
-    File.write file, bib.to_hash.to_yaml, encoding: 'UTF-8'
-  end
+  # if File.exist? file
+  #   warn "File #{file} exists. Docid: #{bib.docidentifier[0].id}"
+  #   warn "Link: #{bib.link.detect { |l| l.type == 'src' }.content}"
+  # else
+  File.write file, bib.to_hash.to_yaml, encoding: 'UTF-8'
+  # end
 end
 
 # @param hit [Nokogiri::HTML::Element]
@@ -144,9 +143,8 @@ end
 # @param agent [Mechanize]
 # #param url [String]
 # @param workers [RelatonBib::WorkersPool]
-def html_index(agent, url) # , workers)
+def html_index(agent, url)
   result = time_req { agent.get url }
-  # result.xpath('//tr/td').reject { |hit| hit.at('a').text.strip.empty? }.each { |hit| workers << hit }
   result.xpath('//li[@data-product]').each { |hit| parse_page hit, agent } # workers << hit }
   np = result.at '//a[@class="next_page"]'
   html_index agent, 'https://www.techstreet.com' + np[:href] if np # , workers if np
@@ -161,27 +159,11 @@ def time_req
 end
 
 agent = Mechanize.new
-# workers = RelatonBib::WorkersPool.new 2
-# url = 'https://cie.co.at/publications'
 url = 'https://www.techstreet.com/cie/searches/31156444?page=1&per_page=100'
-# workers.worker do |hit|
-#   begin
-#     parse_page(hit, agent)
-#   rescue => e # rubocop:disable Style/RescueStandardError
-#     warn e.message
-#     warn e.backtrace
-#   end
-# end
 t1 = Time.now
 puts "Started at: #{t1}"
 
 html_index agent, url # , workers
-# index = agent.get 'https://www.techstreet.com/cie/searches/31156444?page=1&per_page=100'
-# hit = index.at '//li[@data-product="2078723"]'
-# parse_page hit, agent
-
-# workers.end
-# workers.result
 
 t2 = Time.now
 puts "Stopped at: #{t2}"

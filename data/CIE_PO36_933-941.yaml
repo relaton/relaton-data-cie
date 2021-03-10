@@ -26,6 +26,10 @@ date:
 contributor:
 - person:
     name:
+      initial:
+        content: Y
+        language: en
+        script: Latn
       surname:
         content: Seo
         language: en
@@ -38,7 +42,7 @@ contributor:
         language: en
         script: Latn
       surname:
-        content: Y Cho
+        content: Cho
         language: en
         script: Latn
   role: author

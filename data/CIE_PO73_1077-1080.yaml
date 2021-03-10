@@ -33,15 +33,12 @@ contributor:
   role: author
 - person:
     name:
-      surname:
-        content: Yoshizawa
+      initial:
+        content: N
         language: en
         script: Latn
-  role: author
-- person:
-    name:
       surname:
-        content: N
+        content: Yoshizawa
         language: en
         script: Latn
   role: author
@@ -52,7 +49,7 @@ contributor:
         language: en
         script: Latn
       surname:
-        content: ". Miki"
+        content: Miki
         language: en
         script: Latn
   role: author

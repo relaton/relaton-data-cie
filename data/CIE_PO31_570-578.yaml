@@ -64,8 +64,12 @@ contributor:
   role: author
 - person:
     name:
+      forename:
+        content: Hoon
+        language: en
+        script: Latn
       surname:
-        content: Kim Hoon
+        content: Kim
         language: en
         script: Latn
   role: author

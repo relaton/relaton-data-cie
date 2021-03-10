@@ -23,11 +23,22 @@ contributor:
 - person:
     name:
       forename:
-        content: Li
+        content: Mingyu
         language: en
         script: Latn
       surname:
-        content: Zhang Mingyu
+        content: Zhang
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      forename:
+        content: Hao
+        language: en
+        script: Latn
+      surname:
+        content: Li
         language: en
         script: Latn
   role: author
@@ -38,18 +49,29 @@ contributor:
         language: en
         script: Latn
       surname:
-        content: Hao Yu
+        content: Yu
         language: en
         script: Latn
   role: author
 - person:
     name:
       forename:
-        content: Fan
+        content: Chen
         language: en
         script: Latn
       surname:
-        content: Wang Chen
+        content: Wang
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      forename:
+        content: Qing
+        language: en
+        script: Latn
+      surname:
+        content: Fan
         language: en
         script: Latn
   role: author
@@ -60,7 +82,7 @@ contributor:
         language: en
         script: Latn
       surname:
-        content: Qing Wang
+        content: Wang
         language: en
         script: Latn
   role: author

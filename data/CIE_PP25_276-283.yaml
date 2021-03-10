@@ -23,18 +23,22 @@ contributor:
 - person:
     name:
       forename:
-        content: Yang
+        content: Yingying
         language: en
         script: Latn
       surname:
-        content: Meng Yingying
+        content: Meng
         language: en
         script: Latn
   role: author
 - person:
     name:
-      surname:
+      forename:
         content: Biao
+        language: en
+        script: Latn
+      surname:
+        content: Yang
         language: en
         script: Latn
   role: author

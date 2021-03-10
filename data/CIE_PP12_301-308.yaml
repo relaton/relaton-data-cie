@@ -23,11 +23,22 @@ contributor:
 - person:
     name:
       forename:
-        content: Zhang
+        content: Chen
         language: en
         script: Latn
       surname:
-        content: Wang Chen
+        content: Wang
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      forename:
+        content: Mingyu
+        language: en
+        script: Latn
+      surname:
+        content: Zhang
         language: en
         script: Latn
   role: author
@@ -38,25 +49,29 @@ contributor:
         language: en
         script: Latn
       surname:
-        content: Mingyu Tian
+        content: Tian
         language: en
         script: Latn
   role: author
 - person:
     name:
       forename:
-        content: Wang
+        content: Juan
         language: en
         script: Latn
       surname:
-        content: Yu Juan
+        content: Yu
         language: en
         script: Latn
   role: author
 - person:
     name:
-      surname:
+      forename:
         content: Yajiang
+        language: en
+        script: Latn
+      surname:
+        content: Wang
         language: en
         script: Latn
   role: author

@@ -21,29 +21,33 @@ contributor:
 - person:
     name:
       forename:
-        content: Sun
+        content: Guo-Qiang
         language: en
         script: Latn
       surname:
-        content: Zhong Guo-Qiang
+        content: Zhong
         language: en
         script: Latn
   role: author
 - person:
     name:
       forename:
-        content: Chen
+        content: Pei-Li
         language: en
         script: Latn
       surname:
-        content: Pei-Li and
+        content: Sun
         language: en
         script: Latn
   role: author
 - person:
     name:
-      surname:
+      forename:
         content: Hung-Shing
+        language: en
+        script: Latn
+      surname:
+        content: Chen
         language: en
         script: Latn
   role: author

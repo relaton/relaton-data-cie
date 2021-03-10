@@ -23,11 +23,22 @@ contributor:
 - person:
     name:
       forename:
-        content: Chen
+        content: Qian
         language: en
         script: Latn
       surname:
-        content: Li Qian
+        content: Li
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      forename:
+        content: Cong
+        language: en
+        script: Latn
+      surname:
+        content: Chen
         language: en
         script: Latn
   role: author
@@ -38,14 +49,18 @@ contributor:
         language: en
         script: Latn
       surname:
-        content: Cong Li
+        content: Li
         language: en
         script: Latn
   role: author
 - person:
     name:
+      forename:
+        content: Jiangen
+        language: en
+        script: Latn
       surname:
-        content: Pan Jiangen
+        content: Pan
         language: en
         script: Latn
   role: author

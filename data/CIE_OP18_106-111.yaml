@@ -23,18 +23,22 @@ contributor:
 - person:
     name:
       forename:
-        content: Yang
+        content: Tianyu
         language: en
         script: Latn
       surname:
-        content: Li Tianyu
+        content: Li
         language: en
         script: Latn
   role: author
 - person:
     name:
-      surname:
+      forename:
         content: Biao
+        language: en
+        script: Latn
+      surname:
+        content: Yang
         language: en
         script: Latn
   role: author

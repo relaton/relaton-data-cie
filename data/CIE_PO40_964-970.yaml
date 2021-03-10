@@ -44,6 +44,9 @@ contributor:
       - content: S
         language: en
         script: Latn
+      - content: B
+        language: en
+        script: Latn
       surname:
         content: Lam
         language: en
@@ -59,7 +62,7 @@ contributor:
         language: en
         script: Latn
       surname:
-        content: B Yan
+        content: Yan
         language: en
         script: Latn
   role: author

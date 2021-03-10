@@ -27,11 +27,22 @@ contributor:
 - person:
     name:
       forename:
-        content: Hong
+        content: In-Tae
         language: en
         script: Latn
       surname:
-        content: Kim In-Tae
+        content: Kim
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      forename:
+        content: Seong-Kwan
+        language: en
+        script: Latn
+      surname:
+        content: Hong
         language: en
         script: Latn
   role: author
@@ -42,7 +53,7 @@ contributor:
         language: en
         script: Latn
       surname:
-        content: Seong-Kwan Choi
+        content: Choi
         language: en
         script: Latn
   role: author

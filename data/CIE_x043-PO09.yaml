@@ -69,15 +69,12 @@ contributor:
   role: author
 - person:
     name:
-      surname:
-        content: Schierz Ch
+      forename:
+        content: Ch
         language: en
         script: Latn
-  role: author
-- person:
-    name:
       surname:
-        content: "."
+        content: Schierz
         language: en
         script: Latn
   role: author

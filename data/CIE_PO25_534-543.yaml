@@ -23,18 +23,22 @@ contributor:
 - person:
     name:
       forename:
-        content: Sun
+        content: Yu-Ting
         language: en
         script: Latn
       surname:
-        content: Hsiao Yu-Ting
+        content: Hsiao
         language: en
         script: Latn
   role: author
 - person:
     name:
-      surname:
+      forename:
         content: Pei-Li
+        language: en
+        script: Latn
+      surname:
+        content: Sun
         language: en
         script: Latn
   role: author

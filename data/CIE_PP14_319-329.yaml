@@ -23,11 +23,22 @@ contributor:
 - person:
     name:
       forename:
-        content: Zhang
+        content: Qing
         language: en
         script: Latn
       surname:
-        content: Fan Qing
+        content: Fan
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      forename:
+        content: MingYu
+        language: en
+        script: Latn
+      surname:
+        content: Zhang
         language: en
         script: Latn
   role: author
@@ -38,7 +49,7 @@ contributor:
         language: en
         script: Latn
       surname:
-        content: MingYu Yang
+        content: Yang
         language: en
         script: Latn
   role: author
