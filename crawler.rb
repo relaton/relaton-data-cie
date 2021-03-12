@@ -10,8 +10,8 @@ require 'relaton_bib'
 def fetch_docid(hit, doc) # rubocop:disable Metrics/AbcSize,Metrics/MethodLength
   code = hit.at('h3/a').text.strip.sub(/\u25b9/, '')
   if code.match?(/^CIE/)
-    add = doc.at('//hgroup/h2')&.text&.match(/Addendum\s1$/)
-    code += " #{add}" if add
+    add = doc.at('//hgroup/h2')&.text&.match(/(Add)endum\s(\d+)$/)
+    code += " #{add[1]} #{add[2]}" if add
   elsif (pcode = doc.at('//dt[.="Product Code(s):"]/following-sibling::dd'))
     code = 'CIE ' + pcode.text.strip.match(/[^,]+/).to_s
   else
@@ -112,7 +112,7 @@ end
 
 # @param bib [RelatonItu::ItuBibliographicItem]
 def write_file(bib)
-  id = bib.docidentifier[0].id.gsub(%r{[\/\s]}, '_')
+  id = bib.docidentifier[0].id.gsub(%r{[\/\s\-:\.]}, '_')
   file = "data/#{id}.yaml"
   # if File.exist? file
   #   warn "File #{file} exists. Docid: #{bib.docidentifier[0].id}"
