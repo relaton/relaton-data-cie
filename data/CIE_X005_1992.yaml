@@ -1,0 +1,53 @@
+---
+id: CIEx005-1992
+title:
+- type: title-main
+  content: Proceedings of the CIE Seminar '92 on computer programs for light and lighting
+  format: text/plain
+- type: main
+  content: Proceedings of the CIE Seminar '92 on computer programs for light and lighting
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-x005-1992?product_id=1210089
+  type: src
+type: standard
+docid:
+- id: CIE x005-1992
+  type: CIE
+- id: '9783900734411'
+  type: ISBN
+date:
+  type: published
+  value: '1992-01-01'
+contributor:
+  organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '1992-01-01'
+language: en
+script: Latn
+abstract:
+  content: |-
+    The 1992 CIE Seminar took place at the CIE Central Bureau and the Bundesamt für Eich- und Vermessungswesen, Vienna, between 5th and 8th October 1992.
+
+    The Seminar was set up to serve as a clearing-house between developers, vendors and users of lighting calculation software. The meeting encompassed five Invited Papers, a high number of Research Papers, Demonstrations and Workshops. The Seminar closed with a Round Table Discussion focusing on the state of the art in lighting software tools - opportunities for future work; conventions, assumptions and accuracy in lighting design tools; and tolerances in lighting design.
+
+    The present volume contains the written version of the invited and research papers and short descriptions of the lighting calculation software shown during the demonstrations and workshops.
+
+    The first part of this Proceedings contains the Introductory Paper by A. Stockmar and four Invited Papers reviewing the activities of CIE TC 4-16 on a unified file format for presenting luminaire data in a form readable by computers, dealing with items of indoor and outdoor lighting calculation and luminaire design.
+
+    The second part of the Proceedings presents the six research papers. In this section items like implementing the finite element method for calculating interreflections also for non-Lambertian-surfaces, automatic optimised interior and road lighting calculation, the use of PCs in administering a public lighting net or in visualisation techniques are described.
+
+    The third part of the Proceedings summarises the main features of the computer programs shown during the demonstrations and workshop sessions. 18 programs are listed encompassing questions starting at the design of a luminaire and ending up at the optimisation of the maintenance of the designed indoor or outdoor lighting scheme.
+
+    Part four of the Proceedings summarises the Round Table Discussions and informs on a NSVV project for a testmodel for sofwares.
+
+    CIE Central Bureau published the papers read at the Seminar, the short descriptions of the programs shown and the results of the Round Table discussion in the form of a Proceedings printed from camera ready copies supplied by the authors, i.e. the papers reflect the opinion of the authors and are not CIE endorsed publications.
+
+    The Proceedings consist of 113 pages.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

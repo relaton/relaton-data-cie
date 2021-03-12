@@ -1,0 +1,67 @@
+---
+id: CIEx043-OP13
+title:
+- type: title-main
+  content: VISUAL EXPERIMENTS ON THE STROBOSCOPIC EFFECTS OF PWM-MODULATED WHITE LED
+    INDOOR ILLUMINATIONS AND THEIR CONSEQUENCES (OP13, Pages 69-79)
+  format: text/plain
+- type: main
+  content: VISUAL EXPERIMENTS ON THE STROBOSCOPIC EFFECTS OF PWM-MODULATED WHITE LED
+    INDOOR ILLUMINATIONS AND THEIR CONSEQUENCES (OP13, Pages 69-79)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/visual-experiments-on-the-stroboscopic-effects-of-pwm-modulated-white-led-indoor-illuminations-and-their-consequences-op13-pages-69-79?product_id=1941815
+  type: src
+type: standard
+docid:
+  id: CIE x043-OP13
+  type: CIE
+date:
+  type: published
+  value: '2016-09-01'
+contributor:
+- person:
+    name:
+      initial:
+        content: D
+        language: en
+        script: Latn
+      surname:
+        content: Polin
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: Q
+        language: en
+        script: Latn
+      - content: K
+        language: en
+        script: Latn
+      surname:
+        content: Tran
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2016-09-01'
+language: en
+script: Latn
+abstract:
+  content: Pulse-width modulation is a widely used technique to control the power
+    and intensity of solid state lighting systems but under specific conditions it
+    can cause undesirable flicker or stroboscopic effects. Two studies were conducted
+    to analyze these effects. In the first study, standard pulse-width modulation
+    was used. The influence of the modulation frequency and duty cycle was considered.
+    The proposed approach was applied in the second study. The results show the ability
+    to reduce the stroboscopic effects even at low frequencies of pulse-width modulation.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

@@ -1,0 +1,88 @@
+---
+id: CIEx043-PO49
+title:
+- type: title-main
+  content: THE EFFECTIVE LUMINOUS SURFACES IN THE UNIFIED GLARE RATING (PO49, Pages
+    462-469)
+  format: text/plain
+- type: main
+  content: THE EFFECTIVE LUMINOUS SURFACES IN THE UNIFIED GLARE RATING (PO49, Pages
+    462-469)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/the-effective-luminous-surfaces-in-the-unified-glare-rating-po49-pages-462-469?product_id=1941872
+  type: src
+type: standard
+docid:
+  id: CIE x043-PO49
+  type: CIE
+date:
+  type: published
+  value: '2016-09-01'
+contributor:
+- person:
+    name:
+      initial:
+      - content: G
+        language: en
+        script: Latn
+      - content: H
+        language: en
+        script: Latn
+      surname:
+        content: Scheir
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: P
+        language: en
+        script: Latn
+      surname:
+        content: Hanselaer
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: W
+        language: en
+        script: Latn
+      - content: R
+        language: en
+        script: Latn
+      surname:
+        content: Ryckaert
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2016-09-01'
+language: en
+script: Latn
+abstract:
+  content: A non-uniform luminance distribution produces more discomfort glare than
+    a uniform one of equal average luminance. Since the average luminance level for
+    the standard UGR calculation considers mostly the total luminaire surface, its
+    applicability for non-uniform light sources is under discussion. With a growing
+    market share of highly non-uniform LED luminaires, a valid discomfort glare metric
+    becomes essential. The UGR can elegantly be improved by discriminating between
+    background and light emitting part(s) of a luminaire. A luminance threshold identifies
+    the high luminance pixels in a luminance map as actual light emitting surface.
+    A subjective visual experiment encompassing commercially available recessed office
+    luminaires validates the improved UGR method. With a coefficient of determination
+    of 0.44, the standard UGR fails to predict discomfort glare. Covering also non-uniform
+    light sources, the improved UGR, with a coefficient of determination of up to
+    0.80, elegantly ameliorates the visual discomfort calculation from a luminance
+    map.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

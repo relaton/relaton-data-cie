@@ -1,0 +1,59 @@
+---
+id: CIEx043-PO08
+title:
+- type: title-main
+  content: CHARACTERIZING COLOURFULNESS AND GAMUT AREA OF WHITE LIGHT SOURCES, IN
+    ADDITION TO COLOUR FIDELITY (PO08, Pages 236-246)
+  format: text/plain
+- type: main
+  content: CHARACTERIZING COLOURFULNESS AND GAMUT AREA OF WHITE LIGHT SOURCES, IN
+    ADDITION TO COLOUR FIDELITY (PO08, Pages 236-246)
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/characterizing-colourfulness-and-gamut-area-of-white-light-sources-in-addition-to-colour-fidelity-po08-pages-236-246?product_id=1941839
+  type: src
+type: standard
+docid:
+  id: CIE x043-PO08
+  type: CIE
+date:
+  type: published
+  value: '2016-09-01'
+contributor:
+- person:
+    name:
+      initial:
+        content: K
+        language: en
+        script: Latn
+      surname:
+        content: Teunissen
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2016-09-01'
+language: en
+script: Latn
+abstract:
+  content: This paper explores the impact of chromatic adaptation, colour space and
+    test-colour samples on fidelity values and obtained colour differences. The CAT02
+    transform and CIELUV colour space do not result in remarkably different Ra values
+    compared to current CIE13.3 computation process. Colour differences computed with
+    CIELAB, CIEDE2000 and CAM02-UCS are highly correlated, but different from those
+    computed with CIELUV. Uniform distribution of test-colour samples, under the reference
+    illuminant, depends on the CCT of the light source. It has been demonstrated that
+    highly saturated samples result in larger average colour differences, but smaller
+    changes in relative gamut area index values. Combining samples with different
+    saturation levels into one average fidelity or relative gamut area index value
+    masks valuable information on actual hue-specific colour changes. The number of
+    samples should be between 18 and 30 to cover the whole hue-angle circle without
+    significant information loss compared to using 90 test-colour samples.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document
