@@ -1,5 +1,5 @@
 ---
-id: CIES007/E-1998(ISO17166-1999)
+id: CIES007/E-1998
 title:
 - type: title-main
   content: Erythema reference action spectrum and standard erythema dose
@@ -12,8 +12,10 @@ link:
   type: src
 type: standard
 docid:
-  id: CIE S 007/E-1998 (ISO 17166:1999)
+- id: CIE S 007/E-1998
   type: CIE
+- id: ISO 17166:1999
+  type: ISO
 date:
   type: published
   value: '1999-01-01'

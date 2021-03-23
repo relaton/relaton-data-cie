@@ -1,5 +1,5 @@
 ---
-id: CIES011/E-2003(ISO15469-2004)
+id: CIES011/E-2003
 title:
 - type: title-intro
   content: Spatial distribution of daylight
@@ -15,8 +15,10 @@ link:
   type: src
 type: standard
 docid:
-  id: CIE S 011/E:2003 (ISO 15469:2004)
+- id: CIE S 011/E:2003
   type: CIE
+- id: ISO 15469:2004
+  type: ISO
 date:
   type: published
   value: '2003-01-01'

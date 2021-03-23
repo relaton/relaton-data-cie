@@ -1,5 +1,5 @@
 ---
-id: CIES006.1/E-1998(ISO16508-1999)
+id: CIES006.1/E-1998
 title:
 - type: title-intro
   content: Road traffic lights
@@ -15,8 +15,10 @@ link:
   type: src
 type: standard
 docid:
-  id: CIE S 006.1/E-1998 (ISO 16508:1999)
+- id: CIE S 006.1/E-1998
   type: CIE
+- id: ISO 16508:1999
+  type: ISO
 date:
   type: published
   value: '1999-01-01'

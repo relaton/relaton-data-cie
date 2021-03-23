@@ -1,5 +1,5 @@
 ---
-id: CIES014-2/E-2006(ISO11664-2-2007)
+id: CIES014-2/E-2006
 title:
 - type: title-main
   content: CIE Standard llluminants for Colorimetry
@@ -12,8 +12,10 @@ link:
   type: src
 type: standard
 docid:
-  id: CIE S 014-2/E:2006 (ISO 11664-2:2007)
+- id: CIE S 014-2/E:2006
   type: CIE
+- id: ISO 11664-2:2007
+  type: ISO
 date:
   type: published
   value: '2007-12-01'

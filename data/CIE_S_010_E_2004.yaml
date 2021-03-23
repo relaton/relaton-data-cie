@@ -1,5 +1,5 @@
 ---
-id: CIES010/E-2004(ISO23539-2005)
+id: CIES010/E-2004
 title:
 - type: title-intro
   content: Photometry
@@ -15,8 +15,10 @@ link:
   type: src
 type: standard
 docid:
-  id: CIE S 010/E:2004 (ISO 23539:2005)
+- id: CIE S 010/E:2004
   type: CIE
+- id: ISO 23539:2005
+  type: ISO
 date:
   type: published
   value: '2005-08-01'

@@ -1,5 +1,5 @@
 ---
-id: CIES009/E-2002/IEC62471-2006
+id: CIES009/E-2002
 title:
 - type: title-main
   content: Photobiological safety of lamps and lamp systems (bilingual edition)
@@ -12,8 +12,10 @@ link:
   type: src
 type: standard
 docid:
-  id: CIE S 009 / E:2002 / IEC 62471:2006
+- id: CIE S 009/E:2002
   type: CIE
+- id: IEC 62471:2006
+  type: IEC
 date:
   type: published
   value: '2007-07-01'

@@ -1,5 +1,5 @@
 ---
-id: CIES012/E-2004(ISO23603-2005)
+id: CIES012/E-2004
 title:
 - type: title-main
   content: Standard method of assessing the spectral quality of daylight simulators
@@ -14,8 +14,10 @@ link:
   type: src
 type: standard
 docid:
-  id: CIE S 012/E:2004 (ISO 23603:2005)
+- id: CIE S 012/E:2004
   type: CIE
+- id: ISO 23603:2005
+  type: ISO
 date:
   type: published
   value: '2005-08-01'

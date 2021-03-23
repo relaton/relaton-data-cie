@@ -7,18 +7,23 @@ require 'relaton_bib'
 # @param hit [Nokogiri::HTML::Document]
 # @param doc [Mechanize::Page]
 # @return [Array<RelatonBib::DocumentIdentifier>]
-def fetch_docid(hit, doc) # rubocop:disable Metrics/AbcSize,Metrics/MethodLength
-  code = hit.at('h3/a').text.strip.sub(/\u25b9/, '')
-  if code.match?(/^CIE/)
+def fetch_docid(hit, doc) # rubocop:disable Metrics/AbcSize,Metrics/MethodLength,Metrics/CyclomaticComplexity,Metrics/PerceivedComplexity
+  code = hit.at('h3/a').text.strip.sub(/\u25b9/, '').gsub(' / ', '/')
+  c2idx = %r{(?:\(|\/)(?<c2>(?:ISO|IEC)\s[^\(\)]+)} =~ code
+  code = code[0...c2idx].strip if c2idx
+  /^(?<code1>[^\(]+)(\((?<code2>\w+\d+,(\sPages)?[^\)]+))?/ =~ code
+  if code1.match?(/^CIE/)
+    c = code1.size > 25 && code2 ? 'CIE ' + code2.sub(/,(\sPages)?/, '') : code1
     add = doc.at('//hgroup/h2')&.text&.match(/(Add)endum\s(\d+)$/)
-    code += " #{add[1]} #{add[2]}" if add
+    c += " #{add[1]} #{add[2]}" if add
   elsif (pcode = doc.at('//dt[.="Product Code(s):"]/following-sibling::dd'))
-    code = 'CIE ' + pcode.text.strip.match(/[^,]+/).to_s
+    c = 'CIE ' + pcode.text.strip.match(/[^,]+/).to_s
   else
-    code = 'CIE ' + code.match(/(?<=\()\w{2}\d+,.+(?=\))/).to_s.gsub(/,(?=\s)/, '').gsub(/,(?=\S)/, ' ')
+    c = 'CIE ' + code.match(/(?<=\()\w{2}\d+,.+(?=\))/).to_s.gsub(/,(?=\s)/, '').gsub(/,(?=\S)/, ' ')
   end
-  docid = [RelatonBib::DocumentIdentifier.new(type: 'CIE', id: code)]
+  docid = [RelatonBib::DocumentIdentifier.new(type: 'CIE', id: c)]
   isbn = doc.at('//dt[contains(.,"ISBN")]/following-sibling::dd')
+  docid << RelatonBib::DocumentIdentifier.new(type: c2.match(/\w+/).to_s, id: c2.strip) if c2
   docid << RelatonBib::DocumentIdentifier.new(type: 'ISBN', id: isbn.text.strip) if isbn
   docid
 end
@@ -93,6 +98,7 @@ def fetch_contributor(doc) # rubocop:disable Metrics/AbcSize,Metrics/MethodLengt
      ((\s?,\s?|\s)(?<init>(\w(?:\s?\.|\s|,|$)[\s-]?)+))?
      ((,\s?|\s|\.|(?<=\s))(and\s)?)?/x =~ authors
     raise StandardError, "Author name not found in \"#{authors}\"" unless $LAST_MATCH_INFO
+
     authors.sub! $LAST_MATCH_INFO.to_s, ''
     sname = [sname1, sname2].compact.join ' '
     surname = RelatonBib::LocalizedString.new sname, 'en', 'Latn'

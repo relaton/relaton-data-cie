@@ -1,5 +1,5 @@
 ---
-id: CIES014-4/E-2007(ISO11664-4-2008)
+id: CIES014-4/E-2007
 title:
 - type: title-main
   content: Colorimetry
@@ -15,8 +15,10 @@ link:
   type: src
 type: standard
 docid:
-  id: CIE S 014-4/E:2007 (ISO 11664-4:2008)
+- id: CIE S 014-4/E:2007
   type: CIE
+- id: ISO 11664-4:2008
+  type: ISO
 date:
   type: published
   value: '2008-12-01'
