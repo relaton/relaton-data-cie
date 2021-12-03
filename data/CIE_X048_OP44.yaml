@@ -1,0 +1,96 @@
+---
+id: CIEx048-OP44
+title:
+- type: title-main
+  content: TESTING THE PERFORMANCE FOR UNRELATED COLOUR APPEARANCE MODELS
+  format: text/plain
+- type: main
+  content: TESTING THE PERFORMANCE FOR UNRELATED COLOUR APPEARANCE MODELS
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-x048-op44?product_id=2240796
+  type: src
+type: standard
+docid:
+  id: CIE x048-OP44
+  type: CIE
+date:
+  type: published
+  value: '2021-09-29'
+contributor:
+- person:
+    name:
+      forename:
+        content: Shi
+        language: en
+        script: Latn
+      surname:
+        content: Keyu
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      forename:
+        content: Li
+        language: en
+        script: Latn
+      surname:
+        content: Changjun
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      forename:
+        content: Gao
+        language: en
+        script: Latn
+      surname:
+        content: Cheng
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      forename:
+        content: Ronnier
+        language: en
+        script: Latn
+      surname:
+        content: Ming
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      surname:
+        content: Luo
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2021-09-29'
+language: en
+script: Latn
+abstract:
+  content: Most colour appearance models (CAMs) have been developed to predict the
+    colour appearance only for related colours in different viewing conditions. More
+    recently, CAMs to predict for unrelated colours have been proposed due to the
+    availability of the experimental data. This paper investigates the performance
+    of the three promising colour appearance models for unrelated colours, i.e. CAM15u,
+    CAMFu and CAM20u using an experimental dataset carefully accumulated by Fu et
+    al. in term of CV values. The results showed that the latest CAM20u outperformed
+    the other models. CAMFu, as the oldest model, whose performance was much worse
+    than other two models in predicting brightness and colourfulness, and performed
+    well in predicting hue composition, while CAM15u gave a moderate performance in
+    predicting brightness and colourfulness, but performed slightest worse than the
+    others for hue composition.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

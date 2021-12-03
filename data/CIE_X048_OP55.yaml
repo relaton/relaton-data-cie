@@ -1,0 +1,101 @@
+---
+id: CIEx048-OP55
+title:
+- type: title-main
+  content: KEEPING THE BENEFIT OF ILMDs HIGH RESOLUTION IN MEASURING LIGHTING QUALITY
+    PARAMETERS
+  format: text/plain
+- type: main
+  content: KEEPING THE BENEFIT OF ILMDs HIGH RESOLUTION IN MEASURING LIGHTING QUALITY
+    PARAMETERS
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-x048-op55?product_id=2240807
+  type: src
+type: standard
+docid:
+  id: CIE x048-OP55
+  type: CIE
+date:
+  type: published
+  value: '2021-09-29'
+contributor:
+- person:
+    name:
+      initial:
+        content: V
+        language: en
+        script: Latn
+      surname:
+        content: Boucher
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: S
+        language: en
+        script: Latn
+      surname:
+        content: Buschmann
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: F
+        language: en
+        script: Latn
+      surname:
+        content: Greffier
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: V
+        language: en
+        script: Latn
+      surname:
+        content: Muzet
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: S
+        language: en
+        script: Latn
+      surname:
+        content: Voelker
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2021-09-29'
+language: en
+script: Latn
+abstract:
+  content: The dimensioning of lighting installations is performed according to the
+    specifications of CIE documents and relevant standards. Differences are often
+    observed between simulations and experimental measurements regarding the quality
+    criteria and luminance distributions. This paper deals with road lighting quality
+    parameters evaluation between experimental ILMD images and calculations. Influence
+    of image rectification is first examined. Impacts of image resolution, grid resolution
+    and grid positioning on average luminance, overall uniformity and longitudinal
+    uniformity are evaluated. An elliptical method based on human eye resolution and
+    perspective projection is presented for road lighting calculations. It conducts
+    to a good robustness regarding misalignment and give access to a pixel-to-pixel
+    comparison with experimental ILMD images.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

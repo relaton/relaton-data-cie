@@ -1,0 +1,70 @@
+---
+id: CIEx048-OP49
+title:
+- type: title-main
+  content: A NEUROPHYSIOLOGY-BASED MODEL TO ESTIMATE VISIBILITY IN ACTUAL LIGHTING
+    ENVIRONMENT
+  format: text/plain
+- type: main
+  content: A NEUROPHYSIOLOGY-BASED MODEL TO ESTIMATE VISIBILITY IN ACTUAL LIGHTING
+    ENVIRONMENT
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-x048-op49?product_id=2240801
+  type: src
+type: standard
+docid:
+  id: CIE x048-OP49
+  type: CIE
+date:
+  type: published
+  value: '2021-09-29'
+contributor:
+- person:
+    name:
+      initial:
+        content: N
+        language: en
+        script: Latn
+      surname:
+        content: Yoshizawa
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: H
+        language: en
+        script: Latn
+      surname:
+        content: Shida
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2021-09-29'
+language: en
+script: Latn
+abstract:
+  content: Visibility is one of the fundamental factors for explaining the lighting
+    environment, and various quantitative indexes for these have been made in such
+    a manner that directly finds the formulae that best match the numerous subjective
+    evaluations. Recently neurophysiology-based models have been paid attention as
+    the complementary or alternative methods to these conventional indexes. In this
+    paper we will introduce the normalization and gain control models, which are generally
+    accepted theories in the visual information processing, to estimate the visibility,
+    and verify the validity of this algorithm by comparing with the subjective evaluation
+    in the experimental room. The result showed that the algorithm in this research
+    could estimate the visibility of the simple objects in the experimental space
+    with a pseudo window with great accuracy, however, it is desirable and necessary
+    to publicly discuss various algorithms and clarify their reliability based on
+    the verification results under various situations.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

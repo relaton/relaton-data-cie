@@ -1,0 +1,94 @@
+---
+id: CIEx048-OP05
+title:
+- type: title-main
+  content: VALIDATION OF SPECTRAL SIMULATION TOOLS FOR THE PREDICTION OF INDOOR ELECTRIC
+    LIGHT EXPOSURE
+  format: text/plain
+- type: main
+  content: VALIDATION OF SPECTRAL SIMULATION TOOLS FOR THE PREDICTION OF INDOOR ELECTRIC
+    LIGHT EXPOSURE
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-x048-op05?product_id=2240679
+  type: src
+type: standard
+docid:
+  id: CIE x048-OP05
+  type: CIE
+date:
+  type: published
+  value: '2021-09-29'
+contributor:
+- person:
+    name:
+      initial:
+        content: M
+        language: en
+        script: Latn
+      surname:
+        content: C. Pierson
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: M
+        language: en
+        script: Latn
+      - content: P
+        language: en
+        script: Latn
+      - content: J
+        language: en
+        script: Latn
+      surname:
+        content: Gkaintatzi-Masouti
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: M
+        language: en
+        script: Latn
+      surname:
+        content: Aarts
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      surname:
+        content: Andersen
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2021-09-29'
+language: en
+script: Latn
+abstract:
+  content: As the interest in design applications related to responses to light beyond
+    vision is growing, two simulation tools, ALFA and Lark, have been developed to
+    incorporate spectral characteristics of light in the evaluation of indoor lighting
+    conditions. The spectral characteristics of light are of particular relevance
+    when studying ipRGC-influenced responses. This paper aims to assess the reliability
+    of these tools in predicting indoor spectral irradiance specifically from electric
+    lighting. Spectral irradiance was measured under three indoor electric lighting
+    scenarios and compared against spectral irradiance simulated in ALFA and Lark.
+    While the outcomes of the study tend to show that ALFA is both more accurate and
+    faster, rather large errors were found for spectral irradiance (-28.6% to 33.4%).
+    In comparison to a prior study focusing on daylighting, these results seem to
+    indicate that spectral simulations of electrically lit scenes are generally less
+    accurate than those of daylit scenes with these tools.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

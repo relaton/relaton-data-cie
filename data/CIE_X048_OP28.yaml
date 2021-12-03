@@ -1,0 +1,81 @@
+---
+id: CIEx048-OP28
+title:
+- type: title-main
+  content: SENSITIVITY ANALYSIS ON THE EFFECT OF MEASUREMENT NOISE AND SAMPLING FREQUENCY
+    ON THE CALCULATION OF THE TEMPORAL LIGHT ARTEFACTS
+  format: text/plain
+- type: main
+  content: SENSITIVITY ANALYSIS ON THE EFFECT OF MEASUREMENT NOISE AND SAMPLING FREQUENCY
+    ON THE CALCULATION OF THE TEMPORAL LIGHT ARTEFACTS
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-x048-op28?product_id=2240718
+  type: src
+type: standard
+docid:
+  id: CIE x048-OP28
+  type: CIE
+date:
+  type: published
+  value: '2021-09-29'
+contributor:
+- person:
+    name:
+      initial:
+        content: A
+        language: en
+        script: Latn
+      surname:
+        content: Thorseth
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: J
+        language: en
+        script: Latn
+      surname:
+        content: Lindén
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: C
+        language: en
+        script: Latn
+      - content: A
+        language: en
+        script: Latn
+      surname:
+        content: Bouroussis
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2021-09-29'
+language: en
+script: Latn
+abstract:
+  content: Temporal light modulation (TLM) and the resulting temporal light artefacts
+    (TLA) can cause problems with health and wellbeing for users of lighting products.
+    Therefore, TLM has to be measured accurately and repeatably. This study investigates
+    important factors influencing the measurement uncertainty of TLM measurements.
+    The study shows how measurement uncertainty on central TLM parameters can have
+    a significant effect on the calculation of TLA. Specifically, we show a linear
+    relationship between DC offset and the expected error. Further we show severe
+    effects of random noise on PstLM on certain waveforms. And lastly, we show a curious
+    effect related to SVM of pulse width modulated signals and the measurement sampling
+    frequency.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

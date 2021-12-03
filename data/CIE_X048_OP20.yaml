@@ -1,0 +1,103 @@
+---
+id: CIEx048-OP20
+title:
+- type: title-main
+  content: DAYLIGHT GLARE PROBABILITY PREDICTION FOR AN OFFICE ROOM
+  format: text/plain
+- type: main
+  content: DAYLIGHT GLARE PROBABILITY PREDICTION FOR AN OFFICE ROOM
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-x048-op20?product_id=2240697
+  type: src
+type: standard
+docid:
+  id: CIE x048-OP20
+  type: CIE
+date:
+  type: published
+  value: '2021-09-29'
+contributor:
+- person:
+    name:
+      initial:
+        content: A
+        language: en
+        script: Latn
+      surname:
+        content: Mentens
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: S
+        language: en
+        script: Latn
+      surname:
+        content: Martin
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: F
+        language: en
+        script: Latn
+      surname:
+        content: Descamps
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: J
+        language: en
+        script: Latn
+      surname:
+        content: Lataire
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: V
+        language: en
+        script: Latn
+      - content: A
+        language: en
+        script: Latn
+      surname:
+        content: Jacobs
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2021-09-29'
+language: en
+script: Latn
+abstract:
+  content: 'Glare assessments are currently made from High Dynamic Range (HDR) images
+    taken from the Point Of View (POV) and viewing direction of a user. This paper
+    analyses the feasibility to estimate the Daylight Glare Probability (DGP) at the
+    user-level based on machine-learning techniques, sun position and a downward-pointing
+    camera sensor mounted at the ceiling of a simulated office environment. Three
+    different office cases have been considered: an empty room, an empty room with
+    venetian blinds and a furnished room without venetian blinds. The influence of
+    the sun direction has been considered as a parameter to predict the observer DGP.
+    Subsequently, the best parameters have been selected to build a black box model
+    using Artificial Intelligence (AI). Results show that, by using the DGP of the
+    ceiling camera and the sun position, it is possible to accurately predict the
+    DGP for an observers POV.'
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

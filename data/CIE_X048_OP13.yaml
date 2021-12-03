@@ -1,0 +1,94 @@
+---
+id: CIEx048-OP13
+title:
+- type: title-main
+  content: AN OVERVIEW OF IMPORTANT FACTORS TO CONSIDER WHEN CALIBRATING LEDS IN PHOTOMETRY
+    WITH DIFFERENT DETECTORS
+  format: text/plain
+- type: main
+  content: AN OVERVIEW OF IMPORTANT FACTORS TO CONSIDER WHEN CALIBRATING LEDS IN PHOTOMETRY
+    WITH DIFFERENT DETECTORS
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-x048-op13?product_id=2240689
+  type: src
+type: standard
+docid:
+  id: CIE x048-OP13
+  type: CIE
+date:
+  type: published
+  value: '2021-09-29'
+contributor:
+- person:
+    name:
+      initial:
+        content: T
+        language: en
+        script: Latn
+      surname:
+        content: Gerloff
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: L
+        language: en
+        script: Latn
+      surname:
+        content: Ulm
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: P
+        language: en
+        script: Latn
+      surname:
+        content: Sperfeld
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: A
+        language: en
+        script: Latn
+      surname:
+        content: Sperling
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2021-09-29'
+language: en
+script: Latn
+abstract:
+  content: LED-based lighting products are the fastest developing light sources on
+    the general lighting market. These include not only white light sources, but also
+    coloured light sources. SI-traceable calibrations with a low measurement uncertainty
+    are challenging because their unique spectral and geometric properties must be
+    taken into account. The requirements on the measuring equipment and resulting
+    uncertainty contributions differ significantly from those for the calibration
+    of conventional incandescent or fluorescent light sources. Furthermore, different
+    detector types can be used when calibrating LEDs. These include classic photometers,
+    radiometers, spectroradiometers but also imaging systems such as ILMDs. Each of
+    these measuring devices has its specific advantages and disadvantages.In this
+    paper, traceable calibrations on 9 coloured and 9 white LEDs are discussed. Various
+    array spectroradiometers, photometers, radiometers and a double monochromator
+    were used for this purpose. Each of these measuring instruments is discussed in
+    terms of its suitability for measuring different physical quantities (e.g. array
+    spectrometer for measuring illuminance). 
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

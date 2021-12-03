@@ -1,0 +1,74 @@
+---
+id: CIEx048-OP45
+title:
+- type: title-main
+  content: TWO-DIMENSIONAL COLOUR APPEARANCE SCALES FOR COLOUR STIMULI HAVING HIGH
+    DYNAMIC RANGE
+  format: text/plain
+- type: main
+  content: TWO-DIMENSIONAL COLOUR APPEARANCE SCALES FOR COLOUR STIMULI HAVING HIGH
+    DYNAMIC RANGE
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-x048-op45?product_id=2240797
+  type: src
+type: standard
+docid:
+  id: CIE x048-OP45
+  type: CIE
+date:
+  type: published
+  value: '2021-09-29'
+contributor:
+- person:
+    name:
+      forename:
+        content: Lv
+        language: en
+        script: Latn
+      surname:
+        content: Xi
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      forename:
+        content: Ronnier
+        language: en
+        script: Latn
+      surname:
+        content: Ming
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      surname:
+        content: Luo
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2021-09-29'
+language: en
+script: Latn
+abstract:
+  content: New colour appearance scales close to daily experience and image quality
+    enhancement are highly desired including whiteness, blackness, vividness and depth.
+    This article describes a new experiment to accumulate the data under HDR (high
+    dynamic range) conditions. The data were then used to test the performance of
+    different colour appearance scales such as CIELAB and CAM16-UCS plus the recent
+    extension by Berns Vab*, Dab*. The results showed those Berns scales gave reasonable
+    performance. However, there was no scale capable of predicting colour appearance
+    data covering a wide dynamic range. New scales were developed based on the absolute
+    scales of brightness and colourfulness of CAM16-UCS and gave accurate prediction
+    to the data.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

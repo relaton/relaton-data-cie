@@ -1,0 +1,82 @@
+---
+id: CIEx048-OP52
+title:
+- type: title-main
+  content: ILLUMINANCE AT THE EYE AS A SIMPLE METRIC FOR DISCOMFORT GLARE FROM PEDESTRIAN
+    SCALE LUMINAIRES
+  format: text/plain
+- type: main
+  content: ILLUMINANCE AT THE EYE AS A SIMPLE METRIC FOR DISCOMFORT GLARE FROM PEDESTRIAN
+    SCALE LUMINAIRES
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-x048-op52?product_id=2240804
+  type: src
+type: standard
+docid:
+  id: CIE x048-OP52
+  type: CIE
+date:
+  type: published
+  value: '2021-09-29'
+contributor:
+- person:
+    name:
+      initial:
+        content: B
+        language: en
+        script: Latn
+      surname:
+        content: Abboushi
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: N
+        language: en
+        script: Latn
+      surname:
+        content: Miller
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: S
+        language: en
+        script: Latn
+      surname:
+        content: Fotios
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2021-09-29'
+language: en
+script: Latn
+abstract:
+  content: In outdoor environments after dark, pedestrians may experience discomfort
+    from road lighting. Previous studies have therefore developed models to predict
+    discomfort from glare in pedestrian applications. However, the performance of
+    these models has not been comprehensively assessed, and measurement challenges
+    arise in field evaluations. This paper evaluates the performance of a model proposed
+    by Bullough et al (2008) and compares it to prediction using only direct illuminance
+    at the eye. Diagnostic metric tests were conducted using three independent datasets
+    from previously published studies. The results suggested that direct illuminance
+    at the eye performed similarly to the Bullough et al. model over the range of
+    lighting conditions examined. These conditions included one glare source that
+    contributed between 4 lx - 82 lx, and a low contribution from indirect illuminance
+    and other lighting installations 1 lx - 4 lx. Further studies are needed to examine
+    the importance of incorporating indirect illuminance from source and ambient illuminance
+    for predicting discomfort glare.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

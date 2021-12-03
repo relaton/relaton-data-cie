@@ -1,0 +1,65 @@
+---
+id: CIEx048-OP43
+title:
+- type: title-main
+  content: ACCURATE MEASUREMENT OF ULTRAVIOLET LIGHT- EMITTING DIODES
+  format: text/plain
+- type: main
+  content: ACCURATE MEASUREMENT OF ULTRAVIOLET LIGHT- EMITTING DIODES
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-x048-op43?product_id=2240795
+  type: src
+type: standard
+docid:
+  id: CIE x048-OP43
+  type: CIE
+date:
+  type: published
+  value: '2021-09-29'
+contributor:
+- person:
+    name:
+      initial:
+        content: C
+        language: en
+        script: Latn
+      surname:
+        content: Yuqin Zong
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      forename:
+        content: Miller
+        language: en
+        script: Latn
+      surname:
+        content: Cameron
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2021-09-29'
+language: en
+script: Latn
+abstract:
+  content: We have developed a new calibration capability for 200 nm to 400 nm ultraviolet
+    light-emitting diodes (UV LEDs) using a Type D gonio-spectroradiometer. The recently-introduced
+    mean differential continuous pulse (M-DCP) method is used to overcome the measurement
+    difficulty associated with the initial forward voltage, VF, anomaly of a UV LED,
+    which makes it impossible to use VF to infer junction temperature, TJ, during
+    pulsed operation. The new measurement facility was validated indirectly by comparing
+    the measured total luminous flux of a white LED with that measured using the NISTs
+    2.5 m absolute integrating sphere. The expanded calibration uncertainty for the
+    total radiant flux is approximately 2 % to 3 % (k = 2) depending the wavelength
+    of the UV LED.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document
