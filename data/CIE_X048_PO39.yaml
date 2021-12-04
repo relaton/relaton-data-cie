@@ -1,0 +1,124 @@
+---
+id: CIEx048-PO39
+title:
+- type: title-main
+  content: OPTIMIZING CAMERA PLACEMENT FOR A LUMINANCE- BASED SHADING CONTROL SYSTEM
+  format: text/plain
+- type: main
+  content: OPTIMIZING CAMERA PLACEMENT FOR A LUMINANCE- BASED SHADING CONTROL SYSTEM
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-x048-po39?product_id=2240847
+  type: src
+type: standard
+docid:
+  id: CIE x048-PO39
+  type: CIE
+date:
+  type: published
+  value: '2021-09-29'
+contributor:
+- person:
+    name:
+      initial:
+        content: A
+        language: en
+        script: Latn
+      surname:
+        content: Mentens
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: G
+        language: en
+        script: Latn
+      - content: H
+        language: en
+        script: Latn
+      surname:
+        content: Scheir
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: Y
+        language: en
+        script: Latn
+      surname:
+        content: Ghysel
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: F
+        language: en
+        script: Latn
+      surname:
+        content: Descamps
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: J
+        language: en
+        script: Latn
+      surname:
+        content: Lataire
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: V
+        language: en
+        script: Latn
+      - content: A
+        language: en
+        script: Latn
+      surname:
+        content: Jacobs
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2021-09-29'
+language: en
+script: Latn
+abstract:
+  content: Shading control strategies are nowadays employed in office environments
+    to improve the visual comfort of the user. These strategies are often solely illuminance-based
+    whereas comfort metrics as the Daylight Glare Probability (DGP) also need luminance
+    values. In previous studies, daylight glare has been assessed by calculating the
+    DGP from luminance maps obtained via a luminance camera or from a High Dynamic
+    Range (HDR) image obtained with a commercially available camera. These detectors
+    are traditionally mounted close to the user and aligned with the viewing direction.
+    In real office environments, this camera position is impractical, and simulations
+    based on machine learning techniques have shown a relation between the DGP from
+    an observer's viewpoint and the DGP calculated from a ceiling camera. This paper
+    experimentally validates this method in a real office environment by using two
+    different cameras and two different illuminance sensors, i.e., a low-cost illuminance
+    sensor and a calibrated sensor. Both cameras render similar results, although
+    one camera overestimates the DGP. Moreover, the shortcomings of the simulation
+    results are pinpointed and the obstacles for a realistic application are addressed.
+    Furthermore, it was found that when moving the cameras to different positions,
+    the sun position was shown to be an informative additional input for correlating
+    the two DGP values. In future work, additional data will be analysed to determine
+    the performance in other weather conditions and window orientations.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

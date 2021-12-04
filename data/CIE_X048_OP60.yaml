@@ -1,0 +1,89 @@
+---
+id: CIEx048-OP60
+title:
+- type: title-main
+  content: 'VIRTUAL REALITY: A PROMISING APPROACH FOR LIGHTING RESEARCH'
+  format: text/plain
+- type: main
+  content: 'VIRTUAL REALITY: A PROMISING APPROACH FOR LIGHTING RESEARCH'
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-x048-op60?product_id=2240812
+  type: src
+type: standard
+docid:
+  id: CIE x048-OP60
+  type: CIE
+date:
+  type: published
+  value: '2021-09-29'
+contributor:
+- person:
+    name:
+      initial:
+        content: L
+        language: en
+        script: Latn
+      surname:
+        content: Bellia
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: F
+        language: en
+        script: Latn
+      surname:
+        content: Corbisiero
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: P
+        language: en
+        script: Latn
+      surname:
+        content: DAgostino
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: F
+        language: en
+        script: Latn
+      surname:
+        content: Fragliasso
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2021-09-29'
+language: en
+script: Latn
+abstract:
+  content: Virtual Reality (VR) seems a promising tool in lighting field, both for
+    design and research applications. Despite several studies have been conducted
+    on this topic, the opinions about the actual advantages of VR are conflicting.
+    It is not clear if VR software are able to properly simulate spatial light distribution,
+    and if the luminous sensation reproduced in Virtual Reality is representative
+    of the real one. The paper revises the literature about the topic and then tests
+    the reliability of a VR simulation software, Unreal Engine (UE), in calculating
+    light. To do that, illuminance measurements were performed in a test room and
+    the obtained values were compared with those calculated with both UE and DIVA
+    for Rhinoceros. Results demonstrated that the percentage differences between the
+    UEs and the real values range from -2% to 5% and those between UE and DIVA from
+    -4% to 0%.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

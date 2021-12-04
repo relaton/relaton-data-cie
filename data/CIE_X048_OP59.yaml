@@ -1,0 +1,73 @@
+---
+id: CIEx048-OP59
+title:
+- type: title-main
+  content: 'COLOUR FIDELITY AND ILLUMINANCE TRADE-OFF: TESTING LIGHTING VALUES'
+  format: text/plain
+- type: main
+  content: 'COLOUR FIDELITY AND ILLUMINANCE TRADE-OFF: TESTING LIGHTING VALUES'
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-x048-op59?product_id=2240811
+  type: src
+type: standard
+docid:
+  id: CIE x048-OP59
+  type: CIE
+date:
+  type: published
+  value: '2021-09-29'
+contributor:
+- person:
+    name:
+      initial:
+      - content: J
+        language: en
+        script: Latn
+      - content: A
+        language: en
+        script: Latn
+      surname:
+        content: Veitch
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: L
+        language: en
+        script: Latn
+      - content: A
+        language: en
+        script: Latn
+      surname:
+        content: Whitehead
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2021-09-29'
+language: en
+script: Latn
+abstract:
+  content: The higher the colour fidelity of a light source, the lower its luminous
+    efficacy of radiation because the light source spectrum must deviate from V(A)
+    to deliver the higher fidelity. Two experiments probed the trade-off between energy
+    efficiency and colour quality. Experiment 1 required participants to simultaneously
+    view pairs of light sources differing in colour fidelity, at either a higher (346
+    lx) or lower (277 lx) illuminance. Participants performed a timed reading task
+    and judged the colour appearance of the pair. There were no effects of illuminance,
+    but larger colour fidelity differences between the light sources in the pair correlated
+    with lower appearance judgements. Experiment 2 simulated the effect of light sources
+    on defined reflectance spectra. The results showed that improvements of colour
+    fidelity above what is often considered satisfactory can yield more satisfying
+    illumination while using the same amount of power.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

@@ -1,0 +1,89 @@
+---
+id: CIEx048-PO36
+title:
+- type: title-main
+  content: ESTIMATION OF COMPLEX LIGHT DISTRIBUTION CHRACTERISTIC BASED ON LIGHT FIELDS
+  format: text/plain
+- type: main
+  content: ESTIMATION OF COMPLEX LIGHT DISTRIBUTION CHRACTERISTIC BASED ON LIGHT FIELDS
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-x048-po36?product_id=2240844
+  type: src
+type: standard
+docid:
+  id: CIE x048-PO36
+  type: CIE
+date:
+  type: published
+  value: '2021-09-29'
+contributor:
+- person:
+    name:
+      initial:
+        content: T
+        language: en
+        script: Latn
+      surname:
+        content: Tamura
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: M
+        language: en
+        script: Latn
+      surname:
+        content: Ohno
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: Y
+        language: en
+        script: Latn
+      surname:
+        content: Nakazato
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: K
+        language: en
+        script: Latn
+      surname:
+        content: Hirai
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2021-09-29'
+language: en
+script: Latn
+abstract:
+  content: With the advent of LED lights and the added functionality of the lights
+    themselves, the number of automobile headlights being manufactured is rising.
+     Manufactured headlights need to be measured for light distribution characteristic
+    to assure their quality. However, the conventional method requires a lot of measurement
+    time and a large space. As a result, problems arise where light distribution measurement
+    cannot be completed in time for headlight production. We propose a measurement
+    method for complex light distribution characteristic based on light fields to
+    solve this problem. Our method is to measure the light intensity of planes at
+    a certain range distance from the light source and then estimate the light distribution
+    characteristic of a light source. This method would enable the measurement of
+    the light distribution characteristic in a narrower range and in a shorter time
+    than the conventional method.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

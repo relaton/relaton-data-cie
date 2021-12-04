@@ -1,0 +1,88 @@
+---
+id: CIEx048-PO32
+title:
+- type: title-main
+  content: CALIBRATION OF SPECTRAL IRRADIANCE SOURCES USING A FIBER-COUPLED SYSTEM
+  format: text/plain
+- type: main
+  content: CALIBRATION OF SPECTRAL IRRADIANCE SOURCES USING A FIBER-COUPLED SYSTEM
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-x048-po32?product_id=2240842
+  type: src
+type: standard
+docid:
+  id: CIE x048-PO32
+  type: CIE
+date:
+  type: published
+  value: '2021-09-29'
+contributor:
+- person:
+    name:
+      initial:
+      - content: H
+        language: en
+        script: Latn
+      - content: T
+        language: en
+        script: Latn
+      - content: B
+        language: en
+        script: Latn
+      surname:
+        content: Lee
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: Y
+        language: en
+        script: Latn
+      - content: C
+        language: en
+        script: Latn
+      surname:
+        content: Chau
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+      - content: H
+        language: en
+        script: Latn
+      - content: S
+        language: en
+        script: Latn
+      - content: B
+        language: en
+        script: Latn
+      surname:
+        content: Lam
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2021-09-29'
+language: en
+script: Latn
+abstract:
+  content: The standards and Calibration Laboratory has recently developed the calibration
+    service for the enclosed-type irradiance light source in the spectral range from
+    300 nm to 850 nm. The calibration is based on the source-based method measured
+    by a fiber-coupled system. In this paper, the calibration setup, measurement model
+    and the associated uncertainty are presented. The expanded measurement uncertainty
+    is estimated to be less than 3,3 % over the measured spectral range which can
+    support the needs from the testing and certification industry.
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document

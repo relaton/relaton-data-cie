@@ -1,0 +1,79 @@
+---
+id: CIEx048-PO30
+title:
+- type: title-main
+  content: COMPARISON OF LUMINOUS FLUX MAINTENANCE METHODS, CONTINOUS VS. ON/OFF CYCLES
+  format: text/plain
+- type: main
+  content: COMPARISON OF LUMINOUS FLUX MAINTENANCE METHODS, CONTINOUS VS. ON/OFF CYCLES
+  format: text/plain
+link:
+  content: https://www.techstreet.com/cie/standards/cie-x048-po30?product_id=2240840
+  type: src
+type: standard
+docid:
+  id: CIE x048-PO30
+  type: CIE
+date:
+  type: published
+  value: '2021-09-29'
+contributor:
+- person:
+    name:
+      initial:
+      - content: D
+        language: en
+        script: Latn
+      - content: D
+        language: en
+        script: Latn
+      surname:
+        content: Corell
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: C
+        language: en
+        script: Latn
+      surname:
+        content: Dam- Hansen
+        language: en
+        script: Latn
+  role: author
+- person:
+    name:
+      initial:
+        content: A
+        language: en
+        script: Latn
+      surname:
+        content: Thorseth
+        language: en
+        script: Latn
+  role: author
+- organization:
+    name: Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role: publisher
+revdate: '2021-09-29'
+language: en
+script: Latn
+abstract:
+  content: This paper will present preliminary results from a research project comparing
+    two methods for estimating the lifetime of LED products, LM-84 (6000 h test) and
+    the new EU endurance test (3600h test) including on/off cycling, that will be
+    required by EU from 2021. Beside the luminous flux development for the sources
+    tested, their colorimetric results will also be examined as a function of time.
+    Preliminary results for two series of LED products will be presented. For one
+    series, the 3600h test have been completed, for the remaining series only results
+    from the 6000h test is available. Results of the luminous flux and colour maintenance
+    will be presented. Initial examinations shows good agreement between the two tests
+    methods for the first series of LED products measured. 
+  language: en
+  script: Latn
+  format: text/plain
+doctype: document
