@@ -8,7 +8,7 @@ title:
   content: Absolute methods for reflection measurements
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-044-1979?product_id=1209976
+- content: https://www.techstreet.com/cie/standards/cie-044-1979?product_id=1209976
   type: src
 type: standard
 docid:
@@ -17,23 +17,29 @@ docid:
 - id: '9789290340447'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1979-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1979-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     Measurements of reflectance or reflectance factor are made by comparison to appropriately chosen reference standards. In 1969, the CIE recommended that the perfect reflecting diffuser be taken as the ideal standard. As there is no existing material which corresponds to the perfect diffuser, the problem is one of transforming measurements made with reference to real physical standards to those of absolute values relative to the perfect reflecting diffuser. The main emphasis of this report is on theory and procedures by which this conversion is made, not on properties of the materials, measuring instruments, or preparation of samples. For these topics, the reader is referred to original papers.
 
     The document consists of 68 pages and 12 figures.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

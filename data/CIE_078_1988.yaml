@@ -8,7 +8,7 @@ title:
   content: 'Brightness-luminance relations: Classified bibliography'
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-078-1988?product_id=1210006
+- content: https://www.techstreet.com/cie/standards/cie-078-1988?product_id=1210006
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783900734145'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1988-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1988-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This work is a result of a renewed activity of the CIE in the field of brightness as defined as the psychological attribute. The Commission started its duties with the compilation of a classified bibliography the results of which may be found in this publication.
 
     The bibliography consists of two parts:
@@ -77,7 +81,9 @@ abstract:
     This publication contains 173 pages.
 
     This Classified Bibliography on Brightness-Luminance Relations has been compiled by J.A.J. Roufs (The Netherlands) and R.M. Smith (USA).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

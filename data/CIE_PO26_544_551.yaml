@@ -10,103 +10,142 @@ title:
     IN INFRARED (PO26, 544-551)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/dual-band-video-based-measurement-for-noncontact-pulse-rate-estimation-in-infrared-po26-544-551?product_id=2016303
+- content: https://www.techstreet.com/cie/standards/dual-band-video-based-measurement-for-noncontact-pulse-rate-estimation-in-infrared-po26-544-551?product_id=2016303
   type: src
 type: standard
 docid:
-  id: CIE PO26 544-551
+- id: CIE PO26 544-551
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       initial:
-        content: R
-        language: en
-        script: Latn
+      - content: R
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Mitsuhashi
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: G
-        language: en
-        script: Latn
+      - content: G
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Okada
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: K
-        language: en
-        script: Latn
+      - content: K
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kurita
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: K
-        language: en
-        script: Latn
+      - content: K
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kagawa
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kawahito
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: C
-        language: en
-        script: Latn
+      - content: C
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Koopipat
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: N
-        language: en
-        script: Latn
+      - content: N
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Tsumura
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: In this paper, we propose a novel noncontact pulse wave monitoring method
+- content: In this paper, we propose a novel noncontact pulse wave monitoring method
     that is robust to fluctuations in illumination through use of two-band infrared
     video signals. Because the proposed method uses infrared light for illumination,
     the method can be used to detect a pulse wave on a human face without visible
@@ -118,7 +157,9 @@ abstract:
     In the experiments, we found that the performance of the proposed method was greatly
     improved compared with that of conventional methods using single-band infrared
     video.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

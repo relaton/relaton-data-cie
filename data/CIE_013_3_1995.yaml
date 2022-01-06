@@ -10,7 +10,7 @@ title:
     sources
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-013-3-1995?product_id=1209965
+- content: https://www.techstreet.com/cie/standards/cie-013-3-1995?product_id=1209965
   type: src
 type: standard
 docid:
@@ -19,19 +19,23 @@ docid:
 - id: '9783900734572'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1995-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1995-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The CIE recommended in 1965 the procedure of measuring and specifying colour rendering properties of light sources, based on a test colour sample method. This method was updated in 1974 taking the chromatic adaptation shift into account. During the past 20 years several misprints were observed and corrected reprints were published from time to time. CIE 13.3-1995 is the corrected version of CIE 13.2-1974 that has been brought up to date to present spectroradiometric and calculation practice. The technical recommendations have not been changed.
 
     Two computer programs to calculate the CIE colour rendering indices according to the present publication are available for "DOS"-computers to be run in a DOS or in an "MS-WINDOWS" environment as CIE D008.
@@ -47,7 +51,9 @@ abstract:
     The Technical Report is written in English, with a short summary in French and German. It contains 20 pages, with 2 tables.
 
     This Technical Report is based in CIE 13.2-1974.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

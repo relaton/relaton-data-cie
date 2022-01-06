@@ -8,77 +8,104 @@ title:
   content: TESTING THE PERFORMANCE FOR UNRELATED COLOUR APPEARANCE MODELS
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op44?product_id=2240796
+- content: https://www.techstreet.com/cie/standards/cie-x048-op44?product_id=2240796
   type: src
 type: standard
 docid:
-  id: CIE x048-OP44
+- id: CIE x048-OP44
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       forename:
-        content: Shi
-        language: en
-        script: Latn
+      - content: Shi
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Keyu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Li
-        language: en
-        script: Latn
+      - content: Li
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Changjun
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Gao
-        language: en
-        script: Latn
+      - content: Gao
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Cheng
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Ronnier
-        language: en
-        script: Latn
+      - content: Ronnier
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ming
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       surname:
         content: Luo
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Most colour appearance models (CAMs) have been developed to predict the
+- content: Most colour appearance models (CAMs) have been developed to predict the
     colour appearance only for related colours in different viewing conditions. More
     recently, CAMs to predict for unrelated colours have been proposed due to the
     availability of the experimental data. This paper investigates the performance
@@ -90,7 +117,9 @@ abstract:
     well in predicting hue composition, while CAM15u gave a moderate performance in
     predicting brightness and colourfulness, but performed slightest worse than the
     others for hue composition.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

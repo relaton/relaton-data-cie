@@ -14,59 +14,78 @@ title:
      (PP49, 800-805)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/exploring-the-impact-of-led-lighting-on-daily-activities-for-the-elderly-with-age-related-visual-impairment-pp49-800-805?product_id=2011378
+- content: https://www.techstreet.com/cie/standards/exploring-the-impact-of-led-lighting-on-daily-activities-for-the-elderly-with-age-related-visual-impairment-pp49-800-805?product_id=2011378
   type: src
 type: standard
 docid:
-  id: CIE PP49 800-805
+- id: CIE PP49 800-805
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: J
-        language: en
-        script: Latn
+      - content: J
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Li
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: H
-        language: en
-        script: Latn
+      - content: H
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ma
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: B
-        language: en
-        script: Latn
+      - content: B
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Since CIE published Technical Report "196-2011: Guide to Increasing Accessibility
+- content: 'Since CIE published Technical Report "196-2011: Guide to Increasing Accessibility
     in Light and Lighting", research work has been done on lighting and basic visual
     performance. However, more empirical evidence regarding daily activities of the
     elderly is still in need. The effect of LED lighting on the performance of daily
@@ -79,7 +98,9 @@ abstract:
     SPD is the dominating factor for task performance. Regarding environmental compensation,
     illuminance is prior in visual task which required central vision while SPD is
     prior in colour vision.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

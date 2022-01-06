@@ -8,48 +8,62 @@ title:
   content: REFERENCE WHITE IN A COMPLEX VIRTUAL REALITY ENVIRONMENT
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op47?product_id=2240799
+- content: https://www.techstreet.com/cie/standards/cie-x048-op47?product_id=2240799
   type: src
 type: standard
 docid:
-  id: CIE x048-OP47
+- id: CIE x048-OP47
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
-        content: C
-        language: en
-        script: Latn
+      - content: C
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Wu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: L
-        language: en
-        script: Latn
+      - content: L
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ou
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This study aims to investigate what a reference white really means in a
+- content: This study aims to investigate what a reference white really means in a
     complex scene setting in a virtual environment, specifically whether a reference
     white is determined by the brightest white object in the entire environment, or
     is it determined by the brightest white object in the field of view. To achieve
@@ -60,7 +74,9 @@ abstract:
     reference white especially when it is located far away from the test colour. The
     brightest white object needs to be located within the viewing field for the test
     colour in order to be regarded as the reference white.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

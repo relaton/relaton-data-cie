@@ -10,82 +10,114 @@ title:
     COLOUR CONSISTENCY IN AN ANTI-GLARE WHITE LED LIGHTING (PO12, 466-471)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/analysis-of-tolerance-in-concentration-of-volume-scattering-diffuser-and-colour-consistency-in-an-anti-glare-white-led-lighting-po12-466-471?product_id=2016290
+- content: https://www.techstreet.com/cie/standards/analysis-of-tolerance-in-concentration-of-volume-scattering-diffuser-and-colour-consistency-in-an-anti-glare-white-led-lighting-po12-466-471?product_id=2016290
   type: src
 type: standard
 docid:
-  id: CIE PO12 466-471
+- id: CIE PO12 466-471
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       initial:
       - content: P
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: Y
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Chen
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: B
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: Y
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Chen
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: W
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Huang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: S
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ma
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: In this paper, we focus on discussing colour temperature variation by volume
+- content: In this paper, we focus on discussing colour temperature variation by volume
     scattering diffuser (VSD) in anti-glare white light LED. According to the correlated
     colour temperature (CCT) variation of white light model established in the past,
     we can simulate scattering effect of volume scattering diffuser. Through the comparison
@@ -100,7 +132,9 @@ abstract:
     light source tolerance were 0,1% and 0,2%. When the lamp interior reflectivity
     is 0% and 95%, the manufacturing tolerances for VSD concentrations in anti-glare
     WLLED lamps must be within 0,17% (7%) and 0,6% (4%).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

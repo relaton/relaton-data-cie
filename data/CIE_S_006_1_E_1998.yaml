@@ -11,7 +11,7 @@ title:
   content: Road traffic lights - Photometric properties of 200 mm roundel signals
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-s-006-1-e-1998-iso-16508-1999?product_id=1210129
+- content: https://www.techstreet.com/cie/standards/cie-s-006-1-e-1998-iso-16508-1999?product_id=1210129
   type: src
 type: standard
 docid:
@@ -20,19 +20,23 @@ docid:
 - id: ISO 16508:1999
   type: ISO
 date:
-  type: published
+- type: published
   value: '1999-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1999-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     National and international standards for road traffic signal lights usually specify requirements for the luminous intensity of the lights to ensure that the signals will be visible in adequate time for an approaching driver to safely and efficiently respond to the signal on roads where speeds are low.
 
     The official guidance of the CIE for traffic signal luminous intensity (CIE 79-1988: A Guide for the Design of Road Traffic Lights) has been widely followed as providing sound direction for standard development. This guidance was based on a comprehensive review of the subject published as a CIE Technical Report (CIE 48-1980: Light Signals for Road Traffic Control).
@@ -44,8 +48,10 @@ abstract:
     This Standard has been approved by the CIE and replaces the recommendations made on 200 mm roundel signals in CIE 79-1988. It has been approved by ISO as a joint ISO/CIE standard.
 
     This Standard may be obtained from the CIE National Committees or the Central Bureau of the CIE. A French and a German version (ISO 16508:1999/CIE S006.1/F-1998 and CIE S006/G-1998) are also available.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
@@ -59,13 +65,13 @@ relation:
       content: A guide for the design of road traffic lights
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-079-1988?product_id=1210007
+    - content: https://www.techstreet.com/cie/standards/cie-079-1988?product_id=1210007
       type: src
     docid:
-      id: CIE 079-1988
+    - id: CIE 079-1988
       type: CIE
     date:
-      type: published
+    - type: published
       value: '1988-01-01'
     revdate: '1988-01-01'
 - type: updates
@@ -79,13 +85,13 @@ relation:
       content: Light signals for road traffic control
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-048-1980?product_id=1209980
+    - content: https://www.techstreet.com/cie/standards/cie-048-1980?product_id=1209980
       type: src
     docid:
-      id: CIE 048-1980
+    - id: CIE 048-1980
       type: CIE
     date:
-      type: published
+    - type: published
       value: '1980-01-01'
     revdate: '1980-01-01'
 doctype: document

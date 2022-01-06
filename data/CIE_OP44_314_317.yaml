@@ -12,93 +12,130 @@ title:
      (OP44, 314-317)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/the-influence-of-led-lighting-with-different-proportions-of-blue-light-wavelengths-on-humans-op44-314-317?product_id=2010516
+- content: https://www.techstreet.com/cie/standards/the-influence-of-led-lighting-with-different-proportions-of-blue-light-wavelengths-on-humans-op44-314-317?product_id=2010516
   type: src
 type: standard
 docid:
-  id: CIE OP44 314-317
+- id: CIE OP44 314-317
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
       - content: P
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Wu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: Y
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Tseng
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: Y
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Chen
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: R
-        language: en
-        script: Latn
+      - content: R
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Luo
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: B
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: S
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lin
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: LED is generally used as the source of indoor lighting; however, the physiological
+- content: LED is generally used as the source of indoor lighting; however, the physiological
     effect of different blue-light wavelengths on humans is a primary issue. The physiological
     effect of working environments with different white-light LED lighting on humans
     is therefore proposed in this study to find out the indoor lighting for keeping
@@ -111,7 +148,9 @@ abstract:
     white-light LED source with low colour temperature and 460nm blue-light wavelength.
     Nevertheless, the LED source with high illumination, high colour temperature,
     and 420nm blue-light wavelength presents better effects on the promotion of concentration.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

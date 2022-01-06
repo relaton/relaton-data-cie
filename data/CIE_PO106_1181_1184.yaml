@@ -14,110 +14,156 @@ title:
      (PO106, 1181-1184)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/can-short-breaks-with-a-dynamic-light-make-people-fully-energetic-po106-1181-1184?product_id=2011256
+- content: https://www.techstreet.com/cie/standards/can-short-breaks-with-a-dynamic-light-make-people-fully-energetic-po106-1181-1184?product_id=2011256
   type: src
 type: standard
 docid:
-  id: CIE PO106 1181-1184
+- id: CIE PO106 1181-1184
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
       - content: B
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Hsieh
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: Y
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Chen
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: P
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Wu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: Y
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yeh
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: B
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: R
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Huang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: Z
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: T
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Liao
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: For the quality of a short break, a dynamic lighting system suitable for
+- content: For the quality of a short break, a dynamic lighting system suitable for
     short breaks is proposed in this study, expecting to enhance users? spirit after
     a short break. 12 participants participate in the experiment, in which the experimental
     light is with the light and shade changing cycle. The analyses of brainwave and
@@ -129,7 +175,9 @@ abstract:
     the long period of working hours and the limited break time in a day. It is expected
     to enhance the work efficiency and concentration of employees with long working
     hours.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -8,7 +8,7 @@ title:
   content: Lighting for swimming pools
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-062-1984?product_id=1209995
+- content: https://www.techstreet.com/cie/standards/cie-062-1984?product_id=1209995
   type: src
 type: standard
 docid:
@@ -17,23 +17,29 @@ docid:
 - id: '9789637251221'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1984-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1984-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The report covers the problems of, and the approach to solutions for, daylighting and electric lighting of indoor and outdoor swimming pools. The main emphasis is on rectangular pools designed for recreational swimming, as well as training and competition pools. Private pools for special uses and private or public leisure pools are not covered specifically. However, many of the general principles and recommendations are applicable for these areas as well. The report also includes information on the special problems posed by color television coverage of outdoor and indoor swimming events. The wide variety of lighting techniques used is dictated by the structure of the buildings; the balance of daylight and electric lighting; and economic as well as practical considerations, such as installation and maintenance. The lighting designer must, in close collaboration with the architect, devise individual solution that meet the performance requirements proposed in this report for each and every project.
 
     The publication contains 20 pages, 6 figures and 2 tables.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

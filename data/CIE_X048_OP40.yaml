@@ -8,59 +8,78 @@ title:
   content: 'sensLAB: TESTING MOTION AND PRESENCE SENSORS FOR SMART LIGHTING'
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op40?product_id=2240793
+- content: https://www.techstreet.com/cie/standards/cie-x048-op40?product_id=2240793
   type: src
 type: standard
 docid:
-  id: CIE x048-OP40
+- id: CIE x048-OP40
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
-        content: F
-        language: en
-        script: Latn
+      - content: F
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Stuker
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: F
-        language: en
-        script: Latn
+      - content: F
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Rinderer
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: P
-        language: en
-        script: Latn
+      - content: P
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Blattner
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: For further efforts in saving energy in lighting installations, intelligent
+- content: For further efforts in saving energy in lighting installations, intelligent
     sensors are indispensable. Despite the fact such sensors are available precise
     and reproducible measurements of the coverage areas are missing. Therefore, METAS
     decided in 2020 to install the world's first manufacturer-independent fully automated
@@ -71,7 +90,9 @@ abstract:
     with an automated robot arm. The test results are provided in a digital test report
     and the data is available in a machine-readable format to be further processed
     in designing and planning softwares.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

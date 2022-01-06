@@ -10,7 +10,7 @@ title:
     Late Papers
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x011-1996?product_id=1210095
+- content: https://www.techstreet.com/cie/standards/cie-x011-1996?product_id=1210095
   type: src
 type: standard
 docid:
@@ -19,19 +19,23 @@ docid:
 - id: '9783900734763'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1996-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1996-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The Proceedings of the 23rd Session of the CIE, New Delhi, 1-8 November 1995, were published in two volumes, CIE 119-1995, containing the papers read at the Session, as well as the Quadrennial Reports of the Division Directors and Introductory Papers for the Round Table Discussions. Volume CIE 120-1996 contains reports on General Functions, Divisional Meetings and Workshops, together with the corrected print of four papers where some printing errors occurred in volume 1.
 
     Every effort was taken both on the side of the Organising Committee and the CIE Central Bureau to publish in these two volumes an accurate and up to date overview of CIE activities and contributions of its members. As this is most often the case, a compromise had to be drawn between completeness and timely publication, and thus several post deadline manuscripts had to be left out. These manuscripts had been collected at the CIE Central Bureau and it had been decided to devote a special volume, x011 - 1996, to these late papers and make them available to the CIE community.
@@ -41,7 +45,9 @@ abstract:
     The CIE Central Bureau hopes that with this special volume it not only contributes to the proper archiving of all the activities that took place at the 23rd Session, but also provide to the interested reader a number of interesting papers. These papers were all accepted for presentation at the Session and CIE publication, only due to some administrative problems they did not meet the deadline for inclusion in the official Proceedings.
 
     The publication consist of 52 pages.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

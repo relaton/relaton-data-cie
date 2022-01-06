@@ -10,84 +10,115 @@ title:
     APPROACH (OP26, 180-184)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/field-surveys-of-reassurance-in-two-european-cities-using-boyce-s-day-dark-approach-op26-180-184?product_id=2010467
+- content: https://www.techstreet.com/cie/standards/field-surveys-of-reassurance-in-two-european-cities-using-boyce-s-day-dark-approach-op26-180-184?product_id=2010467
   type: src
 type: standard
 docid:
-  id: CIE OP26 180-184
+- id: CIE OP26 180-184
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Fotios
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: J
-        language: en
-        script: Latn
+      - content: J
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Uttley
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: A
-        language: en
-        script: Latn
+      - content: A
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Liachenko Monteiro
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: B
-        language: en
-        script: Latn
+      - content: B
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Mattoni
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: F
-        language: en
-        script: Latn
+      - content: F
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Bisegna
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This article describes two field studies carried out in parallel, in two European cities, to investigate the relationship between lighting and reassurance. Given that using only ratings of reassurance carried out only after dark tend to lead to the trivial result that more light is better, these studies used the day-dark approach proposed by Boyce et al. The results suggest that horizontal and cylindrical illuminance are highly correlated: we therefore use horizontal illuminance. For a difference along the day-dark scale of 0.5 units, with ratings
     captured using a 1-6 rating scale, these results suggest optimum illuminances of 7.0 lux and 10.0 lux.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

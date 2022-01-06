@@ -8,109 +8,152 @@ title:
   content: AN OVERVIEW OF THE IMPACT OF STRAY LIGHT FROM COMMERCIAL GREENHOUSES
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-po37?product_id=2240845
+- content: https://www.techstreet.com/cie/standards/cie-x048-po37?product_id=2240845
   type: src
 type: standard
 docid:
-  id: CIE x048-PO37
+- id: CIE x048-PO37
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
-        content: K
-        language: en
-        script: Latn
+      - content: K
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Bertin
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: G
-        language: en
-        script: Latn
+      - content: G
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Zissis
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: G
-        language: en
-        script: Latn
+      - content: G
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Salas
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: P
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: M
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Raynham
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: A
-        language: en
-        script: Latn
+      - content: A
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Moutsi
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: S
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Mucklejohn
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: B
-        language: en
-        script: Latn
+      - content: B
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Preston
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Stray light from commercial greenhouses is becoming a significant problem
+- content: Stray light from commercial greenhouses is becoming a significant problem
     causing disruption to wildlife activity and annoyance for local residents. To
     quantify the amount of stray light from a typical large greenhouse the authors
     have modelled several lighting installations based on a range of generic horticultural
@@ -118,7 +161,9 @@ abstract:
     distribution of the sources employed, the intensity and distribution. Current
     standards for obtrusive light from outdoor work places do not seem to be suitable
     when applied to greenhouses.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

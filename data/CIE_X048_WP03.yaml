@@ -11,81 +11,110 @@ title:
   content: GENERAL V MISMATCH INDEX - HISTORY, CURRENT STATE, NEW IDEAS
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-wp03?product_id=2240871
+- content: https://www.techstreet.com/cie/standards/cie-x048-wp03?product_id=2240871
   type: src
 type: standard
 docid:
-  id: CIE x048-WP03
+- id: CIE x048-WP03
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
-        content: U
-        language: en
-        script: Latn
+      - content: U
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Krüger
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: A
-        language: en
-        script: Latn
+      - content: A
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ferrero
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: A
-        language: en
-        script: Latn
+      - content: A
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Thorseth
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: V
-        language: en
-        script: Latn
+      - content: V
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Mantela
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: A
-        language: en
-        script: Latn
+      - content: A
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Sperling
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The general V(A) mismatch index, f_1^' quantifies the mismatch between
+- content: The general V(A) mismatch index, f_1^' quantifies the mismatch between
     the spectral responsivity of a photometer, s(A), and the spectral luminous efficiency
     function, V(A). A short review of its historical development is given to explain
     the reasons for the current definition and which adjustments may be useful for
@@ -97,7 +126,9 @@ abstract:
     different type of function for assessing the mismatch. On the other hand, the
     measurement of coloured LEDs is also becoming increasingly important. Is a single
     quality index for white and coloured light sources sufficient?
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

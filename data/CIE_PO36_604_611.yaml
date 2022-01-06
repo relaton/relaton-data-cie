@@ -8,37 +8,46 @@ title:
   content: SMART LED STREET LIGHTING (PO36, 604-611)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/smart-led-street-lighting-po36-604-611?product_id=2016412
+- content: https://www.techstreet.com/cie/standards/smart-led-street-lighting-po36-604-611?product_id=2016412
   type: src
 type: standard
 docid:
-  id: CIE PO36 604-611
+- id: CIE PO36 604-611
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       initial:
-        content: A
-        language: en
-        script: Latn
+      - content: A
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Tran
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The rapid development of smart technologies for public street lighting
+- content: The rapid development of smart technologies for public street lighting
     has introduced new opportunities and complexities. By embedding communication
     systems into street lights, this commonplace infrastructure can facilitate the
     transfer of data in the era of Internet of Things. Nevertheless, the prospect
@@ -50,7 +59,9 @@ abstract:
     aims to provide a comprehensive assessment of the strengths and weaknesses of
     introducing new smart technologies into what must continue to be a robust, reliable
     public lighting network.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

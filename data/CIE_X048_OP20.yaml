@@ -8,84 +8,115 @@ title:
   content: DAYLIGHT GLARE PROBABILITY PREDICTION FOR AN OFFICE ROOM
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op20?product_id=2240697
+- content: https://www.techstreet.com/cie/standards/cie-x048-op20?product_id=2240697
   type: src
 type: standard
 docid:
-  id: CIE x048-OP20
+- id: CIE x048-OP20
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
-        content: A
-        language: en
-        script: Latn
+      - content: A
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Mentens
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Martin
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: F
-        language: en
-        script: Latn
+      - content: F
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Descamps
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: J
-        language: en
-        script: Latn
+      - content: J
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lataire
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: V
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Jacobs
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Glare assessments are currently made from High Dynamic Range (HDR) images
+- content: 'Glare assessments are currently made from High Dynamic Range (HDR) images
     taken from the Point Of View (POV) and viewing direction of a user. This paper
     analyses the feasibility to estimate the Daylight Glare Probability (DGP) at the
     user-level based on machine-learning techniques, sun position and a downward-pointing
@@ -97,7 +128,9 @@ abstract:
     using Artificial Intelligence (AI). Results show that, by using the DGP of the
     ceiling camera and the sun position, it is possible to accurately predict the
     DGP for an observers POV.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -14,95 +14,131 @@ title:
      (PO108, 1193-1199)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/improved-system-and-method-for-illumination-and-ventilation-of-an-operating-room-po108-1193-1199?product_id=2011258
+- content: https://www.techstreet.com/cie/standards/improved-system-and-method-for-illumination-and-ventilation-of-an-operating-room-po108-1193-1199?product_id=2011258
   type: src
 type: standard
 docid:
-  id: CIE PO108 1193-1199
+- id: CIE PO108 1193-1199
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
       - content: V
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Jacobs
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: R
-        language: en
-        script: Latn
+      - content: R
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Van Gaever
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: P
-        language: en
-        script: Latn
+      - content: P
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Hanselaer
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Vanlanduit
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: P
-        language: en
-        script: Latn
+      - content: P
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Rombauts
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: M
-        language: en
-        script: Latn
+      - content: M
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Diltoer
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: European patients undergoing surgery have about 2.6% chance to develop
+- content: European patients undergoing surgery have about 2.6% chance to develop
     a post-operative infection. Besides pain and discomfort, these infections can
     lead to hospital readmission, additional surgical procedures and even the decease
     of the patient. The ventilation system provides clean air that descends on the
@@ -116,7 +152,9 @@ abstract:
     we have developed an integrated concept of an LED-based and automated light source,
     mounted above a transparent ventilation chamber. This paper outlines the optical
     design of the new surgical light source and its performance.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

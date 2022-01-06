@@ -11,7 +11,7 @@ title:
   content: Low vision - Lighting needs for the partially sighted
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-123-1997?product_id=1210044
+- content: https://www.techstreet.com/cie/standards/cie-123-1997?product_id=1210044
   type: src
 type: standard
 docid:
@@ -20,19 +20,23 @@ docid:
 - id: '9783900734787'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1997-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1997-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The report brings together a wide range of material from various specialists to produce, for the first time, a comprehensive annotated review of the subject. It also draws conclusions from the various studies and it is hoped that it will provide the basis for further research. It is intended for all those that have dealings with the visually handicapped and the provision of lighting regardless of their professional discipline.
 
     It summarises the features of the major diseases causing partial sight. It also reviews some studies that have been undertaken into the effects of light on refraction, accommodation and ocular movement, and of its effects on visual functions such as visual acuity, contrast sensitivity, visual field and colour vision.
@@ -40,7 +44,9 @@ abstract:
     A section is devoted to the lighting aspects of visual aids, such as neutral and selective absorbing glasses, light amplification systems, high power additions, magnifiers, telescopes, closed circuit television systems, etc. Finally, detailed recommendations are made for the adaptation of a range of lighting environments to the needs of the partially sighted.
 
     The publication contains 157 pages, and is written in English, with a short summary in French and German. This report is also available as a CD-ROM.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -10,96 +10,135 @@ title:
     IN TAIWAN (PO96, 1140-1150)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/investigation-of-light-pollution-impacts-on-subjective-perception-of-flicker-in-taiwan-po96-1140-1150?product_id=2011230
+- content: https://www.techstreet.com/cie/standards/investigation-of-light-pollution-impacts-on-subjective-perception-of-flicker-in-taiwan-po96-1140-1150?product_id=2011230
   type: src
 type: standard
 docid:
-  id: CIE PO96 1140-1150
+- id: CIE PO96 1140-1150
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
       - content: B
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Pong
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Wen
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: Y
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: L
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lin
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: I
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lin
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: L
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Chou
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This research is based on objective characteristics of our country to
+- content: 'This research is based on objective characteristics of our country to
     investigate and analyse the public light pollution. It would affect the degree
     of awareness and discomfort of public feeling. Reviews of the relevant light pollution
     regulations and anal yses of the current petition cases, this research focuses
@@ -113,7 +152,9 @@ abstract:
     situation. A total of 24 participants took part in this field experiment in the
     atrium of the Management School of Tunghai University, Taichun g, Taiwan, and
     the total amount of subjective questionnaires were 1,561 trials.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

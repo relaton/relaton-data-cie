@@ -8,7 +8,7 @@ title:
   content: Calibration, Characterization and Use of Array Spectroradiometers
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-233-2019?product_id=2075193
+- content: https://www.techstreet.com/cie/standards/cie-233-2019?product_id=2075193
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783902842756'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2019-06-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-06-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Array spectroradiometers are used pervasively in light measurement. However,
+- content: Array spectroradiometers are used pervasively in light measurement. However,
     their properties are not widely understood by users. CIE 233:2019 seeks to educate
     users in the characteristics of array spectroradiometers that are important to
     obtaining accurate measurement results. Moreover, performance indices are proposed
@@ -40,7 +44,9 @@ abstract:
     and uncertainties are discussed for various common quantities, giving a sound
     foundation to measurements. Background information, underlying the discussions,
     is found in the annexes and references.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

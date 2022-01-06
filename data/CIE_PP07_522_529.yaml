@@ -10,59 +10,78 @@ title:
     522-529)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/vision-experiment-on-chroma-saturation-preference-in-different-hues-pp07-522-529?product_id=2011265
+- content: https://www.techstreet.com/cie/standards/vision-experiment-on-chroma-saturation-preference-in-different-hues-pp07-522-529?product_id=2011265
   type: src
 type: standard
 docid:
-  id: CIE PP07 522-529
+- id: CIE PP07 522-529
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: Y
-        language: en
-        script: Latn
+      - content: Y
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ohno
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Oh
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: Y
-        language: en
-        script: Latn
+      - content: Y
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kwak
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Increase of chroma is known to be a major factor for colour quality preference
+- content: Increase of chroma is known to be a major factor for colour quality preference
     in lighting, and gamut area measures are often used to evaluate preference aspects.
     However, gamut area accounts for chroma differences equally for all hue directions.
     Experiences in lighting indicates that red is most dominant in such colour quality
@@ -77,7 +96,9 @@ abstract:
     has the largest effect, green ('C*ab ≈ 15) has the second effect, and yellow's
     effect is insignificant, in subjects' preference. The results will be useful to
     develop colour preference metrics that correlates well with perceived colour quality.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

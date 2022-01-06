@@ -10,81 +10,110 @@ title:
     TRADITIONAL PAINTING (PO08, 847-855)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/study-on-spectral-composition-of-white-light-emitting-diode-for-chinese-traditional-painting-po08-847-855?product_id=2011159
+- content: https://www.techstreet.com/cie/standards/study-on-spectral-composition-of-white-light-emitting-diode-for-chinese-traditional-painting-po08-847-855?product_id=2011159
   type: src
 type: standard
 docid:
-  id: CIE PO08 847-855
+- id: CIE PO08 847-855
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: R
-        language: en
-        script: Latn
+      - content: R
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Dang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: N
-        language: en
-        script: Latn
+      - content: N
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Wang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: Y
-        language: en
-        script: Latn
+      - content: Y
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yuan
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: J
-        language: en
-        script: Latn
+      - content: J
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Liu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: G
-        language: en
-        script: Latn
+      - content: G
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Liu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: When illuminating paintings with WLED in museum, should not only consider
+- content: When illuminating paintings with WLED in museum, should not only consider
     the lowest illumination damage, but also meet the viewing requirements. Lower
     the damage of illumination on paintings must based on the requirements of viewing.
     Ten kinds of WLED spectral power distribution were chosen and the colour rendering
@@ -95,7 +124,9 @@ abstract:
     light sources can be realized, provided theoretical support for the construction
     of the lowest damage WLED spectrum for painting illumination that can meet the
     viewing requirements.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

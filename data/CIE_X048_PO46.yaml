@@ -8,70 +8,94 @@ title:
   content: THE LIGHT OF AMAZON ARCHITECT SEVERIANO MÁRIO PORTO
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-po46?product_id=2240853
+- content: https://www.techstreet.com/cie/standards/cie-x048-po46?product_id=2240853
   type: src
 type: standard
 docid:
-  id: CIE x048-PO46
+- id: CIE x048-PO46
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       forename:
-        content: Dantas
-        language: en
-        script: Latn
+      - content: Dantas
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ayana
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Medeiros
-        language: en
-        script: Latn
+      - content: Medeiros
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: de
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Naves
-        language: en
-        script: Latn
+      - content: Naves
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Cláudia
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Amorim
-        language: en
-        script: Latn
+      - content: Amorim
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: David
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The use of passive techniques in architecture is welcome. A renowned Brazilian
+- content: 'The use of passive techniques in architecture is welcome. A renowned Brazilian
     architect, Severiano Mário Porto, developed over 200 projects and became an icon
     of Brazilian modernism, specifically in the Amazon, working with this prerogative.
     This work aims to combine the analysis of the lighting quality in Severiano''s
@@ -85,7 +109,9 @@ abstract:
     computer simulations show the daylighting potential of the original design. There
     is clear evidence that the actual condition wastes the potential of the original
     design in terms of daylight use.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

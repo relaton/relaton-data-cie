@@ -11,7 +11,7 @@ title:
   content: Photometry - The CIE system of physical photometry
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-s-010-e-2004-iso-23539-2005?product_id=1210115
+- content: https://www.techstreet.com/cie/standards/cie-s-010-e-2004-iso-23539-2005?product_id=1210115
   type: src
 type: standard
 docid:
@@ -20,19 +20,23 @@ docid:
 - id: ISO 23539:2005
   type: ISO
 date:
-  type: published
+- type: published
   value: '2005-08-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2005-08-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The visual brightness of a light source depends not only on the amount of radiation it emits but also on its spectral composition and on the visual response function of the observer viewing it. Because human visual response varies at different light levels and from person to person, precise photometry requires the definition of representative standard observers. The CIE system of physical photometry specifies procedures for the quantitative evaluation of optical radiation in terms of the spectral luminous efficiency functions of two such standard observers. One, V(lambda), represents photopic vision and the other, V'(lambda), scotopic vision. Used in conjunction with the SI photometric base unit, the candela, these functions constitute a system that enables the values of photometric quantities for all types of luminous source to be precisely determined, regardless of the spectral composition of the radiation emitted.
 
     This international Standard specifies the characteristics of the system of physical photometry established by the CIE and accepted as the basis for the measurement of light. It defines the photometric quantities, units and standards that make up the CIE system of physical photometry and that have been officially accepted by the Comité International des Poids et Mesures. They comprise:
@@ -43,7 +47,9 @@ abstract:
      •   * the definition of maximum luminous efficacies for photopic and scotopic vision.
 
     An informative annex provides a vocabulary of related terms.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

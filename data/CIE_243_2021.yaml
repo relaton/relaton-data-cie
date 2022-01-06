@@ -8,7 +8,7 @@ title:
   content: Discomfort Glare in Road Lighting and Vehicle Lighting
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-243-2021?product_id=2206300
+- content: https://www.techstreet.com/cie/standards/cie-243-2021?product_id=2206300
   type: src
 type: standard
 docid:
@@ -17,22 +17,28 @@ docid:
 - id: '9783902842923'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2021-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The topic of CIE 243:2020 is discomfort glare in the context of road and vehicle lighting. It provides an overview of the research methods, mathematical models and the variables which are considered to influence discomfort glare. The report describes the difficulties associated with the evaluation and measurement of discomfort glare and the variance in the models.
     One aim of the report is to encourage further research on discomfort glare using methods informed by the proposals raised in this report. Such research will generate a greater body of credible data, thus enabling the development of a more robust model. It is intended to update this report in due course with these additional data and a revised discomfort glare model.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -8,7 +8,7 @@ title:
   content: Lighting for sports halls
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-058-1983?product_id=1209991
+- content: https://www.techstreet.com/cie/standards/cie-058-1983?product_id=1209991
   type: src
 type: standard
 docid:
@@ -17,23 +17,29 @@ docid:
 - id: '9789637251047'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1983-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1983-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This report distinguishes between sports halls designed to use artificial lighting at all times and those where daylight provides the required illumination for significant periods of time. It specifies general lighting requirements for specific sports, or combinations of activities, with regard to illuminance, uniformity, glare control and color. It comments on the arrangement, mechanical protection, installation of lighting fixtures, and their maintenance. The wide variety of lighting design techniques employed in sports halls is dictated by the structure of the building. The designer must, in each case, devise his own unique solution to meet the performance requirements which are specified in this report.
 
     The publication contains 9 pages and 1 table.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -10,66 +10,88 @@ title:
     ASTRONOMICAL OBSERVATIONS
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-po60?product_id=2240864
+- content: https://www.techstreet.com/cie/standards/cie-x048-po60?product_id=2240864
   type: src
 type: standard
 docid:
-  id: CIE x048-PO60
+- id: CIE x048-PO60
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       forename:
-        content: Lau
-        language: en
-        script: Latn
+      - content: Lau
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Steve
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Kyba
-        language: en
-        script: Latn
+      - content: Kyba
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Christopher
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: J
-        language: en
-        script: Latn
+      - content: J
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Richard
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       surname:
         content: Wainscoat
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: More and more LED media façades and LED billboards are being installed
+- content: More and more LED media façades and LED billboards are being installed
     on architecture and buildings in order to decorate city skylines or to deliver
     advertisements. The shopping malls in the busiest streets in city centers make
     extensive use of LEDs to attract tourists and to promote the nighttime economy
@@ -84,7 +106,9 @@ abstract:
     to astronomers. This paper describes how the light emission from LED media façades
     and LED billboards increases the artificial skyglow in the atmosphere and more
     importantly how this brightening skyglow affects astronomical observations.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

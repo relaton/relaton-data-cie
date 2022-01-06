@@ -8,93 +8,130 @@ title:
   content: VISUAL EFFECTS OF OBJECTS UNDER METAMERISM WITH MULTI-SPECTRAL LIGHT SOURCE
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-po11?product_id=2240825
+- content: https://www.techstreet.com/cie/standards/cie-x048-po11?product_id=2240825
   type: src
 type: standard
 docid:
-  id: CIE x048-PO11
+- id: CIE x048-PO11
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
       - content: Y
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: M
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Li
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: H
-        language: en
-        script: Latn
+      - content: H
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Fan
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lin
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: U
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Chong
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: T
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: X
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lee
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This study attempts to simulate the metamerism colour, and the guava was
+- content: This study attempts to simulate the metamerism colour, and the guava was
     used as the target object. We design four sets of metamers with a correlated colour
     temperature of 4000K and an illuminance of 750lux. The light source was simulated
     in the LED cube. The subjects with convenience sampling observed the visual effects,
@@ -105,7 +142,9 @@ abstract:
     can be used as a reference for light source lighting designers as a basis for
     improving lighting conditions. In the future, we can collect databases for the
     different objects with an optimized multi-spectral light source.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

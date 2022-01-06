@@ -14,81 +14,110 @@ title:
      (PO36, 933-941)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/uniformity-measurement-method-for-curved-display-using-image-luminance-measuring-device-po36-933-941?product_id=2011172
+- content: https://www.techstreet.com/cie/standards/uniformity-measurement-method-for-curved-display-using-image-luminance-measuring-device-po36-933-941?product_id=2011172
   type: src
 type: standard
 docid:
-  id: CIE PO36 933-941
+- id: CIE PO36 933-941
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: Y
-        language: en
-        script: Latn
+      - content: Y
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Seo
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Cho
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Choi
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: D
-        language: en
-        script: Latn
+      - content: D
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Jung
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: K
-        language: en
-        script: Latn
+      - content: K
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Choi
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Due to display market diversification, conventional flat panel displays
+- content: Due to display market diversification, conventional flat panel displays
     are being developed in curved and flexible. The performance of the display evaluation
     is evaluated not only by the design elements but also by the functional elements
     (luminance uniformity, resolution, contrast ratio and chromaticity). In FPD, typically
@@ -103,7 +132,9 @@ abstract:
     we propose a method of evaluating curved display uniformity using each pixel luminance
     value measured by ILMD (image luminance measuring device) which Benchmarked from
     flat panel display evaluation method from DFF (German Flat panel display forum).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -8,68 +8,93 @@ title:
   content: INNOVATIVE PUPIL DETECTOR EQUIPMENT (PO32, 579-583)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/innovative-pupil-detector-equipment-po32-579-583?product_id=2016308
+- content: https://www.techstreet.com/cie/standards/innovative-pupil-detector-equipment-po32-579-583?product_id=2016308
   type: src
 type: standard
 docid:
-  id: CIE PO32 579-583
+- id: CIE PO32 579-583
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       initial:
       - content: Z
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: Y
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lian
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: W
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Tseng
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: W
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Whang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The handheld pupil detector equipment provides medical personnel with a
+- content: The handheld pupil detector equipment provides medical personnel with a
     first step assessment of the condition of the patient. It can quickly determine
     the size of the pupil and provide accurate quantitative values for medical personnel.
     Initially evaluate the patient's central nervous system or drug reaction. It will
@@ -79,7 +104,9 @@ abstract:
     human eye to stimulate and observe the national standard of Photobiological safety
     and increase the contrast in image processing. The results confirm that the hardware
     device has the desired effect of detecting the pupil of the human eyes.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

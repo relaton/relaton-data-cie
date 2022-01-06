@@ -8,7 +8,7 @@ title:
   content: Proceedings of the First CIE Symposium on Lighting Quality
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x015-1998?product_id=1210099
+- content: https://www.techstreet.com/cie/standards/cie-x015-1998?product_id=1210099
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783900734916'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1998-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1998-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The impetus for this Symposium came from many directions, as lighting quality is high on the agenda for many in the international lighting community. The National Research Council of Canada hosted the first-ever international effort to summarise what is known about lighting quality and to set a course for research to improve that understanding.
 
     The conference committee set certain objectives for the two-day symposium, these being to review world-wide research, theory and practice related to lighting quality:
@@ -43,7 +47,9 @@ abstract:
     These issues were examined from the perspectives of "Design", "Research" and the "Integration" of Lighting Quality, Daylighting, Electric Lighting, Energy Efficiency and Environmental Issues. Invited speakers provided keynote addresses to open the three sessions, and were followed by invited responses or commentaries. In each session, a wide variety of papers and posters from authors in Europe, North America, Australasia and Asia contributed to lively discussion and debate. The event culminated in focused group discussions.
 
     The volume is 247 pages, softcover, and includes all papers and posters presented at the symposium, a summary of the group discussions, and a concluding statement by the conference committee outlining a framework for advancing lighting quality in research, education, and practice.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

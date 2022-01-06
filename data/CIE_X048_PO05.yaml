@@ -10,73 +10,99 @@ title:
     STUDY OF 15TH CENTURY WORLD HERITAGE SITE IN NEPAL'
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-po05?product_id=2240822
+- content: https://www.techstreet.com/cie/standards/cie-x048-po05?product_id=2240822
   type: src
 type: standard
 docid:
-  id: CIE x048-PO05
+- id: CIE x048-PO05
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
-        content: D
-        language: en
-        script: Latn
+      - content: D
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Bista
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: A
-        language: en
-        script: Latn
+      - content: A
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Bista
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: P
-        language: en
-        script: Latn
+      - content: P
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Bhusal
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: B
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: B
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Chhetri
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Nepal houses several architecturally and culturally rich heritage sites
+- content: Nepal houses several architecturally and culturally rich heritage sites
     and monuments. These sites are recognised globally and are of immense importance
     to the local and worldwide audience. The majority were constructed during the
     15th to 18th century and were designed to incorporate oil or fat-based wick lamps
@@ -95,7 +121,9 @@ abstract:
     for the study. The study thus makes recommendations for an appropriate spectrum
     of light sources for Nepals heritage sites and monuments based on the experimental
     findings. 
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -8,7 +8,7 @@ title:
   content: CIE Collection in colour and vVision
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-118-1995?product_id=1210145
+- content: https://www.techstreet.com/cie/standards/cie-118-1995?product_id=1210145
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783900734718'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1995-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1995-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This volume contains short Technical Reports, Research Notes and Reporters' Reports prepared by various Technical Committees and Reporters within Division 1. In part they were published in the "CIE Journal" in 1986.
 
     118/1 Evaluation of the attribute of appearance called gloss
@@ -76,7 +80,9 @@ abstract:
     This report was prepared by K. Witt, Germany
 
     The publication contains also abstracts of 20 CIE Publications dealing with colour and vision. The Technical Collection is written in English, with short summaries in French and German. It consists of 65 pages.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

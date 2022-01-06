@@ -10,79 +10,109 @@ title:
     PARAMETERS OF EXISTING LIGHT-EMITTING DIODE LAMPS IN INDONESIA  (OP02, Pages 25-31)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/user-performance-and-preference-study-under-various-photometric-and-colorimetric-parameters-of-existing-light-emitting-diode-lamps-in-indonesia-op02-pages-25-31?product_id=2009458
+- content: https://www.techstreet.com/cie/standards/user-performance-and-preference-study-under-various-photometric-and-colorimetric-parameters-of-existing-light-emitting-diode-lamps-in-indonesia-op02-pages-25-31?product_id=2009458
   type: src
 type: standard
 docid:
-  id: CIE x044-OP02
+- id: CIE x044-OP02
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
       - content: R
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Revantino Mangkuto
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: A
-        language: en
-        script: Latn
+      - content: A
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Enge
-        language: en
-        script: Latn
-  role: author
-- person:
-    name:
-      initial:
-        content: F
-        language: en
-        script: Latn
-      surname:
-        content: Munir
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: F
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Munir
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
+- person:
+    name:
+      initial:
+      - content: F
+        language:
+        - en
+        script:
+        - Latn
       - content: X
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: N
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Soelami
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: In this study, measurements of various domestic light-emitting diode (LED)
+- content: In this study, measurements of various domestic light-emitting diode (LED)
     lamps were conducted to investigate the effects of varying illuminance, correlated
     colour temperature (CCT), and colour rendering index (CRI) on visual perception;
     and to determine the users' preference of those parameters under LED lamps in
@@ -95,7 +125,9 @@ abstract:
     The subjects preferred higher CRI value for visual comfort, also at illuminance
     350 lx and CCT 6500 K; but preferred higher illuminance and CCT for good lighting
     level and colour clarity.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

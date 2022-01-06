@@ -10,26 +10,30 @@ title:
     Areas
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-206-2014?product_id=1872083
+- content: https://www.techstreet.com/cie/standards/cie-206-2014?product_id=1872083
   type: src
 type: standard
 docid:
-  id: CIE 206:2014
+- id: CIE 206:2014
   type: CIE
 date:
-  type: published
+- type: published
   value: '2014-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     Lighting design for roads in urban and pedestrian areas considers primarily the needs of pedestrians rather than drivers. This report presents a summary of recent research on the implications of lamp spectrum for those tasks considered to be important for pedestrians. These tasks include detection of pavement obstacles, inter-personal judgements such as facial recognition, and judgement of brightness. For pedestrians, brightness is important because brighter lighting tends to produce higher levels of perceived safety in a particular location.
 
     It has been found that in the mesopic region lamps with a higher scotopic/photopic (S/P) ratio appear brighter, and permit better detection of peripheral obstacles, than do lamps with lower S/P-ratios at the same illuminance. This means that lamps with a high S/P-ratio can be used either at the same illuminance to create a higher brightness and better detection of peripheral obstacles or at a lower illuminance but the same brightness and obstacle detection ability, the latter leading to a reduction in energy consumption. The CIE recommended system of mesopic photometry can be used to predict brightness and peripheral obstacle detection under lamps having different spectra.
@@ -40,7 +44,9 @@ abstract:
 
     Other factors, in addition to the influence of lamp spectrum on vision, may also need to be considered when selecting the most appropriate lighting. These are discussed in the final section of the report, and include effects of lighting on the natural environment, glare, and the impact of changes in the eye that occur with age. The increase in visual effectiveness offered by lamps optimized for use in the mesopic region (i.e. higher S/P ratio) may be lower for older persons than for the rest of the population, and such lamps may lead to increased discomfort glare effects for these older observers. In general, the use of 'white' light in street lighting applications is beneficial, provided that these other factors are also taken into account and are not significantly impacted (e.g. provided glare is not significantly increased).
     The publication is written in English, with a short summary in French and German.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

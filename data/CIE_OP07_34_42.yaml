@@ -10,59 +10,78 @@ title:
     OFFICE LIGHTING (OP07, 34-42)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/development-of-an-autonomous-sun-shading-device-integrated-with-high-efficient-office-lighting-op07-34-42?product_id=2016202
+- content: https://www.techstreet.com/cie/standards/development-of-an-autonomous-sun-shading-device-integrated-with-high-efficient-office-lighting-op07-34-42?product_id=2016202
   type: src
 type: standard
 docid:
-  id: CIE OP07 34-42
+- id: CIE OP07 34-42
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       forename:
-        content: Han
-        language: en
-        script: Latn
+      - content: Han
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Li
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Tomoko
-        language: en
-        script: Latn
+      - content: Tomoko
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Koga
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Yasuko
-        language: en
-        script: Latn
+      - content: Yasuko
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Koga
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The final goal of this research is to develop a facade system with a sun-shading
+- content: The final goal of this research is to develop a facade system with a sun-shading
     device that is autonomously controlled as an integrated solution for daylight
     and electric lighting. The facade system has photovoltaic sensors (PV-slats) on
     the outer surface of the sun-shading device and can monitor daylight illuminance
@@ -75,7 +94,9 @@ abstract:
     insufficient illuminance in rooms. Compared with the basic sun-shading control
     angle, PV-slat angle showed better results in both air-conditioning load and lighting
     simulations.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

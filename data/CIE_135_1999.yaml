@@ -10,7 +10,7 @@ title:
     and radiation'
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-135-1999?product_id=1210053
+- content: https://www.techstreet.com/cie/standards/cie-135-1999?product_id=1210053
   type: src
 type: standard
 docid:
@@ -19,19 +19,23 @@ docid:
 - id: '9783900734978'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1999-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1999-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This volume contains short Technical Reports and Research Notes prepared
+- content: "This volume contains short Technical Reports and Research Notes prepared
     by various Technical Committees and Reporters within CIE Division 1 and 2.\n\n135/1
     Disability glare>\n\nOn the basis of a preceding theoretical analysis of experimental
     data on disability glare published in CIE Collection (Vos and Van den Berg, 1997),
@@ -116,7 +120,9 @@ abstract:
     publication contains also abridged abstracts of CIE Publications prepared within
     Division 1 and 2.\n\nThese reports are written in English, with short summaries
     in French and German. The publication contains 78 pages."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

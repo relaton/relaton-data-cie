@@ -10,54 +10,72 @@ title:
     (OP04, 11-18)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/effectiveness-of-bright-light-therapy-in-the-treatment-for-mood-disorder-op04-11-18?product_id=2016199
+- content: https://www.techstreet.com/cie/standards/effectiveness-of-bright-light-therapy-in-the-treatment-for-mood-disorder-op04-11-18?product_id=2016199
   type: src
 type: standard
 docid:
-  id: CIE OP04 11-18
+- id: CIE OP04 11-18
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       initial:
       - content: Y
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: X
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Zhuang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: Y
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: D
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lin
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This paper laid out two cases of treatment, each carried out with different
+- content: 'This paper laid out two cases of treatment, each carried out with different
     bright light therapy conditions, based on the condition of effective bright light
     therapy for seasonal affective disorder. The purpose of this paper is to assess
     the evidence base for the effect of right light therapy on non-seasonal depression
@@ -68,7 +86,9 @@ abstract:
     an optimum bright light therapy condition: LED light at 4400 K of 4000 lx conducted
     in the evening tend to have good effect on non-seasonal depression and depress
     oriented people.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

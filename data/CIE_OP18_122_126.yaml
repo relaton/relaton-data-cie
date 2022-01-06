@@ -10,51 +10,67 @@ title:
     CONDITIONS (OP18, 122-126)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/study-chromatic-adaptation-via-neutral-white-assessment-in-different-viewing-conditions-op18-122-126?product_id=2010428
+- content: https://www.techstreet.com/cie/standards/study-chromatic-adaptation-via-neutral-white-assessment-in-different-viewing-conditions-op18-122-126?product_id=2010428
   type: src
 type: standard
 docid:
-  id: CIE OP18 122-126
+- id: CIE OP18 122-126
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: Q
-        language: en
-        script: Latn
+      - content: Q
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Zhai
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: M
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: R
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Luo
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This study focused on the neutral white of chromatic adaptation in colour
+- content: This study focused on the neutral white of chromatic adaptation in colour
     science. Using both surface colours and self-luminous colours, an experiment was
     conducted to collected visual results of the neutral white under white illuminants.
     The result proves the previous study about the chromatic adaptation. The baseline
@@ -62,7 +78,9 @@ abstract:
     and self-luminous colours respectively. Models of effective degree of chromatic
     adaptation were tested and compared with that found in the previous study, which
     was found highly associated with the viewing media.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

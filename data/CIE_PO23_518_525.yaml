@@ -10,48 +10,62 @@ title:
     OF ILLUMINANCE-EFFECTS AND GAMUT-SHAPE-EFFECTS  (PO23, 518-525)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/proposal-for-the-new-formula-of-colour-rendering-properties-taking-account-of-illuminance-effects-and-gamut-shape-effects-po23-518-525?product_id=2016300
+- content: https://www.techstreet.com/cie/standards/proposal-for-the-new-formula-of-colour-rendering-properties-taking-account-of-illuminance-effects-and-gamut-shape-effects-po23-518-525?product_id=2016300
   type: src
 type: standard
 docid:
-  id: CIE PO23 518-525
+- id: CIE PO23 518-525
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       initial:
-        content: Y
-        language: en
-        script: Latn
+      - content: Y
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Nakajima
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: T
-        language: en
-        script: Latn
+      - content: T
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Fuchida
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The purpose of this study is to examine the importance of red when colour
+- content: The purpose of this study is to examine the importance of red when colour
     rendition of object colours is evaluated, also check the accuracy of "Colour Quality
     Index" called Gx(E) proposed by the authors which takes account of illuminance
     and gamut shape. Two psychophysical experiments were conducted using various light
@@ -60,7 +74,9 @@ abstract:
     by the SD method. It was confirmed that the colour rendition of red was important
     not only for colour impression but also for texture impression. In addition, Gx(E)
     showed good correlation with subjective evaluation regardless of illuminance.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

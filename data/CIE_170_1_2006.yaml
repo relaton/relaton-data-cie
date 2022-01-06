@@ -8,7 +8,7 @@ title:
   content: Fundamental Chromaticity Diagram With Physiological Axes
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-170-1-2006?product_id=1270665
+- content: https://www.techstreet.com/cie/standards/cie-170-1-2006?product_id=1270665
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783901906466'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2006-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2006-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     CIE established, in 1991, the Technical Committee TC 1-36 with the following Terms of Reference: "Establish a fundamental chromaticity diagram of which the co-ordinates correspond to physiologically significant axes".
 
     Part I of the report is limited to the choice of a set of colour matching functions and estimates of cone fundamentals for the normal observer, ranging in viewing angle from 1° to 10°.
@@ -53,7 +57,9 @@ abstract:
     •the maximal values of the optical density of the visual pigments as a function of field size.
 
     The report is written in English, with a short summary in French and German. It consists of 53 pages with 10 figures and 12 tables.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

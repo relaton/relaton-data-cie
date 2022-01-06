@@ -8,73 +8,99 @@ title:
   content: OPTIMISING ROAD LIGHTING TO REDUCE ROAD TRAFFIC CRASHES
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op32?product_id=2240782
+- content: https://www.techstreet.com/cie/standards/cie-x048-op32?product_id=2240782
   type: src
 type: standard
 docid:
-  id: CIE x048-OP32
+- id: CIE x048-OP32
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Robbins
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Fotios
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: J
-        language: en
-        script: Latn
+      - content: J
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Uttley
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: R
-        language: en
-        script: Latn
+      - content: R
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Rowe
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Pedestrians and motorcyclists are vulnerable road users, being over represented
+- content: Pedestrians and motorcyclists are vulnerable road users, being over represented
     in road traffic collisions (RTCs). One assumed benefit of road lighting is a reduction
     in RTCs after dark by countering the impairment to the visual detection of hazards
     that occur after dark. One way to optimise the use of road lighting is to light
@@ -88,7 +114,9 @@ abstract:
     at junctions for motorcyclists and on high-speed roads for pedestrians, road lighting
     may not be effective mitigation in either case and therefore alternative ways
     of increasing conspicuity should be considered. 
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

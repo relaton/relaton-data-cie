@@ -10,7 +10,7 @@ title:
     Display Comparisons
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-195-2011?product_id=1778866
+- content: https://www.techstreet.com/cie/standards/cie-195-2011?product_id=1778866
   type: src
 type: standard
 docid:
@@ -19,19 +19,23 @@ docid:
 - id: '9783901906930'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2011-03-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2011-03-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Technical Report summarizes the body of work conducted by CIE Technical
+- content: This Technical Report summarizes the body of work conducted by CIE Technical
     Committee 1-27 "Specification of Colour Appearance for Reflective Media and Self-Luminous
     Display Comparisons" from 1990 until 2001. After compiling data from researchers
     around the world and studying various forms of colour appearance models to predict
@@ -43,7 +47,9 @@ abstract:
     colour appearance model by combining the best features of the colour appearance
     models that were studied by CIE TC1-27. The result was the development of the
     CIECAM02 colour appearance model.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

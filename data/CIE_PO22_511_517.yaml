@@ -8,59 +8,78 @@ title:
   content: SPARKLE ESTIMATION OF METALLIC SAMPLES USING A LOW-COST SYSTEM (PO22, 511-517)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/sparkle-estimation-of-metallic-samples-using-a-low-cost-system-po22-511-517?product_id=2016299
+- content: https://www.techstreet.com/cie/standards/sparkle-estimation-of-metallic-samples-using-a-low-cost-system-po22-511-517?product_id=2016299
   type: src
 type: standard
 docid:
-  id: CIE PO22 511-517
+- id: CIE PO22 511-517
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       forename:
-        content: Guo-Qiang
-        language: en
-        script: Latn
+      - content: Guo-Qiang
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Zhong
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Pei-Li
-        language: en
-        script: Latn
+      - content: Pei-Li
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Sun
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Hung-Shing
-        language: en
-        script: Latn
+      - content: Hung-Shing
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Chen
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Howe to quantify material appearance becomes more and more important as
+- content: Howe to quantify material appearance becomes more and more important as
     new materials and new finishing methods are available for industrial designers
     to choose for enhancing visual appearance of a product. However, some appearance
     attributes such as Sparkle and Graininess are not easy to be measured and quantified.
@@ -69,7 +88,9 @@ abstract:
     (15°, 45°, 75°) were analysed and the results were used to predict the BYK Sparkle
     Grade (Sg). Furthermore, we could control the camera of the lowcost system to
     simulate different sparkle grade with High Dynamic Range (HDR) image rendering.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -14,124 +14,177 @@ title:
      (PO34, 918-922)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/an-evaluation-of-the-characteristics-of-connected-led-lamps-po34-918-922?product_id=2011170
+- content: https://www.techstreet.com/cie/standards/an-evaluation-of-the-characteristics-of-connected-led-lamps-po34-918-922?product_id=2011170
   type: src
 type: standard
 docid:
-  id: CIE PO34 918-922
+- id: CIE PO34 918-922
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: M
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: W
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Jeong
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: K
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Seo
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: Y
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: S
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Han
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: Y
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Cho
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: W
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kyung
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: W
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Jang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: After incandescent lamp invention, lighting has been part of our lives.
+- content: After incandescent lamp invention, lighting has been part of our lives.
     Lighting is celebrating a new paradigm with the introduction of LED technology.
     Now, LED lighting is beyond the scope of classical category and creates a variety
     of value-added situation such as motional lighting and connected lighting. Eco-friendly
@@ -142,7 +195,9 @@ abstract:
     according to the time or the surrounding environment. However, there is no international
     standard for such connected lighting for the time being. In In this paper, we
     have investigated the characteristics of various types connected LED lamps.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

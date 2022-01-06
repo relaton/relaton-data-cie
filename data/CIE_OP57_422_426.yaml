@@ -14,62 +14,83 @@ title:
       (OP57, 422-426)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/comparison-between-oled-and-led-lighting-user-preferences-and-influence-on-well-being-in-france-and-japan-op57-422-426?product_id=2010528
+- content: https://www.techstreet.com/cie/standards/comparison-between-oled-and-led-lighting-user-preferences-and-influence-on-well-being-in-france-and-japan-op57-422-426?product_id=2010528
   type: src
 type: standard
 docid:
-  id: CIE OP57 422-426
+- id: CIE OP57 422-426
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: D
-        language: en
-        script: Latn
+      - content: D
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Dumortier
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: J
-        language: en
-        script: Latn
+      - content: J
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Derlande
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: N
-        language: en
-        script: Latn
+      - content: N
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yoshizawa
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     Not only LED but also OLED (organic LED) is promising technology for lighting in the future, however, there are technical differences in the spectral characteristics and spatial distribution of luminous intensity between these two technologies. The purpose of this research aims to investigate whether subjects would prefer LED or OLED lighting and if they would feel or perform differently under LED or OLED white light, focusing only on the influence of the spectrum. To take into account cultural differences, the experiment was done both in France and Japan. As results of subjective experiments, 3000K seems to be the colour temperature
     preferred in France and in Japan for reading and playing. Psychological evaluation questionnaires and heart rate measurements indicate that there is no significant soothing effect coming from the white light produced by LED panels or OLED panels, at illuminance levels of 60 lux in the eye.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

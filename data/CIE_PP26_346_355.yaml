@@ -10,81 +10,110 @@ title:
     ACCURATE ENOUGH? (PP26, 346-355)'
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/exploring-the-optimistic-daylighting-design-method-is-computational-simulation-accurate-enough-pp26-346-355?product_id=2016271
+- content: https://www.techstreet.com/cie/standards/exploring-the-optimistic-daylighting-design-method-is-computational-simulation-accurate-enough-pp26-346-355?product_id=2016271
   type: src
 type: standard
 docid:
-  id: CIE PP26 346-355
+- id: CIE PP26 346-355
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       forename:
-        content: Jialu
-        language: en
-        script: Latn
+      - content: Jialu
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Wu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Di
-        language: en
-        script: Latn
+      - content: Di
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Xiao
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Tikuan
-        language: en
-        script: Latn
+      - content: Tikuan
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Deng
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Lei
-        language: en
-        script: Latn
+      - content: Lei
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Biao
-        language: en
-        script: Latn
+      - content: Biao
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The technology of architecture daylighting design method, especially computational
+- content: 'The technology of architecture daylighting design method, especially computational
     simulation method, has been developing quickly. Computational simulation software
     are currently the most widely used software for architecture daylighting design.
     The accuracy of computational simulation is limited when applied on long-span
@@ -98,7 +127,9 @@ abstract:
     the accuracy of simulation on daylighting design, artificial sky as a physical
     simulation tool used to simulate skylight has been showing great potential for
     development.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -10,7 +10,7 @@ title:
     Softcopy and Hardcopy Images (Including Erratum 1)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-162-2010?product_id=1673568
+- content: https://www.techstreet.com/cie/standards/cie-162-2010?product_id=1673568
   type: src
 type: standard
 docid:
@@ -19,19 +19,23 @@ docid:
 - id: '9783901906824'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2010-02-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2010-02-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The chromatic adaptation transforms used in most colour appearance models
     assume that observers are fully adapted to a given set of viewing conditions.
     Unfortunately, the condition of complete chromatic adaptation usually does not occur
@@ -49,11 +53,13 @@ abstract:
     Mixed Illumination Condition when Comparing Softcopy and Hardcopy Images".
     An Erratum is included that shows a corrected version of Equation 6.13 and a
     corrected Annex.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     id: CIE162-2004
     title:
@@ -66,13 +72,13 @@ relation:
         softcopy and hardcopy images
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-162-2004?product_id=1210120
+    - content: https://www.techstreet.com/cie/standards/cie-162-2004?product_id=1210120
       type: src
     docid:
-      id: CIE 162:2004
+    - id: CIE 162:2004
       type: CIE
     date:
-      type: published
+    - type: published
       value: '2004-01-01'
     revdate: '2004-01-01'
 doctype: document

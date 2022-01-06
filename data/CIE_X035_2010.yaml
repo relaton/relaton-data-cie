@@ -8,7 +8,7 @@ title:
   content: Proceedings of the Lighting Quality and Energy Efficiency Conference
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x035-2010?product_id=1677766
+- content: https://www.techstreet.com/cie/standards/cie-x035-2010?product_id=1677766
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '978390906831'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2010-03-14'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2010-03-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     In March 2010 the Lighting Quality & Energy Efficiency Conference took place
     in Vienna, Austria. The event gave academics, lighting industry professionals,
     designers, researchers and representatives of regulatory authorities the
@@ -41,7 +45,9 @@ abstract:
     lamps.
     The Proceedings of this Conference include invited papers and contributed
     papers as well as papers on the poster presentations.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

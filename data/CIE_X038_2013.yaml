@@ -10,7 +10,7 @@ title:
     Paris, France, 15-16 April 2013
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x038-2013?product_id=1857434
+- content: https://www.techstreet.com/cie/standards/cie-x038-2013?product_id=1857434
   type: src
 type: standard
 docid:
@@ -19,19 +19,23 @@ docid:
 - id: '9783902842442'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2013-04-15'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-04-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     In April 2013 CIE celebrated its 100th birthday in the course of its Midterm Meeting in
     Paris, France. The meeting was accompanied by a 2-days conference on the subject
     "Towards a New Century of Light". In 2 keynote speeches, 60 oral presentations and
@@ -47,11 +51,13 @@ abstract:
 
     The Proceedings of this Conference consist of 1261 pages including 173 papers of
     oral and poster presentations with some 1200 figures and some 300 tables.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     id: CIEx038-2013
     title:
@@ -64,13 +70,13 @@ relation:
         Paris, France, 15-16 April 2013, Includes Addendum 1
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-x038-2013?product_id=1860287
+    - content: https://www.techstreet.com/cie/standards/cie-x038-2013?product_id=1860287
       type: src
     docid:
-      id: CIE x038:2013
+    - id: CIE x038:2013
       type: CIE
     date:
-      type: published
+    - type: published
       value: '2013-06-01'
     revdate: '2013-06-01'
 doctype: document

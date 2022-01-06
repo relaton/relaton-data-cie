@@ -8,7 +8,7 @@ title:
   content: Optical Safety of Infrared Eye Trackers Applied for Extended Durations
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-245-2021?product_id=2237423
+- content: https://www.techstreet.com/cie/standards/cie-245-2021?product_id=2237423
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783902842145'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2021-10-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-10-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Infrared eye trackers are employed to achieve communication through gaze
+- content: Infrared eye trackers are employed to achieve communication through gaze
     interaction, which is an important application of modern electro-optics and computer
     technology to the benefit of persons with disabilities who have major motor impairments,
     as well as for general use as a human-to-computer interaction device.By tracking
@@ -51,7 +55,9 @@ abstract:
     eye trackers and found that the day-long average exposure in these typical examples
     of current technology did not exceed that criterion.The publication is written
     in English, with a short summary in French and German.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

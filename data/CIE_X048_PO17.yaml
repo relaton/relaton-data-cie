@@ -10,60 +10,80 @@ title:
     LUMINANCE METER
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-po17?product_id=2240830
+- content: https://www.techstreet.com/cie/standards/cie-x048-po17?product_id=2240830
   type: src
 type: standard
 docid:
-  id: CIE x048-PO17
+- id: CIE x048-PO17
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Bartsev
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Bartseva
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The method for estimating the illuminance distribution in the vertical
+- content: The method for estimating the illuminance distribution in the vertical
     plane of museum objects (paintings) using a digital imaging luminance meters (ILMD)
     is considered. In order to pass from the luminance distribution to the illuminance
     distribution, a screen with reflective properties close to diffuse (Lambert) reflection
     is used. The theoretical and experimental uncertainty estimation of the measurement
     method done.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

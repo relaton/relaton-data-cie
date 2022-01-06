@@ -10,54 +10,70 @@ title:
     FOR AN OPTICAL SEE-THROUGH HMD (PO38, 616-625)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/a-real-time-system-to-enhance-legibility-and-awareness-of-text-information-for-an-optical-see-through-hmd-po38-616-625?product_id=2016414
+- content: https://www.techstreet.com/cie/standards/a-real-time-system-to-enhance-legibility-and-awareness-of-text-information-for-an-optical-see-through-hmd-po38-616-625?product_id=2016414
   type: src
 type: standard
 docid:
-  id: CIE PO38 616-625
+- id: CIE PO38 616-625
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       forename:
-        content: Yu-Jung
-        language: en
-        script: Latn
+      - content: Yu-Jung
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lin
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Pei-Li
-        language: en
-        script: Latn
+      - content: Pei-Li
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Sun
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: In the applications of augmented reality, high legibility of text information
+- content: In the applications of augmented reality, high legibility of text information
     is important to an optical see-through HMD. However, in an outdoor environment,
     bright and complex scene would greatly reduce their legibility. Hence, a series
     visual experiments were conducted to summarize the rules of text placement and
     text rendering for the type of applications. And a real-time system is made to
     demonstrate its visual effects.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

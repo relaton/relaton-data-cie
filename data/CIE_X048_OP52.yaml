@@ -10,59 +10,78 @@ title:
     SCALE LUMINAIRES
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op52?product_id=2240804
+- content: https://www.techstreet.com/cie/standards/cie-x048-op52?product_id=2240804
   type: src
 type: standard
 docid:
-  id: CIE x048-OP52
+- id: CIE x048-OP52
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
-        content: B
-        language: en
-        script: Latn
+      - content: B
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Abboushi
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: N
-        language: en
-        script: Latn
+      - content: N
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Miller
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Fotios
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: In outdoor environments after dark, pedestrians may experience discomfort
+- content: In outdoor environments after dark, pedestrians may experience discomfort
     from road lighting. Previous studies have therefore developed models to predict
     discomfort from glare in pedestrian applications. However, the performance of
     these models has not been comprehensively assessed, and measurement challenges
@@ -76,7 +95,9 @@ abstract:
     and other lighting installations 1 lx - 4 lx. Further studies are needed to examine
     the importance of incorporating indirect illuminance from source and ambient illuminance
     for predicting discomfort glare.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

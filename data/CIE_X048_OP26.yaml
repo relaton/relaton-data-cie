@@ -8,48 +8,62 @@ title:
   content: ADAPTATIONS TO SUBJECTIVE INSTRUMENTS FOR DYNAMIC VIEW ASSESSMENT EVALUATION
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op26?product_id=2240708
+- content: https://www.techstreet.com/cie/standards/cie-x048-op26?product_id=2240708
   type: src
 type: standard
 docid:
-  id: CIE x048-OP26
+- id: CIE x048-OP26
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
-        content: F
-        language: en
-        script: Latn
+      - content: F
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Rodriguez
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: V
-        language: en
-        script: Latn
+      - content: V
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Garcia-Hansen
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Although daylight changes seen through windows are likely to mediate positive
+- content: Although daylight changes seen through windows are likely to mediate positive
     responses in occupants, there are no specialized instruments capturing responses
     to dynamic attributes in views. This study mapped self-report instruments that
     could be readily adjusted to measure subjective responses to dynamic views. Through
@@ -62,7 +76,9 @@ abstract:
     that semantic adaptations and further validations are set in place. This study
     highlights the need for more validation studies to increase the robustness of
     self-report instruments and outlines a theoretical approach to achieve this scope.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

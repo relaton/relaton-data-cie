@@ -12,7 +12,7 @@ title:
     2007
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-178-2007?product_id=1535725
+- content: https://www.techstreet.com/cie/standards/cie-178-2007?product_id=1535725
   type: src
 type: standard
 docid:
@@ -21,19 +21,23 @@ docid:
 - id: '9783901906596'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2007-07-11'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2007-07-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This CD-ROM contains on over 1850 pages the texts of the Invited Papers,
     Presented Papers and Posters presented at the Session, as well as the introductions
     to the Workshops.
@@ -56,7 +60,9 @@ abstract:
     and the extended papers. In the content list the titles are also operational as
     links.
     A separate directory includes the photos of the Session.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

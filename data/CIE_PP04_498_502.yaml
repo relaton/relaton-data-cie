@@ -12,74 +12,103 @@ title:
      (PP04, 498-502)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/a-physically-based-interpretation-of-the-hue-of-surfaces-pp04-498-502?product_id=2011262
+- content: https://www.techstreet.com/cie/standards/a-physically-based-interpretation-of-the-hue-of-surfaces-pp04-498-502?product_id=2011262
   type: src
 type: standard
 docid:
-  id: CIE PP04 498-502
+- id: CIE PP04 498-502
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
       - content: L
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Whitehead
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: K
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: G
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Smet
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: M
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Webster
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     From an early age, people learn to recognize the hues of coloured surfaces, distinguishing roughly 40 different hues in a cyclic pattern. Human perception of surface hue depends only weakly on the correlated colour temperature (CCT) and intensity of illumination, and the saturation and lightness of the surface. Thus, hue seems like a real, independent physical characteristic. However, it does not correlate well with the spectral power distribution of light reflecting from an object. Contrast this with the perceived weight of an object, which relates directly to a simple physical characteristic - mass. Is there a simple physical correlate for hue?
     We show that hue does correlate very well with the plot of an object?s surface reflectance versus wavelength - hue is the polar angle defined by the plot?s average curvature and average slope. Detecting this may have been evolutionarily advantageous because it correlates well with specific substances present within an object?s surface.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

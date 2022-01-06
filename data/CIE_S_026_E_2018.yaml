@@ -10,26 +10,30 @@ title:
     to Light
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-s-026-e-2018?product_id=2030705
+- content: https://www.techstreet.com/cie/standards/cie-s-026-e-2018?product_id=2030705
   type: src
 type: standard
 docid:
-  id: CIE S 026/E:2018
+- id: CIE S 026/E:2018
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-12-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-12-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This International Standard defines spectral sensitivity functions, quantities and metrics to describe the ability of optical radiation to stimulate each of the five photoreceptor types that can contribute, via the melanopsin-containing intrinsically-photosensitive retinal ganglion cells (ipRGCs), to retina-mediated non-visual effects of light in humans. The document is applicable to visible optical radiation in the wavelength range from 380 nm to 780 nm. In addition, the document includes information concerning the effects of age and field of view (FOV) when quantifying retinal photoreceptor stimulation for ipRGC-influenced responses to light (IIL responses).
     The document does not give complete information for particular lighting applications, or for the quantitative prediction of IIL responses.
     The document is not intended for colorimetric contexts, nor does it address health or safety issues such as those resulting from light treatment, flicker or photobiological safety and only relates to retinal photoreception.
@@ -37,11 +41,13 @@ abstract:
     This International Standard has been approved by the CIE National Committees. The document is readily available from the CIE Webshop or from the National Committees of the CIE.
     The price of this publication is EUR 162,- (Members of the National Committees of the CIE receive a 66,7 % discount on this price).
     English version is included in the case of purchasing a translation.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     id: CIEDIS026/E-2018
     title:
@@ -54,13 +60,13 @@ relation:
         Responses to Light
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-dis-026-e-2018?product_id=2019562
+    - content: https://www.techstreet.com/cie/standards/cie-dis-026-e-2018?product_id=2019562
       type: src
     docid:
-      id: CIE DIS 026/E:2018
+    - id: CIE DIS 026/E:2018
       type: CIE
     date:
-      type: published
+    - type: published
       value: '2018-07-01'
     revdate: '2018-07-01'
 doctype: document

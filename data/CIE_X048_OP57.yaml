@@ -10,70 +10,94 @@ title:
     APPEARANCE USING COMPUTER GRAPHICS
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op57?product_id=2240809
+- content: https://www.techstreet.com/cie/standards/cie-x048-op57?product_id=2240809
   type: src
 type: standard
 docid:
-  id: CIE x048-OP57
+- id: CIE x048-OP57
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Mizushima
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: H
-        language: en
-        script: Latn
+      - content: H
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kudo
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: Y
-        language: en
-        script: Latn
+      - content: Y
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Dobashi
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: Y
-        language: en
-        script: Latn
+      - content: Y
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Mizokami
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The appearance of an object depends on its material, shape, and lighting.
+- content: The appearance of an object depends on its material, shape, and lighting.
     In particular, the diffuseness of the illumination has a significant effect on
     the appearance of material and surface texture. We investigated a diffuseness
     condition suitable for reproducing surface appearance using computer graphics.
@@ -86,7 +110,9 @@ abstract:
     appearance. However, a particular material is difficult to memorize and evaluate
     its appearance. The results suggest that it is possible to define a diffuseness
     that adequately reproduces the appearance of an object using computer graphics.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

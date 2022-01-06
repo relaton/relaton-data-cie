@@ -8,48 +8,62 @@ title:
   content: TRANSMITTANCE HAZE MEASUREMENT FOR HIGH HAZE MATERIALS (PO33, 584-590)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/transmittance-haze-measurement-for-high-haze-materials-po33-584-590?product_id=2016309
+- content: https://www.techstreet.com/cie/standards/transmittance-haze-measurement-for-high-haze-materials-po33-584-590?product_id=2016309
   type: src
 type: standard
 docid:
-  id: CIE PO33 584-590
+- id: CIE PO33 584-590
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       forename:
-        content: Wen-Chun
-        language: en
-        script: Latn
+      - content: Wen-Chun
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Liu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Hsueh-Ling
-        language: en
-        script: Latn
+      - content: Hsueh-Ling
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This paper presents the transmittance haze (TH) results of high haze materials
+- content: This paper presents the transmittance haze (TH) results of high haze materials
     measured according to current documentary standards, such as ASTM D1003 and ISO14782,
     and some other measurement methods, such as double-beam method, double-compensation
     method and BTDF. Compared to the TH by double-compensation method (theoretically
@@ -59,7 +73,9 @@ abstract:
     level are similar to those at the haze value below 40 % and it means that the
     structure of an integrating sphere also affect the measurement at highlevel haze
     mainly.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

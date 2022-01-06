@@ -8,7 +8,7 @@ title:
   content: Fundamentals of the visual task of night driving
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-100-1992?product_id=1210022
+- content: https://www.techstreet.com/cie/standards/cie-100-1992?product_id=1210022
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783900734374'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1992-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1992-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This report presents the principal fundamental information known about
+- content: "This report presents the principal fundamental information known about
     the visual task of driving at night and provides insights as to how these principals
     may be used to make roadways safer and improve traffic flow at night. The first
     chapter describes the visual task of driving and establishes the elements in the
@@ -48,7 +52,9 @@ abstract:
     conditions. Design elements discussed include public and vehicular lighting, the
     use of retroreflective materials and the use of self-luminous signals.\n\nThe
     report contains 70 pages, 9 figures and 8 tables, and a detailed bibliography."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

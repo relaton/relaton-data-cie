@@ -8,37 +8,46 @@ title:
   content: CIE 2017 COLOUR FIDELITY INDEX (IP04, Pages 10-16)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-2017-colour-fidelity-index-ip04-pages-10-16?product_id=2009448
+- content: https://www.techstreet.com/cie/standards/cie-2017-colour-fidelity-index-ip04-pages-10-16?product_id=2009448
   type: src
 type: standard
 docid:
-  id: CIE IP04 10-16
+- id: CIE IP04 10-16
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: H
-        language: en
-        script: Latn
+      - content: H
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yaguchi
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     Technical Report, developed by TC 1-90, is a research report describing a general colour
     fidelity index, Rf, as a scientifically accurate measure of colour fidelity with respect to a
     reference illuminant. The important improvements of this measure, relative to the current
@@ -50,7 +59,9 @@ abstract:
     rendering index, Ra, neither for the purpose of rating and specification of products nor for
     regulatory or other minimum performance requirements. Finally, relations of Rf to Ra and to
     luminous efficiency are discussed.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -14,48 +14,62 @@ title:
      (PO23, 877-880)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/visual-evaluation-results-of-perceived-whiteness-under-the-illuminant-d50-condition-and-their-predictions-po23-877-880?product_id=2011163
+- content: https://www.techstreet.com/cie/standards/visual-evaluation-results-of-perceived-whiteness-under-the-illuminant-d50-condition-and-their-predictions-po23-877-880?product_id=2011163
   type: src
 type: standard
 docid:
-  id: CIE PO23 877-880
+- id: CIE PO23 877-880
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: I
-        language: en
-        script: Latn
+      - content: I
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Katayama
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yano
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: We conducted a visual evaluation experiment of perceived whiteness under
+- content: We conducted a visual evaluation experiment of perceived whiteness under
     the illuminant D50 condition, which is normally used in graphic arts. As a result,
     whiteness was evaluated higher for the stimuli of higher bluish purity even in
     the region exceeding the applicable limit of the CIE whiteness formula. When the
@@ -66,7 +80,9 @@ abstract:
     well with the visual evaluation results; however, it was considered that the Grum
     whiteness formula with no applicable limit is superior to the current CIE whiteness
     formula.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

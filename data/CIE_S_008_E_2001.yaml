@@ -12,7 +12,7 @@ title:
     ISO 8995:2002/Cor.1 2005(E)]'
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-s-008-e-2001-iso-8995-1-2002?product_id=1529685
+- content: https://www.techstreet.com/cie/standards/cie-s-008-e-2001-iso-8995-1-2002?product_id=1529685
   type: src
 type: standard
 docid:
@@ -21,19 +21,23 @@ docid:
 - id: ISO 8995-1:2002
   type: ISO
 date:
-  type: published
+- type: published
   value: '2002-12-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2002-12-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     CIE published its "Guide on interior lighting" 2nd edition in 1986. Since then lighting practice
     changed considerably, and it became necessary to prepare a new guide, this time as a CIE
     Standard.
@@ -62,7 +66,9 @@ abstract:
     printers, iron and steel works, textile industry, vehicle construction, wood working and
     furniture industry, offices, retailing, restaurants and hotels, places of entertainment, libraries,
     indoor public car parks, educational buildings, health care premises, airports, and churches.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

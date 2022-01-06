@@ -8,7 +8,7 @@ title:
   content: Rationalizing Nomenclature for UV Doses and Effects on Humans
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-209-2014?product_id=1876145
+- content: https://www.techstreet.com/cie/standards/cie-209-2014?product_id=1876145
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783902842350'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2014-04-17'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-04-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The field of atmospheric ultraviolet radiation (UV) research is plagued
+- content: The field of atmospheric ultraviolet radiation (UV) research is plagued
     with difficulties in nomenclature. The problems arise from (a) the strong wavelength
     dependence of UV radiation received at the Earth's surface, (b) the ad-hoc way
     disparate groups have approached the subject and (c) the incorrect use of units
@@ -41,7 +45,9 @@ abstract:
     accepted action spectra may be revised in future if new data become available,
     it is recommended that spectrally resolved irradiance measurements are maintained
     and continued so that biologically effective irradiances and doses may be reprocessed.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

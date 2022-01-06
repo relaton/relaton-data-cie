@@ -8,7 +8,7 @@ title:
   content: Road lighting as an accident countermeasure
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-093-1992?product_id=1210017
+- content: https://www.techstreet.com/cie/standards/cie-093-1992?product_id=1210017
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783900734305'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1992-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1992-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     Road accidents at night are disproportionately high in numbers and severity compared to day. The major factor contributing to this problem is darkness because of its great influence on the driver's behaviour and ability. At night man's visual capabilities are impaired and visibility is reduced. Thus road lighting is a potential countermeasure.
 
     Sixty-two lighting and accident studies, from 15 countries, have been rigourously analysed. Some 85% of results show lighting to be beneficial, with about one third of these having statistical significance. These lead to the general conclusion that road lighting on traffic routes will reduce the incidence of night accidents. Depending on the class of road and the accident classification involved, the statistically significant results show reductions of between 13% and 75%.
@@ -37,7 +41,9 @@ abstract:
     Depending on the road and traffic classification, cost benefit studies show the accident savings to more than offset the cost of lighting. In the report, warrants for lighting related to accidents and traffic volume are developed. The findings can assist in the preparation of national standards and in decisions onthe implementation of road lighting programmes.
 
     The report contains 122 pages.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

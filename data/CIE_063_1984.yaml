@@ -8,7 +8,7 @@ title:
   content: The spectroradiometric measurement of light sources
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-063-1984?product_id=1210127
+- content: https://www.techstreet.com/cie/standards/cie-063-1984?product_id=1210127
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9789637251238'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1984-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1984-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The CIE and other organizations have conducted international comparisons of measurements of the spectral power distribution of light sources, including fluorescent tubes. In these comparisons, some unexpectedly large differences were found between the results reported by different laboratories. CIE specialists concluded that before further large-scale international comparisons of measurements are organized, a method (or a few basic methods) should be agreed upon that would result in better accuracy and, hence, closer agreement between the measurements of participating laboratories. International agreement on such methods would also serve as a guide in setting up new spectroradiometric laboratories.
 
     The first part of the report covers, in a general way, the use of a spectroradiometer for measuring the spectral power distribution of light sources, with particular reference to the determination of photometric and colorimetric properties.
@@ -37,7 +41,9 @@ abstract:
     The second part relates to the measurement of individual lamp types, particularly tubular fluorescent lamps. The report is designed to assist workers in industrial standards laboratories, but is not intended for use as a textbook.
 
     The report consists of 61 pages and 8 figures.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

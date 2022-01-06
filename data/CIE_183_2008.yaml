@@ -8,7 +8,7 @@ title:
   content: Definition of the Cut-Off of Vehicle Headlights
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-183-2008?product_id=1571585
+- content: https://www.techstreet.com/cie/standards/cie-183-2008?product_id=1571585
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783901906640'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2008-08-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2008-08-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     A precise objective definition of low-beam visual cut-off is necessary, since a
     requirement for correct aiming of these beams is specified within all the existing
     regulations.
@@ -43,7 +47,9 @@ abstract:
     low-beam headlamp by photometric means.
 
     The publication is written in English, with a short summary in French and German. It consists of 19 pages with 6 figures.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

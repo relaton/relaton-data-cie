@@ -10,54 +10,72 @@ title:
     434-440)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/colour-barrier-free-illumination-using-multispectral-lighting-system-po07-434-440?product_id=2016285
+- content: https://www.techstreet.com/cie/standards/colour-barrier-free-illumination-using-multispectral-lighting-system-po07-434-440?product_id=2016285
   type: src
 type: standard
 docid:
-  id: CIE PO07 434-440
+- id: CIE PO07 434-440
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       initial:
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Liu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: S
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Chen
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: In order to determine the lighting sources that can improve colour discrimination
+- content: In order to determine the lighting sources that can improve colour discrimination
     ability of subjects with protan and deutan, we performed a series of the test
     light of different correlated colour temperature (CCT) of daylight metamers and
     enhancing lights. Farnsworth D-15 colour vision test (D-15 test) was used in this
@@ -68,7 +86,9 @@ abstract:
     under 2000 K daylight metamer mixing with red or yellow coloured lights. Deutan
     subjects performed well under 2000 K daylight metamer mixing with yellow coloured
     lights.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -8,7 +8,7 @@ title:
   content: Geometric toleraces for colour measurements
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-176-2006?product_id=1315585
+- content: https://www.techstreet.com/cie/standards/cie-176-2006?product_id=1315585
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: 3901906533, 9783901906534
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2006-12-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2006-12-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "In this publication the recommendations of the CIE Division 2 \"Physical
+- content: "In this publication the recommendations of the CIE Division 2 \"Physical
     Measurement of Light and Radiation\" are given on the definition of geometries
     for the measurement of the colour of materials and the tolerances around those
     fundamental definitions that are required to provide an expected level of accuracy
@@ -42,7 +46,9 @@ abstract:
     in this report are intended to be consistent with the existing standards in the
     International Organisation for Standardisation (ISO) and in particular with ISO
     standards 5-1 and 5-4."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

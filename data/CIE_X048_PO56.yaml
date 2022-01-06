@@ -10,73 +10,99 @@ title:
     A CASE STUDY FROM NEPAL'
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-po56?product_id=2240861
+- content: https://www.techstreet.com/cie/standards/cie-x048-po56?product_id=2240861
   type: src
 type: standard
 docid:
-  id: CIE x048-PO56
+- id: CIE x048-PO56
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
       - content: O
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: S
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Banjara
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: D
-        language: en
-        script: Latn
+      - content: D
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Bista
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: A
-        language: en
-        script: Latn
+      - content: A
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Bista
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: P
-        language: en
-        script: Latn
+      - content: P
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Bhusal
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Daylight attributes to the aggregate of direct and indirect lights originating
+- content: Daylight attributes to the aggregate of direct and indirect lights originating
     from the sun during the daytime. Integrating daylight with electrical lighting
     can serve as a means to lessen electricity costs for buildings. Geographic location
     and weather conditions facilitate most of the areas of Nepal to receive on average
@@ -97,7 +123,9 @@ abstract:
     and incorporation of daylight components are attainable with current technology
     and trend in Nepal with accompanying benefits of energy-saving, reduced operation,
     and reduced maintenance cost.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

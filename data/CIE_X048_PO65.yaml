@@ -8,58 +8,76 @@ title:
   content: USEFUL CONTRAST INDEX FOR ROADWAY LIGHTING STANDARDS
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-po65?product_id=2240867
+- content: https://www.techstreet.com/cie/standards/cie-x048-po65?product_id=2240867
   type: src
 type: standard
 docid:
-  id: CIE x048-PO65
+- id: CIE x048-PO65
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: R
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: AbouElhamd
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: R
-        language: en
-        script: Latn
+      - content: R
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Saraiji
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This article proposes a new metric for roadway lighting design that has
+- content: This article proposes a new metric for roadway lighting design that has
     the potential to improve visibility for drivers during nighttime. The new metric
     is named as Useful Contrast Index (UCI) and it relates the contrast of obstacles
     (targets) to the contrast threshold. We define the useful contrast index as the
     percentage of targets that have a contrast value greater than the contrast threshold
     along the length of the road. We conclude that the Useful Contrast Index has merit
     and could be used to provide a better visual environment for drivers.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -10,59 +10,78 @@ title:
     CENTERED METHODS TO INFORM DESIGN PRACTICE'
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op06?product_id=2240680
+- content: https://www.techstreet.com/cie/standards/cie-x048-op06?product_id=2240680
   type: src
 type: standard
 docid:
-  id: CIE x048-OP06
+- id: CIE x048-OP06
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
-        content: V
-        language: en
-        script: Latn
+      - content: V
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Garcia-Hansen
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: F
-        language: en
-        script: Latn
+      - content: F
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Rodriguez
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: R
-        language: en
-        script: Latn
+      - content: R
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ong
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Hospitals are complex environments having to balance out contradictory
+- content: Hospitals are complex environments having to balance out contradictory
     requirements from patients and health workers. Despite evidence demonstrating
     the critical role of the hospitals luminous environment in responding to occupants
     requirements and needs, and the importance of engaging with the patient experience
@@ -76,7 +95,9 @@ abstract:
     and potential articulations between them. Mixed data collection and data analysis
     techniques are deemed essential to articulate lighting design strategies engaging
     with the requirements of hospital occupants on a 24-hour basis.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

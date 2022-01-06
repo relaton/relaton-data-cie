@@ -12,59 +12,78 @@ title:
      (PP06, 512-521)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/vision-experiment-on-perception-of-correlated-colour-temperature-pp06-512-521?product_id=2011264
+- content: https://www.techstreet.com/cie/standards/vision-experiment-on-perception-of-correlated-colour-temperature-pp06-512-521?product_id=2011264
   type: src
 type: standard
 docid:
-  id: CIE PP06 512-521
+- id: CIE PP06 512-521
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: Y
-        language: en
-        script: Latn
+      - content: Y
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kwak
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: H
-        language: en
-        script: Latn
+      - content: H
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ha
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: Y
-        language: en
-        script: Latn
+      - content: Y
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ohno
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: TThe correlated colour temperature (CCT) is defined by the closest point
+- content: TThe correlated colour temperature (CCT) is defined by the closest point
     on the Planckian locus from a light source on the CIE 1960 (u, v) diagram (now
     obsolete), while the current standard uniform colour space is the CIE 1976 (u′,
     v′) diagram. To re-visit the question whether using the (u′, v′) coordinate improves
@@ -76,7 +95,9 @@ abstract:
     to be between CCTs based on the (u, v) coordinate and the (u′, v′) coordinate.
     It is suggested that the definition of CCT be re-examined for possibly using the
     CIE 1976 (u′, v′).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

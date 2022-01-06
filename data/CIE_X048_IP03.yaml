@@ -10,54 +10,72 @@ title:
     INTER-DISCIPLINARY DEVELOPMENT AND PROGRESS'
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-ip03?product_id=2240674
+- content: https://www.techstreet.com/cie/standards/cie-x048-ip03?product_id=2240674
   type: src
 type: standard
 docid:
-  id: CIE x048-IP03
+- id: CIE x048-IP03
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: K
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Jägerbrand
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Bouroussis
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The use of artificial light at night in the outdoor environment may introduce
+- content: 'The use of artificial light at night in the outdoor environment may introduce
     negative and unwanted side-effects such as light pollution and unwanted impacts
     on humans, ecosystems and biodiversity. Therefore, appropriate measures for reducing
     the adverse effects of artificial light at night are important to establish a
@@ -70,7 +88,9 @@ abstract:
     into three groups: (I) recommendations for legislation at the national or international
     levels, (II) recommendations for technical and practical adaptations of the lighting
     design and (III) recommendations for sensitive species, taxa, areas or ecosystems.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

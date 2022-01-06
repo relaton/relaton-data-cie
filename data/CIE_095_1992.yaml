@@ -8,7 +8,7 @@ title:
   content: Contrast and visibility
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-095-1992?product_id=1210019
+- content: https://www.techstreet.com/cie/standards/cie-095-1992?product_id=1210019
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783900734329'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1992-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1992-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The purpose of the present report is a study of literature related to analytical visual performance models and a discussion of various approaches with respect to a further development of a CIE contrast metric of visibility. It has been shown that many developments have taken place during the last 10 or 15 years which permit a much improved understanding of the multiparametric interactions in visual performance thresholds and in capability of predicting them.
 
     The publication presents the concept of visibility lobes per glimpse which reveals a basis for evaluation of visual tasks and lighting conditions. An analytical function is discussed which includes foveal and extrafoveal vision, target-background interference, and information load.
@@ -43,7 +47,9 @@ abstract:
     The third part is essentially a discussion where the achievements and limitations of the various approaches are listed.
 
     The report contains 52 pages, with 19 figures.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

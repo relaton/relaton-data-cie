@@ -10,7 +10,7 @@ title:
     and performance'
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-034-1977?product_id=1209970
+- content: https://www.techstreet.com/cie/standards/cie-034-1977?product_id=1209970
   type: src
 type: standard
 docid:
@@ -19,19 +19,23 @@ docid:
 - id: '9783901906688'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1977-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1977-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This technical report is one of a series of supporting documents to CIE 12.2-1977  Recommendations for the Lighting of Roads for Motorized Traffic. It is concerned with the data involved in predicting the performance of an installation, as described in CIE 30.2-1982 Calculation and Measurement of Luminance and Illuminance in Road Lighting.
 
        1. Part 1 of the report describes
@@ -47,7 +51,9 @@ abstract:
      information about differences in performance which have been found between installations using lanterns that satisfy the same specification or classification.
 
     The publication contains 39 pages, 15 figures and 1 table.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

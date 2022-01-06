@@ -10,7 +10,7 @@ title:
     to Sunbeds: Requirements and Weighing the Advantages and Disadvantages'
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-219-2016?product_id=1922662
+- content: https://www.techstreet.com/cie/standards/cie-219-2016?product_id=1922662
   type: src
 type: standard
 docid:
@@ -19,23 +19,29 @@ docid:
 - id: '9783902842312'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2016-08-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-08-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     Vitamin D is widely accepted as necessary for the regulation of calcium homeostasis and thus a healthy skeleton. Strictly a pro-hormone, it is unique amongst vitamins in having a second source pathway that is independent of oral intake: a major source of the vitamin is through synthesis in the skin. For those living at middle to high latitudes there is a period of the year when it is impractical to synthesize any appreciable vitamin D in the skin through exposure to solar UV radiation. To prevent a decline in vitamin D status an alternative source of the vitamin may be required at these times. This may be through diet (most usually low in vitamin D), supplementation, or an alternative source of UV radiation: the sun (by travelling to lower latitudes) or an artificial source. It has been shown, by reference to published work and calculations presented here, that it is possible to raise / maintain vitamin D levels using artificial UV radiation as emitted by commercial sunbeds. However, current sunbeds available on the high street are not designed or optimized for this purpose, and provide a significantly higher UV-A burden than sunlight for the same vitamin D potential. Unless and until publicly available sunbeds are fully characterized for their ability to initiate previtamin D synthesis they cannot be recommended as a safe and effective method of maintaining vitamin D status because the appropriate exposure (e.g. duration and frequency of use for this purpose) cannot be assessed. Sources designed specifically for the purpose, with a lower UV-A burden and clear application guidelines, would be more appropriate facilities for those who choose to gain vitamin D through artificial UV exposure, rather than by other means.
 
     The publication is written in English, with a short summary in French and German.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

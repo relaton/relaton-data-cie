@@ -8,7 +8,7 @@ title:
   content: Photobiological safety of lamps and lamp systems (bilingual edition)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-s-009-e-2002-iec-62471-2006?product_id=1519485
+- content: https://www.techstreet.com/cie/standards/cie-s-009-e-2002-iec-62471-2006?product_id=1519485
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: IEC 62471:2006
   type: IEC
 date:
-  type: published
+- type: published
   value: '2007-07-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2007-07-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "Lamps were developed and produced in large quantities and became commonplace
+- content: "Lamps were developed and produced in large quantities and became commonplace
     in an era\nwhen industry-wide safety standards were not the norm. The evaluation
     and control of optical\nradiation hazards from lamps and lamp systems is a far
     more complicated subject than similar\ntasks for a single-wavelength laser system.
@@ -56,11 +60,13 @@ abstract:
     optical radiation hazards associated with some lamps\nand lamp systems. The purpose
     of this standard is to provide a standardized technique for\nevaluation of potential
     radiation hazards that may be associated with various lamps and lamp\nsystems."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     id: CIES009/D-2002
     title:
@@ -71,13 +77,13 @@ relation:
       content: Photobiological safety of lamps and lamp systems
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-s009-d-2002?product_id=1210087
+    - content: https://www.techstreet.com/cie/standards/cie-s009-d-2002?product_id=1210087
       type: src
     docid:
-      id: CIE S009 / D:2002
+    - id: CIE S009 / D:2002
       type: CIE
     date:
-      type: published
+    - type: published
       value: '2002-01-01'
     revdate: '2002-01-01'
 doctype: document

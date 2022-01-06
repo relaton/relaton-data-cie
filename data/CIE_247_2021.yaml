@@ -10,7 +10,7 @@ title:
     Irradiation Luminaires
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-247-2021?product_id=2240015
+- content: https://www.techstreet.com/cie/standards/cie-247-2021?product_id=2240015
   type: src
 type: standard
 docid:
@@ -19,19 +19,23 @@ docid:
 - id: '9783902842190'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2021-11-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-11-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document establishes a recommended procedure for gonioradiometric
+- content: This document establishes a recommended procedure for gonioradiometric
     measurements of UVGI luminaires in the far field. The methodology described in
     this document applies to incoherent lamp and lamp systems (luminaires) emitting
     in the UV-C wavelength region from 200 nm to 280 nm.NOTE The dominant source used
@@ -40,7 +44,9 @@ abstract:
     not specify the radiant exposures required for disinfection. Reference should
     be made to CIE 155:2003 (CIE 2003) for the radiant exposure levels required to
     disinfect specific pathogens.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

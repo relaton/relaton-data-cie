@@ -8,7 +8,7 @@ title:
   content: Goniospectroradiometry of Optical Radiation Sources
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-239-2020?product_id=2106753
+- content: https://www.techstreet.com/cie/standards/cie-239-2020?product_id=2106753
   type: src
 type: standard
 docid:
@@ -17,26 +17,32 @@ docid:
 - id: '9783902842794'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2020-03-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-03-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: CIE 239:2020 provides basic measurement principles and practical guidance
+- content: CIE 239:2020 provides basic measurement principles and practical guidance
     in goniospectroradiometry of optical radiation sources (i.e. measurement of the
     spectral distribution as a function of the emission angle of the source). Specifically,
     it includes measurement principles of the angular distribution of spectral, radiometric,
     photometric and colorimetric quantities of optical radiation sources, the related
     scanning method and a practical guide to determine sampling interval, uncertainty
     aspects and calibration.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

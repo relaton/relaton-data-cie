@@ -12,82 +12,114 @@ title:
     (PP44, 764-771)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/eye-movement-speed-dependence-of-the-phantom-array-pp44-764-771?product_id=2011373
+- content: https://www.techstreet.com/cie/standards/eye-movement-speed-dependence-of-the-phantom-array-pp44-764-771?product_id=2011373
   type: src
 type: standard
 docid:
-  id: CIE PP44 764-771
+- id: CIE PP44 764-771
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: R
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: S
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: W
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Park
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: W
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lee
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: S
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lee
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Recently, LED based lighting systems are applied for general lighting and
+- content: Recently, LED based lighting systems are applied for general lighting and
     automotive lighting as well. To control the luminance of the LED lighting sources,
     time modulated control, called PWM (pulse width modulation), is frequently applied
     as a dimming control method. This paper presents that the eye movement speed of
@@ -95,7 +127,9 @@ abstract:
     effect. RGB full colour flat panel light sources are used in the experiment. The
     experiment result shows that the person with higher eye movement speed tends to
     have higher threshold frequency.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

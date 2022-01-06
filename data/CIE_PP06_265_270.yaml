@@ -10,59 +10,78 @@ title:
     TOWN IN CHINA (PP06, 265-270)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/-a-study-on-high-efficient-and-energy-saving-lighting-system-for-jiuzi-ancient-town-in-china-pp06-265-270?product_id=2016253
+- content: https://www.techstreet.com/cie/standards/-a-study-on-high-efficient-and-energy-saving-lighting-system-for-jiuzi-ancient-town-in-china-pp06-265-270?product_id=2016253
   type: src
 type: standard
 docid:
-  id: CIE PP06 265-270
+- id: CIE PP06 265-270
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       forename:
-        content: Steve
-        language: en
-        script: Latn
+      - content: Steve
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lau
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Teng
-        language: en
-        script: Latn
+      - content: Teng
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Hai
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Haisheng
-        language: en
-        script: Latn
+      - content: Haisheng
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Xu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: According to the statistic published by Chinese National Tourism Bureau,
+- content: According to the statistic published by Chinese National Tourism Bureau,
     during the holiday from 1st October to 7th October 2017, the number of tourists
     who travelled in the mainland China reaches 663 millions, and it has 11.96 % jump
     if compared to last year, and the total income reaches RMB 549 billions! Statistic
@@ -84,7 +103,9 @@ abstract:
     integrated application of LED lighting science and technology, creating comfortable
     and peace illuminated environment of old architectures, applying green lighting
     and controlling light pollution.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

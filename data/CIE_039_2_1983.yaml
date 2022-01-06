@@ -8,7 +8,7 @@ title:
   content: Recommendations for surface colours for visual signalling, 2nd ed.
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-039-2-1983?product_id=1209972
+- content: https://www.techstreet.com/cie/standards/cie-039-2-1983?product_id=1209972
   type: src
 type: standard
 docid:
@@ -17,23 +17,29 @@ docid:
 - id: '9789290340393'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1983-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1983-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     These recommendations provide a system of surface colours for the purpose of visual signalling. The colours are defined in terms of chromaticity limits and limits of luminance factor. These limits were chosen as a compromise between reliable colour recognition, existing practice that has proved to be satisfactory, and limitations imposed by manufacturing technology and uncertainties of colour measurements. The limits are recommended for international adoption. More restricted limits may be selected by national authorities to suit national practices, or by international authorities to suit particular applications. The recommendations apply to all surface colours, produced by reflection, fluorescence, or transillumination, which are intended for visual signalling of any form of transport and for warning signs and colour codes in general.
 
     The publication contains 69 pages, 4 figures and 10 tables.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -10,83 +10,114 @@ title:
     LIGHTING AND HUMAN PERFORMANCE IN A MULTI-DOMAIN APPROACH'
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-po41?product_id=2240849
+- content: https://www.techstreet.com/cie/standards/cie-x048-po41?product_id=2240849
   type: src
 type: standard
 docid:
-  id: CIE x048-PO41
+- id: CIE x048-PO41
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
       - content: V
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: R
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: M
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: L. Giovannini
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: F
-        language: en
-        script: Latn
+      - content: F
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lo Verso
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: V
-        language: en
-        script: Latn
+      - content: V
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Favoino
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: A
-        language: en
-        script: Latn
+      - content: A
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Serra
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       surname:
         content: Pellegrino
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The new HIEQ Lab (Health, well-being and Indoor Environmental Quality Laboratory)
+- content: The new HIEQ Lab (Health, well-being and Indoor Environmental Quality Laboratory)
     is presented. It is a living lab, primarily intended for research on human performance,
     comfort, and well-being, integrated with the energy performance in a completely
     controlled real space. Users are involved as active players in controlling and
@@ -99,7 +130,9 @@ abstract:
     The paper reports the results of a literature review on existing lighting research
     facilities, and then describes the features of the new HIEQ Lab and its main research
     objectives, with a focus on lighting and daylighting research opportunities. 
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -8,7 +8,7 @@ title:
   content: Recommended System for Mesopic Photometry Based on Visual Performance
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-191-2010?product_id=1736466
+- content: https://www.techstreet.com/cie/standards/cie-191-2010?product_id=1736466
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783901906886'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2010-09-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2010-09-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This report deals with visual task performance based approaches to mesopic
     photometry, with a major aim to establish appropriate mesopic spectral sensitivity
     functions to serve as the foundation of a system of mesopic photometry. A review of
@@ -41,7 +45,9 @@ abstract:
     visual performance. The report summarises the justifications for the recommended
     system and gives general guidelines for its use and application.
     The publication is written in English, with a short summary in French and German.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

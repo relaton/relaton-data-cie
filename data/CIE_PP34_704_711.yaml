@@ -14,62 +14,83 @@ title:
      (PP34, 704-711)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/novel-method-for-angular-characterisation-of-goniophotometers-with-a-pattern-generating-artefact-pp34-704-711?product_id=2011365
+- content: https://www.techstreet.com/cie/standards/novel-method-for-angular-characterisation-of-goniophotometers-with-a-pattern-generating-artefact-pp34-704-711?product_id=2011365
   type: src
 type: standard
 docid:
-  id: CIE PP34 704-711
+- id: CIE PP34 704-711
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: F
-        language: en
-        script: Latn
+      - content: F
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Stuker
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: F
-        language: en
-        script: Latn
+      - content: F
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Rinderer
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: P
-        language: en
-        script: Latn
+      - content: P
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Blattner
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     According to the international standard CIE S025 describing the test method for solid state lamps, luminaires and modules, it is mandatory to determine the angular resolution and adjustments of the measurement device. To address this aspect a novel procedure for characterizing the angles of goniophotometer measurements was demonstrated by a simply designed setup. It consists of a single white light LED mounted on a heat sink covered with a sliced 3D-printed half sphere. By illuminating the structured object a shadow/light pattern was generated and measured by means of two goniophotometers. The analysis of the geometrical structure in the light distribution curve with a custom-built algorithm showed that the angular
     precision depends on the moving velocities of the measurement axis. Furthermore, the angular discrepancy compared to the reference movement was gradually increasing with increased axis speeds. This novel technique represents an effective approach defining the angular properties in goniophotometry measurements.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

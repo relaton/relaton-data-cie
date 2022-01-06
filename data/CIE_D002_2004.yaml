@@ -10,26 +10,30 @@ title:
     and 15 tables)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-d002-2004?product_id=1210079
+- content: https://www.techstreet.com/cie/standards/cie-d002-2004?product_id=1210079
   type: src
 type: standard
 docid:
-  id: CIE D002:2004
+- id: CIE D002:2004
   type: CIE
 date:
-  type: published
+- type: published
   value: '2004-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2004-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This disc contains two subdirectories:
 
     1. Subdirectory PUBL13_3 contains files tabulating data supplementing CIE Publication 13.3 (1995):
@@ -46,7 +50,9 @@ abstract:
     •relative spectral power distributions of illuminants representing typical fluorescent lamps, expressed in microwatts/nm.lm for wavelength between 380 and 780 nm at 5 nm intervals: FL1_12.TXT, FL1_12.XLS and for the new lamps FL1_15.TXT, FL1_15.XLSfiles;
 
     Each file starts with some text lines containing information on the file. Then the data are presented.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

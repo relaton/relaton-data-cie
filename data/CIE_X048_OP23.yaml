@@ -8,85 +8,119 @@ title:
   content: A GENERIC GLARE SENSATION MODEL BASED ON THE HUMAN VISUAL SYSTEM
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op23?product_id=2240703
+- content: https://www.techstreet.com/cie/standards/cie-x048-op23?product_id=2240703
   type: src
 type: standard
 docid:
-  id: CIE x048-OP23
+- id: CIE x048-OP23
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
       - content: M
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: M
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Vissenberg
-        language: en
-        script: Latn
-  role: author
-- person:
-    name:
-      initial:
-        content: M
-        language: en
-        script: Latn
-      surname:
-        content: Perz
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: M
-        language: en
-        script: Latn
-      - content: A
-        language: en
-        script: Latn
-      - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
-        content: Donners
-        language: en
-        script: Latn
-  role: author
+        content: Perz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: D
-        language: en
-        script: Latn
+      - content: M
+        language:
+        - en
+        script:
+        - Latn
+      - content: A
+        language:
+        - en
+        script:
+        - Latn
+      - content: H
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Donners
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
+- person:
+    name:
+      initial:
+      - content: D
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Sekulovski
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Conventional discomfort glare measures are based on glare source properties
+- content: Conventional discomfort glare measures are based on glare source properties
     like luminous intensity or luminance and typically are valid only to specific
     situations and to specific types of light sources. For instance, the Unified Glare
     Rating (UGR) is intended for indoor lighting conditions with medium-sized glare
@@ -99,7 +133,9 @@ abstract:
     linear correlation of the model to UGR in an indoor setting, and to subjective
     glare responses in an outdoor-like setting indicate that the human-visual-system-based
     model may indeed be considered generic.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

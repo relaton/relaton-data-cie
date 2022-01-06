@@ -8,7 +8,7 @@ title:
   content: CIE Collection in Colour and Vision 1997
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-124-1997?product_id=1210046
+- content: https://www.techstreet.com/cie/standards/cie-124-1997?product_id=1210046
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783900734794'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1997-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1997-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This volume contains short Technical Reports, Research Notes and Meeting Reports prepared by various Technical Committees and Reporters within CIE Division 1.
 
     124/1 TC 1-31 Report: Colour notations and colour order systems ISO/TC 187 requested the CIE to address some issues related to the question of international standardisation of a colour-order system and to report its conclusions.
@@ -44,7 +48,9 @@ abstract:
     Report on a colour difference research meeting This report summarises results of a meeting held on May 15, 1996 at the Rochester Institute of Technology (RIT) Munsell Colour Science Lab (MCSL). The meeting dealt with colour difference research oriented towards industrial applications. Since the number of research groups is so small (worldwide five laboratories deal with the subject), it was hoped that the work could move along at a faster pace than what has been accomplished in the past. Task of the meeting was to clarify the next step forward beyond the CIE TC 1-29 recommendation to provide the pathway for continuing to improve colour difference evaluation for industry.
 
     The publication consists of 45 pages and contains a list of CIE Publications prepared within Division 1, as well as a list of CIE Division 1 publications coming out soon. The Technical Collection is written in English, with short summaries in French and German.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -8,7 +8,7 @@ title:
   content: Recommended Reference Solar Spectra for Industrial Applications
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-241-2020?product_id=2187453
+- content: https://www.techstreet.com/cie/standards/cie-241-2020?product_id=2187453
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783902842909'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2020-09-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-09-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: CIE 241:2020 provides CIE recommended reference solar spectra for industrial
+- content: CIE 241:2020 provides CIE recommended reference solar spectra for industrial
     applications. It contains a large selection of simulation benchmarks for total,
     direct and diffuse components of solar spectra under various atmospheric conditions
     and solar geometries (defined by the air mass). For this purpose a freely available
@@ -40,11 +44,13 @@ abstract:
     they are presented with a higher spectral sampling. The respective solar spectra
     are the basis for national and international standard reference spectra for various
     applications. They have been extensively validated against measured spectra.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     id: CIE085-1989
     title:
@@ -55,13 +61,13 @@ relation:
       content: Solar spectral irradiance
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-085-1989?product_id=1210012
+    - content: https://www.techstreet.com/cie/standards/cie-085-1989?product_id=1210012
       type: src
     docid:
-      id: CIE 085-1989
+    - id: CIE 085-1989
       type: CIE
     date:
-      type: published
+    - type: published
       value: '1989-01-01'
     revdate: '1989-01-01'
 doctype: document

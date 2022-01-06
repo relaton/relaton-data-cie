@@ -10,7 +10,7 @@ title:
     and Measuring LED Characteristics
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x013-1997?product_id=1210097
+- content: https://www.techstreet.com/cie/standards/cie-x013-1997?product_id=1210097
   type: src
 type: standard
 docid:
@@ -19,19 +19,23 @@ docid:
 - id: '9783900734855'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1997-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1997-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     Currently there is considerable effort within the LED industry and the community who use LEDs to standardise on LED characterisation and measurement. CIE TC 2-34 LED Measurements completed its report on the subject (published as CIE 127-1997 Measurement of LEDs). The CIE 1997 Workshop and Symposium, held on 22-25 October 1997 at the CIE Central Bureau, Vienna, Austria, introduced the CIE recommendations on LED measurements and dealt with the underlying radiometric, photometric and colorimetric measurements. Health aspects of LED radiation were also discussed. The goals of the meeting were:
 
     to introduce the recommended CIE method for characterising LEDs, to share information on the technical content and status of projects involving the characterisation of LEDs, to identify areas where existing/proposed industrial methods are divergent and to initiate discussion towards resolution, to identify areas requiring new technology or knowledge and to recommend needed activities of CIE and industry to provide the necessary solutions.
@@ -47,7 +51,9 @@ abstract:
 
     The Proceedings contain the text of the 12 papers read as well as a report on the roundtable discussions.
     The publication consist of 85 pages.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

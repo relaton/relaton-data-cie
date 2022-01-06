@@ -8,7 +8,7 @@ title:
   content: Road Lighting Calculations
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-140-2019?product_id=2033815
+- content: https://www.techstreet.com/cie/standards/cie-140-2019?product_id=2033815
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783902842565'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2019-02-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-02-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: CIE 140-2019 is a revision and update of CIE Publication 140-2000 Road
+- content: CIE 140-2019 is a revision and update of CIE Publication 140-2000 Road
     Lighting Calculations. It replaces CIE 140-2000. In comparison to the previous
     edition, clauses in this report are corrected and improved where necessary, taking
     into account recent CIE publications. Values of luminous intensity are generally
@@ -40,11 +44,13 @@ abstract:
     application both in I-tables as well as r-tables. A new Test Data clause is prepared
     to provide a standard set of input data for testing purposes together with benchmark
     results of the calculated lighting quality criteria of road lighting installations.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     id: CIE140-2000
     title:
@@ -55,13 +61,13 @@ relation:
       content: Road Lighting Calculations (Includes Rev. 2)
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-140-2000?product_id=1210058
+    - content: https://www.techstreet.com/cie/standards/cie-140-2000?product_id=1210058
       type: src
     docid:
-      id: CIE 140-2000
+    - id: CIE 140-2000
       type: CIE
     date:
-      type: published
+    - type: published
       value: '2000-01-01'
     revdate: '2000-01-01'
 doctype: document

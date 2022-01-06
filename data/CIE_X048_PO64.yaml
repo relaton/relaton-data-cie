@@ -10,59 +10,78 @@ title:
     OF THE OBTRUSIVE LIGHT
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-po64?product_id=2240866
+- content: https://www.techstreet.com/cie/standards/cie-x048-po64?product_id=2240866
   type: src
 type: standard
 docid:
-  id: CIE x048-PO64
+- id: CIE x048-PO64
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
-        content: P
-        language: en
-        script: Latn
+      - content: P
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Becak
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: T
-        language: en
-        script: Latn
+      - content: T
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Novak
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: al
-        language: en
-        script: Latn
+      - content: al
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: et
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The issue of the luminous flux radiation to the upper hemisphere is very
+- content: The issue of the luminous flux radiation to the upper hemisphere is very
     broad and complex. The paper deals with the modelling of the vertical surface
     radiators. It presents an approach to unify the behaviour of these types of light
     sources. These will be understood as cosine radiators. If this cosine distribution
@@ -74,7 +93,9 @@ abstract:
     necessary for the radiation calculations of these surfaces. It also analyses the
     influence of the luminance and active areas on the radiated luminous flux and
     assign these values to the real radiators.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

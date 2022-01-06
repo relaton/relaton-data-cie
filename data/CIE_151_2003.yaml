@@ -8,7 +8,7 @@ title:
   content: Spectral weighting of solar ultraviolet radiation (incl. disk)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-151-2003?product_id=1210067
+- content: https://www.techstreet.com/cie/standards/cie-151-2003?product_id=1210067
   type: src
 type: standard
 docid:
@@ -17,23 +17,29 @@ docid:
 - id: '9783901906206'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2003-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2003-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     Solar radiation has long been correlated with many beneficial and harmful biological effects. Excessive ultraviolet radiation exposure has been identified as a contributor to several short- and long-term health problems, including erythema, photokeratitis, cataract, and skin cancer. The photobiological effectiveness of ultraviolet radiation at causing a biological effect varies with wavelength, and the variation of a given effectiveness function with wavelength is referred to as the "action spectrum" for that type of effect. When the spectral distribution of sunlight or of an artificial light source is weighted by an action spectrum, the result is the "effective irradiance" of that light source for causing the biological effect. Comparison of the effective irradiances of light sources is a valuable tool for risk assessment. Outdoor solar radiation is the most common source of chronic ultraviolet radiation exposure for the general public. This document lists the effective solar irradiances for various environmental conditions and types of photobiological effects. These effective irradiances at a horizontal ground surface (i.e. the global ultraviolet irradiance) were determined with the use of a multiple scattering model for ultraviolet radiation spectral irradiance.
 
     The Technical Report is written in English, with a short summary in French and German. It consists of 32 pages with 3 figures and 3 tables.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

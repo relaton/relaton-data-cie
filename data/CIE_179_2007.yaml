@@ -10,7 +10,7 @@ title:
     of light
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-179-2007?product_id=1377605
+- content: https://www.techstreet.com/cie/standards/cie-179-2007?product_id=1377605
   type: src
 type: standard
 docid:
@@ -19,19 +19,23 @@ docid:
 - id: '9783901906602'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2007-05-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2007-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "The purpose of this technical report is to provide an objective means
+- content: "The purpose of this technical report is to provide an objective means
     for evaluating the properties of tristimulus colorimeter heads that are to be
     used to measure the colour of light sources. Several properties that determine
     the performance of tristimulus colorimeters can be quantified by numerical assessments.
@@ -43,7 +47,9 @@ abstract:
     or assess the quality of these instruments. The factors that make up the evaluation
     may also serve as a guide to manufacturers in the development of improved colorimetric
     instruments."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

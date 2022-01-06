@@ -10,48 +10,62 @@ title:
     APPLICATIONS (PO25, 534-543)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/optimizing-image-appearance-of-an-optical-see-through-hmd-for-mixed-reality-applications-po25-534-543?product_id=2016302
+- content: https://www.techstreet.com/cie/standards/optimizing-image-appearance-of-an-optical-see-through-hmd-for-mixed-reality-applications-po25-534-543?product_id=2016302
   type: src
 type: standard
 docid:
-  id: CIE PO25 534-543
+- id: CIE PO25 534-543
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       forename:
-        content: Yu-Ting
-        language: en
-        script: Latn
+      - content: Yu-Ting
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Hsiao
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Pei-Li
-        language: en
-        script: Latn
+      - content: Pei-Li
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Sun
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: OST-HMD (optical see-through head-mounted display) is a kind of display
+- content: OST-HMD (optical see-through head-mounted display) is a kind of display
     device which is frequently used in mixed reality applications. In general, the
     virtual image would be nearly transparent when the virtual image is dark or the
     background scene is too bright. Especially for the second condition, if there
@@ -61,7 +75,9 @@ abstract:
     degrees and display these images on a 42" high dynamic range display. A psychophysical
     experiment was conducted to analyse the correlation between the scene and preferred
     rendering parameters.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

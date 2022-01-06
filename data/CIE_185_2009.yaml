@@ -8,7 +8,7 @@ title:
   content: Reappraisal of Colour Matching and Grassmann's Laws
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-185-2009?product_id=1659806
+- content: https://www.techstreet.com/cie/standards/cie-185-2009?product_id=1659806
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783901906787'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2009-12-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2009-12-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The laws of additivity and proportionality of colour matches, Grassmann's
     laws, are the basis of all colour theory, but are not axiomatically true. The
     extent of departure of human vision from Grassmann's laws has been
@@ -55,7 +59,9 @@ abstract:
     maintaining consistency with high-luminance success in experiments such as
     reported recently. Further investigations are indicated for a successor to TC 1-
     56.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

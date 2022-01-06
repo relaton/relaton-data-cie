@@ -16,73 +16,99 @@ title:
      (PO26, 902-912)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/lighting-recommendations-of-typical-light-sources-on-chinese-traditional-heavy-colour-paintings-po26-902-912?product_id=2011167
+- content: https://www.techstreet.com/cie/standards/lighting-recommendations-of-typical-light-sources-on-chinese-traditional-heavy-colour-paintings-po26-902-912?product_id=2011167
   type: src
 type: standard
 docid:
-  id: CIE PO26 902-912
+- id: CIE PO26 902-912
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: G
-        language: en
-        script: Latn
+      - content: G
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Liu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: Y
-        language: en
-        script: Latn
+      - content: Y
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yuan
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: J
-        language: en
-        script: Latn
+      - content: J
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Liu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: R
-        language: en
-        script: Latn
+      - content: R
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Dang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     Optical radiation can cause permanent damage to the colo ur of Chinese traditional paintings which are extremely high-responsivity in the museum illumination. In order to obtain quantitative influence rule of artificial illumination on Chinese traditional heavy colour
     paintings and provide basis for light source choice, there is a long periodic irradiation experiment carried out to examine how prolonged exposure of three light sources (tungsten halogen, metal halide and WLED (White Light Emitting Diodes)) frequently-used in museums affect the chromaticity of five pigments (azurite (cyan), cinnabar (red), orpiment (yellow), ancient graphite (black) , clam shell powder (white)) commonly used in Chinese traditional heavy colour paintings. By the methods of chromaticity parameter measurement and data analysis, the decay laws of colour change caused by different light sources are obtained, and the proportional relationship of three light sources influencing Chinese traditional heavy colour paintings are achieved.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

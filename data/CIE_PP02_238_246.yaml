@@ -10,48 +10,62 @@ title:
     FACTOR OF LIGHTING SYSTEMS (PP02, 238-246)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/depreciation-of-room-surfaces-reflectance-and-their-influence-on-maintenance-factor-of-lighting-systems-pp02-238-246?product_id=2016249
+- content: https://www.techstreet.com/cie/standards/depreciation-of-room-surfaces-reflectance-and-their-influence-on-maintenance-factor-of-lighting-systems-pp02-238-246?product_id=2016249
   type: src
 type: standard
 docid:
-  id: CIE PP02 238-246
+- id: CIE PP02 238-246
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       initial:
-        content: D
-        language: en
-        script: Latn
+      - content: D
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Gasparovsky
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: R
-        language: en
-        script: Latn
+      - content: R
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Dubnicka
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Aim of this paper is to contribute to improvement of the methodology for
+- content: Aim of this paper is to contribute to improvement of the methodology for
     determination and application of the maintenance factor of lighting systems. The
     paper is specifically focused on the room surface maintenance factor (RSMF) in
     interior lighting. The paper consist of three selfstanding parts. In first part
@@ -62,7 +76,9 @@ abstract:
     time intervals. Third, model calculations for a mock-up room under different conditions
     have been evaluated, once using the current approach and alternatively associating
     the RSMF factor directly with room surface reflectances.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

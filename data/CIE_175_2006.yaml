@@ -8,7 +8,7 @@ title:
   content: A Framework for the Measurement of Visual Appearance
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-175-2006?product_id=1321506
+- content: https://www.techstreet.com/cie/standards/cie-175-2006?product_id=1321506
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783901906527'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2006-12-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2006-12-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "Visual appearance can be one of the most critical parameters affecting
+- content: "Visual appearance can be one of the most critical parameters affecting
     customer choice and it needs, therefore, to be quantifiable to ensure uniformity
     and reproducibility. A starting point in assessing the appearance of a consumer
     product might be the measurement of its colour. A description of its total appearance,
@@ -76,7 +80,9 @@ abstract:
     to the perceived texture. The idea of establishing a series of 'standard' textures
     has been suggested. \n\nThe report is written in English, with a short summary
     in French and German."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

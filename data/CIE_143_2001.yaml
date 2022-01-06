@@ -8,7 +8,7 @@ title:
   content: International recommendations for colour vision requirements for transport
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-143-2001?product_id=1210061
+- content: https://www.techstreet.com/cie/standards/cie-143-2001?product_id=1210061
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783901906091'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2001-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2001-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This technical report details the official CIE Recommendations for requirements of colour vision that are necessary to ensure safe and reliable recognition of coloured signal lights and other colour coded visual information devices.
 
     The aim of the report is to encourage international harmonisation in colour vision requirements in maritime, air, rail and road transport, and the use of valid methods for the assessment of colour vision.
@@ -45,7 +49,9 @@ abstract:
     The report also recommends test procedures for the assessment of colour vision. Detailed information on the recommende colour vision tests is given in an appendix.
 
     The Technical Report is written in English, with a short summary in French and German. It consists of 47 pages, with 10 figures and 2 tables.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

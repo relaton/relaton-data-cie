@@ -12,7 +12,7 @@ title:
     by the CIE National Committee (NC) Malaysia online
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-2021?product_id=2242151
+- content: https://www.techstreet.com/cie/standards/cie-x048-2021?product_id=2242151
   type: src
 type: standard
 docid:
@@ -21,26 +21,32 @@ docid:
 - id: '9783902842299'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2021-11-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-11-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: In October 2021 CIE held a 3-day online conference, CIE 2021, which originally
+- content: In October 2021 CIE held a 3-day online conference, CIE 2021, which originally
     was intended to accompany the CIE 2021 Midterm Meeting. Experts from all over
     the world presented latest research results and survey lectures in 4 invited presentations,
     68 oral presentations, 58 posters and 8 workshops.  Various subjects related to
     light and lighting were covered, e.g. "Integrative lighting", "Visual appearance",
     "Glare", "Measurement theory", "Daylight", "Temporal light modulation", "Road
     lighting", "Residential lighting", "Measurement of materials and sources".
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

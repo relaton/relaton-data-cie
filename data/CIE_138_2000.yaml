@@ -8,7 +8,7 @@ title:
   content: CIE Collection in photobiology and photochemistry 2000
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-138-2000?product_id=1210056
+- content: https://www.techstreet.com/cie/standards/cie-138-2000?product_id=1210056
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783901906022'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2000-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2000-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This volume contains short Technical Reports prepared by various Technical Committees within Division 6.
 
     138/1 Blue Light Photochemical Retinal Hazard
@@ -50,7 +54,9 @@ abstract:
     138/4 A Proposed Global UV Index
 
     Increasing public concern over declining ozone levels and the resultant ultraviolet (UV) radiation reaching the earth has brought about a need to communicate daily information to the public in a credible and understandable manner. Several dozen countries have implemented a wide variety of UV index programs, utilizing different scales and methods of communication. This has created confusion for several years. A single scale for communicating UV dose rate to the public has been proposed and endorsed by the World Health Organization (WHO), the World Meteorological Organization (WMO), and the International Commission on Non-Ionizing Radiation Protection (ICNIRP). This scale may also be useful for communication within the scientific community. The scale is addressed and summarized here. A definition of the Global UV Index is recommended, for addition to the CIE International Lighting Vocabulary.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

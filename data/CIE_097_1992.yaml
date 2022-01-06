@@ -8,32 +8,38 @@ title:
   content: Maintenance of indoor electric lighting systems
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-097-1992?product_id=1210133
+- content: https://www.techstreet.com/cie/standards/cie-097-1992?product_id=1210133
   type: src
 type: standard
 docid:
-  id: CIE 097-1992
+- id: CIE 097-1992
   type: CIE
 date:
-  type: published
+- type: published
   value: '1992-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1992-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Please note:  This publication is currently under revision.  Expected
+- content: 'Please note:  This publication is currently under revision.  Expected
     publication date for new version is March, 2006.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     id: CIE097-2005
     title:
@@ -44,13 +50,13 @@ relation:
       content: Maintenance of indoor electric lighting systems
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-097-2005?product_id=1252706
+    - content: https://www.techstreet.com/cie/standards/cie-097-2005?product_id=1252706
       type: src
     docid:
-      id: CIE 097-2005
+    - id: CIE 097-2005
       type: CIE
     date:
-      type: published
+    - type: published
       value: '2005-12-01'
     revdate: '2005-12-01'
 doctype: document

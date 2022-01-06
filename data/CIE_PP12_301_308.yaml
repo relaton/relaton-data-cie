@@ -10,81 +10,110 @@ title:
     IN BEIJING, TIANJIN AND HEBEI PROVINCE (PP12, 301-308)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/investigation-of-physical-environment-of-atriums-in-large-public-buildings-in-beijing-tianjin-and-hebei-province-pp12-301-308?product_id=2016258
+- content: https://www.techstreet.com/cie/standards/investigation-of-physical-environment-of-atriums-in-large-public-buildings-in-beijing-tianjin-and-hebei-province-pp12-301-308?product_id=2016258
   type: src
 type: standard
 docid:
-  id: CIE PP12 301-308
+- id: CIE PP12 301-308
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       forename:
-        content: Chen
-        language: en
-        script: Latn
+      - content: Chen
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Wang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Mingyu
-        language: en
-        script: Latn
+      - content: Mingyu
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Zhang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Li
-        language: en
-        script: Latn
+      - content: Li
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Tian
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Juan
-        language: en
-        script: Latn
+      - content: Juan
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Yajiang
-        language: en
-        script: Latn
+      - content: Yajiang
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Wang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The construction of large and medium-sized public buildings in cities
+- content: 'The construction of large and medium-sized public buildings in cities
     shows an accelerated trend of development with an increasing share of the total.
     As the core of large-scale public buildings, the space of the atrium rises in
     abundance of space forms and spaces, at the same time, it also exposes the problems
@@ -139,7 +168,9 @@ abstract:
     environment of the atrium and whether the external noise is shielded Brightness
     and softness in the environment and the degree of hot and cold in the hot environment
     and the air circulation have a higher concern.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

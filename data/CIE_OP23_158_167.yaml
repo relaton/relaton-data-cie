@@ -13,40 +13,51 @@ title:
     WORLDS' FAIR, LAPUA FORESTRY PAVILION, AND NEW YORK WORLDS' FAIR \n(OP23, 158-167)"
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/transitory-buildings-lasting-effect-aalto-s-exhibition-designs-paris-worlds-fair-lapua-forestry-pavilion-and-new-york-worlds-fair-op23-158-167?product_id=2010464
+- content: https://www.techstreet.com/cie/standards/transitory-buildings-lasting-effect-aalto-s-exhibition-designs-paris-worlds-fair-lapua-forestry-pavilion-and-new-york-worlds-fair-op23-158-167?product_id=2010464
   type: src
 type: standard
 docid:
-  id: CIE OP23 158-167
+- id: CIE OP23 158-167
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: V
-        language: en
-        script: Latn
+      - content: V
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Cartwright
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This paper will look at the architectural and luminous design of 3 modest buildings that Alvar Aalto designed relatively early in his career, 1936-1939. After a short existence, all were demolished, yet during their lives were seen by many people from many cou ntries, and represent an important phase in Aalto's career, and in the evolution of his attitude towards employing daylight in his buildings. The first of these, the Finland Pavilion at the Paris World's Exposition, incorporated what might be called a "modernist" approach towards daylighting.
     The second pavilion, the Forestry Pavilion at the South Ostrobothnia Agricultural Fair in Lapua, Finland in 1938, had an irregular distribution of skylights that both washed the walls and illuminated the floor below. The third, the Finland Pavilion at the New York World's Fair, also incorporated an irregular distribution of rectangular skylights. These skylights directed light towards an undulating wall.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

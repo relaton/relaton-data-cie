@@ -10,81 +10,110 @@ title:
     OPINION'
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-po43?product_id=2242152
+- content: https://www.techstreet.com/cie/standards/cie-x048-po43?product_id=2242152
   type: src
 type: standard
 docid:
-  id: CIE  x048-PO43
+- id: CIE  x048-PO43
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-10-29'
 contributor:
 - person:
     name:
       forename:
-        content: Bukzem
-        language: en
-        script: Latn
+      - content: Bukzem
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Flávia de Lacerda
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Naves
-        language: en
-        script: Latn
+      - content: Naves
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Cláudia
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Amorim
-        language: en
-        script: Latn
+      - content: Amorim
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: David
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Dantas
-        language: en
-        script: Latn
+      - content: Dantas
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ayana
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Medeiros
-        language: en
-        script: Latn
+      - content: Medeiros
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: de
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-10-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Lighting quality is a concept that allows excellent vision while providing
+- content: 'Lighting quality is a concept that allows excellent vision while providing
     high comfort. In addition to standards, there are diverse methods that can assist
     in understanding the light quality of an environment and one such mechanism is
     monitoring protocols. The aim of this paper is to investigate the lighting quality
@@ -95,7 +124,9 @@ abstract:
     Both case study shows good results to photometry parameters as illuminance average,
     directionality, quality of view out and melanopic values. The opinions of users,
     in general, are positive and the aligning with on-site measurements.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

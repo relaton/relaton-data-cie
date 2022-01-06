@@ -10,82 +10,114 @@ title:
     591-597)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/colour-fading-model-of-leds-for-contemporary-photographic-materials-po34-591-597?product_id=2016310
+- content: https://www.techstreet.com/cie/standards/colour-fading-model-of-leds-for-contemporary-photographic-materials-po34-591-597?product_id=2016310
   type: src
 type: standard
 docid:
-  id: CIE PO34 591-597
+- id: CIE PO34 591-597
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       initial:
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: W
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Luo
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Chou
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: S
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Chen
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: M
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: R
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Luo
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: CIE 157:2004 classifies museum collections into four groups according to
+- content: CIE 157:2004 classifies museum collections into four groups according to
     different levels of light fastness. However, these classes were developed from
     research using traditional light sources. Even though LED technology is becoming
     more popular, there is no advanced evaluation of colour fading or colour change
@@ -95,7 +127,9 @@ abstract:
     halogen lamp. The results also present a colour fading model that can be used
     in museum LED lighting to predict colour differences of contemporary photographic
     materials for short- and long-term exhibition.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

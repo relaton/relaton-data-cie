@@ -10,7 +10,7 @@ title:
     CD-ROM)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-152-2003?product_id=1210068
+- content: https://www.techstreet.com/cie/standards/cie-152-2003?product_id=1210068
   type: src
 type: standard
 docid:
@@ -19,19 +19,23 @@ docid:
 - id: '9783901906213'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2003-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2003-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     •Vol. I (Part 1 and 2):
 
           This volume contains on over 700 pages the texts of the Invited Papers, Presented Papers and Posters presented at the Session, as well as the introductions to the Workshops.
@@ -41,7 +45,9 @@ abstract:
           The second volume of the Proceedings contains the text of the Welcome Addresses, Officers Reports, as well as a list of participants. It presents an overview on the technical work achieved during the quadrennium in the form of Quadrennial Reports, minutes of the Divisional Meetings and Workshop Reports.
 
     A CD-ROM containing the full Proceedings (Vol. I and II) in pdf format is now available. It additionally contains a longer version of some of the papers included in Vol. I, as well as some pictures taken at the Session in the form of a slide show and movie presentation.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

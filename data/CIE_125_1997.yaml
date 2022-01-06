@@ -8,7 +8,7 @@ title:
   content: Standard erythema dose, a review
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-125-1997?product_id=1210047
+- content: https://www.techstreet.com/cie/standards/cie-125-1997?product_id=1210047
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783900734817'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1997-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1997-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The problem of dosimetry in skin photobiology lies in the fact that the ability of ultraviolet (UV) radiation to elicit erythema in human skin depends strongly on wavelength, encompassing a range of four orders of magnitude between 250 nm and 400 nm.
 
     A CIE erythema action spectrum was proposed in 1987 but no erythemal quantity and radiometric equivalence was agreed till up to now.
@@ -39,7 +43,9 @@ abstract:
     To avoid further confusing misuse of the term MED, we propose that this term be reserved solely for observational studies in humans and other animals, and that a new term, the standard erythema dose (SED) be used as a standardised measure of erythemogenic UV radiation. The present report proposes also its numerical value: 1 SED is equivalent to an erythemal effective radiant exposure of 100 Jm-2.
 
     The Technical Report provides the background of this proposal, the definitions are summarised in an accompanying standard.This publication contains 7 pages and is written in English with a summary in French and German.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -16,76 +16,104 @@ title:
      (PP17, 580-588)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/research-on-the-influence-mechanism-of-the-artificial-light-environment-evaluation-index-on-office-lighting-comfort-pp17-580-588?product_id=2011272
+- content: https://www.techstreet.com/cie/standards/research-on-the-influence-mechanism-of-the-artificial-light-environment-evaluation-index-on-office-lighting-comfort-pp17-580-588?product_id=2011272
   type: src
 type: standard
 docid:
-  id: CIE PP17 580-588
+- id: CIE PP17 580-588
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: G
-        language: en
-        script: Latn
+      - content: G
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Liu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: M
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: L
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Liu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: C
-        language: en
-        script: Latn
+      - content: C
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Luo
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: R
-        language: en
-        script: Latn
+      - content: R
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Dang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     Due to the large building stock, the relatively simple building space, the longer pace times, and the specific requirements of artificial light environment, a small office space should be chosen for the study. By adopting the research method of subjective evaluation experiment, we explored the influence of four lighting environment comfort evaluation indices on lighting comfort level. By using the results of the comfort questionnaire, the influence of illuminance, correlated colour temperature, general colour rendering index, and uniformity ratio of illuminance on the degree of comfort and brightness were found to further study the
     quantitative effects of individual physical environment on visual comfort. Combining the questionnaire statistics and experimental data correlation analysis, followed by a multivariate linear regression analysis by SPSS software, the mathematical model of artificial light environment is established. Further, a quantitative evaluation of the effects of various optical environment parameters on visual comfort in artificial light environment was conducted.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

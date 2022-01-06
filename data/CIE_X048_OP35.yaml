@@ -10,106 +10,147 @@ title:
     FOR STUDENTSE
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op35?product_id=2240790
+- content: https://www.techstreet.com/cie/standards/cie-x048-op35?product_id=2240790
   type: src
 type: standard
 docid:
-  id: CIE x048-OP35
+- id: CIE x048-OP35
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
       - content: B
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: S
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Matusiak
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: C
-        language: en
-        script: Latn
+      - content: C
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Amorim
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Sibilio
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: J
-        language: en
-        script: Latn
+      - content: J
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Martyniuk- Peczek
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: N
-        language: en
-        script: Latn
+      - content: N
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Sokol
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: Y
-        language: en
-        script: Latn
+      - content: Y
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Koga
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: J
-        language: en
-        script: Latn
+      - content: J
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Debik
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This paper has been developed in the IEA SHC Task 61 Integrated Solutions
+- content: 'This paper has been developed in the IEA SHC Task 61 Integrated Solutions
     for Daylighting and Electric Lighting scope. Task 61 aims at developing and testing
     strategies and solutions combining daylighting, electric lighting, and the most
     suitable control systems. Some of the planned activities, especially in the Subtask
@@ -121,7 +162,9 @@ abstract:
     understand lighting conditions for students in home offices in different countries:
     Brazil, Italy, Japan, Columbia, Denmark, and Poland. The paper also seeks to define
     the current limitations of a home office in providing a resilient visual environment.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

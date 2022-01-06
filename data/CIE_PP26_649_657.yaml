@@ -8,74 +8,103 @@ title:
   content: VISUAL EXPERIENCES AND NEEDS OF AGEING DRIVERS (PP26, 649-657)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/visual-experiences-and-needs-of-ageing-drivers-pp26-649-657?product_id=2011357
+- content: https://www.techstreet.com/cie/standards/visual-experiences-and-needs-of-ageing-drivers-pp26-649-657?product_id=2011357
   type: src
 type: standard
 docid:
-  id: CIE PP26 649-657
+- id: CIE PP26 649-657
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
       - content: M
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Donners
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: E
-        language: en
-        script: Latn
+      - content: E
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Stein
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: F
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: F
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: W
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: van der Heijde
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: With age, the variation in visual and driving performance increases . Decreases
+- content: With age, the variation in visual and driving performance increases . Decreases
     in visual performance eventually cause many seniors to change their driving behaviour
     or even to refrain from driving at night at all. To establish the degradation
     of which visual functions contributes most, we conducted a literature review and
@@ -85,7 +114,9 @@ abstract:
     in all countries are UFOV and the perception of movement . In literature, decreasing
     reaction time and difficulties estimating time to contact are also identified
     as major contributors to driving restricting by ageing drivers.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -8,7 +8,7 @@ title:
   content: Guide to the lighting of urban areas
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-136-2000?product_id=1210054
+- content: https://www.techstreet.com/cie/standards/cie-136-2000?product_id=1210054
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783900734985'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2000-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2000-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The purpose of this guide is to supplement the lighting recommendations and standards for roads and areas of public use as detailed in the Publication CIE 115-1995. It replaces CIE 92-1992 Guide to the lighting of urban areas.
 
     The recommendations cover the effect of light on night time crime and suggests lighting requirements for residential roads and community areas, industrial roads, central business districts and malls, pedestrian paths and access facilities and cycle tracks.
@@ -37,7 +41,9 @@ abstract:
     In addition to proposing levels of luminance and illuminance the recommendations consider aspects such as modelling of people and structures within the environment, the effects of glare and sparkle, suitability of light sources as far as colour appearance and colour rendering are concerned, the effect of the lighting on the environment and the general aesthetics of the lighting equipment used.
 
     This publication is written in English, with a short summary in French and German. It contains 38 pages with 5 figures and 11 tables.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

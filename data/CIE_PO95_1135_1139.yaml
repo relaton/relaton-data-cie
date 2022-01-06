@@ -12,70 +12,94 @@ title:
      (PO95, 1135-1139)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/the-potential-usage-of-public-lighting-in-the-smart-city-po95-1135-1139?product_id=2011229
+- content: https://www.techstreet.com/cie/standards/the-potential-usage-of-public-lighting-in-the-smart-city-po95-1135-1139?product_id=2011229
   type: src
 type: standard
 docid:
-  id: CIE PO95 1135-1139
+- id: CIE PO95 1135-1139
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: T
-        language: en
-        script: Latn
+      - content: T
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Novak
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: K
-        language: en
-        script: Latn
+      - content: K
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Sokansky
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: P
-        language: en
-        script: Latn
+      - content: P
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Koudelka
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: R
-        language: en
-        script: Latn
+      - content: R
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Martinek
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Due to new technologies increase the public lighting gets currently into
+- content: Due to new technologies increase the public lighting gets currently into
     a ground-breaking phase. It is necessary to consider carefully how and where public
     lighting is heading forward and whether it is necessary to prepare for any changes
     right now so that we could use a potential of the public lighting, especially
@@ -91,7 +115,9 @@ abstract:
     the category of SMART CITY (free Wi-Fi for the population, IP camera systems,
     providing technologies that facilitate car to car and car to infrastructure communication
     WAVEp, environmental measurement and dynamic traffic management).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

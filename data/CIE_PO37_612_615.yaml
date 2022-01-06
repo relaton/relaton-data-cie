@@ -10,68 +10,93 @@ title:
     MATERIALS IN COMMERCIAL REFRIGERATOR (PO37, 612-615)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/effects-of-age-and-gender-on-visual-perception-of-commodity-with-different-materials-in-commercial-refrigerator-po37-612-615?product_id=2016413
+- content: https://www.techstreet.com/cie/standards/effects-of-age-and-gender-on-visual-perception-of-commodity-with-different-materials-in-commercial-refrigerator-po37-612-615?product_id=2016413
   type: src
 type: standard
 docid:
-  id: CIE PO37 612-615
+- id: CIE PO37 612-615
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       initial:
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: W
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Tu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: M
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Liu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Huang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Lighting parameters greatly affect the purchasing behaviour of the consumer
+- content: Lighting parameters greatly affect the purchasing behaviour of the consumer
     by visual stimuli. The paper deals with a research of the influence of age and
     gender on surface material of commodity in commercial refrigerator using white
     LED lights. LED lights at various CCTs and illuminance intensities and three surface
@@ -85,7 +110,9 @@ abstract:
     of this field study can be helpful for wisely using LED luminaires in commercial
     refrigerator by considering both energy efficiency and satisfaction of visual
     perception.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

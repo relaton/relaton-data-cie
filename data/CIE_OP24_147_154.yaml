@@ -10,81 +10,110 @@ title:
     (OP24, 147-154)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/a-study-of-visual-target-visibility-in-mesopic-vision-based-on-electroencephalogram-op24-147-154?product_id=2016237
+- content: https://www.techstreet.com/cie/standards/a-study-of-visual-target-visibility-in-mesopic-vision-based-on-electroencephalogram-op24-147-154?product_id=2016237
   type: src
 type: standard
 docid:
-  id: CIE OP24 147-154
+- id: CIE OP24 147-154
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       forename:
-        content: Yunyang
-        language: en
-        script: Latn
+      - content: Yunyang
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Shi
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Yan
-        language: en
-        script: Latn
+      - content: Yan
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Tu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Lili
-        language: en
-        script: Latn
+      - content: Lili
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Wang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Ziyi
-        language: en
-        script: Latn
+      - content: Ziyi
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Chen
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Zichen
-        language: en
-        script: Latn
+      - content: Zichen
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Wang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The loss of visual attention is one important reason of traffic accidents
+- content: The loss of visual attention is one important reason of traffic accidents
     during the night. This paper explores the variations of brain activity as subjects
     recognizing different visual targets in mesopic vision. The impact of contrast
     and eccentricity of visual target on ERP signal, detection rate and reaction time
@@ -94,7 +123,9 @@ abstract:
     component shortens when contrast increases. The detection rate increases, and
     reaction time decreases when contrast increases. The influence of eccentricity
     within 4° visual angle is not significant on all the items.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

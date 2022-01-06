@@ -14,74 +14,101 @@ title:
      (PO87, 1098-1102)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/measurements-of-reflection-properties-of-a-wet-led-lighted-road-po87-1098-1102?product_id=2011224
+- content: https://www.techstreet.com/cie/standards/measurements-of-reflection-properties-of-a-wet-led-lighted-road-po87-1098-1102?product_id=2011224
   type: src
 type: standard
 docid:
-  id: CIE PO87 1098-1102
+- id: CIE PO87 1098-1102
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
       - content: S
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: W
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Hsu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Chen
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: S
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: T
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Hung
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: IWe have developed a method based on on-site measurement of luminance images
+- content: IWe have developed a method based on on-site measurement of luminance images
     to study the reflected properties of LED and HPS lighted wet road. The distance
     of imaging luminance measurement device (ILMD) can be very close to the measured
     region to have high observation angles. All the measured luminance images were
     analysed and summarized to a distribution of reflected luminance as a function
     deviation angle, incidence angle, and observation angle.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

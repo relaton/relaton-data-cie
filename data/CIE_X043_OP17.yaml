@@ -10,92 +10,126 @@ title:
     (OP17, Pages 103-110)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/predicting-changes-in-visual-appearance-of-periodic-surface-from-brdf-measurements-op17-pages-103-110?product_id=1941819
+- content: https://www.techstreet.com/cie/standards/predicting-changes-in-visual-appearance-of-periodic-surface-from-brdf-measurements-op17-pages-103-110?product_id=1941819
   type: src
 type: standard
 docid:
-  id: CIE x043-OP17
+- id: CIE x043-OP17
   type: CIE
 date:
-  type: published
+- type: published
   value: '2016-09-01'
 contributor:
 - person:
     name:
       initial:
-        content: C
-        language: en
-        script: Latn
+      - content: C
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Turbil
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: I
-        language: en
-        script: Latn
+      - content: I
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Gozhyk
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: J
-        language: en
-        script: Latn
+      - content: J
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Teisseire
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: I
-        language: en
-        script: Latn
+      - content: I
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Simonsen
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: G
-        language: en
-        script: Latn
+      - content: G
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ged
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: G
-        language: en
-        script: Latn
+      - content: G
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Obein
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-09-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The present study focuses on the optical properties of functionalized surfaces
+- content: The present study focuses on the optical properties of functionalized surfaces
     and how the surface geometry impacts them. Physical measurements of reflected
     light are required to understand the visual aspect of such surfaces. Bidirectional
     Reflection Distribution Function (BRDF) is evaluated in order to identify and
@@ -107,7 +141,9 @@ abstract:
     In the same way, if more complex periodic patterns are considered, as multistate
     periodicity pattern for example, it could rise to important modification of surface
     visual aspect.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

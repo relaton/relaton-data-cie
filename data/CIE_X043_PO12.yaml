@@ -10,81 +10,110 @@ title:
     CHROMATIC COLOURS (PO12, Pages 269-277)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/influence-of-luminance-levels-of-illumination-d65-on-evaluation-of-high-chromatic-colours-po12-pages-269-277?product_id=1941844
+- content: https://www.techstreet.com/cie/standards/influence-of-luminance-levels-of-illumination-d65-on-evaluation-of-high-chromatic-colours-po12-pages-269-277?product_id=1941844
   type: src
 type: standard
 docid:
-  id: CIE x043-PO12
+- id: CIE x043-PO12
   type: CIE
 date:
-  type: published
+- type: published
   value: '2016-09-01'
 contributor:
 - person:
     name:
       initial:
-        content: M
-        language: en
-        script: Latn
+      - content: M
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Pechova
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: M
-        language: en
-        script: Latn
+      - content: M
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kasparova
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: M
-        language: en
-        script: Latn
+      - content: M
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Vik
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: M
-        language: en
-        script: Latn
+      - content: M
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Vikova
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: J
-        language: en
-        script: Latn
+      - content: J
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Stefl
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-09-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: High chromatic colours are used largely in various industrial sectors (e.g.
+- content: High chromatic colours are used largely in various industrial sectors (e.g.
     textiles, emergency)   in last years. Aim of research was observation of influence
     of decreasing luminance level on assessment of respondents and verification of
     adaptation mechanisms in mesopic and photopic level human vision. The perception
@@ -108,7 +137,9 @@ abstract:
     difference and calculated colour difference were contained the dependence visually
     perceived colour difference on the luminance level. Finally, the results were
     compared with the results of the MOVE and LRC laboratories.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

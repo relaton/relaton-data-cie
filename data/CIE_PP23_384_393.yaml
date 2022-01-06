@@ -10,37 +10,46 @@ title:
     384-393)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/a-colour-gamut-index-and-colour-shift-information-based-on-cie-13-3-pp23-384-393?product_id=2016277
+- content: https://www.techstreet.com/cie/standards/a-colour-gamut-index-and-colour-shift-information-based-on-cie-13-3-pp23-384-393?product_id=2016277
   type: src
 type: standard
 docid:
-  id: CIE PP23 384-393
+- id: CIE PP23 384-393
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       initial:
-        content: C
-        language: en
-        script: Latn
+      - content: C
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Teunissen
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This paper provides the description of new colour rendition properties,
+- content: This paper provides the description of new colour rendition properties,
     for characterizing whitelight sources, which can be used in conjunction with the
     general colour rendering index, Ra. It presents the content of the Enquiry Draft
     / Technical Note (ED/TN) that was prepared as output of Reporter DR 1-68 "A Gamut
@@ -52,7 +61,9 @@ abstract:
     method. This paper also presents the influence of Ga and the chroma index for
     the strong red TCS (#9) on the appreciation of spectrally-tuned white-light sources,
     with varying Ra and Ga values, for the illumination of three application areas.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

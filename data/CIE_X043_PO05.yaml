@@ -10,70 +10,94 @@ title:
     WITH COSMETIC FOUNDATION (PO05, Pages 224-229)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/preferable-lighting-condition-to-improve-appearance-of-woman-s-facial-skin-with-cosmetic-foundation-po05-pages-224-229?product_id=1941836
+- content: https://www.techstreet.com/cie/standards/preferable-lighting-condition-to-improve-appearance-of-woman-s-facial-skin-with-cosmetic-foundation-po05-pages-224-229?product_id=1941836
   type: src
 type: standard
 docid:
-  id: CIE x043-PO05
+- id: CIE x043-PO05
   type: CIE
 date:
-  type: published
+- type: published
   value: '2016-09-01'
 contributor:
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Okuda
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: K
-        language: en
-        script: Latn
+      - content: K
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Komai
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: Y
-        language: en
-        script: Latn
+      - content: Y
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Tanigawa
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: K
-        language: en
-        script: Latn
+      - content: K
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Okajima
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-09-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: In order to reveal the preferable lighting conditions for the improvement
+- content: In order to reveal the preferable lighting conditions for the improvement
     of appearance of women's facial skin with cosmetic foundation, we conducted a
     subjective experiment under some lighting conditions. Before the experiment, we
     set up the lighting conditions using a programmable light source that enables
@@ -87,7 +111,9 @@ abstract:
     conditions in which spectral components of 528-562nm are included, suggesting
     that the control of middle wavelength components should be critical for improving
     appearance of woman's facial skin with cosmetic foundation.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

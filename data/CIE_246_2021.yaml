@@ -8,7 +8,7 @@ title:
   content: Colour Gamuts for Output Media
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-246-2021?product_id=2240014
+- content: https://www.techstreet.com/cie/standards/cie-246-2021?product_id=2240014
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783902842183'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2021-11-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-11-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document provides guidance on methods for computing and communicating
+- content: This document provides guidance on methods for computing and communicating
     colour gamuts for output colour reproduction systems such as printers and displays.
     Different methods for defining a colour gamut boundary are reported. A procedure
     for describing the colour gamut of a reproduction system is explained. A step-by-step
@@ -40,7 +44,9 @@ abstract:
     gamut boundary description are mentioned. Examples for the CxF-based encoding
     of colour gamut boundary descriptors are provided as electronic attachments to
     this document.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

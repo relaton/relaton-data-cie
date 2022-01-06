@@ -8,7 +8,7 @@ title:
   content: Colorimetry, 3rd edition
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-015-2004?product_id=1210118
+- content: https://www.techstreet.com/cie/standards/cie-015-2004?product_id=1210118
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783901906336'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2004-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2004-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This publication, which replaces CIE Publication 15.2 (and is not to be known as 15.3!), includes details of the CIE DE2000 colour difference equation; spectral power distributions for sets of halophosphate lamps, DeLuxe type lamps, three-band lamps, multi-band lamps, high pressure sodium lamps and high pressure metal halide lamps. The nomenclature for the recommended geometries has changed, and there are even changes to the equations defining the parameters of the CIELAB colour space!
 
     The publication is accompanied by CD-ROM (for the Print Edition) that contains all the tables of standard and recommended spectral distributions and a program (for Windows operation systems) to perform interpolation of spectra related to reflection or absorption measurements.
@@ -37,11 +41,13 @@ abstract:
     Thus this publication represents the colorimetric state-of-the-art and should find a place on the bookshelf of every colour scientist.
 
     The report is written in English, with a short summary in French and German. It consists of 79 pages with 17 tables, and is readily available at the CIE National Committees or the CIE Central Bureau in Vienna.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     id: CIE015-2018
     title:
@@ -52,13 +58,13 @@ relation:
       content: Colorimetry, 4th edition
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-015-2018?product_id=2025773
+    - content: https://www.techstreet.com/cie/standards/cie-015-2018?product_id=2025773
       type: src
     docid:
-      id: CIE 015:2018
+    - id: CIE 015:2018
       type: CIE
     date:
-      type: published
+    - type: published
       value: '2018-10-01'
     revdate: '2018-10-01'
 doctype: document

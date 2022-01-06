@@ -14,81 +14,110 @@ title:
     256-264)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/research-on-the-application-benefits-of-the-led-light-source-based-on-the-road-lighting-system-for-the-smart-city-in-tianjin-region-as-an-example-pp05-256-264?product_id=2016252
+- content: https://www.techstreet.com/cie/standards/research-on-the-application-benefits-of-the-led-light-source-based-on-the-road-lighting-system-for-the-smart-city-in-tianjin-region-as-an-example-pp05-256-264?product_id=2016252
   type: src
 type: standard
 docid:
-  id: CIE PP05 256-264
+- id: CIE PP05 256-264
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       forename:
-        content: Xiufeng
-        language: en
-        script: Latn
+      - content: Xiufeng
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ma
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Lixiong
-        language: en
-        script: Latn
+      - content: Lixiong
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Wang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Yuanpeng
-        language: en
-        script: Latn
+      - content: Yuanpeng
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Gao
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Juan
-        language: en
-        script: Latn
+      - content: Juan
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Junrong
-        language: en
-        script: Latn
+      - content: Junrong
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ma
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Based on the investigation and discussion of the lighting system in the
+- content: Based on the investigation and discussion of the lighting system in the
     smart city of Tianjin, this paper analyses the existing problems of the road lighting
     system and summarizes the solutions. Relying on DIALUX software to build the urban
     road model foundation space to simulate the urban lighting system. Analysis the
@@ -98,7 +127,9 @@ abstract:
     strategies for the LED light source. Based on the best application strategies,
     analysis and simulate the data, at last calculate the relevant benefits, including
     the economic benefits, the energy benefits and the environmental benefits.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

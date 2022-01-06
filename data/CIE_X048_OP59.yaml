@@ -8,54 +8,72 @@ title:
   content: 'COLOUR FIDELITY AND ILLUMINANCE TRADE-OFF: TESTING LIGHTING VALUES'
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op59?product_id=2240811
+- content: https://www.techstreet.com/cie/standards/cie-x048-op59?product_id=2240811
   type: src
 type: standard
 docid:
-  id: CIE x048-OP59
+- id: CIE x048-OP59
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Veitch
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: L
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Whitehead
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The higher the colour fidelity of a light source, the lower its luminous
+- content: The higher the colour fidelity of a light source, the lower its luminous
     efficacy of radiation because the light source spectrum must deviate from V(A)
     to deliver the higher fidelity. Two experiments probed the trade-off between energy
     efficiency and colour quality. Experiment 1 required participants to simultaneously
@@ -67,7 +85,9 @@ abstract:
     on defined reflectance spectra. The results showed that improvements of colour
     fidelity above what is often considered satisfactory can yield more satisfying
     illumination while using the same amount of power.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

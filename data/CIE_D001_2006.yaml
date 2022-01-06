@@ -8,29 +8,35 @@ title:
   content: 'CIE Disk D 001 Rel 1.3: "CIE Photometric and Colorimetric Tables"'
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-d001-2006?product_id=1210078
+- content: https://www.techstreet.com/cie/standards/cie-d001-2006?product_id=1210078
   type: src
 type: standard
 docid:
-  id: CIE D001-2006
+- id: CIE D001-2006
   type: CIE
 date:
-  type: published
+- type: published
   value: '2006-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2006-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This disc contains files tabulating the CIE Standard Illuminants A and D65, the CIE 1931 and 1964 Standard Colorimetric Observers, as well as the CIE Spectral Luminous Efficiency Function for Scotopic Vision and the CIE 1988 2° Spectral Luminous Efficiency Function for Photopic Vision (see ISO 23539/CIE S 010/E:2005 Photometry - The CIE system of physical photometry, and CIE 86-1990 CIE 1988 2° spectral luminous efficiency function for photopic vision).
     The data on the illuminants and standard observers supplement the CIE Standards S 014-1/E:2006 Colorimetry - Part 1: CIE Standard Colorimetric Observers and S 014-2/E:2006 Colorimetry - Part 2: CIE Standard Illuminants (replacing ISO/CIE 10527-1991 and ISO 10526/CIE S005/E-1999, respectively).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

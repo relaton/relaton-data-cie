@@ -10,52 +10,68 @@ title:
     REAL LIGHTED INTERIORS (OP50, 367-376)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/brightness-prediction-method-based-on-brightness-matching-experiment-in-real-lighted-interiors-op50-367-376?product_id=2010522
+- content: https://www.techstreet.com/cie/standards/brightness-prediction-method-based-on-brightness-matching-experiment-in-real-lighted-interiors-op50-367-376?product_id=2010522
   type: src
 type: standard
 docid:
-  id: CIE OP50 367-376
+- id: CIE OP50 367-376
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: Y
-        language: en
-        script: Latn
+      - content: Y
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Nakamura
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: H
-        language: en
-        script: Latn
+      - content: H
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Obinata
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     To establish brightness prediction method applicable to real lighted interiors, authors first proposed a method to obtain equivalent target size, target luminance and background luminance from a measured luminance image based on Nakamura?s contrast profile method (2000). To examine those availability to Bodmann?s brightness prediction model, three brightness matching experiments using haploscopic matching method were conducted. The stimuli of the first experiment were circular targets of uniform luminance seen against uniform
     background, those of the second were circular uniform luminance targets seen against complicated background, and those of the third were indeterminate form targets seen against complicated background. The matching data obtained were compared to brightness predictions by Bodmann?s model (1994) with equivalent parameters obtained from luminance images. As a result it was found that those data were highly correlated, and finally a brightness prediction model with parameters solely obtained by contrast profile method was
     suggested.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

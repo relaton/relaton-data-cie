@@ -10,46 +10,59 @@ title:
     (PO15, 483-484)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/wavelength-calibration-of-a-sphere-spectrometer-measurement-configuration-po15-483-484?product_id=2016293
+- content: https://www.techstreet.com/cie/standards/wavelength-calibration-of-a-sphere-spectrometer-measurement-configuration-po15-483-484?product_id=2016293
   type: src
 type: standard
 docid:
-  id: CIE PO15 483-484
+- id: CIE PO15 483-484
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       initial:
       - content: E
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: K
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Mofokeng
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: NMISA's LED measurement facility sphere-spectrometer measurement setup
+- content: NMISA's LED measurement facility sphere-spectrometer measurement setup
     for total flux measurements was recalibrated to achieve lower uncertainties. The
     wavelength calibration was performed using a partial flux measurement configuration
     with the integrating sphere - array spectrometer system and pencil style wavelength
     sources. The calibration was performed on an optical bench to enable easy moving
     of lamps for better signal.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -10,48 +10,62 @@ title:
     COCKPIT FOR AUTOMATIC DIMMING (PP25, 276-283)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/exploring-the-preferred-luminance-of-vdt-and-indicator-lights-in-aircraft-cockpit-for-automatic-dimming-pp25-276-283?product_id=2016255
+- content: https://www.techstreet.com/cie/standards/exploring-the-preferred-luminance-of-vdt-and-indicator-lights-in-aircraft-cockpit-for-automatic-dimming-pp25-276-283?product_id=2016255
   type: src
 type: standard
 docid:
-  id: CIE PP25 276-283
+- id: CIE PP25 276-283
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       forename:
-        content: Yingying
-        language: en
-        script: Latn
+      - content: Yingying
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Meng
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Biao
-        language: en
-        script: Latn
+      - content: Biao
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: At present, the dimming systems of aircraft cockpit lighting are mainly
+- content: At present, the dimming systems of aircraft cockpit lighting are mainly
     manual. Manual dimming will increase the task burden of the pilot. This can be
     improved by introducing automatic dimming, which can adjust visual display terminal
     (VDT) and indicator lights into a comfortable luminance automatically according
@@ -64,7 +78,9 @@ abstract:
     the data to cover the range of possible ambient illuminance in aircraft cockpit.
     The results of this study can provide empirical data for the automatic dimming
     system of aircraft cockpit.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

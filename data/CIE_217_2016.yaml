@@ -10,7 +10,7 @@ title:
     Formulae
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-217-2016?product_id=1910861
+- content: https://www.techstreet.com/cie/standards/cie-217-2016?product_id=1910861
   type: src
 type: standard
 docid:
@@ -19,19 +19,23 @@ docid:
 - id: '9783902842572'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2016-02-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-02-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A method is recommended to evaluate the strength of the relationship between
+- content: A method is recommended to evaluate the strength of the relationship between
     visually-perceived colour differences in a given set of colour pairs and their
     corresponding predictions made by a colour-difference formula. This method is
     based on the Standardized Residual Sum of Squares (STRESS) index used in multidimensional
@@ -42,7 +46,9 @@ abstract:
     available, the results achieved from the STRESS index indicate that it is not
     possible to recommend a more uniform colour space with a Euclidean colour-difference
     formula that is statistically significantly better than CIEDE2000.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

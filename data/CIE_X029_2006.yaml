@@ -8,7 +8,7 @@ title:
   content: Proceedings of the 2nd CIE Expert Symposium on Measurement Uncertainty
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x029-2006?product_id=1378085
+- content: https://www.techstreet.com/cie/standards/cie-x029-2006?product_id=1378085
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783981002140'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2006-06-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2006-06-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     12-13 June 2006, Braunschweig, Germany
 
     In 2001 CIE has organized its first symposium on the evaluation of uncertainty in
@@ -60,7 +64,9 @@ abstract:
     Carlo simulation was analysed. Two papers addressed the question of the
     uncertainty of the average LED intensity. Further papers were read on industrial
     applications, scale realization, monochromator bandwidth correction, etc.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

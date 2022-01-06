@@ -10,81 +10,110 @@ title:
     INTERIOR SPACE
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op48?product_id=2240800
+- content: https://www.techstreet.com/cie/standards/cie-x048-op48?product_id=2240800
   type: src
 type: standard
 docid:
-  id: CIE x048-OP48
+- id: CIE x048-OP48
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
-        content: H
-        language: en
-        script: Latn
+      - content: H
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Miyake
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: M
-        language: en
-        script: Latn
+      - content: M
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Okada
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: T
-        language: en
-        script: Latn
+      - content: T
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yamamoto
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: H
-        language: en
-        script: Latn
+      - content: H
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yamaguchi
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: N
-        language: en
-        script: Latn
+      - content: N
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yoshizawa
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Spaciousness is an important quality of space which is affected by both
+- content: Spaciousness is an important quality of space which is affected by both
     the volume of space and the lighting environment. This studys aim is to create
     the calculation model to quantify the effect of lighting environment on spaciousness.
     3D luminance mapping, which is the combined data of luminance of surface and its
@@ -96,7 +125,9 @@ abstract:
     volume according to the distribution of dark pixels in the 3D luminance mapping.
     We also compared average illuminance of whole image and of ceiling, walls, floor,
     and concluded that the whole average illuminance best describes the effect.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

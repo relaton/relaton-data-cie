@@ -10,82 +10,114 @@ title:
     NEAR INFRARED LED APPLIED IN NON-INVASIVE BLOOD GLUCOSE MEASUREMENT (PO11, 461-465)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/optical-design-of-the-non-bilateral-symmetrical-elliptical-reflector-with-near-infrared-led-applied-in-non-invasive-blood-glucose-measurement-po11-461-465?product_id=2016289
+- content: https://www.techstreet.com/cie/standards/optical-design-of-the-non-bilateral-symmetrical-elliptical-reflector-with-near-infrared-led-applied-in-non-invasive-blood-glucose-measurement-po11-461-465?product_id=2016289
   type: src
 type: standard
 docid:
-  id: CIE PO11 461-465
+- id: CIE PO11 461-465
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       initial:
       - content: K
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Chang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: T
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ting
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: S
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ma
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: In this paper, we present a non-bilateral symmetrical elliptical mirror
+- content: In this paper, we present a non-bilateral symmetrical elliptical mirror
     (NBSEM) for optical blood glucose concentration detection, and can effectively
     improve the ability to receive near-infrared light (NIR) than conventional optical
     non-invasive blood glucose measuring module (ONBGM). In order to verify the performance
@@ -94,7 +126,9 @@ abstract:
     the optical efficiency under different modules. According to the analysis results,
     the optical efficiency of the ONBGM with the NBSEM is better than the conventional
     ONBGM.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

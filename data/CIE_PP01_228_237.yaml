@@ -10,81 +10,110 @@ title:
     AND LESS DISCOMFORT GLARE (PP01, 228-237)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/an-optical-film-based-daylighting-system-with-high-daylighting-performance-and-less-discomfort-glare-pp01-228-237?product_id=2016248
+- content: https://www.techstreet.com/cie/standards/an-optical-film-based-daylighting-system-with-high-daylighting-performance-and-less-discomfort-glare-pp01-228-237?product_id=2016248
   type: src
 type: standard
 docid:
-  id: CIE PP01 228-237
+- id: CIE PP01 228-237
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ueki
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: H
-        language: en
-        script: Latn
+      - content: H
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yui
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: M
-        language: en
-        script: Latn
+      - content: M
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Tsujimoto
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: T
-        language: en
-        script: Latn
+      - content: T
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kamada
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: Y
-        language: en
-        script: Latn
+      - content: Y
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Tsuda
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: We introduced a new daylighting film (DF) and a new optical film-based
+- content: We introduced a new daylighting film (DF) and a new optical film-based
     daylighting system (OFDS) using it. In this paper three major points were discussed.
     First, a basic performance of the DF was investigated on ray-trace simulations.
     Secondly, an actual light environment of a room with the OFDS was assessed by
@@ -94,7 +123,9 @@ abstract:
     sunlight into a room effectively. And the OFDS established an appropriate light
     environment with high desktop illuminance and less discomfort glare. The data
     also indicated the OFDS had a potential of high lighting energy reduction performance.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -8,62 +8,83 @@ title:
   content: DAMAGE REDUCTION WITH MAINTAINED COLOUR QUALITY OF ARTWORK UNDER RGB PROJECTOR
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op56?product_id=2240808
+- content: https://www.techstreet.com/cie/standards/cie-x048-op56?product_id=2240808
   type: src
 type: standard
 docid:
-  id: CIE x048-OP56
+- id: CIE x048-OP56
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
       - content: R
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: S
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kore
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: N
-        language: en
-        script: Latn
+      - content: N
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Brown
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: D
-        language: en
-        script: Latn
+      - content: D
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Durmus
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Light absorbed by sensitive artwork may cause irreversible damage. Optimising
+- content: Light absorbed by sensitive artwork may cause irreversible damage. Optimising
     the spectral power distribution of light sources to minimise absorbed light can
     reduce damage while maintaining the colour appearance of artwork. Previous absorption
     minimisation studies used optimisation methods without comparing their performance.
@@ -76,7 +97,9 @@ abstract:
     with the caveat of perceptible colour shifts in certain samples. Future research
     will investigate the use of CIECAM02 instead of CIEDE2000 and observers subjective
     evaluations of artwork under optimised lighting.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

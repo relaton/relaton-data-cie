@@ -11,31 +11,37 @@ title:
   content: Light Emitting Diodes (LEDs) and LED Assemblies - Terms and Definitions
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-dis-024-e-2015?product_id=1892851
+- content: https://www.techstreet.com/cie/standards/cie-dis-024-e-2015?product_id=1892851
   type: src
 type: standard
 docid:
-  id: CIE DIS 024/E:2015
+- id: CIE DIS 024/E:2015
   type: CIE
 date:
-  type: published
+- type: published
   value: '2015-03-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-03-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Draft International Standard summarizes the most important terms and definitions in the field of lighting by inorganic semiconductors used in CIE documents, which are intended to become part of the International Lighting Vocabulary.
 
     The Draft International Standard replaces the withdrawn publication CIE DIS 024/E:2013. It has been sent to CIE Board of Administration, Division 2 and National Committees for comments and is sold to interested parties. It is still subject to changes and may not yet be referred to as a CIE International Standard. When approved by the CIE NCs, it will be published as a CIE International Standard and later on get part of the International Lighting Vocabulary.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
@@ -56,13 +62,13 @@ relation:
         Diodes (LEDs) and LED Assemblies - Terms and Definitions'
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-s-017-sp1-e-2015?product_id=1905349
+    - content: https://www.techstreet.com/cie/standards/cie-s-017-sp1-e-2015?product_id=1905349
       type: src
     docid:
-      id: CIE S 017-SP1/E:2015
+    - id: CIE S 017-SP1/E:2015
       type: CIE
     date:
-      type: published
+    - type: published
       value: '2015-10-01'
     revdate: '2015-10-01'
 - type: updates
@@ -79,13 +85,13 @@ relation:
       content: Light Emitting Diodes (LEDs) and LED Assemblies - Terms and Definitions
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-dis-024-e-2013?product_id=1866873
+    - content: https://www.techstreet.com/cie/standards/cie-dis-024-e-2013?product_id=1866873
       type: src
     docid:
-      id: CIE DIS 024/E:2013
+    - id: CIE DIS 024/E:2013
       type: CIE
     date:
-      type: published
+    - type: published
       value: '2013-10-01'
     revdate: '2013-10-01'
 doctype: document

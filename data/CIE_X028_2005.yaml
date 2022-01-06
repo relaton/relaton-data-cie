@@ -8,7 +8,7 @@ title:
   content: Proceedings of the CIE Symposium '05 Vision and Lighting in Mesopic Conditions
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x028-2005?product_id=1257685
+- content: https://www.techstreet.com/cie/standards/cie-x028-2005?product_id=1257685
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783901906435'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2005-05-21'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2005-05-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This CIE Symposium was held in the Auditorio Municipal of León, Spain on 21 May 2005, as a satellite meeting of the CIE Midterm Meeting and the International Lighting Congress: Lighting in the XXI Century. The present volume contains the text of the 13 papers read at the meeting.
 
     The first paper by Prof. Halonen summarizes the findings of a European consortium that had as its task to develop a model based on different task performance experiments. Details of these experiments are contained in three subsequent papers.
@@ -43,7 +47,9 @@ abstract:
     CIE is progressing to define a task performance based photometric system, and anybody who is interested in the fundamental visual mechanism of mesopic vision, or would like to know in which direction the street lighting most probably will move, and which measuring instruments will be needed to evaluate mesopic lighting systems, should read the papers presented at this meeting.
 
     The proceedings is written in English, with a short summary in French and German, consists of 70 pages with 31 figures and 9 tables.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -10,68 +10,93 @@ title:
     (PO06, 431-433)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/optimization-method-for-led-lightings-considering-cct-luminance-and-cri-po06-431-433?product_id=2016284
+- content: https://www.techstreet.com/cie/standards/optimization-method-for-led-lightings-considering-cct-luminance-and-cri-po06-431-433?product_id=2016284
   type: src
 type: standard
 docid:
-  id: CIE PO06 431-433
+- id: CIE PO06 431-433
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       initial:
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kim
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kim
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lee
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Colour temperature is one of the most important parameters to control lighting
+- content: Colour temperature is one of the most important parameters to control lighting
     according to human activities and required mood. In addition, multi-chip LED packages
     with three or four different colours in a single package are commercially available
     from many LED suppliers. To find control parameters with required lighting characteristics,
@@ -79,7 +104,9 @@ abstract:
     CIE1931 colour space. Optimization is proceeded in the XYZ coordinate. We applied
     the optimization method to two different colour LED combinations. This optimization
     method provides given target CCT and luminance with high CRI.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

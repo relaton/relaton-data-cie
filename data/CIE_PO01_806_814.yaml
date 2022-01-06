@@ -14,37 +14,46 @@ title:
       (PO01, 806-814)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/colour-discrimination-may-be-hue-agnostic-a-pilot-study-po01-806-814?product_id=2010529
+- content: https://www.techstreet.com/cie/standards/colour-discrimination-may-be-hue-agnostic-a-pilot-study-po01-806-814?product_id=2010529
   type: src
 type: standard
 docid:
-  id: CIE PO01 806-814
+- id: CIE PO01 806-814
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: T
-        language: en
-        script: Latn
+      - content: T
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Esposito
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Past studies have hinted that average colour rendering measures, with a
+- content: Past studies have hinted that average colour rendering measures, with a
     particular focus on average gamut area measures, cannot predict the colour discrimination
     ability of highly structured spectra. A recent study by Esposito and Houser solidified
     this fi nding, and showed that a new measure, Rd—an error score based on the light-source
@@ -57,7 +66,9 @@ abstract:
     FM -100 hue test is indicative of colour discrimination ability and knowing that
     cap transpositions are a strong predictor of FM - 100 error scores, the results
     suggest that colour discrimination ability may not differ based on hue.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

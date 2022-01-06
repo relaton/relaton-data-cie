@@ -8,7 +8,7 @@ title:
   content: Solar spectral irradiance
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-085-1989?product_id=1210012
+- content: https://www.techstreet.com/cie/standards/cie-085-1989?product_id=1210012
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783900734220'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1989-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1989-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     CIE TC2-17 was formed with the purpose of updating CIE 20 (TC-2.2) Recommendations for the integrated irradiance and the spectral distribution of simulated solar radiation for testing purposes. The present document is the first of two, of which the second will deal with solar simulators. It gives a brief overview of parameterization methods and contains a number of tables and figures for solar spectral irradiances for typical atmosphere conditions defined by a set of meteorological parameters. The calculated data show satisfactory agreement with results obtained by direct measurement.
 
     It has become obvious that the solar spectral irradiance data on which the recommendations in the original document were based were no longer the most reliable. During the past decade a vast amount of new data has become available both through modernized measurement techniques as well as improved modelling and parameterization methods. Contrary to the situation some years ago, the stage has now been reached where results for solar spectral irradiances at ground level as measured and those obtained by reliable modeling, using extraterrestrial data as basis, show agreement to accuracies well within predictable or estimable uncertainties. It has thus become possible to calculate solar spectral irradiance levels and characteristics for any site on earth provided appropriate meteorological and atmospheric parameters are applied in reliable modeling formulas. This enables close simulation of solar irradiance characteristics for any geographical site, without the need of having to make in situ measurements.
@@ -47,11 +51,13 @@ abstract:
     For obtaining ground level spectral irradiance data, use has been made of modelling, using extraterrestrial data as a basis and taking into account atmospheric attenuation parameters. This has been supplemented by direct spectral measurement.
 
     The Technical Report consists of 48 pages with 11 figures and 8 tables.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     id: CIE241-2020
     title:
@@ -62,13 +68,13 @@ relation:
       content: Recommended Reference Solar Spectra for Industrial Applications
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-241-2020?product_id=2187453
+    - content: https://www.techstreet.com/cie/standards/cie-241-2020?product_id=2187453
       type: src
     docid:
-      id: CIE 241:2020
+    - id: CIE 241:2020
       type: CIE
     date:
-      type: published
+    - type: published
       value: '2020-09-01'
     revdate: '2020-09-01'
 doctype: document

@@ -8,7 +8,7 @@ title:
   content: Enhancement of Images for Colour-Deficient Observers
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-240-2020?product_id=2123358
+- content: https://www.techstreet.com/cie/standards/cie-240-2020?product_id=2123358
   type: src
 type: standard
 docid:
@@ -17,22 +17,28 @@ docid:
 - id: '9783902842800'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2020-06-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-06-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     CIE 240:2020 summarizes the methods used to enhance images in order to be easily recognized by colour-deficient observers. They are classified into three major categories: recolouring, edge enhancement and pattern superposition; pros and cons are discussed. The document provides recommendations on how to choose an enhancement method for a specific application with the proviso that there is no unique technique covering all cases. Besides it describes some evaluation methods of the enhancement techniques to be proposed in the future. Three types of test images (a natural scene, a scientific visualization and an office document) are provided for the evaluations.
     The publication is written in English, with a short summary in French and German.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

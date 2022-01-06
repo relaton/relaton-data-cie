@@ -8,7 +8,7 @@ title:
   content: UV-A Protection and Sunscreens
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-186-2010?product_id=1673567
+- content: https://www.techstreet.com/cie/standards/cie-186-2010?product_id=1673567
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783901906800'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2010-02-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2010-02-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     CIE Technical Committee TC 6-24 was formed in 1992 due to the importance
     of the deleterious effects associated with exposure to UV-A radiation and
     because of a lack of existing guidance/regulations on tests for UV-A
@@ -48,7 +52,9 @@ abstract:
     with the general principles of UV protection and an overview of UV-A and
     broad-spectrum UV filters. Then a description and assessment of in vivo, ex
     vivo, in vitro and in silico methods is given.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

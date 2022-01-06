@@ -10,48 +10,62 @@ title:
     ON REAL 3D FACIAL EXPRESSION (OP18, 106-111)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/new-empirical-data-for-pedestrian-lighting-effect-on-recognition-ability-on-real-3d-facial-expression-op18-106-111?product_id=2016232
+- content: https://www.techstreet.com/cie/standards/new-empirical-data-for-pedestrian-lighting-effect-on-recognition-ability-on-real-3d-facial-expression-op18-106-111?product_id=2016232
   type: src
 type: standard
 docid:
-  id: CIE OP18 106-111
+- id: CIE OP18 106-111
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       forename:
-        content: Tianyu
-        language: en
-        script: Latn
+      - content: Tianyu
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Li
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Biao
-        language: en
-        script: Latn
+      - content: Biao
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: With the technology development of LED lighting, more energy-saving measures
+- content: With the technology development of LED lighting, more energy-saving measures
     available to be applied. This study investigates how illuminance and spectral
     power distribution (SPD) affect the ability of human facial expression recognition,
     representing identification the intent of other people - a critical task for pedestrians
@@ -63,7 +77,9 @@ abstract:
     cannot improve the ability of recognizing facial expression. The results are expected
     to provide further scientific basis in formulating road lighting standards for
     more suitable LED lighting source.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

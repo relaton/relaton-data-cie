@@ -17,92 +17,126 @@ title:
     - A DESCRIPTIVE PAPER
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op62?product_id=2240815
+- content: https://www.techstreet.com/cie/standards/cie-x048-op62?product_id=2240815
   type: src
 type: standard
 docid:
-  id: CIE x048-OP62
+- id: CIE x048-OP62
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       forename:
-        content: Hillevi
-        language: en
-        script: Latn
+      - content: Hillevi
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Hemphälä
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Susanne
-        language: en
-        script: Latn
+      - content: Susanne
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Glimne
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Marina
-        language: en
-        script: Latn
+      - content: Marina
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Heiden
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Johannes
-        language: en
-        script: Latn
+      - content: Johannes
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lindén
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Per
-        language: en
-        script: Latn
+      - content: Per
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lindberg
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Per
-        language: en
-        script: Latn
+      - content: Per
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Nylén
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The visual environment has an impact on subjective strain and headaches.
+- content: The visual environment has an impact on subjective strain and headaches.
     A visual ergonomics risk assessment method, VERAM, was used on 217 workplaces,
     and consists of both of a subjective questionnaire and an objective risk assessment,
     the latter risks are presented in this paper. The risk for daylight was assessed
@@ -113,7 +147,9 @@ abstract:
     was assessed to be a problem among 33%. These results show that the design of
     the visual environment is in most cases not performed in a satisfying way. The
     visual environment is essential to increase wellbeing, health and performance.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

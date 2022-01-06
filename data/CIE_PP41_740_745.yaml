@@ -14,92 +14,126 @@ title:
      (PP41, 740-745)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/effects-of-luminance-of-projected-letters-on-legibility-pp41-740-745?product_id=2011370
+- content: https://www.techstreet.com/cie/standards/effects-of-luminance-of-projected-letters-on-legibility-pp41-740-745?product_id=2011370
   type: src
 type: standard
 docid:
-  id: CIE PP41 740-745
+- id: CIE PP41 740-745
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: N
-        language: en
-        script: Latn
+      - content: N
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Itoh
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: K
-        language: en
-        script: Latn
+      - content: K
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Sagawa
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: J
-        language: en
-        script: Latn
+      - content: J
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ohyama
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: H
-        language: en
-        script: Latn
+      - content: H
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Uchida
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: T
-        language: en
-        script: Latn
+      - content: T
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Shimizu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: Q
-        language: en
-        script: Latn
+      - content: Q
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lin
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Subjective evaluation of legibility and glaring effect was done using a
+- content: Subjective evaluation of legibility and glaring effect was done using a
     projection-type presentation of letters with a head-up-display for 28 young and
     30 older people. Effects of luminance on those two measures were clarified for
     five levels of background together with the aging effects on them. The legibility
@@ -111,7 +145,9 @@ abstract:
     increased monotonically with contrast. An effect of brightness increase of luminous
     mode presentation is observed at extremely high luminance of letters, which has
     not been reported for reflected images.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

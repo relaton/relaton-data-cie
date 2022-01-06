@@ -10,59 +10,78 @@ title:
     556-563)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/main-problems-and-solutions-for-temporary-exhibition-space-lighting-po29-556-563?product_id=2016305
+- content: https://www.techstreet.com/cie/standards/main-problems-and-solutions-for-temporary-exhibition-space-lighting-po29-556-563?product_id=2016305
   type: src
 type: standard
 docid:
-  id: CIE PO29 556-563
+- id: CIE PO29 556-563
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       initial:
-        content: Z
-        language: en
-        script: Latn
+      - content: Z
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Xudong
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: Z
-        language: en
-        script: Latn
+      - content: Z
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Jingfeng
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: W
-        language: en
-        script: Latn
+      - content: W
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Aiying
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Due to the neglect of design and the lack of relevant specification for
+- content: Due to the neglect of design and the lack of relevant specification for
     domestic temporary exhibition lighting and so on, the result of the phenomenon
     of light source irrational use has been more serious. Light pollution and energy
     waste problem are also important issues that must be solved urgently. As a green
@@ -73,7 +92,9 @@ abstract:
     Through the investigation and analysis of the lighting status in temporary exhibition
     space, we analyse and summarize the main problems and put forward the relevant
     solutions.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

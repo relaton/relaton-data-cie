@@ -11,7 +11,7 @@ title:
   content: Proceedings of the 2nd CIE Expert Symposium - Visual Appearance
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x032-2007?product_id=1507105
+- content: https://www.techstreet.com/cie/standards/cie-x032-2007?product_id=1507105
   type: src
 type: standard
 docid:
@@ -20,19 +20,23 @@ docid:
 - id: '9783901906565'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2007-03-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2007-03-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     19-20 October 2006, Paris, France
 
     Visual appearance can be one of the most critical parameters affecting customer choice
@@ -67,7 +71,9 @@ abstract:
     The Proceedings contains the text of all the presented 45 papers.
 
     The publication consists of 263 pages with 273 figures and 23 tables.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

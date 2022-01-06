@@ -10,51 +10,67 @@ title:
     AND MODELLING (PP45, 772-775)'
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/visual-clarity-and-brightness-in-indoor-and-outdoor-lighting-experiments-and-modelling-pp45-772-775?product_id=2011374
+- content: https://www.techstreet.com/cie/standards/visual-clarity-and-brightness-in-indoor-and-outdoor-lighting-experiments-and-modelling-pp45-772-775?product_id=2011374
   type: src
 type: standard
 docid:
-  id: CIE PP45 772-775
+- id: CIE PP45 772-775
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: P
-        language: en
-        script: Latn
+      - content: P
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Bodrogi
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: T
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: Q
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Khanh
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: In various indoor and outdoor lighting applications, a wide range of illuminance
+- content: In various indoor and outdoor lighting applications, a wide range of illuminance
     levels and correlated colour temperatures can be found. This results in very different
     levels of perceived visual clarity and spatial brightness impressions. These visual
     attributes are important to assure the acceptance and comfort of the lighting
@@ -63,7 +79,9 @@ abstract:
     descriptors of the rod, cone and ipRGC signals computed from the spectrum. The
     quantities C and B were derived by re-analysing the results of two previous psychophysical
     experiments, one on photopic visual clarity and one on mesopic brightness.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

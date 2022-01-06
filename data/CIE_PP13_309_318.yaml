@@ -10,92 +10,126 @@ title:
     309-318)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/investigation-on-the-light-environment-of-china-s-active-wide-body-aircraft-pp13-309-318?product_id=2016259
+- content: https://www.techstreet.com/cie/standards/investigation-on-the-light-environment-of-china-s-active-wide-body-aircraft-pp13-309-318?product_id=2016259
   type: src
 type: standard
 docid:
-  id: CIE PP13 309-318
+- id: CIE PP13 309-318
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       forename:
-        content: Mingyu
-        language: en
-        script: Latn
+      - content: Mingyu
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Zhang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Hao
-        language: en
-        script: Latn
+      - content: Hao
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Li
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Juan
-        language: en
-        script: Latn
+      - content: Juan
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Chen
-        language: en
-        script: Latn
+      - content: Chen
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Wang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Qing
-        language: en
-        script: Latn
+      - content: Qing
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Fan
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Yajang
-        language: en
-        script: Latn
+      - content: Yajang
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Wang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Currently, the typical models of China's existing wide-body aircraft include
+- content: Currently, the typical models of China's existing wide-body aircraft include
     the Boeing b777- 300ER, A330-300, and Boeing787-9, with varied degrees of differences
     in the light environment in each model. In this paper, investigations on the influencing
     factors of cabin internal comfortability have been carried out based on the abovementioned
@@ -108,7 +142,9 @@ abstract:
     aircraft still exists. The thesis will make out series suggestions on measures
     to upgrade lighting environment conditions of existing wide-body airliners to
     achieve its goals of providing a more comfortable light environment for passengers.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

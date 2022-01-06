@@ -12,68 +12,93 @@ title:
      (PO46, 997-1006)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/vnisi-test-center-in-the-system-of-quality-assessment-for-modern-lighting-equipment-in-russia-po46-997-1006?product_id=2011181
+- content: https://www.techstreet.com/cie/standards/vnisi-test-center-in-the-system-of-quality-assessment-for-modern-lighting-equipment-in-russia-po46-997-1006?product_id=2011181
   type: src
 type: standard
 docid:
-  id: CIE PO46 997-1006
+- id: CIE PO46 997-1006
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Bartsev
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: R
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: I
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Stolyarevskaya
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: G
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Shakhparunyants
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Starting from 2015, the Russian Ministry of Energy began a great job of
+- content: Starting from 2015, the Russian Ministry of Energy began a great job of
     an independent examination of the domestic lighting market. This activity is carried
     out and is curr ently running in the competition on the Eurasian Illuminating
     Engineering Award. To do this, the selection was made of certified test centers
@@ -84,7 +109,9 @@ abstract:
     to the international standards, with heat and cold chambers, and highly qualified
     personnel. Analysis work center allows highlight a number of important problems
     of metrological support of modern measuring systems used in photometry and colorimetry.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

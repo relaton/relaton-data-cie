@@ -8,7 +8,7 @@ title:
   content: The Basis of Physical Photometry
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-018-2019?product_id=2045732
+- content: https://www.techstreet.com/cie/standards/cie-018-2019?product_id=2045732
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783902842244'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2019-05-20'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-05-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: CIE 018:2019 presents the basic conventions and principles of physical
+- content: CIE 018:2019 presents the basic conventions and principles of physical
     photometry, with the definitions of the photometric units as reformulated in the
     International System of Units (SI) 2019 and the photometric quantities and spectral
     luminous efficiency functions for photopic, mesopic and scotopic vision, including
@@ -39,11 +43,13 @@ abstract:
     quantities. The conventions of colorimetry are presented, with the definitions
     of the colour-matching functions for the 2° and 10° field of view, tristimulus
     values, and chromaticity coordinates.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     id: CIE018.2-1983
     title:
@@ -54,13 +60,13 @@ relation:
       content: The Basis of Physical Photometry, 2nd ed. (reprinted 1996)
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-018-2-1983?product_id=1209967
+    - content: https://www.techstreet.com/cie/standards/cie-018-2-1983?product_id=1209967
       type: src
     docid:
-      id: CIE 018.2-1983
+    - id: CIE 018.2-1983
       type: CIE
     date:
-      type: published
+    - type: published
       value: '1983-01-01'
     revdate: '1983-01-01'
 doctype: document

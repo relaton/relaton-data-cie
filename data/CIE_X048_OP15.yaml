@@ -8,51 +8,67 @@ title:
   content: SPECTRAL MEASUREMENT AND CLASSIFICATION IN THE ERA OF BIG DATA
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op15?product_id=2240691
+- content: https://www.techstreet.com/cie/standards/cie-x048-op15?product_id=2240691
   type: src
 type: standard
 docid:
-  id: CIE x048-OP15
+- id: CIE x048-OP15
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
       - content: F
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: S
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Webler
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: M
-        language: en
-        script: Latn
+      - content: M
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Andersen
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The measurement and classification of light is essential across many scientific
+- content: The measurement and classification of light is essential across many scientific
     disciplines. Devices used to measure light range from the highly precise scanning
     spectroradiometers to the more practical compact multichannel filter-array type
     imaging sensors and the ubiquitous RGB pixel. While there have been numerous successful
@@ -68,7 +84,9 @@ abstract:
     classification more efficient. The aim of this analysis is to help inform how
     and when low-dimensional representation of spectra is useful in practice for designing
     compact sensors as well as for lossy data compression and robust classification.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

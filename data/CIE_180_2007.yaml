@@ -8,26 +8,30 @@ title:
   content: Road Transport Lighting for Developing Countries
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-180-2007?product_id=1526945
+- content: https://www.techstreet.com/cie/standards/cie-180-2007?product_id=1526945
   type: src
 type: standard
 docid:
-  id: CIE 180:2007
+- id: CIE 180:2007
   type: CIE
 date:
-  type: published
+- type: published
   value: '2007-10-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2007-10-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The great majority of the deaths from road accidents happen in the less-motorised
     developing regions of the world, particularly Asia - and the absolute numbers are
     growing. As in the highly motorised countries of the world, a significant proportion of
@@ -52,7 +56,9 @@ abstract:
 
     The report is written in English, with a short summary in French and German. It
     consists of 47 pages with 36 figures and 12 tables.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

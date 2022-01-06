@@ -8,7 +8,7 @@ title:
   content: Measurements of optical radiation hazards
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x016-1998?product_id=1210100
+- content: https://www.techstreet.com/cie/standards/cie-x016-1998?product_id=1210100
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783980478953'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1998-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1998-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Reference Book is based on presentations given by health and safety experts at the CIE/ICNIRP/NIST/USACHPPM Symposium on Measurements of Optical Radiation Hazards, held in Gaithersburg, MD, USA, from 1 to 3 September 1998. It provides an authoritative overview of the science on optical radiation hazards. The articles are written by internationally recognized experts with comprehensive experience in optical radiation research and the assessment of optical radiation hazards.
 
     The intend of this publication is to provide guidance on how to measure intense light sources (i.e. UV, visible and infrared) and evaluate the potential hazards to the eye or skin. In addition to measurement, calculations are usually required to compare the measured exposure with optical safety limits. This determines the hazard level of the source. This reference book offers a unique source with which to catch up on the latest developments in this important field.
@@ -39,7 +43,9 @@ abstract:
     This reference book is aimed, but not limited to: industrial hygienists, health physicists, optical physicists, photobiologists, safety engineers, and lighting engineers.
 
     The volume contains 775 pages, and is softcover-bound.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

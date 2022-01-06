@@ -10,59 +10,78 @@ title:
     191-200)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/experience-of-light-in-comparison-with-retinal-response-to-radiation-op30-191-200?product_id=2016243
+- content: https://www.techstreet.com/cie/standards/experience-of-light-in-comparison-with-retinal-response-to-radiation-op30-191-200?product_id=2016243
   type: src
 type: standard
 docid:
-  id: CIE OP30 191-200
+- id: CIE OP30 191-200
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       initial:
-        content: J
-        language: en
-        script: Latn
+      - content: J
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Enger
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: T
-        language: en
-        script: Latn
+      - content: T
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Laike
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: K
-        language: en
-        script: Latn
+      - content: K
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Fridell Anter
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The paper presents a pilot study conducted as part of an ongoing multidisciplinary
+- content: The paper presents a pilot study conducted as part of an ongoing multidisciplinary
     research project entitled Swedish Research Project on Perceptual Metrics for Lighting
     Design. The overall objective is to develop definitions and concepts for light
     quality, as well as a basis for methods and tools for evaluation and design of
@@ -71,7 +90,9 @@ abstract:
     with various light qualities in the room. The study also compare perceived contrast
     and brightness to the photoreceptors response to logarithmic light intensity,
     using the ELF measurement (Environmental Light Field).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

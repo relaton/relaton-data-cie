@@ -12,59 +12,78 @@ title:
      (WP03, 433-442)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/characterisation-of-the-reflection-properties-of-road-surfaces-using-an-in-lab-gonioreflectometer-wp03-433-442?product_id=2011380
+- content: https://www.techstreet.com/cie/standards/characterisation-of-the-reflection-properties-of-road-surfaces-using-an-in-lab-gonioreflectometer-wp03-433-442?product_id=2011380
   type: src
 type: standard
 docid:
-  id: CIE WP03 433-442
+- id: CIE WP03 433-442
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: E
-        language: en
-        script: Latn
+      - content: E
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Saint-Jacques
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: C
-        language: en
-        script: Latn
+      - content: C
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Villa
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: E
-        language: en
-        script: Latn
+      - content: E
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Dumont
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Reflection properties of the pavement have to be considered when designing
+- content: Reflection properties of the pavement have to be considered when designing
     road lighting installations. These properties depend on the material and the texture
     and can be specified by means of a set of luminance coefficients also called the
     Bidirectional Reflectance Distribution Function (BRDF). We present in this paper
@@ -73,7 +92,9 @@ abstract:
     to compute the BRDF are described and some examples of BRDF measurements are showed.
     Further developments and use of our gonioreflectometer are also listed (wet surfaces,
     spectral measurements).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

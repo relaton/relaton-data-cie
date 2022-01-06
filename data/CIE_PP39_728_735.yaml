@@ -14,96 +14,135 @@ title:
      (PP39, 728-735)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/broadband-deep-uv-to-blue-led-measurements-pp39-728-735?product_id=2011368
+- content: https://www.techstreet.com/cie/standards/broadband-deep-uv-to-blue-led-measurements-pp39-728-735?product_id=2011368
   type: src
 type: standard
 docid:
-  id: CIE PP39 728-735
+- id: CIE PP39 728-735
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
       - content: G
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: P
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Eppeldauer
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: V
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: B
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Podobedov
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: W
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yoon
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Cooksey
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Miller
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Deep-UV LEDs have low output optical power. For radiometric applications,
+- content: Deep-UV LEDs have low output optical power. For radiometric applications,
     they need evaluations and selections. Traditional photometric measurements in
     the blue range have large uncertainties because of the poor realizations of the
     CIE standard V(•) function in the wings. Pyroelectric radiometers with low noise-equivalent-power
@@ -129,7 +168,9 @@ abstract:
     detector-based calibrations. The irradiance measurements were made 40 cm away
     from the LED sources. The spectral irradiance responsivity uncertainty of the
     pyroelectric radiometer standard at the tie point was 0.25 % (k=1).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

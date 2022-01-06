@@ -12,7 +12,7 @@ title:
     and Colorimetric Aspects'
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x012-1997?product_id=1210096
+- content: https://www.techstreet.com/cie/standards/cie-x012-1997?product_id=1210096
   type: src
 type: standard
 docid:
@@ -21,19 +21,23 @@ docid:
 - id: '9783900734800'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1997-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1997-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The Great Britain National Committee of the CIE together with the National Physical Laboratory held a conference on Visual Scales: Photometric and Colorimetric Aspects at the NPL, Teddington on 24-26 March 1997. The Proceedings of this meeting are available from the CIE Central Bureau as CIE x012-1997.
 
     The contributions contained in the Proceedings cover two main topics: Colour Scales (10 papers) and Photometric Scales (9 papers).
@@ -45,7 +49,9 @@ abstract:
     The publication summarizes the present state of knowledge with regard to colorimetric and photometric scales and points out that, in mesopic photometry as in the photopic case, it is necessary to distinguish between the requirement for a brightness or a conspicuity matching criterion.
 
     The publication consists of 81 pages.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

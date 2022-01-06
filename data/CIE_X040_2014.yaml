@@ -10,7 +10,7 @@ title:
     and Radiometry for Industry
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x040-2014?product_id=1885585
+- content: https://www.techstreet.com/cie/standards/cie-x040-2014?product_id=1885585
   type: src
 type: standard
 docid:
@@ -19,24 +19,30 @@ docid:
 - id: '9783902842220'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2014-10-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-10-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Symposium was organized by CIE Division 2 in cooperation with the
+- content: This Symposium was organized by CIE Division 2 in cooperation with the
     CIE Central Bureau, and was hosted by the CIE Central Bureau in Vienna, Austria.
     The Symposium featured contributed papers of leading experts in photometry and
     radiometry presenting facts and recent research in measurement uncertainties in
     photometry and radiometry, especially regarding application in industry.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

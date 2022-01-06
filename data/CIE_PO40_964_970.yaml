@@ -8,91 +8,129 @@ title:
   content: CALIBRATION OF LUMINANCE METERS (PO40, 964-970)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/calibration-of-luminance-meters-po40-964-970?product_id=2011176
+- content: https://www.techstreet.com/cie/standards/calibration-of-luminance-meters-po40-964-970?product_id=2011176
   type: src
 type: standard
 docid:
-  id: CIE PO40 964-970
+- id: CIE PO40 964-970
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
       - content: S
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: L
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: S
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: S
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: B
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lam
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: Y
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: K
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yan
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: Y
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Chau
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The Standards and Calibration Laboratory (SCL) of Hong Kong has recently developed the calibration service of luminance meters at the range from 30 cd/m2 to 4000 cd/m2 with correlated colour temperate at 2856 K ± 50 K. A detector based calibration system, with
     illuminance standard photometer and an integrating sphere source, is developed which is simpler than the traditional method that use diffuse reflectance or transmittance standard as the reference standard. The developed calibration service has the best estimate expanded measurement uncertainty of 1,5 % which could support the calibration demands from the local testing and certification industry.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

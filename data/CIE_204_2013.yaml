@@ -8,7 +8,7 @@ title:
   content: Methods for Re-defining CIE D Illuminants
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-204-2013?product_id=1858805
+- content: https://www.techstreet.com/cie/standards/cie-204-2013?product_id=1858805
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783902842459'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2013-05-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Technical Report gives an overview of the construction of the tables describing
     CIE D illuminants, and proposes two methods to smooth the daylight illuminant
     spectral power distributions. The first method keeps the values originally determined
@@ -51,7 +55,9 @@ abstract:
     daylight illuminant for the different interpolation methods described in this report after
     input of a required CCT and another one providing the tables of the report .
     The publication is written in English, with a short summary in French and German.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

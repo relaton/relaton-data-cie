@@ -10,51 +10,67 @@ title:
     LIGHTING SYSTEMS USING LABORATORY AND FIELD MEASUREMENTS
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-wp01?product_id=2240869
+- content: https://www.techstreet.com/cie/standards/cie-x048-wp01?product_id=2240869
   type: src
 type: standard
 docid:
-  id: CIE x048-WP01
+- id: CIE x048-WP01
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Bouroussis
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: D
-        language: en
-        script: Latn
+      - content: D
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Gasparovsky
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This paper presents a set of field measurements performed at renovated
+- content: This paper presents a set of field measurements performed at renovated
     lighting installations equipped with adaptive road lighting systems. The results
     revealed issues of over-illumination but also insufficient lighting levels that
     would not be shown without the field measurements. Since the adaptive road lighting
@@ -66,7 +82,9 @@ abstract:
     its performance. The proposed scheme can be used as a masterplan from the conception
     of the road lighting up to the validation field measurements and the long-term
     optimization and maintenance schedule of the installation.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

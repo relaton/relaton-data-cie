@@ -10,59 +10,78 @@ title:
     CHALLENGED PEOPLE USING LUMINANCE-IMAGE FILTERING (PO11, Pages 262-268)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/study-of-visibility-under-complex-luminance-conditions-for-the-visually-challenged-people-using-luminance-image-filtering-po11-pages-262-268?product_id=1941843
+- content: https://www.techstreet.com/cie/standards/study-of-visibility-under-complex-luminance-conditions-for-the-visually-challenged-people-using-luminance-image-filtering-po11-pages-262-268?product_id=1941843
   type: src
 type: standard
 docid:
-  id: CIE x043-PO11
+- id: CIE x043-PO11
   type: CIE
 date:
-  type: published
+- type: published
   value: '2016-09-01'
 contributor:
 - person:
     name:
       initial:
-        content: M
-        language: en
-        script: Latn
+      - content: M
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Iwata
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: Y
-        language: en
-        script: Latn
+      - content: Y
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kato
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: Y
-        language: en
-        script: Latn
+      - content: Y
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Nakamura
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-09-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: For visibility, many studies have been conducted on visibility with uniform
+- content: For visibility, many studies have been conducted on visibility with uniform
     luminance background. However, when applying the results to the real world, since
     the visual object or the background normally have complicated brightness distribution,
     the application is difficult. This study examines through an experiment on sighted
@@ -71,7 +90,9 @@ abstract:
     using an evaluation method involving a brightness contrast image which can examine
     quantitatively under complicated brightness distribution environment on the assumption
     of visibility of signs and obstacles.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -10,73 +10,99 @@ title:
     OF PAPER
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op11?product_id=2240687
+- content: https://www.techstreet.com/cie/standards/cie-x048-op11?product_id=2240687
   type: src
 type: standard
 docid:
-  id: CIE x048-OP11
+- id: CIE x048-OP11
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
       - content: X
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: Y
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Zhu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Inoue
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: H
-        language: en
-        script: Latn
+      - content: H
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Sato
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: Y
-        language: en
-        script: Latn
+      - content: Y
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Mizokami
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Gloss is an essential visual property of objects. It is still controversial
+- content: Gloss is an essential visual property of objects. It is still controversial
     how well gloss constancy works under different light distributions. In this paper,
     we conducted three experiments of different light distributions to investigate
     whether the stable discrimination and gloss constancy of paper occurred with different
@@ -88,7 +114,9 @@ abstract:
     We further verify that illuminance and specular reflection can affect material
     and gloss perception, regardless of the width of the highlight region changed
     by light source distance.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

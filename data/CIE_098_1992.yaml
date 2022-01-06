@@ -8,7 +8,7 @@ title:
   content: Personal dosimetry of UV radiation
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-098-1992?product_id=1210138
+- content: https://www.techstreet.com/cie/standards/cie-098-1992?product_id=1210138
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783900734350'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1992-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1992-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     Natural and artificial ultraviolet radiation (UVR) can induce both beneficial and detrimental effects in man. Humans are exposed not only to natural UVR, but also may be exposed either intentionally or unintentionally to artificial UVR sources (tanning equipments, workplaces, etc.).
 
     Normally people do not maintain a fixed position with respect to the UVR source, and so measurements using a stationary detector can be of limited value.
@@ -41,7 +45,9 @@ abstract:
     Detailed information on the practical use of polysulphone film is given, together with a description of other UV-sensitive materials that may be suitable for personal UVR dosimetry.
 
     The report contains 21 pages, with 4 figures and 63 bibliographic references.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

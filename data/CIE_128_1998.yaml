@@ -8,7 +8,7 @@ title:
   content: Guide to the lighting for open-cast mines
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-128-1998?product_id=1210049
+- content: https://www.techstreet.com/cie/standards/cie-128-1998?product_id=1210049
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783900734862'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1998-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1998-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     Open-cast mines cover a large area and continually change their shape as mining proceeds. Effective illumination is required to achieve production and safe operation of various machinery at different work areas.
 
     Mobile mining machinery is equipped with luminaires powered by on board generators. Movable lighting towers are used in the mine faces for general lighting. Deep, compact pits and permanent facilities such as stockpiles, conveyors and processing plant, can be lit from fixed lighting arrangements.
@@ -41,7 +45,9 @@ abstract:
     Lighting quality parameters like average illuminance, uniformity and glare limitation have been described. Further guidance can be obtained from existing CIE publications. Requirements for areas typical of open-cast mines have been given.
 
     The report is written in English with a short summary in French and German. It contains 30 pages.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

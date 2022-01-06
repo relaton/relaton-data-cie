@@ -10,7 +10,7 @@ title:
     and Visual and Photobiological Assessment, 2nd ed.'
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x026-2005?product_id=1210036
+- content: https://www.techstreet.com/cie/standards/cie-x026-2005?product_id=1210036
   type: src
 type: standard
 docid:
@@ -19,19 +19,23 @@ docid:
 - id: '9783901906367'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2005-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2005-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     LED light sources are now widely used in illuminating engineering as well as in information technology and are expected to be one of the major light sources in our future life. Despite the wide and rapidly growing use of LEDs, reliable methods for physical light measurement and visual and photobiological evaluation are still in question. The CIE had organized two successful symposia on LEDs in 1997 and 2001. However, there are still many questions left unsolved such as measurement of partial flux and radiance, visual evaluation such as colour rendering, or requirements for photobiological safety.
 
     To discuss these issues, CIE Divisions 1, 2 and 6 organized this expert symposium on LED light sources, held from 7 to 8 June 2004 at AIST (National Institute of Advanced Industrial Science and Technology) Tokyo Waterfront/Japan, with support from the Japanese National Committee of the CIE and AIST Japan.
@@ -47,7 +51,9 @@ abstract:
     Keynote papers were read on "Physical and visual requirements for LEDs to be used for future lighting systems" and "White light from light emitting diodes". The symposium included also a poster session. The Proceedings contains the peer-reviewed versions of the 30 papers presented, as well as a summary of the discussion sessions. CIE x026:2005 is the 2nd edition of the proceedings and includes all full papers that were submitted.
 
     The publication contains 155 pages with 138, mostly coloured, figures.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

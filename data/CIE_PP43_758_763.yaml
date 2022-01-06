@@ -12,98 +12,136 @@ title:
     (PP43, 758-763)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/analysis-of-the-lighting-influence-in-the-sparkle-detection-by-applying-statistical-design-of-experiments-pp43-758-763?product_id=2011372
+- content: https://www.techstreet.com/cie/standards/analysis-of-the-lighting-influence-in-the-sparkle-detection-by-applying-statistical-design-of-experiments-pp43-758-763?product_id=2011372
   type: src
 type: standard
 docid:
-  id: CIE PP43 758-763
+- id: CIE PP43 758-763
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: O
-        language: en
-        script: Latn
+      - content: O
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Gomez
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: E
-        language: en
-        script: Latn
+      - content: E
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Perales
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: B
-        language: en
-        script: Latn
+      - content: B
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Mico
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: K
-        language: en
-        script: Latn
+      - content: K
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Hurabait
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: V
-        language: en
-        script: Latn
+      - content: V
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Viqueira
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: F
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: M
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Martinez-Verdu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     In this work we have studied how the external or environmental variables impact in the sparkle perception. Setting the structural variables of the samples and only varying the illumination source, its illuminance and the measurement geometry, we were able to analyze thanks to the design of experiments what is the relevance of these variables and the interaction grade among them on the sparkle detection distance. It has been found that any slight variation in any of the variables studied induces a variation in the way in which we detect sparkle on the sample. The two most relevant variables are the measurement geometry and illuminance, although between both stands out clearly the influence of geometry when it comes to detecting the sparkle texture effect. For low illuminance levels (800 lx) and for the 45°x:0° (or, industrially, 45as45) measurement
     geometry, the observer is able to detect sparkle at a greater distance comparing with medium and high illuminance levels (2400 and 5000 lx). Finally, it is also interesting to indicate the low influence of the lamp, or colour temperature (CCT), when detecting the sparkle texture effect.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

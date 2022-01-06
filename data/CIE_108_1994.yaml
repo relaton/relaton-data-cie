@@ -8,7 +8,7 @@ title:
   content: Guide to recommended practice of daylight measurement
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-108-1994?product_id=1210030
+- content: https://www.techstreet.com/cie/standards/cie-108-1994?product_id=1210030
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783900734503'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1994-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1994-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The CIE designated the year 1991 "International Daylighting Measurement Year", as the first year of the "International Daylighting Measurement Programme", referred to as the IDMP. The objective of this programme is for participants worldwide to measure daylight availability parameters under a common set of guidelines. There are two categories of IDMP measuring stations: the General Class, in which illuminances and irradiances are the principal quantities measured; and the Research Class, in which the stations also record sky luminance distributions as well as other meteorological quantities. This guide describes the measurement and instrumentation requirements of both classes of stations, provides guidelines and recommendations on data quality control, archiving and dissemination.
 
     The guide was prepared as part of the activities of CIE TC 3-07. This guide is dedicated to the late Prof. Jürgen Krochmann, a pioneer and leader in daylighting research.
@@ -37,7 +41,9 @@ abstract:
     A disk to be used on a PC with DOS operating system will be available within short at the CIE Central Bureau as CIE D006.
 
     The publication contains 54 pages, with 6 figures and 18 tables.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

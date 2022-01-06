@@ -8,7 +8,7 @@ title:
   content: Calculation of Tunnel Lighting Quality Criteria
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-189-2010?product_id=1699086
+- content: https://www.techstreet.com/cie/standards/cie-189-2010?product_id=1699086
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783901906855'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2010-05-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2010-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     Experience of making road tunnel lighting designs in accordance with publication
     CIE 88:2004 has shown that there are some aspects of calculation of the different
     lighting criteria where more specific guidance to the designers is necessary. This
@@ -43,7 +47,9 @@ abstract:
     situations.
     The publication is written in English, with a short summary in French and German. It
     consists of 18 pages with 4 figures
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

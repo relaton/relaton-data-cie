@@ -8,7 +8,7 @@ title:
   content: CIE Collection in photobiology and photochemistry
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-106-1993?product_id=1210028
+- content: https://www.techstreet.com/cie/standards/cie-106-1993?product_id=1210028
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783900734466'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1993-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1993-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This volume contains short Technical Reports, Research Notes and Reporters' Reports prepared by various Technical Committees and Reporters within Division 6. In part they were published in the "CIE Journal" between 1986 and 1988.
 
     106/1 Determining ultraviolet action spectra
@@ -84,7 +88,9 @@ abstract:
     This report provides guidelines for terminology to be utilized in describing electromagnetic radiation regulating photosynthesis by plants. These guidelines have been developed because scientists in different plant societies have evolved varied terminology and wavelengths for the radiation reported in plant research.
 
     The guidelines state that photosynthetically active radiation (PAR) for plants should be reported as the total photon exposure in the 400-700 nm waveband. Instantaneous measurements made with a flat or hemispherical sensor should be reported as photosynthetic photon flux density (PPFD) in mol.m-2.s-1, whereas instantaneous measurements made with a spherical sensor should be reported as spherical photosynthetic photon flux density (SPPFD) and reported also as mol.m-2.s-1. Integrated photon exposures made with a flat or hemispherical sensor should be reported as the exposure of photosynthetically active photons (PAP) as mol.m-2 and with spherical sensors as the exposure of spherical photosynthetically active photons (SPAP) also as mol.m-2.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

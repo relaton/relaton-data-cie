@@ -12,73 +12,99 @@ title:
       (OP51, 377-384)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/contrast-and-brightness-perception-of-illumination-patterns-in-physically-based-rendered-scenes-op51-377-384?product_id=2010523
+- content: https://www.techstreet.com/cie/standards/contrast-and-brightness-perception-of-illumination-patterns-in-physically-based-rendered-scenes-op51-377-384?product_id=2010523
   type: src
 type: standard
 docid:
-  id: CIE OP51 377-384
+- id: CIE OP51 377-384
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: L
-        language: en
-        script: Latn
+      - content: L
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Van de Perre
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: K
-        language: en
-        script: Latn
+      - content: K
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Smet
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: M
-        language: en
-        script: Latn
+      - content: M
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Dujardin
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: W
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: R
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ryckaert
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The impact of systematically varied realistic illumination patterns and
+- content: The impact of systematically varied realistic illumination patterns and
     intensities on the apparent brightness and contrast of an empty, context-free
     room is investigated. Along with the apparent brightness, contrast and perceived
     edge transition sharpness of the resulting lighting distributions visible on the
@@ -90,7 +116,9 @@ abstract:
     scene luminance (R² = 0.85). Results also show that estimating contrast without
     any predefined criterium and definition is difficult and resulted in observers
     adopting different criteria for an indoor lit room.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

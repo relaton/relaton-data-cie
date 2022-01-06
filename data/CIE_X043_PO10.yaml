@@ -8,59 +8,78 @@ title:
   content: DISCRIMINATION THRESHOLDS FOR SKIN IMAGES (PO10, Pages 257-261)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/discrimination-thresholds-for-skin-images-po10-pages-257-261?product_id=1941842
+- content: https://www.techstreet.com/cie/standards/discrimination-thresholds-for-skin-images-po10-pages-257-261?product_id=1941842
   type: src
 type: standard
 docid:
-  id: CIE x043-PO10
+- id: CIE x043-PO10
   type: CIE
 date:
-  type: published
+- type: published
   value: '2016-09-01'
 contributor:
 - person:
     name:
       initial:
-        content: T
-        language: en
-        script: Latn
+      - content: T
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Chauhan
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: K
-        language: en
-        script: Latn
+      - content: K
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Xiao
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Wuerger
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-09-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The objective of the present series of experiments was to estimate discrimination
+- content: The objective of the present series of experiments was to estimate discrimination
     surfaces in 3-D colour space for simulated images of human skin under three illumination
     conditions - dark, simulated daylight or D65 and cool-white-fluorescent or TL84.
     Representative patches from two ethnicities - Caucasian and Oriental, were used.
@@ -69,7 +88,9 @@ abstract:
     is dominated by the change in thresholds along the luminance direction. The purely
     chromatic discrimination boundaries (chromatic ellipses) do not change in area
     between simulated daylight and artificial fluorescent light.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

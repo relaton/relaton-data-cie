@@ -8,7 +8,7 @@ title:
   content: CIE Technical Collection in photometry and radiometry
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-114-1994?product_id=1210034
+- content: https://www.techstreet.com/cie/standards/cie-114-1994?product_id=1210034
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783900734589'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1994-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1994-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "This volume contains short Technical Reports, Research Notes and Reporters'
+- content: "This volume contains short Technical Reports, Research Notes and Reporters'
     Reports prepared by various Technical Committees and Reporters within Division
     2. In part they were published in the \"CIE Journal\" between 1987 and 1988.\n\n114/1
     Survey of reference materials for testing the performance of spectrophotometers
@@ -76,7 +80,9 @@ abstract:
     prepared by G. Vandermeersch, Belgium.\n\nThe publication contains also abstracts
     of 19 CIE Publications dealing with photometry and radiometry.\n\nThe Technical
     Collection consists of 45 pages."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

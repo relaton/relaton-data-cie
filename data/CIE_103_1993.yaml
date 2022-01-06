@@ -8,7 +8,7 @@ title:
   content: Technical Collection 1993
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-103-1993?product_id=1210025
+- content: https://www.techstreet.com/cie/standards/cie-103-1993?product_id=1210025
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783900734428'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1993-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1993-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This volume contains short Technical Reports, Research Notes and Reporters' Reports prepared by our Divisions, Technical Committees and Reporters in 1992/1993:
 
     103/1 Colour Appearance Analysis
@@ -44,7 +48,9 @@ abstract:
         * TC 1-32: Prediction of Corresponding Colours
         * TC 1-33: Colour Rendering
         * TC 1-34: Testing of Colour Appearance Models
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

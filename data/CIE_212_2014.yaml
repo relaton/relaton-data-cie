@@ -10,7 +10,7 @@ title:
     Relative Spatial Brightness
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-212-2014?product_id=1880890
+- content: https://www.techstreet.com/cie/standards/cie-212-2014?product_id=1880890
   type: src
 type: standard
 docid:
@@ -19,19 +19,23 @@ docid:
 - id: '9783902842510'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2014-07-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-07-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This report reviews evidence for the procedures and other factors of experiments
+- content: 'This report reviews evidence for the procedures and other factors of experiments
     carried out to investigate relative spatial brightness, making recommendations
     of those aspects that ought to be considered as essential, or at least desirable,
     for best practice. These factors include the size and complexity of the visual
@@ -42,7 +46,9 @@ abstract:
     This report hence serves as a guide for those planning experiments to investigate
     spatial brightness. The proposals are presented as recommendations and not as
     compulsory. The report identifies those issues for which further research is desirable.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

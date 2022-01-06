@@ -10,54 +10,72 @@ title:
     PACKAGING LENS IN THE WHITE LIGHT LED (PO18, 492-498)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/improvement-of-the-colourful-uniformity-by-three-different-mediums-of-the-packaging-lens-in-the-white-light-led-po18-492-498?product_id=2016296
+- content: https://www.techstreet.com/cie/standards/improvement-of-the-colourful-uniformity-by-three-different-mediums-of-the-packaging-lens-in-the-white-light-led-po18-492-498?product_id=2016296
   type: src
 type: standard
 docid:
-  id: CIE PO18 492-498
+- id: CIE PO18 492-498
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       initial:
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: Y
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Wu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: S
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ma
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: In this study, the optical design of the packaging lens which has achromatic
+- content: In this study, the optical design of the packaging lens which has achromatic
     ability is proposed in the white light LED. In order to protect the LED chip and
     reduce colour dispersion, the LED chip is bonded on a rectangular reflective cup
     and embedded in a packaging lens which is composed by three different mediums.
@@ -70,7 +88,9 @@ abstract:
     one degrees. However, while the reflective cup causes the increasing in RCD value,
     a considerable improvement still can be achieved by the design of the free-form
     reflective cup.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

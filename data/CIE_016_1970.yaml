@@ -8,7 +8,7 @@ title:
   content: Daylight
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-016-1970?product_id=1209966
+- content: https://www.techstreet.com/cie/standards/cie-016-1970?product_id=1209966
   type: src
 type: standard
 docid:
@@ -17,23 +17,29 @@ docid:
 - id: '9783901906664'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1970-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1970-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The purpose of this guide is to aid architects, civil engineers, building inspectors, and others concerned with the natural lighting of buildings. The guide specifies a simple but accurate method of computing and checking interior daylight levels. It contains a comprehensive list of other methods for predicting daylight levels in buildings. From this list, designers specializing in daylighting can select methods that are best suited for any one case.
 
     This publication contains 87 pages, 32 figures and 4 tables.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

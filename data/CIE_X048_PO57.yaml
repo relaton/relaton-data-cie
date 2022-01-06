@@ -8,70 +8,94 @@ title:
   content: TOWARDS AN IMPROVED V-VLC OPTICAL CHANNEL MODELLING
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-po57?product_id=2240862
+- content: https://www.techstreet.com/cie/standards/cie-x048-po57?product_id=2240862
   type: src
 type: standard
 docid:
-  id: CIE x048-PO57
+- id: CIE x048-PO57
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       forename:
-        content: Guillaume
-        language: en
-        script: Latn
+      - content: Guillaume
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Dotreppe
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Coosemans
-        language: en
-        script: Latn
+      - content: Coosemans
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Mario
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Jacobs
-        language: en
-        script: Latn
+      - content: Jacobs
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Jan
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Ann
-        language: en
-        script: Latn
+      - content: Ann
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Valéry
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Visible Light Communication (VLC) requires better optical channel modelling
+- content: Visible Light Communication (VLC) requires better optical channel modelling
     if it is to be used in vehicular applications. Therefore, the radiation transfer
     between the transmitter and emitter shall be well defined in all circumstances.
     An important aspect herein is the determination of the Limiting Photometric Distance
@@ -84,7 +108,9 @@ abstract:
     and then expanded to off-axis scenarios.  This allows to compute the on- and off-axis
     LPD of the light source, an important step towards a more accurate description
     of complex systems for VLC.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -8,7 +8,7 @@ title:
   content: Light signals for road traffic control
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-048-1980?product_id=1209980
+- content: https://www.techstreet.com/cie/standards/cie-048-1980?product_id=1209980
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9789290340485'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1980-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1980-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This report is concerned with matters that have a direct influence on the road user in his perception of road traffic signals. It does not cover other important matters concerning traffic signals:
 
         * the location of signal lights;
@@ -40,8 +44,10 @@ abstract:
     The visibility of light signals depends on many factors, the most important of which in the context of this report are the colour, luminous intensity, and luminous intensity distribution of the lights. The correct recognition of a traffic signal light may be seriously affected by sun phantom; this problem is discussed also. The recognition of figures and symbols which are used in traffic lights has become more important, and so the report examines some details of their shape and size. Some design considerations for traffic engineering are included as well. The report contains a discussion of flashing signal lights, but does not deal with flashing yellow lights used for warning only.
 
     The publication contains 41 pages, 13 figures and 3 tables.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
@@ -58,13 +64,13 @@ relation:
       content: Road traffic lights - Photometric properties of 200 mm roundel signals
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-s-006-1-e-1998-iso-16508-1999?product_id=1210129
+    - content: https://www.techstreet.com/cie/standards/cie-s-006-1-e-1998-iso-16508-1999?product_id=1210129
       type: src
     docid:
-      id: CIE S 006.1/E-1998 (ISO 16508:1999)
+    - id: CIE S 006.1/E-1998 (ISO 16508:1999)
       type: CIE
     date:
-      type: published
+    - type: published
       value: '1999-01-01'
     revdate: '1999-01-01'
 - type: updates
@@ -78,13 +84,13 @@ relation:
       content: A guide for the design of road traffic lights
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-079-1988?product_id=1210007
+    - content: https://www.techstreet.com/cie/standards/cie-079-1988?product_id=1210007
       type: src
     docid:
-      id: CIE 079-1988
+    - id: CIE 079-1988
       type: CIE
     date:
-      type: published
+    - type: published
       value: '1988-01-01'
     revdate: '1988-01-01'
 doctype: document

@@ -8,7 +8,7 @@ title:
   content: Methods for Evaluating Colour Differences in Images
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-199-2011?product_id=1809293
+- content: https://www.techstreet.com/cie/standards/cie-199-2011?product_id=1809293
   type: src
 type: standard
 docid:
@@ -17,22 +17,28 @@ docid:
 - id: '9783902842381'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2011-09-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2011-09-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Technical Report is concerned with the evaluation of colour differences between two similar images where the output media and the output viewing conditions are similar for both images. It is based on previously published work by CIE and other experts in this field. The report begins by reviewing the factors affecting the evaluation of these colour differences. Various methodologies are described to evaluate colour differences using both visual and instrumental methods. A series of reference colour digital images are presented. A method for statistically analysing average colour differences is described. All the activities of the Technical Committee in charge of this report are finally summarized and recommendations are made to apply either CIELAB or CIEDE2000 for evaluating colour differences for a pair of images displayed in the same medium side by side under the same illumination conditions.
     The publication is written in English, with a short summary in French and German. It consists of 50 pages with 22 figures and 7 tables.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

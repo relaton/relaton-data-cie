@@ -12,54 +12,72 @@ title:
      (PP29, 673-676)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/possible-health-implications-of-low-infrared-levels-in-indoor-illumination-pp29-673-676?product_id=2011360
+- content: https://www.techstreet.com/cie/standards/possible-health-implications-of-low-infrared-levels-in-indoor-illumination-pp29-673-676?product_id=2011360
   type: src
 type: standard
 docid:
-  id: CIE PP29 673-676
+- id: CIE PP29 673-676
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
       - content: L
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Whitehead
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: N
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: N
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Osborne
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: For a long time, near-infrared radiation (NIR) has seemed, from the perspective
+- content: For a long time, near-infrared radiation (NIR) has seemed, from the perspective
     of illuminating engineering, to be both useless and harmless. For this reason,
     it has been largely ignored, and considered to be merely a wasteful by-product
     produced by some light sources. Two recent developments suggest it may be time
@@ -71,7 +89,9 @@ abstract:
     of NIR-rich incandescent lamps by LED lamps that have been carefully engineered
     to emit very little NIR light. Here we argue that there is a need for careful
     studies to check whether NIR can and should beneficially contribute to health.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

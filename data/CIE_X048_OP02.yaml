@@ -8,70 +8,94 @@ title:
   content: CHARACTERISATION OF LUMINESCENT ROAD MARKINGS
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op02?product_id=2240676
+- content: https://www.techstreet.com/cie/standards/cie-x048-op02?product_id=2240676
   type: src
 type: standard
 docid:
-  id: CIE x048-OP02
+- id: CIE x048-OP02
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
-        content: C
-        language: en
-        script: Latn
+      - content: C
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Villa
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: R
-        language: en
-        script: Latn
+      - content: R
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Bremond
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: F
-        language: en
-        script: Latn
+      - content: F
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Eymond
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: E
-        language: en
-        script: Latn
+      - content: E
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Saint-Jacques
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Photoluminescent paints for road marking have been evaluated through laboratory
+- content: Photoluminescent paints for road marking have been evaluated through laboratory
     measurements and visibility computations. The luminance decay in the dark was
     measured after constant excitation during at least six hours. To study the effect
     of night-time lighting conditions, luminance was also measured under a constant
@@ -83,7 +107,9 @@ abstract:
     strengthen the visual guidance of drivers on the road with traffic by increasing
     the visibility distance beyond the range of the headlamps during the first few
     hours of the night, but it depends on the night-time illumination level.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

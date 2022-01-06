@@ -8,48 +8,62 @@ title:
   content: PESPECTROPHOTOMETRY OF DYNAMIC COLOURS (PO42, Pages 408-416)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/pespectrophotometry-of-dynamic-colours-po42-pages-408-416?product_id=1941864
+- content: https://www.techstreet.com/cie/standards/pespectrophotometry-of-dynamic-colours-po42-pages-408-416?product_id=1941864
   type: src
 type: standard
 docid:
-  id: CIE x043-PO42
+- id: CIE x043-PO42
   type: CIE
 date:
-  type: published
+- type: published
   value: '2016-09-01'
 contributor:
 - person:
     name:
       initial:
-        content: M
-        language: en
-        script: Latn
+      - content: M
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Vikova
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: M
-        language: en
-        script: Latn
+      - content: M
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Vik
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-09-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Dynamic colours are sensitive on different stimuli such as UV-VIS radiation,
+- content: Dynamic colours are sensitive on different stimuli such as UV-VIS radiation,
     temperature, humidity, etc. Potential application of these systems in industry,
     fashion and other branches brings problem of its measurement for purpose of control
     their quality. For example photochromic colours need to be exposed by external
@@ -65,7 +79,9 @@ abstract:
     kind of measurement and also there influence of selected light sources on photochromic
     effect is discussed. Is evident, there is a problem for future standardization
     of colour changeable materials measurement.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

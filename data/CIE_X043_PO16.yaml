@@ -10,51 +10,67 @@ title:
     CALIBRATIONS (PO16, Pages 303-311)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/investigation-and-measurement-of-uncertainty-contributors-for-colorimetric-calibrations-po16-pages-303-311?product_id=1941848
+- content: https://www.techstreet.com/cie/standards/investigation-and-measurement-of-uncertainty-contributors-for-colorimetric-calibrations-po16-pages-303-311?product_id=1941848
   type: src
 type: standard
 docid:
-  id: CIE x043-PO16
+- id: CIE x043-PO16
   type: CIE
 date:
-  type: published
+- type: published
   value: '2016-09-01'
 contributor:
 - person:
     name:
       initial:
-        content: I
-        language: en
-        script: Latn
+      - content: I
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kruger
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: E
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: M
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Coetzee
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-09-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Various empirical tests, calibrations and verifications were performed
+- content: Various empirical tests, calibrations and verifications were performed
     to define the uncertainty contributors for the colorimetric calibrations of surface
     colour standards and emitted colour sources (including colorimeters). A standard
     spectroradiometer was calibrated for luminance and verified for correlated colour
@@ -68,7 +84,9 @@ abstract:
     to the screen were measured and calculated for nine colours produced on the screen.
     The various uncertainties for colorimetric calibrations were calculated and will
     be discussed.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

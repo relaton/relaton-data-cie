@@ -14,51 +14,67 @@ title:
       (OP52, 385-395)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/refining-the-effective-intensity-model-at-threshold-and-supra-threshold-for-use-in-marine-visual-signals-op52-385-395?product_id=2010524
+- content: https://www.techstreet.com/cie/standards/refining-the-effective-intensity-model-at-threshold-and-supra-threshold-for-use-in-marine-visual-signals-op52-385-395?product_id=2010524
   type: src
 type: standard
 docid:
-  id: CIE OP52 385-395
+- id: CIE OP52 385-395
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: I
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Williams
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: I
-        language: en
-        script: Latn
+      - content: I
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Tutt
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Ground-breaking experiments have been conducted over the last few years
+- content: Ground-breaking experiments have been conducted over the last few years
     in order to refine the effective and apparent intensity models that are key to
     understanding how flashing visual signals are perceived by mariners. Such refinement
     means that a visual signalling service can potentially be provided in a more efficient
@@ -72,7 +88,9 @@ abstract:
     of a light for marine use. Therefore, the term 'apparent intensity' is used in
     this paper to quantify supra-threshold conspicuity applicable to marine aids-to-navigation
     usage.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

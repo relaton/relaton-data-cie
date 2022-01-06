@@ -8,7 +8,7 @@ title:
   content: CIE Collection on Glare 2002
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-146-147-2002?product_id=1210106
+- content: https://www.techstreet.com/cie/standards/cie-146-147-2002?product_id=1210106
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783901906152'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2002-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2002-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This volume contains two Technical Reports prepared by Technical Committees within Division 1 and Division 3.
 
     The Technical Collection is written in English, with short summaries in French and German.
@@ -52,7 +56,9 @@ abstract:
     The technical report consists of 13 pages with 3 figures and 2 tables.
 
     This report is dedicated to the memory of the late Professor Heinrich D. Einhorn.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

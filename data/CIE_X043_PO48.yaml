@@ -12,54 +12,72 @@ title:
     (PO48, Pages 450-461)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/general-aspects-of-the-spectral-optimizations-of-multichannel-hybrid-led-luminaires-on-colour-fidelity-colour-preference-colour-memory-and-saturation-enhancements-po48-pages-450-461?product_id=1941870
+- content: https://www.techstreet.com/cie/standards/general-aspects-of-the-spectral-optimizations-of-multichannel-hybrid-led-luminaires-on-colour-fidelity-colour-preference-colour-memory-and-saturation-enhancements-po48-pages-450-461?product_id=1941870
   type: src
 type: standard
 docid:
-  id: CIE x043-PO48
+- id: CIE x043-PO48
   type: CIE
 date:
-  type: published
+- type: published
   value: '2016-09-01'
 contributor:
 - person:
     name:
       initial:
       - content: Q
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: V
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Trinh
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: Q
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: K
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Tran
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-09-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The colour quality of solid state lighting is an essential theme for research
+- content: The colour quality of solid state lighting is an essential theme for research
     and development. Light sources that are optimized on colour fidelity can be not
     good enough to achieve a visual acceptance of users of lighting systems. As well,
     LED - luminaires and - lamps that are optimized only on colour saturation enhancement
@@ -74,7 +92,9 @@ abstract:
     structure of LEDs for a solid state lighting system. Consequently, an example
     of the full optimization for a solid state lighting system in the case of human
     skins is used to demonstrate experimentally.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

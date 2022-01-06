@@ -8,58 +8,77 @@ title:
   content: INVESTIGATING LIGHT AND CRIME USING AMBIENT LIGHT LEVEL
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op31?product_id=2240781
+- content: https://www.techstreet.com/cie/standards/cie-x048-op31?product_id=2240781
   type: src
 type: standard
 docid:
-  id: CIE x048-OP31
+- id: CIE x048-OP31
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: S. Fotios
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Robbins
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       surname:
         content: Farrall
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'A recent study investigated the influence of lighting on crime by considering
+- content: 'A recent study investigated the influence of lighting on crime by considering
     the effect of change in ambient light level on crimes recorded in three US cities
     for the ten-year period 2010 to 2019. The results suggested a significant increase
     in robbery after dark, but did not suggest significant change in for any other
@@ -68,7 +87,9 @@ abstract:
     significant increase in robbery after dark. These data do not suggest that change
     in ambient light level has a practically relevant effect on overall crime counts:
     in other words, the potential benefit of lighting for crime reduction is limited.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

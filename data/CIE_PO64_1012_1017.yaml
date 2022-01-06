@@ -14,73 +14,99 @@ title:
      (PO64, 1012-1017)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/study-on-the-effect-of-colour-temperature-on-learning-po64-1012-1017?product_id=2011169
+- content: https://www.techstreet.com/cie/standards/study-on-the-effect-of-colour-temperature-on-learning-po64-1012-1017?product_id=2011169
   type: src
 type: standard
 docid:
-  id: CIE PO64 1012-1017
+- id: CIE PO64 1012-1017
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: H
-        language: en
-        script: Latn
+      - content: H
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kuroiwa
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: K
-        language: en
-        script: Latn
+      - content: K
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kimura
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: R
-        language: en
-        script: Latn
+      - content: R
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yuyama
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: H
-        language: en
-        script: Latn
+      - content: H
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Takahashi
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     In this study, we aimed to clarify the influence of colour temperature on learning. We conducted two experiments, the first of which investigated the influence of colour temperature on learning efficiency, and the second of which examined the effects of changing colour
     temperature during adaptation at lighting environments on subsequent learning. The results of our experiments suggest that 4000 K is suitable for memory and sentence-related tasks, and that changing the colour temperature from 3000 K to 5000 K by the start of the tasks increased alertness. Especially, it is noted that the change may be even more effective if it occurs one minute before the task start.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -8,54 +8,72 @@ title:
   content: FACILITY FOR CALIBRATION OF PHOTOMETERS FOR TEMPORAL LIGHT MODULATION
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op27?product_id=2240717
+- content: https://www.techstreet.com/cie/standards/cie-x048-op27?product_id=2240717
   type: src
 type: standard
 docid:
-  id: CIE x048-OP27
+- id: CIE x048-OP27
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
       - content: P
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: R
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Dekker
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: L
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: van Bloois
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: We developed a facility for calibration of TLM (temporal light modulation)
+- content: We developed a facility for calibration of TLM (temporal light modulation)
     photometers. The facility is based on a laser-fed reference source, of which the
     radiance can be modulated with an acousto-optic modulator (AOM). A system of photodiodes,
     amplifiers, and an analog-to-digital converter (ADC) is used to sample the temporally
@@ -65,7 +83,9 @@ abstract:
     the aim of measuring flicker and stroboscopic effect, considering the Ecodesign
     Single Lighting Regulation. The frequency response of the facility shows to be
     sufficient to accommodate measurements of flicker and the stroboscopic effect.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

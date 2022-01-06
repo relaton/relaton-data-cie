@@ -12,81 +12,110 @@ title:
     AT DIFFERENT AMBIENT TEMPERATURES (OP37, 267-276)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/a-new-dimming-control-scheme-of-led-streetlighting-luminaires-based-on-multi-domain-simulation-models-of-leds-in-order-to-achieve-constant-luminous-flux-at-different-ambient-temperatures-op37-267-276?product_id=2010480
+- content: https://www.techstreet.com/cie/standards/a-new-dimming-control-scheme-of-led-streetlighting-luminaires-based-on-multi-domain-simulation-models-of-leds-in-order-to-achieve-constant-luminous-flux-at-different-ambient-temperatures-op37-267-276?product_id=2010480
   type: src
 type: standard
 docid:
-  id: CIE OP37 267-276
+- id: CIE OP37 267-276
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: J
-        language: en
-        script: Latn
+      - content: J
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Hegedus
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: P
-        language: en
-        script: Latn
+      - content: P
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Hotvath
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: T
-        language: en
-        script: Latn
+      - content: T
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Szabo
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: A
-        language: en
-        script: Latn
+      - content: A
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Szalai
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: A
-        language: en
-        script: Latn
+      - content: A
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Poppe
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Temperature dependence of LED operation is often not fully considered during
+- content: Temperature dependence of LED operation is often not fully considered during
     the design of solid state lighting products. If temperature dependence is not
     carefully considered, solidstate lighting products are typically overdesigned
     to be too robust enough to fulfil the requirements under any possible environmental
@@ -99,7 +128,9 @@ abstract:
     are sufficient. We present the new, so called iso-flux control scheme and its
     implementation in an actual smart luminaire. The actual control scheme was designed
     with a multi-domain LED model and the results were validated by simulation.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

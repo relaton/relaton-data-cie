@@ -13,26 +13,30 @@ title:
     Chromaticity Scale Diagram'
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-s-014-5-e-2009?product_id=1609731
+- content: https://www.techstreet.com/cie/standards/cie-s-014-5-e-2009?product_id=1609731
   type: src
 type: standard
 docid:
-  id: CIE S 014-5/E:2009
+- id: CIE S 014-5/E:2009
   type: CIE
 date:
-  type: published
+- type: published
   value: '2009-03-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2009-03-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This CIE Standard specifies the method of calculating the coordinates of the CIE
     1976 L*u*v* colour space including correlates of lightness, chroma, saturation and
     hue. It includes two methods for calculating Euclidean distances in this space to
@@ -50,8 +54,10 @@ abstract:
     that appears to be specularly reflecting such light. Only the u',v' chromaticity diagram
     defined in Section 4.1 and the correlates of hue and saturation defined in Section 4.3
     apply to such colour stimuli.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
@@ -70,13 +76,13 @@ relation:
         Chromaticity Scale Diagram'
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-iso-11664-5-2016?product_id=1983056
+    - content: https://www.techstreet.com/cie/standards/cie-iso-11664-5-2016?product_id=1983056
       type: src
     docid:
-      id: CIE ISO 11664-5:2016
+    - id: CIE ISO 11664-5:2016
       type: CIE
     date:
-      type: published
+    - type: published
       value: '2017-06-01'
     revdate: '2017-06-01'
 - type: updates
@@ -95,13 +101,13 @@ relation:
         Chromaticity Scale Diagram'
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-s-014-5-e-2009-iso-11664-5-2009?product_id=1673546
+    - content: https://www.techstreet.com/cie/standards/cie-s-014-5-e-2009-iso-11664-5-2009?product_id=1673546
       type: src
     docid:
-      id: CIE S 014-5/E:2009 (ISO 11664-5:2009)
+    - id: CIE S 014-5/E:2009 (ISO 11664-5:2009)
       type: CIE
     date:
-      type: published
+    - type: published
       value: '2009-12-01'
     revdate: '2009-12-01'
 doctype: document

@@ -10,7 +10,7 @@ title:
     lighting installations, Second Edition
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-150-2017?product_id=1997388
+- content: https://www.techstreet.com/cie/standards/cie-150-2017?product_id=1997388
   type: src
 type: standard
 docid:
@@ -19,19 +19,23 @@ docid:
 - id: '9783902842480'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2017-10-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This report is a revision and update of CIE 150:2003 Guide on the Limitation of the Effects of Obtrusive Light from Outdoor Lighting Installations. The purpose of this Guide is to help formulate guidelines for assessing the environmental impacts of outdoor lighting and to give recommended limits for relevant lighting parameters to contain the obtrusive effects of outdoor lighting within tolerable levels. As the obtrusive effects of outdoor lighting are best controlled initially by appropriate design, the guidance given is primarily applicable to new installations; however, some advice is also provided on remedial measures which may be taken for existing installations.
 
     This Guide refers to the potentially adverse effects of outdoor lighting on both natural and man-made environments for people in most aspects of daily life, from residents, sightseers, transport users to environmentalists and astronomers. (Astronomers also see CIE 126-1997.)
@@ -39,11 +43,13 @@ abstract:
     The daytime appearance of the lighting installation is important. The size and nature of the lighting support structures may be intrusive by day although this subject is not addressed in this Guide.
 
     The publication replaces CIE 150:2003 Guide on the Limitation of the Effects of Obtrusive Light from Outdoor Lighting Installations.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     id: CIE150-2003
     title:
@@ -56,13 +62,13 @@ relation:
         lighting installations
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-150-2003?product_id=1210066
+    - content: https://www.techstreet.com/cie/standards/cie-150-2003?product_id=1210066
       type: src
     docid:
-      id: CIE 150:2003
+    - id: CIE 150:2003
       type: CIE
     date:
-      type: published
+    - type: published
       value: '2003-01-01'
     revdate: '2003-01-01'
 doctype: document

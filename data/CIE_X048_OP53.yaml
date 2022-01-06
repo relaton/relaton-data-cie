@@ -10,62 +10,82 @@ title:
     LIGHTING UNIFORMITY
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op53?product_id=2240805
+- content: https://www.techstreet.com/cie/standards/cie-x048-op53?product_id=2240805
   type: src
 type: standard
 docid:
-  id: CIE x048-OP53
+- id: CIE x048-OP53
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       surname:
         content: Ulrika
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Lindh
-        language: en
-        script: Latn
+      - content: Lindh
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Wänström
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: K
-        language: en
-        script: Latn
+      - content: K
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Annika
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       surname:
         content: Jägerbrand
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Uniformity of lighting for pedestrians is often assumed to have been achieved
+- content: 'Uniformity of lighting for pedestrians is often assumed to have been achieved
     in mixed traffic environments when the lighting uniformity requirements for vehicular
     traffic have been fulfilled. Uniformity of lighting for drivers is commonly evaluated
     based on quan-titative data on parameters such as overall luminance uniformity.
@@ -78,7 +98,9 @@ abstract:
     Secondly, to identify and explain the addi-tional value that a combined method
     approach can contribute. The study considers ex-amples of when the measured uniformity
     corresponds to visually perceived uniformity and when they do not correspond.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -8,7 +8,7 @@ title:
   content: A Guide to Urban Lighting Masterplanning
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-234-2019?product_id=2085013
+- content: https://www.techstreet.com/cie/standards/cie-234-2019?product_id=2085013
   type: src
 type: standard
 docid:
@@ -17,23 +17,29 @@ docid:
 - id: '9783902842169'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2019-09-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-09-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The purpose of CIE 234:2019 is to provide guidance about the objectives and underlying principles relating to the lighting aspects of the urban nightscape. It deals with the visual, organizational, environmental, and technical elements of these aspects of urban planning.
     This guide identifies the lighting planning criteria that should be considered when initiatives are being taken in relation to new or existing lighting in urban areas or newly planned conurbations. Guidance is provided to both the functional and expressive aspects of lighting.
     This publication is intended to support those decision makers who are required to initiate, promote, and manage the night-time image of their city and who require a masterplan to provide a sound basis for long term lighting developments.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

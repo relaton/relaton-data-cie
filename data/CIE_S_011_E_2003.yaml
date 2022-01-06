@@ -11,7 +11,7 @@ title:
   content: Spatial distribution of daylight - CIE Standard General Sky
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-s-011-e-2003-iso-15469-2004?product_id=1210088
+- content: https://www.techstreet.com/cie/standards/cie-s-011-e-2003-iso-15469-2004?product_id=1210088
   type: src
 type: standard
 docid:
@@ -20,19 +20,23 @@ docid:
 - id: ISO 15469:2004
   type: ISO
 date:
-  type: published
+- type: published
   value: '2003-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2003-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     Joint ISO/CIE Standard
 
     ISO 15469:2004 (E) / CIE S 011/E:2003
@@ -52,7 +56,9 @@ abstract:
     This present Standard replaces CIE S003 - 1996 "Spatial distribution of daylight - CIE standard overcast sky and clear sky" and ISO 15469:1997.
 
     This standard has been approved by CIE and by ISO.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

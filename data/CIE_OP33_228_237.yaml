@@ -8,54 +8,72 @@ title:
   content: LIGHT, EMOTION AND INTERACTION (OP33, 228-237)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/light-emotion-and-interaction-op33-228-237?product_id=2010473
+- content: https://www.techstreet.com/cie/standards/light-emotion-and-interaction-op33-228-237?product_id=2010473
   type: src
 type: standard
 docid:
-  id: CIE OP33 228-237
+- id: CIE OP33 228-237
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
       - content: D
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kim
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: K
-        language: en
-        script: Latn
+      - content: K
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Mansfield
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This study sees the potential to shift modern workspace lighting design from providing visual needs with some accent on decorative lighting towards ambiences that are fully tuneable to people's emotional needs. In order to explore emotion-based lighting design, this study set the key parameters of emotion as 'pleasantness' and 'activation', derived from the circumplex model of affect. Five lighting designers were invited to devise two sets of lighting design concepts, referred to as 'lively' (pleasing and with high activation) and 'relaxing' (pleasing and with low activation). Then, a controlled experiment with a total fifteen light settings was set up, consisting of ten designers' settings and an additional five settings (referred to as 'miscellaneous'). The selfassessed
     emotions of 42 participants showed that changes in Correlated Colour Temperature (CCT) or illuminances did not have an impact on pleasantness level but only influenced subjective activation/sleepiness level. Five out of ten designers' settings have resulted in the participants' feeling to be either 'lively' or 'relaxing'. The results suggest that illumination with a CCT range of 5,000K to 5,500K combined with accent lighting that were smartly controlled to shift its colour properties from saturated blue to cyan colour are associated with 'lively' feelings whereas a 'relaxing' emotion seems to be associated with non-dynamic luminous environments in a CCT range of 2,700K to 3,000K, provided by either a combination of a ceiling light and pendant lights with a globe-shaped lampshade, or a combination of a pendant lights with the shade, a table lamp and cove effects on a ceiling. It was also noticed that using table lamp solely for task lighting, combined with accent lighting providing a directional light pattern in the field of view resulting in a high degree of 'relaxing' emotion. In conclusion, the study successfully explores the possibilities of an emotion-based lighting design approach and explains their impacts by the controlled experiment. The result also provides an in-detail understanding of human affect by lighting stimuli, which could work as a fundamental step in promoting human psychological well-being in workspaces.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

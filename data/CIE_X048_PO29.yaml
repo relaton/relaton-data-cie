@@ -10,40 +10,51 @@ title:
     MERCURY LAMPS
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-po29?product_id=2240835
+- content: https://www.techstreet.com/cie/standards/cie-x048-po29?product_id=2240835
   type: src
 type: standard
 docid:
-  id: CIE x048-PO29
+- id: CIE x048-PO29
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
       - content: I
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: I
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Zheleznov
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Obtaining experimental data on the electrical and photometric parameters
+- content: Obtaining experimental data on the electrical and photometric parameters
     of low-pressure tubular amalgam lamps with a discharge in a mixture of mercury
     vapor and inert gases at high current densities of 0.5-1.2 A/cm2 with frequencies
     of tens of kilohertz is one of the key problems of modern metrology. Since a full-fledged
@@ -58,7 +69,9 @@ abstract:
     author for measuring the fluxes of ozonizing and bactericidal radiation can be
     used as the basis for the development of an automated system for measuring parameters
     and monitoring the quality of gas-discharge UV radiation sources.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

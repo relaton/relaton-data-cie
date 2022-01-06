@@ -8,70 +8,94 @@ title:
   content: A VISUAL EVALUATION OF COLOUR DIFFERENCES BETWEEN 3D OBJECTS (PP18, 362-368)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/a-visual-evaluation-of-colour-differences-between-3d-objects-pp18-362-368?product_id=2016273
+- content: https://www.techstreet.com/cie/standards/a-visual-evaluation-of-colour-differences-between-3d-objects-pp18-362-368?product_id=2016273
   type: src
 type: standard
 docid:
-  id: CIE PP18 362-368
+- id: CIE PP18 362-368
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       forename:
-        content: Wei-Chun
-        language: en
-        script: Latn
+      - content: Wei-Chun
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Hung
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Pei-Li
-        language: en
-        script: Latn
+      - content: Pei-Li
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Sun
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Yan-Zhen
-        language: en
-        script: Latn
+      - content: Yan-Zhen
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lai
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Yan-Mi
-        language: en
-        script: Latn
+      - content: Yan-Mi
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Chen
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The aim of this study is to see if colour differences of colour 3D objects
+- content: The aim of this study is to see if colour differences of colour 3D objects
     are different from 2D objects. Five colours were tested, each consisting of 2
     three-dimensional geometric shapes, 2 materials and perturbed in 3 colour attributes.
     This resulted in 52 three-dimensional colourshape combinations, using a series
@@ -84,7 +108,9 @@ abstract:
     colour differences, especially in hue differences. Chroma differences for high
     chroma or dark colours are not easy to aware. Lighting and colour also have some
     interesting impacts on the results.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -10,48 +10,62 @@ title:
     ELSE?
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op64?product_id=2240817
+- content: https://www.techstreet.com/cie/standards/cie-x048-op64?product_id=2240817
   type: src
 type: standard
 docid:
-  id: CIE  x048-OP64
+- id: CIE  x048-OP64
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
-        content: K
-        language: en
-        script: Latn
+      - content: K
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Hamoodh
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Fotios
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: In subsidiary roads, lighting is installed to meet the needs of pedestrians
+- content: In subsidiary roads, lighting is installed to meet the needs of pedestrians
     after dark for safety and their feeling of safety. One aspect is the need to evaluate
     other people to inform the approach-or-avoid decision. To investigate how changes
     in lighting matter for this task, we first need to know where people tend to look.
@@ -63,7 +77,9 @@ abstract:
     differences between levels of face concealment but smaller differences for changes
     in hand concealment. The findings from both experiments support the importance
     of the face for evaluating other pedestrians.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

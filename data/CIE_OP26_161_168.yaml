@@ -10,76 +10,104 @@ title:
     (OP26, 161-168)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/the-influence-of-adapting-field-size-on-degree-of-chromatic-adaptation-op26-161-168?product_id=2016239
+- content: https://www.techstreet.com/cie/standards/the-influence-of-adapting-field-size-on-degree-of-chromatic-adaptation-op26-161-168?product_id=2016239
   type: src
 type: standard
 docid:
-  id: CIE OP26 161-168
+- id: CIE OP26 161-168
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ma
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: P
-        language: en
-        script: Latn
+      - content: P
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Hanselaer
-        language: en
-        script: Latn
-  role: author
-- person:
-    name:
-      initial:
-        content: K
-        language: en
-        script: Latn
-      surname:
-        content: Teunissen
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: K
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Teunissen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
+- person:
+    name:
+      initial:
+      - content: K
+        language:
+        - en
+        script:
+        - Latn
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: G
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Smet
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'In the CAT02 chromatic adaptation transform, adopted in the CIECAM02 colour
+- content: 'In the CAT02 chromatic adaptation transform, adopted in the CIECAM02 colour
     appearance model, the degree of adaptation D is only related to the luminance
     of the surrounding field. Research has already shown that the chromaticity of
     the adapting illumination has a significant impact on D. In this pilot study,
@@ -89,7 +117,9 @@ abstract:
     chromaticities by making a grey cube appear achromatic. The results showed that
     chromatic adaptation for the largest surrounding field is more complete than for
     the smaller surrounding fields.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

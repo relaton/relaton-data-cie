@@ -8,7 +8,7 @@ title:
   content: Decision Scheme for Lighting Controls in Non-Residential Buildings
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-222-2017?product_id=1942987
+- content: https://www.techstreet.com/cie/standards/cie-222-2017?product_id=1942987
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783902842091'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2017-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This report offers guidelines in order to balance lighting quality, user
+- content: This report offers guidelines in order to balance lighting quality, user
     comfort and energy efficiency in lighting controls solutions for lighting in non-residential
     buildings (i.e. for commercial, institutional and industrial buildings). It provides
     a decision scheme with a focus on the user requirements (visual comfort, performance,
@@ -38,7 +42,9 @@ abstract:
     or financial hurdles. The decision scheme identifies 16 possible control strategies,
     for both daylight and electric lighting, and provides guidance for which strategy
     would be most effective in each of the 12 cases defined by space usage and occupancy.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

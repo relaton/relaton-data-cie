@@ -8,7 +8,7 @@ title:
   content: A review of chromatic adaptation transforms
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-160-2004?product_id=1210117
+- content: https://www.techstreet.com/cie/standards/cie-160-2004?product_id=1210117
   type: src
 type: standard
 docid:
@@ -17,23 +17,29 @@ docid:
 - id: '9783901906305'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2004-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2004-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This report reviews a number of studies on chromatic adaptation. Four different experimental techniques are first described and their pros and cons are analysed. Eight experimental data sets commonly used to evaluate chromatic adaptation transforms are detailed. Thirteen chromatic adaptation transforms are also described and their equations are given in full. Finally, various studies for testing different transformations are reviewed. The results show that there are four possible candidates for future CIE recommendation, CMCCAT2000, CMCCAT97, CAT02 and CIECAT94. Overall four formulae give quite similar performances and the TC members have not found it possible to agree on which if any of the four should be recommended.
 
     The Report is written in English, with a short summary in French and German. It consists of 36 pages with 7 figures and 3 tables.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -8,57 +8,77 @@ title:
   content: LIGHT SOURCE CHARACTERIZATION AND AIR MOVEMENT UNDER CIE S 025 (OP07, 63-72)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/light-source-characterization-and-air-movement-under-cie-s-025-op07-63-72?product_id=2009526
+- content: https://www.techstreet.com/cie/standards/light-source-characterization-and-air-movement-under-cie-s-025-op07-63-72?product_id=2009526
   type: src
 type: standard
 docid:
-  id: CIE x044-OP07
+- id: CIE x044-OP07
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: A
-        language: en
-        script: Latn
+      - content: A
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Thorseth
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: A
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: S
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Bergen
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     In 2015, the International Commission on Illumination (CIE) published the standard CIE S 025/E:2015 Test Method for LED Lamps, LED Luminaires and LED Modules. This document contains a number of standard test conditions, including laboratory room preparation, environmental and electrical provisions as well as requirements for the performance of testing and measurement equipment. One of the environmental considerations is a restriction of the airflow incident on the device under test. The sensitivity of LED source based devices to airflow is important for estimating the uncertainty originating from airflow. We find that for most of the tested devices the sensitivity is on the order of 5 %/(m/s), which is consistent with CIE S 025.
     However, we also found an example of a device with a larger sensitivity. Additionally we study general airflow measurements and influence of turbulence.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

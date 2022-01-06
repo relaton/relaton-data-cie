@@ -11,26 +11,30 @@ title:
   content: 'Colorimetry - Part 6: CIEDE2000 Colour-difference formula'
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-iso-11664-6-2014?product_id=1872458
+- content: https://www.techstreet.com/cie/standards/cie-iso-11664-6-2014?product_id=1872458
   type: src
 type: standard
 docid:
-  id: CIE ISO 11664-6:2014
+- id: CIE ISO 11664-6:2014
   type: CIE
 date:
-  type: published
+- type: published
   value: '2014-02-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-02-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This joint ISO/CIE International Standard is replacing CIE International Standard CIE S 014-6/E:2013 without changing its technical content.
 
     The three-dimensional colour space produced by plotting CIE tristimulus values (X, Y, Z) in rectangular coordinates is not visually uniform, nor is the (x, y, Y) space nor the two-dimensional CIE (x, y) chromaticity diagram. Equal distances in these spaces and diagrams do not represent equally perceptible differences between colour stimuli. For this reason the CIE has standardized two more-nearly uniform colour spaces (known as CIELAB and CIELUV) whose coordinates are non-linear functions of X, Y and Z. Numerical values representing approximately the relative magnitude of colour differences can be described by simple Euclidean distances in these spaces or by more sophisticated colour-difference formulae that improve the correlation with the relative perceived size of differences. The purpose of this CIE International Standard is to define one such formula, the CIEDE2000 formula, based on CIE Technical Report 142-2001.
@@ -38,8 +42,10 @@ abstract:
     The formula is an extension of the CIE 1976 L*a*b* colour-difference formula (ISO 11664-4:2008(E)/CIE S 014-4/E:2007) with corrections for variation in colour-difference perception dependent on lightness, chroma, hue and chroma-hue interaction. Reference conditions define material and viewing environment characteristics to which the formula applies.
 
     The Standard is applicable to input values of CIELAB L*, a*, b* coordinates calculated according to ISO 11664-4:2008(E)/CIE S 014-4/E:2007. The Standard may be used for the specification of the colour difference between two colour stimuli perceived as belonging to reflecting or transmitting objects. This includes displays, if they are being used to simulate reflecting or transmitting objects and if the tristimulus values representing the stimuli are appropriately normalized. The Standard does not apply to colour stimuli perceived as belonging to areas that appear to be emitting light as primary light sources, or that appear to be specularly reflecting such light.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
 - type: updates
@@ -56,13 +62,13 @@ relation:
       content: 'Colorimetry - Part 6: CIEDE2000 Colour-Difference Formula'
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-s-014-6-e-2013?product_id=1852484
+    - content: https://www.techstreet.com/cie/standards/cie-s-014-6-e-2013?product_id=1852484
       type: src
     docid:
-      id: CIE S 014-6/E:2013
+    - id: CIE S 014-6/E:2013
       type: CIE
     date:
-      type: published
+    - type: published
       value: '2013-02-01'
     revdate: '2013-02-01'
 - type: updates
@@ -79,13 +85,13 @@ relation:
       content: 'Colorimetry - Part 6: CIEDE2000 Colour-Difference Formula'
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-ds-014-6-e-2012?product_id=1831709
+    - content: https://www.techstreet.com/cie/standards/cie-ds-014-6-e-2012?product_id=1831709
       type: src
     docid:
-      id: CIE DS 014-6/E:2012
+    - id: CIE DS 014-6/E:2012
       type: CIE
     date:
-      type: published
+    - type: published
       value: '2012-04-30'
     revdate: '2012-04-30'
 doctype: document

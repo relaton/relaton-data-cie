@@ -8,47 +8,61 @@ title:
   content: CHROMATIC DISCRIMINATION THRESHOLDS OBSERVED IN CAM02-UCS AND CAM16-UCS
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op46?product_id=2240798
+- content: https://www.techstreet.com/cie/standards/cie-x048-op46?product_id=2240798
   type: src
 type: standard
 docid:
-  id: CIE x048-OP46
+- id: CIE x048-OP46
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       surname:
         content: Urbin
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: B
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: V
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Á. Nagy
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: In our study chromatic discrimination thresholds of normal colour observers
+- content: In our study chromatic discrimination thresholds of normal colour observers
     measured with the Trivector test of the Cambridge Colour Test were analysed. Chromaticity
     coordinates were transformed from the CIE (1976) uv diagram to the CAM02-UCS and
     CAM16-UCS colour spaces, where colour differences were calculated.The measured
@@ -61,7 +75,9 @@ abstract:
     data show equal colour differences in the uniform colour spaces. However, the
     discrimination thresholds transformed to CAM02-UCS and CAM16-UCS show that colour
     differences increase towards the chromaticity of the adapting light.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -8,7 +8,7 @@ title:
   content: Groundwork for Measurement of Effective Intensity of Flashing Lights
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-229-2018?product_id=2015171
+- content: https://www.techstreet.com/cie/standards/cie-229-2018?product_id=2015171
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783902842084'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The objective of this report is to lay the groundwork for developing a
+- content: The objective of this report is to lay the groundwork for developing a
     recommendation on the measurement of effective intensity of flashing lights used
     for signalling applications. It recommends a convolutional method that will rest
     on some defined visual impulse response function to calculate the effectivity
@@ -44,7 +48,9 @@ abstract:
     light products. While this document refers to flashing lights, the described method
     applies also to occulting lights, isophase lights, and groups of flashes of varying
     duration.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -10,82 +10,114 @@ title:
     552-555)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/psychological-influence-of-colourful-light-emitting-diode-luminaire-po28-552-555?product_id=2016304
+- content: https://www.techstreet.com/cie/standards/psychological-influence-of-colourful-light-emitting-diode-luminaire-po28-552-555?product_id=2016304
   type: src
 type: standard
 docid:
-  id: CIE PO28 552-555
+- id: CIE PO28 552-555
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       initial:
       - content: T
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: T
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Chen
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: L
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Su
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: C
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Yang
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: K
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Fu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Light-emitting diode (LED) lighting becomes the mainstream of lighting
+- content: Light-emitting diode (LED) lighting becomes the mainstream of lighting
     products. The construction of colourful LED lighting system can be based on human
     factor, well-being, and human health including physiological and psychological
     effects. Automatic change and peopleoriented intelligent lighting system achieve
@@ -96,7 +128,9 @@ abstract:
     of circadian action factor (CAF) which is an indicator of physiological light
     stimulus. However, the psychological influence of colourful LED luminaire is a
     complex and important issue to study the mental effect of integrative lighting.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

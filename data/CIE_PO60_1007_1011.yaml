@@ -14,59 +14,78 @@ title:
      (PO60, 1007-1011)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/photometric-measurement-of-road-lighting-luminaires-po60-1007-1011?product_id=2011182
+- content: https://www.techstreet.com/cie/standards/photometric-measurement-of-road-lighting-luminaires-po60-1007-1011?product_id=2011182
   type: src
 type: standard
 docid:
-  id: CIE PO60 1007-1011
+- id: CIE PO60 1007-1011
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: L
-        language: en
-        script: Latn
+      - content: L
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lipnicky
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: R
-        language: en
-        script: Latn
+      - content: R
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Dubnicka
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: D
-        language: en
-        script: Latn
+      - content: D
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Gasparovsky
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: For the calculation of the photometric parameters of the road lighting
+- content: For the calculation of the photometric parameters of the road lighting
     are needed photometric data of the used luminaires. These data are in the form
     of an intensity table (I-table) which gives the distribution of luminous intensity
     emitted by the luminaire in all relevant directions. A goniophotometer is needed
@@ -79,7 +98,9 @@ abstract:
     data for the calculation. Some new optical systems and some LED luminaires which
     as found by measurement may contain various local extremes in the luminous intensity
     distribution curve.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

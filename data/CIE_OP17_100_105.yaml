@@ -8,70 +8,94 @@ title:
   content: PEDESTRIANS SUPPORT SYSTEM USING VISIBLE LIGHT COMMUNICATION (OP17, 100-105)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/pedestrians-support-system-using-visible-light-communication-op17-100-105?product_id=2016231
+- content: https://www.techstreet.com/cie/standards/pedestrians-support-system-using-visible-light-communication-op17-100-105?product_id=2016231
   type: src
 type: standard
 docid:
-  id: CIE OP17 100-105
+- id: CIE OP17 100-105
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kitaguchi
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: Y
-        language: en
-        script: Latn
+      - content: Y
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kitani
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Oshiba
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: K
-        language: en
-        script: Latn
+      - content: K
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Morimoto
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The pedestrians' support system were introduced. This system uses a Visible
+- content: The pedestrians' support system were introduced. This system uses a Visible
     Light Communication (VLC) with Light-Emitting Diodes (LEDs) to help people particularly
     with low vision using lights from the illuminated bollards and road studs etc,
     on the streets. In this system, the lights can not only be for illuminating the
@@ -83,7 +107,9 @@ abstract:
     with low vision people and their behaviour observation were also carried out.
     Reflecting the results, more ideas of the use of the system and also system of
     receivers were proposed.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

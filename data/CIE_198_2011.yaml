@@ -8,7 +8,7 @@ title:
   content: Determination of Measurement Uncertainties in Photometry
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-198-2011?product_id=1803487
+- content: https://www.techstreet.com/cie/standards/cie-198-2011?product_id=1803487
   type: src
 type: standard
 docid:
@@ -17,26 +17,32 @@ docid:
 - id: '9783902842008'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2011-07-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2011-07-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This report is a recommendation for the determination of measurement uncertainties associated with the values of selected quantities in photometry. The report explains the steps from the initial procedures for a measurement of input quantities to a final statement of the output values with associated expanded uncertainties. The main part summarises the fundamental definitions for the evaluation of standard, combined and expanded uncertainties following the rules in the internationally agreed "Guide to the Expression of Uncertainty in Measurements" (GUM) and its supplement 1. In conjunction with this report supplements, with a wide selection of examples, provide guidance on how to model measurement procedures in a measurement equation, combine uncertainties in a budget and convert to the presentation of expanded uncertainty.
 
     The publication is written in English, with a short summary in French and German. It consists of 30 pages with 3 figures and 2 tables.
 
     The report is supplemented by the publication CIE 198-SP1 Determination of Measurement Uncertainties in Photometry - Modules and Examples for the Determination of Measurement Uncertainties, which is divided into 4 parts. (Furthermore links to an Excel workbook and a Mathematica program for the detailed examples explained in Part 2 of the Supplement are made available in connection with the Supplement.)
     Further Supplements are to follow.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

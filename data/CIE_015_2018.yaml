@@ -8,7 +8,7 @@ title:
   content: Colorimetry, 4th edition
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-015-2018?product_id=2025773
+- content: https://www.techstreet.com/cie/standards/cie-015-2018?product_id=2025773
   type: src
 type: standard
 docid:
@@ -17,20 +17,24 @@ docid:
 - id: '9783902842138'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2018-10-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 edition: '4'
 revdate: '2018-10-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This publication provides the recommendations of the CIE concerning colorimetry. Specifically, it includes the use of the standard colorimetric observers and standard illuminants, the reference standard for reflectance, the illuminating and viewing conditions, the calculation of tristimulus values, chromaticity coordinates, colour space coordinates and colour differences and various other colorimetric practices and formulae.
 
     As a new feature, the publication also includes further details of advanced colorimetry, including colour appearance models, and new findings on cone-fundamental-based tristimulus functions, with appropriate references to other CIE publications. Additionally, new illuminants for different LED types are introduced.
@@ -43,11 +47,13 @@ abstract:
     This report replaces CIE 15:2004 "Colorimetry, 3rd Edition".
 
     The publication is written in English, with a short summary in French and German. It consists of 111 pages with one figure and 26 tables.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     id: CIE015-2004
     title:
@@ -58,13 +64,13 @@ relation:
       content: Colorimetry, 3rd edition
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-015-2004?product_id=1210118
+    - content: https://www.techstreet.com/cie/standards/cie-015-2004?product_id=1210118
       type: src
     docid:
-      id: CIE 015:2004
+    - id: CIE 015:2004
       type: CIE
     date:
-      type: published
+    - type: published
       value: '2004-01-01'
     revdate: '2004-01-01'
 doctype: document

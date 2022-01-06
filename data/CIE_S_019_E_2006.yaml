@@ -8,7 +8,7 @@ title:
   content: Photocarcinogenesis Action Spectrum (Non-Melanoma Skin Cancers)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-s-019-e-2006-iso-28077-2006?product_id=1527905
+- content: https://www.techstreet.com/cie/standards/cie-s-019-e-2006-iso-28077-2006?product_id=1527905
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: ISO 28077:2006
   type: ISO
 date:
-  type: published
+- type: published
   value: '2007-09-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2007-09-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     Solar ultraviolet radiation is recognized as a major cause of non-melanoma skin
     cancer in man. Skin cancer occurs most frequently in the most heavily exposed
     areas and correlates with degree of outdoor exposure. Describing the relationship of
@@ -40,11 +44,13 @@ abstract:
     human skin. The experimental data are sufficient for estimating effectiveness down to
     about 250 nm, but experimental data are not sufficient for specifying effectiveness
     above 400 nm.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 relation:
-  type: updates
+- type: updates
   bibitem:
     id: CIEISO28077-2016
     title:
@@ -55,13 +61,13 @@ relation:
       content: Photocarcinogenesis Action Spectrum (Non-Melanoma Skin Cancers)
       format: text/plain
     link:
-      content: https://www.techstreet.com/cie/standards/cie-iso-28077-2016?product_id=1983057
+    - content: https://www.techstreet.com/cie/standards/cie-iso-28077-2016?product_id=1983057
       type: src
     docid:
-      id: CIE ISO 28077:2016
+    - id: CIE ISO 28077:2016
       type: CIE
     date:
-      type: published
+    - type: published
       value: '2017-06-01'
     revdate: '2017-06-01'
 doctype: document

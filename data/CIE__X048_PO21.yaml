@@ -12,59 +12,78 @@ title:
     BASICS FOR A PYTHON-BASED ANALYSIS FRAMEWORKE
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-po21?product_id=2240833
+- content: https://www.techstreet.com/cie/standards/cie-x048-po21?product_id=2240833
   type: src
 type: standard
 docid:
-  id: CIE  x048-PO21
+- id: CIE  x048-PO21
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       forename:
-        content: Schneider
-        language: en
-        script: Latn
+      - content: Schneider
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Philipp
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Gerloff
-        language: en
-        script: Latn
+      - content: Gerloff
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Thorsten
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Sperling
-        language: en
-        script: Latn
+      - content: Sperling
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Armin
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: In this contribution a framework is presented that aims to help for handling
+- content: In this contribution a framework is presented that aims to help for handling
     correlations within measurement uncertainty calculations for spectral quantities.
     Taking correlations for spectral quantities into account is necessary as they
     directly influence the measurement uncertainties especially for integral quantities.
@@ -76,7 +95,9 @@ abstract:
     and spectroradiometry at PTB to calculate the results and associated measurement
     uncertainty for spectral irradiance, spectral irradiance responsivity and luminous
     responsivity based on spectral calibrations.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -10,48 +10,62 @@ title:
     Pages 230-235)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/influence-of-different-room-surface-colours-on-the-melanopic-factor-po07-pages-230-235?product_id=1941837
+- content: https://www.techstreet.com/cie/standards/influence-of-different-room-surface-colours-on-the-melanopic-factor-po07-pages-230-235?product_id=1941837
   type: src
 type: standard
 docid:
-  id: CIE x043-PO07
+- id: CIE x043-PO07
   type: CIE
 date:
-  type: published
+- type: published
   value: '2016-09-01'
 contributor:
 - person:
     name:
       initial:
-        content: S
-        language: en
-        script: Latn
+      - content: S
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Knoche
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: R
-        language: en
-        script: Latn
+      - content: R
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kirsch
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-09-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This work investigates the impact of different room surface colours on
+- content: This work investigates the impact of different room surface colours on
     the melanopic effectiveness of an office lighting installation. Two different
     LED spectra were weighted with the spectral reflectance function of different
     colours. The resulting spectra were then analysed regarding the impact on the
@@ -62,7 +76,9 @@ abstract:
     the melanopic effectiveness. As expected, the results showed a strong dependency
     on the absolute values of illuminance but also on the colour of walls and ceiling
     in combination with their overall reflectance.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

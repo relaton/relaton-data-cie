@@ -8,7 +8,7 @@ title:
   content: Indoor Daylight Illuminants
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-184-2009?product_id=1601628
+- content: https://www.techstreet.com/cie/standards/cie-184-2009?product_id=1601628
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783901906749'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2009-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2009-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     The CIE recommended daylight illuminants in 1967. These daylight illuminants
     contained ultraviolet radiation in proportions as found in natural outdoor daylight.
     Indoors this daylight is filtered by the transmission of the window glass; therefore it
@@ -41,7 +45,9 @@ abstract:
     correlated colour temperature. Tables of the spectra are provided at 5 nm intervals
     from 300 nm to 780 nm, along with the rationale for their development and detailed
     comparison with existing daylight illuminants.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

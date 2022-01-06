@@ -10,48 +10,62 @@ title:
     DETECTION BASED LIGHTING ADAPTATION
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-wp02?product_id=2240870
+- content: https://www.techstreet.com/cie/standards/cie-x048-wp02?product_id=2240870
   type: src
 type: standard
 docid:
-  id: CIE x048-WP02
+- id: CIE x048-WP02
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
-        content: D
-        language: en
-        script: Latn
+      - content: D
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Gasparovsky
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: P
-        language: en
-        script: Latn
+      - content: P
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Janiga
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Amongst many road lighting design criteria, energy performance plays an
+- content: Amongst many road lighting design criteria, energy performance plays an
     important role as it has a direct link to operational costs, potential reduction
     of carbon dioxide emissions, mitigation of obtrusive light, and its impact on
     the night-time environment in urban and con-urban settlements. The energy energy
@@ -63,7 +77,9 @@ abstract:
     this assessment system. Essential part of this paper is focusing on assessment
     of the performance for traffic intensity and traffic detection based lighting
     adaptation.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

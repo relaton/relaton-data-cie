@@ -10,70 +10,94 @@ title:
     TO HUMAN CENTRIC LIGHTING
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-po49?product_id=2240856
+- content: https://www.techstreet.com/cie/standards/cie-x048-po49?product_id=2240856
   type: src
 type: standard
 docid:
-  id: CIE x048-PO49
+- id: CIE x048-PO49
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       forename:
-        content: Boos
-        language: en
-        script: Latn
+      - content: Boos
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Georgy
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Budak
-        language: en
-        script: Latn
+      - content: Budak
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Vladimir
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Ilyina
-        language: en
-        script: Latn
+      - content: Ilyina
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ekaterina
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Meshkova
-        language: en
-        script: Latn
+      - content: Meshkova
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Tatyana
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Currently, programs for lighting calculation based on computer graphics
+- content: Currently, programs for lighting calculation based on computer graphics
     (CG) allows us to move to a fundamentally new approach to a assessing the quality
     of lighting. A designing based on illuminance can be complement with designing
     based on synthetic images or on lighting design. Modern CG programs can calculate
@@ -85,7 +109,9 @@ abstract:
     of luminance for each sensation can be a fundament of new criterion. The article
     offers the method of construction the map for each sensation using the example
     of «discomfort» and «unpleasant» maps that can easily applied in programs.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

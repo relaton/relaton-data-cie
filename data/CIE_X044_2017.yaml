@@ -10,7 +10,7 @@ title:
     the CIE Midterm Meeting 2017
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x044-2017?product_id=2002336
+- content: https://www.techstreet.com/cie/standards/cie-x044-2017?product_id=2002336
   type: src
 type: standard
 docid:
@@ -19,19 +19,23 @@ docid:
 - id: '9783901906954'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     In October 2017 CIE held its Midterm Meeting in Jeju, Republic of Korea. The meeting
     was accompanied by a 3-days conference on the subject "Smarter Lighting for Better
     Life". In 5 invited presentations, 57 oral presentations, 49 presented posters, 61
@@ -43,7 +47,9 @@ abstract:
 
     The Proceedings of this Conference consist of 1215 pages including 158 papers of
     oral and poster presentations.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

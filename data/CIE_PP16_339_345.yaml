@@ -10,70 +10,94 @@ title:
     ILMD (PP16, 339-345)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/main-uncertainty-contribution-factors-analysis-of-glare-measurement-using-ilmd-pp16-339-345?product_id=2016262
+- content: https://www.techstreet.com/cie/standards/main-uncertainty-contribution-factors-analysis-of-glare-measurement-using-ilmd-pp16-339-345?product_id=2016262
   type: src
 type: standard
 docid:
-  id: CIE PP16 339-345
+- id: CIE PP16 339-345
   type: CIE
 date:
-  type: published
+- type: published
   value: '2018-05-01'
 contributor:
 - person:
     name:
       forename:
-        content: Qian
-        language: en
-        script: Latn
+      - content: Qian
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Li
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Cong
-        language: en
-        script: Latn
+      - content: Cong
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Chen
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Xiaoni
-        language: en
-        script: Latn
+      - content: Xiaoni
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Li
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Jiangen
-        language: en
-        script: Latn
+      - content: Jiangen
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Pan
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Variety models of glare indices have been set up or are being studied by
+- content: Variety models of glare indices have been set up or are being studied by
     CIE. However, the lacking of guidance or standards in the aspect of the physical
     measurement hinders the wide application and comparison of the glare indices.
     At present, ILMD is internationally recognized as a good solution for glare measurement,
@@ -83,7 +107,9 @@ abstract:
     to the measurement uncertainty of glare indices, and the requirements of an ILMD
     can therefore be proposed properly so as to acquire acceptable accuracy of glare
     indices.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -12,65 +12,88 @@ title:
      (PP46, 776-785)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/pupillary-light-reflex-and-receptive-field-calculation-of-visual-discomfort-for-different-spatial-frequencies-and-luminance-steps-pp46-776-785?product_id=2011375
+- content: https://www.techstreet.com/cie/standards/pupillary-light-reflex-and-receptive-field-calculation-of-visual-discomfort-for-different-spatial-frequencies-and-luminance-steps-pp46-776-785?product_id=2011375
   type: src
 type: standard
 docid:
-  id: CIE PP46 776-785
+- id: CIE PP46 776-785
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
       - content: G
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: H
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Scheir
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: P
-        language: en
-        script: Latn
+      - content: P
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Hanselaer
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: W
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: R
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ryckaert
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Light sources causing annoyance or pain produce discomfort glare. Traditional
+- content: Light sources causing annoyance or pain produce discomfort glare. Traditional
     glare metrics are merely empirical and fail for non-uniform luminaires. By incorporating
     the centre-surround receptive field mechanism, the pupillary light reflex and
     a position index correction per pixel, a more physiologically justified model
@@ -82,7 +105,9 @@ abstract:
     9 non-uniform rear projected stimuli with different spatial frequencies and luminance
     steps. With a coefficient of determination of 0.90, the model is a promising alternative
     to current glare metrics, especially when non-uniform luminaires are to be evaluated.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

@@ -10,110 +10,152 @@ title:
     SCHOOLS, UNIVERSITIES AND INDUSTRY BUILDINGS, A CROSS COUNTRY STUDY
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-po38?product_id=2240846
+- content: https://www.techstreet.com/cie/standards/cie-x048-po38?product_id=2240846
   type: src
 type: standard
 docid:
-  id: CIE x048-PO38
+- id: CIE x048-PO38
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       forename:
-        content: Szybinska
-        language: en
-        script: Latn
+      - content: Szybinska
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Barbara
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Sergio
-        language: en
-        script: Latn
+      - content: Sergio
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Matusiak
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Justyna
-        language: en
-        script: Latn
+      - content: Justyna
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Sibilio
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Marzieh
-        language: en
-        script: Latn
+      - content: Marzieh
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Martyniuk-Peczek
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Giovanni
-        language: en
-        script: Latn
+      - content: Giovanni
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Nazari
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Natalia
-        language: en
-        script: Latn
+      - content: Natalia
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ciampi
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       forename:
-        content: Marta
-        language: en
-        script: Latn
+      - content: Marta
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Sokol
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       surname:
         content: Waczynska
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The paper presents a registration of occupancy and the use of (day)light
+- content: The paper presents a registration of occupancy and the use of (day)light
     in four buildings representing respectively offices, primary schools, universities,
     and industry buildings; it was done across Europe in 2020. A self-registration
     method was used, assisted with light technical measurements outdoors and indoors.
@@ -126,7 +168,9 @@ abstract:
     electric light happens accordingly, but the pattern is not consistent. In general,
     the changes in the electrical lighting use follow the occupancy pattern, not the
     light levels. 
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

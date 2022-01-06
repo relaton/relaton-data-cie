@@ -10,7 +10,7 @@ title:
     and LED Modules Test Standard
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x041-2016?product_id=1909905
+- content: https://www.techstreet.com/cie/standards/cie-x041-2016?product_id=1909905
   type: src
 type: standard
 docid:
@@ -19,25 +19,31 @@ docid:
 - id: '9783902842282'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '2015-11-26'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-11-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This CIE Expert Symposium was organized by CIE Division 2 in cooperation
+- content: This CIE Expert Symposium was organized by CIE Division 2 in cooperation
     with the Physikalisch-Technische Bundesanstalt PTB and CIE Central Bureau, and
     was hosted by the PTB at their laboratories in Braunschweig, Germany. The Symposium
     featured contributed papers of leading experts in photometry and radiometry presenting
     facts and recent research related to the CIE International Standard S 025 Test
     Method for LED Lamps, LED Luminaires and LED Modules.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

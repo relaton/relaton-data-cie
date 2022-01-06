@@ -12,73 +12,99 @@ title:
      (PO104,1168-1172)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/revisiting-potential-hazard-of-led-sources-to-cause-blh-in-specific-population-po104-1168-1172?product_id=2011254
+- content: https://www.techstreet.com/cie/standards/revisiting-potential-hazard-of-led-sources-to-cause-blh-in-specific-population-po104-1168-1172?product_id=2011254
   type: src
 type: standard
 docid:
-  id: CIE PO104 1168-1172
+- id: CIE PO104 1168-1172
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: A
-        language: en
-        script: Latn
+      - content: A
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Pons
-        language: en
-        script: Latn
-  role: author
-- person:
-    name:
-      initial:
-        content: J
-        language: en
-        script: Latn
-      surname:
-        content: Campos
-        language: en
-        script: Latn
-  role: author
-- person:
-    name:
-      initial:
-        content: A
-        language: en
-        script: Latn
-      surname:
-        content: Ferrero
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Campos
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
+- person:
+    name:
+      initial:
+      - content: A
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Ferrero
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
+- person:
+    name:
+      initial:
+      - content: J
+        language:
+        - en
+        script:
+        - Latn
       - content: L
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Bris
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Following the strategy in a previous work, we have evaluated the potential
+- content: Following the strategy in a previous work, we have evaluated the potential
     Blue -Light Hazard (BLH) of high colour rendering index LED sources, on people
     whose crystalline lenses have been removed through a surgical procedure to implant
     intraocul ar lenses. Starting from the spectral transmittance of various models
@@ -88,7 +114,9 @@ abstract:
     LED sources on subjects implanted with those IOLs, as compared to the potential
     hazard of the same sources for a person whose crystalline lens has not been removed,
     has been calculated.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

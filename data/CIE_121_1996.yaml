@@ -8,7 +8,7 @@ title:
   content: The photometry and goniophotometry of luminaires
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-121-1996?product_id=1210042
+- content: https://www.techstreet.com/cie/standards/cie-121-1996?product_id=1210042
   type: src
 type: standard
 docid:
@@ -17,19 +17,23 @@ docid:
 - id: '9783900734749'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1996-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1996-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This technical report provides general requirements for the photometry of lamps and luminaires of most types and includes the following information:
 
         * standard test conditions under which the tests should be carried out, with acceptable practical tolerances;
@@ -43,7 +47,9 @@ abstract:
     CIE will publish supplementary reports covering these types of luminaires more specifically.
 
     This Technical Report is written in English with a short summary in French and German. It contains 53 pages, with 5 figures and 3 tables.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

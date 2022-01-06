@@ -10,48 +10,62 @@ title:
     INCLUDING THE COVID-19 PANDEMIC
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op34?product_id=2240785
+- content: https://www.techstreet.com/cie/standards/cie-x048-op34?product_id=2240785
   type: src
 type: standard
 docid:
-  id: CIE x048-OP34
+- id: CIE x048-OP34
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
-        content: B
-        language: en
-        script: Latn
+      - content: B
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Manav
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: E
-        language: en
-        script: Latn
+      - content: E
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Kaymaz
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: In the last years, as a result of environmental concerns, changes in lifestyle
+- content: In the last years, as a result of environmental concerns, changes in lifestyle
     during the COVID-19 crisis, the role of healthy buildings in addition to the main
     lighting design principles are highlighted. Therefore, todays lighting design
     issues include social well-being, mental well-being, and physical well-being more
@@ -60,7 +74,9 @@ abstract:
     study analyses the extended occupancy patterns, daylight availability, and annual
     lighting energy demand through a case study in Bursa, Turkey including the COVID-19
     pandemic scenario.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

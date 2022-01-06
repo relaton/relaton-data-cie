@@ -10,48 +10,62 @@ title:
     OF THE GENERAL V MISMATCH INDEX
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-po20?product_id=2240832
+- content: https://www.techstreet.com/cie/standards/cie-x048-po20?product_id=2240832
   type: src
 type: standard
 docid:
-  id: CIE x048-PO20
+- id: CIE x048-PO20
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
-        content: A
-        language: en
-        script: Latn
+      - content: A
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ferrero
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: A
-        language: en
-        script: Latn
+      - content: A
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Thorseth
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Quality indexes are usually defined for measurement instruments in order
+- content: Quality indexes are usually defined for measurement instruments in order
     to characterize some specific aspect of their performance. The V(A) spectral mismatch
     of photometers is evaluated by the general V(A) mismatch index, f1, whose value
     must be correlated with the average measurement error introduced by this spectral
@@ -64,7 +78,9 @@ abstract:
     of the light sources to be measured. The normalization factor presenting the best
     correlation in all studied cases was obtained by numerically minimizing the value
     of the index instead of by applying an explicit function,  as it is done in f1.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

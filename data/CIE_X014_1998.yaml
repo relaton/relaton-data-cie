@@ -10,7 +10,7 @@ title:
     Technology
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x014-1998?product_id=1210098
+- content: https://www.techstreet.com/cie/standards/cie-x014-1998?product_id=1210098
   type: src
 type: standard
 docid:
@@ -19,19 +19,23 @@ docid:
 - id: '9783900734909'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1998-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1998-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     This Symposium was the third in a series of meetings of colour experts to discuss colour standards for imaging technology and the second to be organized by the CIE. It was a follow-up to the very successful Symposium on the same topic held in Vienna, Austria in 1996. The purpose was again to inform users of imaging technology on new standard methods and to provide international standard-writing organisations with the necessary feedback from the community of imaging technologies on their requirements and needs. The Symposium began with a joint session with the IS&T/SID Fifth Color Imaging Conference and ended with a discussion in which conclusions and action plans were formulated.The goals of the Symposium were:
 
     • to share information on the technical content and status of projects involving the characterisation or definition of the colour of images,
@@ -47,7 +51,9 @@ abstract:
 
     Ample time was included for open discussion. The final Session was an open Session (general discussion and formulatation of some action plans for the future).
     The Proceedings contain on 140 pages the text of the papers read as well as reports on the roundtable discussions.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

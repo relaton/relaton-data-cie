@@ -10,70 +10,94 @@ title:
     WITH DIFFERENT DETECTORS
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op13?product_id=2240689
+- content: https://www.techstreet.com/cie/standards/cie-x048-op13?product_id=2240689
   type: src
 type: standard
 docid:
-  id: CIE x048-OP13
+- id: CIE x048-OP13
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
-        content: T
-        language: en
-        script: Latn
+      - content: T
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Gerloff
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: L
-        language: en
-        script: Latn
+      - content: L
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ulm
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: P
-        language: en
-        script: Latn
+      - content: P
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Sperfeld
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: A
-        language: en
-        script: Latn
+      - content: A
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Sperling
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: LED-based lighting products are the fastest developing light sources on
+- content: LED-based lighting products are the fastest developing light sources on
     the general lighting market. These include not only white light sources, but also
     coloured light sources. SI-traceable calibrations with a low measurement uncertainty
     are challenging because their unique spectral and geometric properties must be
@@ -88,7 +112,9 @@ abstract:
     were used for this purpose. Each of these measuring instruments is discussed in
     terms of its suitability for measuring different physical quantities (e.g. array
     spectrometer for measuring illuminance). 
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

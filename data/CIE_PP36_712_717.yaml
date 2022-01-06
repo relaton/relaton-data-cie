@@ -14,87 +14,118 @@ title:
      (PP36, 712-717)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/comparison-of-goniphotometric-methods-for-oled-pp36-712-717?product_id=2011366
+- content: https://www.techstreet.com/cie/standards/comparison-of-goniphotometric-methods-for-oled-pp36-712-717?product_id=2011366
   type: src
 type: standard
 docid:
-  id: CIE PP36 712-717
+- id: CIE PP36 712-717
   type: CIE
 date:
-  type: published
+- type: published
   value: '2017-10-23'
 contributor:
 - person:
     name:
       initial:
-        content: R
-        language: en
-        script: Latn
+      - content: R
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Dubnicka
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: L
-        language: en
-        script: Latn
+      - content: L
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Lipnicky
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: D
-        language: en
-        script: Latn
+      - content: D
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Gasparovsky
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: P
-        language: en
-        script: Latn
+      - content: P
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Csuti
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: F
-        language: en
-        script: Latn
+      - content: F
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Szabo
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This paper deals with investigation of the measurement various methods
+- content: This paper deals with investigation of the measurement various methods
     in goniophotometric measurements using various OLEDs samples with different goniophotometers
     i.e. light source rotating goniophotometer, mirror goniophotometer, near-field
     goniophotometer with imaging photometer, goniophotometer with rotating arm with
     photometer and rotating light source around of OLED's axis. Cooperation between
     testing laboratories having these types of goniophotometers is presented.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

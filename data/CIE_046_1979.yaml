@@ -10,7 +10,7 @@ title:
     reflection standards
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-046-1979?product_id=1209978
+- content: https://www.techstreet.com/cie/standards/cie-046-1979?product_id=1209978
   type: src
 type: standard
 docid:
@@ -19,23 +19,29 @@ docid:
 - id: '9783901906701'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1979-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1979-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     It has long been recognized that more accurate and more reproducible standards are needed for better uniformity and consistency of radiometric, photometric, and colorimetric measurements. Commercial instruments for reflectance measurements are not capable of measuring the reflectance of a sample without a reflectance standard. For this reason, the properties and reflectance values of the latter are of great practical importance. This report contains information and compilation of data on the optical and physical properties of reflectance materials that are widely used as reference standards of reflectance.
 
     The document consists of 99 pages and 4 tables.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

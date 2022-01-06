@@ -10,59 +10,78 @@ title:
     IN LIGHTING DESIGN
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op04?product_id=2240678
+- content: https://www.techstreet.com/cie/standards/cie-x048-op04?product_id=2240678
   type: src
 type: standard
 docid:
-  id: CIE x048-OP04
+- id: CIE x048-OP04
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
-        content: F
-        language: en
-        script: Latn
+      - content: F
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Greffier
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: V
-        language: en
-        script: Latn
+      - content: V
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Muzet
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: V
-        language: en
-        script: Latn
+      - content: V
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Boucher
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Optimising lighting installations reduces energy consumption and stray
+- content: Optimising lighting installations reduces energy consumption and stray
     light while providing optimal visibility conditions for road users. However, the
     origin of the large discrepancies often observed between the design of lighting
     installations and their actual performance remains poorly explained. For the design
@@ -75,7 +94,9 @@ abstract:
     properties deviation are used to compare the calculations. The results highlight
     the importance of measuring the optical properties of pavements and confirm methodological
     guidelines for making representative on-site measurements.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

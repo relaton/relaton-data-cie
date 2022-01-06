@@ -8,59 +8,78 @@ title:
   content: THE ROLE OF DAYLIGHT IN LIBRARY USERS SEAT PREFERENCES
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-x048-op24?product_id=2240706
+- content: https://www.techstreet.com/cie/standards/cie-x048-op24?product_id=2240706
   type: src
 type: standard
 docid:
-  id: CIE x048-OP24
+- id: CIE x048-OP24
   type: CIE
 date:
-  type: published
+- type: published
   value: '2021-09-29'
 contributor:
 - person:
     name:
       initial:
-        content: G
-        language: en
-        script: Latn
+      - content: G
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Izmir Tunahan
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: H
-        language: en
-        script: Latn
+      - content: H
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Altamirano
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: J
-        language: en
-        script: Latn
+      - content: J
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Unwin Teji
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Seating that meets the needs and preferences of students can promote a
+- content: Seating that meets the needs and preferences of students can promote a
     longer stay in libraries and keep students motivated, which in turn influences
     their emotions and learning abilities. However, existing knowledge on the interaction
     between daylighting and seating preferences is limited. This study aims to understand
@@ -75,7 +94,9 @@ abstract:
     daylight. Future research should involve individual perception in addition to
     occupancy monitoring data, considering daylight conditions together with other
     components such as privacy, outdoor views, and quietness.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

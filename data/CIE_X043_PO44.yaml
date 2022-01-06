@@ -10,62 +10,83 @@ title:
     (PO44, Pages 427-431)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/convolution-and-deconvolution-of-bsdf-data-to-enable-inter-instrument-comparison-po44-pages-427-431?product_id=1941866
+- content: https://www.techstreet.com/cie/standards/convolution-and-deconvolution-of-bsdf-data-to-enable-inter-instrument-comparison-po44-pages-427-431?product_id=1941866
   type: src
 type: standard
 docid:
-  id: CIE x043-PO44
+- id: CIE x043-PO44
   type: CIE
 date:
-  type: published
+- type: published
   value: '2016-09-01'
 contributor:
 - person:
     name:
       initial:
-        content: J
-        language: en
-        script: Latn
+      - content: J
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Audenaert
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: P
-        language: en
-        script: Latn
+      - content: P
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Hanselaer
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: F
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: B
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Leloup
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-09-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Surface scattering properties are fully described and defined by the bidirectional
+- content: Surface scattering properties are fully described and defined by the bidirectional
     scatter distribution function (BSDF), which encompasses both the bidirectional
     reflectance distribution function (BRDF) as well as the bidirectional transmittance
     distribution function (BTDF). Due to the lack of any standardization with regard
@@ -75,7 +96,9 @@ abstract:
     variations. In this paper a method to transform measured BSDF data is proposed
     in order to enable a comparison between the BSDF data as obtained with different
     measurement devices.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

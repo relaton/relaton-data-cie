@@ -8,7 +8,7 @@ title:
   content: Glare and Uniformity in Road Lighting Installations
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/cie-031-1976?product_id=1209968
+- content: https://www.techstreet.com/cie/standards/cie-031-1976?product_id=1209968
   type: src
 type: standard
 docid:
@@ -17,23 +17,29 @@ docid:
 - id: '9783901906671'
   type: ISBN
 date:
-  type: published
+- type: published
   value: '1976-01-01'
 contributor:
-  organization:
-    name: Commission Internationale de L'Eclairage
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '1976-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: |-
+- content: |-
     Glare in road lighting is distinguished as discomfort and disability glare. Discomfort glare is quantitatively described by a glare control mark which can be calculated from the photometric and geometric quantities of a lighting installation. The evaluation of disability glare is based upon the Holladay formula and expressed by calculating the increment in the threshold of detection of the luminance difference between a relevant object and the road surface. The uniformity of the road surface luminance is characterized by the overall uniformity and the longitudinal uniformity.
 
     The publication contains 26 pages and 5 figures.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document

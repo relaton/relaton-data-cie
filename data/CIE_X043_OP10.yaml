@@ -10,98 +10,136 @@ title:
     (OP10, Pages 51-59)
   format: text/plain
 link:
-  content: https://www.techstreet.com/cie/standards/multi-angle-colour-characterization-of-coatings-with-diffraction-pigments-op10-pages-51-59?product_id=1941812
+- content: https://www.techstreet.com/cie/standards/multi-angle-colour-characterization-of-coatings-with-diffraction-pigments-op10-pages-51-59?product_id=1941812
   type: src
 type: standard
 docid:
-  id: CIE x043-OP10
+- id: CIE x043-OP10
   type: CIE
 date:
-  type: published
+- type: published
   value: '2016-09-01'
 contributor:
 - person:
     name:
       initial:
-        content: A
-        language: en
-        script: Latn
+      - content: A
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Ferrero
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
-        content: B
-        language: en
-        script: Latn
+      - content: B
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Bernad
-        language: en
-        script: Latn
-  role: author
-- person:
-    name:
-      initial:
-        content: J
-        language: en
-        script: Latn
-      surname:
-        content: Campos
-        language: en
-        script: Latn
-  role: author
-- person:
-    name:
-      initial:
-        content: E
-        language: en
-        script: Latn
-      surname:
-        content: Perales
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: J
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Campos
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
+- person:
+    name:
+      initial:
+      - content: E
+        language:
+        - en
+        script:
+        - Latn
+      surname:
+        content: Perales
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
+- person:
+    name:
+      initial:
+      - content: J
+        language:
+        - en
+        script:
+        - Latn
       - content: L
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Velazquez
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - person:
     name:
       initial:
       - content: F
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       - content: M
-        language: en
-        script: Latn
+        language:
+        - en
+        script:
+        - Latn
       surname:
         content: Martinez-Verdu
-        language: en
-        script: Latn
-  role: author
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
 - organization:
-    name: Commission Internationale de L'Eclairage
+    name:
+    - Commission Internationale de L'Eclairage
     abbreviation: CIE
     url: cie.co.at
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-09-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The reflectance properties of coatings with effect pigments result in a
+- content: The reflectance properties of coatings with effect pigments result in a
     quite strange colour sensation for humans. The colour of effect pigments is caused
     by anisotropic optical processes like low-order scattering, interference, or diffraction.
     This work specifically deals with the reflectance characterization of effect coatings
@@ -115,7 +153,9 @@ abstract:
     spectral BRDF can be represented by basic functions, which depend on either the
     wavelength or on the proposed geometrical variable. Finally, the chromatic analysis
     of the studied coatings was discussed.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 doctype: document
