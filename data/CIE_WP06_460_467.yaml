@@ -20,6 +20,7 @@ type: standard
 docid:
 - id: CIE WP06 460-467
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2017-10-23'

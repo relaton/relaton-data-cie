@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: CIE x048-PO11
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2021-09-29'

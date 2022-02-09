@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: CIE x035:2010
   type: CIE
+  primary: true
 - id: '978390906831'
   type: ISBN
 date:

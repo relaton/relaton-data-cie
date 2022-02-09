@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: CIE S004/E-2001
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2001-01-01'
@@ -73,6 +74,7 @@ relation:
     docid:
     - id: CIE 107-1994
       type: CIE
+      primary: true
     date:
     - type: published
       value: '1994-01-01'

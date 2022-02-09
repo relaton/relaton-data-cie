@@ -19,6 +19,7 @@ type: standard
 docid:
 - id: CIE S 016/E:2005
   type: CIE
+  primary: true
 - id: ISO 8995-3:2006
   type: ISO
 date:
@@ -72,6 +73,7 @@ relation:
     docid:
     - id: ISO/CIE 8995-3:2018
       type: CIE
+      primary: true
     date:
     - type: published
       value: '2019-02-01'

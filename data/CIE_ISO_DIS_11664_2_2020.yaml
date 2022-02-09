@@ -17,6 +17,7 @@ type: standard
 docid:
 - id: CIE ISO DIS 11664-2:2020
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2020-02-01'

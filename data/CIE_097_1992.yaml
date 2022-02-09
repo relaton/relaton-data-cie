@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: CIE 097-1992
   type: CIE
+  primary: true
 date:
 - type: published
   value: '1992-01-01'
@@ -55,6 +56,7 @@ relation:
     docid:
     - id: CIE 097-2005
       type: CIE
+      primary: true
     date:
     - type: published
       value: '2005-12-01'

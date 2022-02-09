@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: CIE S 007/E-1998
   type: CIE
+  primary: true
 - id: ISO 17166:1999
   type: ISO
 date:
@@ -69,6 +70,7 @@ relation:
     docid:
     - id: ISO/CIE 17166:2019
       type: CIE
+      primary: true
     date:
     - type: published
       value: '2019-05-01'

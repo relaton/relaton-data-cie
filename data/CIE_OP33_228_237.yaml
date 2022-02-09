@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: CIE OP33 228-237
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2017-10-23'

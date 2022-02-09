@@ -17,6 +17,7 @@ type: standard
 docid:
 - id: CIE S 006.1/E-1998
   type: CIE
+  primary: true
 - id: ISO 16508:1999
   type: ISO
 date:
@@ -70,6 +71,7 @@ relation:
     docid:
     - id: CIE 079-1988
       type: CIE
+      primary: true
     date:
     - type: published
       value: '1988-01-01'
@@ -90,6 +92,7 @@ relation:
     docid:
     - id: CIE 048-1980
       type: CIE
+      primary: true
     date:
     - type: published
       value: '1980-01-01'

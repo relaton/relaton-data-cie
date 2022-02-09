@@ -17,6 +17,7 @@ type: standard
 docid:
 - id: CIE S 014-4/E2007
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2007-09-01'
@@ -80,6 +81,7 @@ relation:
     docid:
     - id: ISO/CIE 11664-4:2019
       type: CIE
+      primary: true
     date:
     - type: published
       value: '2019-07-01'
@@ -103,6 +105,7 @@ relation:
     docid:
     - id: CIE S 014-4/E:2007 (ISO 11664-4:2008)
       type: CIE
+      primary: true
     date:
     - type: published
       value: '2008-12-01'

@@ -20,6 +20,7 @@ type: standard
 docid:
 - id: CIE OP45 318-328
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2017-10-23'

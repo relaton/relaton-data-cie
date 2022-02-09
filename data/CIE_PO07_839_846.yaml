@@ -16,6 +16,7 @@ type: standard
 docid:
 - id: CIE PO07 839-846
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2017-10-23'

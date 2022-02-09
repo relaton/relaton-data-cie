@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: CIE S013/E:2003
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2003-01-01'

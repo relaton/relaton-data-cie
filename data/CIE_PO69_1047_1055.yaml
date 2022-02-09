@@ -18,6 +18,7 @@ type: standard
 docid:
 - id: CIE PO69 1047-1055
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2017-10-23'

@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: CIE S 020/E:2007
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2007-02-01'
@@ -67,6 +68,7 @@ relation:
     docid:
     - id: CIE S 020/E:2007 (ISO 30061:2007)
       type: CIE
+      primary: true
     date:
     - type: published
       value: '2008-06-01'

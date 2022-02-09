@@ -19,6 +19,7 @@ type: standard
 docid:
 - id: CIE x043-OP06
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2016-09-01'

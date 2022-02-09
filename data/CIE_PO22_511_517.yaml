@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: CIE PO22 511-517
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2018-05-01'

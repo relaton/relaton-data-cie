@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: CIE 140-2000
   type: CIE
+  primary: true
 - id: '9783901906541'
   type: ISBN
 date:
@@ -61,6 +62,7 @@ relation:
     docid:
     - id: CIE 140:2019
       type: CIE
+      primary: true
     date:
     - type: published
       value: '2019-02-01'

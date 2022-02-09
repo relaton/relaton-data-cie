@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: CIE S009/D:2002
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2002-01-01'
@@ -59,6 +60,7 @@ relation:
     docid:
     - id: CIE S 009 / E:2002 / IEC 62471:2006
       type: CIE
+      primary: true
     date:
     - type: published
       value: '2007-07-01'

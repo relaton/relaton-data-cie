@@ -20,6 +20,7 @@ type: standard
 docid:
 - id: CIE OP40 294-302
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2017-10-23'

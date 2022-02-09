@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: CIE DIS 025-SP1/E:2019
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2019-03-01'
@@ -63,6 +64,7 @@ relation:
     docid:
     - id: CIE S 025-SP1/E:2019
       type: CIE
+      primary: true
     date:
     - type: published
       value: '2019-11-01'

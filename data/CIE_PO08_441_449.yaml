@@ -16,6 +16,7 @@ type: standard
 docid:
 - id: CIE PO08 441-449
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2018-05-01'

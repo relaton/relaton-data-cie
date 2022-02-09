@@ -24,6 +24,7 @@ type: standard
 docid:
 - id: CIE PO11 862-865
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2017-10-23'

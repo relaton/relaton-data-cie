@@ -22,6 +22,7 @@ type: standard
 docid:
 - id: CIE PP25 641-648
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2017-10-23'

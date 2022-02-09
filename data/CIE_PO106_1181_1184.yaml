@@ -20,6 +20,7 @@ type: standard
 docid:
 - id: CIE PO106 1181-1184
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2017-10-23'

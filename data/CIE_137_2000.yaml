@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: CIE 137-2000
   type: CIE
+  primary: true
 - id: '9783901906008'
   type: ISBN
 date:

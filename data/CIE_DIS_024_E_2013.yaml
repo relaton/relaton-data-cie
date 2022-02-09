@@ -17,6 +17,7 @@ type: standard
 docid:
 - id: CIE DIS 024/E:2013
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2013-10-01'
@@ -67,6 +68,7 @@ relation:
     docid:
     - id: CIE S 017-SP1/E:2015
       type: CIE
+      primary: true
     date:
     - type: published
       value: '2015-10-01'
@@ -90,6 +92,7 @@ relation:
     docid:
     - id: CIE DIS 024/E:2015
       type: CIE
+      primary: true
     date:
     - type: published
       value: '2015-03-01'

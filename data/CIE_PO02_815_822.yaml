@@ -20,6 +20,7 @@ type: standard
 docid:
 - id: CIE PO02 815-822
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2017-10-23'

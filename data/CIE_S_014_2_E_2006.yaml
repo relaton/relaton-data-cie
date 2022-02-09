@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: CIE S 014-2/E:2006
   type: CIE
+  primary: true
 - id: ISO 11664-2:2007
   type: ISO
 date:
@@ -49,6 +50,7 @@ relation:
     docid:
     - id: CIE S 014-2/E:2006/ISO 11664-2:2007(E)
       type: CIE
+      primary: true
     date:
     - type: published
       value: '2008-12-01'

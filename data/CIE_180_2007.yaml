@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: CIE 180:2007
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2007-10-01'

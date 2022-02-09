@@ -16,6 +16,7 @@ type: standard
 docid:
 - id: CIE D007-1994
   type: CIE
+  primary: true
 date:
 - type: published
   value: '1994-01-01'

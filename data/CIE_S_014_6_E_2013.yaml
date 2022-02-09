@@ -17,6 +17,7 @@ type: standard
 docid:
 - id: CIE S 014-6/E:2013
   type: CIE
+  primary: true
 date:
 - type: published
   value: '2013-02-01'
@@ -65,6 +66,7 @@ relation:
     docid:
     - id: CIE ISO 11664-6:2014
       type: CIE
+      primary: true
     date:
     - type: published
       value: '2014-02-01'
@@ -88,6 +90,7 @@ relation:
     docid:
     - id: CIE DS 014-6/E:2012
       type: CIE
+      primary: true
     date:
     - type: published
       value: '2012-04-30'
