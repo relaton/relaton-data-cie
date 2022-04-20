@@ -80,6 +80,30 @@ relation:
     revdate: '2019-07-01'
 - type: updates
   bibitem:
+    id: ISO/CIE11664-3-2019
+    title:
+    - type: title-main
+      content: Colorimetry
+      format: text/plain
+    - type: title-part
+      content: 'Part 3: CIE tristimulus values'
+      format: text/plain
+    - type: main
+      content: 'Colorimetry - Part 3: CIE tristimulus values'
+      format: text/plain
+    link:
+    - content: https://www.techstreet.com/cie/standards/iso-cie-11664-3-2019?product_id=2075648
+      type: src
+    docid:
+    - id: ISO/CIE 11664-3:2019
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2019-06-01'
+    revdate: '2019-06-01'
+- type: updates
+  bibitem:
     id: CIES014-3/E-2011(ISO11664-3-2012)
     title:
     - type: title-main
@@ -102,4 +126,28 @@ relation:
     - type: published
       value: '2012-05-01'
     revdate: '2012-05-01'
+- type: updates
+  bibitem:
+    id: ISO11664-3-2012
+    title:
+    - type: title-main
+      content: Colorimetry
+      format: text/plain
+    - type: title-part
+      content: 'Part 3: CIE tristimulus values'
+      format: text/plain
+    - type: main
+      content: 'Colorimetry - Part 3: CIE tristimulus values'
+      format: text/plain
+    link:
+    - content: https://www.techstreet.com/cie/standards/iso-11664-3-2012?product_id=1832106
+      type: src
+    docid:
+    - id: ISO 11664-3:2012
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2012-04-15'
+    revdate: '2012-04-15'
 doctype: document

@@ -90,6 +90,54 @@ relation:
     revdate: '2019-07-01'
 - type: updates
   bibitem:
+    id: ISO/CIE11664-4-2019
+    title:
+    - type: title-main
+      content: Colorimetry
+      format: text/plain
+    - type: title-part
+      content: 'Part 4: CIE 1976 L*a*b* colour space'
+      format: text/plain
+    - type: main
+      content: 'Colorimetry - Part 4: CIE 1976 L*a*b* colour space'
+      format: text/plain
+    link:
+    - content: https://www.techstreet.com/cie/standards/iso-cie-11664-4-2019?product_id=2077271
+      type: src
+    docid:
+    - id: ISO/CIE 11664-4:2019
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2019-07-01'
+    revdate: '2019-07-01'
+- type: updates
+  bibitem:
+    id: ISO11664-4-2008
+    title:
+    - type: title-main
+      content: Colorimetry
+      format: text/plain
+    - type: title-part
+      content: 'Part 4: CIE 1976 L*a*b* Colour space'
+      format: text/plain
+    - type: main
+      content: 'Colorimetry - Part 4: CIE 1976 L*a*b* Colour space'
+      format: text/plain
+    link:
+    - content: https://www.techstreet.com/cie/standards/iso-11664-4-2008?product_id=1588251
+      type: src
+    docid:
+    - id: ISO 11664-4:2008
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2008-11-01'
+    revdate: '2008-11-01'
+- type: updates
+  bibitem:
     id: CIES014-4/E2007
     title:
     - type: title-main
