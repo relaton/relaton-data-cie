@@ -55,4 +55,26 @@ abstract:
   script:
   - Latn
   format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: CIE159-2004
+    title:
+    - type: title-main
+      content: 'A colour appearance model for colour management systems: CIECAM02'
+      format: text/plain
+    - type: main
+      content: 'A colour appearance model for colour management systems: CIECAM02'
+      format: text/plain
+    link:
+    - content: https://www.techstreet.com/cie/standards/cie-159-2004?product_id=1210075
+      type: src
+    docid:
+    - id: CIE 159:2004
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2004-01-01'
+    revdate: '2004-01-01'
 doctype: document
