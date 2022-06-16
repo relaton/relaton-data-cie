@@ -1,0 +1,69 @@
+---
+id: CIE250-2022
+title:
+- type: title-main
+  content: Spectroradiometric measurement of optical radiation sources
+  format: text/plain
+- type: main
+  content: Spectroradiometric measurement of optical radiation sources
+  format: text/plain
+link:
+- content: https://www.techstreet.com/cie/standards/cie-250-2022?product_id=2256732
+  type: src
+type: standard
+docid:
+- id: CIE 250:2022
+  type: CIE
+  primary: true
+- id: '9783902842237'
+  type: ISBN
+contributor:
+- organization:
+    name:
+    - Commission Internationale de L'Eclairage
+    abbreviation: CIE
+    url: cie.co.at
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This Technical Report provides basic measurement principles and practical
+    guidance on spectroradiometry of optical radiation sources in the ultraviolet,
+    visible and near-infrared regions of the electromagnetic spectrum in the wavelength
+    range from 200 nm to 2 500 nm.The document primarily deals with spectral measurements
+    of irradiance, radiance, radiant intensity, radiant flux and derivative quantities.
+    The document provides a detailed overview of relevant terminology and basic measurement
+    principles, including those for instrument calibration. It provides practical
+    guidance for identifying, understanding and quantifying relevant measurement uncertainty
+    components.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: CIE063-1984
+    title:
+    - type: title-main
+      content: The spectroradiometric measurement of light sources
+      format: text/plain
+    - type: main
+      content: The spectroradiometric measurement of light sources
+      format: text/plain
+    link:
+    - content: https://www.techstreet.com/cie/standards/cie-063-1984?product_id=1210127
+      type: src
+    docid:
+    - id: CIE 063-1984
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '1984-01-01'
+    revdate: '1984-01-01'
+doctype: document
