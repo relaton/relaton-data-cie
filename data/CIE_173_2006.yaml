@@ -1,12 +1,12 @@
 ---
 id: CIE173-2006
 title:
-- type: title-main
-  content: Tubular Daylight Guidance Systems (Including Erratum 1)
+- content: Tubular Daylight Guidance Systems (Including Erratum 1)
   format: text/plain
-- type: main
-  content: Tubular Daylight Guidance Systems (Including Erratum 1)
+  type: title-main
+- content: Tubular Daylight Guidance Systems (Including Erratum 1)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-173-2006?product_id=1270666
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -50,12 +51,12 @@ relation:
   bibitem:
     id: CIE173-2012
     title:
-    - type: title-main
-      content: Tubular Daylight Guidance Systems (Including Erratum 1)
+    - content: Tubular Daylight Guidance Systems (Including Erratum 1)
       format: text/plain
-    - type: main
-      content: Tubular Daylight Guidance Systems (Including Erratum 1)
+      type: title-main
+    - content: Tubular Daylight Guidance Systems (Including Erratum 1)
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-173-2012?product_id=1840549
       type: src
@@ -67,4 +68,5 @@ relation:
     - type: published
       value: '2012-08-01'
     revdate: '2012-08-01'
+fetched: '2022-08-21'
 doctype: document

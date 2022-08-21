@@ -1,12 +1,12 @@
 ---
 id: CIES014-2/E-2006
 title:
-- type: title-main
-  content: CIE Standard llluminants for Colorimetry
+- content: CIE Standard llluminants for Colorimetry
   format: text/plain
-- type: main
-  content: CIE Standard llluminants for Colorimetry
+  type: title-main
+- content: CIE Standard llluminants for Colorimetry
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-s-014-2-e-2006-iso-11664-2-2007?product_id=1529665
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -38,12 +39,12 @@ relation:
   bibitem:
     id: CIES014-2/E-2006/ISO11664-2-2007(E)
     title:
-    - type: title-main
-      content: CIE Standard llluminants for Colorimetry
+    - content: CIE Standard llluminants for Colorimetry
       format: text/plain
-    - type: main
-      content: CIE Standard llluminants for Colorimetry
+      type: title-main
+    - content: CIE Standard llluminants for Colorimetry
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-s-014-2-e-2006-iso-11664-2-2007-e?product_id=1601626
       type: src
@@ -55,4 +56,5 @@ relation:
     - type: published
       value: '2008-12-01'
     revdate: '2008-12-01'
+fetched: '2022-08-21'
 doctype: document

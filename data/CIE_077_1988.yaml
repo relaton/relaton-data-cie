@@ -1,15 +1,15 @@
 ---
 id: CIE077-1988
 title:
-- type: title-intro
-  content: 'Electric light sources: State of the art'
+- content: 'Electric light sources: State of the art'
   format: text/plain
-- type: title-main
-  content: '1987'
+  type: title-intro
+- content: '1987'
   format: text/plain
-- type: main
-  content: 'Electric light sources: State of the art - 1987'
+  type: title-main
+- content: 'Electric light sources: State of the art - 1987'
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-077-1988?product_id=1210005
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -60,4 +61,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

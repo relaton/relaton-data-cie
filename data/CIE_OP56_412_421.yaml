@@ -1,18 +1,18 @@
 ---
 id: CIEOP56412-421
 title:
-- type: title-main
-  content: |-
+- content: |-
     STUDY ON THE RELATIONSHIP BETWEEN SLEEP QUALITY, PSYCHOLOGICAL AND PHYSICAL DISCOMFORT AND OFFICE LIGHTING: BASED ON A FULL-SCALE SURVEY
 
       (OP56, 412-421)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     STUDY ON THE RELATIONSHIP BETWEEN SLEEP QUALITY, PSYCHOLOGICAL AND PHYSICAL DISCOMFORT AND OFFICE LIGHTING: BASED ON A FULL-SCALE SURVEY
 
       (OP56, 412-421)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/study-on-the-relationship-between-sleep-quality-psychological-and-physical-discomfort-and-office-lighting-based-on-a-full-scale-survey-op56-412-421?product_id=2010527
   type: src
@@ -27,12 +27,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: X
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Jiang
         language:
@@ -43,12 +37,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: X
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Chen
         language:
@@ -59,12 +47,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: X
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Zhang
         language:
@@ -75,8 +57,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -99,4 +82,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

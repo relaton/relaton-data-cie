@@ -1,18 +1,18 @@
 ---
 id: CIEPP33694-703
 title:
-- type: title-main
-  content: |-
+- content: |-
     ANALYTICAL MODELS FOR PHOTO-EMISSION SPECTRA OF SINGLE COLOUR LEDS
 
      (PP33, 694-703)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     ANALYTICAL MODELS FOR PHOTO-EMISSION SPECTRA OF SINGLE COLOUR LEDS
 
      (PP33, 694-703)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/analytical-models-for-photo-emission-spectra-of-single-colour-leds-pp33-694-703?product_id=2011364
   type: src
@@ -27,12 +27,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Schneider
         language:
@@ -43,12 +37,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Young
         language:
@@ -59,8 +47,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -82,4 +71,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

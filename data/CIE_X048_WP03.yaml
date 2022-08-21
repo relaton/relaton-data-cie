@@ -1,15 +1,15 @@
 ---
 id: CIEx048-WP03
 title:
-- type: title-intro
-  content: GENERAL V MISMATCH INDEX
+- content: GENERAL V MISMATCH INDEX
   format: text/plain
-- type: title-main
-  content: HISTORY, CURRENT STATE, NEW IDEAS
+  type: title-intro
+- content: HISTORY, CURRENT STATE, NEW IDEAS
   format: text/plain
-- type: main
-  content: GENERAL V MISMATCH INDEX - HISTORY, CURRENT STATE, NEW IDEAS
+  type: title-main
+- content: GENERAL V MISMATCH INDEX - HISTORY, CURRENT STATE, NEW IDEAS
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-wp03?product_id=2240871
   type: src
@@ -24,12 +24,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: U
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Krüger
         language:
@@ -40,12 +34,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Ferrero
         language:
@@ -56,12 +44,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Thorseth
         language:
@@ -72,12 +54,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Mantela
         language:
@@ -88,12 +64,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Sperling
         language:
@@ -104,8 +74,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -132,4 +103,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

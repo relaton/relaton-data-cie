@@ -1,14 +1,14 @@
 ---
 id: CIEx048-PO43
 title:
-- type: title-main
-  content: 'LUMINOUS ENVIRONMENT IN OFFICE BUILDINGS: QUALITY OF LIGHTING AND USER''S
+- content: 'LUMINOUS ENVIRONMENT IN OFFICE BUILDINGS: QUALITY OF LIGHTING AND USER''S
     OPINION'
   format: text/plain
-- type: main
-  content: 'LUMINOUS ENVIRONMENT IN OFFICE BUILDINGS: QUALITY OF LIGHTING AND USER''S
+  type: title-main
+- content: 'LUMINOUS ENVIRONMENT IN OFFICE BUILDINGS: QUALITY OF LIGHTING AND USER''S
     OPINION'
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-po43?product_id=2242152
   type: src
@@ -23,12 +23,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Bukzem
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Bukzem
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Flávia de Lacerda
         language:
@@ -39,12 +40,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Naves
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Naves
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Cláudia
         language:
@@ -55,12 +57,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Amorim
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Amorim
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: David
         language:
@@ -71,12 +74,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Dantas
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Dantas
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Ayana
         language:
@@ -87,12 +91,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Medeiros
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Medeiros
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: de
         language:
@@ -103,8 +108,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -130,4 +136,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

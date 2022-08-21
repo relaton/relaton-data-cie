@@ -1,16 +1,16 @@
 ---
 id: CIE178-2007
 title:
-- type: title-intro
-  content: Proceedings of the 26th Session of the CIE -- Beijing, China, 4
+- content: Proceedings of the 26th Session of the CIE -- Beijing, China, 4
   format: text/plain
-- type: title-main
-  content: 11 July 2007
+  type: title-intro
+- content: 11 July 2007
   format: text/plain
-- type: main
-  content: Proceedings of the 26th Session of the CIE -- Beijing, China, 4 - 11 July
+  type: title-main
+- content: Proceedings of the 26th Session of the CIE -- Beijing, China, 4 - 11 July
     2007
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-178-2007?product_id=1535725
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -66,4 +67,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

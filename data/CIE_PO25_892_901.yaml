@@ -1,8 +1,7 @@
 ---
 id: CIEPO25892-901
 title:
-- type: title-main
-  content: |-
+- content: |-
     STUDY ON VISIBILITY THRESHOLD CURVE OF CIRCULAR OBJECTS AND VISIBILITY ESTIMATION METHOD USING C-A GRAPH
 
 
@@ -10,8 +9,8 @@ title:
 
      (PO25, 892-901)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     STUDY ON VISIBILITY THRESHOLD CURVE OF CIRCULAR OBJECTS AND VISIBILITY ESTIMATION METHOD USING C-A GRAPH
 
 
@@ -19,6 +18,7 @@ title:
 
      (PO25, 892-901)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/study-on-visibility-threshold-curve-of-circular-objects-and-visibility-estimation-method-using-c-a-graph-po25-892-901?product_id=2011166
   type: src
@@ -33,12 +33,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kato
         language:
@@ -49,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Nakamura
         language:
@@ -65,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kamiguchi
         language:
@@ -81,12 +63,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Iwata
         language:
@@ -97,8 +73,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -123,4 +100,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

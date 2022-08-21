@@ -1,12 +1,12 @@
 ---
 id: CIE055-1983
 title:
-- type: title-main
-  content: Discomfort glare in the interior working environment
+- content: Discomfort glare in the interior working environment
   format: text/plain
-- type: main
-  content: Discomfort glare in the interior working environment
+  type: title-main
+- content: Discomfort glare in the interior working environment
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-055-1983?product_id=1209989
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -45,4 +46,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,14 +1,14 @@
 ---
 id: CIEDIS027-2021
 title:
-- type: title-main
-  content: Photometry of road illumination devices, light signalling devices and retroreflective
+- content: Photometry of road illumination devices, light signalling devices and retroreflective
     devices for road vehicles
   format: text/plain
-- type: main
-  content: Photometry of road illumination devices, light signalling devices and retroreflective
+  type: title-main
+- content: Photometry of road illumination devices, light signalling devices and retroreflective
     devices for road vehicles
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-dis-027-2021?product_id=2243755
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -45,4 +46,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

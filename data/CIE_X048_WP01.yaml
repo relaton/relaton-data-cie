@@ -1,14 +1,14 @@
 ---
 id: CIEx048-WP01
 title:
-- type: title-main
-  content: A HOLISTIC METHOD FOR THE COMMISSIONING AND OPTIMISATION OF ADAPTIVE ROAD
+- content: A HOLISTIC METHOD FOR THE COMMISSIONING AND OPTIMISATION OF ADAPTIVE ROAD
     LIGHTING SYSTEMS USING LABORATORY AND FIELD MEASUREMENTS
   format: text/plain
-- type: main
-  content: A HOLISTIC METHOD FOR THE COMMISSIONING AND OPTIMISATION OF ADAPTIVE ROAD
+  type: title-main
+- content: A HOLISTIC METHOD FOR THE COMMISSIONING AND OPTIMISATION OF ADAPTIVE ROAD
     LIGHTING SYSTEMS USING LABORATORY AND FIELD MEASUREMENTS
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-wp01?product_id=2240869
   type: src
@@ -23,17 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Bouroussis
         language:
@@ -44,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: D
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Gasparovsky
         language:
@@ -60,8 +43,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -88,4 +72,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

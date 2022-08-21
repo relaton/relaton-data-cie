@@ -1,18 +1,18 @@
 ---
 id: CIEPP21611-621
 title:
-- type: title-main
-  content: |-
+- content: |-
     DISTRIBUTION OF REFLECTANCE ON WALLS AND CEILINGS AND THEIR INFLUENCE ON LIGHTING PARAMETERS
 
      (PP21, 611-621)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     DISTRIBUTION OF REFLECTANCE ON WALLS AND CEILINGS AND THEIR INFLUENCE ON LIGHTING PARAMETERS
 
      (PP21, 611-621)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/distribution-of-reflectance-on-walls-and-ceilings-and-their-influence-on-lighting-parameters-pp21-611-621?product_id=2011352
   type: src
@@ -27,12 +27,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: D
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Gasparovsky
         language:
@@ -43,12 +37,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Dubnicka
         language:
@@ -59,12 +47,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Raditschova
         language:
@@ -75,8 +57,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -94,4 +77,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

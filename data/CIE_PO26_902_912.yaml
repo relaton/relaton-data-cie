@@ -1,20 +1,20 @@
 ---
 id: CIEPO26902-912
 title:
-- type: title-main
-  content: |-
+- content: |-
     LIGHTING RECOMMENDATIONS OF TYPICAL LIGHT SOURCES ON CHINESE TRADITIONAL HEAVY COLOUR PAINTINGS
 
 
      (PO26, 902-912)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     LIGHTING RECOMMENDATIONS OF TYPICAL LIGHT SOURCES ON CHINESE TRADITIONAL HEAVY COLOUR PAINTINGS
 
 
      (PO26, 902-912)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/lighting-recommendations-of-typical-light-sources-on-chinese-traditional-heavy-colour-paintings-po26-902-912?product_id=2011167
   type: src
@@ -29,12 +29,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: G
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Liu
         language:
@@ -45,12 +39,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Yuan
         language:
@@ -61,12 +49,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Liu
         language:
@@ -77,12 +59,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Dang
         language:
@@ -93,8 +69,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -112,4 +89,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

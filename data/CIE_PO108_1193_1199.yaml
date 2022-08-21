@@ -1,18 +1,18 @@
 ---
 id: CIEPO1081193-1199
 title:
-- type: title-main
-  content: |-
+- content: |-
     IMPROVED SYSTEM AND METHOD FOR ILLUMINATION AND VENTILATION OF AN OPERATING ROOM
 
      (PO108, 1193-1199)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     IMPROVED SYSTEM AND METHOD FOR ILLUMINATION AND VENTILATION OF AN OPERATING ROOM
 
      (PO108, 1193-1199)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/improved-system-and-method-for-illumination-and-ventilation-of-an-operating-room-po108-1193-1199?product_id=2011258
   type: src
@@ -27,17 +27,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Jacobs
         language:
@@ -48,12 +37,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Van Gaever
         language:
@@ -64,12 +47,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Hanselaer
         language:
@@ -80,12 +57,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Vanlanduit
         language:
@@ -96,12 +67,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Rombauts
         language:
@@ -112,12 +77,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Diltoer
         language:
@@ -128,8 +87,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -158,4 +118,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

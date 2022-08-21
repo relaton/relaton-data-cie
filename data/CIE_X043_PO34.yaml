@@ -1,14 +1,14 @@
 ---
 id: CIEx043-PO34
 title:
-- type: title-main
-  content: CORRELATIONS BETWEEN CONCENTRATION OF EFFECT PIGMENTS, OPTICAL MEASUREMENTS
+- content: CORRELATIONS BETWEEN CONCENTRATION OF EFFECT PIGMENTS, OPTICAL MEASUREMENTS
     AND VISUAL ASSESSMENT OF SPARKLE (PO34, Pages 351-356)
   format: text/plain
-- type: main
-  content: CORRELATIONS BETWEEN CONCENTRATION OF EFFECT PIGMENTS, OPTICAL MEASUREMENTS
+  type: title-main
+- content: CORRELATIONS BETWEEN CONCENTRATION OF EFFECT PIGMENTS, OPTICAL MEASUREMENTS
     AND VISUAL ASSESSMENT OF SPARKLE (PO34, Pages 351-356)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/correlations-between-concentration-of-effect-pigments-optical-measurements-and-visual-assessment-of-sparkle-po34-pages-351-356?product_id=1941856
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: O
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Gomez
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: E
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Perales
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: E
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Chorro
         language:
@@ -71,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Viqueira
         language:
@@ -87,17 +63,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: F
-        language:
-        - en
-        script:
-        - Latn
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Martinez-Verdu
         language:
@@ -108,12 +73,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Ferrero
         language:
@@ -124,12 +83,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Campos
         language:
@@ -140,8 +93,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -168,4 +122,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,14 +1,14 @@
 ---
 id: CIEx048-OP11
 title:
-- type: title-main
-  content: EFFECT OF LIGHT SOURCE DISTANCE ON THE DISCRIMINATION AND GLOSS PERCEPTION
+- content: EFFECT OF LIGHT SOURCE DISTANCE ON THE DISCRIMINATION AND GLOSS PERCEPTION
     OF PAPER
   format: text/plain
-- type: main
-  content: EFFECT OF LIGHT SOURCE DISTANCE ON THE DISCRIMINATION AND GLOSS PERCEPTION
+  type: title-main
+- content: EFFECT OF LIGHT SOURCE DISTANCE ON THE DISCRIMINATION AND GLOSS PERCEPTION
     OF PAPER
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-op11?product_id=2240687
   type: src
@@ -23,17 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: X
-        language:
-        - en
-        script:
-        - Latn
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Zhu
         language:
@@ -44,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Inoue
         language:
@@ -60,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Sato
         language:
@@ -76,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Mizokami
         language:
@@ -92,8 +63,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -120,4 +92,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,12 +1,12 @@
 ---
 id: CIETutorialsBundle1
 title:
-- type: title-main
-  content: Bundle for CIE Tutorials on Colorimetry and Visual Appearance
+- content: Bundle for CIE Tutorials on Colorimetry and Visual Appearance
   format: text/plain
-- type: main
-  content: Bundle for CIE Tutorials on Colorimetry and Visual Appearance
+  type: title-main
+- content: Bundle for CIE Tutorials on Colorimetry and Visual Appearance
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-tutorials-bundle-1?product_id=2187311
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -31,4 +32,5 @@ language:
 - en
 script:
 - Latn
+fetched: '2022-08-21'
 doctype: document

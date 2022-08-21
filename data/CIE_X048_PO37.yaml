@@ -1,12 +1,12 @@
 ---
 id: CIEx048-PO37
 title:
-- type: title-main
-  content: AN OVERVIEW OF THE IMPACT OF STRAY LIGHT FROM COMMERCIAL GREENHOUSES
+- content: AN OVERVIEW OF THE IMPACT OF STRAY LIGHT FROM COMMERCIAL GREENHOUSES
   format: text/plain
-- type: main
-  content: AN OVERVIEW OF THE IMPACT OF STRAY LIGHT FROM COMMERCIAL GREENHOUSES
+  type: title-main
+- content: AN OVERVIEW OF THE IMPACT OF STRAY LIGHT FROM COMMERCIAL GREENHOUSES
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-po37?product_id=2240845
   type: src
@@ -21,12 +21,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Bertin
         language:
@@ -37,12 +31,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: G
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Zissis
         language:
@@ -53,12 +41,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: G
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Salas
         language:
@@ -69,17 +51,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Raynham
         language:
@@ -90,12 +61,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Moutsi
         language:
@@ -106,17 +71,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Mucklejohn
         language:
@@ -127,12 +81,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: B
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Preston
         language:
@@ -143,8 +91,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -167,4 +116,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

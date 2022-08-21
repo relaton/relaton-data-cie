@@ -1,14 +1,14 @@
 ---
 id: CIEOP34201-208
 title:
-- type: title-main
-  content: EXPERIMENTAL EVALUATION OF DIFFERENT BRIGHTNESS PERCEPTION MODELS BASED
+- content: EXPERIMENTAL EVALUATION OF DIFFERENT BRIGHTNESS PERCEPTION MODELS BASED
     ON HUMAN PUPIL LIGHT RESPONSES (OP34, 201-208)
   format: text/plain
-- type: main
-  content: EXPERIMENTAL EVALUATION OF DIFFERENT BRIGHTNESS PERCEPTION MODELS BASED
+  type: title-main
+- content: EXPERIMENTAL EVALUATION OF DIFFERENT BRIGHTNESS PERCEPTION MODELS BASED
     ON HUMAN PUPIL LIGHT RESPONSES (OP34, 201-208)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/experimental-evaluation-of-different-brightness-perception-models-based-on-human-pupil-light-responses-op34-201-208?product_id=2016244
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: B
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Zandi
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: X
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Guo
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Bodrogi
         language:
@@ -71,17 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
-      - content: Q
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Khanh
         language:
@@ -92,8 +63,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -121,4 +93,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

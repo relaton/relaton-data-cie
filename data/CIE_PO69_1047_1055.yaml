@@ -1,16 +1,16 @@
 ---
 id: CIEPO691047-1055
 title:
-- type: title-main
-  content: |-
+- content: |-
     STUDY ON THE EFFECT OF LED'S CORRELATED COLOUR TEMPERATURE AND ILLUMINANCE ON  MUSEUM LIGHTING
      (PO69, 1047-1055)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     STUDY ON THE EFFECT OF LED'S CORRELATED COLOUR TEMPERATURE AND ILLUMINANCE ON  MUSEUM LIGHTING
      (PO69, 1047-1055)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/study-on-the-effect-of-led-s-correlated-colour-temperature-and-illuminance-on-museum-lighting-po69-1047-1055?product_id=2011217
   type: src
@@ -25,17 +25,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: L
-        language:
-        - en
-        script:
-        - Latn
-      - content: L
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Dong
         language:
@@ -46,17 +35,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Luo
         language:
@@ -67,12 +45,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: L
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Qin
         language:
@@ -83,12 +55,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: QianQian
         language:
@@ -99,12 +65,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: W
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Stephen
         language:
@@ -115,8 +75,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -134,4 +95,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

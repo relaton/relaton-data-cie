@@ -1,12 +1,12 @@
 ---
 id: CIEPO33584-590
 title:
-- type: title-main
-  content: TRANSMITTANCE HAZE MEASUREMENT FOR HIGH HAZE MATERIALS (PO33, 584-590)
+- content: TRANSMITTANCE HAZE MEASUREMENT FOR HIGH HAZE MATERIALS (PO33, 584-590)
   format: text/plain
-- type: main
-  content: TRANSMITTANCE HAZE MEASUREMENT FOR HIGH HAZE MATERIALS (PO33, 584-590)
+  type: title-main
+- content: TRANSMITTANCE HAZE MEASUREMENT FOR HIGH HAZE MATERIALS (PO33, 584-590)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/transmittance-haze-measurement-for-high-haze-materials-po33-584-590?product_id=2016309
   type: src
@@ -21,12 +21,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Wen-Chun
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Wen-Chun
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Liu
         language:
@@ -37,12 +38,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Hsueh-Ling
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Hsueh-Ling
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Yu
         language:
@@ -53,8 +55,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -79,4 +82,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

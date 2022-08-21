@@ -1,12 +1,12 @@
 ---
 id: CIEx048-PO11
 title:
-- type: title-main
-  content: VISUAL EFFECTS OF OBJECTS UNDER METAMERISM WITH MULTI-SPECTRAL LIGHT SOURCE
+- content: VISUAL EFFECTS OF OBJECTS UNDER METAMERISM WITH MULTI-SPECTRAL LIGHT SOURCE
   format: text/plain
-- type: main
-  content: VISUAL EFFECTS OF OBJECTS UNDER METAMERISM WITH MULTI-SPECTRAL LIGHT SOURCE
+  type: title-main
+- content: VISUAL EFFECTS OF OBJECTS UNDER METAMERISM WITH MULTI-SPECTRAL LIGHT SOURCE
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-po11?product_id=2240825
   type: src
@@ -21,17 +21,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Li
         language:
@@ -42,12 +31,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Fan
         language:
@@ -58,17 +41,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Lin
         language:
@@ -79,17 +51,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
-      - content: U
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Chong
         language:
@@ -100,17 +61,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
-      - content: X
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Lee
         language:
@@ -121,8 +71,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -148,4 +99,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,14 +1,14 @@
 ---
 id: CIEPP12301-308
 title:
-- type: title-main
-  content: INVESTIGATION OF PHYSICAL ENVIRONMENT OF ATRIUMS IN LARGE PUBLIC BUILDINGS
+- content: INVESTIGATION OF PHYSICAL ENVIRONMENT OF ATRIUMS IN LARGE PUBLIC BUILDINGS
     IN BEIJING, TIANJIN AND HEBEI PROVINCE (PP12, 301-308)
   format: text/plain
-- type: main
-  content: INVESTIGATION OF PHYSICAL ENVIRONMENT OF ATRIUMS IN LARGE PUBLIC BUILDINGS
+  type: title-main
+- content: INVESTIGATION OF PHYSICAL ENVIRONMENT OF ATRIUMS IN LARGE PUBLIC BUILDINGS
     IN BEIJING, TIANJIN AND HEBEI PROVINCE (PP12, 301-308)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/investigation-of-physical-environment-of-atriums-in-large-public-buildings-in-beijing-tianjin-and-hebei-province-pp12-301-308?product_id=2016258
   type: src
@@ -23,12 +23,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Chen
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Chen
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Wang
         language:
@@ -39,12 +40,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Mingyu
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Mingyu
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Zhang
         language:
@@ -55,12 +57,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Li
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Li
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Tian
         language:
@@ -71,12 +74,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Juan
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Juan
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Yu
         language:
@@ -87,12 +91,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Yajiang
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Yajiang
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Wang
         language:
@@ -103,8 +108,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -174,4 +180,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

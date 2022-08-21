@@ -1,14 +1,14 @@
 ---
 id: CIEx044-OP02
 title:
-- type: title-main
-  content: USER PERFORMANCE AND PREFERENCE STUDY UNDER VARIOUS PHOTOMETRIC AND COLORIMETRIC
+- content: USER PERFORMANCE AND PREFERENCE STUDY UNDER VARIOUS PHOTOMETRIC AND COLORIMETRIC
     PARAMETERS OF EXISTING LIGHT-EMITTING DIODE LAMPS IN INDONESIA  (OP02, Pages 25-31)
   format: text/plain
-- type: main
-  content: USER PERFORMANCE AND PREFERENCE STUDY UNDER VARIOUS PHOTOMETRIC AND COLORIMETRIC
+  type: title-main
+- content: USER PERFORMANCE AND PREFERENCE STUDY UNDER VARIOUS PHOTOMETRIC AND COLORIMETRIC
     PARAMETERS OF EXISTING LIGHT-EMITTING DIODE LAMPS IN INDONESIA  (OP02, Pages 25-31)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/user-performance-and-preference-study-under-various-photometric-and-colorimetric-parameters-of-existing-light-emitting-diode-lamps-in-indonesia-op02-pages-25-31?product_id=2009458
   type: src
@@ -23,17 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Revantino Mangkuto
         language:
@@ -44,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Enge
         language:
@@ -60,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: F
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Munir
         language:
@@ -76,22 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: F
-        language:
-        - en
-        script:
-        - Latn
-      - content: X
-        language:
-        - en
-        script:
-        - Latn
-      - content: N
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Soelami
         language:
@@ -102,8 +63,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -131,4 +93,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

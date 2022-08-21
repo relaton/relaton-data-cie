@@ -1,14 +1,14 @@
 ---
 id: CIEx048-OP55
 title:
-- type: title-main
-  content: KEEPING THE BENEFIT OF ILMDs HIGH RESOLUTION IN MEASURING LIGHTING QUALITY
+- content: KEEPING THE BENEFIT OF ILMDs HIGH RESOLUTION IN MEASURING LIGHTING QUALITY
     PARAMETERS
   format: text/plain
-- type: main
-  content: KEEPING THE BENEFIT OF ILMDs HIGH RESOLUTION IN MEASURING LIGHTING QUALITY
+  type: title-main
+- content: KEEPING THE BENEFIT OF ILMDs HIGH RESOLUTION IN MEASURING LIGHTING QUALITY
     PARAMETERS
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-op55?product_id=2240807
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Boucher
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Buschmann
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: F
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Greffier
         language:
@@ -71,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Muzet
         language:
@@ -87,12 +63,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Voelker
         language:
@@ -103,8 +73,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -130,4 +101,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

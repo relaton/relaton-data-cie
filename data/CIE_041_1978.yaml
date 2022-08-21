@@ -1,12 +1,12 @@
 ---
 id: CIE041-1978
 title:
-- type: title-main
-  content: 'Light as a true visual quantity: Principles of measurement'
+- content: 'Light as a true visual quantity: Principles of measurement'
   format: text/plain
-- type: main
-  content: 'Light as a true visual quantity: Principles of measurement'
+  type: title-main
+- content: 'Light as a true visual quantity: Principles of measurement'
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-041-1978?product_id=1210141
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -47,4 +48,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

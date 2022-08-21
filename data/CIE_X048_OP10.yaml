@@ -1,12 +1,12 @@
 ---
 id: CIEx048-OP10
 title:
-- type: title-main
-  content: MODELLING OF PERCEPTUAL GLOSS BY PHYSICAL MEASUREMENT OF FLAT SURFACE
+- content: MODELLING OF PERCEPTUAL GLOSS BY PHYSICAL MEASUREMENT OF FLAT SURFACE
   format: text/plain
-- type: main
-  content: MODELLING OF PERCEPTUAL GLOSS BY PHYSICAL MEASUREMENT OF FLAT SURFACE
+  type: title-main
+- content: MODELLING OF PERCEPTUAL GLOSS BY PHYSICAL MEASUREMENT OF FLAT SURFACE
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-op10?product_id=2240686
   type: src
@@ -21,12 +21,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Amari
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Amari
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Shoma
         language:
@@ -37,12 +38,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Tanaka
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Tanaka
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Midori
         language:
@@ -53,12 +55,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Horiuchi
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Horiuchi
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Takahiko
         language:
@@ -69,8 +72,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -98,4 +102,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

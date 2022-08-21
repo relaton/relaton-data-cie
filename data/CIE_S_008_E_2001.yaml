@@ -1,16 +1,16 @@
 ---
 id: CIES008/E-2001
 title:
-- type: title-main
-  content: Lighting of Work Places
+- content: Lighting of Work Places
   format: text/plain
-- type: title-part
-  content: 'Part 1: Indoor [incl. Technical Corrigendum ISO 8995:2002/Cor.1 2005(E)]'
+  type: title-main
+- content: 'Part 1: Indoor [incl. Technical Corrigendum ISO 8995:2002/Cor.1 2005(E)]'
   format: text/plain
-- type: main
-  content: 'Lighting of Work Places - Part 1: Indoor [incl. Technical Corrigendum
+  type: title-part
+- content: 'Lighting of Work Places - Part 1: Indoor [incl. Technical Corrigendum
     ISO 8995:2002/Cor.1 2005(E)]'
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-s-008-e-2001-iso-8995-1-2002?product_id=1529685
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -72,4 +73,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

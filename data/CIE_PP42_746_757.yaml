@@ -1,18 +1,18 @@
 ---
 id: CIEPP42746-757
 title:
-- type: title-main
-  content: |-
+- content: |-
     DISPLAY BASED METHODS FOR INTER-CULTURAL IMAGE QUALITY EVALUATION
 
      (PP42, 746-757)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     DISPLAY BASED METHODS FOR INTER-CULTURAL IMAGE QUALITY EVALUATION
 
      (PP42, 746-757)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/display-based-methods-for-inter-cultural-image-quality-evaluation-pp42-746-757?product_id=2011371
   type: src
@@ -27,12 +27,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Fischer
         language:
@@ -43,12 +37,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Jiang
         language:
@@ -59,17 +47,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
-      - content: Q
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Khanh
         language:
@@ -80,12 +57,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Zhu
         language:
@@ -96,17 +67,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Luo
         language:
@@ -117,8 +77,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -139,4 +100,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

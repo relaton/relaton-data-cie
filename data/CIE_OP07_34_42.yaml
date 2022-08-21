@@ -1,14 +1,14 @@
 ---
 id: CIEOP0734-42
 title:
-- type: title-main
-  content: DEVELOPMENT OF AN AUTONOMOUS SUN-SHADING DEVICE INTEGRATED WITH HIGH EFFICIENT
+- content: DEVELOPMENT OF AN AUTONOMOUS SUN-SHADING DEVICE INTEGRATED WITH HIGH EFFICIENT
     OFFICE LIGHTING (OP07, 34-42)
   format: text/plain
-- type: main
-  content: DEVELOPMENT OF AN AUTONOMOUS SUN-SHADING DEVICE INTEGRATED WITH HIGH EFFICIENT
+  type: title-main
+- content: DEVELOPMENT OF AN AUTONOMOUS SUN-SHADING DEVICE INTEGRATED WITH HIGH EFFICIENT
     OFFICE LIGHTING (OP07, 34-42)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/development-of-an-autonomous-sun-shading-device-integrated-with-high-efficient-office-lighting-op07-34-42?product_id=2016202
   type: src
@@ -23,12 +23,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Han
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Han
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Li
         language:
@@ -39,12 +40,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Tomoko
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Tomoko
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Koga
         language:
@@ -55,12 +57,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Yasuko
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Yasuko
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Koga
         language:
@@ -71,8 +74,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -100,4 +104,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

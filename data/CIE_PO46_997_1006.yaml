@@ -1,16 +1,16 @@
 ---
 id: CIEPO46997-1006
 title:
-- type: title-main
-  content: |-
+- content: |-
     VNISI TEST CENTER IN THE SYSTEM OF QUALITY ASSESSMENT FOR MODERN LIGHTING EQUIPMENT IN RUSSIA
      (PO46, 997-1006)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     VNISI TEST CENTER IN THE SYSTEM OF QUALITY ASSESSMENT FOR MODERN LIGHTING EQUIPMENT IN RUSSIA
      (PO46, 997-1006)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/vnisi-test-center-in-the-system-of-quality-assessment-for-modern-lighting-equipment-in-russia-po46-997-1006?product_id=2011181
   type: src
@@ -25,17 +25,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Bartsev
         language:
@@ -46,17 +35,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
-      - content: I
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Stolyarevskaya
         language:
@@ -67,17 +45,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
-      - content: G
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Shakhparunyants
         language:
@@ -88,8 +55,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -115,4 +83,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

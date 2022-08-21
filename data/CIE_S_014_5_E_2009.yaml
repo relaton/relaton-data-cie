@@ -1,17 +1,17 @@
 ---
 id: CIES014-5/E-2009
 title:
-- type: title-main
-  content: Colorimetry
+- content: Colorimetry
   format: text/plain
-- type: title-part
-  content: 'Part 5: CIE 1976 L*u*v* Colour Space and u'', v'' Uniform Chromaticity
+  type: title-main
+- content: 'Part 5: CIE 1976 L*u*v* Colour Space and u'', v'' Uniform Chromaticity
     Scale Diagram'
   format: text/plain
-- type: main
-  content: 'Colorimetry - Part 5: CIE 1976 L*u*v* Colour Space and u'', v'' Uniform
+  type: title-part
+- content: 'Colorimetry - Part 5: CIE 1976 L*u*v* Colour Space and u'', v'' Uniform
     Chromaticity Scale Diagram'
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-s-014-5-e-2009?product_id=1609731
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -65,17 +66,17 @@ relation:
   bibitem:
     id: CIEISO11664-5-2016
     title:
-    - type: title-main
-      content: Colorimetry
+    - content: Colorimetry
       format: text/plain
-    - type: title-part
-      content: 'Part 5: CIE 1976 L*u*v* Colour Space and u'', v'' Uniform Chromaticity
+      type: title-main
+    - content: 'Part 5: CIE 1976 L*u*v* Colour Space and u'', v'' Uniform Chromaticity
         Scale Diagram'
       format: text/plain
-    - type: main
-      content: 'Colorimetry - Part 5: CIE 1976 L*u*v* Colour Space and u'', v'' Uniform
+      type: title-part
+    - content: 'Colorimetry - Part 5: CIE 1976 L*u*v* Colour Space and u'', v'' Uniform
         Chromaticity Scale Diagram'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-iso-11664-5-2016?product_id=1983056
       type: src
@@ -91,17 +92,17 @@ relation:
   bibitem:
     id: CIES014-5/E-2009(ISO11664-5-2009)
     title:
-    - type: title-main
-      content: Colorimetry
+    - content: Colorimetry
       format: text/plain
-    - type: title-part
-      content: 'Part 5: CIE 1976 L*u*v* Colour Space and u'', v'' Uniform Chromaticity
+      type: title-main
+    - content: 'Part 5: CIE 1976 L*u*v* Colour Space and u'', v'' Uniform Chromaticity
         Scale Diagram'
       format: text/plain
-    - type: main
-      content: 'Colorimetry - Part 5: CIE 1976 L*u*v* Colour Space and u'', v'' Uniform
+      type: title-part
+    - content: 'Colorimetry - Part 5: CIE 1976 L*u*v* Colour Space and u'', v'' Uniform
         Chromaticity Scale Diagram'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-s-014-5-e-2009-iso-11664-5-2009?product_id=1673546
       type: src
@@ -113,4 +114,5 @@ relation:
     - type: published
       value: '2009-12-01'
     revdate: '2009-12-01'
+fetched: '2022-08-21'
 doctype: document

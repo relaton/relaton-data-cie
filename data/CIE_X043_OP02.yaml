@@ -1,12 +1,12 @@
 ---
 id: CIEx043-OP02
 title:
-- type: title-main
-  content: BRIGHTNESS PERCEPTION OF RELATED SELF-LUMINOUS STIMULI (OP02, Pages 8-15)
+- content: BRIGHTNESS PERCEPTION OF RELATED SELF-LUMINOUS STIMULI (OP02, Pages 8-15)
   format: text/plain
-- type: main
-  content: BRIGHTNESS PERCEPTION OF RELATED SELF-LUMINOUS STIMULI (OP02, Pages 8-15)
+  type: title-main
+- content: BRIGHTNESS PERCEPTION OF RELATED SELF-LUMINOUS STIMULI (OP02, Pages 8-15)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/brightness-perception-of-related-self-luminous-stimuli-op02-pages-8-15?product_id=1941805
   type: src
@@ -21,12 +21,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Hermans
         language:
@@ -37,22 +31,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
-      - content: G
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Smet
         language:
@@ -63,12 +41,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Hanselaer
         language:
@@ -79,8 +51,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -104,4 +77,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

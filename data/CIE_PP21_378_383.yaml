@@ -1,14 +1,14 @@
 ---
 id: CIEPP21378-383
 title:
-- type: title-main
-  content: PILOT STUDY ON THE IMPACT OF MESOPIC VISION ON THE PURITY PERCEIVED BY
+- content: PILOT STUDY ON THE IMPACT OF MESOPIC VISION ON THE PURITY PERCEIVED BY
     HUMAN EYES (PP21, 378-383)
   format: text/plain
-- type: main
-  content: PILOT STUDY ON THE IMPACT OF MESOPIC VISION ON THE PURITY PERCEIVED BY
+  type: title-main
+- content: PILOT STUDY ON THE IMPACT OF MESOPIC VISION ON THE PURITY PERCEIVED BY
     HUMAN EYES (PP21, 378-383)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/pilot-study-on-the-impact-of-mesopic-vision-on-the-purity-perceived-by-human-eyes-pp21-378-383?product_id=2016276
   type: src
@@ -23,17 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: L
-        language:
-        - en
-        script:
-        - Latn
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Zhang
         language:
@@ -44,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Q
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Yao
         language:
@@ -60,17 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
-      - content: B
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Wang
         language:
@@ -81,8 +53,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -109,4 +82,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

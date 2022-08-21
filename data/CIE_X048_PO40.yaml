@@ -1,12 +1,12 @@
 ---
 id: CIEx048-PO40
 title:
-- type: title-main
-  content: A REAL-TIME INTEGRATIVE LIGHTING SYSTEM FRAMEWORK BASED ON MACHINE LEARNING
+- content: A REAL-TIME INTEGRATIVE LIGHTING SYSTEM FRAMEWORK BASED ON MACHINE LEARNING
   format: text/plain
-- type: main
-  content: A REAL-TIME INTEGRATIVE LIGHTING SYSTEM FRAMEWORK BASED ON MACHINE LEARNING
+  type: title-main
+- content: A REAL-TIME INTEGRATIVE LIGHTING SYSTEM FRAMEWORK BASED ON MACHINE LEARNING
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-po40?product_id=2240848
   type: src
@@ -21,12 +21,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: D
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Durmus
         language:
@@ -37,8 +31,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -66,4 +61,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

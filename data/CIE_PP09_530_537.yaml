@@ -1,12 +1,12 @@
 ---
 id: CIEPP09530-537
 title:
-- type: title-main
-  content: LASER DRIVEN WHITE LIGHT SOURCE FOR BRDF MEASUREMENT (PP09, 530-537)
+- content: LASER DRIVEN WHITE LIGHT SOURCE FOR BRDF MEASUREMENT (PP09, 530-537)
   format: text/plain
-- type: main
-  content: LASER DRIVEN WHITE LIGHT SOURCE FOR BRDF MEASUREMENT (PP09, 530-537)
+  type: title-main
+- content: LASER DRIVEN WHITE LIGHT SOURCE FOR BRDF MEASUREMENT (PP09, 530-537)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/laser-driven-white-light-source-for-brdf-measurement-pp09-530-537?product_id=2011266
   type: src
@@ -21,12 +21,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Amdemeskel
         language:
@@ -37,12 +31,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Thorseth
         language:
@@ -53,12 +41,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Dam-Hansen
         language:
@@ -69,8 +51,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -88,4 +71,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

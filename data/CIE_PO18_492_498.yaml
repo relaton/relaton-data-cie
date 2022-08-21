@@ -1,14 +1,14 @@
 ---
 id: CIEPO18492-498
 title:
-- type: title-main
-  content: IMPROVEMENT OF THE COLOURFUL UNIFORMITY BY THREE DIFFERENT MEDIUMS OF THE
+- content: IMPROVEMENT OF THE COLOURFUL UNIFORMITY BY THREE DIFFERENT MEDIUMS OF THE
     PACKAGING LENS IN THE WHITE LIGHT LED (PO18, 492-498)
   format: text/plain
-- type: main
-  content: IMPROVEMENT OF THE COLOURFUL UNIFORMITY BY THREE DIFFERENT MEDIUMS OF THE
+  type: title-main
+- content: IMPROVEMENT OF THE COLOURFUL UNIFORMITY BY THREE DIFFERENT MEDIUMS OF THE
     PACKAGING LENS IN THE WHITE LIGHT LED (PO18, 492-498)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/improvement-of-the-colourful-uniformity-by-three-different-mediums-of-the-packaging-lens-in-the-white-light-led-po18-492-498?product_id=2016296
   type: src
@@ -23,17 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Wu
         language:
@@ -44,17 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Ma
         language:
@@ -65,8 +43,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -94,4 +73,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

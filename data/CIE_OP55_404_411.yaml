@@ -1,18 +1,18 @@
 ---
 id: CIEOP55404-411
 title:
-- type: title-main
-  content: |-
+- content: |-
     MEASUREMENT AND EVALUATION OF A DYNAMIC LIGHT SOURCE WITH CLASSROOM AS EMBODIMENT
 
       (OP55, 404-411)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     MEASUREMENT AND EVALUATION OF A DYNAMIC LIGHT SOURCE WITH CLASSROOM AS EMBODIMENT
 
       (OP55, 404-411)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/measurement-and-evaluation-of-a-dynamic-light-source-with-classroom-as-embodiment-op55-404-411?product_id=2010526
   type: src
@@ -27,17 +27,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: Q
-        language:
-        - en
-        script:
-        - Latn
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Hu
         language:
@@ -48,12 +37,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: X
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Mou
         language:
@@ -64,12 +47,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Ye
         language:
@@ -80,12 +57,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Mou
         language:
@@ -96,8 +67,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -115,4 +87,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

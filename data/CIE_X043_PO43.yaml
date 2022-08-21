@@ -1,16 +1,16 @@
 ---
 id: CIEx043-PO43
 title:
-- type: title-main
-  content: 'A CORRECTION METHOD FOR SKIN REFLECTANCE OBTAINED WITH DIFFERENT SPECTROPHOTOMETERS
+- content: 'A CORRECTION METHOD FOR SKIN REFLECTANCE OBTAINED WITH DIFFERENT SPECTROPHOTOMETERS
     AND ITS APPLICATION: LONG-TERM CHANGES IN THE SKIN COLOUR OF JAPANESE FEMALES
     (PO43, Pages 417-426)'
   format: text/plain
-- type: main
-  content: 'A CORRECTION METHOD FOR SKIN REFLECTANCE OBTAINED WITH DIFFERENT SPECTROPHOTOMETERS
+  type: title-main
+- content: 'A CORRECTION METHOD FOR SKIN REFLECTANCE OBTAINED WITH DIFFERENT SPECTROPHOTOMETERS
     AND ITS APPLICATION: LONG-TERM CHANGES IN THE SKIN COLOUR OF JAPANESE FEMALES
     (PO43, Pages 417-426)'
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/a-correction-method-for-skin-reflectance-obtained-with-different-spectrophotometers-and-its-application-long-term-changes-in-the-skin-colour-of-japanese-females-po43-pages-417-426?product_id=1941865
   type: src
@@ -25,12 +25,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kikuchi
         language:
@@ -41,12 +35,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Katagiri
         language:
@@ -57,12 +45,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Yoshikawa
         language:
@@ -73,12 +55,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Mizokami
         language:
@@ -89,12 +65,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Yaguchi
         language:
@@ -105,8 +75,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -133,4 +104,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

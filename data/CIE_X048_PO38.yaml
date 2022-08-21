@@ -1,14 +1,14 @@
 ---
 id: CIEx048-PO38
 title:
-- type: title-main
-  content: LESSONS LEARNED FROM REGISTRATION OF OCCUPANCY AND USE OF LIGHTING IN OFFICES,
+- content: LESSONS LEARNED FROM REGISTRATION OF OCCUPANCY AND USE OF LIGHTING IN OFFICES,
     SCHOOLS, UNIVERSITIES AND INDUSTRY BUILDINGS, A CROSS COUNTRY STUDY
   format: text/plain
-- type: main
-  content: LESSONS LEARNED FROM REGISTRATION OF OCCUPANCY AND USE OF LIGHTING IN OFFICES,
+  type: title-main
+- content: LESSONS LEARNED FROM REGISTRATION OF OCCUPANCY AND USE OF LIGHTING IN OFFICES,
     SCHOOLS, UNIVERSITIES AND INDUSTRY BUILDINGS, A CROSS COUNTRY STUDY
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-po38?product_id=2240846
   type: src
@@ -23,12 +23,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Szybinska
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Szybinska
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Barbara
         language:
@@ -39,12 +40,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Sergio
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Sergio
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Matusiak
         language:
@@ -55,12 +57,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Justyna
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Justyna
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Sibilio
         language:
@@ -71,12 +74,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Marzieh
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Marzieh
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Martyniuk-Peczek
         language:
@@ -87,12 +91,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Giovanni
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Giovanni
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Nazari
         language:
@@ -103,12 +108,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Natalia
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Natalia
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Ciampi
         language:
@@ -119,12 +125,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Marta
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Marta
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Sokol
         language:
@@ -145,8 +152,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -174,4 +182,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

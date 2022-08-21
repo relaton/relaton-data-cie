@@ -1,16 +1,16 @@
 ---
 id: CIEPP43758-763
 title:
-- type: title-main
-  content: |-
+- content: |-
     ANALYSIS OF THE LIGHTING INFLUENCE IN THE SPARKLE DETECTION BY APPLYING STATISTICAL DESIGN OF EXPERIMENTS
     (PP43, 758-763)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     ANALYSIS OF THE LIGHTING INFLUENCE IN THE SPARKLE DETECTION BY APPLYING STATISTICAL DESIGN OF EXPERIMENTS
     (PP43, 758-763)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/analysis-of-the-lighting-influence-in-the-sparkle-detection-by-applying-statistical-design-of-experiments-pp43-758-763?product_id=2011372
   type: src
@@ -25,12 +25,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: O
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Gomez
         language:
@@ -41,12 +35,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: E
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Perales
         language:
@@ -57,12 +45,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: B
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Mico
         language:
@@ -73,12 +55,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Hurabait
         language:
@@ -89,12 +65,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Viqueira
         language:
@@ -105,17 +75,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: F
-        language:
-        - en
-        script:
-        - Latn
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Martinez-Verdu
         language:
@@ -126,8 +85,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -145,4 +105,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

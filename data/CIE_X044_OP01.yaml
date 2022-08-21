@@ -1,14 +1,14 @@
 ---
 id: CIEx044-OP01
 title:
-- type: title-main
-  content: THE INFLUENCE OF THE BACKGROUND LUMINANCE ON THE BRIGHTNESS PERCEPTION
+- content: THE INFLUENCE OF THE BACKGROUND LUMINANCE ON THE BRIGHTNESS PERCEPTION
     OF SELF-LUMINOUS STIMULI (OP01, Pages 17-24)
   format: text/plain
-- type: main
-  content: THE INFLUENCE OF THE BACKGROUND LUMINANCE ON THE BRIGHTNESS PERCEPTION
+  type: title-main
+- content: THE INFLUENCE OF THE BACKGROUND LUMINANCE ON THE BRIGHTNESS PERCEPTION
     OF SELF-LUMINOUS STIMULI (OP01, Pages 17-24)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/the-influence-of-the-background-luminance-on-the-brightness-perception-of-self-luminous-stimuli-op01-pages-17-24?product_id=2009452
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Hermans
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Smet
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Hanselaer
         language:
@@ -71,8 +53,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -97,4 +80,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,17 +1,17 @@
 ---
 id: CIES016/E-2005
 title:
-- type: title-main
-  content: Lighting of Work Places
+- content: Lighting of Work Places
   format: text/plain
-- type: title-part
-  content: 'Part 3: Lighting Requirements for Safety and Security of Outdoor Work
+  type: title-main
+- content: 'Part 3: Lighting Requirements for Safety and Security of Outdoor Work
     Places'
   format: text/plain
-- type: main
-  content: 'Lighting of Work Places - Part 3: Lighting Requirements for Safety and
+  type: title-part
+- content: 'Lighting of Work Places - Part 3: Lighting Requirements for Safety and
     Security of Outdoor Work Places'
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-s-016-e-2005-iso-8995-3-2006?product_id=1529686
   type: src
@@ -28,8 +28,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -56,17 +57,17 @@ relation:
   bibitem:
     id: ISO/CIE8995-3-2018
     title:
-    - type: title-main
-      content: Lighting of Work Places
+    - content: Lighting of Work Places
       format: text/plain
-    - type: title-part
-      content: 'Part 3: Lighting Requirements for Safety and Security of Outdoor Work
+      type: title-main
+    - content: 'Part 3: Lighting Requirements for Safety and Security of Outdoor Work
         Places'
       format: text/plain
-    - type: main
-      content: 'Lighting of Work Places - Part 3: Lighting Requirements for Safety
+      type: title-part
+    - content: 'Lighting of Work Places - Part 3: Lighting Requirements for Safety
         and Security of Outdoor Work Places'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/iso-cie-8995-3-2018?product_id=2078729
       type: src
@@ -82,17 +83,17 @@ relation:
   bibitem:
     id: ISO/CIE8995-3-2018
     title:
-    - type: title-main
-      content: Lighting of work places
+    - content: Lighting of work places
       format: text/plain
-    - type: title-part
-      content: 'Part 3: Lighting requirements for safety and security of outdoor work
+      type: title-main
+    - content: 'Part 3: Lighting requirements for safety and security of outdoor work
         places'
       format: text/plain
-    - type: main
-      content: 'Lighting of work places - Part 3: Lighting requirements for safety
+      type: title-part
+    - content: 'Lighting of work places - Part 3: Lighting requirements for safety
         and security of outdoor work places'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/iso-cie-8995-3-2018?product_id=2011881
       type: src
@@ -108,17 +109,17 @@ relation:
   bibitem:
     id: ISO/CIE8995-3-2006
     title:
-    - type: title-main
-      content: Lighting of work places
+    - content: Lighting of work places
       format: text/plain
-    - type: title-part
-      content: 'Part 3: Lighting requirements for safety and security of outdoor work
+      type: title-main
+    - content: 'Part 3: Lighting requirements for safety and security of outdoor work
         places'
       format: text/plain
-    - type: main
-      content: 'Lighting of work places - Part 3: Lighting requirements for safety
+      type: title-part
+    - content: 'Lighting of work places - Part 3: Lighting requirements for safety
         and security of outdoor work places'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/iso-cie-8995-3-2006?product_id=1311131
       type: src
@@ -134,17 +135,17 @@ relation:
   bibitem:
     id: ISO8995-3-2006
     title:
-    - type: title-main
-      content: Lighting of work places
+    - content: Lighting of work places
       format: text/plain
-    - type: title-part
-      content: 'Part 3: Lighting requirements for safety and security of outdoor work
+      type: title-main
+    - content: 'Part 3: Lighting requirements for safety and security of outdoor work
         places'
       format: text/plain
-    - type: main
-      content: 'Lighting of work places - Part 3: Lighting requirements for safety
+      type: title-part
+    - content: 'Lighting of work places - Part 3: Lighting requirements for safety
         and security of outdoor work places'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/iso-8995-3-2006?product_id=1676146
       type: src
@@ -156,4 +157,5 @@ relation:
     - type: published
       value: '2006-10-15'
     revdate: '2006-10-15'
+fetched: '2022-08-21'
 doctype: document

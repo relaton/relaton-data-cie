@@ -1,14 +1,14 @@
 ---
 id: CIEOP1473-83
 title:
-- type: title-main
-  content: AN ADAPTIVE DISPLAY DIMMING CURVE FOR ENHANCED WORK PERFORMANCE AND VISUAL
+- content: AN ADAPTIVE DISPLAY DIMMING CURVE FOR ENHANCED WORK PERFORMANCE AND VISUAL
     COMFORT (OP14, 73-83)
   format: text/plain
-- type: main
-  content: AN ADAPTIVE DISPLAY DIMMING CURVE FOR ENHANCED WORK PERFORMANCE AND VISUAL
+  type: title-main
+- content: AN ADAPTIVE DISPLAY DIMMING CURVE FOR ENHANCED WORK PERFORMANCE AND VISUAL
     COMFORT (OP14, 73-83)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/an-adaptive-display-dimming-curve-for-enhanced-work-performance-and-visual-comfort-op14-73-83?product_id=2016208
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: D
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Hou
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Lin
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Wei
         language:
@@ -71,8 +53,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -109,4 +92,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

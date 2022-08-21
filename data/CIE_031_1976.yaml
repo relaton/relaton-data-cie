@@ -1,12 +1,12 @@
 ---
 id: CIE031-1976
 title:
-- type: title-main
-  content: Glare and Uniformity in Road Lighting Installations
+- content: Glare and Uniformity in Road Lighting Installations
   format: text/plain
-- type: main
-  content: Glare and Uniformity in Road Lighting Installations
+  type: title-main
+- content: Glare and Uniformity in Road Lighting Installations
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-031-1976?product_id=1209968
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -43,4 +44,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

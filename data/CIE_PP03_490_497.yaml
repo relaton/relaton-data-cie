@@ -1,16 +1,16 @@
 ---
 id: CIEPP03490-497
 title:
-- type: title-main
-  content: |-
+- content: |-
     HOW CHROMATICITY ALONE AFFECTS SOURCE PREFERENCE
      (PP03, 490-497)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     HOW CHROMATICITY ALONE AFFECTS SOURCE PREFERENCE
      (PP03, 490-497)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/how-chromaticity-alone-affects-source-preference-pp03-490-497?product_id=2011261
   type: src
@@ -25,12 +25,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Wang
         language:
@@ -41,12 +35,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Chen
         language:
@@ -57,12 +45,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Wei
         language:
@@ -73,17 +55,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Luo
         language:
@@ -94,8 +65,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -113,4 +85,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

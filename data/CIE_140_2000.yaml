@@ -1,12 +1,12 @@
 ---
 id: CIE140-2000
 title:
-- type: title-main
-  content: Road Lighting Calculations (Includes Rev. 2)
+- content: Road Lighting Calculations (Includes Rev. 2)
   format: text/plain
-- type: main
-  content: Road Lighting Calculations (Includes Rev. 2)
+  type: title-main
+- content: Road Lighting Calculations (Includes Rev. 2)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-140-2000?product_id=1210058
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -50,12 +51,12 @@ relation:
   bibitem:
     id: CIE140-2019
     title:
-    - type: title-main
-      content: Road Lighting Calculations
+    - content: Road Lighting Calculations
       format: text/plain
-    - type: main
-      content: Road Lighting Calculations
+      type: title-main
+    - content: Road Lighting Calculations
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-140-2019?product_id=2033815
       type: src
@@ -67,4 +68,5 @@ relation:
     - type: published
       value: '2019-02-01'
     revdate: '2019-02-01'
+fetched: '2022-08-21'
 doctype: document

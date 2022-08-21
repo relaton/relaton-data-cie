@@ -1,14 +1,14 @@
 ---
 id: CIEx048-PO34
 title:
-- type: title-main
-  content: OPTIMISATION OF A MOBILE METHOD FOR MEASURING ROAD LIGHTING CHARACTERISTICS
+- content: OPTIMISATION OF A MOBILE METHOD FOR MEASURING ROAD LIGHTING CHARACTERISTICS
     (LUMINANCE AND ILLUMINANCE)
   format: text/plain
-- type: main
-  content: OPTIMISATION OF A MOBILE METHOD FOR MEASURING ROAD LIGHTING CHARACTERISTICS
+  type: title-main
+- content: OPTIMISATION OF A MOBILE METHOD FOR MEASURING ROAD LIGHTING CHARACTERISTICS
     (LUMINANCE AND ILLUMINANCE)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-po34?product_id=2240843
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Chernyak
         language:
@@ -39,17 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Sh. Fedorishchev
         language:
@@ -60,17 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
-      - content: B
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kuznetsova
         language:
@@ -81,8 +53,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -102,4 +75,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

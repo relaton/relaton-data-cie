@@ -1,14 +1,14 @@
 ---
 id: CIEx044-2017
 title:
-- type: title-main
-  content: Proceedings of the Conference on "Smarter Lighting for Better Life" at
+- content: Proceedings of the Conference on "Smarter Lighting for Better Life" at
     the CIE Midterm Meeting 2017
   format: text/plain
-- type: main
-  content: Proceedings of the Conference on "Smarter Lighting for Better Life" at
+  type: title-main
+- content: Proceedings of the Conference on "Smarter Lighting for Better Life" at
     the CIE Midterm Meeting 2017
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x044-2017?product_id=2002336
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -53,4 +54,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,14 +1,14 @@
 ---
 id: CIEx043-PO33
 title:
-- type: title-main
-  content: ANALYSIS OF THE INTERPLAY OF THE PIGMENT SHAPE AND SIZE ON SPARKLE DETECTION
+- content: ANALYSIS OF THE INTERPLAY OF THE PIGMENT SHAPE AND SIZE ON SPARKLE DETECTION
     DISTANCE BY DESIGN OF EXPERIMENTS (PO33, Pages 345-350)
   format: text/plain
-- type: main
-  content: ANALYSIS OF THE INTERPLAY OF THE PIGMENT SHAPE AND SIZE ON SPARKLE DETECTION
+  type: title-main
+- content: ANALYSIS OF THE INTERPLAY OF THE PIGMENT SHAPE AND SIZE ON SPARKLE DETECTION
     DISTANCE BY DESIGN OF EXPERIMENTS (PO33, Pages 345-350)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/analysis-of-the-interplay-of-the-pigment-shape-and-size-on-sparkle-detection-distance-by-design-of-experiments-po33-pages-345-350?product_id=1941855
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: O
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Gomez
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: B
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Mico
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: E
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Perales
         language:
@@ -71,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: E
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Chorro
         language:
@@ -87,12 +63,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Viqueira
         language:
@@ -103,17 +73,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: F
-        language:
-        - en
-        script:
-        - Latn
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Martinez-Verdu
         language:
@@ -124,8 +83,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -153,4 +113,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

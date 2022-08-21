@@ -1,12 +1,12 @@
 ---
 id: CIES017/E-2011
 title:
-- type: title-main
-  content: 'ILV: International lighting vocabulary, new'
+- content: 'ILV: International lighting vocabulary, new'
   format: text/plain
-- type: main
-  content: 'ILV: International lighting vocabulary, new'
+  type: title-main
+- content: 'ILV: International lighting vocabulary, new'
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-s-017-e-2011?product_id=1806007
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -52,12 +53,12 @@ relation:
   bibitem:
     id: CIES017/E-2020
     title:
-    - type: title-main
-      content: 'ILV: International Lighting Vocabulary, 2nd Edition'
+    - content: 'ILV: International Lighting Vocabulary, 2nd Edition'
       format: text/plain
-    - type: main
-      content: 'ILV: International Lighting Vocabulary, 2nd Edition'
+      type: title-main
+    - content: 'ILV: International Lighting Vocabulary, 2nd Edition'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-s-017-e-2020?product_id=2200946
       type: src
@@ -73,14 +74,14 @@ relation:
   bibitem:
     id: IEC/CIE017.4-1987
     title:
-    - type: title-main
-      content: International lighting vocabulary, 4th ed. ***CONTACT ciecb@cie.co.at
+    - content: International lighting vocabulary, 4th ed. ***CONTACT ciecb@cie.co.at
         TO OBTAIN THIS PUBLICATION
       format: text/plain
-    - type: main
-      content: International lighting vocabulary, 4th ed. ***CONTACT ciecb@cie.co.at
+      type: title-main
+    - content: International lighting vocabulary, 4th ed. ***CONTACT ciecb@cie.co.at
         TO OBTAIN THIS PUBLICATION
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/iec-cie-017-4-1987?product_id=47660
       type: src
@@ -92,4 +93,5 @@ relation:
     - type: published
       value: '1987-01-01'
     revdate: '1987-01-01'
+fetched: '2022-08-21'
 doctype: document

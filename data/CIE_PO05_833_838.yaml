@@ -1,16 +1,16 @@
 ---
 id: CIEPO05833-838
 title:
-- type: title-main
-  content: |-
+- content: |-
     COLOUR RENDERING, SPECTRAL DISPERSION AND WAVELENGTH RESOLUTION
      (PO05, 833-838)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     COLOUR RENDERING, SPECTRAL DISPERSION AND WAVELENGTH RESOLUTION
      (PO05, 833-838)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/colour-rendering-spectral-dispersion-and-wavelength-resolution-po05-833-838?product_id=2011157
   type: src
@@ -25,22 +25,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: L
-        language:
-        - en
-        script:
-        - Latn
-      - content: L
-        language:
-        - en
-        script:
-        - Latn
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Price
         language:
@@ -51,8 +35,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -70,4 +55,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

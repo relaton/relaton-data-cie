@@ -1,14 +1,14 @@
 ---
 id: CIE203-2012
 title:
-- type: title-main
-  content: A Computerized Approach to Transmission and Absorption Characteristics
+- content: A Computerized Approach to Transmission and Absorption Characteristics
     of the Human Eye (Including Erratum 1)
   format: text/plain
-- type: main
-  content: A Computerized Approach to Transmission and Absorption Characteristics
+  type: title-main
+- content: A Computerized Approach to Transmission and Absorption Characteristics
     of the Human Eye (Including Erratum 1)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-203-2012?product_id=1830024
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -49,4 +50,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

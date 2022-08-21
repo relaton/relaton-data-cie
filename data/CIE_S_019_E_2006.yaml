@@ -1,12 +1,12 @@
 ---
 id: CIES019/E-2006
 title:
-- type: title-main
-  content: Photocarcinogenesis Action Spectrum (Non-Melanoma Skin Cancers)
+- content: Photocarcinogenesis Action Spectrum (Non-Melanoma Skin Cancers)
   format: text/plain
-- type: main
-  content: Photocarcinogenesis Action Spectrum (Non-Melanoma Skin Cancers)
+  type: title-main
+- content: Photocarcinogenesis Action Spectrum (Non-Melanoma Skin Cancers)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-s-019-e-2006-iso-28077-2006?product_id=1527905
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -55,12 +56,12 @@ relation:
   bibitem:
     id: CIEISO28077-2016
     title:
-    - type: title-main
-      content: Photocarcinogenesis Action Spectrum (Non-Melanoma Skin Cancers)
+    - content: Photocarcinogenesis Action Spectrum (Non-Melanoma Skin Cancers)
       format: text/plain
-    - type: main
-      content: Photocarcinogenesis Action Spectrum (Non-Melanoma Skin Cancers)
+      type: title-main
+    - content: Photocarcinogenesis Action Spectrum (Non-Melanoma Skin Cancers)
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-iso-28077-2016?product_id=1983057
       type: src
@@ -72,4 +73,5 @@ relation:
     - type: published
       value: '2017-06-01'
     revdate: '2017-06-01'
+fetched: '2022-08-21'
 doctype: document

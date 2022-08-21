@@ -1,14 +1,14 @@
 ---
 id: CIEx043-PO12
 title:
-- type: title-main
-  content: INFLUENCE OF LUMINANCE LEVELS OF ILLUMINATION D65 ON EVALUATION OF HIGH
+- content: INFLUENCE OF LUMINANCE LEVELS OF ILLUMINATION D65 ON EVALUATION OF HIGH
     CHROMATIC COLOURS (PO12, Pages 269-277)
   format: text/plain
-- type: main
-  content: INFLUENCE OF LUMINANCE LEVELS OF ILLUMINATION D65 ON EVALUATION OF HIGH
+  type: title-main
+- content: INFLUENCE OF LUMINANCE LEVELS OF ILLUMINATION D65 ON EVALUATION OF HIGH
     CHROMATIC COLOURS (PO12, Pages 269-277)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/influence-of-luminance-levels-of-illumination-d65-on-evaluation-of-high-chromatic-colours-po12-pages-269-277?product_id=1941844
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Pechova
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kasparova
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Vik
         language:
@@ -71,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Vikova
         language:
@@ -87,12 +63,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Stefl
         language:
@@ -103,8 +73,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -143,4 +114,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

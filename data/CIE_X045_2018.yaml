@@ -1,16 +1,16 @@
 ---
 id: CIEx045-2018
 title:
-- type: title-intro
-  content: Proceedings of CIE 2018 "Topical Conference on Smart Lighting" 26
+- content: Proceedings of CIE 2018 "Topical Conference on Smart Lighting" 26
   format: text/plain
-- type: title-main
-  content: 27 April 2018, Taipei, Chinese Taipei
+  type: title-intro
+- content: 27 April 2018, Taipei, Chinese Taipei
   format: text/plain
-- type: main
-  content: Proceedings of CIE 2018 "Topical Conference on Smart Lighting" 26 - 27
+  type: title-main
+- content: Proceedings of CIE 2018 "Topical Conference on Smart Lighting" 26 - 27
     April 2018, Taipei, Chinese Taipei
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x045-2018?product_id=2014095
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -47,4 +48,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

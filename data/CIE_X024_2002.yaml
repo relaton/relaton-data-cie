@@ -1,12 +1,12 @@
 ---
 id: CIEx024-2002
 title:
-- type: title-main
-  content: Proceedings of the CIE/ARUP Symposium on Visual Environment
+- content: Proceedings of the CIE/ARUP Symposium on Visual Environment
   format: text/plain
-- type: main
-  content: Proceedings of the CIE/ARUP Symposium on Visual Environment
+  type: title-main
+- content: Proceedings of the CIE/ARUP Symposium on Visual Environment
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x024-2002?product_id=1210142
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -49,4 +50,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

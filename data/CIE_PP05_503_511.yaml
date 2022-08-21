@@ -1,16 +1,16 @@
 ---
 id: CIEPP05503-511
 title:
-- type: title-main
-  content: |-
+- content: |-
     DEVELOPMENT OF WHITENESS FORMULA BASED ON CIECAM02
      (PP05, 503-511)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     DEVELOPMENT OF WHITENESS FORMULA BASED ON CIECAM02
      (PP05, 503-511)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/development-of-whiteness-formula-based-on-ciecam02-pp05-503-511?product_id=2011263
   type: src
@@ -25,12 +25,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Vik
         language:
@@ -41,12 +35,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Vikova
         language:
@@ -57,8 +45,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -81,4 +70,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

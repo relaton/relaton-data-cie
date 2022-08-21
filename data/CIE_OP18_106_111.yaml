@@ -1,14 +1,14 @@
 ---
 id: CIEOP18106-111
 title:
-- type: title-main
-  content: NEW EMPIRICAL DATA FOR PEDESTRIAN LIGHTING EFFECT ON RECOGNITION ABILITY
+- content: NEW EMPIRICAL DATA FOR PEDESTRIAN LIGHTING EFFECT ON RECOGNITION ABILITY
     ON REAL 3D FACIAL EXPRESSION (OP18, 106-111)
   format: text/plain
-- type: main
-  content: NEW EMPIRICAL DATA FOR PEDESTRIAN LIGHTING EFFECT ON RECOGNITION ABILITY
+  type: title-main
+- content: NEW EMPIRICAL DATA FOR PEDESTRIAN LIGHTING EFFECT ON RECOGNITION ABILITY
     ON REAL 3D FACIAL EXPRESSION (OP18, 106-111)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/new-empirical-data-for-pedestrian-lighting-effect-on-recognition-ability-on-real-3d-facial-expression-op18-106-111?product_id=2016232
   type: src
@@ -23,12 +23,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Tianyu
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Tianyu
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Li
         language:
@@ -39,12 +40,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Biao
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Biao
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Yang
         language:
@@ -55,8 +57,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -83,4 +86,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

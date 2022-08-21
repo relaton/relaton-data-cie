@@ -1,14 +1,14 @@
 ---
 id: CIEOP28174-180
 title:
-- type: title-main
-  content: 'EFFECTS OF COLOUR TEMPERATURE IN RESTING STATE: ANALYSIS OF HEART RATE,
+- content: 'EFFECTS OF COLOUR TEMPERATURE IN RESTING STATE: ANALYSIS OF HEART RATE,
     BLOOD PRESSURE, AND ELECTROENCEPHALOGRAPH (OP28, 174-180)'
   format: text/plain
-- type: main
-  content: 'EFFECTS OF COLOUR TEMPERATURE IN RESTING STATE: ANALYSIS OF HEART RATE,
+  type: title-main
+- content: 'EFFECTS OF COLOUR TEMPERATURE IN RESTING STATE: ANALYSIS OF HEART RATE,
     BLOOD PRESSURE, AND ELECTROENCEPHALOGRAPH (OP28, 174-180)'
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/effects-of-colour-temperature-in-resting-state-analysis-of-heart-rate-blood-pressure-and-electroencephalograph-op28-174-180?product_id=2016241
   type: src
@@ -23,17 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: Z
-        language:
-        - en
-        script:
-        - Latn
-      - content: X
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Weng
         language:
@@ -44,17 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
-      - content: D
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Lin
         language:
@@ -65,8 +43,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -93,4 +72,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

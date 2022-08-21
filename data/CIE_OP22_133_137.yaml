@@ -1,14 +1,14 @@
 ---
 id: CIEOP22133-137
 title:
-- type: title-main
-  content: KANSEI EVALUATION OF COLOUR IMAGES IN VARIOUS COLOUR GAMUTS USING DIFFERENT
+- content: KANSEI EVALUATION OF COLOUR IMAGES IN VARIOUS COLOUR GAMUTS USING DIFFERENT
     RED PRIMARIES (OP22, 133-137)
   format: text/plain
-- type: main
-  content: KANSEI EVALUATION OF COLOUR IMAGES IN VARIOUS COLOUR GAMUTS USING DIFFERENT
+  type: title-main
+- content: KANSEI EVALUATION OF COLOUR IMAGES IN VARIOUS COLOUR GAMUTS USING DIFFERENT
     RED PRIMARIES (OP22, 133-137)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/kansei-evaluation-of-colour-images-in-various-colour-gamuts-using-different-red-primaries-op22-133-137?product_id=2016235
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Ayama
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Inuzuka
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kageyama
         language:
@@ -71,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Ishikawa
         language:
@@ -87,8 +63,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -113,4 +90,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

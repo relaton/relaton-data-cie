@@ -1,15 +1,15 @@
 ---
 id: CIES014-4/E-2007
 title:
-- type: title-main
-  content: Colorimetry
+- content: Colorimetry
   format: text/plain
-- type: title-part
-  content: 'Part 4: CIE 1976 L*a*b* Colour Spaces'
+  type: title-main
+- content: 'Part 4: CIE 1976 L*a*b* Colour Spaces'
   format: text/plain
-- type: main
-  content: 'Colorimetry - Part 4: CIE 1976 L*a*b* Colour Spaces'
+  type: title-part
+- content: 'Colorimetry - Part 4: CIE 1976 L*a*b* Colour Spaces'
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-s-014-4-e-2007-iso-11664-4-2008?product_id=1601627
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -68,15 +69,15 @@ relation:
   bibitem:
     id: ISO/CIE11664-4-2019
     title:
-    - type: title-main
-      content: Colorimetry
+    - content: Colorimetry
       format: text/plain
-    - type: title-part
-      content: 'Part 4: CIE 1976 L*a*b* colour space'
+      type: title-main
+    - content: 'Part 4: CIE 1976 L*a*b* colour space'
       format: text/plain
-    - type: main
-      content: 'Colorimetry - Part 4: CIE 1976 L*a*b* colour space'
+      type: title-part
+    - content: 'Colorimetry - Part 4: CIE 1976 L*a*b* colour space'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/iso-cie-11664-4-2019?product_id=2078733
       type: src
@@ -92,15 +93,15 @@ relation:
   bibitem:
     id: ISO/CIE11664-4-2019
     title:
-    - type: title-main
-      content: Colorimetry
+    - content: Colorimetry
       format: text/plain
-    - type: title-part
-      content: 'Part 4: CIE 1976 L*a*b* colour space'
+      type: title-main
+    - content: 'Part 4: CIE 1976 L*a*b* colour space'
       format: text/plain
-    - type: main
-      content: 'Colorimetry - Part 4: CIE 1976 L*a*b* colour space'
+      type: title-part
+    - content: 'Colorimetry - Part 4: CIE 1976 L*a*b* colour space'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/iso-cie-11664-4-2019?product_id=2077271
       type: src
@@ -116,15 +117,15 @@ relation:
   bibitem:
     id: ISO11664-4-2008
     title:
-    - type: title-main
-      content: Colorimetry
+    - content: Colorimetry
       format: text/plain
-    - type: title-part
-      content: 'Part 4: CIE 1976 L*a*b* Colour space'
+      type: title-main
+    - content: 'Part 4: CIE 1976 L*a*b* Colour space'
       format: text/plain
-    - type: main
-      content: 'Colorimetry - Part 4: CIE 1976 L*a*b* Colour space'
+      type: title-part
+    - content: 'Colorimetry - Part 4: CIE 1976 L*a*b* Colour space'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/iso-11664-4-2008?product_id=1588251
       type: src
@@ -140,15 +141,15 @@ relation:
   bibitem:
     id: CIES014-4/E2007
     title:
-    - type: title-main
-      content: Colorimetry
+    - content: Colorimetry
       format: text/plain
-    - type: title-part
-      content: 'Part 4: CIE 1976 L*a*b* Colour Spaces'
+      type: title-main
+    - content: 'Part 4: CIE 1976 L*a*b* Colour Spaces'
       format: text/plain
-    - type: main
-      content: 'Colorimetry - Part 4: CIE 1976 L*a*b* Colour Spaces'
+      type: title-part
+    - content: 'Colorimetry - Part 4: CIE 1976 L*a*b* Colour Spaces'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-s-014-4-e2007?product_id=1520488
       type: src
@@ -160,4 +161,5 @@ relation:
     - type: published
       value: '2007-09-01'
     revdate: '2007-09-01'
+fetched: '2022-08-21'
 doctype: document

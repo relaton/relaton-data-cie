@@ -1,12 +1,12 @@
 ---
 id: CIE244-2021
 title:
-- type: title-main
-  content: Characterization of Imaging Luminance Measurement Devices (ILMDs)
+- content: Characterization of Imaging Luminance Measurement Devices (ILMDs)
   format: text/plain
-- type: main
-  content: Characterization of Imaging Luminance Measurement Devices (ILMDs)
+  type: title-main
+- content: Characterization of Imaging Luminance Measurement Devices (ILMDs)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-244-2021?product_id=2222951
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -52,4 +53,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

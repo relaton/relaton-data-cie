@@ -1,12 +1,12 @@
 ---
 id: CIES007/E-1998
 title:
-- type: title-main
-  content: Erythema reference action spectrum and standard erythema dose
+- content: Erythema reference action spectrum and standard erythema dose
   format: text/plain
-- type: main
-  content: Erythema reference action spectrum and standard erythema dose
+  type: title-main
+- content: Erythema reference action spectrum and standard erythema dose
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-s-007-e-1998-iso-17166-1999?product_id=1210085
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -58,12 +59,12 @@ relation:
   bibitem:
     id: ISO/CIE17166-2019
     title:
-    - type: title-main
-      content: Erythema reference action spectrum and standard erythema dose
+    - content: Erythema reference action spectrum and standard erythema dose
       format: text/plain
-    - type: main
-      content: Erythema reference action spectrum and standard erythema dose
+      type: title-main
+    - content: Erythema reference action spectrum and standard erythema dose
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/iso-cie-17166-2019?product_id=2073579
       type: src
@@ -79,12 +80,12 @@ relation:
   bibitem:
     id: ISO/CIE17166-2019
     title:
-    - type: title-main
-      content: Erythema reference action spectrum and standard erythema dose
+    - content: Erythema reference action spectrum and standard erythema dose
       format: text/plain
-    - type: main
-      content: Erythema reference action spectrum and standard erythema dose
+      type: title-main
+    - content: Erythema reference action spectrum and standard erythema dose
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/iso-cie-17166-2019?product_id=2078724
       type: src
@@ -100,12 +101,12 @@ relation:
   bibitem:
     id: ISO17166*CIES007
     title:
-    - type: title-main
-      content: Erythema reference action spectrum and standard erythema dose
+    - content: Erythema reference action spectrum and standard erythema dose
       format: text/plain
-    - type: main
-      content: Erythema reference action spectrum and standard erythema dose
+      type: title-main
+    - content: Erythema reference action spectrum and standard erythema dose
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/iso-17166-cie-s-007?product_id=1098572
       type: src
@@ -121,12 +122,12 @@ relation:
   bibitem:
     id: ISO17166*CIES007/E
     title:
-    - type: title-main
-      content: Erythema reference action spectrum and standard erythema dose
+    - content: Erythema reference action spectrum and standard erythema dose
       format: text/plain
-    - type: main
-      content: Erythema reference action spectrum and standard erythema dose
+      type: title-main
+    - content: Erythema reference action spectrum and standard erythema dose
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/iso-17166-cie-s-007-e?product_id=1095387
       type: src
@@ -142,12 +143,12 @@ relation:
   bibitem:
     id: ISO/CIE17166-1999
     title:
-    - type: title-main
-      content: Erythema reference action spectrum and standard erythema dose
+    - content: Erythema reference action spectrum and standard erythema dose
       format: text/plain
-    - type: main
-      content: Erythema reference action spectrum and standard erythema dose
+      type: title-main
+    - content: Erythema reference action spectrum and standard erythema dose
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/iso-cie-17166-1999?product_id=716204
       type: src
@@ -163,12 +164,12 @@ relation:
   bibitem:
     id: ISO17166-1999
     title:
-    - type: title-main
-      content: Erythema reference action spectrum and standard erythema dose
+    - content: Erythema reference action spectrum and standard erythema dose
       format: text/plain
-    - type: main
-      content: Erythema reference action spectrum and standard erythema dose
+      type: title-main
+    - content: Erythema reference action spectrum and standard erythema dose
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/iso-17166-1999?product_id=1676112
       type: src
@@ -180,4 +181,5 @@ relation:
     - type: published
       value: '1999-03-01'
     revdate: '1999-03-01'
+fetched: '2022-08-21'
 doctype: document

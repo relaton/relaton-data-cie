@@ -1,18 +1,18 @@
 ---
 id: CIEPP16569-579
 title:
-- type: title-main
-  content: |-
+- content: |-
     INTER LABORATORY COMPARISON OF LED MEASUREMENTS AIMED AS INPUT FOR MULTI-DOMAIN COMPACT MODEL DEVELOPMENT WITHIN A EUROPEAN-WIDE R&D PROJECT
 
      (PP16, 569-579)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     INTER LABORATORY COMPARISON OF LED MEASUREMENTS AIMED AS INPUT FOR MULTI-DOMAIN COMPACT MODEL DEVELOPMENT WITHIN A EUROPEAN-WIDE R&D PROJECT
 
      (PP16, 569-579)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/inter-laboratory-comparison-of-led-measurements-aimed-as-input-for-multi-domain-compact-model-development-within-a-european-wide-r-d-project-pp16-569-579?product_id=2011271
   type: src
@@ -27,12 +27,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Poppe
         language:
@@ -43,12 +37,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: G
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Farkas
         language:
@@ -59,12 +47,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: F
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Szabo
         language:
@@ -75,12 +57,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Joly
         language:
@@ -91,12 +67,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Thome
         language:
@@ -107,12 +77,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Yu
         language:
@@ -123,12 +87,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Bosschaartl
         language:
@@ -139,12 +97,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: E
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Juntunen
         language:
@@ -155,12 +107,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: E
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Vaumorin
         language:
@@ -171,12 +117,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: di Bucchianico
         language:
@@ -187,12 +127,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Merelle
         language:
@@ -203,8 +137,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -233,4 +168,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

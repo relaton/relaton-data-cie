@@ -1,14 +1,14 @@
 ---
 id: CIEx043-PO36
 title:
-- type: title-main
-  content: CREATE COLOUR MODEL INSPIRED BY CONES SPECTRAL SENSITIVITY IN THE RETINA
+- content: CREATE COLOUR MODEL INSPIRED BY CONES SPECTRAL SENSITIVITY IN THE RETINA
     OF THE HUMAN EYE (PO36, Pages 365-377)
   format: text/plain
-- type: main
-  content: CREATE COLOUR MODEL INSPIRED BY CONES SPECTRAL SENSITIVITY IN THE RETINA
+  type: title-main
+- content: CREATE COLOUR MODEL INSPIRED BY CONES SPECTRAL SENSITIVITY IN THE RETINA
     OF THE HUMAN EYE (PO36, Pages 365-377)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/create-colour-model-inspired-by-cones-spectral-sensitivity-in-the-retina-of-the-human-eye-po36-pages-365-377?product_id=1941858
   type: src
@@ -23,17 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
-      - content: B
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Abd El-Magid
         language:
@@ -44,17 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Gazl
         language:
@@ -65,8 +43,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -107,4 +86,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

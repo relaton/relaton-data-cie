@@ -1,12 +1,12 @@
 ---
 id: CIE064-1984
 title:
-- type: title-main
-  content: Determination of the spectral responsivity of optical radiation detectors
+- content: Determination of the spectral responsivity of optical radiation detectors
   format: text/plain
-- type: main
-  content: Determination of the spectral responsivity of optical radiation detectors
+  type: title-main
+- content: Determination of the spectral responsivity of optical radiation detectors
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-064-1984?product_id=1209996
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -57,12 +58,12 @@ relation:
   bibitem:
     id: CIE202-2011
     title:
-    - type: title-main
-      content: Spectral Responsivity Measurement of Detectors, Radiometers and Photometers
+    - content: Spectral Responsivity Measurement of Detectors, Radiometers and Photometers
       format: text/plain
-    - type: main
-      content: Spectral Responsivity Measurement of Detectors, Radiometers and Photometers
+      type: title-main
+    - content: Spectral Responsivity Measurement of Detectors, Radiometers and Photometers
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-202-2011?product_id=1820326
       type: src
@@ -74,4 +75,5 @@ relation:
     - type: published
       value: '2011-12-01'
     revdate: '2011-12-01'
+fetched: '2022-08-21'
 doctype: document

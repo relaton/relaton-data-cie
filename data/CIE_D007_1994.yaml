@@ -1,14 +1,14 @@
 ---
 id: CIED007-1994
 title:
-- type: title-main
-  content: A method of predicting corresponding colours under different chromatic
+- content: A method of predicting corresponding colours under different chromatic
     and illuminance adaptations (Computer program to Publ. CIE 109)
   format: text/plain
-- type: main
-  content: A method of predicting corresponding colours under different chromatic
+  type: title-main
+- content: A method of predicting corresponding colours under different chromatic
     and illuminance adaptations (Computer program to Publ. CIE 109)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-d007-1994?product_id=1210147
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -57,4 +58,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

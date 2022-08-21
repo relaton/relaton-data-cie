@@ -1,18 +1,18 @@
 ---
 id: CIEPP05256-264
 title:
-- type: title-intro
-  content: RESEARCH ON THE APPLICATION BENEFITS OF THE LED LIGHT SOURCE BASED ON THE
+- content: RESEARCH ON THE APPLICATION BENEFITS OF THE LED LIGHT SOURCE BASED ON THE
     ROAD LIGHTING SYSTEM FOR THE SMART CITY
   format: text/plain
-- type: title-main
-  content: IN TIANJIN REGION AS AN EXAMPLE (PP05, 256-264)
+  type: title-intro
+- content: IN TIANJIN REGION AS AN EXAMPLE (PP05, 256-264)
   format: text/plain
-- type: main
-  content: RESEARCH ON THE APPLICATION BENEFITS OF THE LED LIGHT SOURCE BASED ON THE
+  type: title-main
+- content: RESEARCH ON THE APPLICATION BENEFITS OF THE LED LIGHT SOURCE BASED ON THE
     ROAD LIGHTING SYSTEM FOR THE SMART CITY - IN TIANJIN REGION AS AN EXAMPLE (PP05,
     256-264)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/research-on-the-application-benefits-of-the-led-light-source-based-on-the-road-lighting-system-for-the-smart-city-in-tianjin-region-as-an-example-pp05-256-264?product_id=2016252
   type: src
@@ -27,12 +27,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Xiufeng
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Xiufeng
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Ma
         language:
@@ -43,12 +44,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Lixiong
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Lixiong
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Wang
         language:
@@ -59,12 +61,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Yuanpeng
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Yuanpeng
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Gao
         language:
@@ -75,12 +78,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Juan
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Juan
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Yu
         language:
@@ -91,12 +95,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Junrong
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Junrong
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Ma
         language:
@@ -107,8 +112,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -133,4 +139,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,18 +1,18 @@
 ---
 id: CIEPO42978-983
 title:
-- type: title-main
-  content: |-
+- content: |-
     ON-SITE EVALUATION OF PHOTOBIOLOGICAL SAFETY AND LIGHTING HEALTHY
 
      (PO42, 978-983)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     ON-SITE EVALUATION OF PHOTOBIOLOGICAL SAFETY AND LIGHTING HEALTHY
 
      (PO42, 978-983)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/on-site-evaluation-of-photobiological-safety-and-lighting-healthy-po42-978-983?product_id=2011178
   type: src
@@ -27,12 +27,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: X
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Li
         language:
@@ -43,12 +37,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Q
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Li
         language:
@@ -59,12 +47,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Chen
         language:
@@ -75,12 +57,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Pan
         language:
@@ -91,8 +67,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -115,4 +92,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

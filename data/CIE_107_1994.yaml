@@ -1,14 +1,14 @@
 ---
 id: CIE107-1994
 title:
-- type: title-main
-  content: Review of the official recommendations of the CIE for the colours of signal
+- content: Review of the official recommendations of the CIE for the colours of signal
     lights
   format: text/plain
-- type: main
-  content: Review of the official recommendations of the CIE for the colours of signal
+  type: title-main
+- content: Review of the official recommendations of the CIE for the colours of signal
     lights
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-107-1994?product_id=1210029
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -71,12 +72,12 @@ relation:
   bibitem:
     id: CIES004/E-2001
     title:
-    - type: title-main
-      content: Colours of light signals
+    - content: Colours of light signals
       format: text/plain
-    - type: main
-      content: Colours of light signals
+      type: title-main
+    - content: Colours of light signals
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-s004-e-2001?product_id=1210135
       type: src
@@ -88,4 +89,5 @@ relation:
     - type: published
       value: '2001-01-01'
     revdate: '2001-01-01'
+fetched: '2022-08-21'
 doctype: document

@@ -1,12 +1,12 @@
 ---
 id: CIEOP1160-66
 title:
-- type: title-main
-  content: COMPREHENSIVE MODELLING OF COLOUR QUALITY FOR LED LIGHTING (OP11, 60-66)
+- content: COMPREHENSIVE MODELLING OF COLOUR QUALITY FOR LED LIGHTING (OP11, 60-66)
   format: text/plain
-- type: main
-  content: COMPREHENSIVE MODELLING OF COLOUR QUALITY FOR LED LIGHTING (OP11, 60-66)
+  type: title-main
+- content: COMPREHENSIVE MODELLING OF COLOUR QUALITY FOR LED LIGHTING (OP11, 60-66)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/comprehensive-modelling-of-colour-quality-for-led-lighting-op11-60-66?product_id=2016206
   type: src
@@ -21,12 +21,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: Q
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Zhai
         language:
@@ -37,17 +31,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Luo
         language:
@@ -58,12 +41,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Q
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Liu
         language:
@@ -74,8 +51,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -97,4 +75,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

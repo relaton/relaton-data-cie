@@ -1,12 +1,12 @@
 ---
 id: CIE250-2022
 title:
-- type: title-main
-  content: Spectroradiometric measurement of optical radiation sources
+- content: Spectroradiometric measurement of optical radiation sources
   format: text/plain
-- type: main
-  content: Spectroradiometric measurement of optical radiation sources
+  type: title-main
+- content: Spectroradiometric measurement of optical radiation sources
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-250-2022?product_id=2256732
   type: src
@@ -20,8 +20,9 @@ docid:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -49,12 +50,12 @@ relation:
   bibitem:
     id: CIE063-1984
     title:
-    - type: title-main
-      content: The spectroradiometric measurement of light sources
+    - content: The spectroradiometric measurement of light sources
       format: text/plain
-    - type: main
-      content: The spectroradiometric measurement of light sources
+      type: title-main
+    - content: The spectroradiometric measurement of light sources
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-063-1984?product_id=1210127
       type: src
@@ -66,4 +67,5 @@ relation:
     - type: published
       value: '1984-01-01'
     revdate: '1984-01-01'
+fetched: '2022-08-21'
 doctype: document

@@ -1,18 +1,18 @@
 ---
 id: CIEPP36712-717
 title:
-- type: title-main
-  content: |-
+- content: |-
     COMPARISON OF GONIPHOTOMETRIC METHODS FOR OLED
 
      (PP36, 712-717)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     COMPARISON OF GONIPHOTOMETRIC METHODS FOR OLED
 
      (PP36, 712-717)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/comparison-of-goniphotometric-methods-for-oled-pp36-712-717?product_id=2011366
   type: src
@@ -27,12 +27,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Dubnicka
         language:
@@ -43,12 +37,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: L
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Lipnicky
         language:
@@ -59,12 +47,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: D
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Gasparovsky
         language:
@@ -75,12 +57,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Csuti
         language:
@@ -91,12 +67,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: F
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Szabo
         language:
@@ -107,8 +77,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -129,4 +100,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

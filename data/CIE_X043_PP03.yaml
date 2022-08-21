@@ -1,14 +1,14 @@
 ---
 id: CIEx043-PP03
 title:
-- type: title-main
-  content: BRDF MEASUREMENT BASED ON SPECTRAL DIFFUSE REFLECTANCE AND A GONIOREFLECTOMETER
+- content: BRDF MEASUREMENT BASED ON SPECTRAL DIFFUSE REFLECTANCE AND A GONIOREFLECTOMETER
     (PP03, Pages 167-174)
   format: text/plain
-- type: main
-  content: BRDF MEASUREMENT BASED ON SPECTRAL DIFFUSE REFLECTANCE AND A GONIOREFLECTOMETER
+  type: title-main
+- content: BRDF MEASUREMENT BASED ON SPECTRAL DIFFUSE REFLECTANCE AND A GONIOREFLECTOMETER
     (PP03, Pages 167-174)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/brdf-measurement-based-on-spectral-diffuse-reflectance-and-a-gonioreflectometer-pp03-pages-167-174?product_id=1941828
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Shitomi
         language:
@@ -39,8 +33,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -64,4 +59,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

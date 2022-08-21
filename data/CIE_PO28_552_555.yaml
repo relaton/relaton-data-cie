@@ -1,14 +1,14 @@
 ---
 id: CIEPO28552-555
 title:
-- type: title-main
-  content: PSYCHOLOGICAL INFLUENCE OF COLOURFUL LIGHT-EMITTING DIODE LUMINAIRE (PO28,
+- content: PSYCHOLOGICAL INFLUENCE OF COLOURFUL LIGHT-EMITTING DIODE LUMINAIRE (PO28,
     552-555)
   format: text/plain
-- type: main
-  content: PSYCHOLOGICAL INFLUENCE OF COLOURFUL LIGHT-EMITTING DIODE LUMINAIRE (PO28,
+  type: title-main
+- content: PSYCHOLOGICAL INFLUENCE OF COLOURFUL LIGHT-EMITTING DIODE LUMINAIRE (PO28,
     552-555)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/psychological-influence-of-colourful-light-emitting-diode-luminaire-po28-552-555?product_id=2016304
   type: src
@@ -23,17 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Chen
         language:
@@ -44,17 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: L
-        language:
-        - en
-        script:
-        - Latn
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Su
         language:
@@ -65,17 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Yang
         language:
@@ -86,17 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Fu
         language:
@@ -107,8 +63,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -134,4 +91,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

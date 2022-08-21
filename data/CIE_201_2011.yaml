@@ -1,12 +1,12 @@
 ---
 id: CIE201-2011
 title:
-- type: title-main
-  content: Recommendations on Minimum Levels of Solar UV Exposure
+- content: Recommendations on Minimum Levels of Solar UV Exposure
   format: text/plain
-- type: main
-  content: Recommendations on Minimum Levels of Solar UV Exposure
+  type: title-main
+- content: Recommendations on Minimum Levels of Solar UV Exposure
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-201-2011?product_id=1817507
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -49,4 +50,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

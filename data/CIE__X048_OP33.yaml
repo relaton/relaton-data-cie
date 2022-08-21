@@ -1,14 +1,14 @@
 ---
 id: CIEx048-OP33
 title:
-- type: title-main
-  content: 'LIGHTING CONDITIONS IN BRAZILIAN AND COLOMBIAN HOME OFFICES: A PRELIMINARY
+- content: 'LIGHTING CONDITIONS IN BRAZILIAN AND COLOMBIAN HOME OFFICES: A PRELIMINARY
     STUDY BASED ON OCCUPANT''S PERCEPTION'
   format: text/plain
-- type: main
-  content: 'LIGHTING CONDITIONS IN BRAZILIAN AND COLOMBIAN HOME OFFICES: A PRELIMINARY
+  type: title-main
+- content: 'LIGHTING CONDITIONS IN BRAZILIAN AND COLOMBIAN HOME OFFICES: A PRELIMINARY
     STUDY BASED ON OCCUPANT''S PERCEPTION'
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-op33?product_id=2240784
   type: src
@@ -23,22 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
-      - content: N
-        language:
-        - en
-        script:
-        - Latn
-      - content: D
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Amorim
         language:
@@ -49,17 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: N
-        language:
-        - en
-        script:
-        - Latn
-      - content: G
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Vásquez
         language:
@@ -70,17 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kanno
         language:
@@ -91,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: B
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Matusiak
         language:
@@ -107,8 +63,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -143,4 +100,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

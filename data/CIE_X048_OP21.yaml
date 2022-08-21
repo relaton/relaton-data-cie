@@ -1,12 +1,12 @@
 ---
 id: CIEx048-OP21
 title:
-- type: title-main
-  content: ON SENSITIVITY TO GLARE AND ITS RELATIONSHIP WITH MACULAR PIGMENT
+- content: ON SENSITIVITY TO GLARE AND ITS RELATIONSHIP WITH MACULAR PIGMENT
   format: text/plain
-- type: main
-  content: ON SENSITIVITY TO GLARE AND ITS RELATIONSHIP WITH MACULAR PIGMENT
+  type: title-main
+- content: ON SENSITIVITY TO GLARE AND ITS RELATIONSHIP WITH MACULAR PIGMENT
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-op21?product_id=2240698
   type: src
@@ -21,12 +21,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Jain
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Jain
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Sneha
         language:
@@ -37,12 +38,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Wienold
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Wienold
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Jan
         language:
@@ -53,12 +55,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Andersen
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Andersen
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Marilyne
         language:
@@ -69,8 +72,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -98,4 +102,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,18 +1,18 @@
 ---
 id: CIEPP14564-568
 title:
-- type: title-main
-  content: |-
+- content: |-
     STUDY ON THE POSSIBIALITY OF LED FILAMENT LAMP AS PHOTOMETRIC STANDARD
 
      (PP14, 564-568)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     STUDY ON THE POSSIBIALITY OF LED FILAMENT LAMP AS PHOTOMETRIC STANDARD
 
      (PP14, 564-568)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/study-on-the-possibiality-of-led-filament-lamp-as-photometric-standard-pp14-564-568?product_id=2011270
   type: src
@@ -27,12 +27,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Liu
         language:
@@ -43,12 +37,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Liu
         language:
@@ -59,17 +47,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: W
-        language:
-        - en
-        script:
-        - Latn
-      - content: Q
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Zhao
         language:
@@ -80,17 +57,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
-      - content: D
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Lin
         language:
@@ -101,12 +67,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Su
         language:
@@ -117,12 +77,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: L
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Jiang
         language:
@@ -133,17 +87,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Yan
         language:
@@ -154,8 +97,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -173,4 +117,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

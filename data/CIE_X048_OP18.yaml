@@ -1,16 +1,16 @@
 ---
 id: CIEx048-OP18
 title:
-- type: title-intro
-  content: THE LIGHT-DOSIMETER
+- content: THE LIGHT-DOSIMETER
   format: text/plain
-- type: title-main
-  content: A NEW DEVICE TO HELP ADVANCE RESEARCH ON THE NON-VISUAL RESPONSES TO LIGHT
+  type: title-intro
+- content: A NEW DEVICE TO HELP ADVANCE RESEARCH ON THE NON-VISUAL RESPONSES TO LIGHT
   format: text/plain
-- type: main
-  content: THE LIGHT-DOSIMETER - A NEW DEVICE TO HELP ADVANCE RESEARCH ON THE NON-VISUAL
+  type: title-main
+- content: THE LIGHT-DOSIMETER - A NEW DEVICE TO HELP ADVANCE RESEARCH ON THE NON-VISUAL
     RESPONSES TO LIGHT
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-op18?product_id=2240696
   type: src
@@ -25,17 +25,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Stampfli
         language:
@@ -46,12 +35,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: B
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Schrader
         language:
@@ -62,12 +45,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: di Battista
         language:
@@ -78,12 +55,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Häfliger
         language:
@@ -94,12 +65,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: O
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Schälli
         language:
@@ -110,12 +75,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: G
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Wichmann
         language:
@@ -126,12 +85,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Zumbühl
         language:
@@ -142,12 +95,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Blattner
         language:
@@ -158,12 +105,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Cajochen
         language:
@@ -174,12 +115,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Lazar
         language:
@@ -190,12 +125,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Spitschan
         language:
@@ -206,8 +135,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -235,4 +165,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

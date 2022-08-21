@@ -1,18 +1,18 @@
 ---
 id: CIEOP43303-313
 title:
-- type: title-main
-  content: |-
+- content: |-
     PRELIMINARY STUDY ON SPECTRAL CHARACTERISTICS FOR IDENTIFICATION OF SKIN COLOUR UNDER CIRCULATORY DYSFUNCTION USING ARTIFICIAL SKIN SAMPLES
 
      (OP43, 303-313)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     PRELIMINARY STUDY ON SPECTRAL CHARACTERISTICS FOR IDENTIFICATION OF SKIN COLOUR UNDER CIRCULATORY DYSFUNCTION USING ARTIFICIAL SKIN SAMPLES
 
      (OP43, 303-313)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/preliminary-study-on-spectral-characteristics-for-identification-of-skin-colour-under-circulatory-dysfunction-using-artificial-skin-samples-op43-303-313?product_id=2010515
   type: src
@@ -27,12 +27,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Akizuki
         language:
@@ -43,12 +37,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Ohno
         language:
@@ -59,8 +47,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -78,4 +67,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

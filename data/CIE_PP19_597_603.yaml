@@ -1,20 +1,20 @@
 ---
 id: CIEPP19597-603
 title:
-- type: title-main
-  content: |-
+- content: |-
     FIELD MEASUREMENT OF NET-ZERO ENERGY RENOVATION BUILDING
 
 
      (PP19, 597-603)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     FIELD MEASUREMENT OF NET-ZERO ENERGY RENOVATION BUILDING
 
 
      (PP19, 597-603)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/field-measurement-of-net-zero-energy-renovation-building-pp19-597-603?product_id=2011274
   type: src
@@ -29,12 +29,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Sakuma
         language:
@@ -45,12 +39,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Iwata
         language:
@@ -61,12 +49,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Takai
         language:
@@ -77,12 +59,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Tanaka
         language:
@@ -93,12 +69,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kikuchi
         language:
@@ -109,12 +79,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kawakami
         language:
@@ -125,8 +89,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -144,4 +109,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

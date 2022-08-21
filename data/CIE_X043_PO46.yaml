@@ -1,14 +1,14 @@
 ---
 id: CIEx043-PO46
 title:
-- type: title-main
-  content: PHOTOMETRIC AND COLORIMETRIC COMPARISON OF HDR AND SPECTRALLY RESOLVED
+- content: PHOTOMETRIC AND COLORIMETRIC COMPARISON OF HDR AND SPECTRALLY RESOLVED
     RENDERING IMAGES (PO46, Pages 438-445)
   format: text/plain
-- type: main
-  content: PHOTOMETRIC AND COLORIMETRIC COMPARISON OF HDR AND SPECTRALLY RESOLVED
+  type: title-main
+- content: PHOTOMETRIC AND COLORIMETRIC COMPARISON OF HDR AND SPECTRALLY RESOLVED
     RENDERING IMAGES (PO46, Pages 438-445)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/photometric-and-colorimetric-comparison-of-hdr-and-spectrally-resolved-rendering-images-po46-pages-438-445?product_id=1941868
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Amdemeskel
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Soreze
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Thorseth
         language:
@@ -71,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: D
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Corell
         language:
@@ -87,12 +63,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Dam-Hansen
         language:
@@ -103,8 +73,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -134,4 +105,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

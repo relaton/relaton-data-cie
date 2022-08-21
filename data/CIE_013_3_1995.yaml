@@ -1,14 +1,14 @@
 ---
 id: CIE013.3-1995
 title:
-- type: title-main
-  content: Method of measuring and specifying colour rendering properties of light
+- content: Method of measuring and specifying colour rendering properties of light
     sources
   format: text/plain
-- type: main
-  content: Method of measuring and specifying colour rendering properties of light
+  type: title-main
+- content: Method of measuring and specifying colour rendering properties of light
     sources
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-013-3-1995?product_id=1209965
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -57,4 +58,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

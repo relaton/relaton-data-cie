@@ -1,14 +1,14 @@
 ---
 id: CIEPO29556-563
 title:
-- type: title-main
-  content: MAIN PROBLEMS AND SOLUTIONS FOR TEMPORARY EXHIBITION SPACE LIGHTING (PO29,
+- content: MAIN PROBLEMS AND SOLUTIONS FOR TEMPORARY EXHIBITION SPACE LIGHTING (PO29,
     556-563)
   format: text/plain
-- type: main
-  content: MAIN PROBLEMS AND SOLUTIONS FOR TEMPORARY EXHIBITION SPACE LIGHTING (PO29,
+  type: title-main
+- content: MAIN PROBLEMS AND SOLUTIONS FOR TEMPORARY EXHIBITION SPACE LIGHTING (PO29,
     556-563)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/main-problems-and-solutions-for-temporary-exhibition-space-lighting-po29-556-563?product_id=2016305
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: Z
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Xudong
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Z
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Jingfeng
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: W
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Aiying
         language:
@@ -71,8 +53,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -98,4 +81,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,12 +1,12 @@
 ---
 id: CIE222-2017
 title:
-- type: title-main
-  content: Decision Scheme for Lighting Controls in Non-Residential Buildings
+- content: Decision Scheme for Lighting Controls in Non-Residential Buildings
   format: text/plain
-- type: main
-  content: Decision Scheme for Lighting Controls in Non-Residential Buildings
+  type: title-main
+- content: Decision Scheme for Lighting Controls in Non-Residential Buildings
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-222-2017?product_id=1942987
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -48,4 +49,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

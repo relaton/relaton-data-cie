@@ -1,15 +1,15 @@
 ---
 id: CIES014-3/E-2011
 title:
-- type: title-main
-  content: Colorimetry
+- content: Colorimetry
   format: text/plain
-- type: title-part
-  content: 'Part 3: CIE Tristimulus Values'
+  type: title-main
+- content: 'Part 3: CIE Tristimulus Values'
   format: text/plain
-- type: main
-  content: 'Colorimetry - Part 3: CIE Tristimulus Values'
+  type: title-part
+- content: 'Colorimetry - Part 3: CIE Tristimulus Values'
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-s-014-3-e-2011?product_id=1802093
   type: src
@@ -24,8 +24,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -58,15 +59,15 @@ relation:
   bibitem:
     id: ISO/CIE11664-3-2019
     title:
-    - type: title-main
-      content: Colorimetry
+    - content: Colorimetry
       format: text/plain
-    - type: title-part
-      content: 'Part 3: CIE tristimulus values'
+      type: title-main
+    - content: 'Part 3: CIE tristimulus values'
       format: text/plain
-    - type: main
-      content: 'Colorimetry - Part 3: CIE tristimulus values'
+      type: title-part
+    - content: 'Colorimetry - Part 3: CIE tristimulus values'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/iso-cie-11664-3-2019?product_id=2078732
       type: src
@@ -82,15 +83,15 @@ relation:
   bibitem:
     id: ISO/CIE11664-3-2019
     title:
-    - type: title-main
-      content: Colorimetry
+    - content: Colorimetry
       format: text/plain
-    - type: title-part
-      content: 'Part 3: CIE tristimulus values'
+      type: title-main
+    - content: 'Part 3: CIE tristimulus values'
       format: text/plain
-    - type: main
-      content: 'Colorimetry - Part 3: CIE tristimulus values'
+      type: title-part
+    - content: 'Colorimetry - Part 3: CIE tristimulus values'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/iso-cie-11664-3-2019?product_id=2075648
       type: src
@@ -106,15 +107,15 @@ relation:
   bibitem:
     id: CIES014-3/E-2011(ISO11664-3-2012)
     title:
-    - type: title-main
-      content: Colorimetry
+    - content: Colorimetry
       format: text/plain
-    - type: title-part
-      content: 'Part 3: CIE Tristimulus Values'
+      type: title-main
+    - content: 'Part 3: CIE Tristimulus Values'
       format: text/plain
-    - type: main
-      content: 'Colorimetry - Part 3: CIE Tristimulus Values'
+      type: title-part
+    - content: 'Colorimetry - Part 3: CIE Tristimulus Values'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-s-014-3-e-2011-iso-11664-3-2012?product_id=1844374
       type: src
@@ -130,15 +131,15 @@ relation:
   bibitem:
     id: ISO11664-3-2012
     title:
-    - type: title-main
-      content: Colorimetry
+    - content: Colorimetry
       format: text/plain
-    - type: title-part
-      content: 'Part 3: CIE tristimulus values'
+      type: title-main
+    - content: 'Part 3: CIE tristimulus values'
       format: text/plain
-    - type: main
-      content: 'Colorimetry - Part 3: CIE tristimulus values'
+      type: title-part
+    - content: 'Colorimetry - Part 3: CIE tristimulus values'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/iso-11664-3-2012?product_id=1832106
       type: src
@@ -150,4 +151,5 @@ relation:
     - type: published
       value: '2012-04-15'
     revdate: '2012-04-15'
+fetched: '2022-08-21'
 doctype: document

@@ -1,14 +1,14 @@
 ---
 id: CIEPP15330-338
 title:
-- type: title-main
-  content: ALTERNATIVE METHOD FOR LUMINOUS INTENSITY DISTRIBUTION ASSESSMENT (PP15,
+- content: ALTERNATIVE METHOD FOR LUMINOUS INTENSITY DISTRIBUTION ASSESSMENT (PP15,
     330-338)
   format: text/plain
-- type: main
-  content: ALTERNATIVE METHOD FOR LUMINOUS INTENSITY DISTRIBUTION ASSESSMENT (PP15,
+  type: title-main
+- content: ALTERNATIVE METHOD FOR LUMINOUS INTENSITY DISTRIBUTION ASSESSMENT (PP15,
     330-338)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/alternative-method-for-luminous-intensity-distribution-assessment-pp15-330-338?product_id=2016261
   type: src
@@ -23,17 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: D
-        language:
-        - en
-        script:
-        - Latn
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Ospina
         language:
@@ -44,17 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Romero
         language:
@@ -65,17 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: L
-        language:
-        - en
-        script:
-        - Latn
-      - content: E
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Bermeo
         language:
@@ -86,17 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Quintero
         language:
@@ -107,8 +63,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -130,4 +87,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

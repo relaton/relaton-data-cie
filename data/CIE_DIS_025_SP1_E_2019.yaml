@@ -1,12 +1,12 @@
 ---
 id: CIEDIS025-SP1/E-2019
 title:
-- type: title-main
-  content: Test Method for OLED Luminaires and OLED Light Sources
+- content: Test Method for OLED Luminaires and OLED Light Sources
   format: text/plain
-- type: main
-  content: Test Method for OLED Luminaires and OLED Light Sources
+  type: title-main
+- content: Test Method for OLED Luminaires and OLED Light Sources
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-dis-025-sp1-e-2019?product_id=2078723
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -50,14 +51,14 @@ relation:
   bibitem:
     id: CIES025-SP1/E-2019
     title:
-    - type: title-main
-      content: 'Test Method for LED Lamps, LED Luminaires and LED Modules Supplement
+    - content: 'Test Method for LED Lamps, LED Luminaires and LED Modules Supplement
         1: Test Method for OLED Luminaires and OLED Light Sources'
       format: text/plain
-    - type: main
-      content: 'Test Method for LED Lamps, LED Luminaires and LED Modules Supplement
+      type: title-main
+    - content: 'Test Method for LED Lamps, LED Luminaires and LED Modules Supplement
         1: Test Method for OLED Luminaires and OLED Light Sources'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-s-025-sp1-e-2019?product_id=2092150
       type: src
@@ -69,4 +70,5 @@ relation:
     - type: published
       value: '2019-11-01'
     revdate: '2019-11-01'
+fetched: '2022-08-21'
 doctype: document

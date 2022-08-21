@@ -1,16 +1,16 @@
 ---
 id: CIEPO891103-1108
 title:
-- type: title-main
-  content: |-
+- content: |-
     IS LIGHTING THE PAVEMENT IMPORTANT?
      (PO89, 1103-1108)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     IS LIGHTING THE PAVEMENT IMPORTANT?
      (PO89, 1103-1108)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/is-lighting-the-pavement-important-po89-1103-1108?product_id=2011225
   type: src
@@ -25,12 +25,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Unwin
         language:
@@ -41,12 +35,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Thomas
         language:
@@ -57,12 +45,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Raynham
         language:
@@ -73,12 +55,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Durante
         language:
@@ -89,8 +65,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -115,4 +92,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

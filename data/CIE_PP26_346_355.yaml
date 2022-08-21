@@ -1,14 +1,14 @@
 ---
 id: CIEPP26346-355
 title:
-- type: title-main
-  content: 'EXPLORING THE OPTIMISTIC DAYLIGHTING DESIGN METHOD: IS COMPUTATIONAL SIMULATION
+- content: 'EXPLORING THE OPTIMISTIC DAYLIGHTING DESIGN METHOD: IS COMPUTATIONAL SIMULATION
     ACCURATE ENOUGH? (PP26, 346-355)'
   format: text/plain
-- type: main
-  content: 'EXPLORING THE OPTIMISTIC DAYLIGHTING DESIGN METHOD: IS COMPUTATIONAL SIMULATION
+  type: title-main
+- content: 'EXPLORING THE OPTIMISTIC DAYLIGHTING DESIGN METHOD: IS COMPUTATIONAL SIMULATION
     ACCURATE ENOUGH? (PP26, 346-355)'
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/exploring-the-optimistic-daylighting-design-method-is-computational-simulation-accurate-enough-pp26-346-355?product_id=2016271
   type: src
@@ -23,12 +23,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Jialu
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Jialu
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Wu
         language:
@@ -39,12 +40,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Di
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Di
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Xiao
         language:
@@ -55,12 +57,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Tikuan
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Tikuan
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Deng
         language:
@@ -71,12 +74,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Lei
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Lei
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Yu
         language:
@@ -87,12 +91,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Biao
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Biao
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Yang
         language:
@@ -103,8 +108,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -133,4 +139,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,12 +1,12 @@
 ---
 id: CIE138-2000
 title:
-- type: title-main
-  content: CIE Collection in photobiology and photochemistry 2000
+- content: CIE Collection in photobiology and photochemistry 2000
   format: text/plain
-- type: main
-  content: CIE Collection in photobiology and photochemistry 2000
+  type: title-main
+- content: CIE Collection in photobiology and photochemistry 2000
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-138-2000?product_id=1210056
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -60,4 +61,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

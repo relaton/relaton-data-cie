@@ -1,12 +1,12 @@
 ---
 id: CIE249-2022
 title:
-- type: title-main
-  content: Visual Aspects of Time-Modulated Lighting Systems
+- content: Visual Aspects of Time-Modulated Lighting Systems
   format: text/plain
-- type: main
-  content: Visual Aspects of Time-Modulated Lighting Systems
+  type: title-main
+- content: Visual Aspects of Time-Modulated Lighting Systems
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-249-2022?product_id=2252796
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -45,4 +46,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

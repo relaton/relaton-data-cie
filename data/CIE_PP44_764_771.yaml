@@ -1,16 +1,16 @@
 ---
 id: CIEPP44764-771
 title:
-- type: title-main
-  content: |-
+- content: |-
     EYE-MOVEMENT SPEED DEPENDENCE OF THE PHANTOM ARRAY
     (PP44, 764-771)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     EYE-MOVEMENT SPEED DEPENDENCE OF THE PHANTOM ARRAY
     (PP44, 764-771)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/eye-movement-speed-dependence-of-the-phantom-array-pp44-764-771?product_id=2011373
   type: src
@@ -25,17 +25,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kang
         language:
@@ -46,17 +35,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
-      - content: W
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Park
         language:
@@ -67,17 +45,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
-      - content: W
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Lee
         language:
@@ -88,17 +55,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Lee
         language:
@@ -109,8 +65,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -133,4 +90,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

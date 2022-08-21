@@ -1,14 +1,14 @@
 ---
 id: CIEx043-PO50
 title:
-- type: title-main
-  content: COLORIMETRIC PROPERTIES OF LED ILLUMINATED ROADS STUDIED BY IN-FIELD MEASUREMENTS
+- content: COLORIMETRIC PROPERTIES OF LED ILLUMINATED ROADS STUDIED BY IN-FIELD MEASUREMENTS
     AND SIMULATIONS (PO50, Pages 470-475)
   format: text/plain
-- type: main
-  content: COLORIMETRIC PROPERTIES OF LED ILLUMINATED ROADS STUDIED BY IN-FIELD MEASUREMENTS
+  type: title-main
+- content: COLORIMETRIC PROPERTIES OF LED ILLUMINATED ROADS STUDIED BY IN-FIELD MEASUREMENTS
     AND SIMULATIONS (PO50, Pages 470-475)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/colorimetric-properties-of-led-illuminated-roads-studied-by-in-field-measurements-and-simulations-po50-pages-470-475?product_id=1941873
   type: src
@@ -23,17 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
-      - content: W
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Hsu
         language:
@@ -44,17 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Chen
         language:
@@ -65,17 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
-      - content: N
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Wu
         language:
@@ -86,17 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Hung
         language:
@@ -107,8 +63,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -132,4 +89,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

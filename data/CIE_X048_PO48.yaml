@@ -1,12 +1,12 @@
 ---
 id: CIEx048-PO48
 title:
-- type: title-main
-  content: DEVELOPMENT OF NEW STANDARDS FOR MUSEUM LIGHTING
+- content: DEVELOPMENT OF NEW STANDARDS FOR MUSEUM LIGHTING
   format: text/plain
-- type: main
-  content: DEVELOPMENT OF NEW STANDARDS FOR MUSEUM LIGHTING
+  type: title-main
+- content: DEVELOPMENT OF NEW STANDARDS FOR MUSEUM LIGHTING
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-po48?product_id=2240855
   type: src
@@ -21,17 +21,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Bartseva
         language:
@@ -42,17 +31,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
-      - content: G
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Shakhparunyants
         language:
@@ -63,12 +41,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Chernyak
         language:
@@ -79,17 +51,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
-      - content: I
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Sh. Stolyarevskaya
         language:
@@ -100,17 +61,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: E
-        language:
-        - en
-        script:
-        - Latn
-      - content: I
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Rozovskiy
         language:
@@ -121,8 +71,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -145,4 +96,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

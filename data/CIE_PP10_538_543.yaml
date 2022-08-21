@@ -1,14 +1,14 @@
 ---
 id: CIEPP10538-543
 title:
-- type: title-main
-  content: CHARACTERIZING AN INTEGRATING SPHERE PHOTOMETER  FOR MEASUREMENTS OF SOLID-STATE
+- content: CHARACTERIZING AN INTEGRATING SPHERE PHOTOMETER  FOR MEASUREMENTS OF SOLID-STATE
     LIGHTING PANELS (PP10, 538-543)
   format: text/plain
-- type: main
-  content: CHARACTERIZING AN INTEGRATING SPHERE PHOTOMETER  FOR MEASUREMENTS OF SOLID-STATE
+  type: title-main
+- content: CHARACTERIZING AN INTEGRATING SPHERE PHOTOMETER  FOR MEASUREMENTS OF SOLID-STATE
     LIGHTING PANELS (PP10, 538-543)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/characterizing-an-integrating-sphere-photometer-for-measurements-of-solid-state-lighting-panels-pp10-538-543?product_id=2011267
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Askola
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Poikonen
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Pulli
         language:
@@ -71,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: E
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Ikonen
         language:
@@ -87,8 +63,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -114,4 +91,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

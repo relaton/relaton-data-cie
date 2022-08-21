@@ -1,18 +1,18 @@
 ---
 id: CIEPO43984-989
 title:
-- type: title-main
-  content: |-
+- content: |-
     REFERENCE UV LED SOURCES
 
      (PO43, 984-989)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     REFERENCE UV LED SOURCES
 
      (PO43, 984-989)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/reference-uv-led-sources-po43-984-989?product_id=2011179
   type: src
@@ -27,17 +27,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Nikanenka
         language:
@@ -48,17 +37,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Danilchyk
         language:
@@ -69,17 +47,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Dlugunovich
         language:
@@ -90,17 +57,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kreidzich
         language:
@@ -111,17 +67,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Rzheutski
         language:
@@ -132,17 +77,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: D
-        language:
-        - en
-        script:
-        - Latn
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Scums
         language:
@@ -153,17 +87,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: E
-        language:
-        - en
-        script:
-        - Latn
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Lutsenko
         language:
@@ -174,8 +97,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -193,4 +117,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

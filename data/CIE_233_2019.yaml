@@ -1,12 +1,12 @@
 ---
 id: CIE233-2019
 title:
-- type: title-main
-  content: Calibration, Characterization and Use of Array Spectroradiometers
+- content: Calibration, Characterization and Use of Array Spectroradiometers
   format: text/plain
-- type: main
-  content: Calibration, Characterization and Use of Array Spectroradiometers
+  type: title-main
+- content: Calibration, Characterization and Use of Array Spectroradiometers
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-233-2019?product_id=2075193
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -50,4 +51,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

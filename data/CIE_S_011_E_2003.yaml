@@ -1,15 +1,15 @@
 ---
 id: CIES011/E-2003
 title:
-- type: title-intro
-  content: Spatial distribution of daylight
+- content: Spatial distribution of daylight
   format: text/plain
-- type: title-main
-  content: CIE Standard General Sky
+  type: title-intro
+- content: CIE Standard General Sky
   format: text/plain
-- type: main
-  content: Spatial distribution of daylight - CIE Standard General Sky
+  type: title-main
+- content: Spatial distribution of daylight - CIE Standard General Sky
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-s-011-e-2003-iso-15469-2004?product_id=1210088
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -62,4 +63,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

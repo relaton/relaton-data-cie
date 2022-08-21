@@ -1,14 +1,14 @@
 ---
 id: CIEx048-OP57
 title:
-- type: title-main
-  content: THE DIFFUSENESS OF ILLUMINATION SUITABLE FOR REPRODUCING OBJECT SURFACE
+- content: THE DIFFUSENESS OF ILLUMINATION SUITABLE FOR REPRODUCING OBJECT SURFACE
     APPEARANCE USING COMPUTER GRAPHICS
   format: text/plain
-- type: main
-  content: THE DIFFUSENESS OF ILLUMINATION SUITABLE FOR REPRODUCING OBJECT SURFACE
+  type: title-main
+- content: THE DIFFUSENESS OF ILLUMINATION SUITABLE FOR REPRODUCING OBJECT SURFACE
     APPEARANCE USING COMPUTER GRAPHICS
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-op57?product_id=2240809
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Mizushima
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kudo
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Dobashi
         language:
@@ -71,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Mizokami
         language:
@@ -87,8 +63,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -116,4 +93,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

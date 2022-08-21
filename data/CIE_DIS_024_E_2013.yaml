@@ -1,15 +1,15 @@
 ---
 id: CIEDIS024/E-2013
 title:
-- type: title-intro
-  content: Light Emitting Diodes (LEDs) and LED Assemblies
+- content: Light Emitting Diodes (LEDs) and LED Assemblies
   format: text/plain
-- type: title-main
-  content: Terms and Definitions
+  type: title-intro
+- content: Terms and Definitions
   format: text/plain
-- type: main
-  content: Light Emitting Diodes (LEDs) and LED Assemblies - Terms and Definitions
+  type: title-main
+- content: Light Emitting Diodes (LEDs) and LED Assemblies - Terms and Definitions
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-dis-024-e-2013?product_id=1866873
   type: src
@@ -24,8 +24,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -49,19 +50,19 @@ relation:
   bibitem:
     id: CIES017-SP1/E-2015
     title:
-    - type: title-intro
-      content: 'ILV: International Lighting Vocabulary'
+    - content: 'ILV: International Lighting Vocabulary'
       format: text/plain
-    - type: title-main
-      content: 'Supplement 1: Light Emitting Diodes (LEDs) and LED Assemblies'
+      type: title-intro
+    - content: 'Supplement 1: Light Emitting Diodes (LEDs) and LED Assemblies'
       format: text/plain
-    - type: title-part
-      content: Terms and Definitions
+      type: title-main
+    - content: Terms and Definitions
       format: text/plain
-    - type: main
-      content: 'ILV: International Lighting Vocabulary - Supplement 1: Light Emitting
+      type: title-part
+    - content: 'ILV: International Lighting Vocabulary - Supplement 1: Light Emitting
         Diodes (LEDs) and LED Assemblies - Terms and Definitions'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-s-017-sp1-e-2015?product_id=1905349
       type: src
@@ -77,15 +78,15 @@ relation:
   bibitem:
     id: CIEDIS024/E-2015
     title:
-    - type: title-intro
-      content: Light Emitting Diodes (LEDs) and LED Assemblies
+    - content: Light Emitting Diodes (LEDs) and LED Assemblies
       format: text/plain
-    - type: title-main
-      content: Terms and Definitions
+      type: title-intro
+    - content: Terms and Definitions
       format: text/plain
-    - type: main
-      content: Light Emitting Diodes (LEDs) and LED Assemblies - Terms and Definitions
+      type: title-main
+    - content: Light Emitting Diodes (LEDs) and LED Assemblies - Terms and Definitions
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-dis-024-e-2015?product_id=1892851
       type: src
@@ -97,4 +98,5 @@ relation:
     - type: published
       value: '2015-03-01'
     revdate: '2015-03-01'
+fetched: '2022-08-21'
 doctype: document

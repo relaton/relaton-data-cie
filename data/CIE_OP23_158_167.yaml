@@ -1,17 +1,17 @@
 ---
 id: CIEOP23158-167
 title:
-- type: title-intro
-  content: TRANSITORY BUILDINGS
+- content: TRANSITORY BUILDINGS
   format: text/plain
-- type: title-main
-  content: "LASTING EFFECT: AALTO'S EXHIBITION DESIGNS: PARIS WORLDS' FAIR, LAPUA
+  type: title-intro
+- content: "LASTING EFFECT: AALTO'S EXHIBITION DESIGNS: PARIS WORLDS' FAIR, LAPUA
     FORESTRY PAVILION, AND NEW YORK WORLDS' FAIR \n(OP23, 158-167)"
   format: text/plain
-- type: main
-  content: "TRANSITORY BUILDINGS - LASTING EFFECT: AALTO'S EXHIBITION DESIGNS: PARIS
+  type: title-main
+- content: "TRANSITORY BUILDINGS - LASTING EFFECT: AALTO'S EXHIBITION DESIGNS: PARIS
     WORLDS' FAIR, LAPUA FORESTRY PAVILION, AND NEW YORK WORLDS' FAIR \n(OP23, 158-167)"
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/transitory-buildings-lasting-effect-aalto-s-exhibition-designs-paris-worlds-fair-lapua-forestry-pavilion-and-new-york-worlds-fair-op23-158-167?product_id=2010464
   type: src
@@ -26,12 +26,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Cartwright
         language:
@@ -42,8 +36,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -61,4 +56,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

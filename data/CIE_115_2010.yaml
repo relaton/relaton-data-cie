@@ -1,12 +1,12 @@
 ---
 id: CIE115-2010
 title:
-- type: title-main
-  content: Lighting of Roads for Motor and Pedestrian Traffic
+- content: Lighting of Roads for Motor and Pedestrian Traffic
   format: text/plain
-- type: main
-  content: Lighting of Roads for Motor and Pedestrian Traffic
+  type: title-main
+- content: Lighting of Roads for Motor and Pedestrian Traffic
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-115-2010?product_id=1724306
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -58,14 +59,14 @@ relation:
   bibitem:
     id: CIE115-1995
     title:
-    - type: title-main
-      content: Recommendations for the lighting of roads for motor and pedestrian
+    - content: Recommendations for the lighting of roads for motor and pedestrian
         traffic
       format: text/plain
-    - type: main
-      content: Recommendations for the lighting of roads for motor and pedestrian
+      type: title-main
+    - content: Recommendations for the lighting of roads for motor and pedestrian
         traffic
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-115-1995?product_id=1210038
       type: src
@@ -81,12 +82,12 @@ relation:
   bibitem:
     id: CIE023-1973
     title:
-    - type: title-main
-      content: International recommendations for motorway lighting
+    - content: International recommendations for motorway lighting
       format: text/plain
-    - type: main
-      content: International recommendations for motorway lighting
+      type: title-main
+    - content: International recommendations for motorway lighting
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-023-1973?product_id=1210137
       type: src
@@ -98,4 +99,5 @@ relation:
     - type: published
       value: '1973-01-01'
     revdate: '1973-01-01'
+fetched: '2022-08-21'
 doctype: document

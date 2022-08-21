@@ -1,12 +1,12 @@
 ---
 id: CIE097-2005
 title:
-- type: title-main
-  content: Maintenance of indoor electric lighting systems
+- content: Maintenance of indoor electric lighting systems
   format: text/plain
-- type: main
-  content: Maintenance of indoor electric lighting systems
+  type: title-main
+- content: Maintenance of indoor electric lighting systems
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-097-2005?product_id=1252706
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -50,12 +51,12 @@ relation:
   bibitem:
     id: CIE097-1992
     title:
-    - type: title-main
-      content: Maintenance of indoor electric lighting systems
+    - content: Maintenance of indoor electric lighting systems
       format: text/plain
-    - type: main
-      content: Maintenance of indoor electric lighting systems
+      type: title-main
+    - content: Maintenance of indoor electric lighting systems
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-097-1992?product_id=1210133
       type: src
@@ -67,4 +68,5 @@ relation:
     - type: published
       value: '1992-01-01'
     revdate: '1992-01-01'
+fetched: '2022-08-21'
 doctype: document

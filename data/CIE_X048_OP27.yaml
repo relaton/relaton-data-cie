@@ -1,12 +1,12 @@
 ---
 id: CIEx048-OP27
 title:
-- type: title-main
-  content: FACILITY FOR CALIBRATION OF PHOTOMETERS FOR TEMPORAL LIGHT MODULATION
+- content: FACILITY FOR CALIBRATION OF PHOTOMETERS FOR TEMPORAL LIGHT MODULATION
   format: text/plain
-- type: main
-  content: FACILITY FOR CALIBRATION OF PHOTOMETERS FOR TEMPORAL LIGHT MODULATION
+  type: title-main
+- content: FACILITY FOR CALIBRATION OF PHOTOMETERS FOR TEMPORAL LIGHT MODULATION
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-op27?product_id=2240717
   type: src
@@ -21,17 +21,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Dekker
         language:
@@ -42,17 +31,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
-      - content: L
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: van Bloois
         language:
@@ -63,8 +41,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -89,4 +68,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

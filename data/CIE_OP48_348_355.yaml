@@ -1,18 +1,18 @@
 ---
 id: CIEOP48348-355
 title:
-- type: title-main
-  content: |-
+- content: |-
     THE APPLICATION OF MEAN ROOM SURFACE EXITANCE INTO LIGHTING DESIGN PRACTICE
 
      (OP48, 348-355)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     THE APPLICATION OF MEAN ROOM SURFACE EXITANCE INTO LIGHTING DESIGN PRACTICE
 
      (OP48, 348-355)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/the-application-of-mean-room-surface-exitance-into-lighting-design-practice-op48-348-355?product_id=2010520
   type: src
@@ -27,12 +27,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Durante
         language:
@@ -43,12 +37,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Duff
         language:
@@ -59,12 +47,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kelly
         language:
@@ -75,8 +57,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -104,4 +87,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

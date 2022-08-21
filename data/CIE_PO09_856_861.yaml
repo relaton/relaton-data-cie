@@ -1,14 +1,14 @@
 ---
 id: CIEPO09856-861
 title:
-- type: title-main
-  content: 'TRADE-OFF BETWEEN COLOR FIDELITY AND COLOR GAMUT: A CASE STUDY (PO09,
+- content: 'TRADE-OFF BETWEEN COLOR FIDELITY AND COLOR GAMUT: A CASE STUDY (PO09,
     856-861)'
   format: text/plain
-- type: main
-  content: 'TRADE-OFF BETWEEN COLOR FIDELITY AND COLOR GAMUT: A CASE STUDY (PO09,
+  type: title-main
+- content: 'TRADE-OFF BETWEEN COLOR FIDELITY AND COLOR GAMUT: A CASE STUDY (PO09,
     856-861)'
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/trade-off-between-color-fidelity-and-color-gamut-a-case-study-po09-856-861?product_id=2011160
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: F
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Zhang
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Xu
         language:
@@ -55,8 +43,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -82,4 +71,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

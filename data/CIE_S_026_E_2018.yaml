@@ -1,14 +1,14 @@
 ---
 id: CIES026/E-2018
 title:
-- type: title-main
-  content: CIE System for Metrology of Optical Radiation for ipRGC-Influenced Responses
+- content: CIE System for Metrology of Optical Radiation for ipRGC-Influenced Responses
     to Light
   format: text/plain
-- type: main
-  content: CIE System for Metrology of Optical Radiation for ipRGC-Influenced Responses
+  type: title-main
+- content: CIE System for Metrology of Optical Radiation for ipRGC-Influenced Responses
     to Light
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-s-026-e-2018?product_id=2030705
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -52,14 +53,14 @@ relation:
   bibitem:
     id: CIEDIS026/E-2018
     title:
-    - type: title-main
-      content: CIE System for Metrology of Optical Radiation for ipRGC-Influenced
+    - content: CIE System for Metrology of Optical Radiation for ipRGC-Influenced
         Responses to Light
       format: text/plain
-    - type: main
-      content: CIE System for Metrology of Optical Radiation for ipRGC-Influenced
+      type: title-main
+    - content: CIE System for Metrology of Optical Radiation for ipRGC-Influenced
         Responses to Light
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-dis-026-e-2018?product_id=2019562
       type: src
@@ -71,4 +72,5 @@ relation:
     - type: published
       value: '2018-07-01'
     revdate: '2018-07-01'
+fetched: '2022-08-21'
 doctype: document

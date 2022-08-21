@@ -1,12 +1,12 @@
 ---
 id: CIE242-2020
 title:
-- type: title-main
-  content: Photometry of Curved and Flexible OLED and LED Sources
+- content: Photometry of Curved and Flexible OLED and LED Sources
   format: text/plain
-- type: main
-  content: Photometry of Curved and Flexible OLED and LED Sources
+  type: title-main
+- content: Photometry of Curved and Flexible OLED and LED Sources
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-242-2020?product_id=2203211
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -40,4 +41,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,12 +1,12 @@
 ---
 id: CIE018-2019
 title:
-- type: title-main
-  content: The Basis of Physical Photometry
+- content: The Basis of Physical Photometry
   format: text/plain
-- type: main
-  content: The Basis of Physical Photometry
+  type: title-main
+- content: The Basis of Physical Photometry
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-018-2019?product_id=2045732
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -54,12 +55,12 @@ relation:
   bibitem:
     id: CIE018.2-1983
     title:
-    - type: title-main
-      content: The Basis of Physical Photometry, 2nd ed. (reprinted 1996)
+    - content: The Basis of Physical Photometry, 2nd ed. (reprinted 1996)
       format: text/plain
-    - type: main
-      content: The Basis of Physical Photometry, 2nd ed. (reprinted 1996)
+      type: title-main
+    - content: The Basis of Physical Photometry, 2nd ed. (reprinted 1996)
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-018-2-1983?product_id=1209967
       type: src
@@ -71,4 +72,5 @@ relation:
     - type: published
       value: '1983-01-01'
     revdate: '1983-01-01'
+fetched: '2022-08-21'
 doctype: document

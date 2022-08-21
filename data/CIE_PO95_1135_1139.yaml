@@ -1,16 +1,16 @@
 ---
 id: CIEPO951135-1139
 title:
-- type: title-main
-  content: |-
+- content: |-
     THE POTENTIAL USAGE OF PUBLIC LIGHTING IN THE SMART CITY
      (PO95, 1135-1139)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     THE POTENTIAL USAGE OF PUBLIC LIGHTING IN THE SMART CITY
      (PO95, 1135-1139)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/the-potential-usage-of-public-lighting-in-the-smart-city-po95-1135-1139?product_id=2011229
   type: src
@@ -25,12 +25,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Novak
         language:
@@ -41,12 +35,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Sokansky
         language:
@@ -57,12 +45,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Koudelka
         language:
@@ -73,12 +55,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Martinek
         language:
@@ -89,8 +65,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -121,4 +98,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

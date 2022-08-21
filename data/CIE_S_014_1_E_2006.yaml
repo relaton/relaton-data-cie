@@ -1,12 +1,12 @@
 ---
 id: CIES014-1/E-2006
 title:
-- type: title-main
-  content: CIE Standard Colorimetric Observers
+- content: CIE Standard Colorimetric Observers
   format: text/plain
-- type: main
-  content: CIE Standard Colorimetric Observers
+  type: title-main
+- content: CIE Standard Colorimetric Observers
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-s-014-1-e-2006-iso-10527-2007-e?product_id=1529645
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -72,15 +73,15 @@ relation:
   bibitem:
     id: ISO/CIE11664-1-2019
     title:
-    - type: title-main
-      content: Colorimetry
+    - content: Colorimetry
       format: text/plain
-    - type: title-part
-      content: 'Part 1: CIE standard colorimetric observers'
+      type: title-main
+    - content: 'Part 1: CIE standard colorimetric observers'
       format: text/plain
-    - type: main
-      content: 'Colorimetry - Part 1: CIE standard colorimetric observers'
+      type: title-part
+    - content: 'Colorimetry - Part 1: CIE standard colorimetric observers'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/iso-cie-11664-1-2019?product_id=2078731
       type: src
@@ -96,15 +97,15 @@ relation:
   bibitem:
     id: ISO/CIE11664-1-2019
     title:
-    - type: title-main
-      content: Colorimetry
+    - content: Colorimetry
       format: text/plain
-    - type: title-part
-      content: 'Part 1: CIE standard colorimetric observers'
+      type: title-main
+    - content: 'Part 1: CIE standard colorimetric observers'
       format: text/plain
-    - type: main
-      content: 'Colorimetry - Part 1: CIE standard colorimetric observers'
+      type: title-part
+    - content: 'Colorimetry - Part 1: CIE standard colorimetric observers'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/iso-cie-11664-1-2019?product_id=2075647
       type: src
@@ -120,12 +121,12 @@ relation:
   bibitem:
     id: CIES014-1/E-2006(ISO11664-1-2007)
     title:
-    - type: title-main
-      content: CIE Standard Colorimetric Observers
+    - content: CIE Standard Colorimetric Observers
       format: text/plain
-    - type: main
-      content: CIE Standard Colorimetric Observers
+      type: title-main
+    - content: CIE Standard Colorimetric Observers
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-s-014-1-e-2006-iso-11664-1-2007?product_id=1601625
       type: src
@@ -141,15 +142,15 @@ relation:
   bibitem:
     id: ISO11664-1-2007
     title:
-    - type: title-main
-      content: Colorimetry
+    - content: Colorimetry
       format: text/plain
-    - type: title-part
-      content: 'Part 1: CIE standard colorimetric observers'
+      type: title-main
+    - content: 'Part 1: CIE standard colorimetric observers'
       format: text/plain
-    - type: main
-      content: 'Colorimetry - Part 1: CIE standard colorimetric observers'
+      type: title-part
+    - content: 'Colorimetry - Part 1: CIE standard colorimetric observers'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/iso-11664-1-2007?product_id=1588249
       type: src
@@ -161,4 +162,5 @@ relation:
     - type: published
       value: '2008-11-01'
     revdate: '2008-11-01'
+fetched: '2022-08-21'
 doctype: document

@@ -1,18 +1,18 @@
 ---
 id: CIEOP57422-426
 title:
-- type: title-main
-  content: |-
+- content: |-
     COMPARISON BETWEEN OLED AND LED LIGHTING: USER PREFERENCES AND INFLUENCE ON WELL-BEING, IN FRANCE AND JAPAN
 
       (OP57, 422-426)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     COMPARISON BETWEEN OLED AND LED LIGHTING: USER PREFERENCES AND INFLUENCE ON WELL-BEING, IN FRANCE AND JAPAN
 
       (OP57, 422-426)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/comparison-between-oled-and-led-lighting-user-preferences-and-influence-on-well-being-in-france-and-japan-op57-422-426?product_id=2010528
   type: src
@@ -27,12 +27,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: D
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Dumortier
         language:
@@ -43,12 +37,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Derlande
         language:
@@ -59,12 +47,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: N
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Yoshizawa
         language:
@@ -75,8 +57,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -94,4 +77,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,14 +1,14 @@
 ---
 id: CIEx043-PO17
 title:
-- type: title-main
-  content: CCT CHANGES OF THE LED'S DEPENDING ON THE ANGLE OF THEIR RADIATION (PO17,
+- content: CCT CHANGES OF THE LED'S DEPENDING ON THE ANGLE OF THEIR RADIATION (PO17,
     Pages 312-318)
   format: text/plain
-- type: main
-  content: CCT CHANGES OF THE LED'S DEPENDING ON THE ANGLE OF THEIR RADIATION (PO17,
+  type: title-main
+- content: CCT CHANGES OF THE LED'S DEPENDING ON THE ANGLE OF THEIR RADIATION (PO17,
     Pages 312-318)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cct-changes-of-the-led-s-depending-on-the-angle-of-their-radiation-po17-pages-312-318?product_id=1941849
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Bos
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Novak
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Sokansky
         language:
@@ -71,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Baleja
         language:
@@ -87,8 +63,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -118,4 +95,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

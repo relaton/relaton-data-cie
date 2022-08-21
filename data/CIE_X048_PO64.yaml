@@ -1,14 +1,14 @@
 ---
 id: CIEx048-PO64
 title:
-- type: title-main
-  content: MODELLING OF VERTICAL SURFACES RADIATION IN CONNECTION WITH THE EVALUATION
+- content: MODELLING OF VERTICAL SURFACES RADIATION IN CONNECTION WITH THE EVALUATION
     OF THE OBTRUSIVE LIGHT
   format: text/plain
-- type: main
-  content: MODELLING OF VERTICAL SURFACES RADIATION IN CONNECTION WITH THE EVALUATION
+  type: title-main
+- content: MODELLING OF VERTICAL SURFACES RADIATION IN CONNECTION WITH THE EVALUATION
     OF THE OBTRUSIVE LIGHT
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-po64?product_id=2240866
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Becak
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Novak
         language:
@@ -55,12 +43,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: al
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: al
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: et
         language:
@@ -71,8 +60,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -99,4 +89,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,14 +1,14 @@
 ---
 id: CIEx026-2005
 title:
-- type: title-main
-  content: 'Proceedings of the CIE Symposium ''04 on LED Light Sources: Physical Measurement
+- content: 'Proceedings of the CIE Symposium ''04 on LED Light Sources: Physical Measurement
     and Visual and Photobiological Assessment, 2nd ed.'
   format: text/plain
-- type: main
-  content: 'Proceedings of the CIE Symposium ''04 on LED Light Sources: Physical Measurement
+  type: title-main
+- content: 'Proceedings of the CIE Symposium ''04 on LED Light Sources: Physical Measurement
     and Visual and Photobiological Assessment, 2nd ed.'
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x026-2005?product_id=1210036
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -57,4 +58,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

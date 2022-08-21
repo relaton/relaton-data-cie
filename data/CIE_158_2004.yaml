@@ -1,12 +1,12 @@
 ---
 id: CIE158-2004
 title:
-- type: title-main
-  content: Ocular lighting effects on human physiology and behaviour
+- content: Ocular lighting effects on human physiology and behaviour
   format: text/plain
-- type: main
-  content: Ocular lighting effects on human physiology and behaviour
+  type: title-main
+- content: Ocular lighting effects on human physiology and behaviour
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-158-2004?product_id=1210074
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -48,14 +49,14 @@ relation:
   bibitem:
     id: CIE158-2009
     title:
-    - type: title-main
-      content: Ocular lighting effects on human physiology and behaviour (including
+    - content: Ocular lighting effects on human physiology and behaviour (including
         erratum 1)
       format: text/plain
-    - type: main
-      content: Ocular lighting effects on human physiology and behaviour (including
+      type: title-main
+    - content: Ocular lighting effects on human physiology and behaviour (including
         erratum 1)
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-158-2009?product_id=1630026
       type: src
@@ -67,4 +68,5 @@ relation:
     - type: published
       value: '2009-01-01'
     revdate: '2009-01-01'
+fetched: '2022-08-21'
 doctype: document

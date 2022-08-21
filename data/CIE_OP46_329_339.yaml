@@ -1,18 +1,18 @@
 ---
 id: CIEOP46329-339
 title:
-- type: title-main
-  content: |-
+- content: |-
     METHODS TO QUANTIFY THE EFFECT OF LIGHT EXPOSURE IN HUMANS AND THEIR PRACTICAL APPLICATION
 
      (OP46, 329-339)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     METHODS TO QUANTIFY THE EFFECT OF LIGHT EXPOSURE IN HUMANS AND THEIR PRACTICAL APPLICATION
 
      (OP46, 329-339)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/methods-to-quantify-the-effect-of-light-exposure-in-humans-and-their-practical-application-op46-329-339?product_id=2010518
   type: src
@@ -27,12 +27,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: F
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Wieland
         language:
@@ -43,12 +37,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Guldner
         language:
@@ -59,12 +47,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Ritter
         language:
@@ -75,8 +57,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -103,4 +86,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

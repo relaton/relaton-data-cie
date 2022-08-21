@@ -1,16 +1,16 @@
 ---
 id: CIEPP46776-785
 title:
-- type: title-main
-  content: |-
+- content: |-
     PUPILLARY LIGHT REFLEX AND RECEPTIVE FIELD CALCULATION OF VISUAL DISCOMFORT FOR DIFFERENT SPATIAL FREQUENCIES AND LUMINANCE STEPS
      (PP46, 776-785)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     PUPILLARY LIGHT REFLEX AND RECEPTIVE FIELD CALCULATION OF VISUAL DISCOMFORT FOR DIFFERENT SPATIAL FREQUENCIES AND LUMINANCE STEPS
      (PP46, 776-785)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/pupillary-light-reflex-and-receptive-field-calculation-of-visual-discomfort-for-different-spatial-frequencies-and-luminance-steps-pp46-776-785?product_id=2011375
   type: src
@@ -25,17 +25,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: G
-        language:
-        - en
-        script:
-        - Latn
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Scheir
         language:
@@ -46,12 +35,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Hanselaer
         language:
@@ -62,17 +45,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: W
-        language:
-        - en
-        script:
-        - Latn
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Ryckaert
         language:
@@ -83,8 +55,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -111,4 +84,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

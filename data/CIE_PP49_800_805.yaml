@@ -1,18 +1,18 @@
 ---
 id: CIEPP49800-805
 title:
-- type: title-main
-  content: |-
+- content: |-
     EXPLORING THE IMPACT OF LED LIGHTING ON DAILY ACTIVITIES FOR THE ELDERLY WITH AGE-RELATED VISUAL IMPAIRMENT
 
      (PP49, 800-805)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     EXPLORING THE IMPACT OF LED LIGHTING ON DAILY ACTIVITIES FOR THE ELDERLY WITH AGE-RELATED VISUAL IMPAIRMENT
 
      (PP49, 800-805)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/exploring-the-impact-of-led-lighting-on-daily-activities-for-the-elderly-with-age-related-visual-impairment-pp49-800-805?product_id=2011378
   type: src
@@ -27,12 +27,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Li
         language:
@@ -43,12 +37,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Ma
         language:
@@ -59,12 +47,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: B
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Yang
         language:
@@ -75,8 +57,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -104,4 +87,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,14 +1,14 @@
 ---
 id: CIEx048-OP06
 title:
-- type: title-main
-  content: 'CAPTURING THE LUMINOUS ENVIRONMENT IN HOSPITAL ROOMS: AN OVERVIEW OF OCCUPANT-
+- content: 'CAPTURING THE LUMINOUS ENVIRONMENT IN HOSPITAL ROOMS: AN OVERVIEW OF OCCUPANT-
     CENTERED METHODS TO INFORM DESIGN PRACTICE'
   format: text/plain
-- type: main
-  content: 'CAPTURING THE LUMINOUS ENVIRONMENT IN HOSPITAL ROOMS: AN OVERVIEW OF OCCUPANT-
+  type: title-main
+- content: 'CAPTURING THE LUMINOUS ENVIRONMENT IN HOSPITAL ROOMS: AN OVERVIEW OF OCCUPANT-
     CENTERED METHODS TO INFORM DESIGN PRACTICE'
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-op06?product_id=2240680
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Garcia-Hansen
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: F
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Rodriguez
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Ong
         language:
@@ -71,8 +53,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -101,4 +84,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

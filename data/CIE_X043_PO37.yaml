@@ -1,14 +1,14 @@
 ---
 id: CIEx043-PO37
 title:
-- type: title-main
-  content: APPEARANCE RESEARCH BASED ON SPECTRUM TUNEABLE LIGHTING SYSTEMS (PO37,
+- content: APPEARANCE RESEARCH BASED ON SPECTRUM TUNEABLE LIGHTING SYSTEMS (PO37,
     Pages 378-380)
   format: text/plain
-- type: main
-  content: APPEARANCE RESEARCH BASED ON SPECTRUM TUNEABLE LIGHTING SYSTEMS (PO37,
+  type: title-main
+- content: APPEARANCE RESEARCH BASED ON SPECTRUM TUNEABLE LIGHTING SYSTEMS (PO37,
     Pages 378-380)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/appearance-research-based-on-spectrum-tuneable-lighting-systems-po37-pages-378-380?product_id=1941859
   type: src
@@ -23,17 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Luo
         language:
@@ -44,8 +33,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -67,4 +57,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,14 +1,14 @@
 ---
 id: CIEx048-OP30
 title:
-- type: title-main
-  content: A NOVEL METHOD FOR STUDYING THRESHOLD LEVELS FOR POSITIVE PHOTOTAXIS IN
+- content: A NOVEL METHOD FOR STUDYING THRESHOLD LEVELS FOR POSITIVE PHOTOTAXIS IN
     INSECTS
   format: text/plain
-- type: main
-  content: A NOVEL METHOD FOR STUDYING THRESHOLD LEVELS FOR POSITIVE PHOTOTAXIS IN
+  type: title-main
+- content: A NOVEL METHOD FOR STUDYING THRESHOLD LEVELS FOR POSITIVE PHOTOTAXIS IN
     INSECTS
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-op30?product_id=2240780
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Nilsson Tengelin
         language:
@@ -39,17 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Jägerbrand
         language:
@@ -60,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Andersson
         language:
@@ -76,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Källberg
         language:
@@ -92,8 +63,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -120,4 +92,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

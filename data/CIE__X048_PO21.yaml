@@ -1,16 +1,16 @@
 ---
 id: CIEx048-PO21
 title:
-- type: title-intro
-  content: HANDLING OF CORRELATIONS OF SPECTRAL QUANTITIES IN TRACEABILITY CHAIN
+- content: HANDLING OF CORRELATIONS OF SPECTRAL QUANTITIES IN TRACEABILITY CHAIN
   format: text/plain
-- type: title-main
-  content: BASICS FOR A PYTHON-BASED ANALYSIS FRAMEWORKE
+  type: title-intro
+- content: BASICS FOR A PYTHON-BASED ANALYSIS FRAMEWORKE
   format: text/plain
-- type: main
-  content: HANDLING OF CORRELATIONS OF SPECTRAL QUANTITIES IN TRACEABILITY CHAIN -
+  type: title-main
+- content: HANDLING OF CORRELATIONS OF SPECTRAL QUANTITIES IN TRACEABILITY CHAIN -
     BASICS FOR A PYTHON-BASED ANALYSIS FRAMEWORKE
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-po21?product_id=2240833
   type: src
@@ -25,12 +25,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Schneider
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Schneider
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Philipp
         language:
@@ -41,12 +42,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Gerloff
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Gerloff
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Thorsten
         language:
@@ -57,12 +59,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Sperling
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Sperling
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Armin
         language:
@@ -73,8 +76,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -101,4 +105,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

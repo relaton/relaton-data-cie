@@ -1,14 +1,14 @@
 ---
 id: CIEx043-PO19
 title:
-- type: title-main
-  content: METHOD FOR THE TREATMENT OF WAVELENGTH-DEPENDENT VOLUME SCATTERING IN A
+- content: METHOD FOR THE TREATMENT OF WAVELENGTH-DEPENDENT VOLUME SCATTERING IN A
     HOMOGENEOUS, ABSORPTIVE MEDIUM (PO19, Pages 319-324)
   format: text/plain
-- type: main
-  content: METHOD FOR THE TREATMENT OF WAVELENGTH-DEPENDENT VOLUME SCATTERING IN A
+  type: title-main
+- content: METHOD FOR THE TREATMENT OF WAVELENGTH-DEPENDENT VOLUME SCATTERING IN A
     HOMOGENEOUS, ABSORPTIVE MEDIUM (PO19, Pages 319-324)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/method-for-the-treatment-of-wavelength-dependent-volume-scattering-in-a-homogeneous-absorptive-medium-po19-pages-319-324?product_id=1941851
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Marutzky
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: B
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kleinert
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Bogdanow
         language:
@@ -71,8 +53,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -97,4 +80,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

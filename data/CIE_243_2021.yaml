@@ -1,12 +1,12 @@
 ---
 id: CIE243-2021
 title:
-- type: title-main
-  content: Discomfort Glare in Road Lighting and Vehicle Lighting
+- content: Discomfort Glare in Road Lighting and Vehicle Lighting
   format: text/plain
-- type: main
-  content: Discomfort Glare in Road Lighting and Vehicle Lighting
+  type: title-main
+- content: Discomfort Glare in Road Lighting and Vehicle Lighting
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-243-2021?product_id=2206300
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -42,4 +43,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

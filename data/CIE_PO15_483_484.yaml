@@ -1,14 +1,14 @@
 ---
 id: CIEPO15483-484
 title:
-- type: title-main
-  content: WAVELENGTH CALIBRATION OF A SPHERE-SPECTROMETER MEASUREMENT CONFIGURATION
+- content: WAVELENGTH CALIBRATION OF A SPHERE-SPECTROMETER MEASUREMENT CONFIGURATION
     (PO15, 483-484)
   format: text/plain
-- type: main
-  content: WAVELENGTH CALIBRATION OF A SPHERE-SPECTROMETER MEASUREMENT CONFIGURATION
+  type: title-main
+- content: WAVELENGTH CALIBRATION OF A SPHERE-SPECTROMETER MEASUREMENT CONFIGURATION
     (PO15, 483-484)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/wavelength-calibration-of-a-sphere-spectrometer-measurement-configuration-po15-483-484?product_id=2016293
   type: src
@@ -23,17 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: E
-        language:
-        - en
-        script:
-        - Latn
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Mofokeng
         language:
@@ -44,8 +33,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -66,4 +56,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

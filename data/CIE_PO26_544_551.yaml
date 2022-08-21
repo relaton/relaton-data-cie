@@ -1,14 +1,14 @@
 ---
 id: CIEPO26544-551
 title:
-- type: title-main
-  content: DUAL-BAND VIDEO-BASED MEASUREMENT FOR NONCONTACT PULSE RATE ESTIMATION
+- content: DUAL-BAND VIDEO-BASED MEASUREMENT FOR NONCONTACT PULSE RATE ESTIMATION
     IN INFRARED (PO26, 544-551)
   format: text/plain
-- type: main
-  content: DUAL-BAND VIDEO-BASED MEASUREMENT FOR NONCONTACT PULSE RATE ESTIMATION
+  type: title-main
+- content: DUAL-BAND VIDEO-BASED MEASUREMENT FOR NONCONTACT PULSE RATE ESTIMATION
     IN INFRARED (PO26, 544-551)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/dual-band-video-based-measurement-for-noncontact-pulse-rate-estimation-in-infrared-po26-544-551?product_id=2016303
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Mitsuhashi
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: G
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Okada
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kurita
         language:
@@ -71,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kagawa
         language:
@@ -87,12 +63,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kawahito
         language:
@@ -103,12 +73,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Koopipat
         language:
@@ -119,12 +83,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: N
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Tsumura
         language:
@@ -135,8 +93,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -163,4 +122,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

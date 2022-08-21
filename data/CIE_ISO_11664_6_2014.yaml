@@ -1,15 +1,15 @@
 ---
 id: CIEISO11664-6-2014
 title:
-- type: title-main
-  content: Colorimetry
+- content: Colorimetry
   format: text/plain
-- type: title-part
-  content: 'Part 6: CIEDE2000 Colour-difference formula'
+  type: title-main
+- content: 'Part 6: CIEDE2000 Colour-difference formula'
   format: text/plain
-- type: main
-  content: 'Colorimetry - Part 6: CIEDE2000 Colour-difference formula'
+  type: title-part
+- content: 'Colorimetry - Part 6: CIEDE2000 Colour-difference formula'
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-iso-11664-6-2014?product_id=1872458
   type: src
@@ -24,8 +24,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -53,15 +54,15 @@ relation:
   bibitem:
     id: CIES014-6/E-2013
     title:
-    - type: title-main
-      content: Colorimetry
+    - content: Colorimetry
       format: text/plain
-    - type: title-part
-      content: 'Part 6: CIEDE2000 Colour-Difference Formula'
+      type: title-main
+    - content: 'Part 6: CIEDE2000 Colour-Difference Formula'
       format: text/plain
-    - type: main
-      content: 'Colorimetry - Part 6: CIEDE2000 Colour-Difference Formula'
+      type: title-part
+    - content: 'Colorimetry - Part 6: CIEDE2000 Colour-Difference Formula'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-s-014-6-e-2013?product_id=1852484
       type: src
@@ -77,15 +78,15 @@ relation:
   bibitem:
     id: CIEDS014-6/E-2012
     title:
-    - type: title-main
-      content: Colorimetry
+    - content: Colorimetry
       format: text/plain
-    - type: title-part
-      content: 'Part 6: CIEDE2000 Colour-Difference Formula'
+      type: title-main
+    - content: 'Part 6: CIEDE2000 Colour-Difference Formula'
       format: text/plain
-    - type: main
-      content: 'Colorimetry - Part 6: CIEDE2000 Colour-Difference Formula'
+      type: title-part
+    - content: 'Colorimetry - Part 6: CIEDE2000 Colour-Difference Formula'
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-ds-014-6-e-2012?product_id=1831709
       type: src
@@ -97,4 +98,5 @@ relation:
     - type: published
       value: '2012-04-30'
     revdate: '2012-04-30'
+fetched: '2022-08-21'
 doctype: document

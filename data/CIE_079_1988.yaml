@@ -1,12 +1,12 @@
 ---
 id: CIE079-1988
 title:
-- type: title-main
-  content: A guide for the design of road traffic lights
+- content: A guide for the design of road traffic lights
   format: text/plain
-- type: main
-  content: A guide for the design of road traffic lights
+  type: title-main
+- content: A guide for the design of road traffic lights
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-079-1988?product_id=1210007
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -84,15 +85,15 @@ relation:
   bibitem:
     id: CIES006.1/E-1998(ISO16508-1999)
     title:
-    - type: title-intro
-      content: Road traffic lights
+    - content: Road traffic lights
       format: text/plain
-    - type: title-main
-      content: Photometric properties of 200 mm roundel signals
+      type: title-intro
+    - content: Photometric properties of 200 mm roundel signals
       format: text/plain
-    - type: main
-      content: Road traffic lights - Photometric properties of 200 mm roundel signals
+      type: title-main
+    - content: Road traffic lights - Photometric properties of 200 mm roundel signals
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-s-006-1-e-1998-iso-16508-1999?product_id=1210129
       type: src
@@ -108,12 +109,12 @@ relation:
   bibitem:
     id: CIE048-1980
     title:
-    - type: title-main
-      content: Light signals for road traffic control
+    - content: Light signals for road traffic control
       format: text/plain
-    - type: main
-      content: Light signals for road traffic control
+      type: title-main
+    - content: Light signals for road traffic control
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-048-1980?product_id=1209980
       type: src
@@ -125,4 +126,5 @@ relation:
     - type: published
       value: '1980-01-01'
     revdate: '1980-01-01'
+fetched: '2022-08-21'
 doctype: document

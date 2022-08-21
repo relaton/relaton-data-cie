@@ -1,14 +1,14 @@
 ---
 id: CIEPP45772-775
 title:
-- type: title-main
-  content: 'VISUAL CLARITY AND BRIGHTNESS IN INDOOR AND OUTDOOR LIGHTING: EXPERIMENTS
+- content: 'VISUAL CLARITY AND BRIGHTNESS IN INDOOR AND OUTDOOR LIGHTING: EXPERIMENTS
     AND MODELLING (PP45, 772-775)'
   format: text/plain
-- type: main
-  content: 'VISUAL CLARITY AND BRIGHTNESS IN INDOOR AND OUTDOOR LIGHTING: EXPERIMENTS
+  type: title-main
+- content: 'VISUAL CLARITY AND BRIGHTNESS IN INDOOR AND OUTDOOR LIGHTING: EXPERIMENTS
     AND MODELLING (PP45, 772-775)'
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/visual-clarity-and-brightness-in-indoor-and-outdoor-lighting-experiments-and-modelling-pp45-772-775?product_id=2011374
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Bodrogi
         language:
@@ -39,17 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
-      - content: Q
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Khanh
         language:
@@ -60,8 +43,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -85,4 +69,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

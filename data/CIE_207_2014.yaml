@@ -1,14 +1,14 @@
 ---
 id: CIE207-2014
 title:
-- type: title-main
-  content: Sensitivity of Human Skin to Ultraviolet Radiation, Expressed as Minimal
+- content: Sensitivity of Human Skin to Ultraviolet Radiation, Expressed as Minimal
     Erythema Dose (MED)
   format: text/plain
-- type: main
-  content: Sensitivity of Human Skin to Ultraviolet Radiation, Expressed as Minimal
+  type: title-main
+- content: Sensitivity of Human Skin to Ultraviolet Radiation, Expressed as Minimal
     Erythema Dose (MED)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-207-2014?product_id=1872934
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -45,4 +46,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

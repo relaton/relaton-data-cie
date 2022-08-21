@@ -1,12 +1,12 @@
 ---
 id: CIE106-1993
 title:
-- type: title-main
-  content: CIE Collection in photobiology and photochemistry
+- content: CIE Collection in photobiology and photochemistry
   format: text/plain
-- type: main
-  content: CIE Collection in photobiology and photochemistry
+  type: title-main
+- content: CIE Collection in photobiology and photochemistry
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-106-1993?product_id=1210028
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -94,4 +95,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

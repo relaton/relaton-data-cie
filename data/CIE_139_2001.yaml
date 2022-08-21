@@ -1,16 +1,16 @@
 ---
 id: CIE139-2001
 title:
-- type: title-intro
-  content: The influence of daylight and artificial light variations in humans
+- content: The influence of daylight and artificial light variations in humans
   format: text/plain
-- type: title-main
-  content: a bibliography
+  type: title-intro
+- content: a bibliography
   format: text/plain
-- type: main
-  content: The influence of daylight and artificial light variations in humans - a
+  type: title-main
+- content: The influence of daylight and artificial light variations in humans - a
     bibliography
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-139-2001?product_id=1210057
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -63,4 +64,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

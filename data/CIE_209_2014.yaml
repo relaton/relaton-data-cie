@@ -1,12 +1,12 @@
 ---
 id: CIE209-2014
 title:
-- type: title-main
-  content: Rationalizing Nomenclature for UV Doses and Effects on Humans
+- content: Rationalizing Nomenclature for UV Doses and Effects on Humans
   format: text/plain
-- type: main
-  content: Rationalizing Nomenclature for UV Doses and Effects on Humans
+  type: title-main
+- content: Rationalizing Nomenclature for UV Doses and Effects on Humans
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-209-2014?product_id=1876145
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -51,4 +52,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

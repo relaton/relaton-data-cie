@@ -1,12 +1,12 @@
 ---
 id: CIE124-1997
 title:
-- type: title-main
-  content: CIE Collection in Colour and Vision 1997
+- content: CIE Collection in Colour and Vision 1997
   format: text/plain
-- type: main
-  content: CIE Collection in Colour and Vision 1997
+  type: title-main
+- content: CIE Collection in Colour and Vision 1997
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-124-1997?product_id=1210046
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -54,4 +55,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

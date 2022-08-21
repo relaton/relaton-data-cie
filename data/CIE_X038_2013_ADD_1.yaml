@@ -1,14 +1,14 @@
 ---
 id: CIEx038-2013Add1
 title:
-- type: title-main
-  content: Proceedings of CIE Centenary Conference "Towards a New Century of Light"
+- content: Proceedings of CIE Centenary Conference "Towards a New Century of Light"
     Paris, France, 15-16 April 2013, Includes Addendum 1
   format: text/plain
-- type: main
-  content: Proceedings of CIE Centenary Conference "Towards a New Century of Light"
+  type: title-main
+- content: Proceedings of CIE Centenary Conference "Towards a New Century of Light"
     Paris, France, 15-16 April 2013, Includes Addendum 1
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x038-2013?product_id=1860287
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -62,14 +63,14 @@ relation:
   bibitem:
     id: CIEx038-2013
     title:
-    - type: title-main
-      content: Proceedings of CIE Centenary Conference "Towards a New Century of Light"
+    - content: Proceedings of CIE Centenary Conference "Towards a New Century of Light"
         Paris, France, 15-16 April 2013
       format: text/plain
-    - type: main
-      content: Proceedings of CIE Centenary Conference "Towards a New Century of Light"
+      type: title-main
+    - content: Proceedings of CIE Centenary Conference "Towards a New Century of Light"
         Paris, France, 15-16 April 2013
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-x038-2013?product_id=1857434
       type: src
@@ -81,4 +82,5 @@ relation:
     - type: published
       value: '2013-04-15'
     revdate: '2013-04-15'
+fetched: '2022-08-21'
 doctype: document

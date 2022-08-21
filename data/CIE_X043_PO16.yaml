@@ -1,14 +1,14 @@
 ---
 id: CIEx043-PO16
 title:
-- type: title-main
-  content: INVESTIGATION AND MEASUREMENT OF UNCERTAINTY CONTRIBUTORS FOR COLORIMETRIC
+- content: INVESTIGATION AND MEASUREMENT OF UNCERTAINTY CONTRIBUTORS FOR COLORIMETRIC
     CALIBRATIONS (PO16, Pages 303-311)
   format: text/plain
-- type: main
-  content: INVESTIGATION AND MEASUREMENT OF UNCERTAINTY CONTRIBUTORS FOR COLORIMETRIC
+  type: title-main
+- content: INVESTIGATION AND MEASUREMENT OF UNCERTAINTY CONTRIBUTORS FOR COLORIMETRIC
     CALIBRATIONS (PO16, Pages 303-311)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/investigation-and-measurement-of-uncertainty-contributors-for-colorimetric-calibrations-po16-pages-303-311?product_id=1941848
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: I
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kruger
         language:
@@ -39,17 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: E
-        language:
-        - en
-        script:
-        - Latn
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Coetzee
         language:
@@ -60,8 +43,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -90,4 +74,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

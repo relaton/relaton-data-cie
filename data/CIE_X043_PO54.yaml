@@ -1,12 +1,12 @@
 ---
 id: CIEx043-PO54
 title:
-- type: title-main
-  content: HUE PERCEPTION OF NEAR-WHITE LIGHTINGS AROUND 5000 K (PO54, Pages 480-483)
+- content: HUE PERCEPTION OF NEAR-WHITE LIGHTINGS AROUND 5000 K (PO54, Pages 480-483)
   format: text/plain
-- type: main
-  content: HUE PERCEPTION OF NEAR-WHITE LIGHTINGS AROUND 5000 K (PO54, Pages 480-483)
+  type: title-main
+- content: HUE PERCEPTION OF NEAR-WHITE LIGHTINGS AROUND 5000 K (PO54, Pages 480-483)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/hue-perception-of-near-white-lightings-around-5000-k-po54-pages-480-483?product_id=1941875
   type: src
@@ -21,12 +21,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Oh
         language:
@@ -37,12 +31,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kwak
         language:
@@ -53,12 +41,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Ohno
         language:
@@ -69,8 +51,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -95,4 +78,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

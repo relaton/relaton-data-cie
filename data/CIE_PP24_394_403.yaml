@@ -1,14 +1,14 @@
 ---
 id: CIEPP24394-403
 title:
-- type: title-main
-  content: OPTIMIZATION OF BIMODAL QUANTUM DOTS CONVERTED WHITE LEDS FOR HIGH COLOUR
+- content: OPTIMIZATION OF BIMODAL QUANTUM DOTS CONVERTED WHITE LEDS FOR HIGH COLOUR
     RENDITION (PP24, 394-403)
   format: text/plain
-- type: main
-  content: OPTIMIZATION OF BIMODAL QUANTUM DOTS CONVERTED WHITE LEDS FOR HIGH COLOUR
+  type: title-main
+- content: OPTIMIZATION OF BIMODAL QUANTUM DOTS CONVERTED WHITE LEDS FOR HIGH COLOUR
     RENDITION (PP24, 394-403)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/optimization-of-bimodal-quantum-dots-converted-white-leds-for-high-colour-rendition-pp24-394-403?product_id=2016278
   type: src
@@ -23,17 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
-      - content: Z
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Wang
         language:
@@ -44,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Q
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Yao
         language:
@@ -60,8 +43,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -88,4 +72,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

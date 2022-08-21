@@ -1,12 +1,12 @@
 ---
 id: CIE174-2006
 title:
-- type: title-main
-  content: Action spectrum for the production of previtamin D3 in human skin
+- content: Action spectrum for the production of previtamin D3 in human skin
   format: text/plain
-- type: main
-  content: Action spectrum for the production of previtamin D3 in human skin
+  type: title-main
+- content: Action spectrum for the production of previtamin D3 in human skin
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-174-2006?product_id=1276866
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -43,4 +44,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

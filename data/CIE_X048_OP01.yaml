@@ -1,14 +1,14 @@
 ---
 id: CIEx048-OP01
 title:
-- type: title-main
-  content: IS IT POSSIBLE TO ACHIEVE QUALITY LIGHTING WITHOUT CONSIDERING THE PHOTOMETRY
+- content: IS IT POSSIBLE TO ACHIEVE QUALITY LIGHTING WITHOUT CONSIDERING THE PHOTOMETRY
     OF THE PAVEMENTS?
   format: text/plain
-- type: main
-  content: IS IT POSSIBLE TO ACHIEVE QUALITY LIGHTING WITHOUT CONSIDERING THE PHOTOMETRY
+  type: title-main
+- content: IS IT POSSIBLE TO ACHIEVE QUALITY LIGHTING WITHOUT CONSIDERING THE PHOTOMETRY
     OF THE PAVEMENTS?
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-op01?product_id=2240675
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Muzet
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Liandrat
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Bour
         language:
@@ -71,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Dehon
         language:
@@ -87,22 +63,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Christory
         language:
@@ -113,12 +73,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: F
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Eymond
         language:
@@ -129,12 +83,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: E
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Saint-Jacques
         language:
@@ -145,8 +93,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -172,4 +121,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,14 +1,14 @@
 ---
 id: CIEPP23384-393
 title:
-- type: title-main
-  content: A COLOUR GAMUT INDEX AND COLOUR-SHIFT INFORMATION BASED ON CIE 13.3 (PP23,
+- content: A COLOUR GAMUT INDEX AND COLOUR-SHIFT INFORMATION BASED ON CIE 13.3 (PP23,
     384-393)
   format: text/plain
-- type: main
-  content: A COLOUR GAMUT INDEX AND COLOUR-SHIFT INFORMATION BASED ON CIE 13.3 (PP23,
+  type: title-main
+- content: A COLOUR GAMUT INDEX AND COLOUR-SHIFT INFORMATION BASED ON CIE 13.3 (PP23,
     384-393)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/a-colour-gamut-index-and-colour-shift-information-based-on-cie-13-3-pp23-384-393?product_id=2016277
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Teunissen
         language:
@@ -39,8 +33,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -67,4 +62,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

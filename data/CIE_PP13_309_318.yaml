@@ -1,14 +1,14 @@
 ---
 id: CIEPP13309-318
 title:
-- type: title-main
-  content: INVESTIGATION ON THE LIGHT ENVIRONMENT OF CHINA'S ACTIVE WIDE-BODY AIRCRAFT  (PP13,
+- content: INVESTIGATION ON THE LIGHT ENVIRONMENT OF CHINA'S ACTIVE WIDE-BODY AIRCRAFT  (PP13,
     309-318)
   format: text/plain
-- type: main
-  content: INVESTIGATION ON THE LIGHT ENVIRONMENT OF CHINA'S ACTIVE WIDE-BODY AIRCRAFT  (PP13,
+  type: title-main
+- content: INVESTIGATION ON THE LIGHT ENVIRONMENT OF CHINA'S ACTIVE WIDE-BODY AIRCRAFT  (PP13,
     309-318)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/investigation-on-the-light-environment-of-china-s-active-wide-body-aircraft-pp13-309-318?product_id=2016259
   type: src
@@ -23,12 +23,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Mingyu
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Mingyu
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Zhang
         language:
@@ -39,12 +40,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Hao
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Hao
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Li
         language:
@@ -55,12 +57,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Juan
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Juan
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Yu
         language:
@@ -71,12 +74,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Chen
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Chen
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Wang
         language:
@@ -87,12 +91,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Qing
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Qing
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Fan
         language:
@@ -103,12 +108,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Yajang
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Yajang
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Wang
         language:
@@ -119,8 +125,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -148,4 +155,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

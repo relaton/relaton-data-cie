@@ -1,14 +1,14 @@
 ---
 id: CIEx043-PO07
 title:
-- type: title-main
-  content: INFLUENCE OF DIFFERENT ROOM SURFACE COLOURS ON THE MELANOPIC FACTOR (PO07,
+- content: INFLUENCE OF DIFFERENT ROOM SURFACE COLOURS ON THE MELANOPIC FACTOR (PO07,
     Pages 230-235)
   format: text/plain
-- type: main
-  content: INFLUENCE OF DIFFERENT ROOM SURFACE COLOURS ON THE MELANOPIC FACTOR (PO07,
+  type: title-main
+- content: INFLUENCE OF DIFFERENT ROOM SURFACE COLOURS ON THE MELANOPIC FACTOR (PO07,
     Pages 230-235)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/influence-of-different-room-surface-colours-on-the-melanopic-factor-po07-pages-230-235?product_id=1941837
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Knoche
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kirsch
         language:
@@ -55,8 +43,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -82,4 +71,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

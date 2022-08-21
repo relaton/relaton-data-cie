@@ -1,14 +1,14 @@
 ---
 id: CIEx044-OP04
 title:
-- type: title-main
-  content: A PROPOSAL FOR CHARACTERIZING SURFACE WHITENESS UNDER ARBITRARY LIGHT SOURCES
+- content: A PROPOSAL FOR CHARACTERIZING SURFACE WHITENESS UNDER ARBITRARY LIGHT SOURCES
     (OP04, 38-46)
   format: text/plain
-- type: main
-  content: A PROPOSAL FOR CHARACTERIZING SURFACE WHITENESS UNDER ARBITRARY LIGHT SOURCES
+  type: title-main
+- content: A PROPOSAL FOR CHARACTERIZING SURFACE WHITENESS UNDER ARBITRARY LIGHT SOURCES
     (OP04, 38-46)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/a-proposal-for-characterizing-surface-whiteness-under-arbitrary-light-sources-op04-38-46?product_id=2009475
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Wei
         language:
@@ -39,17 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Luo
         language:
@@ -60,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Wang
         language:
@@ -76,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Ma
         language:
@@ -92,8 +63,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -119,4 +91,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,15 +1,15 @@
 ---
 id: CIEx031-2006
 title:
-- type: title-intro
-  content: Proceedings of the 2nd CIE Expert Symposium
+- content: Proceedings of the 2nd CIE Expert Symposium
   format: text/plain
-- type: title-main
-  content: Lighting and Health
+  type: title-intro
+- content: Lighting and Health
   format: text/plain
-- type: main
-  content: Proceedings of the 2nd CIE Expert Symposium - Lighting and Health
+  type: title-main
+- content: Proceedings of the 2nd CIE Expert Symposium - Lighting and Health
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x031-2006?product_id=1371325
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -95,4 +96,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

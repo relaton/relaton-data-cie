@@ -1,12 +1,12 @@
 ---
 id: CIEPO13472-476
 title:
-- type: title-main
-  content: VISIBILITY OF ROAD MARKINGS ON A LED-LIGHTED FOGGY ROAD (PO13, 472-476)
+- content: VISIBILITY OF ROAD MARKINGS ON A LED-LIGHTED FOGGY ROAD (PO13, 472-476)
   format: text/plain
-- type: main
-  content: VISIBILITY OF ROAD MARKINGS ON A LED-LIGHTED FOGGY ROAD (PO13, 472-476)
+  type: title-main
+- content: VISIBILITY OF ROAD MARKINGS ON A LED-LIGHTED FOGGY ROAD (PO13, 472-476)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/visibility-of-road-markings-on-a-led-lighted-foggy-road-po13-472-476?product_id=2016291
   type: src
@@ -21,17 +21,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
-      - content: W
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Hsu
         language:
@@ -42,17 +31,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Chen
         language:
@@ -63,17 +41,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Hung
         language:
@@ -84,8 +51,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -106,4 +74,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,12 +1,12 @@
 ---
 id: CIES009/D-2002
 title:
-- type: title-main
-  content: Photobiological safety of lamps and lamp systems
+- content: Photobiological safety of lamps and lamp systems
   format: text/plain
-- type: main
-  content: Photobiological safety of lamps and lamp systems
+  type: title-main
+- content: Photobiological safety of lamps and lamp systems
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-s009-d-2002?product_id=1210087
   type: src
@@ -21,8 +21,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -48,12 +49,12 @@ relation:
   bibitem:
     id: CIES009/E-2002/IEC62471-2006
     title:
-    - type: title-main
-      content: Photobiological safety of lamps and lamp systems (bilingual edition)
+    - content: Photobiological safety of lamps and lamp systems (bilingual edition)
       format: text/plain
-    - type: main
-      content: Photobiological safety of lamps and lamp systems (bilingual edition)
+      type: title-main
+    - content: Photobiological safety of lamps and lamp systems (bilingual edition)
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-s-009-e-2002-iec-62471-2006?product_id=1519485
       type: src
@@ -65,4 +66,5 @@ relation:
     - type: published
       value: '2007-07-01'
     revdate: '2007-07-01'
+fetched: '2022-08-21'
 doctype: document

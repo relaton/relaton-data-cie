@@ -1,14 +1,14 @@
 ---
 id: CIEOP34238-245
 title:
-- type: title-main
-  content: AN EXPERIMENTAL PROTOCOL TO OBJECTIVELY CHARACTERIZE DISCOMFORT GLARE USING
+- content: AN EXPERIMENTAL PROTOCOL TO OBJECTIVELY CHARACTERIZE DISCOMFORT GLARE USING
     PHYSIOLOGICAL MEASUREMENTS (OP34, 238-245)
   format: text/plain
-- type: main
-  content: AN EXPERIMENTAL PROTOCOL TO OBJECTIVELY CHARACTERIZE DISCOMFORT GLARE USING
+  type: title-main
+- content: AN EXPERIMENTAL PROTOCOL TO OBJECTIVELY CHARACTERIZE DISCOMFORT GLARE USING
     PHYSIOLOGICAL MEASUREMENTS (OP34, 238-245)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/an-experimental-protocol-to-objectively-characterize-discomfort-glare-using-physiological-measurements-op34-238-245?product_id=2010474
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Iodice
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Jost
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: D
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Dumortier
         language:
@@ -71,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Gronfier
         language:
@@ -87,8 +63,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -106,4 +83,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

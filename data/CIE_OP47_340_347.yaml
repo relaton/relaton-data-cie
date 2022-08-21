@@ -1,20 +1,20 @@
 ---
 id: CIEOP47340-347
 title:
-- type: title-main
-  content: |-
+- content: |-
     EVALUATING VISUAL COMFORT IN OPEN-PLAN OFFICES: EXPLORATION OF SIMPLE METHODS FOR EVALUATION AND PREDICTION
 
 
      (OP47, 340-347)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     EVALUATING VISUAL COMFORT IN OPEN-PLAN OFFICES: EXPLORATION OF SIMPLE METHODS FOR EVALUATION AND PREDICTION
 
 
      (OP47, 340-347)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/evaluating-visual-comfort-in-open-plan-offices-exploration-of-simple-methods-for-evaluation-and-prediction-op47-340-347?product_id=2010519
   type: src
@@ -29,12 +29,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Garcia Hansen
         language:
@@ -45,17 +39,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Allan
         language:
@@ -66,12 +49,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: G
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Isoardi
         language:
@@ -82,12 +59,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Wagdy
         language:
@@ -98,12 +69,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Smith
         language:
@@ -114,8 +79,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -133,4 +99,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

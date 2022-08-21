@@ -1,17 +1,17 @@
 ---
 id: CIEx048-PO50
 title:
-- type: title-intro
-  content: ISSUES AND COUNTERPLAN OF EVACATION CENTER AT NIGHT
+- content: ISSUES AND COUNTERPLAN OF EVACATION CENTER AT NIGHT
   format: text/plain
-- type: title-main
-  content: CASE STUDY OF NORTHEN GYMNASIUM IN SUZAKA CITY AFFECTED BY TYPHOON HAGIBIS
+  type: title-intro
+- content: CASE STUDY OF NORTHEN GYMNASIUM IN SUZAKA CITY AFFECTED BY TYPHOON HAGIBIS
     IN 2019
   format: text/plain
-- type: main
-  content: ISSUES AND COUNTERPLAN OF EVACATION CENTER AT NIGHT - CASE STUDY OF NORTHEN
+  type: title-main
+- content: ISSUES AND COUNTERPLAN OF EVACATION CENTER AT NIGHT - CASE STUDY OF NORTHEN
     GYMNASIUM IN SUZAKA CITY AFFECTED BY TYPHOON HAGIBIS IN 2019
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-po50?product_id=2240857
   type: src
@@ -26,12 +26,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Yamaguchi
         language:
@@ -42,12 +36,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Akizuki
         language:
@@ -58,12 +46,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Shimojima
         language:
@@ -74,12 +56,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: N
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Wakabayashi
         language:
@@ -90,12 +66,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Oe
         language:
@@ -106,12 +76,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: N
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Yoshizawa
         language:
@@ -122,8 +86,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -147,4 +112,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

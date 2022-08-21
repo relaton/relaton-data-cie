@@ -1,16 +1,16 @@
 ---
 id: CIEx048-2021
 title:
-- type: title-intro
-  content: Proceedings of the Conference CIE 2021, September 27
+- content: Proceedings of the Conference CIE 2021, September 27
   format: text/plain
-- type: title-main
-  content: 29, 2021 hosted by the CIE National Committee (NC) Malaysia online
+  type: title-intro
+- content: 29, 2021 hosted by the CIE National Committee (NC) Malaysia online
   format: text/plain
-- type: main
-  content: Proceedings of the Conference CIE 2021, September 27 - 29, 2021 hosted
+  type: title-main
+- content: Proceedings of the Conference CIE 2021, September 27 - 29, 2021 hosted
     by the CIE National Committee (NC) Malaysia online
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-2021?product_id=2242151
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -50,4 +51,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

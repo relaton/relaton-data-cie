@@ -1,14 +1,14 @@
 ---
 id: CIEx043-PO11
 title:
-- type: title-main
-  content: STUDY OF VISIBILITY UNDER COMPLEX LUMINANCE CONDITIONS FOR THE VISUALLY
+- content: STUDY OF VISIBILITY UNDER COMPLEX LUMINANCE CONDITIONS FOR THE VISUALLY
     CHALLENGED PEOPLE USING LUMINANCE-IMAGE FILTERING (PO11, Pages 262-268)
   format: text/plain
-- type: main
-  content: STUDY OF VISIBILITY UNDER COMPLEX LUMINANCE CONDITIONS FOR THE VISUALLY
+  type: title-main
+- content: STUDY OF VISIBILITY UNDER COMPLEX LUMINANCE CONDITIONS FOR THE VISUALLY
     CHALLENGED PEOPLE USING LUMINANCE-IMAGE FILTERING (PO11, Pages 262-268)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/study-of-visibility-under-complex-luminance-conditions-for-the-visually-challenged-people-using-luminance-image-filtering-po11-pages-262-268?product_id=1941843
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Iwata
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kato
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Nakamura
         language:
@@ -71,8 +53,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -96,4 +79,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

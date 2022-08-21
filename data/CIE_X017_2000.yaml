@@ -1,15 +1,15 @@
 ---
 id: CIEx017-2000
 title:
-- type: title-intro
-  content: Special volume 24th Session of the CIE,  Warsaw 1999
+- content: Special volume 24th Session of the CIE,  Warsaw 1999
   format: text/plain
-- type: title-main
-  content: Late Papers
+  type: title-intro
+- content: Late Papers
   format: text/plain
-- type: main
-  content: Special volume 24th Session of the CIE,  Warsaw 1999 - Late Papers
+  type: title-main
+- content: Special volume 24th Session of the CIE,  Warsaw 1999 - Late Papers
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x017-2000?product_id=1210148
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -51,4 +52,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

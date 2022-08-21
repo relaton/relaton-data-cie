@@ -1,12 +1,12 @@
 ---
 id: CIE169-2005
 title:
-- type: title-main
-  content: Practical design guidelines for the lighting of sport events for colour
+- content: Practical design guidelines for the lighting of sport events for colour
   format: text/plain
-- type: main
-  content: Practical design guidelines for the lighting of sport events for colour
+  type: title-main
+- content: Practical design guidelines for the lighting of sport events for colour
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-169-2005?product_id=1258145
   type: src
@@ -23,8 +23,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -49,4 +50,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,14 +1,14 @@
 ---
 id: CIEPO02408-411
 title:
-- type: title-main
-  content: ATTENTION COMPARISON OF DIFFERENT OFFICE LIGHTING SCENARIOS BY BRAINWAVE
+- content: ATTENTION COMPARISON OF DIFFERENT OFFICE LIGHTING SCENARIOS BY BRAINWAVE
     MEASUREMENTS AND EMPIRICAL MODE DECOMPOSITION (PO02, 408-411)
   format: text/plain
-- type: main
-  content: ATTENTION COMPARISON OF DIFFERENT OFFICE LIGHTING SCENARIOS BY BRAINWAVE
+  type: title-main
+- content: ATTENTION COMPARISON OF DIFFERENT OFFICE LIGHTING SCENARIOS BY BRAINWAVE
     MEASUREMENTS AND EMPIRICAL MODE DECOMPOSITION (PO02, 408-411)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/attention-comparison-of-different-office-lighting-scenarios-by-brainwave-measurements-and-empirical-mode-decomposition-po02-408-411?product_id=2016280
   type: src
@@ -23,17 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: I
-        language:
-        - en
-        script:
-        - Latn
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Chen
         language:
@@ -44,17 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Wu
         language:
@@ -65,17 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Chen
         language:
@@ -86,8 +53,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -109,4 +77,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

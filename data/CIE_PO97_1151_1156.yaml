@@ -1,16 +1,16 @@
 ---
 id: CIEPO971151-1156
 title:
-- type: title-main
-  content: |-
+- content: |-
     LIGHTING REQUIREMENTS NEAR ASTRONOMICAL OBSERVATORIES
      (PO97, 1151-1156)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     LIGHTING REQUIREMENTS NEAR ASTRONOMICAL OBSERVATORIES
      (PO97, 1151-1156)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/lighting-requirements-near-astronomical-observatories-po97-1151-1156?product_id=2011251
   type: src
@@ -25,17 +25,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Wainscoat
         language:
@@ -46,12 +35,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Billingsley
         language:
@@ -62,12 +45,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Thiel
         language:
@@ -78,8 +55,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -103,4 +81,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,14 +1,14 @@
 ---
 id: CIEOP21123-132
 title:
-- type: title-main
-  content: POTENTIAL OF ENERGY SAVINGS IN TRAFFIC-FLOW CONTROLLED STREET LIGHTING
+- content: POTENTIAL OF ENERGY SAVINGS IN TRAFFIC-FLOW CONTROLLED STREET LIGHTING
     SYSTEMS (OP21, 123-132)
   format: text/plain
-- type: main
-  content: POTENTIAL OF ENERGY SAVINGS IN TRAFFIC-FLOW CONTROLLED STREET LIGHTING
+  type: title-main
+- content: POTENTIAL OF ENERGY SAVINGS IN TRAFFIC-FLOW CONTROLLED STREET LIGHTING
     SYSTEMS (OP21, 123-132)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/potential-of-energy-savings-in-traffic-flow-controlled-street-lighting-systems-op21-123-132?product_id=2016234
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: D
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Gasparovsky
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Janiga
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Dubnicka
         language:
@@ -71,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Novak
         language:
@@ -87,8 +63,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -117,4 +94,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

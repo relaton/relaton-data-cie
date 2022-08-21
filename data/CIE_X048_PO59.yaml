@@ -1,14 +1,14 @@
 ---
 id: CIEx048-PO59
 title:
-- type: title-main
-  content: 'A LABORATORY STUDY ON VISUAL AND EMOTIONAL COMFORT EVALUATION OF LED WIDE
+- content: 'A LABORATORY STUDY ON VISUAL AND EMOTIONAL COMFORT EVALUATION OF LED WIDE
     BEAM ANGLE LAMPS : TAKING 3000K/ 4000K / 5000 K LINEAR LAMPS AS RESEARCH OBJECT'
   format: text/plain
-- type: main
-  content: 'A LABORATORY STUDY ON VISUAL AND EMOTIONAL COMFORT EVALUATION OF LED WIDE
+  type: title-main
+- content: 'A LABORATORY STUDY ON VISUAL AND EMOTIONAL COMFORT EVALUATION OF LED WIDE
     BEAM ANGLE LAMPS : TAKING 3000K/ 4000K / 5000 K LINEAR LAMPS AS RESEARCH OBJECT'
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-po59?product_id=2240863
   type: src
@@ -23,12 +23,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Feng
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Feng
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Kai
         language:
@@ -39,12 +40,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Hao
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Hao
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Luoxi
         language:
@@ -55,12 +57,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Dai
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Dai
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Shujian
         language:
@@ -71,8 +74,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -99,4 +103,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,14 +1,14 @@
 ---
 id: CIEOP0843-49
 title:
-- type: title-main
-  content: COMPUTER GRAPHICS AND LIGHTING TECHNOLOGY SCIENCE. ON THE WAY TO THE CRITERIA
+- content: COMPUTER GRAPHICS AND LIGHTING TECHNOLOGY SCIENCE. ON THE WAY TO THE CRITERIA
     OF THE ILLUMINATION QUALITY (OP08, 43-49)
   format: text/plain
-- type: main
-  content: COMPUTER GRAPHICS AND LIGHTING TECHNOLOGY SCIENCE. ON THE WAY TO THE CRITERIA
+  type: title-main
+- content: COMPUTER GRAPHICS AND LIGHTING TECHNOLOGY SCIENCE. ON THE WAY TO THE CRITERIA
     OF THE ILLUMINATION QUALITY (OP08, 43-49)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/computer-graphics-and-lighting-technology-science-on-the-way-to-the-criteria-of-the-illumination-quality-op08-43-49?product_id=2016203
   type: src
@@ -23,17 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Budak
         language:
@@ -44,17 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
-      - content: D
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Chembaev
         language:
@@ -65,17 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Meshkova
         language:
@@ -86,17 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Zheltov
         language:
@@ -107,8 +63,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -129,4 +86,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

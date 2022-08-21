@@ -1,12 +1,12 @@
 ---
 id: CIEx048-PO32
 title:
-- type: title-main
-  content: CALIBRATION OF SPECTRAL IRRADIANCE SOURCES USING A FIBER-COUPLED SYSTEM
+- content: CALIBRATION OF SPECTRAL IRRADIANCE SOURCES USING A FIBER-COUPLED SYSTEM
   format: text/plain
-- type: main
-  content: CALIBRATION OF SPECTRAL IRRADIANCE SOURCES USING A FIBER-COUPLED SYSTEM
+  type: title-main
+- content: CALIBRATION OF SPECTRAL IRRADIANCE SOURCES USING A FIBER-COUPLED SYSTEM
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-po32?product_id=2240842
   type: src
@@ -21,22 +21,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
-      - content: B
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Lee
         language:
@@ -47,17 +31,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Chau
         language:
@@ -68,22 +41,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
-      - content: B
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Lam
         language:
@@ -94,8 +51,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -117,4 +75,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

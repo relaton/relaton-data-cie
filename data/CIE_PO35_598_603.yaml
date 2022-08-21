@@ -1,14 +1,14 @@
 ---
 id: CIEPO35598-603
 title:
-- type: title-main
-  content: COMPARISON OF PHYSIOLOGICAL RESPONSE BETWEEN LED AND OLED DURING TASK EXECUTION
+- content: COMPARISON OF PHYSIOLOGICAL RESPONSE BETWEEN LED AND OLED DURING TASK EXECUTION
     (PO35, 598-603)
   format: text/plain
-- type: main
-  content: COMPARISON OF PHYSIOLOGICAL RESPONSE BETWEEN LED AND OLED DURING TASK EXECUTION
+  type: title-main
+- content: COMPARISON OF PHYSIOLOGICAL RESPONSE BETWEEN LED AND OLED DURING TASK EXECUTION
     (PO35, 598-603)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/comparison-of-physiological-response-between-led-and-oled-during-task-execution-po35-598-603?product_id=2016411
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Otsuka
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Tashiro
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kawashima
         language:
@@ -71,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Nagai
         language:
@@ -87,12 +63,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Yamauchi
         language:
@@ -103,8 +73,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -129,4 +100,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

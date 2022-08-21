@@ -1,14 +1,14 @@
 ---
 id: CIEx043-OP13
 title:
-- type: title-main
-  content: VISUAL EXPERIMENTS ON THE STROBOSCOPIC EFFECTS OF PWM-MODULATED WHITE LED
+- content: VISUAL EXPERIMENTS ON THE STROBOSCOPIC EFFECTS OF PWM-MODULATED WHITE LED
     INDOOR ILLUMINATIONS AND THEIR CONSEQUENCES (OP13, Pages 69-79)
   format: text/plain
-- type: main
-  content: VISUAL EXPERIMENTS ON THE STROBOSCOPIC EFFECTS OF PWM-MODULATED WHITE LED
+  type: title-main
+- content: VISUAL EXPERIMENTS ON THE STROBOSCOPIC EFFECTS OF PWM-MODULATED WHITE LED
     INDOOR ILLUMINATIONS AND THEIR CONSEQUENCES (OP13, Pages 69-79)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/visual-experiments-on-the-stroboscopic-effects-of-pwm-modulated-white-led-indoor-illuminations-and-their-consequences-op13-pages-69-79?product_id=1941815
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: D
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Polin
         language:
@@ -39,17 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Q
-        language:
-        - en
-        script:
-        - Latn
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Tran
         language:
@@ -60,8 +43,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -83,4 +67,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

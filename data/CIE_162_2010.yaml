@@ -1,14 +1,14 @@
 ---
 id: CIE162-2010
 title:
-- type: title-main
-  content: Chromatic Adaptation under Mixed Illumination Condition when Comparing
+- content: Chromatic Adaptation under Mixed Illumination Condition when Comparing
     Softcopy and Hardcopy Images (Including Erratum 1)
   format: text/plain
-- type: main
-  content: Chromatic Adaptation under Mixed Illumination Condition when Comparing
+  type: title-main
+- content: Chromatic Adaptation under Mixed Illumination Condition when Comparing
     Softcopy and Hardcopy Images (Including Erratum 1)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-162-2010?product_id=1673568
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -64,14 +65,14 @@ relation:
   bibitem:
     id: CIE162-2004
     title:
-    - type: title-main
-      content: Chromatic adaptation under mixed illumination condition when comparing
+    - content: Chromatic adaptation under mixed illumination condition when comparing
         softcopy and hardcopy images
       format: text/plain
-    - type: main
-      content: Chromatic adaptation under mixed illumination condition when comparing
+      type: title-main
+    - content: Chromatic adaptation under mixed illumination condition when comparing
         softcopy and hardcopy images
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-162-2004?product_id=1210120
       type: src
@@ -83,4 +84,5 @@ relation:
     - type: published
       value: '2004-01-01'
     revdate: '2004-01-01'
+fetched: '2022-08-21'
 doctype: document

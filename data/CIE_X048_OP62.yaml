@@ -1,21 +1,21 @@
 ---
 id: CIEx048-OP62
 title:
-- type: title-intro
-  content: RISKS IN THE VISUAL ENVIRONMENT SUCH AS GLARE, ILLUMINANCE AND LUMINANCE
+- content: RISKS IN THE VISUAL ENVIRONMENT SUCH AS GLARE, ILLUMINANCE AND LUMINANCE
     RATIO
   format: text/plain
-- type: title-main
-  content: RISK ASSESSMENTS MADE WITH VISUAL ERGONOMICS RISK ASSESSMENT METHOD, VERAM
+  type: title-intro
+- content: RISK ASSESSMENTS MADE WITH VISUAL ERGONOMICS RISK ASSESSMENT METHOD, VERAM
   format: text/plain
-- type: title-part
-  content: A DESCRIPTIVE PAPER
+  type: title-main
+- content: A DESCRIPTIVE PAPER
   format: text/plain
-- type: main
-  content: RISKS IN THE VISUAL ENVIRONMENT SUCH AS GLARE, ILLUMINANCE AND LUMINANCE
+  type: title-part
+- content: RISKS IN THE VISUAL ENVIRONMENT SUCH AS GLARE, ILLUMINANCE AND LUMINANCE
     RATIO - RISK ASSESSMENTS MADE WITH VISUAL ERGONOMICS RISK ASSESSMENT METHOD, VERAM
     - A DESCRIPTIVE PAPER
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-op62?product_id=2240815
   type: src
@@ -30,12 +30,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Hillevi
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Hillevi
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Hemphälä
         language:
@@ -46,12 +47,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Susanne
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Susanne
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Glimne
         language:
@@ -62,12 +64,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Marina
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Marina
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Heiden
         language:
@@ -78,12 +81,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Johannes
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Johannes
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Lindén
         language:
@@ -94,12 +98,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Per
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Per
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Lindberg
         language:
@@ -110,12 +115,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Per
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Per
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Nylén
         language:
@@ -126,8 +132,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -153,4 +160,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

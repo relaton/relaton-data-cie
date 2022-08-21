@@ -1,14 +1,14 @@
 ---
 id: CIEPP02483-489
 title:
-- type: title-main
-  content: CHROMATIC DISCRIMINATION UNDER DIFFERENT STATES OF CHROMATIC ADAPTATION
+- content: CHROMATIC DISCRIMINATION UNDER DIFFERENT STATES OF CHROMATIC ADAPTATION
     (PP02, 483-489)
   format: text/plain
-- type: main
-  content: CHROMATIC DISCRIMINATION UNDER DIFFERENT STATES OF CHROMATIC ADAPTATION
+  type: title-main
+- content: CHROMATIC DISCRIMINATION UNDER DIFFERENT STATES OF CHROMATIC ADAPTATION
     (PP02, 483-489)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/chromatic-discrimination-under-different-states-of-chromatic-adaptation-pp02-483-489?product_id=2011260
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Urbin
         language:
@@ -39,17 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: B
-        language:
-        - en
-        script:
-        - Latn
-      - content: V
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Nagy
         language:
@@ -60,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Wenzel
         language:
@@ -76,8 +53,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -95,4 +73,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

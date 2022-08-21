@@ -1,16 +1,16 @@
 ---
 id: CIEPO721074-1076
 title:
-- type: title-main
-  content: |-
+- content: |-
     VERBAL DEFINITION OF OBJECT COLOUR PERCEPTION IN ARTIFICIAL LIGHTING
      (PO72, 1074-1076)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     VERBAL DEFINITION OF OBJECT COLOUR PERCEPTION IN ARTIFICIAL LIGHTING
      (PO72, 1074-1076)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/verbal-definition-of-object-colour-perception-in-artificial-lighting-po72-1074-1076?product_id=2011220
   type: src
@@ -25,17 +25,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Or
         language:
@@ -46,12 +35,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Unver
         language:
@@ -62,8 +45,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -82,4 +66,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

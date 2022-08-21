@@ -1,18 +1,18 @@
 ---
 id: CIEWP06460-467
 title:
-- type: title-main
-  content: |-
+- content: |-
     THE LINK BETWEEN PERCENT FLICKER AND THE FLICKER INDEX PROVIDES A SIMPLE AND POWERFUL TOOL FOR CLASSIFYING THE SAFETY OF MODULATING LIGHT SOURCES
 
      (WP06, 460-467)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     THE LINK BETWEEN PERCENT FLICKER AND THE FLICKER INDEX PROVIDES A SIMPLE AND POWERFUL TOOL FOR CLASSIFYING THE SAFETY OF MODULATING LIGHT SOURCES
 
      (WP06, 460-467)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/the-link-between-percent-flicker-and-the-flicker-index-provides-a-simple-and-powerful-tool-for-classifying-the-safety-of-modulating-light-sources-wp06-460-467?product_id=2011383
   type: src
@@ -27,22 +27,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: L
-        language:
-        - en
-        script:
-        - Latn
-      - content: L
-        language:
-        - en
-        script:
-        - Latn
-      - content: A
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Price
         language:
@@ -53,8 +37,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -82,4 +67,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

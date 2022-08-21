@@ -1,14 +1,14 @@
 ---
 id: CIEPO08847-855
 title:
-- type: title-main
-  content: STUDY ON SPECTRAL COMPOSITION OF WHITE LIGHT-EMITTING-DIODE FOR CHINESE
+- content: STUDY ON SPECTRAL COMPOSITION OF WHITE LIGHT-EMITTING-DIODE FOR CHINESE
     TRADITIONAL PAINTING (PO08, 847-855)
   format: text/plain
-- type: main
-  content: STUDY ON SPECTRAL COMPOSITION OF WHITE LIGHT-EMITTING-DIODE FOR CHINESE
+  type: title-main
+- content: STUDY ON SPECTRAL COMPOSITION OF WHITE LIGHT-EMITTING-DIODE FOR CHINESE
     TRADITIONAL PAINTING (PO08, 847-855)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/study-on-spectral-composition-of-white-light-emitting-diode-for-chinese-traditional-painting-po08-847-855?product_id=2011159
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Dang
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: N
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Wang
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Yuan
         language:
@@ -71,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Liu
         language:
@@ -87,12 +63,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: G
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Liu
         language:
@@ -103,8 +73,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -130,4 +101,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

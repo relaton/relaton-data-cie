@@ -1,12 +1,12 @@
 ---
 id: CIEx044-OP03
 title:
-- type: title-main
-  content: WHITE LIGHT CHROMATICITY LOCUS FOR NATURALNESS (OP03, 32-37)
+- content: WHITE LIGHT CHROMATICITY LOCUS FOR NATURALNESS (OP03, 32-37)
   format: text/plain
-- type: main
-  content: WHITE LIGHT CHROMATICITY LOCUS FOR NATURALNESS (OP03, 32-37)
+  type: title-main
+- content: WHITE LIGHT CHROMATICITY LOCUS FOR NATURALNESS (OP03, 32-37)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/white-light-chromaticity-locus-for-naturalness-op03-32-37?product_id=2009464
   type: src
@@ -21,12 +21,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Jiamin
         language:
@@ -37,12 +31,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Z
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Qiyan
         language:
@@ -53,17 +41,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Luo
         language:
@@ -74,8 +51,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -94,4 +72,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

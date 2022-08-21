@@ -1,15 +1,15 @@
 ---
 id: CIE082-1990
 title:
-- type: title-intro
-  content: CIE History 1913
+- content: CIE History 1913
   format: text/plain
-- type: title-main
-  content: '1988'
+  type: title-intro
+- content: '1988'
   format: text/plain
-- type: main
-  content: CIE History 1913 - 1988
+  type: title-main
+- content: CIE History 1913 - 1988
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-082-1990?product_id=1210010
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -48,4 +49,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

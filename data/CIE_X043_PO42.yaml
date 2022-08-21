@@ -1,12 +1,12 @@
 ---
 id: CIEx043-PO42
 title:
-- type: title-main
-  content: PESPECTROPHOTOMETRY OF DYNAMIC COLOURS (PO42, Pages 408-416)
+- content: PESPECTROPHOTOMETRY OF DYNAMIC COLOURS (PO42, Pages 408-416)
   format: text/plain
-- type: main
-  content: PESPECTROPHOTOMETRY OF DYNAMIC COLOURS (PO42, Pages 408-416)
+  type: title-main
+- content: PESPECTROPHOTOMETRY OF DYNAMIC COLOURS (PO42, Pages 408-416)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/pespectrophotometry-of-dynamic-colours-po42-pages-408-416?product_id=1941864
   type: src
@@ -21,12 +21,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Vikova
         language:
@@ -37,12 +31,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: M
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Vik
         language:
@@ -53,8 +41,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -85,4 +74,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

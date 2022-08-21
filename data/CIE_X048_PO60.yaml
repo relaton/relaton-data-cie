@@ -1,14 +1,14 @@
 ---
 id: CIEx048-PO60
 title:
-- type: title-main
-  content: THE IMPACT OF COLOURFUL AND DYNAMIC LED MEDIA FACADE AND BILLBOARDS ON
+- content: THE IMPACT OF COLOURFUL AND DYNAMIC LED MEDIA FACADE AND BILLBOARDS ON
     ASTRONOMICAL OBSERVATIONS
   format: text/plain
-- type: main
-  content: THE IMPACT OF COLOURFUL AND DYNAMIC LED MEDIA FACADE AND BILLBOARDS ON
+  type: title-main
+- content: THE IMPACT OF COLOURFUL AND DYNAMIC LED MEDIA FACADE AND BILLBOARDS ON
     ASTRONOMICAL OBSERVATIONS
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-po60?product_id=2240864
   type: src
@@ -23,12 +23,13 @@ date:
 contributor:
 - person:
     name:
-      forename:
-      - content: Lau
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Lau
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Steve
         language:
@@ -39,12 +40,13 @@ contributor:
   - author
 - person:
     name:
-      forename:
-      - content: Kyba
-        language:
-        - en
-        script:
-        - Latn
+      given:
+        forename:
+        - content: Kyba
+          language:
+          - en
+          script:
+          - Latn
       surname:
         content: Christopher
         language:
@@ -55,12 +57,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Richard
         language:
@@ -81,8 +77,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -112,4 +109,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

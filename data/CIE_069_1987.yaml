@@ -1,14 +1,14 @@
 ---
 id: CIE069-1987
 title:
-- type: title-main
-  content: 'Methods of characterizing illuminance meters and luminance meters: Performance,
+- content: 'Methods of characterizing illuminance meters and luminance meters: Performance,
     characteristics and specifications'
   format: text/plain
-- type: main
-  content: 'Methods of characterizing illuminance meters and luminance meters: Performance,
+  type: title-main
+- content: 'Methods of characterizing illuminance meters and luminance meters: Performance,
     characteristics and specifications'
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-069-1987?product_id=1210000
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -52,14 +53,14 @@ relation:
   bibitem:
     id: CIEISO/CIE19476-2014
     title:
-    - type: title-main
-      content: Characterization of the Performance of Illuminance Meters and Luminance
+    - content: Characterization of the Performance of Illuminance Meters and Luminance
         Meters
       format: text/plain
-    - type: main
-      content: Characterization of the Performance of Illuminance Meters and Luminance
+      type: title-main
+    - content: Characterization of the Performance of Illuminance Meters and Luminance
         Meters
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-iso-cie-19476-2014?product_id=1880762
       type: src
@@ -75,14 +76,14 @@ relation:
   bibitem:
     id: CIES023/E-2013
     title:
-    - type: title-main
-      content: Characterization of the Performance of Illuminance Meters and Luminance
+    - content: Characterization of the Performance of Illuminance Meters and Luminance
         Meters
       format: text/plain
-    - type: main
-      content: Characterization of the Performance of Illuminance Meters and Luminance
+      type: title-main
+    - content: Characterization of the Performance of Illuminance Meters and Luminance
         Meters
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-s-023-e-2013?product_id=1857801
       type: src
@@ -98,14 +99,14 @@ relation:
   bibitem:
     id: CIEDS023/E-2012
     title:
-    - type: title-main
-      content: Characterization of the Performance of Illuminance Meters and Luminance
+    - content: Characterization of the Performance of Illuminance Meters and Luminance
         Meters
       format: text/plain
-    - type: main
-      content: Characterization of the Performance of Illuminance Meters and Luminance
+      type: title-main
+    - content: Characterization of the Performance of Illuminance Meters and Luminance
         Meters
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-ds-023-e-2012?product_id=1826966
       type: src
@@ -117,4 +118,5 @@ relation:
     - type: published
       value: '2012-03-01'
     revdate: '2012-03-01'
+fetched: '2022-08-21'
 doctype: document

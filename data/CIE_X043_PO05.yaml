@@ -1,14 +1,14 @@
 ---
 id: CIEx043-PO05
 title:
-- type: title-main
-  content: PREFERABLE LIGHTING CONDITION TO IMPROVE APPEARANCE OF WOMAN'S FACIAL SKIN
+- content: PREFERABLE LIGHTING CONDITION TO IMPROVE APPEARANCE OF WOMAN'S FACIAL SKIN
     WITH COSMETIC FOUNDATION (PO05, Pages 224-229)
   format: text/plain
-- type: main
-  content: PREFERABLE LIGHTING CONDITION TO IMPROVE APPEARANCE OF WOMAN'S FACIAL SKIN
+  type: title-main
+- content: PREFERABLE LIGHTING CONDITION TO IMPROVE APPEARANCE OF WOMAN'S FACIAL SKIN
     WITH COSMETIC FOUNDATION (PO05, Pages 224-229)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/preferable-lighting-condition-to-improve-appearance-of-woman-s-facial-skin-with-cosmetic-foundation-po05-pages-224-229?product_id=1941836
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Okuda
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Komai
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Tanigawa
         language:
@@ -71,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Okajima
         language:
@@ -87,8 +63,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -117,4 +94,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

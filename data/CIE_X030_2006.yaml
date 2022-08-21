@@ -1,14 +1,14 @@
 ---
 id: CIEx030-2006
 title:
-- type: title-main
-  content: 'Proceedings of the ISCC/CIE Expert Symposium ''06: 75 Years of the CIE
+- content: 'Proceedings of the ISCC/CIE Expert Symposium ''06: 75 Years of the CIE
     Standard Colorimetric Observer'
   format: text/plain
-- type: main
-  content: 'Proceedings of the ISCC/CIE Expert Symposium ''06: 75 Years of the CIE
+  type: title-main
+- content: 'Proceedings of the ISCC/CIE Expert Symposium ''06: 75 Years of the CIE
     Standard Colorimetric Observer'
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x030-2006?product_id=1321485
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -60,4 +61,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

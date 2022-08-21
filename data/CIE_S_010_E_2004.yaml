@@ -1,15 +1,15 @@
 ---
 id: CIES010/E-2004
 title:
-- type: title-intro
-  content: Photometry
+- content: Photometry
   format: text/plain
-- type: title-main
-  content: The CIE system of physical photometry
+  type: title-intro
+- content: The CIE system of physical photometry
   format: text/plain
-- type: main
-  content: Photometry - The CIE system of physical photometry
+  type: title-main
+- content: Photometry - The CIE system of physical photometry
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-s-010-e-2004-iso-23539-2005?product_id=1210115
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -53,4 +54,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

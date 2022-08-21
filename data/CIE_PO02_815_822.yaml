@@ -1,18 +1,18 @@
 ---
 id: CIEPO02815-822
 title:
-- type: title-main
-  content: |-
+- content: |-
     COLOUR PREFERENCE OF HUMAN SKIN TONES UNDER DIFFERENT CORRELATED COLOUR TEMPERATURES OF A MULTICHANNEL HYBRID LED-LUMINAIRE
 
       (PO02, 815-822)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     COLOUR PREFERENCE OF HUMAN SKIN TONES UNDER DIFFERENT CORRELATED COLOUR TEMPERATURES OF A MULTICHANNEL HYBRID LED-LUMINAIRE
 
       (PO02, 815-822)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/colour-preference-of-human-skin-tones-under-different-correlated-colour-temperatures-of-a-multichannel-hybrid-led-luminaire-po02-815-822?product_id=2010530
   type: src
@@ -27,17 +27,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: Q
-        language:
-        - en
-        script:
-        - Latn
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Vinh
         language:
@@ -48,12 +37,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: P
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Bodrogi
         language:
@@ -64,17 +47,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
-      - content: Q
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Khanh
         language:
@@ -85,8 +57,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -104,4 +77,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

@@ -1,18 +1,18 @@
 ---
 id: CIEPO1031163-1167
 title:
-- type: title-main
-  content: |-
+- content: |-
     THE EFFECT OF SPECTRUM TUNABLE LIGHTING ON THE ELDERLY PATIENTS' SLEEP QUALITY AND DAYTIME ALERTNESS
 
      (PO103,1163-1167)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     THE EFFECT OF SPECTRUM TUNABLE LIGHTING ON THE ELDERLY PATIENTS' SLEEP QUALITY AND DAYTIME ALERTNESS
 
      (PO103,1163-1167)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/the-effect-of-spectrum-tunable-lighting-on-the-elderly-patients-sleep-quality-and-daytime-alertness-po103-1163-1167?product_id=2011253
   type: src
@@ -27,12 +27,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Pak
         language:
@@ -43,17 +37,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
-      - content: W
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Park
         language:
@@ -64,17 +47,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: K
-        language:
-        - en
-        script:
-        - Latn
-      - content: O
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Doh
         language:
@@ -85,17 +57,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
-      - content: S
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Lee
         language:
@@ -106,8 +67,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -135,4 +97,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

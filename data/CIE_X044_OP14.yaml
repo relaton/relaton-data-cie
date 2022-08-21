@@ -1,14 +1,14 @@
 ---
 id: CIEx044-OP14
 title:
-- type: title-main
-  content: STUDY ON GLARE DURING PLAYING BADMINTON IN GYMNASIUMS USING LED AND HID
+- content: STUDY ON GLARE DURING PLAYING BADMINTON IN GYMNASIUMS USING LED AND HID
     FLOODLIGHTS (OP14, 100-104)
   format: text/plain
-- type: main
-  content: STUDY ON GLARE DURING PLAYING BADMINTON IN GYMNASIUMS USING LED AND HID
+  type: title-main
+- content: STUDY ON GLARE DURING PLAYING BADMINTON IN GYMNASIUMS USING LED AND HID
     FLOODLIGHTS (OP14, 100-104)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/study-on-glare-during-playing-badminton-in-gymnasiums-using-led-and-hid-floodlights-op14-100-104?product_id=2009531
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Taniguchi
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Iwata
         language:
@@ -55,12 +43,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: N
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Shinohara
         language:
@@ -71,12 +53,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: E
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Mochizuki
         language:
@@ -87,8 +63,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -113,4 +90,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

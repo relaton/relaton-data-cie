@@ -1,14 +1,14 @@
 ---
 id: CIEx048-PO09
 title:
-- type: title-main
-  content: PERCEIVED CHROMA AND HUE CHANGES OF COLOURS AT HIGH ILLUMINANCE LEVELS
+- content: PERCEIVED CHROMA AND HUE CHANGES OF COLOURS AT HIGH ILLUMINANCE LEVELS
     DUE TO HUNT EFFECT
   format: text/plain
-- type: main
-  content: PERCEIVED CHROMA AND HUE CHANGES OF COLOURS AT HIGH ILLUMINANCE LEVELS
+  type: title-main
+- content: PERCEIVED CHROMA AND HUE CHANGES OF COLOURS AT HIGH ILLUMINANCE LEVELS
     DUE TO HUNT EFFECT
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-po09?product_id=2240824
   type: src
@@ -23,12 +23,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Kawashima
         language:
@@ -39,12 +33,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: Y
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Ohno
         language:
@@ -55,8 +43,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -82,4 +71,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

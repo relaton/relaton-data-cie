@@ -1,12 +1,12 @@
 ---
 id: CIEx048-OP63
 title:
-- type: title-main
-  content: CONCEPTUAL FRAMEWORK OF CULTURAL BACKGROUND IN THE LIT ENVIRONMENT
+- content: CONCEPTUAL FRAMEWORK OF CULTURAL BACKGROUND IN THE LIT ENVIRONMENT
   format: text/plain
-- type: main
-  content: CONCEPTUAL FRAMEWORK OF CULTURAL BACKGROUND IN THE LIT ENVIRONMENT
+  type: title-main
+- content: CONCEPTUAL FRAMEWORK OF CULTURAL BACKGROUND IN THE LIT ENVIRONMENT
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-x048-op63?product_id=2240816
   type: src
@@ -21,12 +21,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: G
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Izmir Tunahan
         language:
@@ -37,12 +31,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: H
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Altamirano
         language:
@@ -53,12 +41,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: J
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Unwin Teji
         language:
@@ -69,8 +51,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -101,4 +84,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

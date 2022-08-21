@@ -1,18 +1,18 @@
 ---
 id: CIEPO861088-1097
 title:
-- type: title-main
-  content: |-
+- content: |-
     PREDICTING THE DISCOMFORT GLARE EXPERIENCED BY PEDESTRIANS: UGR AND CBE
 
      (PO86, 1088-1097)
   format: text/plain
-- type: main
-  content: |-
+  type: title-main
+- content: |-
     PREDICTING THE DISCOMFORT GLARE EXPERIENCED BY PEDESTRIANS: UGR AND CBE
 
      (PO86, 1088-1097)
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/predicting-the-discomfort-glare-experienced-by-pedestrians-ugr-and-cbe-po86-1088-1097?product_id=2011223
   type: src
@@ -27,12 +27,6 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: C
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Villa
         language:
@@ -43,12 +37,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: R
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Bremond
         language:
@@ -59,12 +47,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: E
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Saint-Jacques
         language:
@@ -75,12 +57,6 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: E
-        language:
-        - en
-        script:
-        - Latn
       surname:
         content: Dumont
         language:
@@ -91,8 +67,9 @@ contributor:
   - author
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -115,4 +92,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document

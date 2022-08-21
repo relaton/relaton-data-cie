@@ -1,14 +1,14 @@
 ---
 id: CIE150-2003
 title:
-- type: title-main
-  content: Guide on the limitation of the effects of obtrusive light from outdoor
+- content: Guide on the limitation of the effects of obtrusive light from outdoor
     lighting installations
   format: text/plain
-- type: main
-  content: Guide on the limitation of the effects of obtrusive light from outdoor
+  type: title-main
+- content: Guide on the limitation of the effects of obtrusive light from outdoor
     lighting installations
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-150-2003?product_id=1210066
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -54,14 +55,14 @@ relation:
   bibitem:
     id: CIE150-2017
     title:
-    - type: title-main
-      content: Guide on the limitation of the effects of obtrusive light from outdoor
+    - content: Guide on the limitation of the effects of obtrusive light from outdoor
         lighting installations, Second Edition
       format: text/plain
-    - type: main
-      content: Guide on the limitation of the effects of obtrusive light from outdoor
+      type: title-main
+    - content: Guide on the limitation of the effects of obtrusive light from outdoor
         lighting installations, Second Edition
       format: text/plain
+      type: main
     link:
     - content: https://www.techstreet.com/cie/standards/cie-150-2017?product_id=1997388
       type: src
@@ -73,4 +74,5 @@ relation:
     - type: published
       value: '2017-10-01'
     revdate: '2017-10-01'
+fetched: '2022-08-21'
 doctype: document

@@ -1,15 +1,15 @@
 ---
 id: CIE123-1997
 title:
-- type: title-intro
-  content: Low vision
+- content: Low vision
   format: text/plain
-- type: title-main
-  content: Lighting needs for the partially sighted
+  type: title-intro
+- content: Lighting needs for the partially sighted
   format: text/plain
-- type: main
-  content: Low vision - Lighting needs for the partially sighted
+  type: title-main
+- content: Low vision - Lighting needs for the partially sighted
   format: text/plain
+  type: main
 link:
 - content: https://www.techstreet.com/cie/standards/cie-123-1997?product_id=1210044
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Commission Internationale de L'Eclairage
-    abbreviation: CIE
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
     url: cie.co.at
   role:
   - publisher
@@ -50,4 +51,5 @@ abstract:
   script:
   - Latn
   format: text/plain
+fetched: '2022-08-21'
 doctype: document
