@@ -1,0 +1,82 @@
+---
+id: CIEx049-P13
+title:
+- content: IMPACT OF SAMPLING RATE ON FLICKER METRIC CALCULATIONS
+  format: text/plain
+  type: title-main
+- content: IMPACT OF SAMPLING RATE ON FLICKER METRIC CALCULATIONS
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-x049-p13?product_id=2502821
+  type: src
+type: standard
+docid:
+- id: CIE x049-P13
+  type: CIE
+  primary: true
+date:
+- type: published
+  value: '2022-10-01'
+contributor:
+- person:
+    name:
+      surname:
+        content: Tan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
+- person:
+    name:
+      surname:
+        content: Leon
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
+- person:
+    name:
+      surname:
+        content: Miller
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - publisher
+revdate: '2022-10-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: In order to estimate the visibility of temporal light modulation (TLM),
+    also known as "flicker", various metrics are employed in research and commerce.
+    The metrics, however, are not easily calculated, and occasionally the values change
+    depending on sampling rates. This study investigates the complexities involved
+    in processing data from TLM waveform metrics and then calculating metrics. It
+    explores the sensitivity of each metric to sampling rate, and recommendations
+    are then provided for how to increase the accuracy and consistency of the metrics
+    by using appropriate sampling rates. The analyses in this study are based on noise-free
+    and stable ideal waveforms; however, sampling rate effects also exist for real-world
+    waveforms.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-10-08'
+doctype: document

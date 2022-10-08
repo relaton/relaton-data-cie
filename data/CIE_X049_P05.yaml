@@ -1,0 +1,70 @@
+---
+id: CIEx049-P05
+title:
+- content: IMPLEMENTING LOCK-IN DETECTION IN PHOTOMETRY AND SPECTRORADIOMETRY USING
+    TEMPORAL LIGHT MODULATION
+  format: text/plain
+  type: title-main
+- content: IMPLEMENTING LOCK-IN DETECTION IN PHOTOMETRY AND SPECTRORADIOMETRY USING
+    TEMPORAL LIGHT MODULATION
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-x049-p05?product_id=2502825
+  type: src
+type: standard
+docid:
+- id: CIE x049-P05
+  type: CIE
+  primary: true
+date:
+- type: published
+  value: '2022-10-01'
+contributor:
+- person:
+    name:
+      surname:
+        content: Martinsons
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - publisher
+revdate: '2022-10-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Lock-in detection is a well-established technique to measure the amplitude
+    and phase of a modulated signal in the presence of noise, background, and parasitic
+    signals. This technique is commonly used in many applications to extract small,
+    modulated signals buried in noise that could not directly be measured otherwise.In
+    most lighting products, temporal light modulation is usually a periodic fluctuation
+    of the light output resulting from the power supply. Lock-in detection is inherently
+    well-suited to the characterisation of these optical oscillations superimposed
+    to a large luminous background.Different methods of lock-in detection are applicable
+    to photometric and spectroradiometric measurements in the presence of temporal
+    light modulation: electrical lock-in detection with a lock-in amplifier, digital
+    lock-in detection based on synchronous sampling, and purely optical lock-in detection.The
+    practical implementations of these methods are detailed, illustrated, and compared.
+    Their respective advantages and drawbacks are presented in the case of photometric
+    and in the case of more complex measurements based on array spectrometers and
+    imaging photometric instruments. New applications enabled by temporal light modulation
+    are given.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-10-08'
+doctype: document

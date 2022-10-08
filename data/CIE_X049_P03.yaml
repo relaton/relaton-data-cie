@@ -1,0 +1,72 @@
+---
+id: CIEx049-P03
+title:
+- content: EVALUATION OF DATA ACQUISITION SYSTEMS FOR MEASUREMENT OF TEMPORAL LIGHT
+    MODULATIONS
+  format: text/plain
+  type: title-main
+- content: EVALUATION OF DATA ACQUISITION SYSTEMS FOR MEASUREMENT OF TEMPORAL LIGHT
+    MODULATIONS
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-x049-p03?product_id=2502823
+  type: src
+type: standard
+docid:
+- id: CIE x049-P03
+  type: CIE
+  primary: true
+date:
+- type: published
+  value: '2022-10-01'
+contributor:
+- person:
+    name:
+      surname:
+        content: Zong
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
+- person:
+    name:
+      surname:
+        content: Miller
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - publisher
+revdate: '2022-10-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: We evaluated several data acquisition systems for measurement of temporal
+    light modulations. A waveform generator was used to simulate temporal light modulation
+    waveforms for this evaluation. The generated waveform was used as the waveform
+    reference and was measured using three representative data acquisition systems
+    with resolutions of 24 bits, 16 bits, and 8 bits. The temporal light artefacts
+    quantities, the short-term flicker index, PstLM, perception modulation, Mp, and
+    stroboscopic effect visibility measure, SVM, of the reference waveform and three
+    measured waveforms were calculated and compared.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-10-08'
+doctype: document

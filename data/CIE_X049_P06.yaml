@@ -1,0 +1,78 @@
+---
+id: CIEx049-P06
+title:
+- content: IEA 4E SSL ANNEX INTERLABORATORY COMPARISON OF MEASUREMENTS OF TEMPORAL
+    LIGHT MODULATION – PLAN
+  format: text/plain
+  type: title-main
+- content: IEA 4E SSL ANNEX INTERLABORATORY COMPARISON OF MEASUREMENTS OF TEMPORAL
+    LIGHT MODULATION – PLAN
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-x049-p06?product_id=2502828
+  type: src
+type: standard
+docid:
+- id: CIE x049-P06
+  type: CIE
+  primary: true
+date:
+- type: published
+  value: '2022-10-01'
+contributor:
+- person:
+    name:
+      surname:
+        content: Coyne
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
+- person:
+    name:
+      surname:
+        content: Ohno
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - publisher
+revdate: '2022-10-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The International Energy Agency (IEA) 4E Solid State Lighting Annex is
+    planning on conducting an Interlaboratory Comparison (IC 2022) for the measurement
+    of temporal light modulation (TLM) from solid state lighting (SSL) products. This
+    work builds on the SSL Annex’s experience from its previous two interlaboratory
+    comparisons (IC 2013, IC 2017) for measurement of SSL products. IC 2022 is organised
+    to compare measured TLM waveform data and calculated short term flicker index
+    (PstLM) in IEC TR 61547-1 and stroboscopic effect visibility measure (SVM, MVS)
+    in IEC TR 63158, of the comparison artefacts. Four LED lamps with different TLM
+    characteristics and one TLM generator source will be used as the comparison artefacts.
+    IC 2022 is planned as a technical study but is designed to serve as a proficiency
+    test for SSL testing accreditation programmes. Early interest has been received
+    from over 20 organisations, including test laboratories, instrument manufacturers,
+    lighting manufacturers, universities and research institutes. The technical protocol
+    is currently being developed.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-10-08'
+doctype: document
