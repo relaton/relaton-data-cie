@@ -1,0 +1,119 @@
+---
+id: CIEISO11664-2-2022
+title:
+- content: Colorimetry
+  format: text/plain
+  type: title-main
+- content: 'Part 2: CIE standard illuminants'
+  format: text/plain
+  type: title-part
+- content: 'Colorimetry - Part 2: CIE standard illuminants'
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-iso-11664-2-2022?product_id=2502988
+  type: src
+type: standard
+docid:
+- id: CIE ISO 11664-2:2022
+  type: CIE
+  primary: true
+date:
+- type: published
+  value: '2022-09-01'
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - publisher
+revdate: '2022-09-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document was revised by the International Commission on Illumination
+    (CIE) and is now published in cooperation with Technical Committee ISO/TC 274,
+    Light and lighting, in collaboration with the European Committee for Standardization
+    (CEN) Technical Committee CEN/TC 139, Paints and varnishes, in accordance with
+    the Agreement on technical cooperation between ISO and CEN (Vienna Agreement).This
+    first edition cancels and replaces ISO 11664-2:2007/CIE S 014-2:2006, which has
+    been technically revised. CIE illuminant D50 has been included as CIE standard
+    illuminant due to its extensive use in the fields of graphic, arts and photography
+    and the references have been updated.In addition to CIE standard illuminant A
+    and D65, this document also defines CIE illuminant D50 as a new standard illuminant.a)
+    CIE standard illuminant ACIE standard illuminant A is intended to represent typical
+    tungsten-filament lighting. Its relative spectral power distribution is that of
+    a Planckian radiator at a temperature of approximately 2 856 K. CIE standard illuminant
+    A should be used in all applications of colorimetry involving the use of incandescent
+    lighting, unless there are specific reasons for using a different illuminant.
+    CIE standard illuminant A is used in photometry as primary reference spectrum
+    for the calibration of photometric devices.b) CIE standard illuminant D65CIE standard
+    illuminant D65 is intended to represent average daylight having a correlated colour
+    temperature of approximately 6 500 K. CIE standard illuminant D65 should be used
+    in all colorimetric calculations requiring representative outdoor daylight, unless
+    there are specific reasons for using a different spectral power distribution.
+    Variations in the relative spectral power distribution of daylight are known to
+    occur, particularly in the ultraviolet spectral region, as a function of season,
+    time of day, and geographic location. However, CIE standard illuminant D65 is
+    used pending the availability of additional information on these variations.c)
+    CIE standard illuminant D50CIE standard illuminant D50 is intended to represent
+    daylight with a correlated colour temperature of approximately 5 000 K. CIE standard
+    illuminant D50 should be used in colorimetric calculations where the use of such
+    a correlated colour temperature is intended.Values for the relative spectral power
+    distribution of CIE standard illuminants A, D65 and D50 are given in this document
+    at 1 nm intervals from 300 nm to 830 nm.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: CIES014-2/E-2006/ISO11664-2-2007(E)
+    title:
+    - content: CIE Standard llluminants for Colorimetry
+      format: text/plain
+      type: title-main
+    - content: CIE Standard llluminants for Colorimetry
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.com/cie/standards/cie-s-014-2-e-2006-iso-11664-2-2007-e?product_id=1601626
+      type: src
+    docid:
+    - id: CIE S 014-2/E:2006/ISO 11664-2:2007(E)
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2008-12-01'
+    revdate: '2008-12-01'
+- type: updates
+  bibitem:
+    id: CIES014-2/E-2006(ISO11664-2-2007)
+    title:
+    - content: CIE Standard llluminants for Colorimetry
+      format: text/plain
+      type: title-main
+    - content: CIE Standard llluminants for Colorimetry
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.com/cie/standards/cie-s-014-2-e-2006-iso-11664-2-2007?product_id=1529665
+      type: src
+    docid:
+    - id: CIE S 014-2/E:2006 (ISO 11664-2:2007)
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2007-12-01'
+    revdate: '2007-12-01'
+fetched: '2022-10-12'
+doctype: document

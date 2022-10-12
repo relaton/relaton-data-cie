@@ -1,0 +1,67 @@
+---
+id: CIEISO11664-6-2022
+title:
+- content: Colorimetry
+  format: text/plain
+  type: title-main
+- content: 'Part 6: CIE standard illuminants'
+  format: text/plain
+  type: title-part
+- content: 'Colorimetry - Part 6: CIE standard illuminants'
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-iso-11664-6-2022?product_id=2502987
+  type: src
+type: standard
+docid:
+- id: CIE ISO 11664-6:2022
+  type: CIE
+  primary: true
+date:
+- type: published
+  value: '2022-09-01'
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - publisher
+revdate: '2022-09-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This document was revised by the International Commission on Illumination
+    (CIE) and is now published in cooperation with Technical Committee ISO/TC 274,
+    Light and lighting, in collaboration with the European Committee for Standardization
+    (CEN) Technical Committee CEN/TC 139, Paints and varnishes, in accordance with
+    the Agreement on technical cooperation between ISO and CEN (Vienna Agreement).This
+    second edition cancels and replaces the first edition (ISO/CIE 11664-6:2014),
+    of which it constitutes a minor revision. The changes are as follows:— normative
+    references updated;— previous Clause 3 split into Clauses 3 and 4;— Clause 6:
+    previous NOTE 1 changed to body text;— minor editorial changes.The three-dimensional
+    colour space produced by plotting CIE tristimulus values (X, Y, Z) in rectangular
+    coordinates is not visually uniform. Neither is the (x, y, Y) space nor the two-dimensional
+    CIE (x, y) chromaticity diagram. Equal distances in these spaces and the respective
+    diagram do not represent equally perceptible differences between colour stimuli.
+    For this reason, the CIE has standardized two more-nearly uniform colour spaces
+    (known as CIELAB and CIELUV), whose coordinates are non-linear functions of X,
+    Y and Z. Numerical values representing approximately the relative magnitude of
+    colour differences can be described by simple Euclidean distances in these spaces
+    or by more sophisticated colour-difference formulae that improve the correlation
+    with the relative perceived size of differences. The purpose of this document
+    is to define one such formula, the CIEDE2000 formula.This document is based on
+    CIE 142-2001. The formula is an extension of the CIE 1976 L*a*b* colour-difference
+    formula (ISO/CIE 11664-4) with corrections for variation in colour-difference'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+fetched: '2022-10-12'
+doctype: document
