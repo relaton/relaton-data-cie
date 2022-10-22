@@ -39,10 +39,13 @@ relation:
   bibitem:
     id: ISO/CIE11664-2-2022
     title:
-    - content: 'ISO/CIE 11664-2 Colorimetry – Part 2: CIE standard illuminants'
+    - content: ISO/CIE 11664-2 Colorimetry
       format: text/plain
       type: title-main
-    - content: 'ISO/CIE 11664-2 Colorimetry – Part 2: CIE standard illuminants'
+    - content: 'Part 2: CIE standard illuminants'
+      format: text/plain
+      type: title-part
+    - content: 'ISO/CIE 11664-2 Colorimetry - Part 2: CIE standard illuminants'
       format: text/plain
       type: main
     link:
@@ -101,5 +104,5 @@ relation:
     - type: published
       value: '2008-11-30'
     revdate: '2008-11-30'
-fetched: '2022-10-21'
+fetched: '2022-10-22'
 doctype: document
