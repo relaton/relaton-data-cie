@@ -34,7 +34,7 @@ contributor:
         script:
         - Latn
   role:
-  - author
+  - type: author
 - person:
     name:
       surname:
@@ -44,7 +44,7 @@ contributor:
         script:
         - Latn
   role:
-  - author
+  - type: author
 - person:
     name:
       surname:
@@ -54,7 +54,7 @@ contributor:
         script:
         - Latn
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: Commission Internationale de L'Eclairage
@@ -62,7 +62,7 @@ contributor:
       content: CIE
     url: cie.co.at
   role:
-  - publisher
+  - type: publisher
 revdate: '2017-10-23'
 language:
 - en
@@ -85,5 +85,5 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: document

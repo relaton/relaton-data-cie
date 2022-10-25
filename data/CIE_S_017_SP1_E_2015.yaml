@@ -35,7 +35,7 @@ contributor:
       content: CIE
     url: cie.co.at
   role:
-  - publisher
+  - type: publisher
 revdate: '2015-10-01'
 language:
 - en
@@ -101,5 +101,5 @@ relation:
     - type: published
       value: '2013-10-01'
     revdate: '2013-10-01'
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: document

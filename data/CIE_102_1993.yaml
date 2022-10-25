@@ -30,7 +30,7 @@ contributor:
       content: CIE
     url: cie.co.at
   role:
-  - publisher
+  - type: publisher
 revdate: '1993-01-01'
 language:
 - en
@@ -68,5 +68,5 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: document
