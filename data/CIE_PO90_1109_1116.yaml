@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEPO901109-1116
 title:
 - content: VISIBILITY OF LED ROAD SIGNS IN FOGGY CONDITION (PO90, 1109-1116)
@@ -107,5 +108,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

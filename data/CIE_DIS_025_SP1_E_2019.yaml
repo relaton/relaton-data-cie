@@ -1,5 +1,6 @@
 ---
-id: CIEDIS025-SP1/E-2019
+schema-version: v1.2.1
+id: CIEDIS025-SP1-E-2019
 title:
 - content: Test Method for OLED Luminaires and OLED Light Sources
   format: text/plain
@@ -49,7 +50,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: CIES025-SP1/E-2019
+    id: CIES025-SP1-E-2019
     title:
     - content: 'Test Method for LED Lamps, LED Luminaires and LED Modules Supplement
         1: Test Method for OLED Luminaires and OLED Light Sources'
@@ -70,5 +71,6 @@ relation:
     - type: published
       value: '2019-11-01'
     revdate: '2019-11-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

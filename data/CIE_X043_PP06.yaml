@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEx043-PP06
 title:
 - content: DIRECTIONAL LIGHT OF LED ARRAYS AND ITS INFLUENCE ON SHAPE PERCEPTION (PP06,
@@ -69,5 +70,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

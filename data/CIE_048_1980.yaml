@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE048-1980
 title:
 - content: Light signals for road traffic control
@@ -54,7 +55,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: CIES006.1/E-1998(ISO16508-1999)
+    id: CIES006.1-E-1998(ISO16508-1999)
     title:
     - content: Road traffic lights
       format: text/plain
@@ -97,5 +98,6 @@ relation:
     - type: published
       value: '1988-01-01'
     revdate: '1988-01-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

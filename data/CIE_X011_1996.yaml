@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEx011-1996
 title:
 - content: Special volume 23rd Session of the CIE, New Delhi, November 1-8, 1995,
@@ -52,5 +53,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

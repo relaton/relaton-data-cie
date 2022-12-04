@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE073-1988
 title:
 - content: Visual aspects of road markings (joint technical report CIE/PIARC)
@@ -52,5 +53,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

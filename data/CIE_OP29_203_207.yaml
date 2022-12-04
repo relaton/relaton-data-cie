@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEOP29203-207
 title:
 - content: FISHEYE CAMERA SYSTEM FOR DETERMINING SPATIAL CORRECTIONS IN LUMINOUS EFFICACY
@@ -93,5 +94,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

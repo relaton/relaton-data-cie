@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEPO17488-491
 title:
 - content: COLOUR DEVIATION SENSING AND COMPENSATION METHOD FOR MULTI-SPECTRAL LED
@@ -84,5 +85,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

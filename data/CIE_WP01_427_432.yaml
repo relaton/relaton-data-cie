@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEWP01427-432
 title:
 - content: DETERMINATION OF ILLUMINANTS REPRESENTING TYPICAL WHITE LIGHT EMITTING
@@ -119,5 +120,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

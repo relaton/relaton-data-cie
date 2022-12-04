@@ -1,5 +1,6 @@
 ---
-id: CIES012/E-2004
+schema-version: v1.2.1
+id: CIES012-E-2004
 title:
 - content: Standard method of assessing the spectral quality of daylight simulators
     for visual appraisal and measurement of colour
@@ -48,5 +49,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

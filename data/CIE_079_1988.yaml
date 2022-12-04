@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE079-1988
 title:
 - content: A guide for the design of road traffic lights
@@ -83,7 +84,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: CIES006.1/E-1998(ISO16508-1999)
+    id: CIES006.1-E-1998(ISO16508-1999)
     title:
     - content: Road traffic lights
       format: text/plain
@@ -126,5 +127,6 @@ relation:
     - type: published
       value: '1980-01-01'
     revdate: '1980-01-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

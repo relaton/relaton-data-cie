@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEOP036-10
 title:
 - content: INFLUENCE OF CIRCADIAN STIMULUS AND COLOUR TEMPERATURE ON CHILDREN'S STUDY
@@ -101,5 +102,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

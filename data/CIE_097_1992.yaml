@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE097-1992
 title:
 - content: Maintenance of indoor electric lighting systems
@@ -62,5 +63,6 @@ relation:
     - type: published
       value: '2005-12-01'
     revdate: '2005-12-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

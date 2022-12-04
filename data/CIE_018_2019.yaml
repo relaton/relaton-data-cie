@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE018-2019
 title:
 - content: The Basis of Physical Photometry
@@ -72,5 +73,6 @@ relation:
     - type: published
       value: '1983-01-01'
     revdate: '1983-01-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

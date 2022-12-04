@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEPO21866-870
 title:
 - content: INFLUENCE OF A GLARE SOURCES SPECTRUM ON DISCOMFORT GLARE
@@ -79,5 +80,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

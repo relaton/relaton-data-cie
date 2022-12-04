@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEOP36258-266
 title:
 - content: A TYPOLOGY FOR LIGHT QUALITY IN SPATIAL CONTEXTS (OP36, 258-266)
@@ -71,5 +72,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEx043-PO47
 title:
 - content: VISUAL FIDELITY ASSESSMENT OF ARTWORKS IN VIRTUAL REALITY (PO47, Pages
@@ -112,5 +113,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

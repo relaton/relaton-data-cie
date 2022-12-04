@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEPP10538-543
 title:
 - content: CHARACTERIZING AN INTEGRATING SPHERE PHOTOMETER  FOR MEASUREMENTS OF SOLID-STATE
@@ -91,5 +92,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

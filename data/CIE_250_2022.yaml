@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE250-2022
 title:
 - content: Spectroradiometric measurement of optical radiation sources
@@ -67,5 +68,6 @@ relation:
     - type: published
       value: '1984-01-01'
     revdate: '1984-01-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

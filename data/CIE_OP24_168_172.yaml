@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEOP24168-172
 title:
 - content: READABILITY AND VISUAL COMFORT FOR READING ON A DISPLAY WITH VARIOUS AMBIENT
@@ -68,5 +69,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEx043-PP08
 title:
 - content: COLOUR VISUAL EFFECTS OF STEADY STATE EXPERIMENTS IN DIFFERENT THERMAL
@@ -129,5 +130,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

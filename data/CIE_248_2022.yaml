@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE248-2022
 title:
 - content: 'The CIE 2016 Colour Appearance Model for Colour Management Systems: CIECAM16'
@@ -78,5 +79,6 @@ relation:
     - type: published
       value: '2004-01-01'
     revdate: '2004-01-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

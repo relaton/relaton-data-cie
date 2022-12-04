@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE165-2005
 title:
 - content: CIE 10 Degree Photopic Photometric Observer
@@ -46,5 +47,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

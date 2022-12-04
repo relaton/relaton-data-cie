@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEx043-OP23
 title:
 - content: TEXTURE SPECTRAL SIMILARITY CRITERIA (OP23, Pages 147-154)
@@ -68,5 +69,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

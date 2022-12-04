@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEx043-PO14
 title:
 - content: USING A STANDARD GREY SCALE FOR COLOUR CHANGE IN A MULTI-ANGLE COLOUR-ASSESSMENT
@@ -142,5 +143,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

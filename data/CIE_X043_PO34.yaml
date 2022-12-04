@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEx043-PO34
 title:
 - content: CORRELATIONS BETWEEN CONCENTRATION OF EFFECT PIGMENTS, OPTICAL MEASUREMENTS
@@ -122,5 +123,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

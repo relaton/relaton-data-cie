@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEPO11461-465
 title:
 - content: OPTICAL DESIGN OF THE NON-BILATERAL SYMMETRICAL ELLIPTICAL REFLECTOR WITH
@@ -89,5 +90,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

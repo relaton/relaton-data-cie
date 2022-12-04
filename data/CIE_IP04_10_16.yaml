@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEIP0410-16
 title:
 - content: CIE 2017 COLOUR FIDELITY INDEX (IP04, Pages 10-16)
@@ -60,5 +61,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

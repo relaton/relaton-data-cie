@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEOP0411-18
 title:
 - content: EFFECTIVENESS OF BRIGHT LIGHT THERAPY IN THE TREATMENT FOR MOOD DISORDER
@@ -71,5 +72,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

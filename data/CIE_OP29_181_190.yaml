@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEOP29181-190
 title:
 - content: USING LIGHT TO FACILITATE THE MOBILITY OF LOW VISION PEOPLE (OP29, 181-190)
@@ -87,5 +88,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

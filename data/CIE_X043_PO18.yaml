@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEx043-PO18
 title:
 - content: VISUAL EVALUATION OF WHITE SAMPLES NEAR TO CIE LIMITS (PO18, Pages 484-492)
@@ -66,5 +67,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

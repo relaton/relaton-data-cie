@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE107-1994
 title:
 - content: Review of the official recommendations of the CIE for the colours of signal
@@ -70,7 +71,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: CIES004/E-2001
+    id: CIES004-E-2001
     title:
     - content: Colours of light signals
       format: text/plain
@@ -89,5 +90,6 @@ relation:
     - type: published
       value: '2001-01-01'
     revdate: '2001-01-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

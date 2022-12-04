@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEx027-2004
 title:
 - content: 'Proceeding of the CIE Symposium 2004 on Light and Health: non-visual effects
@@ -62,5 +63,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

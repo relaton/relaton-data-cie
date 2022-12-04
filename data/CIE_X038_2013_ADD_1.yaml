@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEx038-2013Add1
 title:
 - content: Proceedings of CIE Centenary Conference "Towards a New Century of Light"
@@ -82,5 +83,6 @@ relation:
     - type: published
       value: '2013-04-15'
     revdate: '2013-04-15'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

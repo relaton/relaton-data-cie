@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEx048-PO34
 title:
 - content: OPTIMISATION OF A MOBILE METHOD FOR MEASURING ROAD LIGHTING CHARACTERISTICS
@@ -75,5 +76,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

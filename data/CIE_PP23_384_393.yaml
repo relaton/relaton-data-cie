@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEPP23384-393
 title:
 - content: A COLOUR GAMUT INDEX AND COLOUR-SHIFT INFORMATION BASED ON CIE 13.3 (PP23,
@@ -62,5 +63,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

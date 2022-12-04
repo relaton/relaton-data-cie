@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEOP37267-276
 title:
 - content: A NEW DIMMING CONTROL SCHEME OF LED STREETLIGHTING LUMINAIRES BASED ON
@@ -105,5 +106,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

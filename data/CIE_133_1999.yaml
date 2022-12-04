@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE133-1999
 title:
 - content: Proceedings of the 24th Session of the CIE, Warsaw, Poland, 24-30 June
@@ -54,5 +55,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

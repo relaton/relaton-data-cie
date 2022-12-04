@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEx039-2014
 title:
 - content: Proceedings of CIE 2014 Lighting Quality and Energy Efficiency
@@ -44,5 +45,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

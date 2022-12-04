@@ -1,5 +1,6 @@
 ---
-id: CIES008/E-2001
+schema-version: v1.2.1
+id: CIES008-E-2001
 title:
 - content: Lighting of Work Places
   format: text/plain
@@ -73,5 +74,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

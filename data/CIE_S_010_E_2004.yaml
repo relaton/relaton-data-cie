@@ -1,5 +1,6 @@
 ---
-id: CIES010/E-2004
+schema-version: v1.2.1
+id: CIES010-E-2004
 title:
 - content: Photometry
   format: text/plain
@@ -54,5 +55,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

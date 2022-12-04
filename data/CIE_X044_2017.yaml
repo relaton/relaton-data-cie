@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEx044-2017
 title:
 - content: Proceedings of the Conference on "Smarter Lighting for Better Life" at
@@ -54,5 +55,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE173-2012
 title:
 - content: Tubular Daylight Guidance Systems (Including Erratum 1)
@@ -72,5 +73,6 @@ relation:
     - type: published
       value: '2006-01-01'
     revdate: '2006-01-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

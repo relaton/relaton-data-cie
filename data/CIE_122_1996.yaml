@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE122-1996
 title:
 - content: The relationship between digital and colorimetric data for computer-controlled
@@ -46,5 +47,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

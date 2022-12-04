@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEPO29556-563
 title:
 - content: MAIN PROBLEMS AND SOLUTIONS FOR TEMPORARY EXHIBITION SPACE LIGHTING (PO29,
@@ -81,5 +82,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

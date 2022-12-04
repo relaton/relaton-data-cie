@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEOP26180-184
 title:
 - content: FIELD SURVEYS OF REASSURANCE IN TWO EUROPEAN CITIES USING BOYCE'S DAY-DARK
@@ -93,5 +94,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

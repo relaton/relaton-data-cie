@@ -1,5 +1,6 @@
 ---
-id: CIES016/E-2005
+schema-version: v1.2.1
+id: CIES016-E-2005
 title:
 - content: Lighting of Work Places
   format: text/plain
@@ -55,7 +56,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: ISO/CIE8995-3-2018
+    id: ISO-CIE8995-3-2018
     title:
     - content: Lighting of Work Places
       format: text/plain
@@ -81,7 +82,7 @@ relation:
     revdate: '2019-02-01'
 - type: updates
   bibitem:
-    id: ISO/CIE8995-3-2018
+    id: ISO-CIE8995-3-2018
     title:
     - content: Lighting of work places
       format: text/plain
@@ -107,7 +108,7 @@ relation:
     revdate: '2018-03-01'
 - type: updates
   bibitem:
-    id: ISO/CIE8995-3-2006
+    id: ISO-CIE8995-3-2006
     title:
     - content: Lighting of work places
       format: text/plain
@@ -157,5 +158,6 @@ relation:
     - type: published
       value: '2006-10-15'
     revdate: '2006-10-15'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEPP08271-275
 title:
 - content: VISIBILITY AND GLARE STUDY OF LED-EMBEDDED SIGNS (PP08, 271-275)
@@ -88,5 +89,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

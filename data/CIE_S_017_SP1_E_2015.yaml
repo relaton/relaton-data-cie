@@ -1,5 +1,6 @@
 ---
-id: CIES017-SP1/E-2015
+schema-version: v1.2.1
+id: CIES017-SP1-E-2015
 title:
 - content: 'ILV: International Lighting Vocabulary'
   format: text/plain
@@ -55,7 +56,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: CIEDIS024/E-2015
+    id: CIEDIS024-E-2015
     title:
     - content: Light Emitting Diodes (LEDs) and LED Assemblies
       format: text/plain
@@ -79,7 +80,7 @@ relation:
     revdate: '2015-03-01'
 - type: updates
   bibitem:
-    id: CIEDIS024/E-2013
+    id: CIEDIS024-E-2013
     title:
     - content: Light Emitting Diodes (LEDs) and LED Assemblies
       format: text/plain
@@ -101,5 +102,6 @@ relation:
     - type: published
       value: '2013-10-01'
     revdate: '2013-10-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

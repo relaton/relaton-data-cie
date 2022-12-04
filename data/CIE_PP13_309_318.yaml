@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEPP13309-318
 title:
 - content: INVESTIGATION ON THE LIGHT ENVIRONMENT OF CHINA'S ACTIVE WIDE-BODY AIRCRAFT  (PP13,
@@ -155,5 +156,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

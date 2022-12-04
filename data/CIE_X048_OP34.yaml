@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEx048-OP34
 title:
 - content: ANALYSES ON OCCUPANT PATTERNS AND ENERGY CONSUMPTION IN RESIDENTIAL BUILDINGS
@@ -69,5 +70,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

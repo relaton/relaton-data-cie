@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEPP04252-255
 title:
 - content: EXPLORING THE COLOUR APPEARANCE IN HDR TERRITORY (PP04, 252-255)
@@ -93,5 +94,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

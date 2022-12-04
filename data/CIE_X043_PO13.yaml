@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEx043-PO13
 title:
 - content: VISUAL EVALUATION HIGH CHROMA SAMPLES UNDER THE TWO TYPES OF DAYLIGHT SIMULATORS
@@ -134,5 +135,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

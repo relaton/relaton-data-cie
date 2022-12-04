@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE018.2-1983
 title:
 - content: The Basis of Physical Photometry, 2nd ed. (reprinted 1996)
@@ -68,5 +69,6 @@ relation:
     - type: published
       value: '2019-05-20'
     revdate: '2019-05-20'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

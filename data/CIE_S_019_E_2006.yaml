@@ -1,5 +1,6 @@
 ---
-id: CIES019/E-2006
+schema-version: v1.2.1
+id: CIES019-E-2006
 title:
 - content: Photocarcinogenesis Action Spectrum (Non-Melanoma Skin Cancers)
   format: text/plain
@@ -73,5 +74,6 @@ relation:
     - type: published
       value: '2017-06-01'
     revdate: '2017-06-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

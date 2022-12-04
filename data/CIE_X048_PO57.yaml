@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEx048-PO57
 title:
 - content: TOWARDS AN IMPROVED V-VLC OPTICAL CHANNEL MODELLING
@@ -119,5 +120,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

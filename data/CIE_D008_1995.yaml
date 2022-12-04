@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIED008-1995
 title:
 - content: Computer program to calculate CRIs ( to Publ. 13.3)
@@ -46,5 +47,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

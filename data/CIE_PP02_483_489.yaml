@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEPP02483-489
 title:
 - content: CHROMATIC DISCRIMINATION UNDER DIFFERENT STATES OF CHROMATIC ADAPTATION
@@ -73,5 +74,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

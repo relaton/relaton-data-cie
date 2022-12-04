@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE222-2017
 title:
 - content: Decision Scheme for Lighting Controls in Non-Residential Buildings
@@ -49,5 +50,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

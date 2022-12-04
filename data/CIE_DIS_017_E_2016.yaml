@@ -1,5 +1,6 @@
 ---
-id: CIEDIS017/E-2016
+schema-version: v1.2.1
+id: CIEDIS017-E-2016
 title:
 - content: 'ILV: International Lighting Vocabulary'
   format: text/plain
@@ -46,5 +47,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEISODIS11664-2-2020
 title:
 - content: Colorimetry
@@ -48,7 +49,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: ISO/CIE11664-2-2022
+    id: ISO-CIE11664-2-2022
     title:
     - content: ISO/CIE 11664-2 Colorimetry
       format: text/plain
@@ -72,7 +73,7 @@ relation:
     revdate: '2022-09-01'
 - type: updates
   bibitem:
-    id: ISO/CIE11664-2-2022
+    id: ISO-CIE11664-2-2022
     title:
     - content: Colorimetry
       format: text/plain
@@ -96,7 +97,7 @@ relation:
     revdate: '2022-08-31'
 - type: updates
   bibitem:
-    id: CIES014-2/E-2006/ISO11664-2-2007(E)
+    id: CIES014-2-E-2006-ISO11664-2-2007(E)
     title:
     - content: CIE Standard llluminants for Colorimetry
       format: text/plain
@@ -141,7 +142,7 @@ relation:
     revdate: '2008-11-01'
 - type: updates
   bibitem:
-    id: CIES014-2/E-2006(ISO11664-2-2007)
+    id: CIES014-2-E-2006(ISO11664-2-2007)
     title:
     - content: CIE Standard llluminants for Colorimetry
       format: text/plain
@@ -160,5 +161,6 @@ relation:
     - type: published
       value: '2007-12-01'
     revdate: '2007-12-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

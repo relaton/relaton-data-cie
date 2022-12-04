@@ -1,5 +1,6 @@
 ---
-id: CIES026/E-2018
+schema-version: v1.2.1
+id: CIES026-E-2018
 title:
 - content: CIE System for Metrology of Optical Radiation for ipRGC-Influenced Responses
     to Light
@@ -51,7 +52,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: CIEDIS026/E-2018
+    id: CIEDIS026-E-2018
     title:
     - content: CIE System for Metrology of Optical Radiation for ipRGC-Influenced
         Responses to Light
@@ -72,5 +73,6 @@ relation:
     - type: published
       value: '2018-07-01'
     revdate: '2018-07-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

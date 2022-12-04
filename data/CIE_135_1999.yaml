@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE135-1999
 title:
 - content: 'CIE Collection 1999: Vision and colour, physical measurement of light
@@ -127,5 +128,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

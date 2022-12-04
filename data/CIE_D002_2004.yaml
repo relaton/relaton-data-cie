@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIED002-2004
 title:
 - content: Disk version of CIE colorimetric and colour rendering data (Publ. 13.3
@@ -57,5 +58,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

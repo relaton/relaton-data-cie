@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE231-2019
 title:
 - content: CIE Classification System of Illuminance and Luminance Meters
@@ -54,5 +55,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

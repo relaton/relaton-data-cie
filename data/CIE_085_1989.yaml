@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE085-1989
 title:
 - content: Solar spectral irradiance
@@ -80,5 +81,6 @@ relation:
     - type: published
       value: '2020-09-01'
     revdate: '2020-09-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

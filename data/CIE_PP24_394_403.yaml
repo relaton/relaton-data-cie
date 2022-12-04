@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEPP24394-403
 title:
 - content: OPTIMIZATION OF BIMODAL QUANTUM DOTS CONVERTED WHITE LEDS FOR HIGH COLOUR
@@ -72,5 +73,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

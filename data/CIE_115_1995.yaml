@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE115-1995
 title:
 - content: Recommendations for the lighting of roads for motor and pedestrian traffic
@@ -95,5 +96,6 @@ relation:
     - type: published
       value: '1973-01-01'
     revdate: '1973-01-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

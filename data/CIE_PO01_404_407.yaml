@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEPO01404-407
 title:
 - content: ILLUMINATION CONTROL MODEL FOR COMFORTABLE INDOOR READING (PO01, 404-407)
@@ -84,5 +85,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

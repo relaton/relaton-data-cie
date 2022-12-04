@@ -1,5 +1,6 @@
 ---
-id: CIEDIS025/E-2014
+schema-version: v1.2.1
+id: CIEDIS025-E-2014
 title:
 - content: Test Method for LED Lamps, LED Luminaires and LED Modules
   format: text/plain
@@ -48,5 +49,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEOP27169-173
 title:
 - content: A LIGHT THAT CAN IMPROVE SLEEPING QUALITY IN TERMS OF HORMONE CONCENTRATION
@@ -114,5 +115,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

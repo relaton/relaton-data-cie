@@ -1,5 +1,6 @@
 ---
-id: CIES004/E-2001
+schema-version: v1.2.1
+id: CIES004-E-2001
 title:
 - content: Colours of light signals
   format: text/plain
@@ -80,5 +81,6 @@ relation:
     - type: published
       value: '1994-01-01'
     revdate: '1994-01-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

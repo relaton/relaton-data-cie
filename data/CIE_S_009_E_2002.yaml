@@ -1,5 +1,6 @@
 ---
-id: CIES009/E-2002
+schema-version: v1.2.1
+id: CIES009-E-2002
 title:
 - content: Photobiological safety of lamps and lamp systems (bilingual edition)
   format: text/plain
@@ -70,7 +71,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: CIES009/D-2002
+    id: CIES009-D-2002
     title:
     - content: Photobiological safety of lamps and lamp systems
       format: text/plain
@@ -89,5 +90,6 @@ relation:
     - type: published
       value: '2002-01-01'
     revdate: '2002-01-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

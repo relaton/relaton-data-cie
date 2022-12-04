@@ -1,5 +1,6 @@
 ---
-id: CIES014-6/E-2013
+schema-version: v1.2.1
+id: CIES014-6-E-2013
 title:
 - content: Colorimetry
   format: text/plain
@@ -50,7 +51,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: ISO/CIE11664-6-2022
+    id: ISO-CIE11664-6-2022
     title:
     - content: ISO/CIE 11664-6:2022 Colorimetry
       format: text/plain
@@ -99,7 +100,7 @@ relation:
     revdate: '2014-01-31'
 - type: updates
   bibitem:
-    id: CIEDS014-6/E-2012
+    id: CIEDS014-6-E-2012
     title:
     - content: Colorimetry
       format: text/plain
@@ -121,5 +122,6 @@ relation:
     - type: published
       value: '2012-04-30'
     revdate: '2012-04-30'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

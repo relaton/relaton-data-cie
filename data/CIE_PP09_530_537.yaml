@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEPP09530-537
 title:
 - content: LASER DRIVEN WHITE LIGHT SOURCE FOR BRDF MEASUREMENT (PP09, 530-537)
@@ -71,5 +72,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

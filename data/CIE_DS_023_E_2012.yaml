@@ -1,5 +1,6 @@
 ---
-id: CIEDS023/E-2012
+schema-version: v1.2.1
+id: CIEDS023-E-2012
 title:
 - content: Characterization of the Performance of Illuminance Meters and Luminance
     Meters
@@ -50,7 +51,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: CIEISO/CIE19476-2014
+    id: CIEISO-CIE19476-2014
     title:
     - content: Characterization of the Performance of Illuminance Meters and Luminance
         Meters
@@ -73,7 +74,7 @@ relation:
     revdate: '2014-05-01'
 - type: updates
   bibitem:
-    id: CIES023/E-2013
+    id: CIES023-E-2013
     title:
     - content: Characterization of the Performance of Illuminance Meters and Luminance
         Meters
@@ -117,5 +118,6 @@ relation:
     - type: published
       value: '1987-01-01'
     revdate: '1987-01-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

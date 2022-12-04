@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE202-2011
 title:
 - content: Spectral Responsivity Measurement of Detectors, Radiometers and Photometers
@@ -66,5 +67,6 @@ relation:
     - type: published
       value: '1984-01-01'
     revdate: '1984-01-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEx017-2000
 title:
 - content: Special volume 24th Session of the CIE,  Warsaw 1999
@@ -52,5 +53,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

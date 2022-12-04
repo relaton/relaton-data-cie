@@ -1,5 +1,6 @@
 ---
-id: CIES017/E-2011
+schema-version: v1.2.1
+id: CIES017-E-2011
 title:
 - content: 'ILV: International lighting vocabulary, new'
   format: text/plain
@@ -51,7 +52,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: CIES017/E-2020
+    id: CIES017-E-2020
     title:
     - content: 'ILV: International Lighting Vocabulary, 2nd Edition'
       format: text/plain
@@ -72,7 +73,7 @@ relation:
     revdate: '2020-12-01'
 - type: updates
   bibitem:
-    id: IEC/CIE017.4-1987
+    id: IEC-CIE017.4-1987
     title:
     - content: International lighting vocabulary, 4th ed. ***CONTACT ciecb@cie.co.at
         TO OBTAIN THIS PUBLICATION
@@ -93,5 +94,6 @@ relation:
     - type: published
       value: '1987-01-01'
     revdate: '1987-01-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

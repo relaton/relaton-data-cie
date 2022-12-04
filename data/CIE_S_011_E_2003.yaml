@@ -1,5 +1,6 @@
 ---
-id: CIES011/E-2003
+schema-version: v1.2.1
+id: CIES011-E-2003
 title:
 - content: Spatial distribution of daylight
   format: text/plain
@@ -63,5 +64,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

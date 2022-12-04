@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEx048-OP58
 title:
 - content: A STUDY ON THE DIFFERENCES IN VISION BETWEEN THE YOUNG AND THE ELDERLY
@@ -80,5 +81,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

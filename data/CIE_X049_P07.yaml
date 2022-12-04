@@ -1,0 +1,146 @@
+---
+schema-version: v1.2.1
+id: CIEx049-P07
+title:
+- content: DEVELOPMENT OF A CONTROL SYSTEM TO EVALUATE THE IMPACT OF ARTIFICIAL LIGHT
+    MODULATION ON INSECTS
+  format: text/plain
+  type: title-main
+- content: DEVELOPMENT OF A CONTROL SYSTEM TO EVALUATE THE IMPACT OF ARTIFICIAL LIGHT
+    MODULATION ON INSECTS
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-x049-p07?product_id=2502829
+  type: src
+type: standard
+docid:
+- id: CIE x049-P07
+  type: CIE
+  primary: true
+date:
+- type: published
+  value: '2022-10-01'
+contributor:
+- person:
+    name:
+      surname:
+        content: De Causmaecker
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Mentens
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Aerts
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Vanschoenwinkel
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Moortgat
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: den
+          language:
+          - en
+          script:
+          - Latn
+      surname:
+        content: Van
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Bossche
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Jacobs
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+revdate: '2022-10-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: By 2030, all public lighting in Flanders, Belgium will be replaced by LED
+    technology. However, artificial lighting properties, such as flickering due to
+    light modulation, influence nocturnal insects. This research describes the development
+    of a novel measurement device that can control the flickering frequency, luminous
+    flux and correlated color temperature (CCT) of an LED light box. This to evaluate
+    the impact of artificial light modulation on insects. A case study has been developed
+    using four identical setups that were placed on the university campus. For each
+    setup, the flickering frequency can be varied (f = 0 Hz, 80 Hz, 120 Hz, 150 Hz)
+    while other parameters are unchanged. When an insect is detected, an image is
+    taken which allows further determination. In this paper, descriptive statistics
+    on the number of detected insects are presented. The results of the prototype
+    and measurement setup are promising for further research in different areas of
+    biology.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: document
+ext:
+  schema-version: v1.0.0

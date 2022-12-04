@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE061-1984
 title:
 - content: 'Tunnel entrance lighting: A survey of fundamentals for determining the
@@ -48,5 +49,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

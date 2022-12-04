@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE145-2002
 title:
 - content: The correlation of models for vision and visual performance
@@ -50,5 +51,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

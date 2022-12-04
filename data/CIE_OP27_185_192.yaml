@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEOP27185-192
 title:
 - content: EFFECT OF ILLUMINATED ROUTE SIGNS FOR TSUNAMI EVACUATION (OP27, 185-192)
@@ -121,5 +122,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

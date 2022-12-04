@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE158-2009
 title:
 - content: Ocular lighting effects on human physiology and behaviour (including erratum
@@ -71,5 +72,6 @@ relation:
     - type: published
       value: '2004-01-01'
     revdate: '2004-01-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

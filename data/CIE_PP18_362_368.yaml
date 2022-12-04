@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEPP18362-368
 title:
 - content: A VISUAL EVALUATION OF COLOUR DIFFERENCES BETWEEN 3D OBJECTS (PP18, 362-368)
@@ -119,5 +120,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

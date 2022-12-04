@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEx048-OP28
 title:
 - content: SENSITIVITY ANALYSIS ON THE EFFECT OF MEASUREMENT NOISE AND SAMPLING FREQUENCY
@@ -80,5 +81,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

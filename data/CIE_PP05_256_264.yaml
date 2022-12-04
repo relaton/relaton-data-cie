@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEPP05256-264
 title:
 - content: RESEARCH ON THE APPLICATION BENEFITS OF THE LED LIGHT SOURCE BASED ON THE
@@ -139,5 +140,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

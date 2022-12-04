@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIE162-2004
 title:
 - content: Chromatic adaptation under mixed illumination condition when comparing
@@ -70,5 +71,6 @@ relation:
     - type: published
       value: '2010-02-01'
     revdate: '2010-02-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: CIES007/E-1998
+schema-version: v1.2.1
+id: CIES007-E-1998
 title:
 - content: Erythema reference action spectrum and standard erythema dose
   format: text/plain
@@ -57,7 +58,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: ISO/CIE17166-2019
+    id: ISO-CIE17166-2019
     title:
     - content: Erythema reference action spectrum and standard erythema dose
       format: text/plain
@@ -78,7 +79,7 @@ relation:
     revdate: '2019-06-01'
 - type: updates
   bibitem:
-    id: ISO/CIE17166-2019
+    id: ISO-CIE17166-2019
     title:
     - content: Erythema reference action spectrum and standard erythema dose
       format: text/plain
@@ -120,7 +121,7 @@ relation:
     revdate: '1999-12-01'
 - type: updates
   bibitem:
-    id: ISO17166*CIES007/E
+    id: ISO17166*CIES007-E
     title:
     - content: Erythema reference action spectrum and standard erythema dose
       format: text/plain
@@ -141,7 +142,7 @@ relation:
     revdate: '1999-12-01'
 - type: updates
   bibitem:
-    id: ISO/CIE17166-1999
+    id: ISO-CIE17166-1999
     title:
     - content: Erythema reference action spectrum and standard erythema dose
       format: text/plain
@@ -181,5 +182,6 @@ relation:
     - type: published
       value: '1999-03-01'
     revdate: '1999-03-01'
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0

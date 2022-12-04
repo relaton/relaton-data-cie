@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CIEOP0519-28
 title:
 - content: OFFICE LIGHTING DESIGN IN CONSIDERATION OF EYE FATIGUE AND TASK PERFORMANCE
@@ -103,5 +104,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-fetched: '2022-12-03'
 doctype: document
+ext:
+  schema-version: v1.0.0
