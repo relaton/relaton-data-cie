@@ -1,0 +1,58 @@
+---
+schema-version: v1.2.1
+id: CIE251-2023
+title:
+- content: LED Reference Spectrum for Photometer Calibration
+  format: text/plain
+  type: title-main
+- content: LED Reference Spectrum for Photometer Calibration
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-251-2023?product_id=2523816
+  type: src
+type: standard
+docid:
+- id: CIE 251:2023
+  type: CIE
+  primary: true
+- id: '9783902842664'
+  type: ISBN
+date:
+- type: published
+  value: '2023-01-01'
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+revdate: '2023-01-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: CIE standard illuminant A was introduced in 1932 to represent typical tungsten-filament
+    lighting in colorimetry, and for decades it has been used as a reference spectrum
+    in photometer calibrations.In 2018, CIE published new LED illuminants in CIE 015:2018
+    Colorimetry, 4th Edition. Based on one of the new LED illuminants, this Technical
+    Report publishes a recommendation for an LED reference spectrum, named "CIE reference
+    spectrum L41", for photometer calibration that complements CIE standard illuminant
+    A. Specifically, this document includes the tabulated data of CIE reference spectrum
+    L41 and a quality metric for selection of white LEDs for physical LED standard
+    sources.Information is provided about typical magnitudes of spectral mismatch
+    errors with V()-filtered photometers in measurements of LEDs, as well as other
+    types of light sources, when CIE reference spectrum L41 is used for photometer
+    calibration instead of CIE standard illuminant A.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype: document
+ext:
+  schema-version: v1.0.0
