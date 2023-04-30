@@ -1,0 +1,134 @@
+---
+schema-version: v1.2.3
+id: CIEISO23539-2023
+title:
+- content: Photometry
+  format: text/plain
+  type: title-intro
+- content: The CIE system of physical photometry
+  format: text/plain
+  type: title-main
+- content: Photometry - The CIE system of physical photometry
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-iso-23539-2023?product_id=2562836
+  type: src
+type: standard
+docid:
+- id: CIE ISO 23539:2023
+  type: CIE
+  primary: true
+date:
+- type: published
+  value: '2023'
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+revdate: '2023'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This document was revised by the International Commission on Illumination
+    (CIE) and is now published in cooperation with Technical Committee ISO/TC 274,
+    Light and lighting.This first edition of ISO/CIE 23539 cancels and replaces ISO
+    23539:2005/CIE S 010:2004, which has been technically revised.The main changes
+    are as follows:— The scope of the document has changed to incorporate the spectral
+    luminous efficiency functions published by the CIE for a) mesopic vision and b)
+    10° photopic vision, on the basis of CIE 018:2019.— The International System of
+    Units (SI) and its reformulation of the definition of the candela – effective
+    on 20 May 2019 – has been incorporated (Resolution 1, 26th CGPM, 2018).— A list
+    of normative references has been added.— Specific requirements have been added
+    regarding the use of units, tabulated values and interpolation of intermediate
+    values.— The background of the CIE system of physical photometry, specifically
+    the evolution of the photometric base unit, has been updated in Annex C.— The
+    CIE 2015 cone-fundamental-based spectral luminous efficiency functions for a)
+    2° field size and b) 10° field size have been added in Annex E based on CIE 170-2:2015.The
+    purpose of photometry is to measure light as perceived by human eyes. The brightness
+    of a luminous surface depends not only on the amount of radiation it emits, transmits
+    or reflects, but also on its spectral composition and on the visual response function
+    of the observer viewing it. Because human visual response varies at different
+    light levels and from person to person, precise photometry requires the definition
+    of representative standard observers. The CIE system of physical photometry specifies
+    procedures for the quantitative evaluation of optical radiation in terms of internationally
+    agreed spectral luminous efficiency functions for human vision. V(λ) represents
+    photopic vision, V''(λ) represents scotopic vision and Vmes;m(λ) represents mesopic
+    vision, the latter being intermediate between photopic and scotopic vision. Furthermore,
+    V10(λ) represents 10° photopic vision. These luminous efficiency functions adopted
+    from CIE 018:2019 and BIPM-2019/05, together with the SI base unit, the candela,
+    constitute a system that enables the calculation of values of photometric quantities
+    for optical radiation as well as light-emitting, light-transmitting or light-reflecting
+    surfaces, to be precisely determined based on the International System of Units
+    (SI), regardless of the spectral composition of the radiation emitted, transmitted
+    or reflected.The CIE system of physical photometry has some limitations in respect
+    to the brightness of coloured surfaces: two light sources of different colour
+    but with the same measured luminance value will not necessarily be perceived as
+    equally bright. CIE has therefore published a more complex model (CIE 200:2011)
+    for specific situations. For eye-mediated non-image-formingeffects of light induced
+    partially or completely by the intrinsically photosensitive retinal ganglioncells
+    (ipRGCs), CIE S 026/E:2018 is used.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: CIEISODIS23539-2021
+    title:
+    - content: Photometry
+      format: text/plain
+      type: title-intro
+    - content: The CIE system of physical photometry
+      format: text/plain
+      type: title-main
+    - content: Photometry - The CIE system of physical photometry
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.com/cie/standards/cie-iso-dis-23539-2021?product_id=2246149
+      type: src
+    docid:
+    - id: CIE ISO DIS 23539:2021
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2022-01-01'
+    revdate: '2022-01-01'
+- type: updates
+  bibitem:
+    id: CIES010-E-2004(ISO23539-2005)
+    title:
+    - content: Photometry
+      format: text/plain
+      type: title-intro
+    - content: The CIE system of physical photometry
+      format: text/plain
+      type: title-main
+    - content: Photometry - The CIE system of physical photometry
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.com/cie/standards/cie-s-010-e-2004-iso-23539-2005?product_id=1210115
+      type: src
+    docid:
+    - id: CIE S 010/E:2004 (ISO 23539:2005)
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2005-08-01'
+    revdate: '2005-08-01'
+doctype: document
+ext:
+  schema-version: v1.0.0
