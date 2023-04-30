@@ -14,7 +14,7 @@ on:
       args:
         description: Extra args to pass to crawler.rb script
         required: false
-        default: 'latest'
+        default: ''
 
 jobs:
   crawl:
