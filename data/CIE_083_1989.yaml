@@ -20,6 +20,7 @@ docid:
   primary: true
 - id: '9783900734206'
   type: ISBN
+docnumber: '083-1989'
 date:
 - type: published
   value: '1989-01-01'
@@ -32,6 +33,8 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
+edition:
+  content: '2'
 revdate: '1989-01-01'
 language:
 - en

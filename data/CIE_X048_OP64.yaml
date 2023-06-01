@@ -15,9 +15,10 @@ link:
   type: src
 type: standard
 docid:
-- id: CIE  x048-OP64
+- id: CIE x048-OP64
   type: CIE
   primary: true
+docnumber: x048-OP64
 date:
 - type: published
   value: '2021-09-29'

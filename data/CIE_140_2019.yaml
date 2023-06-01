@@ -18,6 +18,7 @@ docid:
   primary: true
 - id: '9783902842565'
   type: ISBN
+docnumber: 140:2019
 date:
 - type: published
   value: '2019-02-01'
@@ -30,6 +31,8 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
+edition:
+  content: '2'
 revdate: '2019-02-01'
 language:
 - en
