@@ -100,6 +100,7 @@ relation:
     - type: published
       value: '2013-10-01'
     revdate: '2013-10-01'
-doctype: document
+doctype:
+  type: document
 ext:
   schema-version: v1.0.0

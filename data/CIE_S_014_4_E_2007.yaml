@@ -163,6 +163,7 @@ relation:
     - type: published
       value: '2007-09-01'
     revdate: '2007-09-01'
-doctype: document
+doctype:
+  type: document
 ext:
   schema-version: v1.0.0

@@ -153,6 +153,7 @@ relation:
     - type: published
       value: '2012-04-15'
     revdate: '2012-04-15'
-doctype: document
+doctype:
+  type: document
 ext:
   schema-version: v1.0.0

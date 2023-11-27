@@ -125,6 +125,7 @@ relation:
     - type: published
       value: '2012-04-30'
     revdate: '2012-04-30'
-doctype: document
+doctype:
+  type: document
 ext:
   schema-version: v1.0.0

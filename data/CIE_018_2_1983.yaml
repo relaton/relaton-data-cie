@@ -70,6 +70,7 @@ relation:
     - type: published
       value: '2019-05-20'
     revdate: '2019-05-20'
-doctype: document
+doctype:
+  type: document
 ext:
   schema-version: v1.0.0

@@ -34,6 +34,7 @@ language:
 - en
 script:
 - Latn
-doctype: document
+doctype:
+  type: document
 ext:
   schema-version: v1.0.0

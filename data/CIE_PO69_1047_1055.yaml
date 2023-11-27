@@ -97,6 +97,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype: document
+doctype:
+  type: document
 ext:
   schema-version: v1.0.0

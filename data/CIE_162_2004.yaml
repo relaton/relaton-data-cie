@@ -72,6 +72,7 @@ relation:
     - type: published
       value: '2010-02-01'
     revdate: '2010-02-01'
-doctype: document
+doctype:
+  type: document
 ext:
   schema-version: v1.0.0
