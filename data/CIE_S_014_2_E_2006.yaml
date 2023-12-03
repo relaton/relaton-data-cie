@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: CIES014-2-E-2006
 title:
 - content: CIE Standard llluminants for Colorimetry
@@ -111,7 +111,7 @@ relation:
     revdate: '2020-01-31'
 - type: updates
   bibitem:
-    id: CIES014-2-E-2006-ISO11664-2-2007(E)
+    id: CIES014-2-E-2006-ISO11664-2-2007E
     title:
     - content: CIE Standard llluminants for Colorimetry
       format: text/plain

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: CIES020-E-2007
 title:
 - content: Emergency Lighting
@@ -57,7 +57,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: CIES020-E-2007(ISO30061-2007)
+    id: CIES020-E-2007ISO30061-2007
     title:
     - content: Emergency Lighting
       format: text/plain

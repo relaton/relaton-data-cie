@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: CIEISODIS23539-2021
 title:
 - content: Photometry
@@ -74,7 +74,7 @@ relation:
     revdate: '2023-03-01'
 - type: updates
   bibitem:
-    id: CIES010-E-2004(ISO23539-2005)
+    id: CIES010-E-2004ISO23539-2005
     title:
     - content: Photometry
       format: text/plain

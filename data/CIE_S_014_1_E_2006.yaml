@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: CIES014-1-E-2006
 title:
 - content: CIE Standard Colorimetric Observers
@@ -121,7 +121,7 @@ relation:
     revdate: '2019-06-01'
 - type: updates
   bibitem:
-    id: CIES014-1-E-2006(ISO11664-1-2007)
+    id: CIES014-1-E-2006ISO11664-1-2007
     title:
     - content: CIE Standard Colorimetric Observers
       format: text/plain

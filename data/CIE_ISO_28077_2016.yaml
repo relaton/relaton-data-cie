@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: CIEISO28077-2016
 title:
 - content: Photocarcinogenesis Action Spectrum (Non-Melanoma Skin Cancers)
@@ -47,7 +47,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: CIES019-E-2006(ISO28077-2006)
+    id: CIES019-E-2006ISO28077-2006
     title:
     - content: Photocarcinogenesis Action Spectrum (Non-Melanoma Skin Cancers)
       format: text/plain

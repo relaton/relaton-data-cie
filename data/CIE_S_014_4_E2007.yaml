@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: CIES014-4-E2007
 title:
 - content: Colorimetry
@@ -115,7 +115,7 @@ relation:
     revdate: '2019-07-01'
 - type: updates
   bibitem:
-    id: CIES014-4-E-2007(ISO11664-4-2008)
+    id: CIES014-4-E-2007ISO11664-4-2008
     title:
     - content: Colorimetry
       format: text/plain
