@@ -55,13 +55,9 @@ language:
 script:
 - Latn
 abstract:
-- content: This article proposes a new metric for roadway lighting design that has
-    the potential to improve visibility for drivers during nighttime. The new metric
-    is named as Useful Contrast Index (UCI) and it relates the contrast of obstacles
-    (targets) to the contrast threshold. We define the useful contrast index as the
-    percentage of targets that have a contrast value greater than the contrast threshold
-    along the length of the road. We conclude that the Useful Contrast Index has merit
-    and could be used to provide a better visual environment for drivers.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

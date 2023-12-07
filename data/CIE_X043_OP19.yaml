@@ -65,21 +65,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Reproduction of the appearance of real-world materials in virtual environments
-    has been one of the ultimate challenges of computer graphics. The required material
-    representations depend on the complexity of the material's appearance. They start
-    with a bidirectional reflectance distribution function (BRDF) describing distribution
-    of energy reflected in the viewing direction when illuminated from a specific
-    direction. As the BRDF cannot capture a material's spatial structure, it has been
-    extended to a more general bidirectional texture function (BTF) capturing non-local
-    effects in rough material structures, such as occlusions, masking, sub-surface
-    scattering, or inter-reflections. A monospectral BTF is a six-dimensional function
-    representing the material appearance at each surface point for variable illumination
-    and view directions, parameterized by elevation and azimuthal angles. This paper
-    describes application of gonioreflectometers for capturing BTF for material visualization
-    purposes. It starts with the reference measurement setup and continue with introduction
-    of portable measurement approaches to capturing approximate BTF. Finally, we discuss
-    future challenges in material acquisition.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

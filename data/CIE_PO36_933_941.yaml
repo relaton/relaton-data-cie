@@ -91,21 +91,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Due to display market diversification, conventional flat panel displays
-    are being developed in curved and flexible. The performance of the display evaluation
-    is evaluated not only by the design elements but also by the functional elements
-    (luminance uniformity, resolution, contrast ratio and chromaticity). In FPD, typically
-    use the point-type 9-point measurement as an international standard. Also in Curved
-    display, IEC-TS-62715 proposes a method of optical axis is fixed and divided into
-    9- spots to evaluate the luminance and uniformity. A curved display is designed
-    to allow the same distance between the viewer and every part of the screen, unlike
-    the conventional flat panel display, the distance from the eyes of the viewer
-    to the center of the screen is the same with that to the sides of the screen.
-    However, the edge of the display is a critical area not only the front surface.
-    It is not a good fit to evaluate this area with spot-type device. In this paper,
-    we propose a method of evaluating curved display uniformity using each pixel luminance
-    value measured by ILMD (image luminance measuring device) which Benchmarked from
-    flat panel display evaluation method from DFF (German Flat panel display forum).
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

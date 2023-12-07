@@ -67,20 +67,9 @@ language:
 script:
 - Latn
 abstract:
-- content: A non-uniform luminance distribution produces more discomfort glare than
-    a uniform one of equal average luminance. Since the average luminance level for
-    the standard UGR calculation considers mostly the total luminaire surface, its
-    applicability for non-uniform light sources is under discussion. With a growing
-    market share of highly non-uniform LED luminaires, a valid discomfort glare metric
-    becomes essential. The UGR can elegantly be improved by discriminating between
-    background and light emitting part(s) of a luminaire. A luminance threshold identifies
-    the high luminance pixels in a luminance map as actual light emitting surface.
-    A subjective visual experiment encompassing commercially available recessed office
-    luminaires validates the improved UGR method. With a coefficient of determination
-    of 0.44, the standard UGR fails to predict discomfort glare. Covering also non-uniform
-    light sources, the improved UGR, with a coefficient of determination of up to
-    0.80, elegantly ameliorates the visual discomfort calculation from a luminance
-    map.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

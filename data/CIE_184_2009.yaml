@@ -37,18 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    The CIE recommended daylight illuminants in 1967. These daylight illuminants
-    contained ultraviolet radiation in proportions as found in natural outdoor daylight.
-    Indoors this daylight is filtered by the transmission of the window glass; therefore it
-    became necessary to define spectral power distributions also for the indoor daylight
-    phases. The TC recommends adoption of two indoor daylight illuminants ID50 and
-    ID65, that correspond to the phases of daylight of about 5000 K and 6500 K
-    The publication is written in English, with a short summary in French and
-    German. It consists of 22 pages with 5 figures and 2 tables.
-    correlated colour temperature. Tables of the spectra are provided at 5 nm intervals
-    from 300 nm to 780 nm, along with the rationale for their development and detailed
-    comparison with existing daylight illuminants.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

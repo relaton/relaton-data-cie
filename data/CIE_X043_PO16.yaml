@@ -57,20 +57,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Various empirical tests, calibrations and verifications were performed
-    to define the uncertainty contributors for the colorimetric calibrations of surface
-    colour standards and emitted colour sources (including colorimeters). A standard
-    spectroradiometer was calibrated for luminance and verified for correlated colour
-    temperature and CIE 1931 chromaticity coordinates. The spectroradiometer was also
-    verified for various surface colours using a set of coloured reference tiles.
-    The software of the spectroradiometer, used for calculating chromaticity coordinates
-    from the measured spectral radiance, was validated. The contribution of stray
-    light to the spectroradiometer measurements was investigated and quantified. Uncertainty
-    contributors for emitted colour calibrations, such as uniformity and stability
-    of the colour reference screen and distance and viewing angle of the spectroradiometer
-    to the screen were measured and calculated for nine colours produced on the screen.
-    The various uncertainties for colorimetric calibrations were calculated and will
-    be discussed.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

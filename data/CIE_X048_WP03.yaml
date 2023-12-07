@@ -88,18 +88,9 @@ language:
 script:
 - Latn
 abstract:
-- content: The general V(A) mismatch index, f_1^' quantifies the mismatch between
-    the spectral responsivity of a photometer, s(A), and the spectral luminous efficiency
-    function, V(A). A short review of its historical development is given to explain
-    the reasons for the current definition and which adjustments may be useful for
-    the future. The properties of the current definition are described in detail. It
-    is very likely that in the future, calibration of photometers will be done with
-    a white LED light source as reference. It might involve the need for a more adequate
-    definition of the general V(A) mismatch index, either by using a different normalization
-    in f_1^'   for the spectral responsivity of the photometer or by introducing a
-    different type of function for assessing the mismatch. On the other hand, the
-    measurement of coloured LEDs is also becoming increasingly important. Is a single
-    quality index for white and coloured light sources sufficient?
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

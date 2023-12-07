@@ -39,22 +39,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    There are two kinds of luminescent materials widely used in industry, differing only in the locations of their excitation and emission wavelength regions. The first, which is mainly considered in this report, are the chromatic luminescent materials used for safety and signal applications. These materials are generally excited by absorption of radiation in the ultraviolet and short-wavelength visible region. The second type, containing fluorescent whitening agents (FWAs), absorbs in the ultraviolet and emits in the short-wavelength visible region, otherwise the two types are very similar.
-
-    The most widely used type of instrumentation for measuring specimens of these luminescent materials is the one-monochromator spectrophotometer, with the viewing beam. The large majority of these instruments in the field have integrating-sphere geometry.
-
-    This Technical Report describes an intercomparison of measurements of the (total) spectral radiance factor (SRF) of luminescent materials. Seven luminescent specimens were provided as painted panels: two were white containing FWAs and five were chromatic (green, yellow, two orange, red).
-
-    The SRFs were to be measured with direct specimen illumination by a source simulating CIE D65. The SRFs that would have been obtained under D65 illuminations were to be calculated by a method from among those previously studied by the committee.
-
-    The report reviews the nature of the problem producing systematic errors in the measurement and possibilities for correcting the measurements results.
-
-    From the performed investigation described in detail, the committee concluded that the measurement and calculation of the SRFs of luminescent materials can be made, on various one-monochromator instruments in different laboratories, to within an average CIELAB color difference of about 2,6 units from the mean results, with a range among specimens from 1,9 to 3,4 units, and a range among data sets from 1,5 to 4,2 units. Similar orders of magnitude are found if one laboratory is selected as the reference and the color differences are calculated relative to it. The range of maximum SRFs among samples is, however, quite large, varying from 11,4% to 33,6%. These results include correction for integrating-sphere-efficiency effects where this geometry was used.
-
-    The conclusion drawn from the intercomparison and the evaluation of the different data reduction and correction procedures described in the literature is that no officially agreed CIE recommendation should be formulated at this time. The report has been presentedfor study and use. The readers will find, however, a number of methods in this publication, by the application of which their measurement results can be made more accurate.
-
-    The publication contains 68 pages and 29 tables.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

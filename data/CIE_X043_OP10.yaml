@@ -97,20 +97,9 @@ language:
 script:
 - Latn
 abstract:
-- content: The reflectance properties of coatings with effect pigments result in a
-    quite strange colour sensation for humans. The colour of effect pigments is caused
-    by anisotropic optical processes like low-order scattering, interference, or diffraction.
-    This work specifically deals with the reflectance characterization of effect coatings
-    with diffraction pigments. Its main purpose is to determine the most adequate
-    illumination/observation geometries to characterize the variation of its colour
-    gamut. We propose a relevant geometrical variable to study the spectral reflectance
-    and colour variation of coatings with diffraction pigments. At fixed values of
-    this geometrical variable, the component of the spectral BRDF due to diffraction
-    is almost constant. Based on the spectral BRDF of six coatings, which were measured
-    by the robot-based goniospectrophotometer available at IO-CSIC, we show how the
-    spectral BRDF can be represented by basic functions, which depend on either the
-    wavelength or on the proposed geometrical variable. Finally, the chromatic analysis
-    of the studied coatings was discussed.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

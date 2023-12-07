@@ -77,18 +77,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Gloss is an essential visual property of objects. It is still controversial
-    how well gloss constancy works under different light distributions. In this paper,
-    we conducted three experiments of different light distributions to investigate
-    whether the stable discrimination and gloss constancy of paper occurred with different
-    glossiness levels at the different light source distances and illuminances. The
-    results suggest instability of paper discrimination and gloss perception when
-    both light source distance and illuminance change. Then we tested two additional
-    conditions. One is setting the distance the same and manipulating the illumination.
-    The other is setting the illuminance constant and manipulating the distance, respectively.
-    We further verify that illuminance and specular reflection can affect material
-    and gloss perception, regardless of the width of the highlight region changed
-    by light source distance.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

@@ -77,19 +77,9 @@ language:
 script:
 - Latn
 abstract:
-- content: A method is proposed for analysing spectral components from the observed
-    images of fluorescent objects and reconstructing realistic appearances of the
-    fluorescent objects under different illuminations. First, the Donaldson matrices
-    of fluorescent objects are estimated at each pixel point using a spectral imaging
-    system under two-illuminant projections. Observed images of the fluorescent objects
-    under arbitrary illuminations are constructed using the estimated matrices and
-    the target illuminant. Next, the mutual illumination phenomenon between fluorescent
-    objects is analysed. The Donaldson matrix of each object and the spectral image
-    components are estimated from the images with the mutual illumination. The estimated
-    component images are used for reconstructing the same objects under different
-    light source. Finally the feasibility of the method is shown in appearance reconstruction
-    of fluorescent objects with/without mutual illumination effects under different
-    light sources.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

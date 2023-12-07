@@ -39,19 +39,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    This report has been prepared to assist luminaire suppliers and lighting designers in
-    the production of UGR tables for luminaires in preset arrays at 1:1 spacing to height
-    ratio. This data is needed for the verification of conformity to the limiting UGR by the
-    UGR tabular method specified in clause 6.2 of the Standard ISO 8995-1:2002(E)/
-    CIE S 008/E:2001 "Lighting of Workplaces - Part 1: Indoor". The limiting UGR values
-    are recommended in clause 5 of this standard. The report makes use of the basic
-    UGR equation, described in CIE 117-1995, gives tables of preset values for the
-    standard conditions and in step by step describes the calculation process needed to
-    generate the uncorrected UGR table. The process is further demonstrated by a
-    worked example of UGR calculation for a disymmetric distribution luminaire in a room
-    2H x 4H. The report also gives the uncorrected UGR table for this luminaire which
-    can be used to validate software designed for the production of the UGR table.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

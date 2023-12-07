@@ -67,16 +67,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Temporal light modulation (TLM) and the resulting temporal light artefacts
-    (TLA) can cause problems with health and wellbeing for users of lighting products.
-    Therefore, TLM has to be measured accurately and repeatably. This study investigates
-    important factors influencing the measurement uncertainty of TLM measurements.
-    The study shows how measurement uncertainty on central TLM parameters can have
-    a significant effect on the calculation of TLA. Specifically, we show a linear
-    relationship between DC offset and the expected error. Further we show severe
-    effects of random noise on PstLM on certain waveforms. And lastly, we show a curious
-    effect related to SVM of pulse width modulated signals and the measurement sampling
-    frequency.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

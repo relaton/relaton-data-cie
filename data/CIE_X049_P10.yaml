@@ -57,24 +57,9 @@ language:
 script:
 - Latn
 abstract:
-- content: The requirements for a measurement device regarding the detection of temporal
-    light artefacts are complex in many ways. In this work, we investigated the effect
-    of aliasing and its impact on SVM and Pst. For a suitable measurement device,
-    an anti-aliasing filter is essential, but the right choice of such a filter involves
-    the consideration of many factors. Very important is the correct adjustment of
-    the sampling frequency with respect to the transmission of the anti-aliasing filter.
-    Filter type, filter order and cut-off frequency in combination with the chosen
-    sampling frequency are directly related to measurement errors. In addition, not
-    only the measurement itself, but also the calculation of quantities like SVM and
-    Pst can introduce errors to TLA results. For the evaluation of SVM for instance,
-    a Fourier transformation of the signal is necessary. To avoid or minimize errors
-    in the frequency detection, common signal processing techniques can be applied.
-    We examine the use of zero-padding (nulling) and windowing on the input signal
-    before an FFT is performed. With the right choice of these techniques, we increase
-    the reliability of the results. These techniques cannot be applied directly to
-    the evaluation of Pst, since this calculation is done in the time domain. Nevertheless,
-    we show that advantages in terms of reliability and measurement duration can be
-    achieved by moving to the frequency domain (Fourier transformation).
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

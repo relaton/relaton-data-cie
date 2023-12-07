@@ -97,18 +97,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Street lighting ensures visibility and legibility for road users. In this
-    paper, performances of the lighting installation of four road sections with different
-    type of road surface are simulated in accordance with guidelines and road lighting
-    standards. Then, the calculation of the visibility level of a target according
-    to the Adrians model is included. Next, the light reflections on the road surface
-    are added to the calculation of the target luminance. For this, the area considered
-    in front of the target as well as the number of elementary surfaces are fixed
-    and a Q_0-scaling of the r-table obtained for a=45 degree is performed. We compare
-    the results obtained for each section with and without considering the light reflections
-    and conclude that there is negligible incidence of the nature of the road surface
-    on the target luminance. However, an effect of the road surface on the visibility
-    level of the target is observed.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

@@ -67,15 +67,9 @@ language:
 script:
 - Latn
 abstract:
-- content: To progress toward the metrology of coloured and textured surfaces, validation
-    criteria are required. In this work, we use the complexity assessment as an accuracy
-    measure of texture features. We show how to transform a colour texture feature
-    in a multiscale measure in order to assess the fractal dimension of colour surfaces.
-    The feature accuracy is then estimated from surfaces with known fractal dimension
-    using adapted midpoint displacement algorithm. The results show that the used
-    vector texture feature (colour contrast occurrence) presents a good accuracy,
-    but also that the colour midpoint algorithm must be improved to avoid artefacts
-    in the generation of images with low complexity level.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

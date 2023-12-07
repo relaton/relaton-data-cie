@@ -39,14 +39,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    There has long been a need for a series of reference spectral transmission and absorption data for the human eye for applications in eye research and optical safety studies. TC 6-15 collected spectral data from the literature and determined from that literature the best form for the wavelength dependence of the transmission and absorption of the components of the human eye. After critical review, the data have been compiled in tabular form in comma-delimited computer-accessible data files. The tabulated data consist of the transmission and absorption data of the clear ocular media, including the cornea, the aqueous, the lens, and the vitreous of the young ( <10 years old) human eye and the rhesus eye for the wavelength range of 0,2 μm to 2,5 μm. Transmittance data of the total clear ocular media in the human eye for the wavelength range 0,3 μm to 0,7 μm and for ages between 1 year and 100 years are also tabulated. These data can be downloaded by readers of this Technical Report from the CIE website.
-
-    This publication corrects and replaces CIE 203:2012 "A Computerized Approach to Transmission and Absorption Characteristics of the Human Eye".
-
-    An Erratum is included that shows corrected Equations 4 and 5 as well as 2 changes in wording in Section 4.6.
-
-    The publication is written in English, with a short summary in French and German.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

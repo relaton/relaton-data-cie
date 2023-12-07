@@ -77,19 +77,9 @@ language:
 script:
 - Latn
 abstract:
-- content: As the interest in design applications related to responses to light beyond
-    vision is growing, two simulation tools, ALFA and Lark, have been developed to
-    incorporate spectral characteristics of light in the evaluation of indoor lighting
-    conditions. The spectral characteristics of light are of particular relevance
-    when studying ipRGC-influenced responses. This paper aims to assess the reliability
-    of these tools in predicting indoor spectral irradiance specifically from electric
-    lighting. Spectral irradiance was measured under three indoor electric lighting
-    scenarios and compared against spectral irradiance simulated in ALFA and Lark.
-    While the outcomes of the study tend to show that ALFA is both more accurate and
-    faster, rather large errors were found for spectral irradiance (-28.6% to 33.4%).
-    In comparison to a prior study focusing on daylighting, these results seem to
-    indicate that spectral simulations of electrically lit scenes are generally less
-    accurate than those of daylit scenes with these tools.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

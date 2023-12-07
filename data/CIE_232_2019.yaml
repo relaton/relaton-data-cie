@@ -39,9 +39,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    In 1995 the CIE Technical Committee 3-13 developed the Unified Glare Rating (UGR) to predict discomfort glare for indoor lighting systems. For practical reasons, the UGR is based on the average source luminance. The introduction of LEDs in general lighting enabled many new luminaire designs, sometimes with unprecedented high luminance contrasts. The literature review presented in this report shows that UGR tends to underestimate the discomfort provoked by such luminaires with highly non-uniform source luminance. Several UGR correction methods are evaluated by comparison to experimental data on experienced discomfort from uniform and non-uniform light sources. The preferred method involves a precise definition of the glare source area based on a luminance image of the source. This method solves the discrepancies between UGR and perceived glare from non-uniform light sources. To guide future work on glare prediction methods, the remaining shortcomings of UGR are briefly reviewed.
-    The publication is written in English, with a short summary in French and German. It consists of 41 pages with 12 figures and 1 table and is readily available from the CIE Webshop or from the National Committees of the CIE.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

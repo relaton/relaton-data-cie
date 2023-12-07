@@ -39,12 +39,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    This report presents a detailed study of bandwidth correction applied to spectra encountered in radiometric, photometric and spectrophotometric measurements. The mechanism of broadening of data recorded by both scanning and array spectrometers, due to bandpass function effects, is discussed in detail, along with an historical study of methods currently applied. The report presents a bandwidth correction algorithm that can be used for any real bandpass function and provides both a step-by-step guide on how to apply that correction, and a discussion of the theoretical and experimental limits to its applicability.
-
-    The effect of noise and measurement interval in measurement of both the spectrum and the bandpass function is discussed and methods for identifying the significance of noise effects in the corrected spectrum are presented. The reduced effect of noise when calculating spectrally integrated quantities (such as photometric or colorimetric values) is also examined. Practical guidelines are given for the application of bandwidth correction, both for the determination of the bandpass function and for estimating whether the correction may lead to an improvement in spectral accuracy.
-
-    The publication is written in English, with a short summary in French and German.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

@@ -69,18 +69,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Light sources causing annoyance or pain produce discomfort glare. Traditional
-    glare metrics are merely empirical and fail for non-uniform luminaires. By incorporating
-    the centre-surround receptive field mechanism, the pupillary light reflex and
-    a position index correction per pixel, a more physiologically justified model
-    is developed. The centre-surround receptive field mechanism acts similar to an
-    edge filter and represents the visual signal. The pupil area, influences the retinal
-    illuminance. A correction according to the Guth position index accounts for the
-    reduction in brightness perception when a light source is moved away from the
-    line of sight. The model is analysed with a paired comparison experiment involving
-    9 non-uniform rear projected stimuli with different spatial frequencies and luminance
-    steps. With a coefficient of determination of 0.90, the model is a promising alternative
-    to current glare metrics, especially when non-uniform luminaires are to be evaluated.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

@@ -117,18 +117,9 @@ language:
 script:
 - Latn
 abstract:
-- content: We applied the same effect coating with metallic pigments to three surfaces
-    with different convex curvatures (flat, slightly curved and very curved), and
-    their spectral BRDF was measured at different pairs of illumination and observation
-    directions. We found that, at specular directions, the higher the curvature of
-    the sample the lower the spectrally-averaged BRDF, whereas, at aspecular angles
-    close to the specular directions, the higher the curvature the higher the spectrally-averaged
-    BRDF, which is very likely due to the convolution by curvature. But, in addition,
-    we have found another impact of the curvature, which is not spectrally neutral
-    and cannot be explained by simple convolution. It is observed at some in-plane
-    geometries with high incidence angles. The colour of the curved sample is slightly
-    more chromatic at these geometries, which points out that the effect pigments
-    contribute in higher extent to the spectral BRDF.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

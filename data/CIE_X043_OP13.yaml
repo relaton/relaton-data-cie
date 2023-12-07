@@ -57,13 +57,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Pulse-width modulation is a widely used technique to control the power
-    and intensity of solid state lighting systems but under specific conditions it
-    can cause undesirable flicker or stroboscopic effects. Two studies were conducted
-    to analyze these effects. In the first study, standard pulse-width modulation
-    was used. The influence of the modulation frequency and duty cycle was considered.
-    The proposed approach was applied in the second study. The results show the ability
-    to reduce the stroboscopic effects even at low frequencies of pulse-width modulation.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

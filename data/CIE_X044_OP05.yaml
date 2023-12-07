@@ -57,16 +57,9 @@ language:
 script:
 - Latn
 abstract:
-- content: This research aimed to study the colour quality of LED lightings without
-    confused attributions caused by the interactions of physical quantities. An experiment
-    was designed to assess the naturalness, colourfulness and preference of lightings
-    using tuneable multi-channel LED system to render different gamut sizes as well
-    as gamut shapes under well controlled of other lighting parameters. The most natural
-    and preferred gamut sizes are around 100-105 Rg (IES) values and 105-110 Rg values
-    respectively. The lightings with red-green gamut shapes are judged more colourful
-    than those with yellow-blue shapes while the gamut sizes are similar. Rg and ΔC*
-    both have problem evaluating colourfulness under low CCT lightings. Only a single
-    gamut size index, such as Rg or ΔC* cannot predict the colourfulness well.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

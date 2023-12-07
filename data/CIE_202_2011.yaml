@@ -37,10 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    This Technical Report gives recommendations for spectral radiant power, irradiance and radiance responsivity measurement of single element detectors in the 200 nm to 2 500 nm wavelength range. It covers measurement setups and methods, summarizes the types and basic properties of typical detectors, radiometers and photometers and gives guidance on how to choose a reference detector. Spectral considerations for source and radiometer applications, detector amplifier application issues and measurement uncertainties are described. Primary detector standards and procedures for the realization of units and responsivity functions are the responsibility of national metrology institutes and are not discussed in this report. This Technical Report was written to update Technical Report CIE 64-1984 "Determination of the Spectral Responsivity of Optical Radiation Detectors" with respect to device and measurement technology, and to include spectral irradiance and radiance responsivity measurements for radiometers and photometers from the ultraviolet wavelength range up to 2 500 nm.
-
-    This publication supersedes CIE 64-1984 "Determination of the Spectral Responsivity of Optical Radiation Detectors".
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

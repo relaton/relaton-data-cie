@@ -87,16 +87,9 @@ language:
 script:
 - Latn
 abstract:
-- content: One of the temporal light artefacts, which can occur in temporally modulated
-    light systems, is the phantom array effect, also known as ghosting. This paper
-    studies the influence of frequency, waveform and colour of light output of a LED
-    source on the visibility of the phantom array effect. Results indicate that the
-    visibility of this effect depends on frequency, following a U-shape form, with
-    the effect being most visible at around 600 Hz. Next to that, the phantom array
-    effect is more readily perceived when the light waveform is square, compared to
-    sinusoidal wave. The results also show how the visibility of the phantom array
-    effect depends on the colour of light output; blue light results in less visible
-    effect, compared to red and white light.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

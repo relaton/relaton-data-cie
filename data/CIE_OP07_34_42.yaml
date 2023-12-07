@@ -88,19 +88,9 @@ language:
 script:
 - Latn
 abstract:
-- content: The final goal of this research is to develop a facade system with a sun-shading
-    device that is autonomously controlled as an integrated solution for daylight
-    and electric lighting. The facade system has photovoltaic sensors (PV-slats) on
-    the outer surface of the sun-shading device and can monitor daylight illuminance
-    by using output of the photovoltaic sensors. This research work aims to propose
-    an appropriate sun-shading control strategy for the facade system with PV-slats.
-    It proposes a method to obtain monthly thresholds of vertical global illuminance
-    on windows, as functions of solar altitude or solar profile angle, to judge whether
-    the windows receive direct sunlight or not. It also proposes a sun-shading angle
-    named PV-slat angle. The proposed system includes electric lighting that supplements
-    insufficient illuminance in rooms. Compared with the basic sun-shading control
-    angle, PV-slat angle showed better results in both air-conditioning load and lighting
-    simulations.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

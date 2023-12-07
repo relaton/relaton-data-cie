@@ -87,16 +87,9 @@ language:
 script:
 - Latn
 abstract:
-- content: It is vitally important to estimate visibility in order to maintain a visual
-    safety especially for low-vision people. Authors have agreed that it is reasonable
-    to establish a method to estimate visibility of objects using luminance images,
-    and proposed C-A graph (Nakamura et al. 2016) based on contrast profile method
-    (Nakamura et al. 2003). C-A graph presents luminance contrast and logarithmic
-    average on vertical and horizontal axes for varying object sizes respectively.
-    In this study, two experiments were conducted in order to consider visibility
-    estimation method using C-A graph. The first experiment was conducted to obtain
-    visibility threshold conditions and the second experiment was conducted to examine
-    the relationship between visibility threshold values and visibility evaluation.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

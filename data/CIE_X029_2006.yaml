@@ -37,37 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    12-13 June 2006, Braunschweig, Germany
-
-    In 2001 CIE has organized its first symposium on the evaluation of uncertainty in
-    measurements. This follow-up conference held at the Physikalisch-Technische
-    Bundesanstalt (PTB) Braunschweig, Germany summarized the latest results and
-    trends in this topic, particularly the evaluation of uncertainties associated to values of
-    photometric and radiometric quantities and developments related to methods for the
-    assessment of uncertainties of quantities which are derived from spectral
-    measurements.
-
-    The symposium was split into two main parts: tutorial and workshop. The
-    tutorial covered fundamentals for uncertainty evaluation, modelling of measurements
-    i.e. modules and measurement equations, combinations of modules, uncertainties of
-    calculated quantities resulting from spectral measurements, uncertainty calculations
-    in key comparisons and measurement uncertainty evaluation based on the
-    propagation of distributions using Monte-Carlo simulation. The 1993 ISO publication
-    "Guide to the expression of uncertainties in measurement" (GUM) is devoted to
-    mainly linear models, the advantage of the Monte-Carlo method is that non-linear
-    models and models with more than one output quantity can be handled. A separate
-    lecture introduced the work of CIE TC 2-43 Determination of measurement
-    uncertainties in photometry.
-
-    A great part of the contributed papers dealt with the analysis of spectral
-    measurements. Ways to determine the correlation between the different spectral
-    responsivities together with the calculation of the photometric responsivity were
-    presented. The linear model and the Monte-Carlo simulation was compared and the
-    additional possibilities, like the determination of the correlation matrix, of the Monte-
-    Carlo simulation was analysed. Two papers addressed the question of the
-    uncertainty of the average LED intensity. Further papers were read on industrial
-    applications, scale realization, monochromator bandwidth correction, etc.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

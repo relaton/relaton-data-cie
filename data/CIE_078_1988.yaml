@@ -37,54 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    This work is a result of a renewed activity of the CIE in the field of brightness as defined as the psychological attribute. The Commission started its duties with the compilation of a classified bibliography the results of which may be found in this publication.
-
-    The bibliography consists of two parts:
-
-        * An alphabetical part listing all first authors for quick reference
-        * A classified part.
-
-    The following items are covered in the classified part of the bibliography:
-
-       1. Methodology brightness (contrast) measurement
-              * brightness and contrast scaling
-              * brightness and contrast matching
-              * indirect brightness and contrast determination
-       2. Brightness (contrast)-luminance relations for static stimuli
-              * for relatively simple configurations
-              * for complex scenes (luminance reproduction curve)
-       3. Brightness (contrast)-luminance relations for dynamic stimuli
-              * for time dependent stimuli
-              * followed in the time domain
-       4. Lightness-tone relations
-              * for relatively simple stimuli
-              * for complex scenes (ambient lighting, wavelength, surround luminance)
-       5. Brightness (contrast) and spatial aspects
-              * contour effects
-       * surround
-              * retinal location
-              * sharpness/frequency
-              * luminance gradient
-       6. Brightness (contrast) of a point source
-              * effects of intensity
-              * background luminance
-       7. Brightness (contrast) and state of adaptation; after images
-              * background luminance
-              * preadaptation
-              * duration
-       8. Brightness (contrast) models
-              * scaling models
-              * effects of spatial parameters
-              * dynamic models
-       9. Various
-              * binocular brightness, interocular effects
-              * colour, Helmholz, Kohlrausch, Troxler's effect
-              * special apparatus
-
-    This publication contains 173 pages.
-
-    This Classified Bibliography on Brightness-Luminance Relations has been compiled by J.A.J. Roufs (The Netherlands) and R.M. Smith (USA).
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

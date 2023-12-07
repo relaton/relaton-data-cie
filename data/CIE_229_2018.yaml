@@ -37,21 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: The objective of this report is to lay the groundwork for developing a
-    recommendation on the measurement of effective intensity of flashing lights used
-    for signalling applications. It recommends a convolutional method that will rest
-    on some defined visual impulse response function to calculate the effectivity
-    intensity. As one of such realizations of convolutional methods, the Modified
-    Allard Method with an infinite time window is described. However it is not yet
-    an official recommendation due to the lack of experimental verification and the
-    need for further research. This report also provides guidance on physical measurements
-    of effective intensity for the described method, for flashing lights using any
-    type of light sources including xenon flash tubes, light emitting diodes (LEDs)
-    and rotating beacons, which produce pulse widths in the range from microseconds
-    to seconds. This report does not cover specific measurement requirements for signalling
-    light products. While this document refers to flashing lights, the described method
-    applies also to occulting lights, isophase lights, and groups of flashes of varying
-    duration.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

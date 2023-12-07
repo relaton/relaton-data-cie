@@ -57,14 +57,9 @@ language:
 script:
 - Latn
 abstract:
-- content: We evaluated several data acquisition systems for measurement of temporal
-    light modulations. A waveform generator was used to simulate temporal light modulation
-    waveforms for this evaluation. The generated waveform was used as the waveform
-    reference and was measured using three representative data acquisition systems
-    with resolutions of 24 bits, 16 bits, and 8 bits. The temporal light artefacts
-    quantities, the short-term flicker index, PstLM, perception modulation, Mp, and
-    stroboscopic effect visibility measure, SVM, of the reference waveform and three
-    measured waveforms were calculated and compared.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

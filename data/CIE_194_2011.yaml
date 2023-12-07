@@ -37,11 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    This Technical Report gives the information which designers and users of automatic systems intended to measure the photometric properties of road and tunnel lighting systems need in order to understand the performance of such systems. The main aim of this guide is to clearly define and describe the technical limitations and characteristics of these measurement systems. In this way the advantages and disadvantages of the technical solutions adopted in different systems can be assessed. Their measurement uncertainty can be evaluated and discrepancies understood when the measurement results are compared with those obtained by manual systems or by theoretical evaluations from mathematical algorithms and/or computer simulations. The guide concentrates on systems that measure horizontal illuminance and luminance on road surfaces but much of the guidance is relevant to other quantities and measurement conditions. The guide is divided into two parts:
-
-    Review of essential photometric quantities where differences between their physical or normative definition, their mathematical evaluation and their measurable approximation are highlighted (Clause 2 and Clause 3);
-    Review of the types and characteristics of instruments, the conditions and methodologies of measurements, the evaluation of uncertainty in measurement results and data elaboration (Clause 5, Clause 6 and Clause 7).
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

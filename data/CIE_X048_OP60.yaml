@@ -75,18 +75,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Virtual Reality (VR) seems a promising tool in lighting field, both for
-    design and research applications. Despite several studies have been conducted
-    on this topic, the opinions about the actual advantages of VR are conflicting.
-    It is not clear if VR software are able to properly simulate spatial light distribution,
-    and if the luminous sensation reproduced in Virtual Reality is representative
-    of the real one. The paper revises the literature about the topic and then tests
-    the reliability of a VR simulation software, Unreal Engine (UE), in calculating
-    light. To do that, illuminance measurements were performed in a test room and
-    the obtained values were compared with those calculated with both UE and DIVA
-    for Rhinoceros. Results demonstrated that the percentage differences between the
-    UEs and the real values range from -2% to 5% and those between UE and DIVA from
-    -4% to 0%.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

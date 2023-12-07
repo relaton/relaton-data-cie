@@ -37,17 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Array spectroradiometers are used pervasively in light measurement. However,
-    their properties are not widely understood by users. CIE 233:2019 seeks to educate
-    users in the characteristics of array spectroradiometers that are important to
-    obtaining accurate measurement results. Moreover, performance indices are proposed
-    that will enable users to rank instruments according to the properties that affect
-    their applications. In many cases, if the array spectroradiometer is properly
-    characterized, correction can be made to measurements that will improve the accuracy.
-    Details of the nature and use of these corrections are given. Calibration procedures
-    and uncertainties are discussed for various common quantities, giving a sound
-    foundation to measurements. Background information, underlying the discussions,
-    is found in the annexes and references.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

@@ -71,18 +71,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Blue light hazard is getting more and more attended recently. There are
-    many methods used by researchers to measure, calculate and evaluate the blue light
-    hazard. However, these methods are usually suitable for standardized studies in
-    laboratory. When light sources used in a real environment, these methods couldn?t
-    draw accurate results due to that the blue light hazard would be different in
-    different using conditions. In this study, some mathematical models are established
-    to calculate and simulate the impact on blue light hazard of measurement distance,
-    measurement angle and background light. The experiment results show that blue
-    light weighted radiance is related to the spatial distribution of luminance and
-    the spectrum in real light environment. Meanwhile, a blue light hazard measurement
-    method based on actual light environment is put forward. At last, some methods
-    to avoid the blue light hazard are recommended.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

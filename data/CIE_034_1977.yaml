@@ -39,22 +39,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    This technical report is one of a series of supporting documents to CIE 12.2-1977  Recommendations for the Lighting of Roads for Motorized Traffic. It is concerned with the data involved in predicting the performance of an installation, as described in CIE 30.2-1982 Calculation and Measurement of Luminance and Illuminance in Road Lighting.
-
-       1. Part 1 of the report describes
-
-          the preferred form of basic photometric data for road lighting lanterns: intensity tables; isocandela diagrams; polar diagrams; flashed areas.
-       2. Part 2 outlines
-
-          additional derived data for an individual lantern which could be of value: description of a lantern in terms of throw, speed and control; utilization factor diagrams; luminance yield diagrams, isoluminance diagrams.
-       3. Part 3 gives
-
-          three useful methods of presenting data on the performance of lantern installations: performance tables; performance graphs; layout tables for achieving a specific performance.
-       4. An Appendix gives
-     information about differences in performance which have been found between installations using lanterns that satisfy the same specification or classification.
-
-    The publication contains 39 pages, 15 figures and 1 table.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

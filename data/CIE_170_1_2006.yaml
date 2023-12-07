@@ -37,30 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    CIE established, in 1991, the Technical Committee TC 1-36 with the following Terms of Reference: "Establish a fundamental chromaticity diagram of which the co-ordinates correspond to physiologically significant axes".
-
-    Part I of the report is limited to the choice of a set of colour matching functions and estimates of cone fundamentals for the normal observer, ranging in viewing angle from 1° to 10°.
-
-    The report starts with the choice of the 10° Colour Matching Functions (CMFs) of Stiles and Burch (1959). Then, following the ideas put forward by Stockman and Sharpe (2000), by application of König's hypothesis, and using the most modern data on the spectral sensitivity functions of dichromats, it is followed by the derivation of the spectral sensitivity functions of the long-wave sensitive (L-), medium-wave sensitive (M-) and short-wave sensitive (S-) cones, measured in the corneal plane for a 10° viewing field, the so called "cone fundamentals".
-
-    Next, by correcting these functions for the absorption of the ocular media and the macular pigment, and taking into account the optical densities of the cone visual pigments, all for a 10° viewing field, the low density absorbance functions of these pigments were derived.
-    Using these low density absorbance functions one can derive, taking the absorption of the ocular media and the macula, and taking into account the densities of the visual pigments for a 2° viewing field, the 2°cone fundamentals.
-
-    Using the same procedure one can derive cone fundamentals for every viewing angle between 1° and 10°.
-    Effects of age can also be incorporated by application of the relationship of the absorption of the lens as a function of age.
-    Tables are given, with intervals of 5 nm, of
-
-    •10° cone fundamentals, both in terms of energy and quanta;
-    •optical density of the macular pigment;
-    •optical density of lens and other ocular media;
-    • the photopigment low density absorbance spectra;
-    •2° cone fundamentals, both in terms of energy and quanta;
-    •maximal optical density of the macular pigment as a function of field size;
-    •the optical density of lens and other ocular media as a function of age;
-    •the maximal values of the optical density of the visual pigments as a function of field size.
-
-    The report is written in English, with a short summary in French and German. It consists of 53 pages with 10 figures and 12 tables.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

@@ -38,10 +38,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    CIE ISO DIS 11664-2:2020 was prepared by the International Commission on Illumination (CIE) in cooperation with Technical Committee ISO/TC 274, Light and lighting.
-    This Draft International Standard is a revision of ISO 11664-2:2007 | CIE S 014-2:2006. It will cancel and replace ISO 11664-2:2007 | CIE S 014-2:2006 and will become the first edition of ISO/CIE 11664-2. The document has been technically and editorially revised as per current ISO and CIE rules and the references have been updated.
-    The document defines the following three standard illuminants.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

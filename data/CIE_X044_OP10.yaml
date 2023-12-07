@@ -75,9 +75,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    The general V(λ) mismatch index, f1', was defined by CIE for a general description of the photometric performance of photometers. This index is widely-used in Photometry, and it is very relevant for selecting photometers requiring minimal corrections under different illuminants in photometric measurements. It quantifies the mismatch between the spectral responsivity of a photometer and V(λ). However, we found that this index only correlates well with the photometer photometric performance when illuminants with narrow spectral distributions are used. We propose an alternative general V(λ) mismatch index, based on the
-    remaining variation of the relative spectral responsivity with respect to V(λ) once the highfrequency variation is filtered out. This proposed alternative index correlates much better than f1' with the empirical photometric performance of seven photometers when phosphor-based LEDs and blackbody illuminants are considered.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

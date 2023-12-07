@@ -40,17 +40,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    The visual brightness of a light source depends not only on the amount of radiation it emits but also on its spectral composition and on the visual response function of the observer viewing it. Because human visual response varies at different light levels and from person to person, precise photometry requires the definition of representative standard observers. The CIE system of physical photometry specifies procedures for the quantitative evaluation of optical radiation in terms of the spectral luminous efficiency functions of two such standard observers. One, V(lambda), represents photopic vision and the other, V'(lambda), scotopic vision. Used in conjunction with the SI photometric base unit, the candela, these functions constitute a system that enables the values of photometric quantities for all types of luminous source to be precisely determined, regardless of the spectral composition of the radiation emitted.
-
-    This international Standard specifies the characteristics of the system of physical photometry established by the CIE and accepted as the basis for the measurement of light. It defines the photometric quantities, units and standards that make up the CIE system of physical photometry and that have been officially accepted by the Comité International des Poids et Mesures. They comprise:
-
-    •    * the definition of photometric quantities and units,
-    •    * the definition of CIE standard spectral luminous efficiency functions for photopic and scotopic vision,
-    •    * the definition of a CIE standard photometric observer that conforms to these functions,
-     •   * the definition of maximum luminous efficacies for photopic and scotopic vision.
-
-    An informative annex provides a vocabulary of related terms.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

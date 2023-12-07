@@ -39,20 +39,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    This report is a revision and update of CIE 115-1995 "Recommendations for the
-    Lighting of Roads for Motor and Pedestrian Traffic". Since it was issued in 1995
-    power consumption and environmental aspects have become more important and at
-    the same time, the improved performance of luminaires and lamps, and especially
-    the introduction of electronic control gear, has made it possible to introduce adaptive
-    lighting for roads for motorised traffic, conflict areas and areas for pedestrians. A
-    structured model has been developed for the selection of the appropriate lighting
-    classes (M, C, or P), based on the luminance or illuminance concept, taking into
-    account the different parameters relevant for the given visual tasks. Applying for
-    example time dependent variables like traffic volume or weather conditions, the
-    model offers the possibility to use adaptive lighting systems.
-    The publication replaces CIE 115-1995 "Recommendations for the Lighting of Roads
-    for Motor and Pedestrian Traffic".
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

@@ -97,40 +97,9 @@ language:
 script:
 - Latn
 abstract:
-- content: 'Nowadays it is a trend to use high chromacitycolours. These colours are
-    using in many applications such as: warning clothes, fashion design and decorative
-    cosmetics. Many companies were focusing on these colours due to high market potential.
-    Therefore, it is important to study these colours and small differences between
-    these colours. In many cases, the light sources change in LED light source due
-    to it having the ecological and economical aspect. These changes bring lots of
-    problems; discrimination of small colour differences is one among the problems.
-    International Commission on Illumination (CIE) defined a space called CIELAB,
-    which isn''t visual uniform. Based on the previous studies, the data for development
-    and testing of new colour difference formulas and colour spaces are limited in
-    chroma. In this work, we were using high chroma dataset for testing and prediction
-    the performance of known colour difference formulas. For testing, we used grey
-    scale and source emitted daylight simulator (D65) and full spectral LED light
-    source. This work has been compared with visual colour difference form observers
-    and calculated colour difference from spectrophotometer. From this study, we made
-    a data set of yellow-green region with high chomacity. Observer was comparingthese
-    data set under D65 and VLED light source. The data set was compared with spectrophotometer
-    data. Present research is to evaluate the prediction ability for different colour-difference
-    formulas in high chroma, particularly yellow-green region of CIELAB colour space.
-    Various colour-difference formulae, such as CIELAB, CMC, and CIE94, have been
-    developed in order to facilitate the determination of instrumental tolerances
-    and the measurement of colour difference. These formulae have been developed by
-    analysing the results from visual experiments that have been employed in a variety
-    of techniques for determining the colour differences which based on acceptability
-    or perceptibility. Nevertheless, such optimization is limited to the chroma value
-    from the previous studies on visual experiments. Based on these results, centre
-    of high chroma yellow-green colour is used as starting point of wide visual experiment
-    related to high Chroma colours. The grey-scale comparison method was used to determine
-    the colour tolerances for high chroma yellow-green colour canter in the hue, chroma,
-    and lightness directions in CIELAB colour space. The performance of the visual
-    differences and of the calculated colour difference of three colour-difference
-    formulas of CIELAB, CMC, CIE94 are calculated by: Standardized residual sum of
-    square (STRESS), performance factor(PF), correlation coefficient (COQ) and a number
-    of wrong decisions (WDC).'
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

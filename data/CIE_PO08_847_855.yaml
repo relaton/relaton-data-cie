@@ -87,17 +87,9 @@ language:
 script:
 - Latn
 abstract:
-- content: When illuminating paintings with WLED in museum, should not only consider
-    the lowest illumination damage, but also meet the viewing requirements. Lower
-    the damage of illumination on paintings must based on the requirements of viewing.
-    Ten kinds of WLED spectral power distribution were chosen and the colour rendering
-    index of them were calculated to verify if they meet the colour rendering requirements.
-    Comprehensive relative impact index of SPDs on three kinds of Chinese light colour
-    paintings were calculated and obtain the characteristics of low damage light sources
-    which meet the colour rendering requirements. Low damage and high colour rendering
-    light sources can be realized, provided theoretical support for the construction
-    of the lowest damage WLED spectrum for painting illumination that can meet the
-    viewing requirements.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

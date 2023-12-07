@@ -37,14 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    This report deals with the effect of stimulus size on colour appearance for the case of large (> 20°) colour stimuli. Neither the standard observers nor the CIECAM02 model can predict the colour size effect, i.e. the different colour appearance of large stimuli compared to a standard size stimulus. This report defines the concept of equivalent colour to describe large size colour stimuli in terms of standard 2° stimuli of equal colour appearance.
-
-    There is only little research dealing with the effect of stimulus size. This report refers to a few projects on colour appearance of real life rooms, facades and immersive self-luminous displays. In the laboratory tests there is a trend that the perceived colour of the large stimulus exhibits a higher lightness and a higher chroma than the small one. Significant hue changes were also observed.
-
-    Results from real life studies do not always agree with those from laboratory tests. One reason for this could be that there are several other factors that interact with the colour size effect and influence the colour appearance of large stimuli. Therefore, the tentative mathematical models of this Report are intended to describe only specific viewing situations.
-
-    The publication is written in English, with a short summary in French and German.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

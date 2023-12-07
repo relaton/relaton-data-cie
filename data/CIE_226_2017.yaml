@@ -37,14 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    There are significant differences between LED packages or LED chips and conventional light sources which require measurements under specific measurement conditions.
-
-    The absence of a heat sink allows only to use short current pulses for the optical measurements in order to avoid significant heating of the device under test. The readings under these pulsed conditions can be converted into values under the final application conditions e.g. by using the corresponding datasheet information. The high-speed measurement procedures necessary for high-volume production testing require also special measurement configurations. These are based on the recommendations of the Technical Report CIE 127:2007 or should at least be traceable back to these.
-
-    This report describes in detail the measurement procedures and configurations that can be used to perform high-speed measurements on LED packages and LED chips. Specific properties of LEDs which need to be considered (e.g. current and temperature dependency of electrical and optical properties) are also highlighted.
-
-    The publication is written in English, with a short summary in French and German.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

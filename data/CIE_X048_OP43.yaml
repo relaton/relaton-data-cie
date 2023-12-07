@@ -62,16 +62,9 @@ language:
 script:
 - Latn
 abstract:
-- content: We have developed a new calibration capability for 200 nm to 400 nm ultraviolet
-    light-emitting diodes (UV LEDs) using a Type D gonio-spectroradiometer. The recently-introduced
-    mean differential continuous pulse (M-DCP) method is used to overcome the measurement
-    difficulty associated with the initial forward voltage, VF, anomaly of a UV LED,
-    which makes it impossible to use VF to infer junction temperature, TJ, during
-    pulsed operation. The new measurement facility was validated indirectly by comparing
-    the measured total luminous flux of a white LED with that measured using the NISTs
-    2.5 m absolute integrating sphere. The expanded calibration uncertainty for the
-    total radiant flux is approximately 2 % to 3 % (k = 2) depending the wavelength
-    of the UV LED.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

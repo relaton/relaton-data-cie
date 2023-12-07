@@ -77,17 +77,9 @@ language:
 script:
 - Latn
 abstract:
-- content: The applied numerical calculations to determine the stroboscopic effect
-    visibility measure (SVM) of a specific temporal light modulation waveform will
-    influence the uncertainty of the determined value. An investigation of the achievable
-    uncertainty under application of zero-padding and quadratic interpolation for
-    peak finding is performed. This is done for sinusoidal and square verification
-    waveforms outlined in IEC TR 63158 and demonstrates that using the referenced
-    Stroboscopic effect visibility measure toolbox gives deviations from the reference
-    values of up to 2.2%. Applying a combined optimised method of zero-padding and
-    quadratic interpolation deviations less than 0.05% are achieved and yielding consitent.
-    Result over different sampling frequencies. The verification waveforms are generated
-    on a programmable light modulator and measurement results are shown.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

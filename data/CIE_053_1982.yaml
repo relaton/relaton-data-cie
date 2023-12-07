@@ -37,36 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    Procedures are outlined for characterizing the performance of radiometers, with special attention to photometers. Quantitative methods are given for evaluating the most important errors. These include:
-
-        * systematic calibration errors;
-        * errors caused by non-standard spectral response;
-        * non-standard spatial evaluation of
-            --irradiance (illuminance),
-            --spherical irradiance (illuminance),
-            --cylindrical irradiance (illuminance) or
-              --radiance (luminance);
-        * non-linearity;
-        * fatigue;
-        * temperature coefficient.
-
-    Ways of judging the significance of less important aspects are suggested. These include:
-
-        * reading error;
-        * effect of modulated radiation;
-        * influence of polarization;
-        * non-uniform response;
-        * detector instability;
-        * zero drift.
-
-    The report deals with general problems of evaluation of photometric and radiometric instruments. Numerical requirements for individual types of instruments in later reports are not included.
-
-    The report includes tables of the relative spectral distributions of five special sources that can be used to estimate the quality of the V(lambda) correction of photometer heads.
-
-    This Technical Report has been supplemented by CIE 69-1987 Methods of Characterizing Illuminance Meters and Luminance Meters.
-
-    The report consists of 30 pages, 3 figures and 1 table.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

@@ -35,10 +35,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    This joint ISO/CIE International Standard is replacing the joint ISO/CIE International Standard ISO 28077:2006/CIE S 019-5:2006 without modification of its technical content.
-
-    Solar ultraviolet radiation (UVR) is recognized as a major cause of non-melanoma skin cancer in man. Skin cancer occurs most frequently in the most heavily exposed areas and correlates with degree of outdoor exposure. Describing the relationship of exposure (dose) to risk (skin cancer) requires the availability of a biological hazard function or action spectrum for photocarcinogenesis. This standard proposes the adoption of an action spectrum (weighting function) derived from experimental laboratory data and modified to estimate the non-melanoma tumour response in human skin. The experimental data are sufficient for estimating effectiveness down to about 250 nm, but experimental data are not sufficient for specifying effectiveness above 400 nm.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

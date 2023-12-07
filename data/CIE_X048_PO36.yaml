@@ -75,18 +75,9 @@ language:
 script:
 - Latn
 abstract:
-- content: With the advent of LED lights and the added functionality of the lights
-    themselves, the number of automobile headlights being manufactured is rising.
-     Manufactured headlights need to be measured for light distribution characteristic
-    to assure their quality. However, the conventional method requires a lot of measurement
-    time and a large space. As a result, problems arise where light distribution measurement
-    cannot be completed in time for headlight production. We propose a measurement
-    method for complex light distribution characteristic based on light fields to
-    solve this problem. Our method is to measure the light intensity of planes at
-    a certain range distance from the light source and then estimate the light distribution
-    characteristic of a light source. This method would enable the measurement of
-    the light distribution characteristic in a narrower range and in a shorter time
-    than the conventional method.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

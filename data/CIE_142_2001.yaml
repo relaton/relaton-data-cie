@@ -37,10 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    In this Technical Report recommended practice for industrial colour-difference evaluation is presented. The recommended model is an extension of the CIE 1976 (L*a*b*) colour-difference model with corrections for variation in colour-difference perception dependent on lightness, chroma, hue and chroma-hue interaction. The corrections for the chroma dependence of chroma and hue differences in the CIE94 model have been retained and supplemented by several additional corrections based on new experimental data and analysis. Reference conditions define material and viewing environment characteristics to which the colour-difference model applies. Factors are introduced to correct for the parametric effects of various conditions of use.
-
-    The Technical Report is written in English, with a short summary in French and German. It consists of 15 pages with 2 tables.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

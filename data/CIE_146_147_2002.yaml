@@ -37,29 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    This volume contains two Technical Reports prepared by Technical Committees within Division 1 and Division 3.
-
-    The Technical Collection is written in English, with short summaries in French and German.
-
-    • CIE 146:2002 CIE Equations for Disability Glare
-
-
-    Three disability glare equations have been defined to extend the classic Stiles-Holladay equation to take account of the effect of age, the effect of ocular pigmentation and to extend the angular domain over which the equations are valid. They all describe the veiling luminance L veil (in cd/m&sup2:) due to a point glare source at an angle Theta (in degrees) to the line of sight that gives rise to an illuminance E glare (in lx) in the plane of the observer's eye, and they do so with adequate accuracy within their respective validity domains.
-
-    The CIE Age-adjusted Stiles-Holladay Disability Glare equation has a restricted validity domain of 1° < Theta < 30° that is extended in the low angular region by the CIE Small Angle Disability Glare equation to the domain of 0,1° &let; Theta &let;30°. The CIE General Disability Glare equation further increases the validity domain to the range of 0,1° &let; Theta &let; 100° and also includes an eye pigmentation factor p which plays a role at glare angles greater than 30°. They all include age A (in years) as a factor.
-
-    The technical report consists of 14 pages with 8 figures.
-
-    • CIE 147:2002 Glare from Small, Large and Complex Sources
-
-    The UGR, while valid for "normal" sources between 0,005 m² and 1,5 m² assesses "small" sources (<0,005 m²) too severely and is too tolerant for "large" sources (>1,5 m²). This Technical Report gives formulations and recommendations for small and large sources which agree with research results and practical experience.
-
-    For "complex" sources, such as specular luminaires, it gives a more realistic glare assessment than that based on average luminance over the full luminaire area.
-
-    The technical report consists of 13 pages with 3 figures and 2 tables.
-
-    This report is dedicated to the memory of the late Professor Heinrich D. Einhorn.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

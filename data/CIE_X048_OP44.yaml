@@ -113,18 +113,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Most colour appearance models (CAMs) have been developed to predict the
-    colour appearance only for related colours in different viewing conditions. More
-    recently, CAMs to predict for unrelated colours have been proposed due to the
-    availability of the experimental data. This paper investigates the performance
-    of the three promising colour appearance models for unrelated colours, i.e. CAM15u,
-    CAMFu and CAM20u using an experimental dataset carefully accumulated by Fu et
-    al. in term of CV values. The results showed that the latest CAM20u outperformed
-    the other models. CAMFu, as the oldest model, whose performance was much worse
-    than other two models in predicting brightness and colourfulness, and performed
-    well in predicting hue composition, while CAM15u gave a moderate performance in
-    predicting brightness and colourfulness, but performed slightest worse than the
-    others for hue composition.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

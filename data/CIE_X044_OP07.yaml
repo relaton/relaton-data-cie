@@ -55,9 +55,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    In 2015, the International Commission on Illumination (CIE) published the standard CIE S 025/E:2015 Test Method for LED Lamps, LED Luminaires and LED Modules. This document contains a number of standard test conditions, including laboratory room preparation, environmental and electrical provisions as well as requirements for the performance of testing and measurement equipment. One of the environmental considerations is a restriction of the airflow incident on the device under test. The sensitivity of LED source based devices to airflow is important for estimating the uncertainty originating from airflow. We find that for most of the tested devices the sensitivity is on the order of 5 %/(m/s), which is consistent with CIE S 025.
-    However, we also found an example of a device with a larger sensitivity. Additionally we study general airflow measurements and influence of turbulence.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

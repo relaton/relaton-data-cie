@@ -87,9 +87,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    In this study, we evaluate established and newly developed metrics for predicting glare using data from three different research studies. The evaluation covers two different targets: 1. How well the user?s perception of glare magnitude correlates to the prediction of the glare metrics? 2. How well do the glare metrics describe the subjects? disturbance by glare? We applied Spearman correlations, logistic regressions and an accuracy evaluation, based on an ROCanalysis. The results show that five of the twelve investigated metrics are failing at least one of the statistical tests. The other seven metrics CGI, modified DGI, DGP, Ev, average Luminance
-    of the image Lavg, UGP and UGR are passing all statistical tests. DGP, CGI, DGI_mod and UGP have largest AUC and might be slightly more robust. The accuracy of the predictions of afore mentioned seven metrics for the disturbance by glare lies in the range of 75-83% and does not confirm findings from other studies stating a poor performance of existing glare metrics.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

@@ -105,18 +105,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Currently, programs for lighting calculation based on computer graphics
-    (CG) allows us to move to a fundamentally new approach to a assessing the quality
-    of lighting. A designing based on illuminance can be complement with designing
-    based on synthetic images or on lighting design. Modern CG programs can calculate
-    the spatial-angular distribution of luminance (SADL). However, to make the assessment
-    of the quality of lighting using SADL a new criterion is needed. This paper considers
-    constructing a physiological model of the visual perception scale based on experimental
-    data and on neural network for simple scene as light source viewed on a uniform
-    background with different luminance levels.  Scale based on threshold contrasts
-    of luminance for each sensation can be a fundament of new criterion. The article
-    offers the method of construction the map for each sensation using the example
-    of «discomfort» and «unpleasant» maps that can easily applied in programs.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

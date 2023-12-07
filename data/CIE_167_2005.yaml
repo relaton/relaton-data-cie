@@ -37,10 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    This technical report describes several difficulties resulting from incompatibility of tables of spectral data used for computations, such as colour computations, with automatic digital computers, and provides guidance in tabulating spectral data to facilitate such applications. The recommended practices, with regard to spectral ranges, spectral intervals, etc., are based on the experience of members of the committee, who were experts in the field of colour measurement and computation.
-
-    The report is written in English, with a short summary in French and German. It consists of 21 pages with 3 figures and 12 tables.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

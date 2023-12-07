@@ -71,9 +71,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    User calibrated digital single-lens reflex (DSLR) cameras are being used in visual comfort and especially for glare evaluations as affordable alternatives to high-end luminance cameras calibrated by the manufacturer itself. While the typical way for a user calibrated camera is the application of an automatic calibration algorithm, manufacturers, on the other hand, tend to rely on a calibration process for their cameras based on measurements performed for each exposure setting (absolute calibration). This paper investigates the accuracy of luminance maps derived from HDR images captured with auto-calibrated DSLR cameras. More
-    specifically, the aim of this study is to compare the luminance values obtained with an autocalibrated DSLR camera for different light scenarios on one hand to a commercially available camera (that benefited from an absolute calibration) and on the other hand to a handheld luminance meter, considered as the reference. It was found that there are only small differences when luminance values estimated with auto-calibrated DSLR cameras are compared with those obtained for the commercially calibrated camera for low to mid-range luminance values (50 ? 5000 cd/m2). However, for higher luminance values (>5000 cd/m2), HDR images from the auto-calibrated camera show differences of up to 20 % when compared to the manufacturer calibrated camera, which could be problematic for glare investigations. More studies specifically focusing on high luminances are thus needed, so as to determine more conclusively whether certain limitations should apply to the use of automatically calibrated DSLR cameras for glare evaluations.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

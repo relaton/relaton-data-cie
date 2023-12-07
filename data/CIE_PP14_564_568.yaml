@@ -111,9 +111,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    The current photometric measurement system is based on CIE standard illuminant A (i.e. incandescent lamps), but LED is widely used to instead of incandescent lamp, in the future most of our measurement object will be LED. LED-based standard lamp could short the calibration chain as well as greatly reduce the uncertainty related to spectra deviation. Three LED filament lamps with different colour temperature were used as standard lamp to calibrate the spectroradiometer, and then divers LED lamps were measured, to compare with the incandescent base method, the difference of luminous flux is less than 0.3%, which is inside
-    the range of uncertainty. The repeatability and storage character of LED filament lamp was investigated as well. This study shows LED based lamp could substitute the incandescent lamp as luminous flux and spectral transferring standard for typical white LED measurement.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

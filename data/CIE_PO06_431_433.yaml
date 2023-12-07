@@ -67,14 +67,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Colour temperature is one of the most important parameters to control lighting
-    according to human activities and required mood. In addition, multi-chip LED packages
-    with three or four different colours in a single package are commercially available
-    from many LED suppliers. To find control parameters with required lighting characteristics,
-    we first optimized CCT by minimizing distance to the target black body locus in
-    CIE1931 colour space. Optimization is proceeded in the XYZ coordinate. We applied
-    the optimization method to two different colour LED combinations. This optimization
-    method provides given target CCT and luminance with high CRI.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

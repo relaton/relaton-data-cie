@@ -87,14 +87,9 @@ language:
 script:
 - Latn
 abstract:
-- content: A µBRDF goniospectrophotometer has been developed at LNE-CNAM. This device
-    performs traceable BRDF measurement with a measurement surface of 30 µm of diameter.
-    All angular configuration of measurement belonging to the hemisphere are possible.
-    The spectral range is the visible. This device intends to help to progress in
-    the effort to extent the BRDF metrological scale from the centimetre size to micrometre
-    size. Traceable µBRDF measurement are requested today to validate physical based
-    rendering models used in virtual prototyping and to progress in the comprehension
-    of the appearance of natural material like wool, wood, or leather.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

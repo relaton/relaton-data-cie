@@ -87,14 +87,9 @@ language:
 script:
 - Latn
 abstract:
-- content: To estimate the amount of measurement error according to panel size, we
-    conducted a simulation to estimate the change of the total luminous flux using
-    an integrating sphere due to panel size. The effects of distribution of the standard
-    lamp, position of the panel source, and shadow area behind the panel source were
-    also investigated. Results show that the light distribution of standard lamp of
-    2π sr Lambertian is preferable. It was also confirmed that an ideal estimated
-    value could be calculated even with a panel size some larger than 10% of the diameter
-    of IS. This suggests a possibility to increase a size limit of test light source.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

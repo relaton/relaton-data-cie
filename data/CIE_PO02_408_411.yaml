@@ -67,13 +67,9 @@ language:
 script:
 - Latn
 abstract:
-- content: This study aims to evaluate users' attention levels under different lighting
-    environments by measuring and analysing brainwaves. The acquired brainwave signals
-    are processed by Hilbert-Huang transform to find the marginal spectra of intrinsic
-    mode functions for computing the corresponding powers in the alpha and beta bands.
-    The receiver operating characteristic analysis is then utilized to suggest candidates
-    of attention index based on the classification accuracy of binary discrimination
-    tasks.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

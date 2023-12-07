@@ -57,19 +57,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Visibility is one of the fundamental factors for explaining the lighting
-    environment, and various quantitative indexes for these have been made in such
-    a manner that directly finds the formulae that best match the numerous subjective
-    evaluations. Recently neurophysiology-based models have been paid attention as
-    the complementary or alternative methods to these conventional indexes. In this
-    paper we will introduce the normalization and gain control models, which are generally
-    accepted theories in the visual information processing, to estimate the visibility,
-    and verify the validity of this algorithm by comparing with the subjective evaluation
-    in the experimental room. The result showed that the algorithm in this research
-    could estimate the visibility of the simple objects in the experimental space
-    with a pseudo window with great accuracy, however, it is desirable and necessary
-    to publicly discuss various algorithms and clarify their reliability based on
-    the verification results under various situations.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

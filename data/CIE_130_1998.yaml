@@ -37,30 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    The characteristics of materials related to their reflection and transmission properties are defined in accordance with the International Lighting Vocabulary and other relevant CIE publications.
-
-    The parameters affecting these characteristics and the principles of measurement involved, which are the same whether the measurement is made in terms of spectral or weighted (e.g. luminous) characteristics, are specified.
-
-    Methods, using an integrating sphere, are recommended for the measurement of:
-
-        * reflectance for directional and hemispherical incidence of radiation,
-        * diffuse reflectance,
-        * transmittance for directional and hemispherical incidence of radiation,
-        * diffuse transmittance.
-
-    Specific methods are also recommended for the measurement of
-
-        * regular reflectance,
-        * regular transmittance,
-        * radiance/luminance factor (radiance/luminance coefficient q ).
-
-
-    The absorptance can either be measured directly or calculated from the measured values of reflectance and transmittance. Both procedures are described.
-
-    The principal measurement errors are examined and, where possible, methods for their elimination indicated.
-
-    The publication contains 66 pages, 28 figures and 1 table.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

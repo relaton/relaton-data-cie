@@ -77,17 +77,9 @@ language:
 script:
 - Latn
 abstract:
-- content: We experimentally demonstrate the concept of the spectrally variable source
-    whose spectral distribution can be controlled via spatial transmission pattern.
-    We built a proto-type setup consisting of a super-continuum white-light source,
-    a Powell lens for generation of the lineshape beam, a spatially variable spectral
-    filter for the wavelength-to-position transition, and a transmissive LCD display
-    as the computer-assisted spatial light modulator. The experimental results show
-    the control of spectral distribution in a range from 470 nm to 650 nm via 15 spectral
-    channels with a resolution of approximately 15 nm. The results confirm the feasibility
-    of the concept and indicate technical issues for improvement towards a programmable
-    source generating any arbitrary spectral distribution in the whole visible range,
-    which can be a useful tool for colour and vision experiments.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

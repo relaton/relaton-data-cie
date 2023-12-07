@@ -115,17 +115,9 @@ language:
 script:
 - Latn
 abstract:
-- content: In this work, we present a method to describe the model of a goniophotometer
-    for uncertainty analysis by state-of-the-art Universal Robotic Description Format
-    (URDF). The parameters of the kinematic chain model are determined by measurements
-    of the geometric properties of the goniophotometer. The uncertainties of the pose
-    are determined using Monte Carlo (MC) simulations of the kinematic chain. The
-    measured geometric uncertainties are input the MC simulations. The proposed framework
-    enables high level description of kinematic chains for MC simulations of measurement
-    systems. Furthermore, the uncertainty of the total system is demonstrated over
-    the MC trials to prove a sufficient amount of MC trials. The results of this generic
-    approach are evaluated against an existing model and the uncertainty determination
-    of the same goniophotometer.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

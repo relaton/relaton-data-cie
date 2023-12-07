@@ -87,20 +87,9 @@ language:
 script:
 - Latn
 abstract:
-- content: OLED is expected as one of the next generation lighting devices. As OLED
-    panel is a planar surface-emitting lighting device, non-uniformity of OLED due
-    to several production process and non-uniform current density is easily detected.
-    Therefore, luminance uniformity inside the panel, and the angular dependent uniformity
-    in chromaticity are both important aspects in assessing the performance of the
-    OLED panel. We tried to find an evaluation index to assess the uniformity of the
-    OLED panel based on human perception. We simulated several non-uniform patterns
-    on a LCD monitor, asking subjects to evaluate the non-uniformity of the stimulus,
-    and tried to find the threshold for the detection of the non-uniformity. Our results
-    showed that the uniformity perception in luminance distribution was affected by
-    the gradient patterns. In addition, patterns whose central area was brighter than
-    its peripheral appeared more uniform. Our findings suggest that it is necessary
-    to consider complexity of gradient pattern and the form of luminance distribution
-    to make an evaluating model for uniformity perception.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

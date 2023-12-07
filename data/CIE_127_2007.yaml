@@ -37,22 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    This report is an update of the previously published CIE Technical Report CIE 127-1997.
-    There are significant differences between LEDs and other light sources which
-    made it necessary for the CIE to introduce new quantities for their characterization
-    with precisely defined measurement conditions. New quantities introduced here are
-    "Averaged LED Intensity" and "Partial LED Flux".
-
-    The report describes in detail the measurement conditions for ALI (Averaged
-    LED Intensity), Total and Partial LED Flux and Spectral Power Distribution. It is
-    shown that measurements by substitution method using LED standards can be
-    simpler; however it is important to compare similar coloured LEDs or use colour
-    correction on the measurement results. The standard LEDs need to be calibrated by
-    National Metrology Laboratories or a laboratory traceable to National Metrology
-    Laboratories.
-
-    The report is written in English, with a short summary in French and German.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

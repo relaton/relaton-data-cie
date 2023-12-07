@@ -51,17 +51,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Accurate wavelength calibration of array spectroradiometers is critical
-    to many applications. We developed a new method for calibration of array spectroradiometers'
-    wavelength scales using a wavelength-tunable kilohertz-pulsed optical parametric
-    oscillator (OPO) laser and achieved a wavelength uncertainty on the level of picometers;
-    a reduction of approximately two orders of magnitude compared to those using traditional
-    methods. This high-accuracy wavelength calibration method can also be used to
-    determine a spectroradiometer?s pixel-to-pixel wavelength interval with an uncertainty
-    of a few picometers, which is the key to achieving small uncertainties when a
-    detector-based method is used for spectral calibration of array spectroradiometers
-    using tunable lasers. Using this calibration method can also significantly reduce
-    the overall measurement uncertainties in various applications.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

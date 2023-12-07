@@ -85,18 +85,9 @@ language:
 script:
 - Latn
 abstract:
-- content: 'Glare assessments are currently made from High Dynamic Range (HDR) images
-    taken from the Point Of View (POV) and viewing direction of a user. This paper
-    analyses the feasibility to estimate the Daylight Glare Probability (DGP) at the
-    user-level based on machine-learning techniques, sun position and a downward-pointing
-    camera sensor mounted at the ceiling of a simulated office environment. Three
-    different office cases have been considered: an empty room, an empty room with
-    venetian blinds and a furnished room without venetian blinds. The influence of
-    the sun direction has been considered as a parameter to predict the observer DGP.
-    Subsequently, the best parameters have been selected to build a black box model
-    using Artificial Intelligence (AI). Results show that, by using the DGP of the
-    ceiling camera and the sun position, it is possible to accurately predict the
-    DGP for an observers POV.'
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

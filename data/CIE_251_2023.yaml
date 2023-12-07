@@ -37,18 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: CIE standard illuminant A was introduced in 1932 to represent typical tungsten-filament
-    lighting in colorimetry, and for decades it has been used as a reference spectrum
-    in photometer calibrations.In 2018, CIE published new LED illuminants in CIE 015:2018
-    Colorimetry, 4th Edition. Based on one of the new LED illuminants, this Technical
-    Report publishes a recommendation for an LED reference spectrum, named "CIE reference
-    spectrum L41", for photometer calibration that complements CIE standard illuminant
-    A. Specifically, this document includes the tabulated data of CIE reference spectrum
-    L41 and a quality metric for selection of white LEDs for physical LED standard
-    sources.Information is provided about typical magnitudes of spectral mismatch
-    errors with V()-filtered photometers in measurements of LEDs, as well as other
-    types of light sources, when CIE reference spectrum L41 is used for photometer
-    calibration instead of CIE standard illuminant A.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

@@ -57,10 +57,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    To establish brightness prediction method applicable to real lighted interiors, authors first proposed a method to obtain equivalent target size, target luminance and background luminance from a measured luminance image based on Nakamura?s contrast profile method (2000). To examine those availability to Bodmann?s brightness prediction model, three brightness matching experiments using haploscopic matching method were conducted. The stimuli of the first experiment were circular targets of uniform luminance seen against uniform
-    background, those of the second were circular uniform luminance targets seen against complicated background, and those of the third were indeterminate form targets seen against complicated background. The matching data obtained were compared to brightness predictions by Bodmann?s model (1994) with equivalent parameters obtained from luminance images. As a result it was found that those data were highly correlated, and finally a brightness prediction model with parameters solely obtained by contrast profile method was
-    suggested.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

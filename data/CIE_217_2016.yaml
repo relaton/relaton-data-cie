@@ -39,17 +39,9 @@ language:
 script:
 - Latn
 abstract:
-- content: A method is recommended to evaluate the strength of the relationship between
-    visually-perceived colour differences in a given set of colour pairs and their
-    corresponding predictions made by a colour-difference formula. This method is
-    based on the Standardized Residual Sum of Squares (STRESS) index used in multidimensional
-    scaling, and tests if two colour-difference formulae are or are not statistically
-    significantly different. The same index can be also used to compute intra- and
-    inter-observer variability in visual experiments. Beside important advances made
-    in the field of colour-difference evaluation using reliable visual datasets currently
-    available, the results achieved from the STRESS index indicate that it is not
-    possible to recommend a more uniform colour space with a Euclidean colour-difference
-    formula that is statistically significantly better than CIEDE2000.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

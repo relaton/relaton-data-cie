@@ -69,9 +69,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    A method to characterize instruments based on ILMDs (Image Luminance Measuring Device) for applications in road and tunnel lighting installation is presented. In road lighting applications, these devices measure the road surface luminance for controlling smart adaptive road lighting systems. The measurement range is between 0,1 cd m-2 and 3 cd m-2 (CEN, 2015a). In tunnel lighting, the instrument measures the atmospheric luminance, the equivalent veiling luminance and calculates the veiling luminance for controlling the lighting level in the
-    threshold zone of the tunnel. In this case the range of measured luminances is between 100 cd m-2 and 20 kcd m-2. In both cases instruments should have low cost, a great stability and repeatability, and low sensitivity to climatic conditions (CEN, 2015b). Their calibration procedure shall be simple but adequate to application requirements and real operating conditions.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

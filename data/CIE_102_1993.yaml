@@ -39,32 +39,9 @@ language:
 script:
 - Latn
 abstract:
-- content: This Research Note was originally published in CIE-Journal, Vol. 6, No.
-    1, 23-31, 1987. In order to calculate the light striking a surface or leaving
-    that surface from one or a group of man made and installed luminaires, it is necessary
-    to know the light intensity distribution at all spherical angles from each luminaire
-    that contributes light to that surface. The advent of personal micro-computers
-    has made it possible for each technical person to perform his own calculations
-    using a suitable application program. It is common practice to record the light
-    intensity at a large number of spherical angles from a specific luminaire (photometric
-    data set) onto magnetic media, such as a computer disk. While the standardization
-    of the size, shape and other technical features between disks and computers has
-    been done by others, it is necessary for the computer program reading data from
-    the disk to know the sequence of data being transmitted about the luminaire, light
-    source, and angles at which the data has been recorded. This is termed the "file
-    format". While many countries, and companies within countries, have already adopted
-    a specific file format it is necessary to have an international file format so
-    that the photometric data set specific to a particular country can be translated
-    (by computer program) into the international file format; or that a photometric
-    data set received in the international file format, can be translated (by computer
-    program) into the specific file format used in a particular country or a specific
-    application program developed by an individual or company. The CIE Recommended
-    File Format is not intended to be used for manual calculations to determine the
-    specific light intensity at a specific angle, but rather to be easily read, without
-    error, into a computer program, either for translation into another format, or
-    for calculation of the results of a lighting installation. The publication contains
-    28 pages, with 4 figures. It is readily availabe from the National Committees
-    of the CIE or the CIE Central Bureau in Vienna.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

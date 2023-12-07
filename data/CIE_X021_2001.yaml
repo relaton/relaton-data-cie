@@ -39,14 +39,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    The increasing use of computers and networks is causing images to travel down novel paths. Images created by video cameras are going to print; medical x-rays are sent to video displays, etc. All this creates a need to rethink the issues of efficiency and effectiveness. How do we design an appropriate format for transmitting the data if we are not sure where the images are going? An answer that immediate comes to mind is to transmit the images using a standard colour space.
-
-    The selection of an appropriate colour space is no easy matter. In 1999, the International Electrotechnical Commission (IEC) made a first attempt at answering this question with their sRGB colour encoding. This produced an encoding that represented the colour gamut of a typical cathode ray tube (CRT) using red, green and blue device control values. While this space has proved useful in a number of areas, it is not adequate for all purposes. Many people perceive a need for a standard colour space that covers a gamut of colours larger than that of a CRT.
-
-    Accordingly, on 11 November 2000, the CIE held an Expert Symposium on Extended Range Colour Encodings. Experts, as invited speakers, from standards bodies, academia and industry discussed extended range colour encodings for digital photography, multimedia, graphic arts, colour and Internet facsimile, television and digital cinema. Speakers described the problems to be solved, the criteria for solutions and what spaces have been proposed and developed. After the presentations, there was an open discussion session.
-
-    These Proceedings include the papers provided by the speakers and a transcript of the open discussion. The publication consist of 93 pages.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

@@ -37,14 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    Many industries employ colouring processes to provide products designed to enhance colour uniformity, colour recognition or aesthetic appeal. The producer must deliver a product of the desired colour with its variation controlled to an extent appropriate for the product's use and the customer's expectations. Colour measurement and colour-difference evaluation are essential tools to help manufacturers accomplish these goals with efficient colour production processes.
-
-    Colour-difference evaluation models have been, and continue to be, developed. The CIE, through its technical committees, has periodically established recommended practices for colour-difference evaluation to promote uniformity of industrial practice. The last CIE recommendation on this subject was made in 1978. Accumulated research since then indicates it is now possible to identify a model with improved agreement with visual colour-difference judgements.
-
-    Recommended practice for industrial colour-difference evaluation is presented. The recommended model is an extension of the CIE 1976 (L*a*b*) colour-difference model with correction for chroma-dependent variation in colour-difference perception. Reference conditions define material and viewing environment characteristics to which the colour-difference model applies. Factors are introduced to correct for the parametric effects of various conditions of use. Guidelines for further research on colour-difference perception are given.
-
-    This Technical Report is written in English, with a short summary in French and German, and contains 20 pages.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

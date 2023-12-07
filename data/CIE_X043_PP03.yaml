@@ -47,15 +47,9 @@ language:
 script:
 - Latn
 abstract:
-- content: BRDF measurement facility based on a gonioreflectometer calibrated against
-    spectral diffuse reflectance standard has been developed at NMIJ. In addition
-    to a versatile feature of the gonioreflectometer whose setup can be extend for
-    various types of measurement setup related to reflectance colorimetry, an alternative
-    BRDF measurement procedure based on spectral diffuse reflectance has been introduced
-    to substitute direct comparison between the incident radiant flux on a sample
-    and the reflected radiant flux from the sample at a specified direction which
-    conventional BRDF measurement applies. The instrumental setup and measurement
-    procedure have been outlined together with some experimental results and validation.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

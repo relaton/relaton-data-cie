@@ -37,10 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    The CIE Supplementary System of Photometry, which evaluates lights in terms of comparative brightness relationship at any level, is described. The system introduces the concept of equivalent luminance to describe brightness of a light or an object at any level including mesopic levels. The system develops a photometric model to calculate brightness-related equivalent luminance by using three components of existing photometric and colorimetric quantities (photopic luminance, L, scotopic luminance, L?, and chromatic contribution to brightness, c, i.e. brightness-to-luminance ratio (B/L)) with some weighting factors in their combinations that depend on the adaptation level. The use of the system and an example of calculation are also described. Results of testing the system with experimental brightness matching data are given in an appendix.
-
-    The publication is written in English, with a short summary in French and German. It consists of 21 pages with 5 figures and 1 table
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

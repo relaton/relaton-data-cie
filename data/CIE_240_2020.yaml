@@ -37,9 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    CIE 240:2020 summarizes the methods used to enhance images in order to be easily recognized by colour-deficient observers. They are classified into three major categories: recolouring, edge enhancement and pattern superposition; pros and cons are discussed. The document provides recommendations on how to choose an enhancement method for a specific application with the proviso that there is no unique technique covering all cases. Besides it describes some evaluation methods of the enhancement techniques to be proposed in the future. Three types of test images (a natural scene, a scientific visualization and an office document) are provided for the evaluations.
-    The publication is written in English, with a short summary in French and German.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

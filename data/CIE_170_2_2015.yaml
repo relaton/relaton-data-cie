@@ -41,24 +41,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    CIE established the Technical Committee TC 1-36 with the following Terms of Reference: "Establish a fundamental chromaticity diagram of which the coordinates correspond to physiologically significant axes".
-
-    Part 1 of the report is presented in CIE 170-1 Fundamental Chromaticity Diagram with Physiological Axes — Part 1: Definition of CIE 2006 Cone Fundamentals. It is limited to the choice of a set of colour-matching functions (CMFs) and estimates of cone fundamentals for the normal observer, ranging in visual angle (field size) from 1° to 10°.
-
-    This report, entitled Part 2, aims at providing the user with practical colorimetric tools, in the form of chromaticity diagrams.
-
-    The report starts with the definition of cone-fundamental-based spectral luminous efficiency functions as a linear combination of the long-wave sensitive and the middle-wave sensitive cone fundamentals, following the proposal of Sharpe et al. Cone-fundamental-based spectral luminous efficiency functions are proposed for the 2° and for the 10° photometric observers.
-
-    The definition of the cone-fundamental-based spectral luminous efficiency functions offers the possibility of developing MacLeod–Boynton chromaticity diagrams based on cone fundamentals where the chromaticity is represented in an equi-luminant plane. MacLeod–Boynton tristimulus values LMB, MMB and SMB are computed in the traditional form, while chromaticity coordinates lMB and sMB are computed so as to preserve the equi-luminant property of the diagram.
-
-    In addition, to allow for comparisons with the traditional CIE procedures, transformations of the cone fundamentals in the form of cone-fundamental-based XF, YF, ZF tristimulus values and xF, yF chromaticity coordinates are presented. Criteria that a colorimetric system should fulfil are maintained, and the properties of the spectral tristimulus values, summarized by Wold and Valberg, are described in detail. The linear transformations that should be used to compute the XF, YF, ZF tristimulus values from the cone fundamentals are given with the number of decimal places necessary to produce spectral tristimulus values with 7 significant figures.
-
-    The report ends with tables and references.
-
-    All tables are downloadable in an Excel® file, the link to which can be found in the document.
-
-    The publication is written in English, with a short summary in French and German. It consists of 72 pages with 11 figures and 8 tables.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

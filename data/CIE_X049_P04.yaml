@@ -75,18 +75,9 @@ language:
 script:
 - Latn
 abstract:
-- content: The performance of the TLM measurement instrument plays important roles
-    in the measurement results and uncertainties. To characterize a TLM measurement
-    instrument, some indices and relevant measurement procedures can be learned from
-    current CIE publications for photometers measuring time-averaged luminous quantities.
-    However, as the fast and time resolved photometric data is captured, other more
-    characteristics of TLM measurement instrument need to be addressed. In this paper,
-    the characterization linearity, frequency response and noise properties and their
-    of the TLM measurement instrument was studied. Considering the actual application,
-    quality indices were proposed based on traditional appraising metrics, and the
-    measurement procedures were developed correspondingly. Furthermore, several TLM
-    measurement instruments were measured, and the results showed fine applicability
-    of these quality indices.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

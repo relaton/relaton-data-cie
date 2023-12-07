@@ -87,18 +87,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Spaciousness is an important quality of space which is affected by both
-    the volume of space and the lighting environment. This studys aim is to create
-    the calculation model to quantify the effect of lighting environment on spaciousness.
-    3D luminance mapping, which is the combined data of luminance of surface and its
-    distance to the observer, is used for the analysis of lighting environment, because
-    we hypothesized that the three-dimensional localization of light affects the spaciousness.
-    From the result of a subjective experiment to evaluate spaciousness with different
-    lighting environment, it is revealed that spaciousness can be quantified from
-    average luminance and Dark-part-reduced visible volume which is the reduced visible
-    volume according to the distribution of dark pixels in the 3D luminance mapping.
-    We also compared average illuminance of whole image and of ceiling, walls, floor,
-    and concluded that the whole average illuminance best describes the effect.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

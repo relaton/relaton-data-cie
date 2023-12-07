@@ -57,17 +57,9 @@ language:
 script:
 - Latn
 abstract:
-- content: BRDFs are commonly used for material appearance representation in applications
-    ranging from gaming and the movie industry, to product design and specification.
-    Most applications rely on isotropic BRDFs due to their better availability as
-    a result of their easier acquisition process. On the other hand, anisotropic BRDF
-    due to their structure-dependent anisotropic highlights, are more challenging
-    to measure and process. This paper describes approaches to BRDF analysis and acquisition
-    using ellipsoidal and parabolic reflectors commonly used for in illumination industry.
-    First, we show how reflectors can be used for detection of anisotropic properties
-    as anisotropic axes and highlight width. Second, we outline and approach for anisotropic
-    BRDF capture using reflector that allows fast and convenient measurement without
-    need of measured sample extraction.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

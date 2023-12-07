@@ -65,19 +65,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Light absorbed by sensitive artwork may cause irreversible damage. Optimising
-    the spectral power distribution of light sources to minimise absorbed light can
-    reduce damage while maintaining the colour appearance of artwork. Previous absorption
-    minimisation studies used optimisation methods without comparing their performance.
-    Here, three channel RGB LED projector spectra was optimised for 24 colour samples
-    by using brute-force (BF) and a multi-objective genetic algorithm (MOGA). BF search
-    and MOGA were similar in achieving optimal results, reducing both light absorption
-    and energy consumption by almost half. MOGA was 2.5 times faster than BF in finding
-    optimal solutions. The results indicate that an LED RGB projector can be used
-    to illuminate museum artifacts to reduce light absorption and energy consumption,
-    with the caveat of perceptible colour shifts in certain samples. Future research
-    will investigate the use of CIECAM02 instead of CIEDE2000 and observers subjective
-    evaluations of artwork under optimised lighting.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

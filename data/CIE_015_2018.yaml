@@ -39,19 +39,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    This publication provides the recommendations of the CIE concerning colorimetry. Specifically, it includes the use of the standard colorimetric observers and standard illuminants, the reference standard for reflectance, the illuminating and viewing conditions, the calculation of tristimulus values, chromaticity coordinates, colour space coordinates and colour differences and various other colorimetric practices and formulae.
-
-    As a new feature, the publication also includes further details of advanced colorimetry, including colour appearance models, and new findings on cone-fundamental-based tristimulus functions, with appropriate references to other CIE publications. Additionally, new illuminants for different LED types are introduced.
-
-    Tables of the data used in this report are made electronically available for purchasers of this publication via website addresses listed in the document. (the respective addresses can be found in in Clauses 3.3 (page 6) and 11 (page 42)).
-    This publication is consistent with the fundamental data and procedures described in the CIE International Standards on colorimetry.
-
-    For further details of some of the phenomena discussed in the document the reader is directed to the appropriate CIE Technical Reports.
-
-    This report replaces CIE 15:2004 "Colorimetry, 3rd Edition".
-
-    The publication is written in English, with a short summary in French and German. It consists of 111 pages with one figure and 26 tables.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

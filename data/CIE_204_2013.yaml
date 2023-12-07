@@ -37,28 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    This Technical Report gives an overview of the construction of the tables describing
-    CIE D illuminants, and proposes two methods to smooth the daylight illuminant
-    spectral power distributions. The first method keeps the values originally determined
-    at the integer 10 nm intervals unchanged and interpolates between these fixed points
-    to get smooth (twice differentiable) curves (minimal smoothing method). A second
-    alternative method smoothes more strongly, cutting fine structure maxima and minima
-    of the spectrum (highly smoothing method).
-
-    Examples show the consequences of both methods, pointing out that smoothing has
-    little influence on colorimetric accuracy.
-
-    The Technical Committee recommends testing the provided tables based on the two
-    smoothing algorithms in practice and to urge users to test data of Table 4 which are
-    based on the highly smoothing method, and ask instrument constructors to test the
-    method for building D illuminant simulators with the eventual outcome of defining a
-    CIE D50 and D65 standard source.
-
-    The publication provides a link to two Excel files: one for calculation of the SPD of a
-    daylight illuminant for the different interpolation methods described in this report after
-    input of a required CCT and another one providing the tables of the report .
-    The publication is written in English, with a short summary in French and German.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

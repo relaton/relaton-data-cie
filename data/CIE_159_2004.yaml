@@ -37,12 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    A colour appearance model provides a viewing condition specific method for transforming tristimulus values to and/or from perceptual attribute correlates. This document outlines a specific colour appearance model, CIECAM02, which may be useful for colour management applications. This model is based on CIECAM97s colour appearance model and consists of a chromatic adaptation transform and equations for computing a set of perceptual attribute correlates. The evolution and application of this colour appearance model are presented.
-
-    This report replaces CIE 131-1998, The CIE 1997 interim colour appearance model (simple version) CIECAM97s.
-
-    The Report is written in English, with a short summary in French and German. It consists of 22 pages with 1 figure and 7 tables.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

@@ -71,19 +71,9 @@ language:
 script:
 - Latn
 abstract:
-- content: For the calculation of the photometric parameters of the road lighting
-    are needed photometric data of the used luminaires. These data are in the form
-    of an intensity table (I-table) which gives the distribution of luminous intensity
-    emitted by the luminaire in all relevant directions. A goniophotometer is needed
-    to measure the luminous intensity distribution of luminaires. We know the various
-    goniophotometers which adopting different test methods for testing luminous distribution.
-    The results from goniophotometric measurements are very important for lighting
-    engineers who are using these results in lighting calculation of photometric parameters
-    of the various lighting systems. Especially in road lighting calculation distance
-    between angles should be measured as much as possible providing sufficient photometric
-    data for the calculation. Some new optical systems and some LED luminaires which
-    as found by measurement may contain various local extremes in the luminous intensity
-    distribution curve.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

@@ -57,19 +57,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Quality indexes are usually defined for measurement instruments in order
-    to characterize some specific aspect of their performance. The V(A) spectral mismatch
-    of photometers is evaluated by the general V(A) mismatch index, f1, whose value
-    must be correlated with the average measurement error introduced by this spectral
-    mismatch. The objective of this work is to assess the correlation of several indexes
-    of this type with this average error of photometers. The difference between the
-    studied indexes is that the spectral responsivity of the photometer is normalized
-    with different factors to that defined for f1.  From this study, we conclude that
-    the most suitable normalization in the definition of a f1-type quality index is
-    not determined by the spectral distribution used in the calibration or by those
-    of the light sources to be measured. The normalization factor presenting the best
-    correlation in all studied cases was obtained by numerically minimizing the value
-    of the index instead of by applying an explicit function,  as it is done in f1.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

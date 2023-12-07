@@ -57,20 +57,9 @@ language:
 script:
 - Latn
 abstract:
-- content: The complexity notion is shared between scientific fields associated to
-    vision or surface assessment, especially non-uniform surfaces. Nevertheless, there
-    is no single definition allowing comparing experimentally the perception induced
-    by observing a colour textured surface, the measure extracted from the existing
-    metrological tools or from image processing approaches. Among the existing definitions,
-    entropy is often used as a measure directly correlated to the surface complexity.
-    The fractal dimension associated to the auto-similarity property is well adapted
-    for mathematical developments in image analysis and corresponds for some natural
-    structures to the inner organization on several analysis scales. In the context
-    of CIE TC 8-14 dedicated to the definition and assessment of the spatio-chromatic
-    complexity, we are interested by the theoretical and experimental comparison of
-    different ways to assess the complexity of colour textured surfaces. In this work,
-    we compare the entropy against the fractal dimension for computer-generated fractal
-    surface images.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

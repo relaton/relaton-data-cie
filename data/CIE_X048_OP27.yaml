@@ -55,16 +55,9 @@ language:
 script:
 - Latn
 abstract:
-- content: We developed a facility for calibration of TLM (temporal light modulation)
-    photometers. The facility is based on a laser-fed reference source, of which the
-    radiance can be modulated with an acousto-optic modulator (AOM). A system of photodiodes,
-    amplifiers, and an analog-to-digital converter (ADC) is used to sample the temporally
-    modulated radiance of the source. With the facility a TLM photometer was calibrated
-    for display contrast ratio RMS (root mean square) with an absolute combined standard
-    uncertainty of 0,037 %. In addition, the facility has been characterised with
-    the aim of measuring flicker and stroboscopic effect, considering the Ecodesign
-    Single Lighting Regulation. The frequency response of the facility shows to be
-    sufficient to accommodate measurements of flicker and the stroboscopic effect.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

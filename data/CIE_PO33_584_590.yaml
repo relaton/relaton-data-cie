@@ -69,16 +69,9 @@ language:
 script:
 - Latn
 abstract:
-- content: This paper presents the transmittance haze (TH) results of high haze materials
-    measured according to current documentary standards, such as ASTM D1003 and ISO14782,
-    and some other measurement methods, such as double-beam method, double-compensation
-    method and BTDF. Compared to the TH by double-compensation method (theoretically
-    accurate TH), the TH ratios of all methods were very close to 1 except for those
-    of ASTM D1003. The ratios of ASTM D1003 became close to 1 after the sphere multiplier
-    correction. From the TH data, the differences among various methods at high haze
-    level are similar to those at the haze value below 40 % and it means that the
-    structure of an integrating sphere also affect the measurement at highlevel haze
-    mainly.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

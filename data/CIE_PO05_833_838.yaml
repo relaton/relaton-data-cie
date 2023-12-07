@@ -49,9 +49,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    Several recent studies have summarised the research into colour rendering metrics, stimulated by the rise of LED lighting, and as the spectral characteristics of LED lighting solutions have highlighted deficiencies in existing evaluations. In 2015, the IES published TM-30-15 as a potential replacement for existing colour rendering systems. TM-30-15 provides fidelity index Rf and relative-gamut index Rg, based on 99 spectral reflectances, claimed to have uniform coverage in both the colour and wavelength spaces. The uniform coverage claims highlight two basic requirements for successful colour rendering metrics. Uniform coverage in
-    multidimensional wavelength space requires finer effective wavelength resolution than uniform coverage in 2D colour space, accounting for a substantial increase in the number of reflectances from CRI and CQS. However, it was not proven whether 99 spectral reflectances are sufficient. This study investigates wavelength space requirements, and implications for the sample spaces of a number of current metrics.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

@@ -37,22 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: 'A colour appearance model provides a viewing-condition-specific method
-    for the transformation of the tristimulus values, X, Y, Z, to or from perceptual
-    attribute correlates.This publication describes a specific colour appearance model,
-    CIECAM16, which may be useful for colour management systems, used in the imaging
-    industries, that involve related colours. The main applications of the model are
-    the evaluation of photographic prints and self-luminous displays, where the colours
-    will be perceived as related colours.This model is based on the CAM16 colour appearance
-    model. It consists of a chromatic adaptation transform and equations to calculate
-    a set of perceptual attribute correlates using the CIE 1931 standard colorimetric
-    observer. This report provides revisions to the CIE colour appearance model for
-    colour management systems that involve related colours, CIECAM02. The CIECAM16
-    model is simpler than the original CIECAM02 model, but it maintains the same prediction
-    performance for visual data as the original model.The evolution and application
-    of this colour appearance model, CIECAM16, are presented, as is additional information
-    about the use of the model in practical applications. This Technical Report replaces
-    CIE 159:2004 "A colour appearance model for colour management systems: CIECAM02".'
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

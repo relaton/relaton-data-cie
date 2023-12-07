@@ -37,14 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    This document provides official CIE recognition of a spectral luminous efficiency function for photopic vision that has been used by vision researchers since the early 1950's. Vision researchers have referred to this function as Judd's modification of CIE V(lambda). This document proposes to call it the CIE 1988 Modified 2 Degree Spectral Luminous Efficiency Function for Photopic Vision, which has the symbol VM(lambda). This modification is a supplement to, not a replacement of, the 1924 CIE V(lambda) function.
-
-    The difference between these two functions lies only below 460 nm. The 1924 CIE V(lambda) function is too insensitive with respect to colour normal observers. The 1988 VM(lambda) would be the preferred function in those conditions where luminance measurements of short wavelengths consistent with colour normal observers is desired.
-
-    A table presents the values of the CIE 1988 Modified 2 ° Spectral Luminous Efficiency Function for Photopic Vision between 380 nm and 780 nm in one nm steps to five significant digits. The table is also available on disk in the form of an ASCII file for IBM PC XT/AT or compatible computers.
-
-    The publication consists of 13 pages, with one figure and one table. (see also: CIE Disk D001)
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

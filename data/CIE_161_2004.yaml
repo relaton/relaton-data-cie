@@ -37,12 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    Traditional lighting calculation methods assume a clear room volume allowance for the influence of room contents. Objects located between light source and task will act to block direct light and will result in some light being absorbed by the object and some reflected from its surface. This may cause both local and general reductions in planar illuminance over a whole installation. This report draws together design related material on the subject. It is intended as specialist reference for use in conjunction with relevant design guidance. It contains information on the magnitudes of likely losses in different types of building interior and design guidance to ameliorate the effects of these light losses.
-
-    A major part of the report is concerned with calculation methods for obstructed interior lit by general lighting systems. Modifications to traditional lighting design calculation methods to acknowledge the influence of room contents, above and below the working plane are described. Advice on the application of computer programs for lighting design and analysis to solution of problems involving obstructed interiors is given.
-
-    The report is written in English, with a short summary in French and German. It consists of 32 pages with 8 figures and 7 tables.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

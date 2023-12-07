@@ -37,16 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    The problem of dosimetry in skin photobiology lies in the fact that the ability of ultraviolet (UV) radiation to elicit erythema in human skin depends strongly on wavelength, encompassing a range of four orders of magnitude between 250 nm and 400 nm.
-
-    A CIE erythema action spectrum was proposed in 1987 but no erythemal quantity and radiometric equivalence was agreed till up to now.
-
-    The term minimal erythema dose (MED) has been used widely as a 'measure' of erythemal radiation. This is unreasonable because the MED is not a standard measure of anything but, on the contrary, encompasses the variable nature of individual sensitivity to ultraviolet radiation. Variables which affect the MED include optical and radiometric characteristics of the source; determinants of the exposure such as dose increment and field size; nature of the skin such as pigmentation, previous light exposure, and anatomical site; and observational factors such as definition of the end point, time of reading after exposure, and ambient illumination.
-
-    To avoid further confusing misuse of the term MED, we propose that this term be reserved solely for observational studies in humans and other animals, and that a new term, the standard erythema dose (SED) be used as a standardised measure of erythemogenic UV radiation. The present report proposes also its numerical value: 1 SED is equivalent to an erythemal effective radiant exposure of 100 Jm-2.
-
-    The Technical Report provides the background of this proposal, the definitions are summarised in an accompanying standard.This publication contains 7 pages and is written in English with a summary in French and German.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

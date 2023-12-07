@@ -45,18 +45,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    Technical Report, developed by TC 1-90, is a research report describing a general colour
-    fidelity index, Rf, as a scientifically accurate measure of colour fidelity with respect to a
-    reference illuminant. The important improvements of this measure, relative to the current
-    colour rendering index, are the update of the colour difference calculation, in particular the
-    object colour space, and the incorporation of 99 test-colour samples which provide a more
-    uniform distribution of slope and curvature values as a function of wavelength and which have
-    colour appearance values that are more widely and uniformly distributed in the three
-    dimensions of a uniform colour space. However, Rf is not a replacement of the general colour
-    rendering index, Ra, neither for the purpose of rating and specification of products nor for
-    regulatory or other minimum performance requirements. Finally, relations of Rf to Ra and to
-    luminous efficiency are discussed.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

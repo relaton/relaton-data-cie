@@ -95,25 +95,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Shading control strategies are nowadays employed in office environments
-    to improve the visual comfort of the user. These strategies are often solely illuminance-based
-    whereas comfort metrics as the Daylight Glare Probability (DGP) also need luminance
-    values. In previous studies, daylight glare has been assessed by calculating the
-    DGP from luminance maps obtained via a luminance camera or from a High Dynamic
-    Range (HDR) image obtained with a commercially available camera. These detectors
-    are traditionally mounted close to the user and aligned with the viewing direction.
-    In real office environments, this camera position is impractical, and simulations
-    based on machine learning techniques have shown a relation between the DGP from
-    an observer's viewpoint and the DGP calculated from a ceiling camera. This paper
-    experimentally validates this method in a real office environment by using two
-    different cameras and two different illuminance sensors, i.e., a low-cost illuminance
-    sensor and a calibrated sensor. Both cameras render similar results, although
-    one camera overestimates the DGP. Moreover, the shortcomings of the simulation
-    results are pinpointed and the obstacles for a realistic application are addressed.
-    Furthermore, it was found that when moving the cameras to different positions,
-    the sun position was shown to be an informative additional input for correlating
-    the two DGP values. In future work, additional data will be analysed to determine
-    the performance in other weather conditions and window orientations.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

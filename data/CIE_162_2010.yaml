@@ -39,24 +39,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    The chromatic adaptation transforms used in most colour appearance models
-    assume that observers are fully adapted to a given set of viewing conditions.
-    Unfortunately, the condition of complete chromatic adaptation usually does not occur
-    in the consumer market and in more casual industrial use. Instead, these users tend
-    to view softcopy in a room with sufficient ambient illumination to allow comfortable
-    viewing and examination of hardcopy imaging. Further, users often desire to
-    compare hardcopy and softcopy images using rapid successive binocular
-    observations. The focus of this report is to determine how colour imaging experts can
-    best accommodate the desires and practices of these more casual observers. It
-    shows that accounting for mixed and incomplete chromatic adaptation produces
-    more accurate results in colour appearance than not accounting for them. It includes
-    a mathematical model for chromatic adaptation and provides appropriate parameters
-    for the chromatic adaptation model under such viewing conditions.
-    This publication corrects and replaces CIE 162:2004 "Chromatic Adaptation under
-    Mixed Illumination Condition when Comparing Softcopy and Hardcopy Images".
-    An Erratum is included that shows a corrected version of Equation 6.13 and a
-    corrected Annex.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

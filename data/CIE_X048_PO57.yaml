@@ -103,19 +103,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Visible Light Communication (VLC) requires better optical channel modelling
-    if it is to be used in vehicular applications. Therefore, the radiation transfer
-    between the transmitter and emitter shall be well defined in all circumstances.
-    An important aspect herein is the determination of the Limiting Photometric Distance
-    (LPD), which characterises the transition between near-field and far-field description
-    of the light source. The LPD allows to determine whether simplified equations
-    can be used in the V-VLC channel model. A first step towards this goal is the
-    analysis of a simple, narrow beam, disk-source with uniform luminance. On-axis,
-    analytical solutions exist. Off-axis, however, no closed loop solutions exist.
-    Therefore, a numerical approach is used, which is validated against on-axis measurements
-    and then expanded to off-axis scenarios.  This allows to compute the on- and off-axis
-    LPD of the light source, an important step towards a more accurate description
-    of complex systems for VLC.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

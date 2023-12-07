@@ -47,19 +47,9 @@ language:
 script:
 - Latn
 abstract:
-- content: This paper explores the impact of chromatic adaptation, colour space and
-    test-colour samples on fidelity values and obtained colour differences. The CAT02
-    transform and CIELUV colour space do not result in remarkably different Ra values
-    compared to current CIE13.3 computation process. Colour differences computed with
-    CIELAB, CIEDE2000 and CAM02-UCS are highly correlated, but different from those
-    computed with CIELUV. Uniform distribution of test-colour samples, under the reference
-    illuminant, depends on the CCT of the light source. It has been demonstrated that
-    highly saturated samples result in larger average colour differences, but smaller
-    changes in relative gamut area index values. Combining samples with different
-    saturation levels into one average fidelity or relative gamut area index value
-    masks valuable information on actual hue-specific colour changes. The number of
-    samples should be between 18 and 30 to cover the whole hue-angle circle without
-    significant information loss compared to using 90 test-colour samples.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

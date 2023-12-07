@@ -81,16 +81,9 @@ language:
 script:
 - Latn
 abstract:
-- content: New colour appearance scales close to daily experience and image quality
-    enhancement are highly desired including whiteness, blackness, vividness and depth.
-    This article describes a new experiment to accumulate the data under HDR (high
-    dynamic range) conditions. The data were then used to test the performance of
-    different colour appearance scales such as CIELAB and CAM16-UCS plus the recent
-    extension by Berns Vab*, Dab*. The results showed those Berns scales gave reasonable
-    performance. However, there was no scale capable of predicting colour appearance
-    data covering a wide dynamic range. New scales were developed based on the absolute
-    scales of brightness and colourfulness of CAM16-UCS and gave accurate prediction
-    to the data.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

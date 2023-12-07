@@ -75,17 +75,9 @@ language:
 script:
 - Latn
 abstract:
-- content: The colour volume represents the reproducible colour of the display, which
-    is to evaluate the display performance. This colour volume is to calculate the
-    measured colours in three dimensions using the uniform colour space. In this study,
-    we evaluate how the colour volume calculated by LAB visually matches. The evaluation
-    evaluates and compares the QaMbM of CIECAM02 and the IcTcP. The visual experiment
-    is carried out by expressing the colour volume as the richness of the colour.
-    Also, the experiment uses the image with adjusted colour gamut, white luminance
-    and black luminance. Experimental results show that the method of measuring colour
-    gamut volume using CIECAB L*a*b* does not match the visual evaluation. However,
-    the colour gamut volume calculated using QaMbM and IcTcP can very well predict
-    visual data.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

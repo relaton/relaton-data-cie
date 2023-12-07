@@ -39,12 +39,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    This standard specifies a method of assessing the spectral quality of the irradiance provided by a daylight simulator to be used for visual appraisal of colours or for colour measurements and a method of assigning a quality grade to the simulator. It specifies the maximum permissible deviation of the chromaticity of the simulator from the chromaticity of the CIE Standard Daylight Illuminant or CIE Daylight Illuminant being simulated, for a simulator to be graded by this method.
-
-    The basis for the assessment is the special metamerism index for change in illuminant, using pairs of virtual (rather than real) specimens specified by their reflecting and fluorescing properties. The pairs of specimens are metameric matches under the CIE daylight illuminant, when evaluated with the CIE 1964 Standard Colorimetric Observer. The method described in this standard quantifies the mismatch when the pairs of virtual specimens are illuminated by the simulator under test and evaluated by the same standard observer.
-
-    The standard is accompanied by a disk containing the spectral data of Tables 3-6 of the standard in MS Excel format.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

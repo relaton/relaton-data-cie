@@ -37,10 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    Two specimens having identical tristimulus values, for a given illuminant and reference observer, are metameric if their spectral radiance factors differ from each other within the visible spectral range. This metameric colour match is broken down either by a change of the reference illuminant or the observer. The degree of colour mismatch caused by substituting a test illuminant of different spectral composition for the reference illuminant is classified as the Special Metamerism Index: Change in Illuminant (illuminant metamerism). The method evaluating illuminant metamerism has already been formulated (see CIE 15.2-1986): the purpose of this report is to formulate a method of evaluating the degree of colour mismatch for metameric colour pairs (object colours or illuminant colours) caused by substituting a test observer with normal colour vision for the reference observer (CIE Standard Colorimetric Observer). This is classified as the Spectral Metamerism Index: Change in Observer (observer metamerism). Colour mismatch caused by observer metamerism is inevitable for real observers with normal colour vision. The evaluation of observer metamerism thus gives a sound basis for establishing colour difference tolerances for colour matching using various colour pairs. It also gives an indication of the degree of illuminant metamerism which can be considered allowable in our everyday lives.
-
-    The publication contains 22 pages with 2 figures and 4 tables.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

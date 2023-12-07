@@ -67,16 +67,9 @@ language:
 script:
 - Latn
 abstract:
-- content: The calculation of light distribution is usually made with ray-tracing
-    based methods. These methods displays the interaction of light with matter at
-    the interface between two media very well. Against that, the treatment of scattering
-    in the volume with ray-tracing causes long computing time and is practically often
-    solved with artificial interfaces which are replacing the volume. The latter is
-    physically not exact, so we present an alternative method which is based on physical
-    principles without using ray-tracing and with low computing time. We developed
-    this method for glare evaluation in the traffic during fog and rain, but our method
-    can be generally used for multiple scattering of any radiation in homogeneous,
-    absorptive medium.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

@@ -42,11 +42,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    The Proceedings of the 29th Session of the CIE comprise two volumes.
-    Volume 1 includes the papers of the three-day technical conference having taken place in the course of the Session (June 17-19, 2019). It is subdivided into two parts and contains, beside general information regarding CIE, on 1 858 pages the full papers of the oral presentations, presented posters and posters presented at the conference.
-    Volume 1 is already available from the CIE Webshop or from the National Committees of the CIE.
-    Volume 2 contains official reports of the administrative and technical meetings of the Session, thus presenting an overview on the technical work in CIE achieved during the last Quadrennium. Volume 2 is freely available for download on the CIE website.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

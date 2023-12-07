@@ -37,10 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    This technical report provides guidelines for the evaluation of the cross-device and cross-media colour image reproduction performance of gamut mapping algorithms (GMAs). The guidelines cover numerous aspects of GMA evaluation including test images, media, viewing conditions, measurement, gamut boundary calculation, gamut mapping algorithms, colour spaces and experimental method. Also provided are example workflows that show how the general principles are applied and a checklist for determining compliance with the guidelines. The results of GMA evaluation carried out in accordance with these guidelines will then serve as the basis for recommending either one gamut mapping algorithm, or a set of algorithms and rules for use in specific applications.
-
-    The Report is written in English, with a short summary in French and German. It consists of 30 pages with 4 figures and 2 tables.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

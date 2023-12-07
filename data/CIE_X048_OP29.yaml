@@ -55,17 +55,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Terminology and concepts for temporal light modulation (TLM), commonly
-    known as flicker, are defined and used inconsistently, even among researchers.
-    A literature review by the authors has identified multiple meanings for multiple
-    terms, so it is critical that a reader be able to translate from a single articles
-    definitions to a more universal set. A simple example is that flicker is used
-    interchangeably as the stimulus as well as the response to the stimulus, as well
-    as the direct visual response for a specific range of modulation frequencies.
-    This paper endeavours to clarify communication among stakeholders so that effective
-    metrics can be developed to limit unwanted physiological, psychological, behavioural,
-    and cognitive responses to TLM. Changes to the CIE International Lighting Vocabulary
-    are recommended.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

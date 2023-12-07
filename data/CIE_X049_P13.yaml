@@ -65,16 +65,9 @@ language:
 script:
 - Latn
 abstract:
-- content: In order to estimate the visibility of temporal light modulation (TLM),
-    also known as "flicker", various metrics are employed in research and commerce.
-    The metrics, however, are not easily calculated, and occasionally the values change
-    depending on sampling rates. This study investigates the complexities involved
-    in processing data from TLM waveform metrics and then calculating metrics. It
-    explores the sensitivity of each metric to sampling rate, and recommendations
-    are then provided for how to increase the accuracy and consistency of the metrics
-    by using appropriate sampling rates. The analyses in this study are based on noise-free
-    and stable ideal waveforms; however, sampling rate effects also exist for real-world
-    waveforms.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

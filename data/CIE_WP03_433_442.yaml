@@ -69,15 +69,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Reflection properties of the pavement have to be considered when designing
-    road lighting installations. These properties depend on the material and the texture
-    and can be specified by means of a set of luminance coefficients also called the
-    Bidirectional Reflectance Distribution Function (BRDF). We present in this paper
-    our in-house built gonioreflectometer for in-lab measurements, especially suited
-    for public lighting applications. The instrument specificities and methodology
-    to compute the BRDF are described and some examples of BRDF measurements are showed.
-    Further developments and use of our gonioreflectometer are also listed (wet surfaces,
-    spectral measurements).
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

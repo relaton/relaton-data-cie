@@ -37,16 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    This report summarizes the information that is currently available on the measurement of light at mesopic levels of intensity. Mesopic refers to light levels covering a range of several log units, which are neither completely photopic (for which use of V(lambda) my be appropriate) or scotopic (for which V'(lambda) should be employed). This covers an approximate range of luminance from some hundredths or less of a cd/m2 to at least several cd/m2.
-
-    Since there is today no system recommended by the CIE for mesopic photometry, ordinary photopic photometers are commonly used for the measurement of light at mesopic levels. This practice results in a misleading evaluation of certain lights, due primarily to the shift in the luminous efficiency of the eye toward the short wavelengths at mesopic levels.
-
-    Low pressure sodium provides an excellent example. The spectral power is concentrated near 589 nm, wavelengths to which the photopic eye is quite sensitive; if measured with a photopic light meter this sensitivity is reflected in relatively high readings. With a decrease in light to mesopic levels, the sensitivity of the eye is dramatically reduced; the resultant appearance is much dimmer than expected from the photopic values. Even greater discrepancies can be found in the measurement of red lights such as are employed in ship or plane control-rooms.
-
-    Five systems of mesopic photometry are currently available. These systems are based upon either the measurement of photopic and scotopic luminances or upon tristimulus or chromaticity values and scotopic luminance; equipment for these measures is available today. Each of the systems is described in the report and examples of the necessary calculations are provided. Each of the systems has its own advantages and disadvantages, but all give a better assessment of light at mesopic levels than does the use of photopic photometry alone. It is hoped that these systems will be tried by many users and data on their effectiveness made available so that a CIE system can be recommended in the near future.
-
-    The publication contains 31 pages, 14 figures and 7 tables.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

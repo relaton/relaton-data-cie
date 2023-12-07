@@ -87,21 +87,9 @@ language:
 script:
 - Latn
 abstract:
-- content: 'In this paper, we will demonstrate a comparison between measured colorimetric
-    images, and simulated images from a physics based rendering engine. The colorimetric
-    images are high dynamic range (HDR) and taken with a luminance and colour camera
-    mounted on a goniometer. For the comparison, we have used a scene similar to the
-    cornel box but with a spectrally controllable LED light source, neutral grey walls
-    and a colour checker board for colorimetric assessments. The luminance value and
-    colour information of the HDR camera and rendering images are used for the comparison.
-    The spectral irradiances of the light source were measured for two lighting scenarios:
-    low and high correlated colour temperature (CCT) white lighting conditions for
-    the modelling of the light source. Based on these measurements, we have conducted
-    spectrally resolved renderings with a spectral renderer, Ocean. The colour differences
-    between the camera and rendered images were calculated with the most recent CIE
-    metric, CIEDE2000.  Our simulations have demonstrated interesting results, which
-    confirm the accuracy of the Ocean engine. In the future, we want to consider non-Lambertian
-    surfaces.'
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

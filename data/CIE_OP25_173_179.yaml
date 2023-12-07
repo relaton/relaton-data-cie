@@ -79,21 +79,9 @@ language:
 script:
 - Latn
 abstract:
-- content: For implementing the CIE mesopic photometry system to outdoor lighting
-    applications, the adaptation luminances needs to be determined to figure out the
-    mesopic luminous efficiency function to be used for particular lighting scenarios.
-    This study verifies an adaptation luminance simulation method proposed in Uchida
-    et al. (2016) by using sets of luminance distributions (LDs) and corresponding
-    adaptation luminances measured in a vision experiment by Terai et al. (2017).
-    The simulation method was applied to the LDs and the simulated adaptation luminances
-    were compared with the empirical data. The result suggests that the simulation
-    method can estimate the adaptation luminance when the employed veiling luminance
-    model is sufficiently accurate. When a different veiling luminance model is employed,
-    the simulation underestimates the adaptation luminance and causes a certain level
-    of error on the mesopic luminance. The veiling luminance model contribution to
-    the adaptation luminance depends on the LD. For the LDs used in this study, the
-    adaptation luminance is considered more sensitive to the veiling luminance model
-    than that for real lit scene LDs.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

@@ -67,23 +67,9 @@ language:
 script:
 - Latn
 abstract:
-- content: In order to estimate visibility of miscellaneous objects in the real lit
-    environment, the authors tried to establish a method to predict visibility of
-    objects by use of a luminance image obtained in the real lit environment. As visibility
-    of objects can be estimated by a function of object size, luminance contrast between
-    the object and the background, and the background luminance, the authors suggested
-    to use contrast profile method, which can extract those parameters even from a
-    complicated luminance image, and to use newly developed C-A graph for specific
-    detection sizes. To check the possibility of this method, two experiments were
-    conducted. In the first experiment, Landolt ring gaps were used for visual stimuli
-    and thresholds of them were obtained. Plotting those thresholds in C-A graph,
-    they were found to be represented as a simple curve. In the second experiment,
-    circular objects were displayed in uniform background and complicated background.
-    The thresholds of them again plotted in C-A graph and found to be represented
-    as a similar simple curve, but there are some differences among background pattern.
-    More precise prediction required to examine contrast images, because sometime
-    detected contrasts pattern in the background could be very similar to the object
-    contrast.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

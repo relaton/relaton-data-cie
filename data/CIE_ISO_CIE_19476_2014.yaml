@@ -37,18 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    This joint ISO/CIE International Standard is replacing CIE International Standard CIE S 023/E:2013 without modification of its technical content.
-
-    The standard defines quality indices characterizing the performance of illuminance and luminance meters in a general lighting measurement situation, as well as measurement procedures for the individual indices and standard calibration conditions.
-
-    Measurements of illuminance or luminance and their accuracy are influenced by various parameters, such as operational conditions, properties of light sources, as well as characteristics of the applied photometers. The characteristics of these photometers alone do not allow the determination of the measurement uncertainty for a specific measurement task. Nevertheless, it is generally true that instruments with "better" characteristics in most cases produce smaller uncertainties than instruments with "worse" properties. This standard has been written to:
-
-    give clear and unambiguous definitions for the individual quality indices;
-    define measurement procedures and methods for numerical evaluation of these quality indices;
-     define calibration conditions for illuminance meters and luminance meters.
-
-    Where different, the definitions of the quality indices and the associated measurement procedures and methods for numerical evaluation given in this standard supersede those given in CIE Publication 53-1982. CIE publication 69-1987 has been superseded by this standard.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

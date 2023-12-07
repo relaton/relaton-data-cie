@@ -65,13 +65,9 @@ language:
 script:
 - Latn
 abstract:
-- content: The results of the previous experiments were further analysed. IES-TM-30
-    fidelity metric and local chroma shift of red hue bin were proved to be efficient
-    to predict naturalness and colourfulness of lightings, respectively. A modified
-    Gaussian model with these two metrics was built to predict the lighting preference
-    as the last part of jigsaw of total colour quality of lighting. Independent datasets
-    including preference or attractiveness assessment of lightings was used to test
-    the model.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

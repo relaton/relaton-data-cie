@@ -79,19 +79,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Temperature dependence of LED operation is often not fully considered during
-    the design of solid state lighting products. If temperature dependence is not
-    carefully considered, solidstate lighting products are typically overdesigned
-    to be too robust enough to fulfil the requirements under any possible environmental
-    conditions. Temperature dependent nature of LEDs though, could even be a new benefit
-    if properly considered. Overdesign means designing for the worst case that is
-    the highest possible environmental temperature when LED efficiency/efficacy is
-    low. With a control scheme resulting in constant emitted total luminous flux significant
-    electrical power saving can be achieved since at lower temperatures, due to increasing
-    efficiency/efficacy less electrical power, thus, lower forward current levels
-    are sufficient. We present the new, so called iso-flux control scheme and its
-    implementation in an actual smart luminaire. The actual control scheme was designed
-    with a multi-domain LED model and the results were validated by simulation.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

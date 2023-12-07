@@ -67,21 +67,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Increase of chroma is known to be a major factor for colour quality preference
-    in lighting, and gamut area measures are often used to evaluate preference aspects.
-    However, gamut area accounts for chroma differences equally for all hue directions.
-    Experiences in lighting indicates that red is most dominant in such colour quality
-    preference but experimental data has not been available. Vision experiments were
-    conducted to evaluate different effects of chroma shifts in different hue directions
-    on colour quality preference, using NIST Spectrally Tunable Lighting Facility
-    simulating an interior room. 19 subjects viewed various fruits, vegetables, and
-    their skin tones, under illumination of 11 different spectra of different gamut
-    shapes. The 11 spectra were presented as pairs in all combinations, at correlated
-    colour temperatures (CCT) of 2700 K, 3500 K, 5000 K, (Duv= 0) and 3500 K (Duv=
-    -0.015). The average results show that chroma increases of red ('C*ab ≈ 5 to 15)
-    has the largest effect, green ('C*ab ≈ 15) has the second effect, and yellow's
-    effect is insignificant, in subjects' preference. The results will be useful to
-    develop colour preference metrics that correlates well with perceived colour quality.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

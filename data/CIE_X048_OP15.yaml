@@ -55,22 +55,9 @@ language:
 script:
 - Latn
 abstract:
-- content: The measurement and classification of light is essential across many scientific
-    disciplines. Devices used to measure light range from the highly precise scanning
-    spectroradiometers to the more practical compact multichannel filter-array type
-    imaging sensors and the ubiquitous RGB pixel. While there have been numerous successful
-    efforts to reconstruct spectrum from RGB, RGB-to-spectrum reconstruction has historically
-    been limited to natural scenes and other edge cases under strict constraints.
-    However, information theory and recent advances in deep learning have shed new
-    light on the vast amount of redundancy contained within data collected in the
-    natural world, including light. In this paper, we will investigate how analytic
-    methods can help map high dimensional spectra data to a low-dimensional feature
-    space with minimal inductive bias. Through a better understanding of the intrinsic
-    dimension of the data, we can use the features expressed in this representation
-    to exploit regularities and make tasks like data compression, measurement and
-    classification more efficient. The aim of this analysis is to help inform how
-    and when low-dimensional representation of spectra is useful in practice for designing
-    compact sensors as well as for lossy data compression and robust classification.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

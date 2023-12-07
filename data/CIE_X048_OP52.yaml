@@ -67,20 +67,9 @@ language:
 script:
 - Latn
 abstract:
-- content: In outdoor environments after dark, pedestrians may experience discomfort
-    from road lighting. Previous studies have therefore developed models to predict
-    discomfort from glare in pedestrian applications. However, the performance of
-    these models has not been comprehensively assessed, and measurement challenges
-    arise in field evaluations. This paper evaluates the performance of a model proposed
-    by Bullough et al (2008) and compares it to prediction using only direct illuminance
-    at the eye. Diagnostic metric tests were conducted using three independent datasets
-    from previously published studies. The results suggested that direct illuminance
-    at the eye performed similarly to the Bullough et al. model over the range of
-    lighting conditions examined. These conditions included one glare source that
-    contributed between 4 lx - 82 lx, and a low contribution from indirect illuminance
-    and other lighting installations 1 lx - 4 lx. Further studies are needed to examine
-    the importance of incorporating indirect illuminance from source and ambient illuminance
-    for predicting discomfort glare.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

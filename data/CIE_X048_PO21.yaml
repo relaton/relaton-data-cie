@@ -90,18 +90,9 @@ language:
 script:
 - Latn
 abstract:
-- content: In this contribution a framework is presented that aims to help for handling
-    correlations within measurement uncertainty calculations for spectral quantities.
-    Taking correlations for spectral quantities into account is necessary as they
-    directly influence the measurement uncertainties especially for integral quantities.
-    Therefore, determination of correlations within traceability chains at national
-    metrology institutes (NMIs) and disseminations of correlated data to test laboratory
-    level is encouraged and a major goal of the EMPIR project 19NRM02 Revision and
-    extension of standards for test methods for LED lamps, luminaires and modules
-    (RevStdLED). The presented python-based analysis framework is used in photometry
-    and spectroradiometry at PTB to calculate the results and associated measurement
-    uncertainty for spectral irradiance, spectral irradiance responsivity and luminous
-    responsivity based on spectral calibrations.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

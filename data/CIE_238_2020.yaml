@@ -37,9 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    AC-driven LEDs (AC LEDs) operate on AC power and may be connected directly to a mains supply without the need of any electronics (e.g. LED drivers or control gears) for converting AC power to a constant direct current. Similar to DC-driven LEDs (DC LEDs), accurate measurements of AC LEDs are also difficult due to the high sensitivity of optical and electrical properties of LEDs to their thermal and operating conditions. In addition, forward voltage, current, and junction temperature of an AC LED change rapidly, which makes measurements even more difficult.
-    CIE 238:2020 provides guidance for optical measurements of AC LEDs, performed at testing laboratories with emphasis on reproducibility and small measurement uncertainties by accurately setting and controlling the junction temperature. The report includes measurement methods, instrumentation, and procedures. The measurement methods and procedures used for optical measurement of AC LEDs are based on a specified junction temperature using either single AC cycle operation or continuous AC operation.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

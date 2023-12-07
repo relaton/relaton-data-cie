@@ -37,12 +37,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    This report contains the terminology required for measurements of luminous intensity distributions. It summarizes the principles of luminous intensity measurements and the requirements for the photometer heads employed for such measurements. The coordinates systems used for the measurement and representation of luminous intensity distributions are described. Types of goniophotometers, possibilities for angle encoding, characteristics of the photo-electronic system, and data acquisition and processing for measurements of luminous intensity distributions are discussed in detail.
-
-    Other subjects covered are power supply, measurement conditions and execution, correction, and representation of luminous intensity distribution measurements. The various sections contain sufficient data on the required characterization of goniophotometers. The report is based on, and supplementary to, CIE 53-1982 Methods of Characterizing the Performance of Radiometers and Photometers.
-
-    The publication contains 54 pages, 19 figures and 2 tables.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

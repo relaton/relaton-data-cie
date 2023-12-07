@@ -40,26 +40,9 @@ language:
 script:
 - Latn
 abstract:
-- content: |-
-    Joint ISO/CIE Standard
-
-    ISO 15469:2004 (E) / CIE S 011/E:2003
-
-    CIE has published the standard "CIE S003 Spatial distribution of daylight - CIE standard overcast sky and clear sky" in 1996. Since then further types of skies were examined and an international consensus was reached on their luminance distribution and standardization.
-
-    The luminance distribution of the sky depends on weather and climate, and it changes during the course of a day with the position of the sun. This standard lists a set of luminance distributions, which model the sky under a wide range of conditions, from the heavily overcast sky to cloudless weather. It is intended for two purposes:
-
-    i. to be a universal basis for the classification of measured sky luminance distributions
-
-    ii. to give a method for calculating sky luminance in daylighting design procedures.
-
-    This Standard defines relative luminance distributions: the luminance of the sky at any point is given as a function of the zenith luminance. For daylighting calculation purposes it may be used with values of zenith luminance or of horizontal illuminance to obtain absolute luminance distributions.
-
-    This Standard incorporates both the CIE Standard Clear Sky and the CIE Standard Overcast Sky, which are treated as particular cases of the General Sky. The Overcast Sky is retained as a separate formula because there are many calculation procedures that embody the mathematical formulation of this particular distribution.
-
-    This present Standard replaces CIE S003 - 1996 "Spatial distribution of daylight - CIE standard overcast sky and clear sky" and ISO 15469:1997.
-
-    This standard has been approved by CIE and by ISO.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:

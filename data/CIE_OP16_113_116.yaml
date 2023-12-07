@@ -77,16 +77,9 @@ language:
 script:
 - Latn
 abstract:
-- content: In this study, different trade-offs are discussed while developing a uniform
-    colour space. Many colorimetry-based colour spaces have been developed before
-    to uniformly encode colour difference signals. Researchers have reported that
-    there is always a trade-off between perceptual uniformity, hue-linearity and wide
-    range lightness difference. It has also been found that lightness-constancy also
-    affects uniformity and hue-linearity. A perceptual colour space was developed
-    by minimizing this trade-off and was named as Jzazbz. Different tradeoffs were
-    achieved while developing the new colour space by predicting representative sets
-    of experimental data. At the same time, its performance was compared with state-of-the-art
-    uniform colour spaces.
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
   language:
   - en
   script:
