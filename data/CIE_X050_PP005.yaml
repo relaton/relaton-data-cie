@@ -1,0 +1,149 @@
+---
+schema-version: v1.2.7
+id: CIEx050-PP005
+title:
+- content: PRELIMINARY STUDY FOR TRACEABILITY ON SPECULAR GLOSS
+  format: text/plain
+  type: title-main
+- content: PRELIMINARY STUDY FOR TRACEABILITY ON SPECULAR GLOSS
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-x050-pp005?product_id=2578644
+  type: src
+type: standard
+docid:
+- id: CIE x050-PP005
+  type: CIE
+  primary: true
+docnumber: x050-PP005
+date:
+- type: published
+  value: '2023-09-01'
+contributor:
+- person:
+    name:
+      surname:
+        content: Ferrero
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Gevaux
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Rastgou
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Jaanimets
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Jurgo
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Manoocheri
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Kübarsepp
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Nilsson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Szajna
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Obein
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+revdate: '2023-09-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: document
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,149 @@
+---
+schema-version: v1.2.7
+id: CIEx050-OP026
+title:
+- content: 'SKYSPECTRA: AN OPENSOURCE DATA PACKAGE OF WORLDWIDE SPECTRAL DAYLIGHT'
+  format: text/plain
+  type: title-main
+- content: 'SKYSPECTRA: AN OPENSOURCE DATA PACKAGE OF WORLDWIDE SPECTRAL DAYLIGHT'
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-x050-op026?product_id=2578611
+  type: src
+type: standard
+docid:
+- id: CIE x050-OP026
+  type: CIE
+  primary: true
+docnumber: x050-OP026
+date:
+- type: published
+  value: '2023-09-01'
+contributor:
+- person:
+    name:
+      surname:
+        content: Balakrishnan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Diakite-Kortlever
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Dumortier
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Hernández-Andrés
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Kenny
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Maskarenj
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Pierson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Thorseth
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Xue
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Knoop
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+revdate: '2023-09-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: document
+ext:
+  schema-version: v1.0.0

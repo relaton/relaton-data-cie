@@ -1,0 +1,101 @@
+---
+schema-version: v1.2.7
+id: CIEx050-OP060
+title:
+- content: DEPENDENCE OF TEMPORAL FREQUENCY AND CHROMATICITY ON THE VISIBILITY OF
+    THE PHANTOM ARRAY EFFECT
+  format: text/plain
+  type: title-main
+- content: DEPENDENCE OF TEMPORAL FREQUENCY AND CHROMATICITY ON THE VISIBILITY OF
+    THE PHANTOM ARRAY EFFECT
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-x050-op060?product_id=2578618
+  type: src
+type: standard
+docid:
+- id: CIE x050-OP060
+  type: CIE
+  primary: true
+docnumber: x050-OP060
+date:
+- type: published
+  value: '2023-09-01'
+contributor:
+- person:
+    name:
+      surname:
+        content: Kong
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Vogels
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Martinsons
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Tengelin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Heynderickx
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+revdate: '2023-09-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: document
+ext:
+  schema-version: v1.0.0

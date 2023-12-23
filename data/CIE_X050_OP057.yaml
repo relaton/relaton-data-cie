@@ -1,0 +1,129 @@
+---
+schema-version: v1.2.7
+id: CIEx050-OP057
+title:
+- content: EMOTIONS ASSOCIATED WITH OFFICE ILLUMINATION AND A PROCESS TO IMPROVE THEM
+  format: text/plain
+  type: title-main
+- content: EMOTIONS ASSOCIATED WITH OFFICE ILLUMINATION AND A PROCESS TO IMPROVE THEM
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-x050-op057?product_id=2578617
+  type: src
+type: standard
+docid:
+- id: CIE x050-OP057
+  type: CIE
+  primary: true
+docnumber: x050-OP057
+date:
+- type: published
+  value: '2023-09-01'
+contributor:
+- person:
+    name:
+      surname:
+        content: Karlsson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Björner Brauer
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Hedekvist
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Enger
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Wallin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Ryberg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Mayerboek
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Laike
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+revdate: '2023-09-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: document
+ext:
+  schema-version: v1.0.0
