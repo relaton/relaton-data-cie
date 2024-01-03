@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.7
+id: CIEx050-OP046
+title:
+- content: PERCEPTION OF GLARE IN RELATION TO THE CIE SCALE ON UNIFIED GLARE RATING
+    (UGR) AND THE IMPACT OF AMBIENT LIGHT ON BOTH UGR AND SUBJECTIVE GLARE INDEX SCALES
+    (SGI)
+  format: text/plain
+  type: title-main
+- content: PERCEPTION OF GLARE IN RELATION TO THE CIE SCALE ON UNIFIED GLARE RATING
+    (UGR) AND THE IMPACT OF AMBIENT LIGHT ON BOTH UGR AND SUBJECTIVE GLARE INDEX SCALES
+    (SGI)
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-x050-op046?product_id=2579012
+  type: src
+type: standard
+docid:
+- id: CIE x050-OP046
+  type: CIE
+  primary: true
+docnumber: x050-OP046
+date:
+- type: published
+  value: '2023-09-01'
+contributor:
+- person:
+    name:
+      surname:
+        content: Ekim
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Govén
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Laike
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+revdate: '2023-09-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: document
+ext:
+  schema-version: v1.0.0

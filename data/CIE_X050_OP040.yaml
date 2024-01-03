@@ -1,0 +1,101 @@
+---
+schema-version: v1.2.7
+id: CIEx050-OP040
+title:
+- content: RECONSTRUCTION OF CAMERA SPECTRAL RESPONSIVITY USING MULTIPLE NARROW-BAND
+    LED RADIANCE SOURCES
+  format: text/plain
+  type: title-main
+- content: RECONSTRUCTION OF CAMERA SPECTRAL RESPONSIVITY USING MULTIPLE NARROW-BAND
+    LED RADIANCE SOURCES
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-x050-op040?product_id=2579008
+  type: src
+type: standard
+docid:
+- id: CIE x050-OP040
+  type: CIE
+  primary: true
+docnumber: x050-OP040
+date:
+- type: published
+  value: '2023-09-01'
+contributor:
+- person:
+    name:
+      surname:
+        content: Bouroussis
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Florian
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Nina
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Reto
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Peter
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+revdate: '2023-09-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: document
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,121 @@
+---
+schema-version: v1.2.7
+id: CIEx050-PO006
+title:
+- content: A SIMULATION-BASED METHOD TO QUANTIFY DAYLIGHT EXPOSURE AND ITS EFFECT
+    ON THE ONSET OF MYOPIA IN PRIMARY SCHOOL CHILDREN
+  format: text/plain
+  type: title-main
+- content: A SIMULATION-BASED METHOD TO QUANTIFY DAYLIGHT EXPOSURE AND ITS EFFECT
+    ON THE ONSET OF MYOPIA IN PRIMARY SCHOOL CHILDREN
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-x050-po006?product_id=2579044
+  type: src
+type: standard
+docid:
+- id: CIE x050-PO006
+  type: CIE
+  primary: true
+docnumber: x050-PO006
+date:
+- type: published
+  value: '2023-09-01'
+contributor:
+- person:
+    name:
+      surname:
+        content: De Groot
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Brembilla
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Dahlmann-Noor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Price
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Khazova
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Eijkelenboom
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Turrin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+revdate: '2023-09-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: document
+ext:
+  schema-version: v1.0.0

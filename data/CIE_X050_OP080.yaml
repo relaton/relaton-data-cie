@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.7
+id: CIEx050-OP080
+title:
+- content: SYSTEMATIC ERRORS OF TEMPORAL LIGHT MODULATION METRICS RELATED TO SAMPLING
+    DURATION
+  format: text/plain
+  type: title-main
+- content: SYSTEMATIC ERRORS OF TEMPORAL LIGHT MODULATION METRICS RELATED TO SAMPLING
+    DURATION
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-x050-op080?product_id=2579033
+  type: src
+type: standard
+docid:
+- id: CIE x050-OP080
+  type: CIE
+  primary: true
+docnumber: x050-OP080
+date:
+- type: published
+  value: '2023-09-01'
+contributor:
+- person:
+    name:
+      surname:
+        content: Stein
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Wiswesser
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Ledig
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+revdate: '2023-09-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: document
+ext:
+  schema-version: v1.0.0

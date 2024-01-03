@@ -1,0 +1,99 @@
+---
+schema-version: v1.2.7
+id: CIEx050-OP071
+title:
+- content: ENERGY SAVINGS FOR ADAPTIVE LED CONVERSION IN EXISTING ROAD LIGHTING INSTALLATIONS
+  format: text/plain
+  type: title-main
+- content: ENERGY SAVINGS FOR ADAPTIVE LED CONVERSION IN EXISTING ROAD LIGHTING INSTALLATIONS
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-x050-op071?product_id=2579027
+  type: src
+type: standard
+docid:
+- id: CIE x050-OP071
+  type: CIE
+  primary: true
+docnumber: x050-OP071
+date:
+- type: published
+  value: '2023-09-01'
+contributor:
+- person:
+    name:
+      surname:
+        content: Onaygil
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Güler
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Ö. Yurtseven
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Bugdayci Avsar
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Buyukustun
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+revdate: '2023-09-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: document
+ext:
+  schema-version: v1.0.0
