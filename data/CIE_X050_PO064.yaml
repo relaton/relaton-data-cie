@@ -1,0 +1,81 @@
+---
+schema-version: v1.2.7
+id: CIEx050-PO064
+title:
+- content: INFLUENCE OF INDIVIDUAL’S LIGHT ENVIRONMENT EXPERIENCES ON SELECT OF SEAT
+    AND LIGHTING SUITABLE FOR EACH TASK IN ACTIVITY BASED WORKING
+  format: text/plain
+  type: title-main
+- content: INFLUENCE OF INDIVIDUAL’S LIGHT ENVIRONMENT EXPERIENCES ON SELECT OF SEAT
+    AND LIGHTING SUITABLE FOR EACH TASK IN ACTIVITY BASED WORKING
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-x050-po064?product_id=2579112
+  type: src
+type: standard
+docid:
+- id: CIE x050-PO064
+  type: CIE
+  primary: true
+docnumber: x050-PO064
+date:
+- type: published
+  value: '2023-09-01'
+contributor:
+- person:
+    name:
+      surname:
+        content: Nomura
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Iwata
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Tsushima
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+revdate: '2023-09-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: document
+ext:
+  schema-version: v1.0.0
