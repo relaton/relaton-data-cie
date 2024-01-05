@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.7
+id: CIEx050-PO107
+title:
+- content: 'COLOUR VISION DEFICIENCIES IN THE DIGITAL TIME: A SURVEY OF USER EXPERIENCES
+    WITH MODIFICATIONS TO AID THEIR COLOUR DISCRIMINATION'
+  format: text/plain
+  type: title-main
+- content: 'COLOUR VISION DEFICIENCIES IN THE DIGITAL TIME: A SURVEY OF USER EXPERIENCES
+    WITH MODIFICATIONS TO AID THEIR COLOUR DISCRIMINATION'
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-x050-po107?product_id=2579144
+  type: src
+type: standard
+docid:
+- id: CIE x050-PO107
+  type: CIE
+  primary: true
+docnumber: x050-PO107
+date:
+- type: published
+  value: '2023-09-01'
+contributor:
+- person:
+    name:
+      surname:
+        content: Mazur
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Hovis
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+revdate: '2023-09-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: document
+ext:
+  schema-version: v1.0.0
