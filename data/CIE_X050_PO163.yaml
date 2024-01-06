@@ -1,0 +1,101 @@
+---
+schema-version: v1.2.7
+id: CIEx050-PO163
+title:
+- content: TIME-SEQUENTIAL RGB IMAGING WITH A MULTISPECTRAL ILLUMINATION SOURCE AND
+    A GATED CMOS CAMERA
+  format: text/plain
+  type: title-main
+- content: TIME-SEQUENTIAL RGB IMAGING WITH A MULTISPECTRAL ILLUMINATION SOURCE AND
+    A GATED CMOS CAMERA
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-x050-po163?product_id=2579224
+  type: src
+type: standard
+docid:
+- id: CIE x050-PO163
+  type: CIE
+  primary: true
+docnumber: x050-PO163
+date:
+- type: published
+  value: '2023-09-01'
+contributor:
+- person:
+    name:
+      surname:
+        content: Coosemans
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Iranian
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Ingelberts
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Kuijk
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Jacobs
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+revdate: '2023-09-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: document
+ext:
+  schema-version: v1.0.0

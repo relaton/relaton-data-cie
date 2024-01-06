@@ -1,0 +1,123 @@
+---
+schema-version: v1.2.7
+id: CIEx050-PO154
+title:
+- content: 'REPRODUCTION OF DAYLIGHTING BY LED LUMINAIRES SIMULATING ILLUMINANCE AND
+    CORRELATED COLOUR TEMPERATURE FLUCTUATION: VERIFICATION OF PHYSIOLOGICAL AND PSYCHOLOGICAL
+    STRESS'
+  format: text/plain
+  type: title-main
+- content: 'REPRODUCTION OF DAYLIGHTING BY LED LUMINAIRES SIMULATING ILLUMINANCE AND
+    CORRELATED COLOUR TEMPERATURE FLUCTUATION: VERIFICATION OF PHYSIOLOGICAL AND PSYCHOLOGICAL
+    STRESS'
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-x050-po154?product_id=2579214
+  type: src
+type: standard
+docid:
+- id: CIE x050-PO154
+  type: CIE
+  primary: true
+docnumber: x050-PO154
+date:
+- type: published
+  value: '2023-09-01'
+contributor:
+- person:
+    name:
+      surname:
+        content: Xiang
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Akuzawa
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Oe
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Yoshizawa
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Nakaso
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Kaiho
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Shinohara
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+revdate: '2023-09-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: document
+ext:
+  schema-version: v1.0.0

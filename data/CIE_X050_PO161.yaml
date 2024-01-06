@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.7
+id: CIEx050-PO161
+title:
+- content: AN ENERGY EFFICIENT HUMAN CENTERED LIGHTING FOR OPEN PLAN OFFICES WITH
+    COMFORT CRITERIA
+  format: text/plain
+  type: title-main
+- content: AN ENERGY EFFICIENT HUMAN CENTERED LIGHTING FOR OPEN PLAN OFFICES WITH
+    COMFORT CRITERIA
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-x050-po161?product_id=2579222
+  type: src
+type: standard
+docid:
+- id: CIE x050-PO161
+  type: CIE
+  primary: true
+docnumber: x050-PO161
+date:
+- type: published
+  value: '2023-09-01'
+contributor:
+- person:
+    name:
+      surname:
+        content: Aliparast
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Onaygil
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+revdate: '2023-09-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: document
+ext:
+  schema-version: v1.0.0

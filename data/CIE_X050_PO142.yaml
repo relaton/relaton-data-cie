@@ -1,0 +1,101 @@
+---
+schema-version: v1.2.7
+id: CIEx050-PO142
+title:
+- content: FUNDAMENTAL STUDY OF METHODS FOR PREDICTION OF THE BRIGHTNESS OF VISUAL
+    OBJECT BY USING THE STANDARD DEVIATION OF LUMINANCE LOGARITHM
+  format: text/plain
+  type: title-main
+- content: FUNDAMENTAL STUDY OF METHODS FOR PREDICTION OF THE BRIGHTNESS OF VISUAL
+    OBJECT BY USING THE STANDARD DEVIATION OF LUMINANCE LOGARITHM
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-x050-po142?product_id=2579206
+  type: src
+type: standard
+docid:
+- id: CIE x050-PO142
+  type: CIE
+  primary: true
+docnumber: x050-PO142
+date:
+- type: published
+  value: '2023-09-01'
+contributor:
+- person:
+    name:
+      surname:
+        content: Suzuki
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Maruyama
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Ma
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Kozaki
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        content: Hirate
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+revdate: '2023-09-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: document
+ext:
+  schema-version: v1.0.0
