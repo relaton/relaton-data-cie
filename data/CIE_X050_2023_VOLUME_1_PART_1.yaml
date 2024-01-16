@@ -1,0 +1,54 @@
+---
+schema-version: v1.2.8
+id: CIEx050-2023Volume1Part1
+title:
+- content: Proceedings of the 30th Session of the CIE, Volume 1, Part 1, Ljubljana,
+    Slovenia, September 15
+  format: text/plain
+  type: title-intro
+- content: 23, 2023
+  format: text/plain
+  type: title-main
+- content: Proceedings of the 30th Session of the CIE, Volume 1, Part 1, Ljubljana,
+    Slovenia, September 15 - 23, 2023
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-x050-2023-volume-1-part-1?product_id=2579843
+  type: src
+type: standard
+docid:
+- id: CIE x050:2023 Volume 1 Part 1
+  type: CIE
+  primary: true
+docnumber: x050:2023 Volume 1 Part 1
+date:
+- type: published
+  value: '2023-09-15'
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+revdate: '2023-09-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center (techstreet.com).'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: document
+ext:
+  schema-version: v1.0.0
