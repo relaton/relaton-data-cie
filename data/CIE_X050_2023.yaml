@@ -1,30 +1,27 @@
 ---
 schema-version: v1.2.8
-id: CIEx050-2023Volume1Part1
+id: CIEx050-2023
 title:
-- content: Proceedings of the 30th Session of the CIE, Volume 1, Part 1, Ljubljana,
-    Slovenia, September 15
-  format: text/plain
-  type: title-intro
-- content: 23, 2023
+- content: Proceedings of the 30th Session of the CIE Ljubljana, Slovenia, September
+    15 – 23, 2023
   format: text/plain
   type: title-main
-- content: Proceedings of the 30th Session of the CIE, Volume 1, Part 1, Ljubljana,
-    Slovenia, September 15 - 23, 2023
+- content: Proceedings of the 30th Session of the CIE Ljubljana, Slovenia, September
+    15 – 23, 2023
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-x050-2023-volume-1-part-1?product_id=2579843
+- content: https://www.techstreet.com/cie/standards/cie-x050-2023?product_id=2579843
   type: src
 type: standard
 docid:
-- id: CIE x050:2023 Volume 1 Part 1
+- id: CIE x050:2023
   type: CIE
   primary: true
-docnumber: x050:2023 Volume 1 Part 1
+docnumber: x050:2023
 date:
 - type: published
-  value: '2023-09-15'
+  value: '2023-12-29'
 contributor:
 - organization:
     name:
@@ -34,7 +31,7 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2023-09-15'
+revdate: '2023-12-29'
 language:
 - en
 script:
