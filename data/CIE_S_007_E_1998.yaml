@@ -90,48 +90,6 @@ relation:
     revdate: '2019-05-01'
 - type: updates
   bibitem:
-    id: ISO17166*CIES007
-    title:
-    - content: Erythema reference action spectrum and standard erythema dose
-      format: text/plain
-      type: title-main
-    - content: Erythema reference action spectrum and standard erythema dose
-      format: text/plain
-      type: main
-    link:
-    - content: https://www.techstreet.com/cie/standards/iso-17166-cie-s-007?product_id=1098572
-      type: src
-    docid:
-    - id: ISO 17166*CIE S 007
-      type: CIE
-      primary: true
-    date:
-    - type: published
-      value: '1999-12-01'
-    revdate: '1999-12-01'
-- type: updates
-  bibitem:
-    id: ISO17166*CIES007-E
-    title:
-    - content: Erythema reference action spectrum and standard erythema dose
-      format: text/plain
-      type: title-main
-    - content: Erythema reference action spectrum and standard erythema dose
-      format: text/plain
-      type: main
-    link:
-    - content: https://www.techstreet.com/cie/standards/iso-17166-cie-s-007-e?product_id=1095387
-      type: src
-    docid:
-    - id: ISO 17166*CIE S 007/E
-      type: CIE
-      primary: true
-    date:
-    - type: published
-      value: '1999-12-01'
-    revdate: '1999-12-01'
-- type: updates
-  bibitem:
     id: ISO-CIE17166-1999
     title:
     - content: Erythema reference action spectrum and standard erythema dose
