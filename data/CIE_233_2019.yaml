@@ -1,0 +1,51 @@
+---
+schema-version: v1.2.8
+id: CIE233-2019
+title:
+- content: Calibration, Characterization and Use of Array Spectroradiometers
+  format: text/plain
+  type: title-main
+- content: Calibration, Characterization and Use of Array Spectroradiometers
+  format: text/plain
+  type: main
+link:
+- content: https://www.techstreet.com/cie/standards/cie-233-2019?product_id=2075193
+  type: src
+type: standard
+docid:
+- id: CIE 233:2019
+  type: CIE
+  primary: true
+- id: '9783902842756'
+  type: ISBN
+docnumber: 233:2019
+date:
+- type: published
+  value: '2019-06-01'
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+revdate: '2019-06-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+doctype:
+  type: document
+ext:
+  schema-version: v1.0.0
