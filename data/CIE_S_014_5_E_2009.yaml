@@ -66,6 +66,29 @@ abstract:
 relation:
 - type: updates
   bibitem:
+    id: CIEISO11664-5-2024
+    title:
+    - content: 'Colorimetry — Part 5: CIE 1976 L*u*v* colour space and u'', v'' uniform
+        chromaticity scale diagram'
+      format: text/plain
+      type: title-main
+    - content: 'Colorimetry — Part 5: CIE 1976 L*u*v* colour space and u'', v'' uniform
+        chromaticity scale diagram'
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.com/cie/standards/cie-iso-11664-5-2024?product_id=2906693
+      type: src
+    docid:
+    - id: CIE ISO 11664-5:2024
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2024-06-01'
+    revdate: '2024-06-01'
+- type: updates
+  bibitem:
     id: CIEISO11664-5-2016
     title:
     - content: Colorimetry
@@ -88,8 +111,8 @@ relation:
       primary: true
     date:
     - type: published
-      value: '2017-06-01'
-    revdate: '2017-06-01'
+      value: '2016-09-01'
+    revdate: '2016-09-01'
 - type: updates
   bibitem:
     id: CIES014-5-E-2009ISO11664-5-2009
