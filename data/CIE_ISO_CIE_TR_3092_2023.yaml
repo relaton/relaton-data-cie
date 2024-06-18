@@ -19,6 +19,9 @@ docid:
   type: CIE
   primary: true
 docnumber: ISO/CIE TR 3092:2023
+date:
+- type: published
+  value: '2023-01-01'
 contributor:
 - organization:
     name:
@@ -28,6 +31,7 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
+revdate: '2023-01-01'
 language:
 - en
 script:
