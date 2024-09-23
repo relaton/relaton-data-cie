@@ -25,6 +25,20 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
       surname:
         content: Tu
         language:
@@ -35,6 +49,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
       surname:
         content: Liu
         language:
@@ -45,6 +73,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
       surname:
         content: Huang
         language:

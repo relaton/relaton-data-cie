@@ -23,6 +23,14 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
       surname:
         content: Tan
         language:
@@ -33,6 +41,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
       surname:
         content: Leon
         language:
@@ -43,6 +65,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: N
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
       surname:
         content: Miller
         language:

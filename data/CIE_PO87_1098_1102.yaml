@@ -29,6 +29,20 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
       surname:
         content: Hsu
         language:
@@ -39,6 +53,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
       surname:
         content: Chen
         language:
@@ -49,6 +77,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
       surname:
         content: Hung
         language:

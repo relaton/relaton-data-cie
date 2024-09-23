@@ -33,6 +33,20 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: V
       surname:
         content: Nagy
         language:
@@ -43,6 +57,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
       surname:
         content: Gilman
         language:
@@ -53,6 +75,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
       surname:
         content: Ventura
         language:

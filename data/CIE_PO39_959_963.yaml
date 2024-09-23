@@ -29,6 +29,14 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
       surname:
         content: Kirsch
         language:
@@ -39,6 +47,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
       surname:
         content: Leifert
         language:

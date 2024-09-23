@@ -23,6 +23,14 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
       surname:
         content: Bertin
         language:
@@ -33,6 +41,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
       surname:
         content: Zissis
         language:
@@ -43,6 +59,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
       surname:
         content: Salas
         language:
@@ -53,6 +77,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
       surname:
         content: Raynham
         language:
@@ -63,6 +101,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
       surname:
         content: Moutsi
         language:
@@ -73,6 +119,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
       surname:
         content: Mucklejohn
         language:
@@ -83,6 +143,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
       surname:
         content: Preston
         language:

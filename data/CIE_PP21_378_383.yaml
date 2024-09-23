@@ -25,6 +25,20 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
       surname:
         content: Zhang
         language:
@@ -35,6 +49,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: Q
       surname:
         content: Yao
         language:
@@ -45,6 +67,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
       surname:
         content: Wang
         language:

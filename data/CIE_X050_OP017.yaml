@@ -1,31 +1,25 @@
 ---
 schema-version: v1.2.9
-id: CIEPO01806-814
+id: CIEx050-OP017
 title:
-- content: |-
-    COLOUR DISCRIMINATION MAY BE HUE AGNOSTIC: A PILOT STUDY
-
-      (PO01, 806-814)
+- content: LIGHTING HYGIENE, MELANOPIC DAYLIGHT EFFICACY RATIOS AND ENERGY EFFICIENCY
   format: text/plain
   type: title-main
-- content: |-
-    COLOUR DISCRIMINATION MAY BE HUE AGNOSTIC: A PILOT STUDY
-
-      (PO01, 806-814)
+- content: LIGHTING HYGIENE, MELANOPIC DAYLIGHT EFFICACY RATIOS AND ENERGY EFFICIENCY
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/colour-discrimination-may-be-hue-agnostic-a-pilot-study-po01-806-814?product_id=2010529
+- content: https://www.techstreet.com/cie/standards/cie-x050-op017?product_id=2578610
   type: src
 type: standard
 docid:
-- id: CIE PO01 806-814
+- id: CIE x050-OP017
   type: CIE
   primary: true
-docnumber: PO01 806-814
+docnumber: x050-OP017
 date:
 - type: published
-  value: '2017-10-23'
+  value: '2023-12-29'
 contributor:
 - person:
     name:
@@ -36,9 +30,27 @@ contributor:
           - en
           script:
           - Latn
-          initial: T
+          initial: L
       surname:
-        content: Esposito
+        content: Price
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+      surname:
+        content: Schlangen
         language:
         - en
         script:
@@ -53,7 +65,7 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
+revdate: '2023-12-29'
 language:
 - en
 script:

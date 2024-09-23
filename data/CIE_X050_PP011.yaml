@@ -23,6 +23,14 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
       surname:
         content: Hellwig
         language:
@@ -33,6 +41,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
       surname:
         content: Stolitzka
         language:
@@ -43,6 +59,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
       surname:
         content: Fairchild
         language:

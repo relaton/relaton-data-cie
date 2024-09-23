@@ -25,6 +25,14 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
       surname:
         content: Nilsson Tengelin
         language:
@@ -35,6 +43,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
       surname:
         content: Jägerbrand
         language:
@@ -45,6 +67,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
       surname:
         content: Andersson
         language:
@@ -55,6 +85,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
       surname:
         content: Källberg
         language:

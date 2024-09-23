@@ -25,6 +25,20 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: X
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: Y
       surname:
         content: Zhu
         language:
@@ -35,6 +49,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
       surname:
         content: Inoue
         language:
@@ -45,6 +67,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
       surname:
         content: Sato
         language:
@@ -55,6 +85,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: Y
       surname:
         content: Mizokami
         language:

@@ -25,6 +25,14 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
       surname:
         content: Nilsson Tengelin
         language:
@@ -35,6 +43,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: N
       surname:
         content: Mylly
         language:
@@ -45,6 +61,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: O
       surname:
         content: Hedekvist
         language:

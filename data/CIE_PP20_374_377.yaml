@@ -25,6 +25,20 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
       surname:
         content: Lee
         language:
@@ -35,6 +49,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
       surname:
         content: Park
         language:
@@ -45,6 +67,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
       surname:
         content: Yoo
         language:
@@ -55,6 +91,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
       surname:
         content: Hwang
         language:

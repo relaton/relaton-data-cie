@@ -37,9 +37,12 @@ language:
 script:
 - Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
+- content: |-
+    The purpose of this technical report is to summarise and review the literature concerned with the visual conspicuity of traffic signs in complex road environments and to make recommendations that will guide authorities in the design of traffic signs so that the signs will be noticed by drivers.
+
+    The report covers the topics of what is meant by visual conspicuity, how it has been measured and the factors that influence it. Recommendations are made, based on current knowledge, on what the traffic engineer can do to increase the conspicuity of road traffic signs during the day and at night-time.
+
+    This publication is written in English, with a short summary in French and German. It contains 40 pages.
   language:
   - en
   script:

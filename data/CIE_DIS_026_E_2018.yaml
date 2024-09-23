@@ -37,9 +37,13 @@ language:
 script:
 - Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
+- content: |-
+    This Draft International Standard defines spectral sensitivity functions, quantities and metrics to describe radiation for its ability to stimulate each of the five photoreceptor types that can contribute, via the melanopsin-containing intrinsically-photosensitive retinal ganglion cells (ipRGCs), to retina-mediated non-visual effects of light in humans. The document is applicable to visible optical radiation in the wavelength range from 380 nm to 780 nm. In addition, the document includes information concerning the effects of age and field of view (FOV) when quantifying retinal photoreceptor stimulation for ipRGC-influenced responses to light (IIL responses).
+
+    This Draft International Standard does not give complete information for particular lighting applications, or for the quantitative prediction of IIL responses.
+    The document is not intended for colorimetric contexts, nor does it address health or safety issues such as those resulting from light treatment, flicker or photobiological safety and only relates to retinal photoreception.
+
+    The Draft International Standard has been sent to CIE National Committees for comments and sales to interested parties. It is still subject to changes and may not yet be referred to as a CIE International Standard. When approved by the CIE NCs, it will be published as a CIE International Standard.
   language:
   - en
   script:

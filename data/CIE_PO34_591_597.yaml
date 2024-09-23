@@ -25,6 +25,20 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
       surname:
         content: Luo
         language:
@@ -35,6 +49,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
       surname:
         content: Chou
         language:
@@ -45,6 +73,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
       surname:
         content: Chen
         language:
@@ -55,6 +97,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
       surname:
         content: Luo
         language:

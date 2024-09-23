@@ -38,9 +38,27 @@ language:
 script:
 - Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
+- content: |-
+    The three-dimensional colour space produced by plotting CIE tristimulus values
+    (X,Y,Z) in rectangular coordinates is not visually uniform, nor is the (x,y,Y) space nor
+    the two-dimensional CIE (x,y) chromaticity diagram. Equal distances in these spaces
+    do not represent equally perceptible differences between colour stimuli. For this
+    reason, in 1976, the CIE introduced and recommended two new spaces (known as
+    CIELAB and CIELUV) whose coordinates are non-linear functions of X, Y and Z. The
+    recommendation was put forward in an attempt to unify the then very diverse practice
+    in uniform colour spaces and associated colour difference formulae. Both these
+    more-nearly uniform colour spaces have become well accepted and widely used.
+    Numerical values representing approximately the magnitude of colour differences
+    can be described by simple Euclidean distances in the spaces or by more
+    sophisticated formulae that improve the correlation with the perceived size of
+    differences.
+
+    The purpose of this CIE Standard is to define procedures for calculating the
+    coordinates of the CIE 1976 L*a*b* (CIELAB) colour space and the Euclidean colour
+    difference values based on these coordinates. The standard does not cover more
+    sophisticated colour difference formulae based on CIELAB, such as the CMC
+    formula, the CIE94 formula, the DIN99 formula, and the CIEDE2000 formula nor
+    does it cover the alternative uniform colour space, CIELUV.
   language:
   - en
   script:

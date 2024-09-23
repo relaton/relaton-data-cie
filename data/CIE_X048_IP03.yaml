@@ -25,6 +25,20 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
       surname:
         content: Jägerbrand
         language:
@@ -35,6 +49,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
       surname:
         content: Bouroussis
         language:

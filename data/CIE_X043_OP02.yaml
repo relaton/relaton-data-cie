@@ -23,6 +23,14 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
       surname:
         content: Hermans
         language:
@@ -33,6 +41,26 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
       surname:
         content: Smet
         language:
@@ -43,6 +71,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
       surname:
         content: Hanselaer
         language:

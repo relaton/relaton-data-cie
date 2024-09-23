@@ -37,9 +37,19 @@ language:
 script:
 - Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
+- content: |-
+    This Technical Report outlines procedures for determining the spectral responsivity function of photodetectors. It contains two parts:
+
+       1. Determination of the relative spectral responsivity function
+
+          Various methods are presented and instrumental details are discussed. Sources of errors are listed together with diagnostic tests and proposals for remedial action.
+       2. Absolute calibration
+
+          Three different methods are presented for transforming relative spectral data into absolute values.
+
+    The report is intended to serve as a guide in assembling, testing, or modifying new or existing instruments. Its purpose is to describe options in the development of instrumentation, not to present solutions for individual cases.
+
+    The report consists of 73 pages and 10 figures.
   language:
   - en
   script:

@@ -23,6 +23,26 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
       surname:
         content: Smet
         language:
@@ -33,6 +53,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: Q
       surname:
         content: Zhai
         language:
@@ -43,6 +71,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
       surname:
         content: Luo
         language:
@@ -53,6 +95,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
       surname:
         content: Hanselaer
         language:

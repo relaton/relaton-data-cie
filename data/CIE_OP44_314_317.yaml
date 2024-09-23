@@ -27,6 +27,20 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
       surname:
         content: Wu
         language:
@@ -37,6 +51,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: Y
       surname:
         content: Tseng
         language:
@@ -47,6 +75,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: Y
       surname:
         content: Chen
         language:
@@ -57,6 +99,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
       surname:
         content: Luo
         language:
@@ -67,6 +117,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
       surname:
         content: Lin
         language:

@@ -27,6 +27,20 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
       surname:
         content: Or
         language:
@@ -37,6 +51,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
       surname:
         content: Unver
         language:

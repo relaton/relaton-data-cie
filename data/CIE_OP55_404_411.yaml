@@ -29,6 +29,20 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: Q
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
       surname:
         content: Hu
         language:
@@ -39,6 +53,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: X
       surname:
         content: Mou
         language:
@@ -49,6 +71,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
       surname:
         content: Ye
         language:
@@ -59,6 +89,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
       surname:
         content: Mou
         language:

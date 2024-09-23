@@ -25,6 +25,20 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
       surname:
         content: Revantino Mangkuto
         language:
@@ -35,6 +49,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
       surname:
         content: Enge
         language:
@@ -45,6 +67,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
       surname:
         content: Munir
         language:
@@ -55,6 +85,26 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: X
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: N
       surname:
         content: Soelami
         language:

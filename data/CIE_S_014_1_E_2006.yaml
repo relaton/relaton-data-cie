@@ -37,9 +37,34 @@ language:
 script:
 - Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
+- content: |-
+    This CIE Standard replaces ISO/CIE 10527:1991. This Standard contains only minor
+    changes from the previous Standard, it has now been clarified that the values of the
+    colour matching functions apply for standard air to make the Standard conform to
+    other CIE photometric and colorimetric data.
+    Colours with different spectral compositions can look alike. An important
+    function of colorimetry is to determine whether a pair of such metameric colours will
+    look alike. It has long been the practice in colorimetry to make use of sets of colourmatching
+    functions to calculate tristimulus values for colours: equality of tristimulus
+    values for a pair of colours indicates that the colour appearances of the two colours
+    match, when they are viewed in the same conditions by an observer for whom the
+    colour-matching functions apply. The use of standard sets of colour-matching
+    functions makes the comparison of tristimulus values obtained at different times and
+    locations possible.
+    This International Standard specifies colour-matching functions for use in
+    colorimetry. Two sets of colour-matching functions are specified:
+    Colour-matching functions for the CIE 1931 standard colorimetric observer
+    This set of colour-matching functions is representative of the colour-matching
+    properties of observers with normal colour vision for visual field sizes of angular
+    subtense from about 1° to about 4°, for vision at photopic levels of adaptation.
+    Colour-matching functions for the CIE 1964 supplementary standard colorimetric
+    observer.
+    This set of colour-matching functions is representative of the colour-matching
+    properties of observers with normal colour vision for visual field sizes of angular
+    subtense greater than about 4°, for vision at sufficiently high photopic levels
+    and with spectral power distributions such that no participation of the rod
+    receptors of the retina is to be expected. The values in the tables of the colour matching functions and chromaticity coordinates of the CIE 1931 and 1964 standard colorimetric observers are identical
+    with those in the previous standard.
   language:
   - en
   script:

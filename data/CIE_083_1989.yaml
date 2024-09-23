@@ -41,9 +41,25 @@ language:
 script:
 - Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
+- content: |-
+    The present Guide is an extended and revised edition of CIE 28-1975 The lighting of sports events for colour TV broadcasting.
+
+    The recording, transmission and reproduction of sporting action has expanded rapidly in recent years. The number of different sports covered has increased and indeed many sports have increased in popularity as a result of TV exposure. To a greater extent, also, television and film are operating under artificial lighting: outdoor sports are being played in the evenings under floodlights and more indoor sports are attracting the attention of television.
+
+    The electronic television camera and associated video recording is now the principal medium of the cameraman. This report therefore, concentrates on the lighting requirements for colour television, but indicates where these requirements will differ for film recordings. The aim of this report is to give a broad survey of the technical characteristics of the television and film reproduction process and explain why different lighting levels are needed for different sports and for different camera situations.
+
+    Detailed quantitative guidance is given on the quality aspects to be fulfilled for colour television and colour film coverage of a wide variety of sports events. The quality aspects dealt with are:
+
+        * vertical illuminance level and uniformity,
+        * relation between horizontal and vertical illuminance,
+        * uniformity of horizontal illuminance,
+        * flicker,
+        * colour temperature and colour rendering of the lighting and finally
+        * light level on the surrounding spectators areas.
+
+    As an addition to the present Guide, TC 5-11 is preparing a Technical Report giving a comprehensive guide to the lay-out of sports lighting installations that fulfill the quality requirements specified in the present Publication.
+
+    The present Guide contains 19 pages, 3 figures and 2 tables.
   language:
   - en
   script:

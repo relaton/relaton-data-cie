@@ -25,6 +25,26 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
       surname:
         content: Yang
         language:
@@ -35,6 +55,26 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
       surname:
         content: Lam
         language:
@@ -45,6 +85,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: Y
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
       surname:
         content: Chau
         language:

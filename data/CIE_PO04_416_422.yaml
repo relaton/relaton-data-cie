@@ -23,6 +23,20 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
       surname:
         content: Zhao
         language:
@@ -33,6 +47,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: Q
       surname:
         content: Yao
         language:

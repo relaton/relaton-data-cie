@@ -37,9 +37,18 @@ language:
 script:
 - Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
+- content: |-
+    This report provides information necessary for the understanding of future standards for the light-technical properties of road markings. It contains five chapters:
+
+       1. Principles of information transfer and optical guidance of traffic by road markings. Road markings must satisfy functional requirements, especially with regard to their light-technical properties.
+       2. Requirements for road markings and raised pavement markers for day and night-time driving. A detailed mathematical treatment is given which deals with the distances from which road markings are visible.
+       3. Importance of glass beads for night time visibility and their application in road markings. The behavior of beaded paints under traffic wear is discussed.
+       4. Products and materials used for markings, including center and edge lines. The influence of the road surface and its temperature changes on daytime visibility is described.
+       5. Photometry and colorimetry of road markings.
+
+    Various terms are defined, and methods of laboratory and field measurements are described. Two commonly used measurement geometries are described, and a mathematical transformation between the angular coordinates systems of road lighting and retroreflection is given. It is shown that most retroreflectometers used today are working with simplified geometries that do not allow direct conclusions about real parameters. New portable reflectometers for satisfactory measurements on profiled road markings are needed. Also needed are instruments for measuring daytime visibility of road markings under diffuse illumination and grazing direction of observation.
+
+    The publication contains 60 pages, 27 figures and 8 tables.
   language:
   - en
   script:

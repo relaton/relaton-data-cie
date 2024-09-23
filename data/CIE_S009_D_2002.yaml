@@ -35,9 +35,12 @@ language:
 script:
 - Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
+- content: |-
+    Lamps were developed and produced in large quantities and became commonplace in an era when industry-wide safety standards were not the norm. The evaluation and control of optical radiation hazards from lamps and lamp systems is a far more complicated subject than similar tasks for a single-wavelength laser system. The required radiometric measurements are quite involved, for they do not deal with the simple optics of a point source, but rather with an extended source that may or may not be altered by diffusers or projection optics. Also the wavelength distribution of the lamp may be altered by ancillary optical elements, diffusers, lenses, and the like, as well as variations in operating conditions.
+
+    To evaluate a broad-band optical source, such as an arc lamp, an incandescent lamp, a fluorescent lamp, an array of lamps or a lamp system, it is first necessary to determine the spectral distribution of optical radiation emitted from the source at the point or points of nearest human access. This accessible emission spectral distribution of interest for a lighting system may differ from that actually being emitted by the lamp alone due to the filtration by any optical elements (e.g., projection optics) in the light path. Secondly, the size, or projected size, of the source must be characterized in the retinal hazard spectral region. Thirdly, it may be necessary to determine the variation of irradiance and effective radiance with distance. The performance of the necessary measurements is normally not an easy task without sophisticated instruments. Thus it was decided to include reference measurement techniques for lamps and lamp systems in this standard. The measurement techniques along with the described risk group classification scheme will provide common ground for both lamp manufacturers and users to define the specific photobiological hazards of any given lamp and/or lamp system.
+
+    Finally, there are well known optical radiation hazards associated with some lamps and lamp systems. The purpose of this standard is to provide a standardized technique for evaluation of potential radiation hazards that may be associated with various lamps and lamp systems.
   language:
   - en
   script:

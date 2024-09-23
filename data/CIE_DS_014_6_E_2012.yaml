@@ -38,9 +38,14 @@ language:
 script:
 - Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
+- content: |-
+    The three-dimensional colour space produced by plotting CIE tristimulus values (X, Y,Z) in rectangular coordinates is not visually uniform, nor is the (x, y, Y) space nor the two-dimensional CIE (x, y) chromaticity diagram. Equal distances in these spaces and diagrams do not represent equally perceptible differences between colour stimuli. For this reason the CIE has standardized two more-nearly uniform colour spaces (known as CIELAB and CIELUV) whose coordinates are non-linear functions of X, Y and Z. Numerical values representing approximately the relative magnitude of colour differences can be described by simple Euclidean distances in these spaces or by more sophisticated colour-difference formulae that improve the correlation with the relative perceived size of differences. The purpose of this CIE Draft Standard is to define one such formula, the CIEDE2000 formula. The Draft Standard is based on CIE Technical Report 142-2001.
+
+    The formula is an extension of the CIE 1976 L∗a∗b∗ colour-difference formula (ISO 11664-4:2008(E)/CIE S 014-4/E:2007) with corrections for variation in colour-difference perception dependent on lightness, chroma, hue and chroma-hue interaction. Reference conditions define material and viewing environment characteristics to which the formula applies.
+
+    The Draft Standard is applicable to input values of CIELAB L∗ , a∗ , b∗  coordinates calculated according to ISO 11664-4:2008(E)/CIE S 014-4/E:2007. The Draft Standard may be used for the specification of the colour difference between two colour stimuli perceived as belonging to reflecting or transmitting objects. This includes displays, if they are being used to simulate reflecting or transmitting objects and if the tristimulus values representing the stimuli are appropriately normalized. The Draft Standard does not apply to colour stimuli perceived as belonging to areas that appear to be emitting light as primary light sources, or that appear to be specularly reflecting such light.
+
+    The Draft Standard has been sent to CIE National Committees for comments and sales to interested parties. It is still subject to changes and may not yet be referred to as a CIE Standard. When approved by the CIE NCs, it will be published as a CIE Standard and later on as a joint ISO/CIE Standard.
   language:
   - en
   script:

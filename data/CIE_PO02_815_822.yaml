@@ -29,6 +29,20 @@ date:
 contributor:
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: Q
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
       surname:
         content: Vinh
         language:
@@ -39,6 +53,14 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
       surname:
         content: Bodrogi
         language:
@@ -49,6 +71,20 @@ contributor:
   - type: author
 - person:
     name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: Q
       surname:
         content: Khanh
         language:

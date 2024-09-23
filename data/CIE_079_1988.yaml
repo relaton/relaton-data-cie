@@ -37,9 +37,46 @@ language:
 script:
 - Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
+- content: |-
+    This document, drafted in collaboration with the Permanent International Association of Road Congresses (PIARC) is a Guide concerned with photometric and colorimetric matters that are related to the design of road traffic lights. Its main purpose is to provide a basis for relevant national standards and codes of practice, but it should also be of direct use to road traffic authorities and manufacturers of the lights. It is derived from the Technical Report CIE 48-1980 (TC-1.6) Light Signals for Road Traffic Control, which contains the experimental evidence on which the Guide is based. The guide has taken account of more recent findings, but essentially it is supplement to CIE 48-1980.
+
+    The visibility of a signal light depends on many factors, the most important of which are the colour, luminous intensity and luminous intensity distribution of the light. The Guide deals with these factors as well as with various symbols and "cut-out" figures that are used with traffic lights.
+
+    The information given in the Guide is classified at four levels of confidence, which depend upon supporting research or practical experience. These levels are called:
+
+        * Recommendations
+        * Proposals
+        * Advice
+        * Suggestions
+
+    The Guide contains detailed information regarding the colour for traffic lights.
+
+    Current CIE practice is followed, although in some cases restricted chromaticity regions are recommended.
+
+    Details are given in the luminous intensities and the luminous intensity distributions. In most cases, day and night regimes will be required. Additionally, data regarding luminance and uniformity of luminance are given. Remarks are made regarding sun phantom, measurement of lights, screening of lights, the influence of disturbing factors and the standardization of appearance.
+
+    The Guide contains information on a number of particular lights, lights on high speed roads, the size and shape of arrows and their symbols, notably for lights for cyclists and pedestrians, low mounted lights, lane indicators, general warning lights, lights for special purposes, and optically programmed lights.
+
+    The publication contains 23 pages, 4 figures and 3 tables. This document, drafted in collaboration with the Permanent International Association of Road Congresses (PIARC) is a Guide concerned with photometric and colorimetric matters that are related to the design of road traffic lights. Its main purpose is to provide a basis for relevant national standards and codes of practice, but it should also be of direct use to road traffic authorities and manufacturers of the lights. It is derived from the Technical Report CIE 48-1980 (TC-1.6) Light Signals for Road Traffic Control, which contains the experimental evidence on which the Guide is based. The guide has taken account of more recent findings, but essentially it is supplement to CIE 48-1980.
+
+    The visibility of a signal light depends on many factors, the most important of which are the colour, luminous intensity and luminous intensity distribution of the light. The Guide deals with these factors as well as with various symbols and "cut-out" figures that are used with traffic lights.
+
+    The information given in the Guide is classified at four levels of confidence, which depend upon supporting research or practical experience. These levels are called:
+
+        * Recommendations
+        * Proposals
+        * Advice
+        * Suggestions
+
+    The Guide contains detailed information regarding the colour for traffic lights.
+
+    Current CIE practice is followed, although in some cases restricted chromaticity regions are recommended.
+
+    Details are given in the luminous intensities and the luminous intensity distributions. In most cases, day and night regimes will be required. Additionally, data regarding luminance and uniformity of luminance are given. Remarks are made regarding sun phantom, measurement of lights, screening of lights, the influence of disturbing factors and the standardization of appearance.
+
+    The Guide contains information on a number of particular lights, lights on high speed roads, the size and shape of arrows and their symbols, notably for lights for cyclists and pedestrians, low mounted lights, lane indicators, general warning lights, lights for special purposes, and optically programmed lights.
+
+    The publication contains 23 pages, 4 figures and 3 tables.
   language:
   - en
   script:
