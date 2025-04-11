@@ -2,30 +2,23 @@
 schema-version: v1.2.9
 id: CIE139-2001
 title:
-- content: The influence of daylight and artificial light variations in humans
-  format: text/plain
-  type: title-intro
-- content: a bibliography
+- content: The Influence of Daylight and Artificial Light on Diurnal and Seasonal
+    Variations in Humans. A Bibliography
   format: text/plain
   type: title-main
-- content: The influence of daylight and artificial light variations in humans - a
-    bibliography
+- content: The Influence of Daylight and Artificial Light on Diurnal and Seasonal
+    Variations in Humans. A Bibliography
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-139-2001?product_id=1210057
+- content: https://store.accuristech.com/standards/cie-139-2001?product_id=1210057
   type: src
 type: standard
 docid:
 - id: CIE 139-2001
   type: CIE
   primary: true
-- id: '9783901906046'
-  type: ISBN
 docnumber: 139-2001
-date:
-- type: published
-  value: '2001-01-01'
 contributor:
 - organization:
     name:
@@ -35,7 +28,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2001-01-01'
 language:
 - en
 script:
@@ -49,7 +41,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

@@ -9,19 +9,14 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-127-2007?product_id=1371545
+- content: https://store.accuristech.com/standards/cie-127-2007?product_id=1371545
   type: src
 type: standard
 docid:
-- id: CIE 127-2007
+- id: CIE 127:2007
   type: CIE
   primary: true
-- id: '9783901906589'
-  type: ISBN
-docnumber: 127-2007
-date:
-- type: published
-  value: '2007-03-01'
+docnumber: 127:2007
 contributor:
 - organization:
     name:
@@ -31,7 +26,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2007-03-01'
 language:
 - en
 script:
@@ -45,7 +39,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

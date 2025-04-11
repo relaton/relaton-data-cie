@@ -1,4 +1,18 @@
 ---
+- :id: CIE ISO 8995-1:2025
+  :file: data/CIE_ISO_8995_1_2025.yaml
+- :id: CIE 255:2025
+  :file: data/CIE_255_2025.yaml
+- :id: CIE ISO 10916:2024
+  :file: data/CIE_ISO_10916_2024.yaml
+- :id: CIE 253:2024
+  :file: data/CIE_253_2024.yaml
+- :id: CIE S 027/E:2024
+  :file: data/CIE_S_027_E_2024.yaml
+- :id: CIE ISO 23603:2024
+  :file: data/CIE_ISO_23603_2024.yaml
+- :id: CIE ISO 28077:2024
+  :file: data/CIE_ISO_28077_2024.yaml
 - :id: CIE 254:2024
   :file: data/CIE_254_2024.yaml
 - :id: CIE ISO 11664-5:2024
@@ -455,6 +469,10 @@
   :file: data/CIE_251_2023.yaml
 - :id: CIE ISO TR 21783:2022
   :file: data/CIE_ISO_TR_21783_2022.yaml
+- :id: CIE ISO 11664-2:2022
+  :file: data/CIE_ISO_11664_2_2022.yaml
+- :id: CIE ISO 11664-6:2022
+  :file: data/CIE_ISO_11664_6_2022.yaml
 - :id: CIE x049:2022
   :file: data/CIE_X049_2022.yaml
 - :id: CIE x049-P07
@@ -491,52 +509,6 @@
   :file: data/CIE_X048_2021.yaml
 - :id: CIE x048-PO43
   :file: data/CIE_X048_PO43.yaml
-- :id: CIE x048-OP63
-  :file: data/CIE_X048_OP63.yaml
-- :id: CIE x048-PO38
-  :file: data/CIE_X048_PO38.yaml
-- :id: CIE x048-PO39
-  :file: data/CIE_X048_PO39.yaml
-- :id: CIE x048-PO63
-  :file: data/CIE_X048_PO63.yaml
-- :id: CIE x048-OP57
-  :file: data/CIE_X048_OP57.yaml
-- :id: CIE x048-OP42
-  :file: data/CIE_X048_OP42.yaml
-- :id: CIE x048-PO05
-  :file: data/CIE_X048_PO05.yaml
-- :id: CIE x048-PO50
-  :file: data/CIE_X048_PO50.yaml
-- :id: CIE x048-OP46
-  :file: data/CIE_X048_OP46.yaml
-- :id: CIE x048-OP56
-  :file: data/CIE_X048_OP56.yaml
-- :id: CIE x048-PO55
-  :file: data/CIE_X048_PO55.yaml
-- :id: CIE x048-WP02
-  :file: data/CIE_X048_WP02.yaml
-- :id: CIE x048-PO36
-  :file: data/CIE_X048_PO36.yaml
-- :id: CIE x048-OP61
-  :file: data/CIE_X048_OP61.yaml
-- :id: CIE x048-PO45
-  :file: data/CIE_X048_PO45.yaml
-- :id: CIE x048-PO04
-  :file: data/CIE_X048_PO04.yaml
-- :id: CIE x048-OP45
-  :file: data/CIE_X048_OP45.yaml
-- :id: CIE x048-OP47
-  :file: data/CIE_X048_OP47.yaml
-- :id: CIE x048-PO67
-  :file: data/CIE_X048_PO67.yaml
-- :id: CIE x048-PO51
-  :file: data/CIE_X048_PO51.yaml
-- :id: CIE x048-PO28
-  :file: data/CIE_X048_PO28.yaml
-- :id: CIE x048-OP58
-  :file: data/CIE_X048_OP58.yaml
-- :id: CIE x048-OP43
-  :file: data/CIE_X048_OP43.yaml
 - :id: CIE x048-OP30
   :file: data/CIE_X048_OP30.yaml
 - :id: CIE x048-OP31
@@ -553,8 +525,18 @@
   :file: data/CIE_X048_OP37.yaml
 - :id: CIE x048-OP40
   :file: data/CIE_X048_OP40.yaml
+- :id: CIE x048-OP42
+  :file: data/CIE_X048_OP42.yaml
+- :id: CIE x048-OP43
+  :file: data/CIE_X048_OP43.yaml
 - :id: CIE x048-OP44
   :file: data/CIE_X048_OP44.yaml
+- :id: CIE x048-OP45
+  :file: data/CIE_X048_OP45.yaml
+- :id: CIE x048-OP46
+  :file: data/CIE_X048_OP46.yaml
+- :id: CIE x048-OP47
+  :file: data/CIE_X048_OP47.yaml
 - :id: CIE x048-OP48
   :file: data/CIE_X048_OP48.yaml
 - :id: CIE x048-OP49
@@ -571,18 +553,32 @@
   :file: data/CIE_X048_OP54.yaml
 - :id: CIE x048-OP55
   :file: data/CIE_X048_OP55.yaml
+- :id: CIE x048-OP56
+  :file: data/CIE_X048_OP56.yaml
+- :id: CIE x048-OP57
+  :file: data/CIE_X048_OP57.yaml
+- :id: CIE x048-OP58
+  :file: data/CIE_X048_OP58.yaml
 - :id: CIE x048-OP59
   :file: data/CIE_X048_OP59.yaml
 - :id: CIE x048-OP60
   :file: data/CIE_X048_OP60.yaml
+- :id: CIE x048-OP61
+  :file: data/CIE_X048_OP61.yaml
 - :id: CIE x048-OP62
   :file: data/CIE_X048_OP62.yaml
+- :id: CIE x048-OP63
+  :file: data/CIE_X048_OP63.yaml
 - :id: CIE x048-OP64
   :file: data/CIE_X048_OP64.yaml
 - :id: CIE x048-OP65
   :file: data/CIE_X048_OP65.yaml
 - :id: CIE x048-PO03
   :file: data/CIE_X048_PO03.yaml
+- :id: CIE x048-PO04
+  :file: data/CIE_X048_PO04.yaml
+- :id: CIE x048-PO05
+  :file: data/CIE_X048_PO05.yaml
 - :id: CIE x048-PO08
   :file: data/CIE_X048_PO08.yaml
 - :id: CIE x048-PO09
@@ -603,6 +599,8 @@
   :file: data/CIE_X048_PO20.yaml
 - :id: CIE x048-PO21
   :file: data/CIE_X048_PO21.yaml
+- :id: CIE x048-PO28
+  :file: data/CIE_X048_PO28.yaml
 - :id: CIE x048-PO29
   :file: data/CIE_X048_PO29.yaml
 - :id: CIE x048-PO30
@@ -611,8 +609,14 @@
   :file: data/CIE_X048_PO32.yaml
 - :id: CIE x048-PO34
   :file: data/CIE_X048_PO34.yaml
+- :id: CIE x048-PO36
+  :file: data/CIE_X048_PO36.yaml
 - :id: CIE x048-PO37
   :file: data/CIE_X048_PO37.yaml
+- :id: CIE x048-PO38
+  :file: data/CIE_X048_PO38.yaml
+- :id: CIE x048-PO39
+  :file: data/CIE_X048_PO39.yaml
 - :id: CIE x048-PO40
   :file: data/CIE_X048_PO40.yaml
 - :id: CIE x048-PO41
@@ -621,6 +625,8 @@
   :file: data/CIE_X048_PO42.yaml
 - :id: CIE x048-PO44
   :file: data/CIE_X048_PO44.yaml
+- :id: CIE x048-PO45
+  :file: data/CIE_X048_PO45.yaml
 - :id: CIE x048-PO46
   :file: data/CIE_X048_PO46.yaml
 - :id: CIE x048-PO47
@@ -629,8 +635,14 @@
   :file: data/CIE_X048_PO48.yaml
 - :id: CIE x048-PO49
   :file: data/CIE_X048_PO49.yaml
+- :id: CIE x048-PO50
+  :file: data/CIE_X048_PO50.yaml
+- :id: CIE x048-PO51
+  :file: data/CIE_X048_PO51.yaml
 - :id: CIE x048-PO53
   :file: data/CIE_X048_PO53.yaml
+- :id: CIE x048-PO55
+  :file: data/CIE_X048_PO55.yaml
 - :id: CIE x048-PO56
   :file: data/CIE_X048_PO56.yaml
 - :id: CIE x048-PO57
@@ -639,60 +651,66 @@
   :file: data/CIE_X048_PO59.yaml
 - :id: CIE x048-PO60
   :file: data/CIE_X048_PO60.yaml
+- :id: CIE x048-PO63
+  :file: data/CIE_X048_PO63.yaml
 - :id: CIE x048-PO64
   :file: data/CIE_X048_PO64.yaml
 - :id: CIE x048-PO65
   :file: data/CIE_X048_PO65.yaml
+- :id: CIE x048-PO67
+  :file: data/CIE_X048_PO67.yaml
 - :id: CIE x048-WP01
   :file: data/CIE_X048_WP01.yaml
+- :id: CIE x048-WP02
+  :file: data/CIE_X048_WP02.yaml
 - :id: CIE x048-WP03
   :file: data/CIE_X048_WP03.yaml
-- :id: CIE x048-OP01
-  :file: data/CIE_X048_OP01.yaml
-- :id: CIE x048-OP13
-  :file: data/CIE_X048_OP13.yaml
-- :id: CIE x048-OP02
-  :file: data/CIE_X048_OP02.yaml
-- :id: CIE x048-OP20
-  :file: data/CIE_X048_OP20.yaml
-- :id: CIE x048-OP08
-  :file: data/CIE_X048_OP08.yaml
-- :id: CIE x048-OP04
-  :file: data/CIE_X048_OP04.yaml
-- :id: CIE x048-OP15
-  :file: data/CIE_X048_OP15.yaml
-- :id: CIE x048-OP11
-  :file: data/CIE_X048_OP11.yaml
-- :id: CIE x048-OP12
-  :file: data/CIE_X048_OP12.yaml
-- :id: CIE x048-OP24
-  :file: data/CIE_X048_OP24.yaml
-- :id: CIE x048-OP21
-  :file: data/CIE_X048_OP21.yaml
-- :id: CIE x048-OP03
-  :file: data/CIE_X048_OP03.yaml
 - :id: CIE x048-IP03
   :file: data/CIE_X048_IP03.yaml
+- :id: CIE x048-OP01
+  :file: data/CIE_X048_OP01.yaml
+- :id: CIE x048-OP02
+  :file: data/CIE_X048_OP02.yaml
+- :id: CIE x048-OP03
+  :file: data/CIE_X048_OP03.yaml
+- :id: CIE x048-OP04
+  :file: data/CIE_X048_OP04.yaml
 - :id: CIE x048-OP05
   :file: data/CIE_X048_OP05.yaml
 - :id: CIE x048-OP06
   :file: data/CIE_X048_OP06.yaml
-- :id: CIE x048-OP10
-  :file: data/CIE_X048_OP10.yaml
 - :id: CIE x048-OP07
   :file: data/CIE_X048_OP07.yaml
+- :id: CIE x048-OP08
+  :file: data/CIE_X048_OP08.yaml
+- :id: CIE x048-OP10
+  :file: data/CIE_X048_OP10.yaml
+- :id: CIE x048-OP11
+  :file: data/CIE_X048_OP11.yaml
+- :id: CIE x048-OP12
+  :file: data/CIE_X048_OP12.yaml
+- :id: CIE x048-OP13
+  :file: data/CIE_X048_OP13.yaml
 - :id: CIE x048-OP14
   :file: data/CIE_X048_OP14.yaml
+- :id: CIE x048-OP15
+  :file: data/CIE_X048_OP15.yaml
 - :id: CIE x048-OP16
   :file: data/CIE_X048_OP16.yaml
 - :id: CIE x048-OP17
   :file: data/CIE_X048_OP17.yaml
 - :id: CIE x048-OP18
   :file: data/CIE_X048_OP18.yaml
+- :id: CIE x048-OP20
+  :file: data/CIE_X048_OP20.yaml
+- :id: CIE x048-OP21
+  :file: data/CIE_X048_OP21.yaml
 - :id: CIE x048-OP22
   :file: data/CIE_X048_OP22.yaml
 - :id: CIE x048-OP23
   :file: data/CIE_X048_OP23.yaml
+- :id: CIE x048-OP24
+  :file: data/CIE_X048_OP24.yaml
 - :id: CIE x048-OP25
   :file: data/CIE_X048_OP25.yaml
 - :id: CIE x048-OP26
@@ -739,6 +757,20 @@
   :file: data/CIE_235_2019.yaml
 - :id: CIE 234:2019
   :file: data/CIE_234_2019.yaml
+- :id: CIE ISO 11664-4:2019
+  :file: data/CIE_ISO_11664_4_2019.yaml
+- :id: CIE ISO 11664-3:2019
+  :file: data/CIE_ISO_11664_3_2019.yaml
+- :id: CIE ISO 11664-1:2019
+  :file: data/CIE_ISO_11664_1_2019.yaml
+- :id: CIE ISO 8995-3:2018
+  :file: data/CIE_ISO_8995_3_2018.yaml
+- :id: CIE ISO TS 22012:2019
+  :file: data/CIE_ISO_TS_22012_2019.yaml
+- :id: CIE ISO 20086:2019
+  :file: data/CIE_ISO_20086_2019.yaml
+- :id: CIE ISO 17166:2019
+  :file: data/CIE_ISO_17166_2019.yaml
 - :id: CIE DIS 025-SP1/E:2019
   :file: data/CIE_DIS_025_SP1_E_2019.yaml
 - :id: CIE 233:2019
@@ -753,8 +785,8 @@
   :file: data/CIE_140_2019.yaml
 - :id: CIE 230:2019
   :file: data/CIE_230_2019.yaml
-- :id: CIE S 026/E:2018
-  :file: data/CIE_S_026_E_2018.yaml
+- :id: CIE S 026:2018
+  :file: data/CIE_S_026_2018.yaml
 - :id: CIE 015:2018
   :file: data/CIE_015_2018.yaml
 - :id: CIE DIS 026/E:2018
@@ -1229,34 +1261,34 @@
   :file: data/CIE_OP16_113_116.yaml
 - :id: CIE OP15 105-112
   :file: data/CIE_OP15_105_112.yaml
-- :id: CIE x044-OP14
-  :file: data/CIE_X044_OP14.yaml
-- :id: CIE x044-OP13
-  :file: data/CIE_X044_OP13.yaml
-- :id: CIE x044-OP12
-  :file: data/CIE_X044_OP12.yaml
-- :id: CIE x044-OP11
-  :file: data/CIE_X044_OP11.yaml
-- :id: CIE x044-OP10
-  :file: data/CIE_X044_OP10.yaml
-- :id: CIE x044-OP07
-  :file: data/CIE_X044_OP07.yaml
-- :id: CIE x044-OP06
-  :file: data/CIE_X044_OP06.yaml
-- :id: CIE x044-OP05
-  :file: data/CIE_X044_OP05.yaml
-- :id: CIE x044-OP04
-  :file: data/CIE_X044_OP04.yaml
-- :id: CIE x044-OP03
-  :file: data/CIE_X044_OP03.yaml
-- :id: CIE x044-OP02
-  :file: data/CIE_X044_OP02.yaml
-- :id: CIE x044-OP01
-  :file: data/CIE_X044_OP01.yaml
+- :id: CIE OP14 100-104
+  :file: data/CIE_OP14_100_104.yaml
+- :id: CIE OP13 94-99
+  :file: data/CIE_OP13_94_99.yaml
+- :id: CIE OP12 83-93
+  :file: data/CIE_OP12_83_93.yaml
+- :id: CIE OP11 79-82
+  :file: data/CIE_OP11_79_82.yaml
+- :id: CIE OP10 73-78
+  :file: data/CIE_OP10_73_78.yaml
+- :id: CIE OP07 63-72
+  :file: data/CIE_OP07_63_72.yaml
+- :id: CIE OP06 53-62
+  :file: data/CIE_OP06_53_62.yaml
+- :id: CIE OP05 47-52
+  :file: data/CIE_OP05_47_52.yaml
+- :id: CIE OP04 38-46
+  :file: data/CIE_OP04_38_46.yaml
+- :id: CIE OP03 32-37
+  :file: data/CIE_OP03_32_37.yaml
+- :id: CIE OP02 Pages 25-31
+  :file: data/CIE_OP02_PAGES_25_31.yaml
+- :id: CIE OP01 Pages 17-24
+  :file: data/CIE_OP01_PAGES_17_24.yaml
 - :id: CIE IP04 10-16
   :file: data/CIE_IP04_10_16.yaml
-- :id: CIE x044-IP01
-  :file: data/CIE_X044_IP01.yaml
+- :id: CIE IP01 Pages 1-9
+  :file: data/CIE_IP01_PAGES_1_9.yaml
 - :id: CIE 228:2018
   :file: data/CIE_228_2018.yaml
 - :id: CIE x044:2017
@@ -1279,136 +1311,134 @@
   :file: data/CIE_223_2017.yaml
 - :id: CIE 222:2017
   :file: data/CIE_222_2017.yaml
-- :id: CIE x043-PO54
-  :file: data/CIE_X043_PO54.yaml
-- :id: CIE x043-PO53
-  :file: data/CIE_X043_PO53.yaml
-- :id: CIE x043-PO50
-  :file: data/CIE_X043_PO50.yaml
-- :id: CIE x043-PO49
-  :file: data/CIE_X043_PO49.yaml
-- :id: CIE x043-PO48
-  :file: data/CIE_X043_PO48.yaml
-- :id: CIE x043-PO47
-  :file: data/CIE_X043_PO47.yaml
-- :id: CIE x043-PO46
-  :file: data/CIE_X043_PO46.yaml
-- :id: CIE x043-PO45
-  :file: data/CIE_X043_PO45.yaml
-- :id: CIE x043-PO44
-  :file: data/CIE_X043_PO44.yaml
-- :id: CIE x043-PO43
-  :file: data/CIE_X043_PO43.yaml
-- :id: CIE x043-PO42
-  :file: data/CIE_X043_PO42.yaml
-- :id: CIE x043-PO41
-  :file: data/CIE_X043_PO41.yaml
-- :id: CIE x043-PO40
-  :file: data/CIE_X043_PO40.yaml
-- :id: CIE x043-PO39
-  :file: data/CIE_X043_PO39.yaml
-- :id: CIE x043-PO38
-  :file: data/CIE_X043_PO38.yaml
-- :id: CIE x043-PO37
-  :file: data/CIE_X043_PO37.yaml
-- :id: CIE x043-PO36
-  :file: data/CIE_X043_PO36.yaml
-- :id: CIE x043-PO35
-  :file: data/CIE_X043_PO35.yaml
-- :id: CIE x043-PO34
-  :file: data/CIE_X043_PO34.yaml
-- :id: CIE x043-PO33
-  :file: data/CIE_X043_PO33.yaml
-- :id: CIE x043-PO27
-  :file: data/CIE_X043_PO27.yaml
-- :id: CIE x043-PO26
-  :file: data/CIE_X043_PO26.yaml
-- :id: CIE x043-PO21
-  :file: data/CIE_X043_PO21.yaml
-- :id: CIE x043-PO19
-  :file: data/CIE_X043_PO19.yaml
-- :id: CIE x043-PO18
-  :file: data/CIE_X043_PO18.yaml
-- :id: CIE x043-PO17
-  :file: data/CIE_X043_PO17.yaml
-- :id: CIE x043-PO16
-  :file: data/CIE_X043_PO16.yaml
-- :id: CIE x043-PO15
-  :file: data/CIE_X043_PO15.yaml
-- :id: CIE x043-PO14
-  :file: data/CIE_X043_PO14.yaml
-- :id: CIE x043-PO13
-  :file: data/CIE_X043_PO13.yaml
-- :id: CIE x043-PO12
-  :file: data/CIE_X043_PO12.yaml
-- :id: CIE x043-PO11
-  :file: data/CIE_X043_PO11.yaml
-- :id: CIE x043-PO10
-  :file: data/CIE_X043_PO10.yaml
-- :id: CIE x043-PO09
-  :file: data/CIE_X043_PO09.yaml
-- :id: CIE x043-PO08
-  :file: data/CIE_X043_PO08.yaml
-- :id: CIE x043-PO07
-  :file: data/CIE_X043_PO07.yaml
-- :id: CIE x043-PO05
-  :file: data/CIE_X043_PO05.yaml
-- :id: CIE x043-PP09
-  :file: data/CIE_X043_PP09.yaml
-- :id: CIE x043-PP08
-  :file: data/CIE_X043_PP08.yaml
-- :id: CIE x043-PP07
-  :file: data/CIE_X043_PP07.yaml
-- :id: CIE x043-PP06
-  :file: data/CIE_X043_PP06.yaml
-- :id: CIE x043-PP05
-  :file: data/CIE_X043_PP05.yaml
-- :id: CIE x043-PP04
-  :file: data/CIE_X043_PP04.yaml
-- :id: CIE x043-PP03
-  :file: data/CIE_X043_PP03.yaml
-- :id: CIE x043-PP01
-  :file: data/CIE_X043_PP01.yaml
-- :id: CIE x043-OP24
-  :file: data/CIE_X043_OP24.yaml
-- :id: CIE x043-OP23
-  :file: data/CIE_X043_OP23.yaml
-- :id: CIE x043-OP22
-  :file: data/CIE_X043_OP22.yaml
-- :id: CIE x043-OP21
-  :file: data/CIE_X043_OP21.yaml
-- :id: CIE x043-OP20
-  :file: data/CIE_X043_OP20.yaml
-- :id: CIE x043-OP19
-  :file: data/CIE_X043_OP19.yaml
-- :id: CIE x043-OP18
-  :file: data/CIE_X043_OP18.yaml
-- :id: CIE x043-OP17
-  :file: data/CIE_X043_OP17.yaml
-- :id: CIE x043-OP16
-  :file: data/CIE_X043_OP16.yaml
-- :id: CIE x043-OP15
-  :file: data/CIE_X043_OP15.yaml
-- :id: CIE x043-OP14
-  :file: data/CIE_X043_OP14.yaml
-- :id: CIE x043-OP13
-  :file: data/CIE_X043_OP13.yaml
-- :id: CIE x043-OP11
-  :file: data/CIE_X043_OP11.yaml
-- :id: CIE x043-OP10
-  :file: data/CIE_X043_OP10.yaml
-- :id: CIE x043-OP08
-  :file: data/CIE_X043_OP08.yaml
-- :id: CIE x043-OP06
-  :file: data/CIE_X043_OP06.yaml
-- :id: CIE x043-OP04
-  :file: data/CIE_X043_OP04.yaml
-- :id: CIE x043-OP03
-  :file: data/CIE_X043_OP03.yaml
-- :id: CIE x043-OP02
-  :file: data/CIE_X043_OP02.yaml
-- :id: CIE x043-OP01
-  :file: data/CIE_X043_OP01.yaml
+- :id: CIE PO54 Pages 480-483
+  :file: data/CIE_PO54_PAGES_480_483.yaml
+- :id: CIE PO53 Pages 476-479
+  :file: data/CIE_PO53_PAGES_476_479.yaml
+- :id: CIE PO50 Pages 470-475
+  :file: data/CIE_PO50_PAGES_470_475.yaml
+- :id: CIE PO49 Pages 462-469
+  :file: data/CIE_PO49_PAGES_462_469.yaml
+- :id: CIE PO48 Pages 450-461
+  :file: data/CIE_PO48_PAGES_450_461.yaml
+- :id: CIE PO47 Pages 446-449
+  :file: data/CIE_PO47_PAGES_446_449.yaml
+- :id: CIE PO46 Pages 438-445
+  :file: data/CIE_PO46_PAGES_438_445.yaml
+- :id: CIE PO45 Pages 432-437
+  :file: data/CIE_PO45_PAGES_432_437.yaml
+- :id: CIE PO44 Pages 427-431
+  :file: data/CIE_PO44_PAGES_427_431.yaml
+- :id: CIE PO43 Pages 417-426
+  :file: data/CIE_PO43_PAGES_417_426.yaml
+- :id: CIE PO42 Pages 408-416
+  :file: data/CIE_PO42_PAGES_408_416.yaml
+- :id: CIE PO41 Pages 401-407
+  :file: data/CIE_PO41_PAGES_401_407.yaml
+- :id: CIE PO40 Pages 395-400
+  :file: data/CIE_PO40_PAGES_395_400.yaml
+- :id: CIE PO39 Pages 387-394
+  :file: data/CIE_PO39_PAGES_387_394.yaml
+- :id: CIE PO38 Pages 381-386
+  :file: data/CIE_PO38_PAGES_381_386.yaml
+- :id: CIE PO37 Pages 378-380
+  :file: data/CIE_PO37_PAGES_378_380.yaml
+- :id: CIE PO36 Pages 365-377
+  :file: data/CIE_PO36_PAGES_365_377.yaml
+- :id: CIE PO35 Pages 357-364
+  :file: data/CIE_PO35_PAGES_357_364.yaml
+- :id: CIE PO34 Pages 351-356
+  :file: data/CIE_PO34_PAGES_351_356.yaml
+- :id: CIE PO33 Pages 345-350
+  :file: data/CIE_PO33_PAGES_345_350.yaml
+- :id: CIE PO27 Pages 334-344
+  :file: data/CIE_PO27_PAGES_334_344.yaml
+- :id: CIE PO26 Pages 493-500
+  :file: data/CIE_PO26_PAGES_493_500.yaml
+- :id: CIE PO21 Pages 325-333
+  :file: data/CIE_PO21_PAGES_325_333.yaml
+- :id: CIE PO19 Pages 319-324
+  :file: data/CIE_PO19_PAGES_319_324.yaml
+- :id: CIE PO18 Pages 484-492
+  :file: data/CIE_PO18_PAGES_484_492.yaml
+- :id: CIE PO17 Pages 312-318
+  :file: data/CIE_PO17_PAGES_312_318.yaml
+- :id: CIE PO16 Pages 303-311
+  :file: data/CIE_PO16_PAGES_303_311.yaml
+- :id: CIE PO15 Pages 295-302
+  :file: data/CIE_PO15_PAGES_295_302.yaml
+- :id: CIE PO14 Pages 287-294
+  :file: data/CIE_PO14_PAGES_287_294.yaml
+- :id: CIE PO13 Pages 278-286
+  :file: data/CIE_PO13_PAGES_278_286.yaml
+- :id: CIE PO12 Pages 269-277
+  :file: data/CIE_PO12_PAGES_269_277.yaml
+- :id: CIE PO11 Pages 262-268
+  :file: data/CIE_PO11_PAGES_262_268.yaml
+- :id: CIE PO10 Pages 257-261
+  :file: data/CIE_PO10_PAGES_257_261.yaml
+- :id: CIE PO09 Pages 247-256
+  :file: data/CIE_PO09_PAGES_247_256.yaml
+- :id: CIE PO08 Pages 236-246
+  :file: data/CIE_PO08_PAGES_236_246.yaml
+- :id: CIE PO07 Pages 230-235
+  :file: data/CIE_PO07_PAGES_230_235.yaml
+- :id: CIE PO05 Pages 224-229
+  :file: data/CIE_PO05_PAGES_224_229.yaml
+- :id: CIE OP01 Pages 1-7
+  :file: data/CIE_OP01_PAGES_1_7.yaml
+- :id: CIE PP08 Pages 208-217
+  :file: data/CIE_PP08_PAGES_208_217.yaml
+- :id: CIE PP07 Pages 198-207
+  :file: data/CIE_PP07_PAGES_198_207.yaml
+- :id: CIE PP06 Pages 190-197
+  :file: data/CIE_PP06_PAGES_190_197.yaml
+- :id: CIE PP05 Pages 179-189
+  :file: data/CIE_PP05_PAGES_179_189.yaml
+- :id: CIE PP04 Pages 175-178
+  :file: data/CIE_PP04_PAGES_175_178.yaml
+- :id: CIE PP03 Pages 167-174
+  :file: data/CIE_PP03_PAGES_167_174.yaml
+- :id: CIE PP01 Pages 163-166
+  :file: data/CIE_PP01_PAGES_163_166.yaml
+- :id: CIE OP24 Pages 155-162
+  :file: data/CIE_OP24_PAGES_155_162.yaml
+- :id: CIE OP23 Pages 147-154
+  :file: data/CIE_OP23_PAGES_147_154.yaml
+- :id: CIE OP22 Pages 140-146
+  :file: data/CIE_OP22_PAGES_140_146.yaml
+- :id: CIE OP21 Pages 133-139
+  :file: data/CIE_OP21_PAGES_133_139.yaml
+- :id: CIE OP20 Pages 129-132
+  :file: data/CIE_OP20_PAGES_129_132.yaml
+- :id: CIE OP19 Pages 121-128
+  :file: data/CIE_OP19_PAGES_121_128.yaml
+- :id: CIE OP18 Pages 111-120
+  :file: data/CIE_OP18_PAGES_111_120.yaml
+- :id: CIE OP17 Pages 103-110
+  :file: data/CIE_OP17_PAGES_103_110.yaml
+- :id: CIE OP16 Pages 96-102
+  :file: data/CIE_OP16_PAGES_96_102.yaml
+- :id: CIE OP15 Pages 90-95
+  :file: data/CIE_OP15_PAGES_90_95.yaml
+- :id: CIE OP14 Pages 80-89
+  :file: data/CIE_OP14_PAGES_80_89.yaml
+- :id: CIE OP13 Pages 69-79
+  :file: data/CIE_OP13_PAGES_69_79.yaml
+- :id: CIE OP11 Pages 60-68
+  :file: data/CIE_OP11_PAGES_60_68.yaml
+- :id: CIE OP10 Pages 51-59
+  :file: data/CIE_OP10_PAGES_51_59.yaml
+- :id: CIE OP08 Pages 40-50
+  :file: data/CIE_OP08_PAGES_40_50.yaml
+- :id: CIE OP06 Pages 30-39
+  :file: data/CIE_OP06_PAGES_30_39.yaml
+- :id: CIE OP04 Pages 25-29
+  :file: data/CIE_OP04_PAGES_25_29.yaml
+- :id: CIE OP03 Pages 16-24
+  :file: data/CIE_OP03_PAGES_16_24.yaml
+- :id: CIE OP02 Pages 8-15
+  :file: data/CIE_OP02_PAGES_8_15.yaml
 - :id: CIE DIS 017/E:2016
   :file: data/CIE_DIS_017_E_2016.yaml
 - :id: CIE 221:2016
@@ -1429,8 +1459,6 @@
   :file: data/CIE_X041_2016.yaml
 - :id: CIE 170-2:2015
   :file: data/CIE_170_2_2015.yaml
-- :id: CIE S 017-SP1/E:2015
-  :file: data/CIE_S_017_SP1_E_2015.yaml
 - :id: CIE 216:2015
   :file: data/CIE_216_2015.yaml
 - :id: CIE S 025/E:2015
@@ -1449,8 +1477,8 @@
   :file: data/CIE_213_2014.yaml
 - :id: CIE 212:2014
   :file: data/CIE_212_2014.yaml
-- :id: CIE ISO/CIE 19476:2014
-  :file: data/CIE_ISO_CIE_19476_2014.yaml
+- :id: CIE ISO 19476:2014
+  :file: data/CIE_ISO_19476_2014.yaml
 - :id: CIE 211:2014
   :file: data/CIE_211_2014.yaml
 - :id: CIE x039:2014
@@ -1471,14 +1499,12 @@
   :file: data/CIE_DIS_024_E_2013.yaml
 - :id: CIE 205:2013
   :file: data/CIE_205_2013.yaml
-- :id: CIE x038:2013 Add 1
-  :file: data/CIE_X038_2013_ADD_1.yaml
+- :id: CIE x038:2013
+  :file: data/CIE_X038_2013.yaml
 - :id: CIE 204:2013
   :file: data/CIE_204_2013.yaml
 - :id: CIE S 023/E:2013
   :file: data/CIE_S_023_E_2013.yaml
-- :id: CIE x038:2013
-  :file: data/CIE_X038_2013.yaml
 - :id: CIE S 014-6/E:2013
   :file: data/CIE_S_014_6_E_2013.yaml
 - :id: CIE S 014-3/E:2011
@@ -1577,15 +1603,15 @@
   :file: data/CIE_180_2007.yaml
 - :id: CIE S 014-4/E2007
   :file: data/CIE_S_014_4_E2007.yaml
-- :id: CIE S 009/E:2002
-  :file: data/CIE_S_009_E_2002.yaml
+- :id: CIE S 009:2002
+  :file: data/CIE_S_009_2002.yaml
 - :id: CIE x032:2007
   :file: data/CIE_X032_2007.yaml
 - :id: CIE x029:2006
   :file: data/CIE_X029_2006.yaml
 - :id: CIE 179:2007
   :file: data/CIE_179_2007.yaml
-- :id: CIE 127-2007
+- :id: CIE 127:2007
   :file: data/CIE_127_2007.yaml
 - :id: CIE x031:2006
   :file: data/CIE_X031_2006.yaml
@@ -1611,12 +1637,12 @@
   :file: data/CIE_X028_2005.yaml
 - :id: CIE 171:2006
   :file: data/CIE_171_2006.yaml
-- :id: CIE 097-2005
-  :file: data/CIE_097_2005.yaml
+- :id: CIE 97:2005
+  :file: data/CIE_97_2005.yaml
 - :id: CIE 166:2005
   :file: data/CIE_166_2005.yaml
-- :id: CIE S015/E:2005
-  :file: data/CIE_S015_E_2005.yaml
+- :id: CIE S 015/E:2005
+  :file: data/CIE_S_015_E_2005.yaml
 - :id: CIE 167:2005
   :file: data/CIE_167_2005.yaml
 - :id: CIE 168:2005
@@ -1627,88 +1653,104 @@
   :file: data/CIE_165_2005.yaml
 - :id: CIE x027:2004
   :file: data/CIE_X027_2004.yaml
-- :id: CIE x015-1998
-  :file: data/CIE_X015_1998.yaml
-- :id: CIE 023-1973
-  :file: data/CIE_023_1973.yaml
-- :id: CIE 150:2003
-  :file: data/CIE_150_2003.yaml
-- :id: CIE 152:2003
-  :file: data/CIE_152_2003.yaml
-- :id: CIE x014-1998
-  :file: data/CIE_X014_1998.yaml
-- :id: CIE x018-1999
-  :file: data/CIE_X018_1999.yaml
-- :id: CIE 133-1999
-  :file: data/CIE_133_1999.yaml
-- :id: CIE S009/D:2002
-  :file: data/CIE_S009_D_2002.yaml
-- :id: CIE x016-1998
-  :file: data/CIE_X016_1998.yaml
-- :id: CIE 074-1988
-  :file: data/CIE_074_1988.yaml
-- :id: CIE D001-2006
-  :file: data/CIE_D001_2006.yaml
-- :id: CIE x006-1991
-  :file: data/CIE_X006_1991.yaml
-- :id: CIE x008-1994
-  :file: data/CIE_X008_1994.yaml
-- :id: CIE 097-1992
-  :file: data/CIE_097_1992.yaml
-- :id: CIE D007-1994
-  :file: data/CIE_D007_1994.yaml
-- :id: CIE D008-1995
-  :file: data/CIE_D008_1995.yaml
-- :id: CIE x019-2001
-  :file: data/CIE_X019_2001.yaml
-- :id: CIE x017-2000
-  :file: data/CIE_X017_2000.yaml
-- :id: CIE 158:2004
-  :file: data/CIE_158_2004.yaml
-- :id: CIE D002:2004
-  :file: data/CIE_D002_2004.yaml
-- :id: CIE 162:2004
-  :file: data/CIE_162_2004.yaml
-- :id: CIE x009-1995
-  :file: data/CIE_X009_1995.yaml
-- :id: CIE x023:2002
-  :file: data/CIE_X023_2002.yaml
+- :id: CIE 143-2001
+  :file: data/CIE_143_2001.yaml
 - :id: CIE 144:2001
   :file: data/CIE_144_2001.yaml
 - :id: CIE 145:2002
   :file: data/CIE_145_2002.yaml
 - :id: CIE 148:2002
   :file: data/CIE_148_2002.yaml
+- :id: CIE 149:2002
+  :file: data/CIE_149_2002.yaml
+- :id: CIE 150:2003
+  :file: data/CIE_150_2003.yaml
+- :id: CIE 151:2003
+  :file: data/CIE_151_2003.yaml
+- :id: CIE 152:2003
+  :file: data/CIE_152_2003.yaml
+- :id: CIE 153:2003
+  :file: data/CIE_153_2003.yaml
+- :id: CIE 154:2003
+  :file: data/CIE_154_2003.yaml
 - :id: CIE 155:2003
   :file: data/CIE_155_2003.yaml
 - :id: CIE 156:2004
   :file: data/CIE_156_2004.yaml
-- :id: CIE 019.21-1981
-  :file: data/CIE_019_21_1981.yaml
-- :id: CIE 019.22-1981
-  :file: data/CIE_019_22_1981.yaml
-- :id: CIE S 007/E-1998
-  :file: data/CIE_S_007_E_1998.yaml
+- :id: CIE 157:2004
+  :file: data/CIE_157_2004.yaml
+- :id: CIE 158:2004
+  :file: data/CIE_158_2004.yaml
+- :id: CIE 159:2004
+  :file: data/CIE_159_2004.yaml
+- :id: CIE 19/2.1-1981
+  :file: data/CIE_19_2_1_1981.yaml
+- :id: CIE 19/2.2-1981
+  :file: data/CIE_19_2_2_1981.yaml
+- :id: CIE D001-2006
+  :file: data/CIE_D001_2006.yaml
+- :id: CIE D002:2004
+  :file: data/CIE_D002_2004.yaml
+- :id: CIE D008-1995
+  :file: data/CIE_D008_1995.yaml
+- :id: CIE S 007/1998
+  :file: data/CIE_S_007_1998.yaml
+- :id: CIE S 009/G:2002
+  :file: data/CIE_S_009_G_2002.yaml
+- :id: CIE S 011/E:2003
+  :file: data/CIE_S_011_E_2003.yaml
+- :id: CIE x005-1992
+  :file: data/CIE_X005_1992.yaml
+- :id: CIE x006-1991
+  :file: data/CIE_X006_1991.yaml
 - :id: CIE x007-1993
   :file: data/CIE_X007_1993.yaml
+- :id: CIE x008-1994
+  :file: data/CIE_X008_1994.yaml
+- :id: CIE x009-1995
+  :file: data/CIE_X009_1995.yaml
+- :id: CIE x010-1996
+  :file: data/CIE_X010_1996.yaml
 - :id: CIE x011-1996
   :file: data/CIE_X011_1996.yaml
+- :id: CIE x012-1997
+  :file: data/CIE_X012_1997.yaml
 - :id: CIE x013-1997
   :file: data/CIE_X013_1997.yaml
+- :id: CIE x014-1998
+  :file: data/CIE_X014_1998.yaml
+- :id: CIE x015-1998
+  :file: data/CIE_X015_1998.yaml
+- :id: CIE x016-1998
+  :file: data/CIE_X016_1998.yaml
+- :id: CIE x018-1999
+  :file: data/CIE_X018_1999.yaml
+- :id: CIE x019:2001
+  :file: data/CIE_X019_2001.yaml
 - :id: CIE x020-2001
   :file: data/CIE_X020_2001.yaml
 - :id: CIE x021:2001
   :file: data/CIE_X021_2001.yaml
+- :id: CIE x022:2001
+  :file: data/CIE_X022_2001.yaml
 - :id: CIE 146/147:2002
   :file: data/CIE_146_147_2002.yaml
 - :id: CIE 001-1980
   :file: data/CIE_001_1980.yaml
-- :id: CIE S013/E:2003
-  :file: data/CIE_S013_E_2003.yaml
+- :id: CIE S 013/E:2003
+  :file: data/CIE_S_013_E_2003.yaml
+- :id: CIE S 007/G-1998
+  :file: data/CIE_S_007_G_1998.yaml
+- :id: CIE S 010/E:2004
+  :file: data/CIE_S_010_E_2004.yaml
+- :id: CIE 088:2004
+  :file: data/CIE_088_2004.yaml
 - :id: CIE 160:2004
   :file: data/CIE_160_2004.yaml
-- :id: CIE 015:2004
-  :file: data/CIE_015_2004.yaml
+- :id: CIE 15:2004
+  :file: data/CIE_15_2004.yaml
+- :id: CIE 162:2004
+  :file: data/CIE_162_2004.yaml
 - :id: CIE S 012/E:2004
   :file: data/CIE_S_012_E_2004.yaml
 - :id: CIE 163:2004
@@ -1717,50 +1759,32 @@
   :file: data/CIE_126_1997.yaml
 - :id: CIE 063-1984
   :file: data/CIE_063_1984.yaml
-- :id: CIE 041-1978
-  :file: data/CIE_041_1978.yaml
-- :id: CIE 143-2001
-  :file: data/CIE_143_2001.yaml
-- :id: CIE 149:2002
-  :file: data/CIE_149_2002.yaml
-- :id: CIE 151:2003
-  :file: data/CIE_151_2003.yaml
-- :id: CIE 153:2003
-  :file: data/CIE_153_2003.yaml
-- :id: CIE 154:2003
-  :file: data/CIE_154_2003.yaml
-- :id: CIE 157:2004
-  :file: data/CIE_157_2004.yaml
-- :id: CIE 159:2004
-  :file: data/CIE_159_2004.yaml
-- :id: CIE S 011/E:2003
-  :file: data/CIE_S_011_E_2003.yaml
-- :id: CIE x005-1992
-  :file: data/CIE_X005_1992.yaml
-- :id: CIE x010-1996
-  :file: data/CIE_X010_1996.yaml
-- :id: CIE x012-1997
-  :file: data/CIE_X012_1997.yaml
-- :id: CIE x022:2001
-  :file: data/CIE_X022_2001.yaml
-- :id: CIE S 010/E:2004
-  :file: data/CIE_S_010_E_2004.yaml
-- :id: CIE 088:2004
-  :file: data/CIE_088_2004.yaml
 - :id: CIE 110-1994
   :file: data/CIE_110_1994.yaml
-- :id: CIE S 006.1/E-1998
-  :file: data/CIE_S_006_1_E_1998.yaml
-- :id: CIE 032-1977
-  :file: data/CIE_032_1977.yaml
+- :id: CIE S 006.1/1998
+  :file: data/CIE_S_006_1_1998.yaml
+- :id: CIE 32-1977
+  :file: data/CIE_32_1977.yaml
 - :id: CIE 053-1982
   :file: data/CIE_053_1982.yaml
+- :id: CIE 074-1988
+  :file: data/CIE_074_1988.yaml
+- :id: CIE 097-1992
+  :file: data/CIE_097_1992.yaml
 - :id: CIE 132-1999
   :file: data/CIE_132_1999.yaml
-- :id: CIE S004/E-2001
-  :file: data/CIE_S004_E_2001.yaml
-- :id: CIE 098-1992
-  :file: data/CIE_098_1992.yaml
+- :id: CIE S 004/E-2001
+  :file: data/CIE_S_004_E_2001.yaml
+- :id: CIE 023-1973
+  :file: data/CIE_023_1973.yaml
+- :id: CIE 98-1992
+  :file: data/CIE_98_1992.yaml
+- :id: CIE 133-1999
+  :file: data/CIE_133_1999.yaml
+- :id: CIE x023:2002
+  :file: data/CIE_X023_2002.yaml
+- :id: CIE 041-1978
+  :file: data/CIE_041_1978.yaml
 - :id: CIE x024:2002
   :file: data/CIE_X024_2002.yaml
 - :id: CIE 070-1987
@@ -1771,162 +1795,158 @@
   :file: data/CIE_118_1995.yaml
 - :id: CIE 134-1999
   :file: data/CIE_134_1999.yaml
-- :id: CIE 113-1995
-  :file: data/CIE_113_1995.yaml
-- :id: CIE 048-1980
-  :file: data/CIE_048_1980.yaml
-- :id: CIE 107-1994
-  :file: data/CIE_107_1994.yaml
-- :id: CIE 018.2-1983
-  :file: data/CIE_018_2_1983.yaml
-- :id: CIE 073-1988
-  :file: data/CIE_073_1988.yaml
-- :id: CIE 064-1984
-  :file: data/CIE_064_1984.yaml
-- :id: CIE 100-1992
-  :file: data/CIE_100_1992.yaml
-- :id: CIE 104-1993
-  :file: data/CIE_104_1993.yaml
-- :id: CIE 069-1987
-  :file: data/CIE_069_1987.yaml
-- :id: CIE 079-1988
-  :file: data/CIE_079_1988.yaml
-- :id: CIE 137-2000
-  :file: data/CIE_137_2000.yaml
-- :id: CIE 115-1995
-  :file: data/CIE_115_1995.yaml
-- :id: CIE 119-1995
-  :file: data/CIE_119_1995.yaml
-- :id: CIE 049-1981
-  :file: data/CIE_049_1981.yaml
-- :id: CIE 083-1989
-  :file: data/CIE_083_1989.yaml
-- :id: CIE 013.3-1995
-  :file: data/CIE_013_3_1995.yaml
+- :id: CIE D007-1994
+  :file: data/CIE_D007_1994.yaml
+- :id: CIE x017-2000
+  :file: data/CIE_X017_2000.yaml
+- :id: CIE 13.3-1995
+  :file: data/CIE_13_3_1995.yaml
 - :id: CIE 016-1970
   :file: data/CIE_016_1970.yaml
+- :id: CIE 018.2-1983
+  :file: data/CIE_018_2_1983.yaml
 - :id: CIE 031-1976
   :file: data/CIE_031_1976.yaml
-- :id: CIE 033-1977
-  :file: data/CIE_033_1977.yaml
-- :id: CIE 038-1977
-  :file: data/CIE_038_1977.yaml
+- :id: CIE 33-1977
+  :file: data/CIE_33_1977.yaml
+- :id: CIE 034-1977
+  :file: data/CIE_034_1977.yaml
+- :id: CIE 38-1977
+  :file: data/CIE_38_1977.yaml
 - :id: CIE 039.2-1983
   :file: data/CIE_039_2_1983.yaml
 - :id: CIE 040-1978
   :file: data/CIE_040_1978.yaml
-- :id: CIE 042-1978
-  :file: data/CIE_042_1978.yaml
-- :id: CIE 045-1979
-  :file: data/CIE_045_1979.yaml
-- :id: CIE 052-1982
-  :file: data/CIE_052_1982.yaml
-- :id: CIE 055-1983
-  :file: data/CIE_055_1983.yaml
-- :id: CIE 057-1983
-  :file: data/CIE_057_1983.yaml
-- :id: CIE 061-1984
-  :file: data/CIE_061_1984.yaml
-- :id: CIE 062-1984
-  :file: data/CIE_062_1984.yaml
-- :id: CIE 065-1985
-  :file: data/CIE_065_1985.yaml
-- :id: CIE 075-1988
-  :file: data/CIE_075_1988.yaml
-- :id: CIE 080-1989
-  :file: data/CIE_080_1989.yaml
-- :id: CIE 086-1990
-  :file: data/CIE_086_1990.yaml
-- :id: CIE 087-1990
-  :file: data/CIE_087_1990.yaml
-- :id: CIE 090-1991
-  :file: data/CIE_090_1991.yaml
-- :id: CIE 093-1992
-  :file: data/CIE_093_1992.yaml
-- :id: CIE 096-1992
-  :file: data/CIE_096_1992.yaml
-- :id: CIE 101-1993
-  :file: data/CIE_101_1993.yaml
-- :id: CIE x026:2005
-  :file: data/CIE_X026_2005.yaml
-- :id: CIE 161:2004
-  :file: data/CIE_161_2004.yaml
-- :id: CIE 116-1995
-  :file: data/CIE_116_1995.yaml
-- :id: CIE 122-1996
-  :file: data/CIE_122_1996.yaml
-- :id: CIE 136-2000
-  :file: data/CIE_136_2000.yaml
-- :id: CIE 138-2000
-  :file: data/CIE_138_2000.yaml
-- :id: CIE 140-2000
-  :file: data/CIE_140_2000.yaml
-- :id: CIE 034-1977
-  :file: data/CIE_034_1977.yaml
-- :id: CIE 043-1979
-  :file: data/CIE_043_1979.yaml
-- :id: CIE 044-1979
-  :file: data/CIE_044_1979.yaml
-- :id: CIE 046-1979
-  :file: data/CIE_046_1979.yaml
+- :id: CIE 42-1978
+  :file: data/CIE_42_1978.yaml
+- :id: CIE 43-1979
+  :file: data/CIE_43_1979.yaml
+- :id: CIE 44-1979
+  :file: data/CIE_44_1979.yaml
+- :id: CIE 45-1979
+  :file: data/CIE_45_1979.yaml
+- :id: CIE 46-1979
+  :file: data/CIE_46_1979.yaml
 - :id: CIE 047-1979
   :file: data/CIE_047_1979.yaml
-- :id: CIE 051.2-1999
-  :file: data/CIE_051_2_1999.yaml
+- :id: CIE 048-1980
+  :file: data/CIE_048_1980.yaml
+- :id: CIE 049-1981
+  :file: data/CIE_049_1981.yaml
+- :id: CIE 51.2-1999
+  :file: data/CIE_51_2_1999.yaml
+- :id: CIE 052-1982
+  :file: data/CIE_052_1982.yaml
 - :id: CIE x025:2003
   :file: data/CIE_X025_2003.yaml
-- :id: CIE 054.2-2001
-  :file: data/CIE_054_2_2001.yaml
-- :id: CIE 058-1983
-  :file: data/CIE_058_1983.yaml
-- :id: CIE 059-1984
-  :file: data/CIE_059_1984.yaml
+- :id: CIE 54.2-2001
+  :file: data/CIE_54_2_2001.yaml
+- :id: CIE 055-1983
+  :file: data/CIE_055_1983.yaml
+- :id: CIE 57-1983
+  :file: data/CIE_57_1983.yaml
+- :id: CIE 58-1983
+  :file: data/CIE_58_1983.yaml
+- :id: CIE 59-1984
+  :file: data/CIE_59_1984.yaml
+- :id: CIE 61-1984
+  :file: data/CIE_61_1984.yaml
+- :id: CIE 62-1984
+  :file: data/CIE_62_1984.yaml
+- :id: CIE 064-1984
+  :file: data/CIE_064_1984.yaml
+- :id: CIE 65-1985
+  :file: data/CIE_65_1985.yaml
 - :id: CIE 066-1984
   :file: data/CIE_066_1984.yaml
-- :id: CIE 067-1986
-  :file: data/CIE_067_1986.yaml
-- :id: CIE 072-1987
-  :file: data/CIE_072_1987.yaml
-- :id: CIE 076-1988
-  :file: data/CIE_076_1988.yaml
-- :id: CIE 077-1988
-  :file: data/CIE_077_1988.yaml
-- :id: CIE 078-1988
-  :file: data/CIE_078_1988.yaml
-- :id: CIE 081-1989
-  :file: data/CIE_081_1989.yaml
-- :id: CIE 082-1990
-  :file: data/CIE_082_1990.yaml
-- :id: CIE 085-1989
-  :file: data/CIE_085_1989.yaml
-- :id: CIE 089-1991
-  :file: data/CIE_089_1991.yaml
-- :id: CIE 094-1993
-  :file: data/CIE_094_1993.yaml
-- :id: CIE 095-1992
-  :file: data/CIE_095_1992.yaml
-- :id: CIE 099-1992
-  :file: data/CIE_099_1992.yaml
+- :id: CIE 67-1986
+  :file: data/CIE_67_1986.yaml
+- :id: CIE 069-1987
+  :file: data/CIE_069_1987.yaml
+- :id: CIE 72-1987
+  :file: data/CIE_72_1987.yaml
+- :id: CIE 073-1988
+  :file: data/CIE_073_1988.yaml
+- :id: CIE 75-1988
+  :file: data/CIE_75_1988.yaml
+- :id: CIE 76-1988
+  :file: data/CIE_76_1988.yaml
+- :id: CIE 77-1988
+  :file: data/CIE_77_1988.yaml
+- :id: CIE 78-1988
+  :file: data/CIE_78_1988.yaml
+- :id: CIE 079-1988
+  :file: data/CIE_079_1988.yaml
+- :id: CIE 080-1989
+  :file: data/CIE_080_1989.yaml
+- :id: CIE 81-1989
+  :file: data/CIE_81_1989.yaml
+- :id: CIE 82-1990
+  :file: data/CIE_82_1990.yaml
+- :id: CIE 083-1989
+  :file: data/CIE_083_1989.yaml
+- :id: CIE 85-1989
+  :file: data/CIE_85_1989.yaml
+- :id: CIE 086-1990
+  :file: data/CIE_086_1990.yaml
+- :id: CIE 87-1990
+  :file: data/CIE_87_1990.yaml
+- :id: CIE 89-1991
+  :file: data/CIE_89_1991.yaml
+- :id: CIE 090-1991
+  :file: data/CIE_090_1991.yaml
+- :id: CIE 93-1992
+  :file: data/CIE_93_1992.yaml
+- :id: CIE 94-1993
+  :file: data/CIE_94_1993.yaml
+- :id: CIE 95-1992
+  :file: data/CIE_95_1992.yaml
+- :id: CIE 96-1992
+  :file: data/CIE_96_1992.yaml
+- :id: CIE 99-1992
+  :file: data/CIE_99_1992.yaml
+- :id: CIE 100-1992
+  :file: data/CIE_100_1992.yaml
+- :id: CIE 101-1993
+  :file: data/CIE_101_1993.yaml
 - :id: CIE 102-1993
   :file: data/CIE_102_1993.yaml
 - :id: CIE 103-1993
   :file: data/CIE_103_1993.yaml
+- :id: CIE 104-1993
+  :file: data/CIE_104_1993.yaml
 - :id: CIE 105-1993
   :file: data/CIE_105_1993.yaml
 - :id: CIE 106-1993
   :file: data/CIE_106_1993.yaml
+- :id: CIE 107-1994
+  :file: data/CIE_107_1994.yaml
 - :id: CIE 108-1994
   :file: data/CIE_108_1994.yaml
 - :id: CIE 109-1994
   :file: data/CIE_109_1994.yaml
 - :id: CIE 112-1994
   :file: data/CIE_112_1994.yaml
+- :id: CIE 113-1995
+  :file: data/CIE_113_1995.yaml
 - :id: CIE 114-1994
   :file: data/CIE_114_1994.yaml
+- :id: CIE x026:2005
+  :file: data/CIE_X026_2005.yaml
+- :id: CIE 161:2004
+  :file: data/CIE_161_2004.yaml
+- :id: CIE 115-1995
+  :file: data/CIE_115_1995.yaml
+- :id: CIE 116-1995
+  :file: data/CIE_116_1995.yaml
 - :id: CIE 117-1995
   :file: data/CIE_117_1995.yaml
+- :id: CIE 119-1995
+  :file: data/CIE_119_1995.yaml
 - :id: CIE 121-1996
   :file: data/CIE_121_1996.yaml
+- :id: CIE 122-1996
+  :file: data/CIE_122_1996.yaml
 - :id: CIE 123-1997
   :file: data/CIE_123_1997.yaml
 - :id: CIE 124-1997
@@ -1941,11 +1961,21 @@
   :file: data/CIE_130_1998.yaml
 - :id: CIE 135-1999
   :file: data/CIE_135_1999.yaml
+- :id: CIE 136-2000
+  :file: data/CIE_136_2000.yaml
+- :id: CIE 137-2000
+  :file: data/CIE_137_2000.yaml
+- :id: CIE 138-2000
+  :file: data/CIE_138_2000.yaml
 - :id: CIE 139-2001
   :file: data/CIE_139_2001.yaml
+- :id: CIE 140-2000
+  :file: data/CIE_140_2000.yaml
 - :id: CIE 141-2001
   :file: data/CIE_141_2001.yaml
 - :id: CIE 142-2001
   :file: data/CIE_142_2001.yaml
 - :id: CIE 084-1989
   :file: data/CIE_084_1989.yaml
+- :id: CIE IEC 017.4-1987
+  :file: data/CIE_IEC_017_4_1987.yaml

@@ -9,7 +9,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/visual-experiences-and-needs-of-ageing-drivers-pp26-649-657?product_id=2011357
+- content: https://store.accuristech.com/standards/visual-experiences-and-needs-of-ageing-drivers-pp26-649-657?product_id=2011357
   type: src
 type: standard
 docid:
@@ -17,9 +17,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PP26 649-657
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -113,7 +110,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -127,7 +123,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

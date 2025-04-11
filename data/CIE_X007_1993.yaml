@@ -2,26 +2,21 @@
 schema-version: v1.2.9
 id: CIEx007-1993
 title:
-- content: Proceedings of the CIE Symposium '93 on advanced colorimetry
+- content: Proceedings of the CIE Symposium on Advanced Colorimetry
   format: text/plain
   type: title-main
-- content: Proceedings of the CIE Symposium '93 on advanced colorimetry
+- content: Proceedings of the CIE Symposium on Advanced Colorimetry
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-x007-1993?product_id=1210091
+- content: https://store.accuristech.com/standards/cie-x007-1993?product_id=1210091
   type: src
 type: standard
 docid:
 - id: CIE x007-1993
   type: CIE
   primary: true
-- id: '9783900734459'
-  type: ISBN
 docnumber: x007-1993
-date:
-- type: published
-  value: '1993-01-01'
 contributor:
 - organization:
     name:
@@ -31,7 +26,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '1993-01-01'
 language:
 - en
 script:
@@ -45,7 +39,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

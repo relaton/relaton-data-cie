@@ -9,7 +9,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/visual-evaluation-of-3d-colour-volume-po19-499-504?product_id=2016297
+- content: https://store.accuristech.com/standards/visual-evaluation-of-3d-colour-volume-po19-499-504?product_id=2016297
   type: src
 type: standard
 docid:
@@ -17,9 +17,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PO19 499-504
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -30,7 +27,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
         - content: ''
           language:
           - en
@@ -54,7 +51,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Kwak
         language:
@@ -107,7 +104,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -121,7 +117,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

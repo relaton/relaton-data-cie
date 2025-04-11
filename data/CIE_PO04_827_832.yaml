@@ -13,7 +13,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/an-illuminant-locus-based-on-neutral-whites-po04-827-832?product_id=2011156
+- content: https://store.accuristech.com/standards/an-illuminant-locus-based-on-neutral-whites-po04-827-832?product_id=2011156
   type: src
 type: standard
 docid:
@@ -21,9 +21,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PO04 827-832
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -40,7 +37,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: "N"
       surname:
         content: Ma
         language:
@@ -81,7 +78,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -95,7 +91,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.9
+id: CIEISO8995-1-2025
+title:
+- content: Light and lighting
+  format: text/plain
+  type: title-intro
+- content: Lighting of work places
+  format: text/plain
+  type: title-main
+- content: 'Part 1: Indoor'
+  format: text/plain
+  type: title-part
+- content: 'Light and lighting - Lighting of work places - Part 1: Indoor'
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/cie-iso-8995-1-2025-en?product_id=2930375
+  type: src
+type: standard
+docid:
+- id: CIE ISO 8995-1:2025
+  type: CIE
+  primary: true
+docnumber: ISO 8995-1:2025
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: CIES008-E-2001ISO8995-1-2002E
+    title:
+    - content: Lighting of work places
+      format: text/plain
+      type: title-main
+    - content: 'Part 1: Indoor [incl. Technical Corrigendum ISO 8995:2002/Cor.1:2005(E)]'
+      format: text/plain
+      type: title-part
+    - content: 'Lighting of work places - Part 1: Indoor [incl. Technical Corrigendum
+        ISO 8995:2002/Cor.1:2005(E)]'
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-008-e-2001-iso-8995-1-2002-e?product_id=1529685
+      type: src
+    docid:
+    - id: CIE S 008/E:2001 (ISO 8995-1:2002(E))
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2002-05-15'
+    revdate: '2002-05-15'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

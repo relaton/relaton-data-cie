@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/a-study-on-quantitative-effects-on-the-energy-savings-of-daylighting-harvesting-systems-in-non-residential-buildings-in-japan-po73-1077-1080?product_id=2011221
+- content: https://store.accuristech.com/standards/a-study-on-quantitative-effects-on-the-energy-savings-of-daylighting-harvesting-systems-in-non-residential-buildings-in-japan-po73-1077-1080?product_id=2011221
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PO73 1077-1080
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -50,7 +47,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: "N"
       surname:
         content: Yoshizawa
         language:
@@ -68,7 +65,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Miki
         language:
@@ -103,7 +100,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -117,7 +113,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

@@ -9,7 +9,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-242-2020?product_id=2203211
+- content: https://store.accuristech.com/standards/cie-242-2020?product_id=2203211
   type: src
 type: standard
 docid:
@@ -17,9 +17,6 @@ docid:
   type: CIE
   primary: true
 docnumber: 242:2020
-date:
-- type: published
-  value: '2020-12-01'
 contributor:
 - organization:
     name:
@@ -29,7 +26,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2020-12-01'
 language:
 - en
 script:
@@ -43,7 +39,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

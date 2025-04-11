@@ -9,19 +9,14 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-173-2006?product_id=1270666
+- content: https://store.accuristech.com/standards/cie-173-2006?product_id=1270666
   type: src
 type: standard
 docid:
 - id: CIE 173:2006
   type: CIE
   primary: true
-- id: '9783901906497'
-  type: ISBN
 docnumber: 173:2006
-date:
-- type: published
-  value: '2006-01-01'
 contributor:
 - organization:
     name:
@@ -31,7 +26,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2006-01-01'
 language:
 - en
 script:
@@ -60,7 +54,7 @@ relation:
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-173-2012?product_id=1840549
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-173-2012?product_id=1840549
       type: src
     docid:
     - id: CIE 173:2012
@@ -70,7 +64,7 @@ relation:
     - type: published
       value: '2012-08-01'
     revdate: '2012-08-01'
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

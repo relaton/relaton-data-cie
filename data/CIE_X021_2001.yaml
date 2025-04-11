@@ -2,28 +2,21 @@
 schema-version: v1.2.9
 id: CIEx021-2001
 title:
-- content: Proceedings of the CIE Expert Symposium 2000 on "Extended Range Colour
-    Spaces"
+- content: Proceedings of the CIE Expert Symposium 2000 on Extended Range Colour Spaces
   format: text/plain
   type: title-main
-- content: Proceedings of the CIE Expert Symposium 2000 on "Extended Range Colour
-    Spaces"
+- content: Proceedings of the CIE Expert Symposium 2000 on Extended Range Colour Spaces
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-x021-2001?product_id=1210104
+- content: https://store.accuristech.com/standards/cie-x021-2001?product_id=1210104
   type: src
 type: standard
 docid:
 - id: CIE x021:2001
   type: CIE
   primary: true
-- id: '9783901906107'
-  type: ISBN
 docnumber: x021:2001
-date:
-- type: published
-  value: '2001-01-01'
 contributor:
 - organization:
     name:
@@ -33,7 +26,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2001-01-01'
 language:
 - en
 script:
@@ -47,7 +39,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

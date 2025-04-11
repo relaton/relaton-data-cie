@@ -1,0 +1,128 @@
+---
+schema-version: v1.2.9
+id: CIEIEC017.4-1987
+title:
+- content: International lighting vocabulary, 4th ed. ***CONTACT [email protected]
+    TO OBTAIN THIS PUBLICATION
+  format: text/plain
+  type: title-main
+- content: International lighting vocabulary, 4th ed. ***CONTACT [email protected]
+    TO OBTAIN THIS PUBLICATION
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/cie-iec-017-4-1987?product_id=47660
+  type: src
+type: standard
+docid:
+- id: CIE IEC 017.4-1987
+  type: CIE
+  primary: true
+docnumber: IEC 017.4-1987
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    The 4th Edition of the International Lighting Vocabulary is a joint publication of the CIE and the IEC (International Electrotechnical Commission). It supplements and updates the content of the previous edition (1970). In addition, new subjects have been introduced, in particular quantities relating to photons to complement those relating to energy and photometry, a section on the actinic effects of optical radiation as well as several terms relating to luminaires for mine illumination. Despite these additions, the volume of this vocabulary has been kept within acceptable limits by eliminating less important terms and the terms of general physics which appeared in the previous edition. It is not the purpose of this vocabulary to go into greater detail and provide explanations of use to the experts in each specialized field; this is the province of the appropriate Technical Committe.
+
+    The aim of this edition of the International Lighting Vocabulary comprising some 950 terms and their definitions is to promote international standardization in the use of quantities, units, symbols and terminology in this field. The technical part is subdivided into eleven sections, dealing with
+
+        * radiation, radiant, luminous and photon quantities and units;
+        * vision, the eye, light and colour, visual phenomena and colour rendering;
+        * colorimetry, the trichormatic system of colour specification, as well as with unifrom colour spaces;
+        * emission and optical properties of materials;
+        * radiometry, photometric and colorimetric measurements and characterization of the properties of the physical detectors of optical radiation;
+        * actinic effects of optical radiation;
+        * light sources (incandescent-, discharge- and arc lamps) as well as their operational conditions and characteristics);
+        * components of lamps and auxiliary apparatus;
+        * lighting technology, artificial and daylighting;
+        * luminaires and their components;
+        * visual signalling; maritime, waterway, air traffic and road traffic as well as lights on the vessels, aircrafts and vehicles.
+
+    The technical definition part presented in four languages (English, French, German and Russian) is supplemented with a list of the letter symbols for quantities and units and symbolic notations as well as with the index of the terms in Dutch, English, French, German, Italian, Polish, Russian, Spanish and Swedish.
+
+    CIE 17.4-1987 is a joint publication with the IEC (Publ. 50 (845)). It is the fourth edition of the International Lighting Vocabulary, comprises 379 pages and presents the definitions of nearly 1000 terms related to light and lighting.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: CIES017-E-2020
+    title:
+    - content: 'ILV: International Lighting Vocabulary, 2nd Edition'
+      format: text/plain
+      type: title-main
+    - content: 'ILV: International Lighting Vocabulary, 2nd Edition'
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-017-e-2020?product_id=2200946
+      type: src
+    docid:
+    - id: CIE S 017/E:2020
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2020-12-01'
+    revdate: '2020-12-01'
+- type: updates
+  bibitem:
+    id: CIEDIS017-E-2016
+    title:
+    - content: 'ILV: International Lighting Vocabulary, 2nd Edition'
+      format: text/plain
+      type: title-main
+    - content: 'ILV: International Lighting Vocabulary, 2nd Edition'
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-dis-017-e-2016?product_id=1941315
+      type: src
+    docid:
+    - id: CIE DIS 017/E:2016
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2016-01-01'
+    revdate: '2016-01-01'
+- type: updates
+  bibitem:
+    id: CIES017-E-2011
+    title:
+    - content: 'ILV: International Lighting Vocabulary'
+      format: text/plain
+      type: title-main
+    - content: 'ILV: International Lighting Vocabulary'
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-017-e-2011?product_id=1806007
+      type: src
+    docid:
+    - id: CIE S 017/E:2011
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2011-08-18'
+    revdate: '2011-08-18'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

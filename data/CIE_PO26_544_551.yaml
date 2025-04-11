@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/dual-band-video-based-measurement-for-noncontact-pulse-rate-estimation-in-infrared-po26-544-551?product_id=2016303
+- content: https://store.accuristech.com/standards/dual-band-video-based-measurement-for-noncontact-pulse-rate-estimation-in-infrared-po26-544-551?product_id=2016303
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PO26 544-551
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -140,7 +137,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: "N"
       surname:
         content: Tsumura
         language:
@@ -157,7 +154,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -171,7 +167,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

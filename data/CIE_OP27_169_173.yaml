@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/a-light-that-can-improve-sleeping-quality-in-terms-of-hormone-concentration-op27-169-173?product_id=2016240
+- content: https://store.accuristech.com/standards/a-light-that-can-improve-sleeping-quality-in-terms-of-hormone-concentration-op27-169-173?product_id=2016240
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: OP27 169-173
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -187,7 +184,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -201,7 +197,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

@@ -1,0 +1,101 @@
+---
+schema-version: v1.2.9
+id: CIEOP16Pages96-102
+title:
+- content: STUDY ON VISIBILITY ESTIMATON OF OBJECTS IN COMPLICATED LUMIANCE IMAGE
+    (OP16, Pages 96-102)
+  format: text/plain
+  type: title-main
+- content: STUDY ON VISIBILITY ESTIMATON OF OBJECTS IN COMPLICATED LUMIANCE IMAGE
+    (OP16, Pages 96-102)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/study-on-visibility-estimaton-of-objects-in-complicated-lumiance-image-op16-pages-96-102?product_id=1941818
+  type: src
+type: standard
+docid:
+- id: CIE OP16 Pages 96-102
+  type: CIE
+  primary: true
+docnumber: OP16 Pages 96-102
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: "Y"
+      surname:
+        content: Nakamura
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: "Y"
+      surname:
+        content: Kato
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+      surname:
+        content: Iwata
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

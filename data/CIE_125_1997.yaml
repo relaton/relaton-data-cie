@@ -2,26 +2,21 @@
 schema-version: v1.2.9
 id: CIE125-1997
 title:
-- content: Standard erythema dose, a review
+- content: Standard Erythema Dose, a Review
   format: text/plain
   type: title-main
-- content: Standard erythema dose, a review
+- content: Standard Erythema Dose, a Review
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-125-1997?product_id=1210047
+- content: https://store.accuristech.com/standards/cie-125-1997?product_id=1210047
   type: src
 type: standard
 docid:
 - id: CIE 125-1997
   type: CIE
   primary: true
-- id: '9783900734817'
-  type: ISBN
 docnumber: 125-1997
-date:
-- type: published
-  value: '1997-01-01'
 contributor:
 - organization:
     name:
@@ -31,7 +26,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '1997-01-01'
 language:
 - en
 script:
@@ -45,7 +39,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

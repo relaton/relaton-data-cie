@@ -5,27 +5,22 @@ title:
 - content: Proceedings of the Conference CIE 2021, September 27
   format: text/plain
   type: title-intro
-- content: 29, 2021 hosted by the CIE National Committee (NC) Malaysia online
+- content: 29, 2021 hosted by NC Malaysia online
   format: text/plain
   type: title-main
 - content: Proceedings of the Conference CIE 2021, September 27 - 29, 2021 hosted
-    by the CIE National Committee (NC) Malaysia online
+    by NC Malaysia online
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-x048-2021?product_id=2242151
+- content: https://store.accuristech.com/standards/cie-x048-2021?product_id=2242151
   type: src
 type: standard
 docid:
 - id: CIE x048:2021
   type: CIE
   primary: true
-- id: '9783902842299'
-  type: ISBN
 docnumber: x048:2021
-date:
-- type: published
-  value: '2021-11-01'
 contributor:
 - organization:
     name:
@@ -35,7 +30,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2021-11-01'
 language:
 - en
 script:
@@ -49,7 +43,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

@@ -15,7 +15,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/the-application-of-mean-room-surface-exitance-into-lighting-design-practice-op48-348-355?product_id=2010520
+- content: https://store.accuristech.com/standards/the-application-of-mean-room-surface-exitance-into-lighting-design-practice-op48-348-355?product_id=2010520
   type: src
 type: standard
 docid:
@@ -23,9 +23,6 @@ docid:
   type: CIE
   primary: true
 docnumber: OP48 348-355
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -89,7 +86,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -103,7 +99,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

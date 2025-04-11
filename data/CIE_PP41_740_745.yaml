@@ -15,7 +15,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/effects-of-luminance-of-projected-letters-on-legibility-pp41-740-745?product_id=2011370
+- content: https://store.accuristech.com/standards/effects-of-luminance-of-projected-letters-on-legibility-pp41-740-745?product_id=2011370
   type: src
 type: standard
 docid:
@@ -23,9 +23,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PP41 740-745
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -36,7 +33,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: "N"
       surname:
         content: Itoh
         language:
@@ -143,7 +140,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -157,7 +153,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

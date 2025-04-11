@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: CIEPO39Pages387-394
+title:
+- content: PHYSICAL INDEX FOR JUDGING APPEARANCE HARMONY OF MATERIALS (PO39, Pages
+    387-394)
+  format: text/plain
+  type: title-main
+- content: PHYSICAL INDEX FOR JUDGING APPEARANCE HARMONY OF MATERIALS (PO39, Pages
+    387-394)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/physical-index-for-judging-appearance-harmony-of-materials-po39-pages-387-394?product_id=1941861
+  type: src
+type: standard
+docid:
+- id: CIE PO39 Pages 387-394
+  type: CIE
+  primary: true
+docnumber: PO39 Pages 387-394
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+      surname:
+        content: Tanaka
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+      surname:
+        content: Horiuchi
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

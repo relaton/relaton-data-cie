@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/a-colour-gamut-index-and-colour-shift-information-based-on-cie-13-3-pp23-384-393?product_id=2016277
+- content: https://store.accuristech.com/standards/a-colour-gamut-index-and-colour-shift-information-based-on-cie-13-3-pp23-384-393?product_id=2016277
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PP23 384-393
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -49,7 +46,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -63,7 +59,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

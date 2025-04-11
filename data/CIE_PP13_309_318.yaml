@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/investigation-on-the-light-environment-of-china-s-active-wide-body-aircraft-pp13-309-318?product_id=2016259
+- content: https://store.accuristech.com/standards/investigation-on-the-light-environment-of-china-s-active-wide-body-aircraft-pp13-309-318?product_id=2016259
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PP13 309-318
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -133,7 +130,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -147,7 +143,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

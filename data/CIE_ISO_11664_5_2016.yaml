@@ -14,7 +14,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-iso-11664-5-2016?product_id=1983056
+- content: https://store.accuristech.com/standards/cie-iso-11664-5-2016?product_id=1983056
   type: src
 type: standard
 docid:
@@ -22,9 +22,6 @@ docid:
   type: CIE
   primary: true
 docnumber: ISO 11664-5:2016
-date:
-- type: published
-  value: '2016-09-01'
 contributor:
 - organization:
     name:
@@ -34,9 +31,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-edition:
-  content: '1'
-revdate: '2016-09-01'
 language:
 - en
 script:
@@ -64,7 +58,7 @@ relation:
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-iso-11664-5-2024?product_id=2906693
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-iso-11664-5-2024?product_id=2906693
       type: src
     docid:
     - id: CIE ISO 11664-5:2024
@@ -90,7 +84,7 @@ relation:
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-s-014-5-e-2009-iso-11664-5-2009?product_id=1673546
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-014-5-e-2009-iso-11664-5-2009?product_id=1673546
       type: src
     docid:
     - id: CIE S 014-5/E:2009 (ISO 11664-5:2009)
@@ -116,7 +110,7 @@ relation:
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-s-014-5-e-2009?product_id=1609731
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-014-5-e-2009?product_id=1609731
       type: src
     docid:
     - id: CIE S 014-5/E:2009
@@ -126,7 +120,7 @@ relation:
     - type: published
       value: '2009-03-01'
     revdate: '2009-03-01'
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

@@ -2,26 +2,21 @@
 schema-version: v1.2.9
 id: CIE086-1990
 title:
-- content: CIE 1988 2 degree spectral luminous efficiency function for photopic vision
+- content: CIE 1988 2° spectral luminous efficiency function for photopic vision
   format: text/plain
   type: title-main
-- content: CIE 1988 2 degree spectral luminous efficiency function for photopic vision
+- content: CIE 1988 2° spectral luminous efficiency function for photopic vision
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-086-1990?product_id=1210013
+- content: https://store.accuristech.com/standards/cie-086-1990?product_id=1210013
   type: src
 type: standard
 docid:
 - id: CIE 086-1990
   type: CIE
   primary: true
-- id: '9783900734237'
-  type: ISBN
 docnumber: '086-1990'
-date:
-- type: published
-  value: '1990-01-01'
 contributor:
 - organization:
     name:
@@ -31,7 +26,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '1990-01-01'
 language:
 - en
 script:
@@ -45,7 +39,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

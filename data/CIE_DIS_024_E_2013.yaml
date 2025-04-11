@@ -12,7 +12,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-dis-024-e-2013?product_id=1866873
+- content: https://store.accuristech.com/standards/cie-dis-024-e-2013?product_id=1866873
   type: src
 type: standard
 docid:
@@ -20,9 +20,6 @@ docid:
   type: CIE
   primary: true
 docnumber: DIS 024/E:2013
-date:
-- type: published
-  value: '2013-10-01'
 contributor:
 - organization:
     name:
@@ -32,7 +29,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2013-10-01'
 language:
 - en
 script:
@@ -66,7 +62,7 @@ relation:
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-s-017-sp1-e-2015?product_id=1905349
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-017-sp1-e-2015?product_id=1905349
       type: src
     docid:
     - id: CIE S 017-SP1/E:2015
@@ -90,7 +86,7 @@ relation:
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-dis-024-e-2015?product_id=1892851
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-dis-024-e-2015?product_id=1892851
       type: src
     docid:
     - id: CIE DIS 024/E:2015
@@ -100,7 +96,7 @@ relation:
     - type: published
       value: '2015-03-01'
     revdate: '2015-03-01'
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

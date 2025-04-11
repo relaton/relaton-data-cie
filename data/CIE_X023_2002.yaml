@@ -2,28 +2,23 @@
 schema-version: v1.2.9
 id: CIEx023-2002
 title:
-- content: Proceedings of two CIE Workshops on photometric measurements systems for
-    road lighting installations
+- content: Proceedings of Two CIE Workshops on Photometric Measurements Systems for
+    Road Lighting Installations
   format: text/plain
   type: title-main
-- content: Proceedings of two CIE Workshops on photometric measurements systems for
-    road lighting installations
+- content: Proceedings of Two CIE Workshops on Photometric Measurements Systems for
+    Road Lighting Installations
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-x023-2002?product_id=1210140
+- content: https://store.accuristech.com/standards/cie-x023-2002?product_id=1210140
   type: src
 type: standard
 docid:
 - id: CIE x023:2002
   type: CIE
   primary: true
-- id: '9783901906138'
-  type: ISBN
 docnumber: x023:2002
-date:
-- type: published
-  value: '2002-01-01'
 contributor:
 - organization:
     name:
@@ -33,7 +28,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2002-01-01'
 language:
 - en
 script:
@@ -46,7 +40,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

@@ -13,7 +13,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/high-dynamic-range-imaging-luminance-measuring-device-hdr-ilmd-and-applications-in-motion-po35-923-932?product_id=2011171
+- content: https://store.accuristech.com/standards/high-dynamic-range-imaging-luminance-measuring-device-hdr-ilmd-and-applications-in-motion-po35-923-932?product_id=2011171
   type: src
 type: standard
 docid:
@@ -21,9 +21,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PO35 923-932
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -123,7 +120,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -137,7 +133,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: CIEPO45Pages432-437
+title:
+- content: ENTROPY VERSUS FRACTAL COMPLEXITY FOR COMPUTER-GENERATED COLOUR FRACTAL
+    IMAGES (PO45, Pages 432-437)
+  format: text/plain
+  type: title-main
+- content: ENTROPY VERSUS FRACTAL COMPLEXITY FOR COMPUTER-GENERATED COLOUR FRACTAL
+    IMAGES (PO45, Pages 432-437)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/entropy-versus-fractal-complexity-for-computer-generated-colour-fractal-images-po45-pages-432-437?product_id=1941867
+  type: src
+type: standard
+docid:
+- id: CIE PO45 Pages 432-437
+  type: CIE
+  primary: true
+docnumber: PO45 Pages 432-437
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+      surname:
+        content: Ivanovici
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: "N"
+      surname:
+        content: Richard
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

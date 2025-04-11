@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: CIEOP13Pages69-79
+title:
+- content: VISUAL EXPERIMENTS ON THE STROBOSCOPIC EFFECTS OF PWM-MODULATED WHITE LED
+    INDOOR ILLUMINATIONS AND THEIR CONSEQUENCES (OP13, Pages 69-79)
+  format: text/plain
+  type: title-main
+- content: VISUAL EXPERIMENTS ON THE STROBOSCOPIC EFFECTS OF PWM-MODULATED WHITE LED
+    INDOOR ILLUMINATIONS AND THEIR CONSEQUENCES (OP13, Pages 69-79)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/visual-experiments-on-the-stroboscopic-effects-of-pwm-modulated-white-led-indoor-illuminations-and-their-consequences-op13-pages-69-79?product_id=1941815
+  type: src
+type: standard
+docid:
+- id: CIE OP13 Pages 69-79
+  type: CIE
+  primary: true
+docnumber: OP13 Pages 69-79
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+      surname:
+        content: Polin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: Q
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+      surname:
+        content: Tran
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

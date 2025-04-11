@@ -1,0 +1,47 @@
+---
+schema-version: v1.2.9
+id: CIE76-1988
+title:
+- content: Intercomparison on measurement of (total) spectral radiance factor of luminescent
+    specimens
+  format: text/plain
+  type: title-main
+- content: Intercomparison on measurement of (total) spectral radiance factor of luminescent
+    specimens
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/cie-76-1988?product_id=1210004
+  type: src
+type: standard
+docid:
+- id: CIE 76-1988
+  type: CIE
+  primary: true
+docnumber: 76-1988
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

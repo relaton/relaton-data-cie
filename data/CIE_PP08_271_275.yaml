@@ -9,7 +9,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/visibility-and-glare-study-of-led-embedded-signs-pp08-271-275?product_id=2016254
+- content: https://store.accuristech.com/standards/visibility-and-glare-study-of-led-embedded-signs-pp08-271-275?product_id=2016254
   type: src
 type: standard
 docid:
@@ -17,9 +17,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PP08 271-275
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -78,7 +75,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
         - content: ''
           language:
           - en
@@ -125,7 +122,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -139,7 +135,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

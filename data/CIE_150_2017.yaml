@@ -3,27 +3,22 @@ schema-version: v1.2.9
 id: CIE150-2017
 title:
 - content: Guide on the limitation of the effects of obtrusive light from outdoor
-    lighting installations, Second Edition
+    lighting installations
   format: text/plain
   type: title-main
 - content: Guide on the limitation of the effects of obtrusive light from outdoor
-    lighting installations, Second Edition
+    lighting installations
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-150-2017?product_id=1997388
+- content: https://store.accuristech.com/standards/cie-150-2017?product_id=1997388
   type: src
 type: standard
 docid:
 - id: CIE 150:2017
   type: CIE
   primary: true
-- id: '9783902842480'
-  type: ISBN
 docnumber: 150:2017
-date:
-- type: published
-  value: '2017-10-01'
 contributor:
 - organization:
     name:
@@ -33,9 +28,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-edition:
-  content: '2'
-revdate: '2017-10-01'
 language:
 - en
 script:
@@ -63,7 +55,7 @@ relation:
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-150-2003?product_id=1210066
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-150-2003?product_id=1210066
       type: src
     docid:
     - id: CIE 150:2003
@@ -73,7 +65,7 @@ relation:
     - type: published
       value: '2003-01-01'
     revdate: '2003-01-01'
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

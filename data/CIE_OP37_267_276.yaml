@@ -13,7 +13,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/a-new-dimming-control-scheme-of-led-streetlighting-luminaires-based-on-multi-domain-simulation-models-of-leds-in-order-to-achieve-constant-luminous-flux-at-different-ambient-temperatures-op37-267-276?product_id=2010480
+- content: https://store.accuristech.com/standards/a-new-dimming-control-scheme-of-led-streetlighting-luminaires-based-on-multi-domain-simulation-models-of-leds-in-order-to-achieve-constant-luminous-flux-at-different-ambient-temperatures-op37-267-276?product_id=2010480
   type: src
 type: standard
 docid:
@@ -21,9 +21,6 @@ docid:
   type: CIE
   primary: true
 docnumber: OP37 267-276
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -123,7 +120,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -137,7 +133,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

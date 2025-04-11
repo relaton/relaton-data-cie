@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/simulation-of-total-luminous-flux-measurement-for-panel-light-source-using-integrating-sphere-po45-990-996?product_id=2011180
+- content: https://store.accuristech.com/standards/simulation-of-total-luminous-flux-measurement-for-panel-light-source-using-integrating-sphere-po45-990-996?product_id=2011180
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PO45 990-996
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -68,7 +65,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Kawashima
         language:
@@ -104,7 +101,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Yamauchi
         language:
@@ -121,7 +118,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -135,7 +131,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

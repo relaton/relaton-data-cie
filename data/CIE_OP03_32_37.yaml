@@ -1,0 +1,105 @@
+---
+schema-version: v1.2.9
+id: CIEOP0332-37
+title:
+- content: WHITE LIGHT CHROMATICITY LOCUS FOR NATURALNESS (OP03, 32-37)
+  format: text/plain
+  type: title-main
+- content: WHITE LIGHT CHROMATICITY LOCUS FOR NATURALNESS (OP03, 32-37)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/white-light-chromaticity-locus-for-naturalness-op03-32-37?product_id=2009464
+  type: src
+type: standard
+docid:
+- id: CIE OP03 32-37
+  type: CIE
+  primary: true
+docnumber: OP03 32-37
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+      surname:
+        content: Jiamin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: Z
+      surname:
+        content: Qiyan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+      surname:
+        content: Luo
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

@@ -1,0 +1,107 @@
+---
+schema-version: v1.2.9
+id: CIEPO44Pages427-431
+title:
+- content: CONVOLUTION AND DECONVOLUTION OF BSDF DATA TO ENABLE INTER-INSTRUMENT COMPARISON
+    (PO44, Pages 427-431)
+  format: text/plain
+  type: title-main
+- content: CONVOLUTION AND DECONVOLUTION OF BSDF DATA TO ENABLE INTER-INSTRUMENT COMPARISON
+    (PO44, Pages 427-431)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/convolution-and-deconvolution-of-bsdf-data-to-enable-inter-instrument-comparison-po44-pages-427-431?product_id=1941866
+  type: src
+type: standard
+docid:
+- id: CIE PO44 Pages 427-431
+  type: CIE
+  primary: true
+docnumber: PO44 Pages 427-431
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+      surname:
+        content: Audenaert
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+      surname:
+        content: Hanselaer
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+      surname:
+        content: Leloup
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

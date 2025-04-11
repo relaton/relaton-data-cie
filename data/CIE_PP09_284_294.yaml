@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/material-appearance-management-techniques-with-affective-monitoring-pp09-284-294?product_id=2016256
+- content: https://store.accuristech.com/standards/material-appearance-management-techniques-with-affective-monitoring-pp09-284-294?product_id=2016256
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PP09 284-294
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -68,7 +65,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Hirasawa
         language:
@@ -86,7 +83,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: "N"
       surname:
         content: Tsumura
         language:
@@ -103,7 +100,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -117,7 +113,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

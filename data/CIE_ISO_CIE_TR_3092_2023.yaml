@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-iso-cie-tr-3092-2023-e?product_id=2580801
+- content: https://store.accuristech.com/standards/cie-iso-cie-tr-3092-2023-e?product_id=2580801
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: ISO/CIE TR 3092:2023
-date:
-- type: published
-  value: '2023-01-01'
 contributor:
 - organization:
     name:
@@ -31,7 +28,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2023-01-01'
 language:
 - en
 script:
@@ -45,7 +41,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

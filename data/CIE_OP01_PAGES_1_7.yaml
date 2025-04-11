@@ -1,0 +1,99 @@
+---
+schema-version: v1.2.9
+id: CIEOP01Pages1-7
+title:
+- content: PERCEPTION OF ILLUMINATION WHITENESS (OP01, Pages 1-7)
+  format: text/plain
+  type: title-main
+- content: PERCEPTION OF ILLUMINATION WHITENESS (OP01, Pages 1-7)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/perception-of-illumination-whiteness-op01-pages-1-7?product_id=1941802
+  type: src
+type: standard
+docid:
+- id: CIE OP01 Pages 1-7
+  type: CIE
+  primary: true
+docnumber: OP01 Pages 1-7
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+      surname:
+        content: Perz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+      surname:
+        content: Baselmans
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+      surname:
+        content: Sekulovski
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: CIEPO16Pages303-311
+title:
+- content: INVESTIGATION AND MEASUREMENT OF UNCERTAINTY CONTRIBUTORS FOR COLORIMETRIC
+    CALIBRATIONS (PO16, Pages 303-311)
+  format: text/plain
+  type: title-main
+- content: INVESTIGATION AND MEASUREMENT OF UNCERTAINTY CONTRIBUTORS FOR COLORIMETRIC
+    CALIBRATIONS (PO16, Pages 303-311)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/investigation-and-measurement-of-uncertainty-contributors-for-colorimetric-calibrations-po16-pages-303-311?product_id=1941848
+  type: src
+type: standard
+docid:
+- id: CIE PO16 Pages 303-311
+  type: CIE
+  primary: true
+docnumber: PO16 Pages 303-311
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: I
+      surname:
+        content: Kruger
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+      surname:
+        content: Coetzee
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

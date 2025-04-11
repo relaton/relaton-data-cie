@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/optimization-of-bimodal-quantum-dots-converted-white-leds-for-high-colour-rendition-pp24-394-403?product_id=2016278
+- content: https://store.accuristech.com/standards/optimization-of-bimodal-quantum-dots-converted-white-leds-for-high-colour-rendition-pp24-394-403?product_id=2016278
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PP24 394-403
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -32,7 +29,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
         - content: ''
           language:
           - en
@@ -73,7 +70,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -87,7 +83,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

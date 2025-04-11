@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-ds-023-e-2012?product_id=1826966
+- content: https://store.accuristech.com/standards/cie-ds-023-e-2012?product_id=1826966
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: DS 023/E:2012
-date:
-- type: published
-  value: '2012-03-01'
 contributor:
 - organization:
     name:
@@ -31,7 +28,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2012-03-01'
 language:
 - en
 script:
@@ -52,27 +48,27 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: CIEISO-CIE19476-2014
+    id: CIEISO19476-2014
     title:
-    - content: Characterization of the Performance of Illuminance Meters and Luminance
-        Meters
+    - content: Characterization of the performance of illuminance meters and luminance
+        meters
       format: text/plain
       type: title-main
-    - content: Characterization of the Performance of Illuminance Meters and Luminance
-        Meters
+    - content: Characterization of the performance of illuminance meters and luminance
+        meters
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-iso-cie-19476-2014?product_id=1880762
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-iso-19476-2014?product_id=1880762
       type: src
     docid:
-    - id: CIE ISO/CIE 19476:2014
+    - id: CIE ISO 19476:2014
       type: CIE
       primary: true
     date:
     - type: published
-      value: '2014-05-01'
-    revdate: '2014-05-01'
+      value: '2014-06-01'
+    revdate: '2014-06-01'
 - type: updates
   bibitem:
     id: CIES023-E-2013
@@ -86,7 +82,7 @@ relation:
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-s-023-e-2013?product_id=1857801
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-023-e-2013?product_id=1857801
       type: src
     docid:
     - id: CIE S 023/E:2013
@@ -109,7 +105,7 @@ relation:
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-069-1987?product_id=1210000
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-069-1987?product_id=1210000
       type: src
     docid:
     - id: CIE 069-1987
@@ -119,7 +115,7 @@ relation:
     - type: published
       value: '1987-01-01'
     revdate: '1987-01-01'
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

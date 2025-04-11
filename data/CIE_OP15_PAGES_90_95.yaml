@@ -1,0 +1,87 @@
+---
+schema-version: v1.2.9
+id: CIEOP15Pages90-95
+title:
+- content: COLOUR CONSPICUITY IN A COMPLEX LAYOUT (OP15, Pages 90-95)
+  format: text/plain
+  type: title-main
+- content: COLOUR CONSPICUITY IN A COMPLEX LAYOUT (OP15, Pages 90-95)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/colour-conspicuity-in-a-complex-layout-op15-pages-90-95?product_id=1941817
+  type: src
+type: standard
+docid:
+- id: CIE OP15 Pages 90-95
+  type: CIE
+  primary: true
+docnumber: OP15 Pages 90-95
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+      surname:
+        content: Ou
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+      surname:
+        content: Liu
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

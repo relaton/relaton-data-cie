@@ -1,0 +1,119 @@
+---
+schema-version: v1.2.9
+id: CIEOP22Pages140-146
+title:
+- content: SPECTRAL IMAGE ANALYSIS AND APPEARANCE RECONSTRUCTION OF FLUORESCENT OBJECTS
+    UNDER DIFFERENT ILLUMINATIONS (OP22, Pages 140-146)
+  format: text/plain
+  type: title-main
+- content: SPECTRAL IMAGE ANALYSIS AND APPEARANCE RECONSTRUCTION OF FLUORESCENT OBJECTS
+    UNDER DIFFERENT ILLUMINATIONS (OP22, Pages 140-146)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/spectral-image-analysis-and-appearance-reconstruction-of-fluorescent-objects-under-different-illuminations-op22-pages-140-146?product_id=1941824
+  type: src
+type: standard
+docid:
+- id: CIE OP22 Pages 140-146
+  type: CIE
+  primary: true
+docnumber: OP22 Pages 140-146
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+      surname:
+        content: Tominaga
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+      surname:
+        content: Kato
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+      surname:
+        content: Hirai
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+      surname:
+        content: Horiuchi
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

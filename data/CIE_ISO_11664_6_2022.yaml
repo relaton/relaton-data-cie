@@ -1,0 +1,121 @@
+---
+schema-version: v1.2.9
+id: CIEISO11664-6-2022
+title:
+- content: Colorimetry
+  format: text/plain
+  type: title-main
+- content: 'Part 6: CIEDE2000 colour-difference formula'
+  format: text/plain
+  type: title-part
+- content: 'Colorimetry - Part 6: CIEDE2000 colour-difference formula'
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/cie-iso-11664-6-2022?product_id=2502987
+  type: src
+type: standard
+docid:
+- id: CIE ISO 11664-6:2022
+  type: CIE
+  primary: true
+docnumber: ISO 11664-6:2022
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: CIEISO11664-6-2014
+    title:
+    - content: Colorimetry
+      format: text/plain
+      type: title-main
+    - content: 'Part 6: CIEDE2000 Colour-difference formula'
+      format: text/plain
+      type: title-part
+    - content: 'Colorimetry - Part 6: CIEDE2000 Colour-difference formula'
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-iso-11664-6-2014?product_id=1872458
+      type: src
+    docid:
+    - id: CIE ISO 11664-6:2014
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2014-02-01'
+    revdate: '2014-02-01'
+- type: updates
+  bibitem:
+    id: CIES014-6-E-2013
+    title:
+    - content: Colorimetry
+      format: text/plain
+      type: title-main
+    - content: 'Part 6: CIEDE2000 Colour-Difference Formula'
+      format: text/plain
+      type: title-part
+    - content: 'Colorimetry - Part 6: CIEDE2000 Colour-Difference Formula'
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-014-6-e-2013?product_id=1852484
+      type: src
+    docid:
+    - id: CIE S 014-6/E:2013
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2013-02-01'
+    revdate: '2013-02-01'
+- type: updates
+  bibitem:
+    id: CIEDS014-6-E-2012
+    title:
+    - content: Colorimetry
+      format: text/plain
+      type: title-main
+    - content: 'Part 6: CIEDE2000 Colour-Difference Formula'
+      format: text/plain
+      type: title-part
+    - content: 'Colorimetry - Part 6: CIEDE2000 Colour-Difference Formula'
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-ds-014-6-e-2012?product_id=1831709
+      type: src
+    docid:
+    - id: CIE DS 014-6/E:2012
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2012-04-30'
+    revdate: '2012-04-30'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

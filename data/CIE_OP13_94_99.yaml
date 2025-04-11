@@ -1,0 +1,121 @@
+---
+schema-version: v1.2.9
+id: CIEOP1394-99
+title:
+- content: |-
+    AGEING EFFECTS ON DISCOMFORT GLARE SENSATION AND THEIR MECHANISMS
+     (OP13, 94-99)
+  format: text/plain
+  type: title-main
+- content: |-
+    AGEING EFFECTS ON DISCOMFORT GLARE SENSATION AND THEIR MECHANISMS
+     (OP13, 94-99)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/ageing-effects-on-discomfort-glare-sensation-and-their-mechanisms-op13-94-99?product_id=2009530
+  type: src
+type: standard
+docid:
+- id: CIE OP13 94-99
+  type: CIE
+  primary: true
+docnumber: OP13 94-99
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: "Y"
+      surname:
+        content: Akashi
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+      surname:
+        content: Kojima
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+      surname:
+        content: Aoki
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+      surname:
+        content: Inatani
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

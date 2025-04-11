@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-x050-po078?product_id=2579122
+- content: https://store.accuristech.com/standards/cie-x050-po078?product_id=2579122
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: x050-PO078
-date:
-- type: published
-  value: '2023-12-29'
 contributor:
 - person:
     name:
@@ -50,7 +47,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: "N"
       surname:
         content: Yoshizawa
         language:
@@ -86,7 +83,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Hori
         language:
@@ -122,7 +119,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Oe
         language:
@@ -175,7 +172,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2023-12-29'
 language:
 - en
 script:
@@ -189,7 +185,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

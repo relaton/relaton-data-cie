@@ -9,7 +9,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-d001-2006?product_id=1210078
+- content: https://store.accuristech.com/standards/cie-d001-2006?product_id=1210078
   type: src
 type: standard
 docid:
@@ -17,9 +17,6 @@ docid:
   type: CIE
   primary: true
 docnumber: D001-2006
-date:
-- type: published
-  value: '2006-01-01'
 contributor:
 - organization:
     name:
@@ -29,7 +26,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2006-01-01'
 language:
 - en
 script:
@@ -43,7 +39,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

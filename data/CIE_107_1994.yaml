@@ -11,19 +11,14 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-107-1994?product_id=1210029
+- content: https://store.accuristech.com/standards/cie-107-1994?product_id=1210029
   type: src
 type: standard
 docid:
 - id: CIE 107-1994
   type: CIE
   primary: true
-- id: '9783900734497'
-  type: ISBN
 docnumber: 107-1994
-date:
-- type: published
-  value: '1994-01-01'
 contributor:
 - organization:
     name:
@@ -33,7 +28,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '1994-01-01'
 language:
 - en
 script:
@@ -74,24 +68,24 @@ relation:
   bibitem:
     id: CIES004-E-2001
     title:
-    - content: Colours of light signals
+    - content: Colours of Light Signals
       format: text/plain
       type: title-main
-    - content: Colours of light signals
+    - content: Colours of Light Signals
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-s004-e-2001?product_id=1210135
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-004-e-2001?product_id=1210135
       type: src
     docid:
-    - id: CIE S004/E-2001
+    - id: CIE S 004/E-2001
       type: CIE
       primary: true
     date:
     - type: published
       value: '2001-01-01'
     revdate: '2001-01-01'
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

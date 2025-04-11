@@ -14,19 +14,14 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-x046-2019?product_id=2099822
+- content: https://store.accuristech.com/standards/cie-x046-2019?product_id=2099822
   type: src
 type: standard
 docid:
 - id: CIE x046:2019
   type: CIE
   primary: true
-- id: '9783902842749'
-  type: ISBN
 docnumber: x046:2019
-date:
-- type: published
-  value: '2020'
 contributor:
 - organization:
     name:
@@ -36,7 +31,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2020'
 language:
 - en
 script:
@@ -50,7 +44,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

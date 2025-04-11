@@ -2,19 +2,19 @@
 schema-version: v1.2.9
 id: CIES016-E-2005
 title:
-- content: Lighting of Work Places
+- content: Lighting of work places
   format: text/plain
   type: title-main
-- content: 'Part 3: Lighting Requirements for Safety and Security of Outdoor Work
-    Places'
+- content: 'Part 3: Lighting requirements for safety and security of outdoor work
+    places'
   format: text/plain
   type: title-part
-- content: 'Lighting of Work Places - Part 3: Lighting Requirements for Safety and
-    Security of Outdoor Work Places'
+- content: 'Lighting of work places - Part 3: Lighting requirements for safety and
+    security of outdoor work places'
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-s-016-e-2005-iso-8995-3-2006?product_id=1529686
+- content: https://store.accuristech.com/standards/cie-s-016-e-2005-iso-8995-3-2006-e?product_id=1529686
   type: src
 type: standard
 docid:
@@ -24,9 +24,6 @@ docid:
 - id: ISO 8995-3:2006
   type: ISO
 docnumber: S 016/E:2005
-date:
-- type: published
-  value: '2006-11-01'
 contributor:
 - organization:
     name:
@@ -36,7 +33,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2006-11-01'
 language:
 - en
 script:
@@ -53,33 +49,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: ISO-CIE8995-3-2018
-    title:
-    - content: Lighting of Work Places
-      format: text/plain
-      type: title-main
-    - content: 'Part 3: Lighting Requirements for Safety and Security of Outdoor Work
-        Places'
-      format: text/plain
-      type: title-part
-    - content: 'Lighting of Work Places - Part 3: Lighting Requirements for Safety
-        and Security of Outdoor Work Places'
-      format: text/plain
-      type: main
-    link:
-    - content: https://www.techstreet.com/cie/standards/iso-cie-8995-3-2018?product_id=2078729
-      type: src
-    docid:
-    - id: ISO/CIE 8995-3:2018
-      type: CIE
-      primary: true
-    date:
-    - type: published
-      value: '2019-02-01'
-    revdate: '2019-02-01'
-- type: updates
-  bibitem:
-    id: ISO-CIE8995-3-2018
+    id: CIEISO8995-3-2018
     title:
     - content: Lighting of work places
       format: text/plain
@@ -93,69 +63,17 @@ relation:
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/iso-cie-8995-3-2018?product_id=2011881
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-iso-8995-3-2018?product_id=2078729
       type: src
     docid:
-    - id: ISO/CIE 8995-3:2018
+    - id: CIE ISO 8995-3:2018
       type: CIE
       primary: true
     date:
     - type: published
       value: '2018-03-01'
     revdate: '2018-03-01'
-- type: updates
-  bibitem:
-    id: ISO-CIE8995-3-2006
-    title:
-    - content: Lighting of work places
-      format: text/plain
-      type: title-main
-    - content: 'Part 3: Lighting requirements for safety and security of outdoor work
-        places'
-      format: text/plain
-      type: title-part
-    - content: 'Lighting of work places - Part 3: Lighting requirements for safety
-        and security of outdoor work places'
-      format: text/plain
-      type: main
-    link:
-    - content: https://www.techstreet.com/cie/standards/iso-cie-8995-3-2006?product_id=1311131
-      type: src
-    docid:
-    - id: ISO/CIE 8995-3:2006
-      type: CIE
-      primary: true
-    date:
-    - type: published
-      value: '2006-11-01'
-    revdate: '2006-11-01'
-- type: updates
-  bibitem:
-    id: ISO8995-3-2006
-    title:
-    - content: Lighting of work places
-      format: text/plain
-      type: title-main
-    - content: 'Part 3: Lighting requirements for safety and security of outdoor work
-        places'
-      format: text/plain
-      type: title-part
-    - content: 'Lighting of work places - Part 3: Lighting requirements for safety
-        and security of outdoor work places'
-      format: text/plain
-      type: main
-    link:
-    - content: https://www.techstreet.com/cie/standards/iso-8995-3-2006?product_id=1676146
-      type: src
-    docid:
-    - id: ISO 8995-3:2006
-      type: CIE
-      primary: true
-    date:
-    - type: published
-      value: '2006-10-15'
-    revdate: '2006-10-15'
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

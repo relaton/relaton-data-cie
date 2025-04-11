@@ -9,7 +9,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/pedestrians-support-system-using-visible-light-communication-op17-100-105?product_id=2016231
+- content: https://store.accuristech.com/standards/pedestrians-support-system-using-visible-light-communication-op17-100-105?product_id=2016231
   type: src
 type: standard
 docid:
@@ -17,9 +17,6 @@ docid:
   type: CIE
   primary: true
 docnumber: OP17 100-105
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -48,7 +45,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Kitani
         language:
@@ -101,7 +98,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -115,7 +111,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

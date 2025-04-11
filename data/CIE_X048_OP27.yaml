@@ -9,7 +9,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-x048-op27?product_id=2240717
+- content: https://store.accuristech.com/standards/cie-x048-op27?product_id=2240717
   type: src
 type: standard
 docid:
@@ -17,9 +17,6 @@ docid:
   type: CIE
   primary: true
 docnumber: x048-OP27
-date:
-- type: published
-  value: '2021-09-29'
 contributor:
 - person:
     name:
@@ -77,7 +74,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2021-09-29'
 language:
 - en
 script:
@@ -91,7 +87,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

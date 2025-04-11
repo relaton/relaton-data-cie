@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/influence-of-circadian-stimulus-and-colour-temperature-on-children-s-study-performance-and-fatigue-op03-6-10?product_id=2016198
+- content: https://store.accuristech.com/standards/influence-of-circadian-stimulus-and-colour-temperature-on-children-s-study-performance-and-fatigue-op03-6-10?product_id=2016198
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: OP03 6-10
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -127,7 +124,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -141,7 +137,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

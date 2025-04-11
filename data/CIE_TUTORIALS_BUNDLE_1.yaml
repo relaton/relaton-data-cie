@@ -9,7 +9,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-tutorials-bundle-1?product_id=2187311
+- content: https://store.accuristech.com/standards/cie-tutorials-bundle-1?product_id=2187311
   type: src
 type: standard
 docid:
@@ -17,9 +17,6 @@ docid:
   type: CIE
   primary: true
 docnumber: Tutorials Bundle 1
-date:
-- type: published
-  value: '2020'
 contributor:
 - organization:
     name:
@@ -29,12 +26,11 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2020'
 language:
 - en
 script:
 - Latn
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

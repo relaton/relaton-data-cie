@@ -12,7 +12,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-iso-23539-2023?product_id=2562836
+- content: https://store.accuristech.com/standards/cie-iso-23539-2023?product_id=2562836
   type: src
 type: standard
 docid:
@@ -20,9 +20,6 @@ docid:
   type: CIE
   primary: true
 docnumber: ISO 23539:2023
-date:
-- type: published
-  value: '2023'
 contributor:
 - organization:
     name:
@@ -32,7 +29,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2023'
 language:
 - en
 script:
@@ -61,7 +57,7 @@ relation:
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-iso-dis-23539-2021?product_id=2246149
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-iso-dis-23539-2021?product_id=2246149
       type: src
     docid:
     - id: CIE ISO DIS 23539:2021
@@ -85,7 +81,7 @@ relation:
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-s-010-e-2004-iso-23539-2005?product_id=1210115
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-010-e-2004-iso-23539-2005?product_id=1210115
       type: src
     docid:
     - id: CIE S 010/E:2004 (ISO 23539:2005)
@@ -95,7 +91,7 @@ relation:
     - type: published
       value: '2005-08-01'
     revdate: '2005-08-01'
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

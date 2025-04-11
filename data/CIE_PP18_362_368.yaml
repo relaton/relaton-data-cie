@@ -9,7 +9,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/a-visual-evaluation-of-colour-differences-between-3d-objects-pp18-362-368?product_id=2016273
+- content: https://store.accuristech.com/standards/a-visual-evaluation-of-colour-differences-between-3d-objects-pp18-362-368?product_id=2016273
   type: src
 type: standard
 docid:
@@ -17,9 +17,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PP18 362-368
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -97,7 +94,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -111,7 +107,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

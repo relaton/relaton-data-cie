@@ -9,15 +9,13 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-250-2022?product_id=2256732
+- content: https://store.accuristech.com/standards/cie-250-2022?product_id=2256732
   type: src
 type: standard
 docid:
 - id: CIE 250:2022
   type: CIE
   primary: true
-- id: '9783902842237'
-  type: ISBN
 docnumber: 250:2022
 contributor:
 - organization:
@@ -53,7 +51,7 @@ relation:
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-063-1984?product_id=1210127
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-063-1984?product_id=1210127
       type: src
     docid:
     - id: CIE 063-1984
@@ -63,7 +61,7 @@ relation:
     - type: published
       value: '1984-01-01'
     revdate: '1984-01-01'
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

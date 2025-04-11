@@ -9,19 +9,14 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-199-2011?product_id=1809293
+- content: https://store.accuristech.com/standards/cie-199-2011?product_id=1809293
   type: src
 type: standard
 docid:
 - id: CIE 199:2011
   type: CIE
   primary: true
-- id: '9783902842381'
-  type: ISBN
 docnumber: 199:2011
-date:
-- type: published
-  value: '2011-09-01'
 contributor:
 - organization:
     name:
@@ -31,7 +26,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2011-09-01'
 language:
 - en
 script:
@@ -45,7 +39,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

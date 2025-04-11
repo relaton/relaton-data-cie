@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-dis-026-e-2018?product_id=2019562
+- content: https://store.accuristech.com/standards/cie-dis-026-e-2018?product_id=2019562
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: DIS 026/E:2018
-date:
-- type: published
-  value: '2018-07-01'
 contributor:
 - organization:
     name:
@@ -31,7 +28,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-07-01'
 language:
 - en
 script:
@@ -52,7 +48,7 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: CIES026-E-2018
+    id: CIES026-2018
     title:
     - content: CIE System for Metrology of Optical Radiation for ipRGC-Influenced
         Responses to Light
@@ -63,17 +59,17 @@ relation:
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-s-026-e-2018?product_id=2030705
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-026-2018?product_id=2030705
       type: src
     docid:
-    - id: CIE S 026/E:2018
+    - id: CIE S 026:2018
       type: CIE
       primary: true
     date:
     - type: published
       value: '2018-12-01'
     revdate: '2018-12-01'
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

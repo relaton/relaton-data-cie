@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.9
+id: CIES009-2002
+title:
+- content: Photobiological safety of lamps and lamp systems (bilingual edition)
+  format: text/plain
+  type: title-main
+- content: Photobiological safety of lamps and lamp systems (bilingual edition)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/cie-s-009-2002-iec-62471-2006?product_id=1519485
+  type: src
+type: standard
+docid:
+- id: CIE S 009:2002
+  type: CIE
+  primary: true
+- id: IEC 62471:2006
+  type: IEC
+docnumber: S 009:2002
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: CIES009-G-2002
+    title:
+    - content: Photobiologische Sicherheit von Lampen und Lampensystemen
+      format: text/plain
+      type: title-main
+    - content: Photobiologische Sicherheit von Lampen und Lampensystemen
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-009-g-2002?product_id=1210087
+      type: src
+    docid:
+    - id: CIE S 009/G:2002
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2002-01-01'
+    revdate: '2002-01-01'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

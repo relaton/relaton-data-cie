@@ -1,0 +1,205 @@
+---
+schema-version: v1.2.9
+id: CIEOP0653-62
+title:
+- content: |-
+    GLOBAL INTERLABORATORY COMPARISON OF GONIOPHOTOMETER MEASUREMENTS USING LIGHT EMITTING DIODE ARTEFACTS
+     (OP06, 53-62)
+  format: text/plain
+  type: title-main
+- content: |-
+    GLOBAL INTERLABORATORY COMPARISON OF GONIOPHOTOMETER MEASUREMENTS USING LIGHT EMITTING DIODE ARTEFACTS
+     (OP06, 53-62)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/global-interlaboratory-comparison-of-goniophotometer-measurements-using-light-emitting-diode-artefacts-op06-53-62?product_id=2009521
+  type: src
+type: standard
+docid:
+- id: CIE OP06 53-62
+  type: CIE
+  primary: true
+docnumber: OP06 53-62
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+      surname:
+        content: Jeon
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: "Y"
+      surname:
+        content: Ohno
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+      surname:
+        content: Nara
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+      surname:
+        content: Scholand
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+      surname:
+        content: Dubard
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: "N"
+      surname:
+        content: Borg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+      surname:
+        content: Boughey
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+      surname:
+        content: Bennich
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

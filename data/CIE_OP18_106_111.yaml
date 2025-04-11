@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/new-empirical-data-for-pedestrian-lighting-effect-on-recognition-ability-on-real-3d-facial-expression-op18-106-111?product_id=2016232
+- content: https://store.accuristech.com/standards/new-empirical-data-for-pedestrian-lighting-effect-on-recognition-ability-on-real-3d-facial-expression-op18-106-111?product_id=2016232
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: OP18 106-111
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -65,7 +62,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -79,7 +75,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

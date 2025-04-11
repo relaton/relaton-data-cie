@@ -9,7 +9,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/investigation-of-glare-metrics-for-reflected-glare-on-displays-op15-84-92?product_id=2016209
+- content: https://store.accuristech.com/standards/investigation-of-glare-metrics-for-reflected-glare-on-displays-op15-84-92?product_id=2016209
   type: src
 type: standard
 docid:
@@ -17,9 +17,6 @@ docid:
   type: CIE
   primary: true
 docnumber: OP15 84-92
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -101,7 +98,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -115,7 +111,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

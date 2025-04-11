@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/influence-factors-for-discomfort-glare-of-headlamps-and-a-new-model-for-its-estimation-po94-1122-1134?product_id=2011228
+- content: https://store.accuristech.com/standards/influence-factors-for-discomfort-glare-of-headlamps-and-a-new-model-for-its-estimation-po94-1122-1134?product_id=2011228
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PO94 1122-1134
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -103,7 +100,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -117,7 +113,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

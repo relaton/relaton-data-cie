@@ -15,7 +15,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/measurement-of-illuminance-satisfaction-regard-to-duties-and-new-control-method-of-intelligent-lighting-system-using-satisfaction-level-pp18-589-596?product_id=2011273
+- content: https://store.accuristech.com/standards/measurement-of-illuminance-satisfaction-regard-to-duties-and-new-control-method-of-intelligent-lighting-system-using-satisfaction-level-pp18-589-596?product_id=2011273
   type: src
 type: standard
 docid:
@@ -23,9 +23,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PP18 589-596
-date:
-- type: published
-  value: '1951-10-23'
 contributor:
 - person:
     name:
@@ -36,7 +33,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: "N"
       surname:
         content: Hiroaki
         language:
@@ -161,7 +158,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '1951-10-23'
 language:
 - en
 script:
@@ -175,7 +171,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

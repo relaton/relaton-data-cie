@@ -9,7 +9,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-s-019-e-2006-iso-28077-2006?product_id=1527905
+- content: https://store.accuristech.com/standards/cie-s-019-e-2006-iso-28077-2006?product_id=1527905
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
 - id: ISO 28077:2006
   type: ISO
 docnumber: S 019/E:2006
-date:
-- type: published
-  value: '2007-09-01'
 contributor:
 - organization:
     name:
@@ -31,7 +28,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2007-09-01'
 language:
 - en
 script:
@@ -56,16 +52,37 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: CIEISO28077-2016
+    id: CIEISO28077-2024
     title:
-    - content: Photocarcinogenesis Action Spectrum (Non-Melanoma Skin Cancers)
+    - content: Photocarcinogenesis action spectrum (non-melanoma skin cancers)
       format: text/plain
       type: title-main
-    - content: Photocarcinogenesis Action Spectrum (Non-Melanoma Skin Cancers)
+    - content: Photocarcinogenesis action spectrum (non-melanoma skin cancers)
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-iso-28077-2016?product_id=1983057
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-iso-28077-2024?product_id=2920753
+      type: src
+    docid:
+    - id: CIE ISO 28077:2024
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2024-10-01'
+    revdate: '2024-10-01'
+- type: updates
+  bibitem:
+    id: CIEISO28077-2016
+    title:
+    - content: Photocarcinogenesis action spectrum (non-melanoma skin cancers)
+      format: text/plain
+      type: title-main
+    - content: Photocarcinogenesis action spectrum (non-melanoma skin cancers)
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-iso-28077-2016?product_id=1983057
       type: src
     docid:
     - id: CIE ISO 28077:2016
@@ -73,9 +90,9 @@ relation:
       primary: true
     date:
     - type: published
-      value: '2017-06-01'
-    revdate: '2017-06-01'
-doctype:
-  type: document
+      value: '2016-10-01'
+    revdate: '2016-10-01'
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

@@ -9,7 +9,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-dis-025-sp1-e-2019?product_id=2078723
+- content: https://store.accuristech.com/standards/cie-dis-025-sp1-e-2019?product_id=2078723
   type: src
 type: standard
 docid:
@@ -17,9 +17,6 @@ docid:
   type: CIE
   primary: true
 docnumber: DIS 025-SP1/E:2019
-date:
-- type: published
-  value: '2019-03-01'
 contributor:
 - organization:
     name:
@@ -29,7 +26,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2019-03-01'
 language:
 - en
 script:
@@ -53,16 +49,18 @@ relation:
   bibitem:
     id: CIES025-SP1-E-2019
     title:
-    - content: 'Test Method for LED Lamps, LED Luminaires and LED Modules Supplement
-        1: Test Method for OLED Luminaires and OLED Light Sources'
+    - content: Test Method for LED Lamps, LED Luminaires and LED Modules
+      format: text/plain
+      type: title-intro
+    - content: 'Supplement 1: Test Method for OLED Luminaires and OLED Light Sources'
       format: text/plain
       type: title-main
-    - content: 'Test Method for LED Lamps, LED Luminaires and LED Modules Supplement
+    - content: 'Test Method for LED Lamps, LED Luminaires and LED Modules - Supplement
         1: Test Method for OLED Luminaires and OLED Light Sources'
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-s-025-sp1-e-2019?product_id=2092150
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-025-sp1-e-2019?product_id=2092150
       type: src
     docid:
     - id: CIE S 025-SP1/E:2019
@@ -72,7 +70,7 @@ relation:
     - type: published
       value: '2019-11-01'
     revdate: '2019-11-01'
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

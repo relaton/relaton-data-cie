@@ -1,0 +1,119 @@
+---
+schema-version: v1.2.9
+id: CIEPO27Pages334-344
+title:
+- content: OPTIMIZATION OF WHITE LED SPECTRUM UNDER MESOPIC CONDITION BASED ON 3D
+    COLOUR GAMUT (PO27, Pages 334-344)
+  format: text/plain
+  type: title-main
+- content: OPTIMIZATION OF WHITE LED SPECTRUM UNDER MESOPIC CONDITION BASED ON 3D
+    COLOUR GAMUT (PO27, Pages 334-344)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/optimization-of-white-led-spectrum-under-mesopic-condition-based-on-3d-colour-gamut-po27-pages-334-344?product_id=1941854
+  type: src
+type: standard
+docid:
+- id: CIE PO27 Pages 334-344
+  type: CIE
+  primary: true
+docnumber: PO27 Pages 334-344
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+      surname:
+        content: Li
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: L
+      surname:
+        content: Sun
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+      surname:
+        content: Luo
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

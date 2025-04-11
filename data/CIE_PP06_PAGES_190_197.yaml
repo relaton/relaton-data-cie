@@ -1,0 +1,83 @@
+---
+schema-version: v1.2.9
+id: CIEPP06Pages190-197
+title:
+- content: DIRECTIONAL LIGHT OF LED ARRAYS AND ITS INFLUENCE ON SHAPE PERCEPTION (PP06,
+    Pages 190-197)
+  format: text/plain
+  type: title-main
+- content: DIRECTIONAL LIGHT OF LED ARRAYS AND ITS INFLUENCE ON SHAPE PERCEPTION (PP06,
+    Pages 190-197)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/directional-light-of-led-arrays-and-its-influence-on-shape-perception-pp06-pages-190-197?product_id=1941831
+  type: src
+type: standard
+docid:
+- id: CIE PP06 Pages 190-197
+  type: CIE
+  primary: true
+docnumber: PP06 Pages 190-197
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+      surname:
+        content: Kruger
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+      surname:
+        content: Schierz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

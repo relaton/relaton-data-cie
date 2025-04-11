@@ -1,0 +1,139 @@
+---
+schema-version: v1.2.9
+id: CIEPO43Pages417-426
+title:
+- content: 'A CORRECTION METHOD FOR SKIN REFLECTANCE OBTAINED WITH DIFFERENT SPECTROPHOTOMETERS
+    AND ITS APPLICATION: LONG-TERM CHANGES IN THE SKIN COLOUR OF JAPANESE FEMALES
+    (PO43, Pages 417-426)'
+  format: text/plain
+  type: title-main
+- content: 'A CORRECTION METHOD FOR SKIN REFLECTANCE OBTAINED WITH DIFFERENT SPECTROPHOTOMETERS
+    AND ITS APPLICATION: LONG-TERM CHANGES IN THE SKIN COLOUR OF JAPANESE FEMALES
+    (PO43, Pages 417-426)'
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/a-correction-method-for-skin-reflectance-obtained-with-different-spectrophotometers-and-its-application-long-term-changes-in-the-skin-colour-of-japanese-females-po43-pages-417-426?product_id=1941865
+  type: src
+type: standard
+docid:
+- id: CIE PO43 Pages 417-426
+  type: CIE
+  primary: true
+docnumber: PO43 Pages 417-426
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+      surname:
+        content: Kikuchi
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+      surname:
+        content: Katagiri
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+      surname:
+        content: Yoshikawa
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: "Y"
+      surname:
+        content: Mizokami
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+      surname:
+        content: Yaguchi
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

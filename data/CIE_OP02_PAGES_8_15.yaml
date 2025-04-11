@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.9
+id: CIEOP02Pages8-15
+title:
+- content: BRIGHTNESS PERCEPTION OF RELATED SELF-LUMINOUS STIMULI (OP02, Pages 8-15)
+  format: text/plain
+  type: title-main
+- content: BRIGHTNESS PERCEPTION OF RELATED SELF-LUMINOUS STIMULI (OP02, Pages 8-15)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/brightness-perception-of-related-self-luminous-stimuli-op02-pages-8-15?product_id=1941805
+  type: src
+type: standard
+docid:
+- id: CIE OP02 Pages 8-15
+  type: CIE
+  primary: true
+docnumber: OP02 Pages 8-15
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+      surname:
+        content: Hermans
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+      surname:
+        content: Smet
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+      surname:
+        content: Hanselaer
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

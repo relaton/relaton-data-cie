@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/main-problems-and-solutions-for-temporary-exhibition-space-lighting-po29-556-563?product_id=2016305
+- content: https://store.accuristech.com/standards/main-problems-and-solutions-for-temporary-exhibition-space-lighting-po29-556-563?product_id=2016305
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PO29 556-563
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -85,7 +82,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -99,7 +95,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

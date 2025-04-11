@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.9
+id: CIEISO10916-2024
+title:
+- content: Light and lighting
+  format: text/plain
+  type: title-intro
+- content: Energy performance of lighting in buildings
+  format: text/plain
+  type: title-main
+- content: Calculation of the impact of daylight utilization
+  format: text/plain
+  type: title-part
+- content: Light and lighting - Energy performance of lighting in buildings - Calculation
+    of the impact of daylight utilization
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/cie-iso-10916-2024?product_id=2923960
+  type: src
+type: standard
+docid:
+- id: CIE ISO 10916:2024
+  type: CIE
+  primary: true
+docnumber: ISO 10916:2024
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

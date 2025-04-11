@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.9
+id: CIES004-E-2001
+title:
+- content: Colours of Light Signals
+  format: text/plain
+  type: title-main
+- content: Colours of Light Signals
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/cie-s-004-e-2001?product_id=1210135
+  type: src
+type: standard
+docid:
+- id: CIE S 004/E-2001
+  type: CIE
+  primary: true
+docnumber: S 004/E-2001
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: CIE107-1994
+    title:
+    - content: Review of the official recommendations of the CIE for the colours of
+        signal lights
+      format: text/plain
+      type: title-main
+    - content: Review of the official recommendations of the CIE for the colours of
+        signal lights
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-107-1994?product_id=1210029
+      type: src
+    docid:
+    - id: CIE 107-1994
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '1994-01-01'
+    revdate: '1994-01-01'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

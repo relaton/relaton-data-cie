@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/colour-barrier-free-illumination-using-multispectral-lighting-system-po07-434-440?product_id=2016285
+- content: https://store.accuristech.com/standards/colour-barrier-free-illumination-using-multispectral-lighting-system-po07-434-440?product_id=2016285
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PO07 434-440
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -79,7 +76,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -93,7 +89,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

@@ -1,0 +1,119 @@
+---
+schema-version: v1.2.9
+id: CIEPO05Pages224-229
+title:
+- content: PREFERABLE LIGHTING CONDITION TO IMPROVE APPEARANCE OF WOMAN'S FACIAL SKIN
+    WITH COSMETIC FOUNDATION (PO05, Pages 224-229)
+  format: text/plain
+  type: title-main
+- content: PREFERABLE LIGHTING CONDITION TO IMPROVE APPEARANCE OF WOMAN'S FACIAL SKIN
+    WITH COSMETIC FOUNDATION (PO05, Pages 224-229)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/preferable-lighting-condition-to-improve-appearance-of-woman-s-facial-skin-with-cosmetic-foundation-po05-pages-224-229?product_id=1941836
+  type: src
+type: standard
+docid:
+- id: CIE PO05 Pages 224-229
+  type: CIE
+  primary: true
+docnumber: PO05 Pages 224-229
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+      surname:
+        content: Okuda
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+      surname:
+        content: Komai
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: "Y"
+      surname:
+        content: Tanigawa
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+      surname:
+        content: Okajima
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

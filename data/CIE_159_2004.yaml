@@ -9,19 +9,14 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-159-2004?product_id=1210075
+- content: https://store.accuristech.com/standards/cie-159-2004?product_id=1210075
   type: src
 type: standard
 docid:
 - id: CIE 159:2004
   type: CIE
   primary: true
-- id: '9783901906299'
-  type: ISBN
 docnumber: 159:2004
-date:
-- type: published
-  value: '2004-01-01'
 contributor:
 - organization:
     name:
@@ -31,7 +26,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2004-01-01'
 language:
 - en
 script:
@@ -59,7 +53,7 @@ relation:
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-248-2022?product_id=2252795
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-248-2022?product_id=2252795
       type: src
     docid:
     - id: CIE 248:2022
@@ -69,7 +63,7 @@ relation:
     - type: published
       value: '2022-03-01'
     revdate: '2022-03-01'
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

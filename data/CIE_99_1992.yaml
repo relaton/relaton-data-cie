@@ -1,0 +1,45 @@
+---
+schema-version: v1.2.9
+id: CIE99-1992
+title:
+- content: Lighting education (1983-1989)
+  format: text/plain
+  type: title-main
+- content: Lighting education (1983-1989)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/cie-99-1992?product_id=1210021
+  type: src
+type: standard
+docid:
+- id: CIE 99-1992
+  type: CIE
+  primary: true
+docnumber: 99-1992
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

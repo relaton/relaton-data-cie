@@ -9,7 +9,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-x050-po115?product_id=2579149
+- content: https://store.accuristech.com/standards/cie-x050-po115?product_id=2579149
   type: src
 type: standard
 docid:
@@ -17,9 +17,6 @@ docid:
   type: CIE
   primary: true
 docnumber: x050-PO115
-date:
-- type: published
-  value: '2023-12-29'
 contributor:
 - person:
     name:
@@ -30,7 +27,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Kato
         language:
@@ -102,7 +99,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: "N"
       surname:
         content: Sano
         language:
@@ -119,7 +116,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2023-12-29'
 language:
 - en
 script:
@@ -133,7 +129,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

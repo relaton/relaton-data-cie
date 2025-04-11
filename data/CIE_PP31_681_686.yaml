@@ -15,7 +15,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/blh-leds-and-cct-equivalent-melanopic-illuminances-pp31-681-686?product_id=2011362
+- content: https://store.accuristech.com/standards/blh-leds-and-cct-equivalent-melanopic-illuminances-pp31-681-686?product_id=2011362
   type: src
 type: standard
 docid:
@@ -23,9 +23,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PP31 681-686
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -65,7 +62,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -79,7 +75,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

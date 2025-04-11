@@ -1,0 +1,45 @@
+---
+schema-version: v1.2.9
+id: CIE45-1979
+title:
+- content: Lighting for ice sports
+  format: text/plain
+  type: title-main
+- content: Lighting for ice sports
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/cie-45-1979?product_id=1209977
+  type: src
+type: standard
+docid:
+- id: CIE 45-1979
+  type: CIE
+  primary: true
+docnumber: 45-1979
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

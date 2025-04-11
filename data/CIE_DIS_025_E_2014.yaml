@@ -9,7 +9,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-dis-025-e-2014?product_id=1883425
+- content: https://store.accuristech.com/standards/cie-dis-025-e-2014?product_id=1883425
   type: src
 type: standard
 docid:
@@ -17,9 +17,6 @@ docid:
   type: CIE
   primary: true
 docnumber: DIS 025/E:2014
-date:
-- type: published
-  value: '2014-09-01'
 contributor:
 - organization:
     name:
@@ -29,7 +26,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2014-09-01'
 language:
 - en
 script:
@@ -50,7 +46,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

@@ -9,19 +9,14 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-209-2014?product_id=1876145
+- content: https://store.accuristech.com/standards/cie-209-2014?product_id=1876145
   type: src
 type: standard
 docid:
 - id: CIE 209:2014
   type: CIE
   primary: true
-- id: '9783902842350'
-  type: ISBN
 docnumber: 209:2014
-date:
-- type: published
-  value: '2014-04-17'
 contributor:
 - organization:
     name:
@@ -31,7 +26,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2014-04-17'
 language:
 - en
 script:
@@ -45,7 +39,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

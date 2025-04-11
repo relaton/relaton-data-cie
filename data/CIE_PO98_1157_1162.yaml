@@ -13,7 +13,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/the-shading-effect-caused-by-opaque-solar-panel-integrated-with-agricultural-greenhouse-po98-1157-1162?product_id=2011252
+- content: https://store.accuristech.com/standards/the-shading-effect-caused-by-opaque-solar-panel-integrated-with-agricultural-greenhouse-po98-1157-1162?product_id=2011252
   type: src
 type: standard
 docid:
@@ -21,9 +21,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PO98 1157-1162
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -70,7 +67,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Zhang
         language:
@@ -123,7 +120,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -137,7 +133,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

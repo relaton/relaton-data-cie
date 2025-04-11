@@ -1,0 +1,101 @@
+---
+schema-version: v1.2.9
+id: CIEPO41Pages401-407
+title:
+- content: EVALUATION INDEX FOR THE VISUAL APPEARANCE AND THE TACTILE TEXTURE (PO41,
+    Pages 401-407)
+  format: text/plain
+  type: title-main
+- content: EVALUATION INDEX FOR THE VISUAL APPEARANCE AND THE TACTILE TEXTURE (PO41,
+    Pages 401-407)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/evaluation-index-for-the-visual-appearance-and-the-tactile-texture-po41-pages-401-407?product_id=1941863
+  type: src
+type: standard
+docid:
+- id: CIE PO41 Pages 401-407
+  type: CIE
+  primary: true
+docnumber: PO41 Pages 401-407
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+      surname:
+        content: Kitamura
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+      surname:
+        content: Sugita
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: "N"
+      surname:
+        content: Isoda
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

@@ -9,19 +9,14 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-252-2024?product_id=2902550
+- content: https://store.accuristech.com/standards/cie-252-2024?product_id=2902550
   type: src
 type: standard
 docid:
 - id: CIE 252:2024
   type: CIE
   primary: true
-- id: '9783902842961'
-  type: ISBN
 docnumber: 252:2024
-date:
-- type: published
-  value: '2024-04-01'
 contributor:
 - organization:
     name:
@@ -31,7 +26,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2024-04-01'
 language:
 - en
 script:
@@ -45,7 +39,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

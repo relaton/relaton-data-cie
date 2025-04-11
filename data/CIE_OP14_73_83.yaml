@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/an-adaptive-display-dimming-curve-for-enhanced-work-performance-and-visual-comfort-op14-73-83?product_id=2016208
+- content: https://store.accuristech.com/standards/an-adaptive-display-dimming-curve-for-enhanced-work-performance-and-visual-comfort-op14-73-83?product_id=2016208
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: OP14 73-83
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -50,7 +47,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Lin
         language:
@@ -85,7 +82,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -99,7 +95,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

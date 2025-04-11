@@ -15,7 +15,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/white-led-for-illumination-of-chinese-traditional-light-color-painting-po66-1027-1035?product_id=2011215
+- content: https://store.accuristech.com/standards/white-led-for-illumination-of-chinese-traditional-light-color-painting-po66-1027-1035?product_id=2011215
   type: src
 type: standard
 docid:
@@ -23,9 +23,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PO66 1027-1035
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -90,7 +87,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Yuan
         language:
@@ -107,7 +104,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -121,7 +117,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

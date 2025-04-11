@@ -2,28 +2,21 @@
 schema-version: v1.2.9
 id: CIEx027-2004
 title:
-- content: 'Proceeding of the CIE Symposium 2004 on Light and Health: non-visual effects
-    (includes cd)'
+- content: 'Proceedings of the CIE Symposium ''04, Light and Health: non-visual effects'
   format: text/plain
   type: title-main
-- content: 'Proceeding of the CIE Symposium 2004 on Light and Health: non-visual effects
-    (includes cd)'
+- content: 'Proceedings of the CIE Symposium ''04, Light and Health: non-visual effects'
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-x027-2004?product_id=1210530
+- content: https://store.accuristech.com/standards/cie-x027-2004?product_id=1210530
   type: src
 type: standard
 docid:
 - id: CIE x027:2004
   type: CIE
   primary: true
-- id: '9783901906374'
-  type: ISBN
 docnumber: x027:2004
-date:
-- type: published
-  value: '2004-10-01'
 contributor:
 - organization:
     name:
@@ -33,7 +26,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2004-10-01'
 language:
 - en
 script:
@@ -47,7 +39,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

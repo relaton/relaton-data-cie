@@ -1,0 +1,47 @@
+---
+schema-version: v1.2.9
+id: CIE19-2.1-1981
+title:
+- content: 'An analytic model for describing the influence of lighting parameters
+    upon visual performance, Volume I: Technical foundations'
+  format: text/plain
+  type: title-main
+- content: 'An analytic model for describing the influence of lighting parameters
+    upon visual performance, Volume I: Technical foundations'
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/cie-19-2-1-1981?product_id=1210076
+  type: src
+type: standard
+docid:
+- id: CIE 19/2.1-1981
+  type: CIE
+  primary: true
+docnumber: 19/2.1-1981
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

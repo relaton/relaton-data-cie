@@ -1,0 +1,197 @@
+---
+schema-version: v1.2.9
+id: CIEPO15Pages295-302
+title:
+- content: IMPACT OF SURFACE CURVATURE ON SPECTRAL BRDF OF EFFECT COATINGS (PO15,
+    Pages 295-302)
+  format: text/plain
+  type: title-main
+- content: IMPACT OF SURFACE CURVATURE ON SPECTRAL BRDF OF EFFECT COATINGS (PO15,
+    Pages 295-302)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/impact-of-surface-curvature-on-spectral-brdf-of-effect-coatings-po15-pages-295-302?product_id=1941847
+  type: src
+type: standard
+docid:
+- id: CIE PO15 Pages 295-302
+  type: CIE
+  primary: true
+docnumber: PO15 Pages 295-302
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+      surname:
+        content: Ferrero
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+      surname:
+        content: Bernad
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+      surname:
+        content: Campos
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: E
+      surname:
+        content: Perales
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+      surname:
+        content: Martinez-Verdu
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+      surname:
+        content: Smid
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+      surname:
+        content: Porrovecchio
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+      surname:
+        content: Strothkamper
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

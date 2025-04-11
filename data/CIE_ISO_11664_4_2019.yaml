@@ -1,0 +1,97 @@
+---
+schema-version: v1.2.9
+id: CIEISO11664-4-2019
+title:
+- content: Colorimetry
+  format: text/plain
+  type: title-main
+- content: 'Part 4: CIE 1976 L*a*b* colour space'
+  format: text/plain
+  type: title-part
+- content: 'Colorimetry - Part 4: CIE 1976 L*a*b* colour space'
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/cie-iso-11664-4-2019?product_id=2078733
+  type: src
+type: standard
+docid:
+- id: CIE ISO 11664-4:2019
+  type: CIE
+  primary: true
+docnumber: ISO 11664-4:2019
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: CIES014-4-E-2007ISO11664-4-2008
+    title:
+    - content: Colorimetry
+      format: text/plain
+      type: title-main
+    - content: 'Part 4: CIE 1976 L*a*b* Colour Spaces'
+      format: text/plain
+      type: title-part
+    - content: 'Colorimetry - Part 4: CIE 1976 L*a*b* Colour Spaces'
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-014-4-e-2007-iso-11664-4-2008?product_id=1601627
+      type: src
+    docid:
+    - id: CIE S 014-4/E:2007 (ISO 11664-4:2008)
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2008-12-01'
+    revdate: '2008-12-01'
+- type: updates
+  bibitem:
+    id: CIES014-4-E2007
+    title:
+    - content: Colorimetry
+      format: text/plain
+      type: title-main
+    - content: 'Part 4: CIE 1976 L*a*b* Colour Spaces'
+      format: text/plain
+      type: title-part
+    - content: 'Colorimetry - Part 4: CIE 1976 L*a*b* Colour Spaces'
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-014-4-e2007?product_id=1520488
+      type: src
+    docid:
+    - id: CIE S 014-4/E2007
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2007-09-01'
+    revdate: '2007-09-01'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

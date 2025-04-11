@@ -1,0 +1,143 @@
+---
+schema-version: v1.2.9
+id: CIEOP18Pages111-120
+title:
+- content: '3D SURFACE ACQUISITION: COMPARISON OF TWO MICROTOPOGRAPHIC EQUIPMENTS
+    WHEN MEASURING MATERIALS OF CULTURAL HERITAGE (OP18, Pages 111-120)'
+  format: text/plain
+  type: title-main
+- content: '3D SURFACE ACQUISITION: COMPARISON OF TWO MICROTOPOGRAPHIC EQUIPMENTS
+    WHEN MEASURING MATERIALS OF CULTURAL HERITAGE (OP18, Pages 111-120)'
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/3d-surface-acquisition-comparison-of-two-microtopographic-equipments-when-measuring-materials-of-cultural-heritage-op18-pages-111-120?product_id=1941820
+  type: src
+type: standard
+docid:
+- id: CIE OP18 Pages 111-120
+  type: CIE
+  primary: true
+docnumber: OP18 Pages 111-120
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+      surname:
+        content: Page
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+      surname:
+        content: Boust
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: "N"
+      surname:
+        content: Melard
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+      surname:
+        content: Robcis
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+      surname:
+        content: Obein
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

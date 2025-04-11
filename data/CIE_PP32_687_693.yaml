@@ -15,7 +15,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/light-evaluation-in-high-and-low-mood-states-pp32-687-693?product_id=2011363
+- content: https://store.accuristech.com/standards/light-evaluation-in-high-and-low-mood-states-pp32-687-693?product_id=2011363
   type: src
 type: standard
 docid:
@@ -23,9 +23,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PP32 687-693
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -36,7 +33,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: "N"
       surname:
         content: Umemiya
         language:
@@ -71,7 +68,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -85,7 +81,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

@@ -1,0 +1,89 @@
+---
+schema-version: v1.2.9
+id: CIEOP0547-52
+title:
+- content: COLOUR QUALITY ASSESSMENT UNDER LED TUNEABLE SOURCES WITH VARYING GAMUT
+    SIZES AND SHAPES (OP05, 47-52)
+  format: text/plain
+  type: title-main
+- content: COLOUR QUALITY ASSESSMENT UNDER LED TUNEABLE SOURCES WITH VARYING GAMUT
+    SIZES AND SHAPES (OP05, 47-52)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/colour-quality-assessment-under-led-tuneable-sources-with-varying-gamut-sizes-and-shapes-op05-47-52?product_id=2009483
+  type: src
+type: standard
+docid:
+- id: CIE OP05 47-52
+  type: CIE
+  primary: true
+docnumber: OP05 47-52
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: Q
+      surname:
+        content: Zhai
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+      surname:
+        content: Luo
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

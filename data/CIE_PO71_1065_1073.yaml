@@ -15,7 +15,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/an-analysis-of-artificial-illumination-problems-in-chinese-retail-buildings-based-on-visual-comfort-po71-1065-1073?product_id=2011219
+- content: https://store.accuristech.com/standards/an-analysis-of-artificial-illumination-problems-in-chinese-retail-buildings-based-on-visual-comfort-po71-1065-1073?product_id=2011219
   type: src
 type: standard
 docid:
@@ -23,9 +23,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PO71 1065-1073
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -54,7 +51,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
         - content: ''
           language:
           - en
@@ -119,7 +116,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -133,7 +129,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

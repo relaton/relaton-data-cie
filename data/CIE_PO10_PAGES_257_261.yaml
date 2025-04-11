@@ -1,0 +1,99 @@
+---
+schema-version: v1.2.9
+id: CIEPO10Pages257-261
+title:
+- content: DISCRIMINATION THRESHOLDS FOR SKIN IMAGES (PO10, Pages 257-261)
+  format: text/plain
+  type: title-main
+- content: DISCRIMINATION THRESHOLDS FOR SKIN IMAGES (PO10, Pages 257-261)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/discrimination-thresholds-for-skin-images-po10-pages-257-261?product_id=1941842
+  type: src
+type: standard
+docid:
+- id: CIE PO10 Pages 257-261
+  type: CIE
+  primary: true
+docnumber: PO10 Pages 257-261
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+      surname:
+        content: Chauhan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: K
+      surname:
+        content: Xiao
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: S
+      surname:
+        content: Wuerger
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

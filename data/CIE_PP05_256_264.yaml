@@ -15,7 +15,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/research-on-the-application-benefits-of-the-led-light-source-based-on-the-road-lighting-system-for-the-smart-city-in-tianjin-region-as-an-example-pp05-256-264?product_id=2016252
+- content: https://store.accuristech.com/standards/research-on-the-application-benefits-of-the-led-light-source-based-on-the-road-lighting-system-for-the-smart-city-in-tianjin-region-as-an-example-pp05-256-264?product_id=2016252
   type: src
 type: standard
 docid:
@@ -23,9 +23,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PP05 256-264
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -120,7 +117,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -134,7 +130,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

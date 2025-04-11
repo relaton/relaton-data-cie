@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/vision-experiment-on-chroma-saturation-preference-in-different-hues-pp07-522-529?product_id=2011265
+- content: https://store.accuristech.com/standards/vision-experiment-on-chroma-saturation-preference-in-different-hues-pp07-522-529?product_id=2011265
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PP07 522-529
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -32,7 +29,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Ohno
         language:
@@ -68,7 +65,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Kwak
         language:
@@ -85,7 +82,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -99,7 +95,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

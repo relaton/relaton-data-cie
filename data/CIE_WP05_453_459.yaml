@@ -15,7 +15,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/acceptability-criteria-for-the-stroboscopic-effect-visibility-measure-wp05-453-459?product_id=2011382
+- content: https://store.accuristech.com/standards/acceptability-criteria-for-the-stroboscopic-effect-visibility-measure-wp05-453-459?product_id=2011382
   type: src
 type: standard
 docid:
@@ -23,9 +23,6 @@ docid:
   type: CIE
   primary: true
 docnumber: WP05 453-459
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -89,7 +86,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -103,7 +99,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

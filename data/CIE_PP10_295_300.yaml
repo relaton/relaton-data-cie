@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/a-study-on-the-stair-illumination-method-considering-the-elderly-pp10-295-300?product_id=2016257
+- content: https://store.accuristech.com/standards/a-study-on-the-stair-illumination-method-considering-the-elderly-pp10-295-300?product_id=2016257
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PP10 295-300
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -50,7 +47,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Uchida
         language:
@@ -139,7 +136,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -153,7 +149,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

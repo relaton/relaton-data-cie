@@ -1,0 +1,127 @@
+---
+schema-version: v1.2.9
+id: CIEOP21Pages133-139
+title:
+- content: ACCURATE SIMULATION OF LIGHT DIFFUSION EFFECTS OF PATTERNED GLAZING BY
+    IMPLEMENTATION OF BIDIRECTIONAL TRANSMITTANCE DISTRIBUTION FUNCTIONS INTO DAYLIGHT
+    CALCULATION SOFTWARE (OP21, Pages 133-139)
+  format: text/plain
+  type: title-main
+- content: ACCURATE SIMULATION OF LIGHT DIFFUSION EFFECTS OF PATTERNED GLAZING BY
+    IMPLEMENTATION OF BIDIRECTIONAL TRANSMITTANCE DISTRIBUTION FUNCTIONS INTO DAYLIGHT
+    CALCULATION SOFTWARE (OP21, Pages 133-139)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/accurate-simulation-of-light-diffusion-effects-of-patterned-glazing-by-implementation-of-bidirectional-transmittance-distribution-functions-into-daylight-calculation-software-op21-pages-133-139?product_id=1941823
+  type: src
+type: standard
+docid:
+- id: CIE OP21 Pages 133-139
+  type: CIE
+  primary: true
+docnumber: OP21 Pages 133-139
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+      surname:
+        content: Vyncke
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+      surname:
+        content: Meulenbergs
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+      surname:
+        content: Audenaert
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+      surname:
+        content: Leloup
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

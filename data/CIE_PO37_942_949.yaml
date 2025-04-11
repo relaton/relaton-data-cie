@@ -15,7 +15,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/phosphor-converted-laser-diode-light-source-for-endoscopic-diagnostics-po37-942-949?product_id=2011173
+- content: https://store.accuristech.com/standards/phosphor-converted-laser-diode-light-source-for-endoscopic-diagnostics-po37-942-949?product_id=2011173
   type: src
 type: standard
 docid:
@@ -23,9 +23,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PO37 942-949
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -161,7 +158,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -175,7 +171,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

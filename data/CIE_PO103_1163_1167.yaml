@@ -15,7 +15,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/the-effect-of-spectrum-tunable-lighting-on-the-elderly-patients-sleep-quality-and-daytime-alertness-po103-1163-1167?product_id=2011253
+- content: https://store.accuristech.com/standards/the-effect-of-spectrum-tunable-lighting-on-the-elderly-patients-sleep-quality-and-daytime-alertness-po103-1163-1167?product_id=2011253
   type: src
 type: standard
 docid:
@@ -23,9 +23,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PO103 1163-1167
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -125,7 +122,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -139,7 +135,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

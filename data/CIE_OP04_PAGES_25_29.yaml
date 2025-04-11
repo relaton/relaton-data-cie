@@ -1,0 +1,123 @@
+---
+schema-version: v1.2.9
+id: CIEOP04Pages25-29
+title:
+- content: INTERCOMPARISON OF VISUAL GLOSS PSYCHOMETRIC SCALES (OP04, Pages 25-29)
+  format: text/plain
+  type: title-main
+- content: INTERCOMPARISON OF VISUAL GLOSS PSYCHOMETRIC SCALES (OP04, Pages 25-29)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/intercomparison-of-visual-gloss-psychometric-scales-op04-pages-25-29?product_id=1941809
+  type: src
+type: standard
+docid:
+- id: CIE OP04 Pages 25-29
+  type: CIE
+  primary: true
+docnumber: OP04 Pages 25-29
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+      surname:
+        content: Ged
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: F
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+      surname:
+        content: Leloup
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: "Y"
+      surname:
+        content: De Wit
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+      surname:
+        content: Obein
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

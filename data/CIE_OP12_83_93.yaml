@@ -1,0 +1,125 @@
+---
+schema-version: v1.2.9
+id: CIEOP1283-93
+title:
+- content: 'DISCOMFORT GLARE FROM DAYLIGHTING: INFLUENCE OF CULTURE ON DISCOMFORT
+    GLARE PERCEPETION (OP12, 83-93)'
+  format: text/plain
+  type: title-main
+- content: 'DISCOMFORT GLARE FROM DAYLIGHTING: INFLUENCE OF CULTURE ON DISCOMFORT
+    GLARE PERCEPETION (OP12, 83-93)'
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/discomfort-glare-from-daylighting-influence-of-culture-on-discomfort-glare-percepetion-op12-83-93?product_id=2009529
+  type: src
+type: standard
+docid:
+- id: CIE OP12 83-93
+  type: CIE
+  primary: true
+docnumber: OP12 83-93
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+      surname:
+        content: Pierson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+      surname:
+        content: Piderit
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+      surname:
+        content: Wienold
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+      surname:
+        content: Bodart
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

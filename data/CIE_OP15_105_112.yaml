@@ -13,7 +13,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/effects-of-task-and-views-on-discomfort-glare-from-windows-op15-105-112?product_id=2010425
+- content: https://store.accuristech.com/standards/effects-of-task-and-views-on-discomfort-glare-from-windows-op15-105-112?product_id=2010425
   type: src
 type: standard
 docid:
@@ -67,7 +67,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: "N"
       surname:
         content: Shinohara
         language:
@@ -115,7 +115,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

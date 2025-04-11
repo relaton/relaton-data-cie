@@ -9,7 +9,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/can-a-dynamic-lighting-help-people-fast-sleep-op02-1-5?product_id=2016215
+- content: https://store.accuristech.com/standards/can-a-dynamic-lighting-help-people-fast-sleep-op02-1-5?product_id=2016215
   type: src
 type: standard
 docid:
@@ -17,9 +17,6 @@ docid:
   type: CIE
   primary: true
 docnumber: OP02 1-5
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -36,7 +33,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Chen
         language:
@@ -125,7 +122,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -139,7 +135,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

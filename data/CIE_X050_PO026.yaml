@@ -9,7 +9,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-x050-po026?product_id=2579076
+- content: https://store.accuristech.com/standards/cie-x050-po026?product_id=2579076
   type: src
 type: standard
 docid:
@@ -17,9 +17,6 @@ docid:
   type: CIE
   primary: true
 docnumber: x050-PO026
-date:
-- type: published
-  value: '2023-12-29'
 contributor:
 - person:
     name:
@@ -30,7 +27,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: "N"
       surname:
         content: Miller
         language:
@@ -47,7 +44,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2023-12-29'
 language:
 - en
 script:
@@ -61,7 +57,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

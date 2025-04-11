@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/pilot-study-on-the-impact-of-mesopic-vision-on-the-purity-perceived-by-human-eyes-pp21-378-383?product_id=2016276
+- content: https://store.accuristech.com/standards/pilot-study-on-the-impact-of-mesopic-vision-on-the-purity-perceived-by-human-eyes-pp21-378-383?product_id=2016276
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PP21 378-383
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -97,7 +94,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -111,7 +107,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/assessing-cct-uniformity-on-the-work-surface-in-a-real-lit-environment-op10-55-59?product_id=2016205
+- content: https://store.accuristech.com/standards/assessing-cct-uniformity-on-the-work-surface-in-a-real-lit-environment-op10-55-59?product_id=2016205
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: OP10 55-59
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -32,7 +29,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Hu
         language:
@@ -73,7 +70,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -87,7 +83,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

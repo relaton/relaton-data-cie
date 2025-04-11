@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/study-on-spectral-composition-of-white-light-emitting-diode-for-chinese-traditional-painting-po08-847-855?product_id=2011159
+- content: https://store.accuristech.com/standards/study-on-spectral-composition-of-white-light-emitting-diode-for-chinese-traditional-painting-po08-847-855?product_id=2011159
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PO08 847-855
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -50,7 +47,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: "N"
       surname:
         content: Wang
         language:
@@ -68,7 +65,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Yuan
         language:
@@ -121,7 +118,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -135,7 +131,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

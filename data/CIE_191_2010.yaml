@@ -9,19 +9,14 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-191-2010?product_id=1736466
+- content: https://store.accuristech.com/standards/cie-191-2010?product_id=1736466
   type: src
 type: standard
 docid:
 - id: CIE 191:2010
   type: CIE
   primary: true
-- id: '9783901906886'
-  type: ISBN
 docnumber: 191:2010
-date:
-- type: published
-  value: '2010-09-01'
 contributor:
 - organization:
     name:
@@ -31,7 +26,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2010-09-01'
 language:
 - en
 script:
@@ -45,7 +39,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

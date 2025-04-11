@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/structural-material-effects-on-discomfort-glare-in-the-dark-cab-op25-155-160?product_id=2016238
+- content: https://store.accuristech.com/standards/structural-material-effects-on-discomfort-glare-in-the-dark-cab-op25-155-160?product_id=2016238
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: OP25 155-160
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -50,7 +47,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
         - content: ''
           language:
           - en
@@ -73,7 +70,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -87,7 +83,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

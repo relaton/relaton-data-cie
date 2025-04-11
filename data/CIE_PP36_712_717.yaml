@@ -15,7 +15,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/comparison-of-goniphotometric-methods-for-oled-pp36-712-717?product_id=2011366
+- content: https://store.accuristech.com/standards/comparison-of-goniphotometric-methods-for-oled-pp36-712-717?product_id=2011366
   type: src
 type: standard
 docid:
@@ -23,9 +23,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PP36 712-717
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -125,7 +122,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -139,7 +135,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

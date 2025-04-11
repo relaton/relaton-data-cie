@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.9
+id: CIEPP03Pages167-174
+title:
+- content: BRDF MEASUREMENT BASED ON SPECTRAL DIFFUSE REFLECTANCE AND A GONIOREFLECTOMETER
+    (PP03, Pages 167-174)
+  format: text/plain
+  type: title-main
+- content: BRDF MEASUREMENT BASED ON SPECTRAL DIFFUSE REFLECTANCE AND A GONIOREFLECTOMETER
+    (PP03, Pages 167-174)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/brdf-measurement-based-on-spectral-diffuse-reflectance-and-a-gonioreflectometer-pp03-pages-167-174?product_id=1941828
+  type: src
+type: standard
+docid:
+- id: CIE PP03 Pages 167-174
+  type: CIE
+  primary: true
+docnumber: PP03 Pages 167-174
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+      surname:
+        content: Shitomi
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

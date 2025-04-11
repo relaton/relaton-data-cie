@@ -2,26 +2,21 @@
 schema-version: v1.2.9
 id: CIE140-2019
 title:
-- content: Road Lighting Calculations
+- content: Road Lighting Calculations, 2nd Edition
   format: text/plain
   type: title-main
-- content: Road Lighting Calculations
+- content: Road Lighting Calculations, 2nd Edition
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-140-2019?product_id=2033815
+- content: https://store.accuristech.com/standards/cie-140-2019?product_id=2033815
   type: src
 type: standard
 docid:
 - id: CIE 140:2019
   type: CIE
   primary: true
-- id: '9783902842565'
-  type: ISBN
 docnumber: 140:2019
-date:
-- type: published
-  value: '2019-02-01'
 contributor:
 - organization:
     name:
@@ -31,9 +26,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-edition:
-  content: '2'
-revdate: '2019-02-01'
 language:
 - en
 script:
@@ -59,7 +51,7 @@ relation:
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-140-2000?product_id=1210058
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-140-2000?product_id=1210058
       type: src
     docid:
     - id: CIE 140-2000
@@ -69,7 +61,7 @@ relation:
     - type: published
       value: '2000-01-01'
     revdate: '2000-01-01'
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

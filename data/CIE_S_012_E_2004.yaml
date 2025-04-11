@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-s-012-e-2004-iso-23603-2005?product_id=1210121
+- content: https://store.accuristech.com/standards/cie-s-012-e-2004-iso-23603-2005-e?product_id=1210121
   type: src
 type: standard
 docid:
@@ -21,9 +21,6 @@ docid:
 - id: ISO 23603:2005
   type: ISO
 docnumber: S 012/E:2004
-date:
-- type: published
-  value: '2005-08-01'
 contributor:
 - organization:
     name:
@@ -33,7 +30,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2005-08-01'
 language:
 - en
 script:
@@ -47,7 +43,31 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
+relation:
+- type: updates
+  bibitem:
+    id: CIEISO23603-2024
+    title:
+    - content: Standard method of assessing the spectral quality of daylight simulators
+        for visual appraisal and measurement of colour
+      format: text/plain
+      type: title-main
+    - content: Standard method of assessing the spectral quality of daylight simulators
+        for visual appraisal and measurement of colour
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-iso-23603-2024?product_id=2921261
+      type: src
+    docid:
+    - id: CIE ISO 23603:2024
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2024-10-01'
+    revdate: '2024-10-01'
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

@@ -2,28 +2,23 @@
 schema-version: v1.2.9
 id: CIE179-2007
 title:
-- content: Methods for characterizing tristimulus colorimeters for measuring the colour
+- content: Methods for characterising tristimulus colorimeters for measuring the colour
     of light
   format: text/plain
   type: title-main
-- content: Methods for characterizing tristimulus colorimeters for measuring the colour
+- content: Methods for characterising tristimulus colorimeters for measuring the colour
     of light
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-179-2007?product_id=1377605
+- content: https://store.accuristech.com/standards/cie-179-2007?product_id=1377605
   type: src
 type: standard
 docid:
 - id: CIE 179:2007
   type: CIE
   primary: true
-- id: '9783901906602'
-  type: ISBN
 docnumber: 179:2007
-date:
-- type: published
-  value: '2007-05-01'
 contributor:
 - organization:
     name:
@@ -33,7 +28,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2007-05-01'
 language:
 - en
 script:
@@ -47,7 +41,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

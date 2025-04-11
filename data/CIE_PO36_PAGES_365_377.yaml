@@ -1,0 +1,95 @@
+---
+schema-version: v1.2.9
+id: CIEPO36Pages365-377
+title:
+- content: CREATE COLOUR MODEL INSPIRED BY CONES SPECTRAL SENSITIVITY IN THE RETINA
+    OF THE HUMAN EYE (PO36, Pages 365-377)
+  format: text/plain
+  type: title-main
+- content: CREATE COLOUR MODEL INSPIRED BY CONES SPECTRAL SENSITIVITY IN THE RETINA
+    OF THE HUMAN EYE (PO36, Pages 365-377)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/create-colour-model-inspired-by-cones-spectral-sensitivity-in-the-retina-of-the-human-eye-po36-pages-365-377?product_id=1941858
+  type: src
+type: standard
+docid:
+- id: CIE PO36 Pages 365-377
+  type: CIE
+  primary: true
+docnumber: PO36 Pages 365-377
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: B
+      surname:
+        content: Abd El-Magid
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+      surname:
+        content: Gazl
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

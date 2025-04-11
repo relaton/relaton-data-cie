@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: CIES027-E-2024
+title:
+- content: Photometry of road illumination devices, light-signalling devices and retroreflective
+    devices for road vehicles
+  format: text/plain
+  type: title-main
+- content: Photometry of road illumination devices, light-signalling devices and retroreflective
+    devices for road vehicles
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/cie-s-027-e-2024?product_id=2921805
+  type: src
+type: standard
+docid:
+- id: CIE S 027/E:2024
+  type: CIE
+  primary: true
+docnumber: S 027/E:2024
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: CIEDIS027-2021
+    title:
+    - content: Photometry of road illumination devices, light signalling devices and
+        retroreflective devices for road vehicles (Draft)
+      format: text/plain
+      type: title-main
+    - content: Photometry of road illumination devices, light signalling devices and
+        retroreflective devices for road vehicles (Draft)
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-dis-027-2021?product_id=2243755
+      type: src
+    docid:
+    - id: CIE DIS 027:2021
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2021-12-01'
+    revdate: '2021-12-01'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

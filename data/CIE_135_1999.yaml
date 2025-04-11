@@ -2,28 +2,23 @@
 schema-version: v1.2.9
 id: CIE135-1999
 title:
-- content: 'CIE Collection 1999: Vision and colour, physical measurement of light
-    and radiation'
+- content: CIE Collection 1999 / Vision and Colour / Physical Measurement of Light
+    and Radiation
   format: text/plain
   type: title-main
-- content: 'CIE Collection 1999: Vision and colour, physical measurement of light
-    and radiation'
+- content: CIE Collection 1999 / Vision and Colour / Physical Measurement of Light
+    and Radiation
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-135-1999?product_id=1210053
+- content: https://store.accuristech.com/standards/cie-135-1999?product_id=1210053
   type: src
 type: standard
 docid:
 - id: CIE 135-1999
   type: CIE
   primary: true
-- id: '9783900734978'
-  type: ISBN
 docnumber: 135-1999
-date:
-- type: published
-  value: '1999-01-01'
 contributor:
 - organization:
     name:
@@ -33,7 +28,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '1999-01-01'
 language:
 - en
 script:
@@ -47,7 +41,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

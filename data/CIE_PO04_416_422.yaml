@@ -9,7 +9,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/parametric-design-application-in-intelligent-lighting-po04-416-422?product_id=2016282
+- content: https://store.accuristech.com/standards/parametric-design-application-in-intelligent-lighting-po04-416-422?product_id=2016282
   type: src
 type: standard
 docid:
@@ -17,9 +17,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PO04 416-422
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -71,7 +68,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -85,7 +81,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

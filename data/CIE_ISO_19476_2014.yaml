@@ -1,0 +1,117 @@
+---
+schema-version: v1.2.9
+id: CIEISO19476-2014
+title:
+- content: Characterization of the performance of illuminance meters and luminance
+    meters
+  format: text/plain
+  type: title-main
+- content: Characterization of the performance of illuminance meters and luminance
+    meters
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/cie-iso-19476-2014?product_id=1880762
+  type: src
+type: standard
+docid:
+- id: CIE ISO 19476:2014
+  type: CIE
+  primary: true
+docnumber: ISO 19476:2014
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: CIES023-E-2013
+    title:
+    - content: Characterization of the Performance of Illuminance Meters and Luminance
+        Meters
+      format: text/plain
+      type: title-main
+    - content: Characterization of the Performance of Illuminance Meters and Luminance
+        Meters
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-023-e-2013?product_id=1857801
+      type: src
+    docid:
+    - id: CIE S 023/E:2013
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2013-05-01'
+    revdate: '2013-05-01'
+- type: updates
+  bibitem:
+    id: CIEDS023-E-2012
+    title:
+    - content: Characterization of the Performance of Illuminance Meters and Luminance
+        Meters
+      format: text/plain
+      type: title-main
+    - content: Characterization of the Performance of Illuminance Meters and Luminance
+        Meters
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-ds-023-e-2012?product_id=1826966
+      type: src
+    docid:
+    - id: CIE DS 023/E:2012
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2012-03-01'
+    revdate: '2012-03-01'
+- type: updates
+  bibitem:
+    id: CIE069-1987
+    title:
+    - content: 'Methods of characterizing illuminance meters and luminance meters:
+        Performance, characteristics and specifications'
+      format: text/plain
+      type: title-main
+    - content: 'Methods of characterizing illuminance meters and luminance meters:
+        Performance, characteristics and specifications'
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-069-1987?product_id=1210000
+      type: src
+    docid:
+    - id: CIE 069-1987
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '1987-01-01'
+    revdate: '1987-01-01'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

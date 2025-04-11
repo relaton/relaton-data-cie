@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/contrast-ratio-studies-of-a-led-flashed-traffic-sign-at-a-foggy-road-op16-93-99?product_id=2016210
+- content: https://store.accuristech.com/standards/contrast-ratio-studies-of-a-led-flashed-traffic-sign-at-a-foggy-road-op16-93-99?product_id=2016210
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: OP16 93-99
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -103,7 +100,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -117,7 +113,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

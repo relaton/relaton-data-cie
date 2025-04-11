@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/readability-and-visual-comfort-for-reading-on-a-display-with-various-ambient-lighting-setting-op24-168-172?product_id=2010465
+- content: https://store.accuristech.com/standards/readability-and-visual-comfort-for-reading-on-a-display-with-various-ambient-lighting-setting-op24-168-172?product_id=2010465
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: OP24 168-172
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -67,7 +64,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -81,7 +77,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

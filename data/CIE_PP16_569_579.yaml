@@ -15,7 +15,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/inter-laboratory-comparison-of-led-measurements-aimed-as-input-for-multi-domain-compact-model-development-within-a-european-wide-r-d-project-pp16-569-579?product_id=2011271
+- content: https://store.accuristech.com/standards/inter-laboratory-comparison-of-led-measurements-aimed-as-input-for-multi-domain-compact-model-development-within-a-european-wide-r-d-project-pp16-569-579?product_id=2011271
   type: src
 type: standard
 docid:
@@ -23,9 +23,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PP16 569-579
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -233,7 +230,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -247,7 +243,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

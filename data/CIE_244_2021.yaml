@@ -9,19 +9,14 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-244-2021?product_id=2222951
+- content: https://store.accuristech.com/standards/cie-244-2021?product_id=2222951
   type: src
 type: standard
 docid:
 - id: CIE 244:2021
   type: CIE
   primary: true
-- id: '9783902842930'
-  type: ISBN
 docnumber: 244:2021
-date:
-- type: published
-  value: '2021-04-30'
 contributor:
 - organization:
     name:
@@ -31,7 +26,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2021-04-30'
 language:
 - en
 script:
@@ -45,7 +39,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

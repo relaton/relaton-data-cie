@@ -13,7 +13,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/study-on-the-effect-of-led-s-correlated-colour-temperature-and-illuminance-on-museum-lighting-po69-1047-1055?product_id=2011217
+- content: https://store.accuristech.com/standards/study-on-the-effect-of-led-s-correlated-colour-temperature-and-illuminance-on-museum-lighting-po69-1047-1055?product_id=2011217
   type: src
 type: standard
 docid:
@@ -21,9 +21,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PO69 1047-1055
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -135,7 +132,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -149,7 +145,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

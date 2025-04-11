@@ -1,0 +1,101 @@
+---
+schema-version: v1.2.9
+id: CIEPO26Pages493-500
+title:
+- content: THE COMPARISON STUDY OF INSTRUMENTAL COLOUR MEASUREMENT AND VISUAL GRADING
+    OF COTTON FIBER (PO26, Pages 493-500)
+  format: text/plain
+  type: title-main
+- content: THE COMPARISON STUDY OF INSTRUMENTAL COLOUR MEASUREMENT AND VISUAL GRADING
+    OF COTTON FIBER (PO26, Pages 493-500)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/the-comparison-study-of-instrumental-colour-measurement-and-visual-grading-of-cotton-fiber-po26-pages-493-500?product_id=1941853
+  type: src
+type: standard
+docid:
+- id: CIE PO26 Pages 493-500
+  type: CIE
+  primary: true
+docnumber: PO26 Pages 493-500
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: "N"
+      surname:
+        content: Khan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+      surname:
+        content: Vik
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+      surname:
+        content: Vikova
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

@@ -1,0 +1,101 @@
+---
+schema-version: v1.2.9
+id: CIEPP01Pages163-166
+title:
+- content: OPTICAL DETECTION SYSTEM FOR MONOCHRAMATIC BEAM GONIOSPECTROPHOTOMETRY
+    (PP01, Pages 163-166)
+  format: text/plain
+  type: title-main
+- content: OPTICAL DETECTION SYSTEM FOR MONOCHRAMATIC BEAM GONIOSPECTROPHOTOMETRY
+    (PP01, Pages 163-166)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/optical-detection-system-for-monochramatic-beam-goniospectrophotometry-pp01-pages-163-166?product_id=1941827
+  type: src
+type: standard
+docid:
+- id: CIE PP01 Pages 163-166
+  type: CIE
+  primary: true
+docnumber: PP01 Pages 163-166
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+      surname:
+        content: Koo
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+      surname:
+        content: Porrovecchio
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+      surname:
+        content: Smid
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

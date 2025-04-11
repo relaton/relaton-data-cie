@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.9
+id: CIEPO37Pages378-380
+title:
+- content: APPEARANCE RESEARCH BASED ON SPECTRUM TUNEABLE LIGHTING SYSTEMS (PO37,
+    Pages 378-380)
+  format: text/plain
+  type: title-main
+- content: APPEARANCE RESEARCH BASED ON SPECTRUM TUNEABLE LIGHTING SYSTEMS (PO37,
+    Pages 378-380)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/appearance-research-based-on-spectrum-tuneable-lighting-systems-po37-pages-378-380?product_id=1941859
+  type: src
+type: standard
+docid:
+- id: CIE PO37 Pages 378-380
+  type: CIE
+  primary: true
+docnumber: PO37 Pages 378-380
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+      surname:
+        content: Luo
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

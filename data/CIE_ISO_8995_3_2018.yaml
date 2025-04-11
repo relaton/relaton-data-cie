@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.9
+id: CIEISO8995-3-2018
+title:
+- content: Lighting of work places
+  format: text/plain
+  type: title-main
+- content: 'Part 3: Lighting requirements for safety and security of outdoor work
+    places'
+  format: text/plain
+  type: title-part
+- content: 'Lighting of work places - Part 3: Lighting requirements for safety and
+    security of outdoor work places'
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/cie-iso-8995-3-2018?product_id=2078729
+  type: src
+type: standard
+docid:
+- id: CIE ISO 8995-3:2018
+  type: CIE
+  primary: true
+docnumber: ISO 8995-3:2018
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: CIES016-E-2005ISO8995-3-2006E
+    title:
+    - content: Lighting of work places
+      format: text/plain
+      type: title-main
+    - content: 'Part 3: Lighting requirements for safety and security of outdoor work
+        places'
+      format: text/plain
+      type: title-part
+    - content: 'Lighting of work places - Part 3: Lighting requirements for safety
+        and security of outdoor work places'
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-016-e-2005-iso-8995-3-2006-e?product_id=1529686
+      type: src
+    docid:
+    - id: CIE S 016/E:2005 (ISO 8995-3:2006(E))
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2006-10-15'
+    revdate: '2006-10-15'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

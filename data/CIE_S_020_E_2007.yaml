@@ -9,7 +9,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-s-020-e-2007?product_id=1321509
+- content: https://store.accuristech.com/standards/cie-s-020-e-2007?product_id=1321509
   type: src
 type: standard
 docid:
@@ -17,9 +17,6 @@ docid:
   type: CIE
   primary: true
 docnumber: S 020/E:2007
-date:
-- type: published
-  value: '2007-02-01'
 contributor:
 - organization:
     name:
@@ -29,7 +26,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2007-02-01'
 language:
 - en
 script:
@@ -57,26 +53,26 @@ abstract:
 relation:
 - type: updates
   bibitem:
-    id: CIES020-E-2007ISO30061-2007
+    id: CIES020-E-2007ISO30061-2007E
     title:
-    - content: Emergency Lighting
+    - content: Emergency lighting
       format: text/plain
       type: title-main
-    - content: Emergency Lighting
+    - content: Emergency lighting
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-s-020-e-2007-iso-30061-2007?product_id=1565805
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-020-e-2007-iso-30061-2007-e?product_id=1565805
       type: src
     docid:
-    - id: CIE S 020/E:2007 (ISO 30061:2007)
+    - id: CIE S 020/E:2007 (ISO 30061:2007(E))
       type: CIE
       primary: true
     date:
     - type: published
-      value: '2008-06-01'
-    revdate: '2008-06-01'
-doctype:
-  type: document
+      value: '2007-11-01'
+    revdate: '2007-11-01'
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

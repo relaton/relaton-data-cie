@@ -15,7 +15,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/comparison-between-oled-and-led-lighting-user-preferences-and-influence-on-well-being-in-france-and-japan-op57-422-426?product_id=2010528
+- content: https://store.accuristech.com/standards/comparison-between-oled-and-led-lighting-user-preferences-and-influence-on-well-being-in-france-and-japan-op57-422-426?product_id=2010528
   type: src
 type: standard
 docid:
@@ -23,9 +23,6 @@ docid:
   type: CIE
   primary: true
 docnumber: OP57 422-426
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -72,7 +69,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: "N"
       surname:
         content: Yoshizawa
         language:
@@ -89,7 +86,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -103,7 +99,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

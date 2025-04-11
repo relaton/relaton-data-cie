@@ -1,0 +1,45 @@
+---
+schema-version: v1.2.9
+id: CIES013-E-2003
+title:
+- content: International Standard Global Solar UV Index
+  format: text/plain
+  type: title-main
+- content: International Standard Global Solar UV Index
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/cie-s-013-e-2003?product_id=1210108
+  type: src
+type: standard
+docid:
+- id: CIE S 013/E:2003
+  type: CIE
+  primary: true
+docnumber: S 013/E:2003
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

@@ -1,0 +1,113 @@
+---
+schema-version: v1.2.9
+id: CIEPO49Pages462-469
+title:
+- content: THE EFFECTIVE LUMINOUS SURFACES IN THE UNIFIED GLARE RATING (PO49, Pages
+    462-469)
+  format: text/plain
+  type: title-main
+- content: THE EFFECTIVE LUMINOUS SURFACES IN THE UNIFIED GLARE RATING (PO49, Pages
+    462-469)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/the-effective-luminous-surfaces-in-the-unified-glare-rating-po49-pages-462-469?product_id=1941872
+  type: src
+type: standard
+docid:
+- id: CIE PO49 Pages 462-469
+  type: CIE
+  primary: true
+docnumber: PO49 Pages 462-469
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: H
+      surname:
+        content: Scheir
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: P
+      surname:
+        content: Hanselaer
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: W
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: R
+      surname:
+        content: Ryckaert
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

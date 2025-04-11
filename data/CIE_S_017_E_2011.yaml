@@ -2,14 +2,14 @@
 schema-version: v1.2.9
 id: CIES017-E-2011
 title:
-- content: 'ILV: International lighting vocabulary, new'
+- content: 'ILV: International Lighting Vocabulary'
   format: text/plain
   type: title-main
-- content: 'ILV: International lighting vocabulary, new'
+- content: 'ILV: International Lighting Vocabulary'
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-s-017-e-2011?product_id=1806007
+- content: https://store.accuristech.com/standards/cie-s-017-e-2011?product_id=1806007
   type: src
 type: standard
 docid:
@@ -17,9 +17,6 @@ docid:
   type: CIE
   primary: true
 docnumber: S 017/E:2011
-date:
-- type: published
-  value: '2011-08-18'
 contributor:
 - organization:
     name:
@@ -29,7 +26,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2011-08-18'
 language:
 - en
 script:
@@ -55,7 +51,7 @@ relation:
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-s-017-e-2020?product_id=2200946
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-017-e-2020?product_id=2200946
       type: src
     docid:
     - id: CIE S 017/E:2020
@@ -67,7 +63,28 @@ relation:
     revdate: '2020-12-01'
 - type: updates
   bibitem:
-    id: IEC-CIE017.4-1987
+    id: CIEDIS017-E-2016
+    title:
+    - content: 'ILV: International Lighting Vocabulary, 2nd Edition'
+      format: text/plain
+      type: title-main
+    - content: 'ILV: International Lighting Vocabulary, 2nd Edition'
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-dis-017-e-2016?product_id=1941315
+      type: src
+    docid:
+    - id: CIE DIS 017/E:2016
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '2016-01-01'
+    revdate: '2016-01-01'
+- type: updates
+  bibitem:
+    id: CIEIEC017.4-1987
     title:
     - content: International lighting vocabulary, 4th ed. ***CONTACT [email protected]
         TO OBTAIN THIS PUBLICATION
@@ -78,17 +95,17 @@ relation:
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/iec-cie-017-4-1987?product_id=47660
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-iec-017-4-1987?product_id=47660
       type: src
     docid:
-    - id: IEC/CIE 017.4-1987
+    - id: CIE IEC 017.4-1987
       type: CIE
       primary: true
     date:
     - type: published
       value: '1987-01-01'
     revdate: '1987-01-01'
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

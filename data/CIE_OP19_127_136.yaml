@@ -13,7 +13,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/night-time-visibility-of-road-signs-with-modern-headlamps-op19-127-136?product_id=2010429
+- content: https://store.accuristech.com/standards/night-time-visibility-of-road-signs-with-modern-headlamps-op19-127-136?product_id=2010429
   type: src
 type: standard
 docid:
@@ -21,9 +21,6 @@ docid:
   type: CIE
   primary: true
 docnumber: OP19 127-136
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -69,7 +66,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -83,7 +79,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

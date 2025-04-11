@@ -2,26 +2,21 @@
 schema-version: v1.2.9
 id: CIEx019-2001
 title:
-- content: Proceedings of three CIE Workshops on Criteria for Road Lighting
+- content: Proceedings of Three CIE Workshops on Criteria for Road Lighting
   format: text/plain
   type: title-main
-- content: Proceedings of three CIE Workshops on Criteria for Road Lighting
+- content: Proceedings of Three CIE Workshops on Criteria for Road Lighting
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-x019-2001?product_id=1210102
+- content: https://store.accuristech.com/standards/cie-x019-2001?product_id=1210102
   type: src
 type: standard
 docid:
-- id: CIE x019-2001
+- id: CIE x019:2001
   type: CIE
   primary: true
-- id: '9783901906077'
-  type: ISBN
-docnumber: x019-2001
-date:
-- type: published
-  value: '2001-01-01'
+docnumber: x019:2001
 contributor:
 - organization:
     name:
@@ -31,7 +26,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2001-01-01'
 language:
 - en
 script:
@@ -44,7 +38,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

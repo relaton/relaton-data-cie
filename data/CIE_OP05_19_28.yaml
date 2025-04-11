@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/office-lighting-design-in-consideration-of-eye-fatigue-and-task-performance-op05-19-28?product_id=2016200
+- content: https://store.accuristech.com/standards/office-lighting-design-in-consideration-of-eye-fatigue-and-task-performance-op05-19-28?product_id=2016200
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: OP05 19-28
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -151,7 +148,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -165,7 +161,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

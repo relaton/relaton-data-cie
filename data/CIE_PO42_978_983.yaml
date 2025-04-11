@@ -15,7 +15,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/on-site-evaluation-of-photobiological-safety-and-lighting-healthy-po42-978-983?product_id=2011178
+- content: https://store.accuristech.com/standards/on-site-evaluation-of-photobiological-safety-and-lighting-healthy-po42-978-983?product_id=2011178
   type: src
 type: standard
 docid:
@@ -23,9 +23,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PO42 978-983
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -107,7 +104,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -121,7 +117,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

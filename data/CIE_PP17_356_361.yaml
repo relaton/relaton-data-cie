@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/effect-of-ambient-lighting-chromaticities-on-perception-of-neutral-white-of-a-tablet-pp17-356-361?product_id=2016272
+- content: https://store.accuristech.com/standards/effect-of-ambient-lighting-chromaticities-on-perception-of-neutral-white-of-a-tablet-pp17-356-361?product_id=2016272
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PP17 356-361
-date:
-- type: published
-  value: '2018-05-01'
 contributor:
 - person:
     name:
@@ -97,7 +94,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2018-05-01'
 language:
 - en
 script:
@@ -111,7 +107,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

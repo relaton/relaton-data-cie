@@ -1,0 +1,155 @@
+---
+schema-version: v1.2.9
+id: CIEOP17Pages103-110
+title:
+- content: PREDICTING CHANGES IN VISUAL APPEARANCE OF PERIODIC SURFACE FROM BRDF MEASUREMENTS
+    (OP17, Pages 103-110)
+  format: text/plain
+  type: title-main
+- content: PREDICTING CHANGES IN VISUAL APPEARANCE OF PERIODIC SURFACE FROM BRDF MEASUREMENTS
+    (OP17, Pages 103-110)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/predicting-changes-in-visual-appearance-of-periodic-surface-from-brdf-measurements-op17-pages-103-110?product_id=1941819
+  type: src
+type: standard
+docid:
+- id: CIE OP17 Pages 103-110
+  type: CIE
+  primary: true
+docnumber: OP17 Pages 103-110
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+      surname:
+        content: Turbil
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: I
+      surname:
+        content: Gozhyk
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: J
+      surname:
+        content: Teisseire
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: I
+      surname:
+        content: Simonsen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+      surname:
+        content: Ged
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: G
+      surname:
+        content: Obein
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

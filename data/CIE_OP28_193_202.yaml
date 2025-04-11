@@ -9,7 +9,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/exterior-lighting-of-public-stairways-op28-193-202?product_id=2010469
+- content: https://store.accuristech.com/standards/exterior-lighting-of-public-stairways-op28-193-202?product_id=2010469
   type: src
 type: standard
 docid:
@@ -17,9 +17,6 @@ docid:
   type: CIE
   primary: true
 docnumber: OP28 193-202
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -83,7 +80,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -97,7 +93,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

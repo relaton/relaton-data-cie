@@ -13,7 +13,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-x050-po154?product_id=2579214
+- content: https://store.accuristech.com/standards/cie-x050-po154?product_id=2579214
   type: src
 type: standard
 docid:
@@ -21,9 +21,6 @@ docid:
   type: CIE
   primary: true
 docnumber: x050-PO154
-date:
-- type: published
-  value: '2023-12-29'
 contributor:
 - person:
     name:
@@ -52,7 +49,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Akuzawa
         language:
@@ -70,7 +67,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Oe
         language:
@@ -88,7 +85,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: "N"
       surname:
         content: Yoshizawa
         language:
@@ -142,7 +139,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: "N"
       surname:
         content: Shinohara
         language:
@@ -159,7 +156,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2023-12-29'
 language:
 - en
 script:
@@ -173,7 +169,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

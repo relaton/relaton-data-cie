@@ -1,0 +1,137 @@
+---
+schema-version: v1.2.9
+id: CIEPO46Pages438-445
+title:
+- content: PHOTOMETRIC AND COLORIMETRIC COMPARISON OF HDR AND SPECTRALLY RESOLVED
+    RENDERING IMAGES (PO46, Pages 438-445)
+  format: text/plain
+  type: title-main
+- content: PHOTOMETRIC AND COLORIMETRIC COMPARISON OF HDR AND SPECTRALLY RESOLVED
+    RENDERING IMAGES (PO46, Pages 438-445)
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/photometric-and-colorimetric-comparison-of-hdr-and-spectrally-resolved-rendering-images-po46-pages-438-445?product_id=1941868
+  type: src
+type: standard
+docid:
+- id: CIE PO46 Pages 438-445
+  type: CIE
+  primary: true
+docnumber: PO46 Pages 438-445
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: M
+      surname:
+        content: Amdemeskel
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: T
+      surname:
+        content: Soreze
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: A
+      surname:
+        content: Thorseth
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: D
+      surname:
+        content: Corell
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - content: ''
+          language:
+          - en
+          script:
+          - Latn
+          initial: C
+      surname:
+        content: Dam-Hansen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: author
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

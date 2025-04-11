@@ -17,7 +17,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/evaluation-of-visual-environment-in-an-office-with-novel-led-light-fixtures-pp20-604-610?product_id=2011351
+- content: https://store.accuristech.com/standards/evaluation-of-visual-environment-in-an-office-with-novel-led-light-fixtures-pp20-604-610?product_id=2011351
   type: src
 type: standard
 docid:
@@ -25,9 +25,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PP20 604-610
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -38,7 +35,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: "N"
       surname:
         content: Shinohara
         language:
@@ -127,7 +124,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -141,7 +137,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

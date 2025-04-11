@@ -1,0 +1,93 @@
+---
+schema-version: v1.2.9
+id: CIES006.1-1998
+title:
+- content: Road traffic lights
+  format: text/plain
+  type: title-intro
+- content: Photometric properties of 200 mm roundel signals
+  format: text/plain
+  type: title-main
+- content: Road traffic lights - Photometric properties of 200 mm roundel signals
+  format: text/plain
+  type: main
+link:
+- content: https://store.accuristech.com/standards/cie-s-006-1-1998-iso-16508-1999?product_id=1210129
+  type: src
+type: standard
+docid:
+- id: CIE S 006.1/1998
+  type: CIE
+  primary: true
+- id: ISO 16508:1999
+  type: ISO
+docnumber: S 006.1/1998
+contributor:
+- organization:
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+    url: cie.co.at
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+    printing, and downloading. For more details on these restrictions refer to: Help
+    Center.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+relation:
+- type: updates
+  bibitem:
+    id: CIE079-1988
+    title:
+    - content: A guide for the design of road traffic lights
+      format: text/plain
+      type: title-main
+    - content: A guide for the design of road traffic lights
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-079-1988?product_id=1210007
+      type: src
+    docid:
+    - id: CIE 079-1988
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '1988-01-01'
+    revdate: '1988-01-01'
+- type: updates
+  bibitem:
+    id: CIE048-1980
+    title:
+    - content: Light signals for road traffic control
+      format: text/plain
+      type: title-main
+    - content: Light signals for road traffic control
+      format: text/plain
+      type: main
+    link:
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-048-1980?product_id=1209980
+      type: src
+    docid:
+    - id: CIE 048-1980
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      value: '1980-01-01'
+    revdate: '1980-01-01'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: document

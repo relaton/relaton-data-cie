@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/spatially-resolved-spectral-sky-daylight-measurement-data-methods-of-collection-evaluation-and-representation-po68-1036-1046?product_id=2011216
+- content: https://store.accuristech.com/standards/spatially-resolved-spectral-sky-daylight-measurement-data-methods-of-collection-evaluation-and-representation-po68-1036-1046?product_id=2011216
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PO68 1036-1046
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -92,7 +89,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: N
+          initial: "N"
       surname:
         content: Weber
         language:
@@ -133,7 +130,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -147,7 +143,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

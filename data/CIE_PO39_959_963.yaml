@@ -15,7 +15,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/automated-measurement-of-led-dimming-characteristics-po39-959-963?product_id=2011175
+- content: https://store.accuristech.com/standards/automated-measurement-of-led-dimming-characteristics-po39-959-963?product_id=2011175
   type: src
 type: standard
 docid:
@@ -23,9 +23,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PO39 959-963
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -77,7 +74,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -91,7 +87,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

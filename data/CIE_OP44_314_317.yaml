@@ -13,7 +13,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/the-influence-of-led-lighting-with-different-proportions-of-blue-light-wavelengths-on-humans-op44-314-317?product_id=2010516
+- content: https://store.accuristech.com/standards/the-influence-of-led-lighting-with-different-proportions-of-blue-light-wavelengths-on-humans-op44-314-317?product_id=2010516
   type: src
 type: standard
 docid:
@@ -21,9 +21,6 @@ docid:
   type: CIE
   primary: true
 docnumber: OP44 314-317
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -64,7 +61,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Tseng
         language:
@@ -88,7 +85,7 @@ contributor:
           - en
           script:
           - Latn
-          initial: Y
+          initial: "Y"
       surname:
         content: Chen
         language:
@@ -147,7 +144,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -161,7 +157,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

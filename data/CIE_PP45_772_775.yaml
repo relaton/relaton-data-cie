@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/visual-clarity-and-brightness-in-indoor-and-outdoor-lighting-experiments-and-modelling-pp45-772-775?product_id=2011374
+- content: https://store.accuristech.com/standards/visual-clarity-and-brightness-in-indoor-and-outdoor-lighting-experiments-and-modelling-pp45-772-775?product_id=2011374
   type: src
 type: standard
 docid:
@@ -19,9 +19,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PP45 772-775
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -73,7 +70,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -87,7 +83,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

@@ -13,7 +13,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/verbal-definition-of-object-colour-perception-in-artificial-lighting-po72-1074-1076?product_id=2011220
+- content: https://store.accuristech.com/standards/verbal-definition-of-object-colour-perception-in-artificial-lighting-po72-1074-1076?product_id=2011220
   type: src
 type: standard
 docid:
@@ -21,9 +21,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PO72 1074-1076
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -75,7 +72,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -89,7 +85,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

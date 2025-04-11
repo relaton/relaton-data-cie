@@ -17,7 +17,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/research-on-the-influence-mechanism-of-the-artificial-light-environment-evaluation-index-on-office-lighting-comfort-pp17-580-588?product_id=2011272
+- content: https://store.accuristech.com/standards/research-on-the-influence-mechanism-of-the-artificial-light-environment-evaluation-index-on-office-lighting-comfort-pp17-580-588?product_id=2011272
   type: src
 type: standard
 docid:
@@ -25,9 +25,6 @@ docid:
   type: CIE
   primary: true
 docnumber: PP17 580-588
-date:
-- type: published
-  value: '2017-10-23'
 contributor:
 - person:
     name:
@@ -115,7 +112,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2017-10-23'
 language:
 - en
 script:
@@ -129,7 +125,7 @@ abstract:
   script:
   - Latn
   format: text/plain
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document

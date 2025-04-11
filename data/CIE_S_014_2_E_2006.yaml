@@ -2,26 +2,23 @@
 schema-version: v1.2.9
 id: CIES014-2-E-2006
 title:
-- content: CIE Standard llluminants for Colorimetry
+- content: CIE standard illuminants for colorimetry
   format: text/plain
   type: title-main
-- content: CIE Standard llluminants for Colorimetry
+- content: CIE standard illuminants for colorimetry
   format: text/plain
   type: main
 link:
-- content: https://www.techstreet.com/cie/standards/cie-s-014-2-e-2006-iso-11664-2-2007?product_id=1529665
+- content: https://store.accuristech.com/standards/cie-s-014-2-e-2006-iso-10526-2007-e?product_id=1529665
   type: src
 type: standard
 docid:
 - id: CIE S 014-2/E:2006
   type: CIE
   primary: true
-- id: ISO 11664-2:2007
+- id: ISO 10526:2007
   type: ISO
 docnumber: S 014-2/E:2006
-date:
-- type: published
-  value: '2007-12-01'
 contributor:
 - organization:
     name:
@@ -31,7 +28,6 @@ contributor:
     url: cie.co.at
   role:
   - type: publisher
-revdate: '2007-12-01'
 language:
 - en
 script:
@@ -39,31 +35,7 @@ script:
 relation:
 - type: updates
   bibitem:
-    id: ISO-CIE11664-2-2022
-    title:
-    - content: ISO/CIE 11664-2 Colorimetry
-      format: text/plain
-      type: title-main
-    - content: 'Part 2: CIE standard illuminants'
-      format: text/plain
-      type: title-part
-    - content: 'ISO/CIE 11664-2 Colorimetry - Part 2: CIE standard illuminants'
-      format: text/plain
-      type: main
-    link:
-    - content: https://www.techstreet.com/cie/standards/iso-cie-11664-2-2022?product_id=2502988
-      type: src
-    docid:
-    - id: ISO/CIE 11664-2:2022
-      type: CIE
-      primary: true
-    date:
-    - type: published
-      value: '2022-09-01'
-    revdate: '2022-09-01'
-- type: updates
-  bibitem:
-    id: ISO-CIE11664-2-2022
+    id: CIEISO11664-2-2022
     title:
     - content: Colorimetry
       format: text/plain
@@ -75,16 +47,16 @@ relation:
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/iso-cie-11664-2-2022?product_id=2502256
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-iso-11664-2-2022?product_id=2502988
       type: src
     docid:
-    - id: ISO/CIE 11664-2:2022
+    - id: CIE ISO 11664-2:2022
       type: CIE
       primary: true
     date:
     - type: published
-      value: '2022-08-31'
-    revdate: '2022-08-31'
+      value: '2022-08-01'
+    revdate: '2022-08-01'
 - type: updates
   bibitem:
     id: CIEISODIS11664-2-2020
@@ -99,7 +71,7 @@ relation:
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/cie-iso-dis-11664-2-2020?product_id=2103147
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-iso-dis-11664-2-2020?product_id=2103147
       type: src
     docid:
     - id: CIE ISO DIS 11664-2:2020
@@ -111,28 +83,7 @@ relation:
     revdate: '2020-01-31'
 - type: updates
   bibitem:
-    id: CIES014-2-E-2006-ISO11664-2-2007E
-    title:
-    - content: CIE Standard llluminants for Colorimetry
-      format: text/plain
-      type: title-main
-    - content: CIE Standard llluminants for Colorimetry
-      format: text/plain
-      type: main
-    link:
-    - content: https://www.techstreet.com/cie/standards/cie-s-014-2-e-2006-iso-11664-2-2007-e?product_id=1601626
-      type: src
-    docid:
-    - id: CIE S 014-2/E:2006/ISO 11664-2:2007(E)
-      type: CIE
-      primary: true
-    date:
-    - type: published
-      value: '2008-11-30'
-    revdate: '2008-11-30'
-- type: updates
-  bibitem:
-    id: ISO11664-2-2007
+    id: CIES014-2-E-2006ISO11664-2-2007E
     title:
     - content: Colorimetry
       format: text/plain
@@ -144,17 +95,17 @@ relation:
       format: text/plain
       type: main
     link:
-    - content: https://www.techstreet.com/cie/standards/iso-11664-2-2007?product_id=1588250
+    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-014-2-e-2006-iso-11664-2-2007-e?product_id=1601626
       type: src
     docid:
-    - id: ISO 11664-2:2007
+    - id: CIE S 014-2/E:2006 (ISO 11664-2:2007(E))
       type: CIE
       primary: true
     date:
     - type: published
       value: '2008-11-01'
     revdate: '2008-11-01'
-doctype:
-  type: document
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: document
