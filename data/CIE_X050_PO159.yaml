@@ -1,135 +1,103 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO159
+id: CIEx050PO159
+type: standard
+schema_version: v1.4.1
 title:
 - content: IMPACTS OF LED TEMPORALLY MODULATED LIGHT ON ATMOSPHERE PERCEPTION
-  format: text/plain
   type: title-main
 - content: IMPACTS OF LED TEMPORALLY MODULATED LIGHT ON ATMOSPHERE PERCEPTION
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po159?product_id=2579220
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO159
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po159?product_id=2579220
+docidentifier:
+- content: CIE x050-PO159
   type: CIE
   primary: true
 docnumber: x050-PO159
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: X
+      forename:
+      - language: en
+        script: Latn
+        initial: X
       surname:
+        language: en
+        script: Latn
         content: Zhao
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Li
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: D
+      forename:
+      - language: en
+        script: Latn
+        initial: D
       surname:
+        language: en
+        script: Latn
         content: Hou
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Lin
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: W
+      forename:
+      - language: en
+        script: Latn
+        initial: W
       surname:
+        language: en
+        script: Latn
         content: Xu
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The introduction of LED lighting systems has raised concerns about stroboscopic effects caused by temporally modulated light. The visibility of stroboscopic effects can be predicted by the stroboscopic visibility measure (SVM). Existing studies on stroboscopic effects mainly focus on its effects on human health, while its impacts on atmosphere factors have been less studied. This study investigates the impact of stroboscopic visibility on atmosphere perceptions. 10 participants assessed lighting environments under 6 SVM conditions using 16-atmosphere terms. Factor analysis revealed 4 dimensions of atmosphere perception: cosiness, liveliness, lightness and blinking. A higher SVM level would lead to less cosiness, less liveness, less lightness and more blinking. ANOVA analysis demonstrated a significant relationship between the SVM level and the blinking perception, following a logistic function with a threshold of SVM = 1,24. Further studies are needed but the effect should be considered when designing practical lighting installations.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

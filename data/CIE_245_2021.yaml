@@ -1,45 +1,43 @@
 ---
-schema-version: v1.2.9
-id: CIE245-2021
+id: CIE2452021
+type: standard
+schema_version: v1.4.1
 title:
 - content: Optical Safety of Infrared Eye Trackers Applied for Extended Durations
-  format: text/plain
   type: title-main
 - content: Optical Safety of Infrared Eye Trackers Applied for Extended Durations
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-245-2021?product_id=2237423
-  type: src
-type: standard
-docid:
-- id: CIE 245:2021
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-245-2021?product_id=2237423
+docidentifier:
+- content: CIE 245:2021
   type: CIE
   primary: true
 docnumber: 245:2021
+date:
+- type: published
+  at: '2021-10-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Infrared eye trackers are employed to achieve communication through gaze interaction, which is an important application of modern electro-optics and computer technology to the benefit of persons with disabilities who have major motor impairments, as well as for general use as a human-to-computer interaction device.By tracking eye movements of persons with severe motor disabilities, the individuals can interact with automated equipment through movements of their gaze. In addition to purely passive systems, which may only employ ambient lighting, more typical eye trackers employ active infrared eye-tracking techniques. However, questions have arisen with regard to the potential optical radiation hazards of using infrared eye trackers for the much-extended durations of 10 to 12 hours each day for a lifetime. Conventional eye trackers employed in the research setting would rarely be used for more than an hour. Several exposure guidelines exist today, but the question has arisen whether the chronic nature of exposure for such an infrared illuminator for assistive devices falls outside the assumed conditions of daily exposure.This technical report explores the basis of the current human exposure guidelines, their scientific basis and underlying assumptions in order to determine the direct applicability of these guidelines to this application. It is found that the most limiting exposure criterion is the infrared exposure limit to protect against delayed changes in the crystalline lens of the eye. The Technical Committee also examined some representative eye trackers and found that the day-long average exposure in these typical examples of current technology did not exceed that criterion.The publication is written in English, with a short summary in French and German.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

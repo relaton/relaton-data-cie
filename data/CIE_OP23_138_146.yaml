@@ -1,149 +1,114 @@
 ---
-schema-version: v1.2.9
-id: CIEOP23138-146
-title:
-- content: INFLUENCE OF FREQUENCY, WAVEFORM AND COLOUR ON THE VISIBILITY OF THE PHANTOM
-    ARRAY EFFECT (OP23, 138-146)
-  format: text/plain
-  type: title-main
-- content: INFLUENCE OF FREQUENCY, WAVEFORM AND COLOUR ON THE VISIBILITY OF THE PHANTOM
-    ARRAY EFFECT (OP23, 138-146)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/influence-of-frequency-waveform-and-colour-on-the-visibility-of-the-phantom-array-effect-op23-138-146?product_id=2016236
-  type: src
+id: CIEOP23138146
 type: standard
-docid:
-- id: CIE OP23 138-146
+schema_version: v1.4.1
+title:
+- content: "INFLUENCE OF FREQUENCY, WAVEFORM AND COLOUR ON THE VISIBILITY OF THE PHANTOM
+    ARRAY EFFECT (OP23, 138-146)\n        \n            \n              ✓\n              Most
+    Recent"
+  type: title-main
+- content: "INFLUENCE OF FREQUENCY, WAVEFORM AND COLOUR ON THE VISIBILITY OF THE PHANTOM
+    ARRAY EFFECT (OP23, 138-146)\n        \n            \n              ✓\n              Most
+    Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/influence-of-frequency-waveform-and-colour-on-the-visibility-of-the-phantom-array-effect-op23-138-146?product_id=2016236
+docidentifier:
+- content: CIE OP23 138-146
   type: CIE
   primary: true
 docnumber: OP23 138-146
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: X
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: L
+      forename:
+      - language: en
+        script: Latn
+        initial: X
+      - language: en
+        script: Latn
+        initial: L
       surname:
+        language: en
+        script: Latn
         content: Yu
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: L
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: L
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      - language: en
+        script: Latn
+        initial: L
       surname:
+        language: en
+        script: Latn
         content: Wang
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Tu
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Perz
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: D
+      forename:
+      - language: en
+        script: Latn
+        initial: D
       surname:
+        language: en
+        script: Latn
         content: Sekulovski
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    One of the temporal light artefacts, which can occur in temporally modulated light systems, is the phantom array effect, also known as ghosting. This paper studies the influence of frequency, waveform and colour of light output of a LED source on the visibility of the phantom array effect. Results indicate that the visibility of this effect depends on frequency, following a U-shape form, with the effect being most visible at around 600 Hz. Next to that, the phantom array effect is more readily perceived when the light waveform is square, compared to sinusoidal wave. The results also show how the visibility of the phantom array effect depends on the colour of light output; blue light results in less visible effect, compared to red and white light.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

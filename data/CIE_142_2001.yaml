@@ -1,45 +1,45 @@
 ---
-schema-version: v1.2.9
-id: CIE142-2001
+id: CIE1422001
+type: standard
+schema_version: v1.4.1
 title:
 - content: Improvement to industrial colour-difference evaluation
-  format: text/plain
   type: title-main
 - content: Improvement to industrial colour-difference evaluation
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-142-2001?product_id=1210060
-  type: src
-type: standard
-docid:
-- id: CIE 142-2001
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-142-2001?product_id=1210060
+docidentifier:
+- content: CIE 142-2001
   type: CIE
   primary: true
 docnumber: 142-2001
+date:
+- type: published
+  at: '2001-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    In this Technical Report recommended practice for industrial colour-difference evaluation is presented. The recommended model is an extension of the CIE 1976 (L*a*b*) colour-difference model with corrections for variation in colour-difference perception dependent on lightness, chroma, hue and chroma-hue interaction. The corrections for the chroma dependence of chroma and hue differences in the CIE94 model have been retained and supplemented by several additional corrections based on new experimental data and analysis. Reference conditions define material and viewing environment characteristics to which the colour-difference model applies. Factors are introduced to correct for the parametric effects of various conditions of use.
+
+    The Technical Report is written in English, with a short summary in French and German. It consists of 15 pages with 2 tables.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

@@ -1,119 +1,93 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO147
+id: CIEx050PO147
+type: standard
+schema_version: v1.4.1
 title:
 - content: AN EXPLORATORY STUDY TO ASSESS OUTDOOR LIGHTING IN URBAN CONTEXTS CONSIDERING
     IMPLICATIONS ON HUMAN HEALTH AND WELLBEING
-  format: text/plain
   type: title-main
 - content: AN EXPLORATORY STUDY TO ASSESS OUTDOOR LIGHTING IN URBAN CONTEXTS CONSIDERING
     IMPLICATIONS ON HUMAN HEALTH AND WELLBEING
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po147?product_id=2579210
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO147
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po147?product_id=2579210
+docidentifier:
+- content: CIE x050-PO147
   type: CIE
   primary: true
 docnumber: x050-PO147
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: L
+      forename:
+      - language: en
+        script: Latn
+        initial: L
       surname:
+        language: en
+        script: Latn
         content: Valetti
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: G
+      forename:
+      - language: en
+        script: Latn
+        initial: G
       surname:
+        language: en
+        script: Latn
         content: Piccablotto
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: Taraglio
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Pellegrino
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Outdoor lighting is an essential service and offers many benefits to users; however, excessive exposure to ALAN may have adverse effects on human health and well-being. Studies on light pollution are mainly based on the evaluation of the phenomenon on the horizontal plane, through nighttime satellite imagery. However, the assessment of the quantity and the spectrum of light on vertical planes is more relevant when the influence on human health is considered. In this paper, a methodological approach for the assessment of ALAN in a city context is presented. The study involved the assessment of light pollution through in-field measurements (photometric and spectral measurement campaign), to evaluate the phenomena considering the impact of light on buildings and on the human visual system. Some preliminary results and data elaborations referred to the application of the research methodology to a case study are presented.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

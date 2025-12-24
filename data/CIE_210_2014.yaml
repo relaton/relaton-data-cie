@@ -1,45 +1,44 @@
 ---
-schema-version: v1.2.9
-id: CIE210-2014
+id: CIE2102014
+type: standard
+schema_version: v1.4.1
 title:
 - content: Photometry Using V(l)-Corrected Detectors as Reference and Transfer Standards
-  format: text/plain
   type: title-main
 - content: Photometry Using V(l)-Corrected Detectors as Reference and Transfer Standards
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-210-2014?product_id=1877569
-  type: src
-type: standard
-docid:
-- id: CIE 210:2014
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-210-2014?product_id=1877569
+docidentifier:
+- content: CIE 210:2014
   type: CIE
   primary: true
 docnumber: 210:2014
+date:
+- type: published
+  at: '2014-05-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    This publication provides recommendations of the CIE concerning the use of V(λ)-corrected detectors as reference and transfer standards for photometric units.  Specifically it includes the construction, characterization and directions for use of standard photometers for such purposes.
+    The publication is written in English, with a short summary in French and German.  It consists of 34 pages with 11 figures.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

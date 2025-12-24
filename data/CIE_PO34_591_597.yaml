@@ -1,143 +1,106 @@
 ---
-schema-version: v1.2.9
-id: CIEPO34591-597
-title:
-- content: COLOUR FADING MODEL OF LEDS FOR CONTEMPORARY PHOTOGRAPHIC MATERIALS (PO34,
-    591-597)
-  format: text/plain
-  type: title-main
-- content: COLOUR FADING MODEL OF LEDS FOR CONTEMPORARY PHOTOGRAPHIC MATERIALS (PO34,
-    591-597)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/colour-fading-model-of-leds-for-contemporary-photographic-materials-po34-591-597?product_id=2016310
-  type: src
+id: CIEPO34591597
 type: standard
-docid:
-- id: CIE PO34 591-597
+schema_version: v1.4.1
+title:
+- content: "COLOUR FADING MODEL OF LEDS FOR CONTEMPORARY PHOTOGRAPHIC MATERIALS (PO34,
+    591-597)\n        \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "COLOUR FADING MODEL OF LEDS FOR CONTEMPORARY PHOTOGRAPHIC MATERIALS (PO34,
+    591-597)\n        \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/colour-fading-model-of-leds-for-contemporary-photographic-materials-po34-591-597?product_id=2016310
+docidentifier:
+- content: CIE PO34 591-597
   type: CIE
   primary: true
 docnumber: PO34 591-597
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: W
-      surname:
-        content: Luo
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      - language: en
+        script: Latn
+        initial: W
       surname:
+        language: en
+        script: Latn
+        content: Luo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
         content: Chou
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Chen
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: Luo
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    CIE 157:2004 classifies museum collections into four groups according to different levels of light fastness. However, these classes were developed from research using traditional light sources. Even though LED technology is becoming more popular, there is no advanced evaluation of colour fading or colour change test for contemporary artworks. This study established that the CIE 157:2004 method, based on threshold effective radiant exposure, can be applied to an actual ageing test of UV-blocked light sources, including two types of white LEDs and one traditional halogen lamp. The results also present a colour fading model that can be used in museum LED lighting to predict colour differences of contemporary photographic materials for short- and long-term exhibition.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

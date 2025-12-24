@@ -1,81 +1,67 @@
 ---
-schema-version: v1.2.9
-id: CIEx048-PO53
+id: CIEx048PO53
+type: standard
+schema_version: v1.4.1
 title:
 - content: FIELD SURVEY ON LIGHTING ENVIRONMENT FOR WORK FROM HOME IN JAPAN
-  format: text/plain
   type: title-main
 - content: FIELD SURVEY ON LIGHTING ENVIRONMENT FOR WORK FROM HOME IN JAPAN
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x048-po53?product_id=2240859
-  type: src
-type: standard
-docid:
-- id: CIE x048-PO53
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-po53?product_id=2240859
+docidentifier:
+- content: CIE x048-PO53
   type: CIE
   primary: true
 docnumber: x048-PO53
+date:
+- type: published
+  at: '2021-09-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: E
+      forename:
+      - language: en
+        script: Latn
+        initial: E
       surname:
+        language: en
+        script: Latn
         content: Mochizuki
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Nagasaki
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The working situation has been dramatically changed in 2020 due to COVID-19. The purpose of this study is to identify the lighting environment which can be adapted to various styles of work from home. In this study, questionnaire survey and field measurement were conducted to identify the actual working situation and the lighting environment of the working location at home. This paper reports the results of questionnaire survey and the measurement data comparing the working location in office and at home.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

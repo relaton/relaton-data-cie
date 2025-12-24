@@ -1,117 +1,91 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO016
+id: CIEx050PO016
+type: standard
+schema_version: v1.4.1
 title:
 - content: 'LIGHTING EDUCATION: A COMPARISON OF BRAZILIAN AND ITALIAN CONTEXT'
-  format: text/plain
   type: title-main
 - content: 'LIGHTING EDUCATION: A COMPARISON OF BRAZILIAN AND ITALIAN CONTEXT'
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po016?product_id=2579051
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO016
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po016?product_id=2579051
+docidentifier:
+- content: CIE x050-PO016
   type: CIE
   primary: true
 docnumber: x050-PO016
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
         content: Godoy Daltrozo
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: B
+      forename:
+      - language: en
+        script: Latn
+        initial: B
       surname:
+        language: en
+        script: Latn
         content: Tschiedel Martau
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Pellegrino
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: V
+      forename:
+      - language: en
+        script: Latn
+        initial: V
       surname:
+        language: en
+        script: Latn
         content: Lo Verso
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    This study aimed to understand, from the perspectives of architects in different countries regarding their education in lighting and its implications for their professional practice. In addition, also observe their shortcomings in order to contribute to a discussion about teaching. Questionnaires were applied to architects from Brazil and Italy and the results revealed differences such as exposure to teaching and educational emphasis and similarities such as recognizing the extreme importance of lighting in architecture and feeling the need for more active methodologies in teaching. Terms such as "practical application," "hands-on experiences" and "field visits" were identified as crucial elements for improving understanding and skills in lighting design in both contexts. The study concludes emphasize the significance of enhancing lighting education within architecture curricula as a means to better equip future architects in shaping and enhancing the human experience within the built environment.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

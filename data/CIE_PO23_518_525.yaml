@@ -1,83 +1,72 @@
 ---
-schema-version: v1.2.9
-id: CIEPO23518-525
-title:
-- content: PROPOSAL FOR THE NEW FORMULA OF COLOUR RENDERING PROPERTIES TAKING ACCOUNT
-    OF ILLUMINANCE-EFFECTS AND GAMUT-SHAPE-EFFECTS  (PO23, 518-525)
-  format: text/plain
-  type: title-main
-- content: PROPOSAL FOR THE NEW FORMULA OF COLOUR RENDERING PROPERTIES TAKING ACCOUNT
-    OF ILLUMINANCE-EFFECTS AND GAMUT-SHAPE-EFFECTS  (PO23, 518-525)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/proposal-for-the-new-formula-of-colour-rendering-properties-taking-account-of-illuminance-effects-and-gamut-shape-effects-po23-518-525?product_id=2016300
-  type: src
+id: CIEPO23518525
 type: standard
-docid:
-- id: CIE PO23 518-525
+schema_version: v1.4.1
+title:
+- content: "PROPOSAL FOR THE NEW FORMULA OF COLOUR RENDERING PROPERTIES TAKING ACCOUNT
+    OF ILLUMINANCE-EFFECTS AND GAMUT-SHAPE-EFFECTS  (PO23, 518-525)\n        \n            \n
+    \             ✓\n              Most Recent"
+  type: title-main
+- content: "PROPOSAL FOR THE NEW FORMULA OF COLOUR RENDERING PROPERTIES TAKING ACCOUNT
+    OF ILLUMINANCE-EFFECTS AND GAMUT-SHAPE-EFFECTS  (PO23, 518-525)\n        \n            \n
+    \             ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/proposal-for-the-new-formula-of-colour-rendering-properties-taking-account-of-illuminance-effects-and-gamut-shape-effects-po23-518-525?product_id=2016300
+docidentifier:
+- content: CIE PO23 518-525
   type: CIE
   primary: true
 docnumber: PO23 518-525
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Nakajima
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Fuchida
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The purpose of this study is to examine the importance of red when colour rendition of object colours is evaluated, also check the accuracy of "Colour Quality Index" called Gx(E) proposed by the authors which takes account of illuminance and gamut shape. Two psychophysical experiments were conducted using various light sources with different gamut shapes and illuminances. The observers evaluated the colour and texture impression of the colour samples (the paint and the fabrics) by the SD method. It was confirmed that the colour rendition of red was important not only for colour impression but also for texture impression. In addition, Gx(E) showed good correlation with subjective evaluation regardless of illuminance.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

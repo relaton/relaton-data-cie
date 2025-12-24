@@ -1,120 +1,107 @@
 ---
-schema-version: v1.2.9
-id: CIE069-1987
+id: CIE0691987
+type: standard
+schema_version: v1.4.1
 title:
 - content: 'Methods of characterizing illuminance meters and luminance meters: Performance,
     characteristics and specifications'
-  format: text/plain
   type: title-main
 - content: 'Methods of characterizing illuminance meters and luminance meters: Performance,
     characteristics and specifications'
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-069-1987?product_id=1210000
-  type: src
-type: standard
-docid:
-- id: CIE 069-1987
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-069-1987?product_id=1210000
+docidentifier:
+- content: CIE 069-1987
   type: CIE
   primary: true
 docnumber: '069-1987'
+date:
+- type: published
+  at: '1987-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     The properties of photometers and photometer heads for the measurements of illuminance and luminance are defined. Methods of calibration are given and sources of errors are described. Several properties which determine the performance of photometers can be characterized numerically. However, it has not been found possible to quantify some others.
 
     The report is intended to be a guide for those wishing to perform light measurements or to judge the quality of instruments. It is not intended for the casual buyer and user of such instruments.
 
     The report is in English, with a summary in English, French and German. It consists of 43 pages, 15 figures and 2 tables.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+                  See more
 relation:
 - type: updates
   bibitem:
-    id: CIEISO19476-2014
     title:
     - content: Characterization of the performance of illuminance meters and luminance
         meters
-      format: text/plain
       type: title-main
     - content: Characterization of the performance of illuminance meters and luminance
         meters
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-iso-19476-2014?product_id=1880762
-      type: src
-    docid:
-    - id: CIE ISO 19476:2014
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-iso-19476-2014?product_id=1880762
+    docidentifier:
+    - content: CIE ISO 19476:2014
       type: CIE
       primary: true
     date:
     - type: published
-      value: '2014-06-01'
-    revdate: '2014-06-01'
+      at: '2014-06-01'
 - type: updates
   bibitem:
-    id: CIES023-E-2013
     title:
     - content: Characterization of the Performance of Illuminance Meters and Luminance
         Meters
-      format: text/plain
       type: title-main
     - content: Characterization of the Performance of Illuminance Meters and Luminance
         Meters
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-023-e-2013?product_id=1857801
-      type: src
-    docid:
-    - id: CIE S 023/E:2013
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-023-e-2013?product_id=1857801
+    docidentifier:
+    - content: CIE S 023/E:2013
       type: CIE
       primary: true
     date:
     - type: published
-      value: '2013-05-01'
-    revdate: '2013-05-01'
+      at: '2013-05-01'
 - type: updates
   bibitem:
-    id: CIEDS023-E-2012
     title:
     - content: Characterization of the Performance of Illuminance Meters and Luminance
         Meters
-      format: text/plain
       type: title-main
     - content: Characterization of the Performance of Illuminance Meters and Luminance
         Meters
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-ds-023-e-2012?product_id=1826966
-      type: src
-    docid:
-    - id: CIE DS 023/E:2012
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-ds-023-e-2012?product_id=1826966
+    docidentifier:
+    - content: CIE DS 023/E:2012
       type: CIE
       primary: true
     date:
     - type: published
-      value: '2012-03-01'
-    revdate: '2012-03-01'
+      at: '2012-03-01'
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

@@ -1,0 +1,75 @@
+---
+id: CIEx0512025qpp8oa
+type: standard
+schema_version: v1.4.1
+title:
+- content: THE INFLUENCE OF THE CORRELATED COLOUR TEMPERATURE CALCULATION METHOD ON
+    THE ACCURACY OF COLOUR RENDERING INDEX MEASUREMENT
+  type: title-main
+- content: THE INFLUENCE OF THE CORRELATED COLOUR TEMPERATURE CALCULATION METHOD ON
+    THE ACCURACY OF COLOUR RENDERING INDEX MEASUREMENT
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-qpp8oa?product_id=3040017
+docidentifier:
+- content: CIE x051:2025/qpp8oa
+  type: CIE
+  primary: true
+docnumber: x051:2025/qpp8oa
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      - language: en
+        script: Latn
+        initial: V
+      surname:
+        language: en
+        script: Latn
+        content: Scums
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Valodchenka
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Work investigates the impact of different correlated colour temperature (CCT) calculation methods on the accuracy of the Colour Rendering Index (CRI) measurement. As the choice of CCT calculation method influences the reference illuminant used in CRI computation, discrepancies in CRI values may arise. Nine CCT calculation methods were analyzed using 18 spectral power distributions (SPDs) selected from the EMPIR 15SIB07 PhotoLED database. The results indicate that, despite variations in CCT values, the CRI index is largely unaffected by the choice of calculation method, with minimal discrepancies observed across the methods. The findings suggest that, for most practical applications, the CCT calculation method has negligible impact on CRI accuracy, and other factors, such as performance, should guide the selection of the optimal CCT calculation approach.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

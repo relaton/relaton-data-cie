@@ -1,47 +1,59 @@
 ---
-schema-version: v1.2.9
-id: CIEx026-2005
+id: CIEx0262005
+type: standard
+schema_version: v1.4.1
 title:
 - content: 'Proceedings of the CIE Symposium ''04, LED Light Sources: Physical Measurement
     and Visual and Photobiological Assessment, 2nd Edition'
-  format: text/plain
   type: title-main
 - content: 'Proceedings of the CIE Symposium ''04, LED Light Sources: Physical Measurement
     and Visual and Photobiological Assessment, 2nd Edition'
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x026-2005?product_id=1210036
-  type: src
-type: standard
-docid:
-- id: CIE x026:2005
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x026-2005?product_id=1210036
+docidentifier:
+- content: CIE x026:2005
   type: CIE
   primary: true
 docnumber: x026:2005
+date:
+- type: published
+  at: '2005-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    LED light sources are now widely used in illuminating engineering as well as in information technology and are expected to be one of the major light sources in our future life. Despite the wide and rapidly growing use of LEDs, reliable methods for physical light measurement and visual and photobiological evaluation are still in question. The CIE had organized two successful symposia on LEDs in 1997 and 2001. However, there are still many questions left unsolved such as measurement of partial flux and radiance, visual evaluation such as colour rendering, or requirements for photobiological safety.
+
+    To discuss these issues, CIE Divisions 1, 2 and 6 organized this expert symposium on LED light sources, held from 7 to 8 June 2004 at AIST (National Institute of Advanced Industrial Science and Technology) Tokyo Waterfront/Japan, with support from the Japanese National Committee of the CIE and AIST Japan.
+
+    The meeting was divided into four main sessions:
+
+    • Colour Rendering
+    • Vision
+    • Photobiological Safety
+    • Measurement.
+
+
+    Keynote papers were read on "Physical and visual requirements for LEDs to be used for future lighting systems" and "White light from light emitting diodes". The symposium included also a poster session. The Proceedings contains the peer-reviewed versions of the 30 papers presented, as well as a summary of the discussion sessions. CIE x026:2005 is the 2nd edition of the proceedings and includes all full papers that were submitted.
+
+    The publication contains 155 pages with 138, mostly coloured, figures.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

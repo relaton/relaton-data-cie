@@ -1,93 +1,73 @@
 ---
-schema-version: v1.2.9
-id: CIEx048-OP27
+id: CIEx048OP27
+type: standard
+schema_version: v1.4.1
 title:
 - content: FACILITY FOR CALIBRATION OF PHOTOMETERS FOR TEMPORAL LIGHT MODULATION
-  format: text/plain
   type: title-main
 - content: FACILITY FOR CALIBRATION OF PHOTOMETERS FOR TEMPORAL LIGHT MODULATION
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x048-op27?product_id=2240717
-  type: src
-type: standard
-docid:
-- id: CIE x048-OP27
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op27?product_id=2240717
+docidentifier:
+- content: CIE x048-OP27
   type: CIE
   primary: true
 docnumber: x048-OP27
+date:
+- type: published
+  at: '2021-09-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: Dekker
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: L
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: L
       surname:
+        language: en
+        script: Latn
         content: van Bloois
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    We developed a facility for calibration of TLM (temporal light modulation) photometers. The facility is based on a laser-fed reference source, of which the radiance can be modulated with an acousto-optic modulator (AOM). A system of photodiodes, amplifiers, and an analog-to-digital converter (ADC) is used to sample the temporally modulated radiance of the source. With the facility a TLM photometer was calibrated for display contrast ratio RMS (root mean square) with an absolute combined standard uncertainty of 0,037 %. In addition, the facility has been characterised with the aim of measuring flicker and stroboscopic effect, considering the Ecodesign Single Lighting Regulation. The frequency response of the facility shows to be sufficient to accommodate measurements of flicker and the stroboscopic effect.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

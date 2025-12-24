@@ -1,69 +1,58 @@
 ---
-schema-version: v1.2.9
-id: CIEPO01806-814
-title:
-- content: |-
-    COLOUR DISCRIMINATION MAY BE HUE AGNOSTIC: A PILOT STUDY
-
-      (PO01, 806-814)
-  format: text/plain
-  type: title-main
-- content: |-
-    COLOUR DISCRIMINATION MAY BE HUE AGNOSTIC: A PILOT STUDY
-
-      (PO01, 806-814)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/colour-discrimination-may-be-hue-agnostic-a-pilot-study-po01-806-814?product_id=2010529
-  type: src
+id: CIEPO01806814
 type: standard
-docid:
-- id: CIE PO01 806-814
+schema_version: v1.4.1
+title:
+- content: "COLOUR DISCRIMINATION MAY BE HUE AGNOSTIC: A PILOT STUDY\n\n  (PO01, 806-814)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "COLOUR DISCRIMINATION MAY BE HUE AGNOSTIC: A PILOT STUDY\n\n  (PO01, 806-814)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/colour-discrimination-may-be-hue-agnostic-a-pilot-study-po01-806-814?product_id=2010529
+docidentifier:
+- content: CIE PO01 806-814
   type: CIE
   primary: true
 docnumber: PO01 806-814
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
-      surname:
-        content: Esposito
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- organization:
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Esposito
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Past studies have hinted that average colour rendering measures, with a particular focus on average gamut area measures, cannot predict the colour discrimination ability of highly structured spectra. A recent study by Esposito and Houser solidified this fi nding, and showed that a new measure, Rd—an error score based on the light-source induced hue transpositions of the FM-100 hue test—could reliably predict error scores. The current study optimized spectra using Rd (and accompanying sub-indices) to determine if several individual transpositions, each with a different nominal hue, would result in different c olour discrimination ability. The results show that four separate stimuli, each of which transposes one cap at different hue angl es, do not produce statistically different mean error scores. Assuming the FM -100 hue test is indicative of colour discrimination ability and knowing that cap transpositions are a strong predictor of FM - 100 error scores, the results suggest that colour discrimination ability may not differ based on hue.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

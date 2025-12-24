@@ -1,105 +1,87 @@
 ---
-schema-version: v1.2.9
-id: CIEOP0332-37
-title:
-- content: WHITE LIGHT CHROMATICITY LOCUS FOR NATURALNESS (OP03, 32-37)
-  format: text/plain
-  type: title-main
-- content: WHITE LIGHT CHROMATICITY LOCUS FOR NATURALNESS (OP03, 32-37)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/white-light-chromaticity-locus-for-naturalness-op03-32-37?product_id=2009464
-  type: src
+id: CIEOP033237
 type: standard
-docid:
-- id: CIE OP03 32-37
+schema_version: v1.4.1
+title:
+- content: "WHITE LIGHT CHROMATICITY LOCUS FOR NATURALNESS (OP03, 32-37)\n        \n
+    \           \n              ✓\n              Most Recent"
+  type: title-main
+- content: "WHITE LIGHT CHROMATICITY LOCUS FOR NATURALNESS (OP03, 32-37)\n        \n
+    \           \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/white-light-chromaticity-locus-for-naturalness-op03-32-37?product_id=2009464
+docidentifier:
+- content: CIE OP03 32-37
   type: CIE
   primary: true
 docnumber: OP03 32-37
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Jiamin
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: Z
+      forename:
+      - language: en
+        script: Latn
+        initial: Z
       surname:
+        language: en
+        script: Latn
         content: Qiyan
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: Luo
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    From the earlier study by Ohno and Fein, the white light chromaticities across different correlated colour temperature (CCT) perceived the most natural were located below the Planckian locus. The goal of this study was to investigate whether some white lights can
+    make familiar objects (such as banana, apple) to appear more natural, i.e. closer to observers' memory colours. The experiment was conducted using a spectrum tunable LED lighting system in a double viewing cabinets. The effect of white chromaticity of natural
+    perception were evaluated with a strict control of the other colour quality parameters including CCT, colour fidelity, gamut shape and chromatic adaptation. Seventeen normal colour vision observers attended the visual assessments using a pair comparison method. The results showed that the lights with a mean Duv of - 0,013 across a variety of CCTs appeared the most natural.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

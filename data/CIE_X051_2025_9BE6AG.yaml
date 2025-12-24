@@ -1,0 +1,93 @@
+---
+id: CIEx05120259be6ag
+type: standard
+schema_version: v1.4.1
+title:
+- content: NEW CONCEPT FOR ROAD LIGHTING TO IMPROVE THE VISIBILITY OF CYCLISTS IN
+    SHARED ROAD SPACE
+  type: title-main
+- content: NEW CONCEPT FOR ROAD LIGHTING TO IMPROVE THE VISIBILITY OF CYCLISTS IN
+    SHARED ROAD SPACE
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-9be6ag?product_id=3039154
+docidentifier:
+- content: CIE x051:2025/9be6ag
+  type: CIE
+  primary: true
+docnumber: x051:2025/9be6ag
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Hansen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Schumacher
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Walkling
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Völker
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    https://doi.org/10.25039/x051.2025/9be6agSince the number of accidents involving cyclists is significant, partly due to poor visibility, our research aimed to develop and test a new lighting concept for urban road lighting systems to improve the visibility of cyclists.The previous requirements of CIE 115 and subsequently EN 13201 aim to ensure a negative contrast with the help of certain illumination levels. The approach we subsequently investigated was to create a positive contrast in conflict situations with a low lighting level. For this purpose, the parameter vertical illuminance was selected, quantified and implemented by optimised light distributions. The effectiveness of the parameter was then validated by practical measurements in which the effect on the visibility of cyclists was assessed.On the basis of the investigations, recommendations were developed, along with a proposal for revising EN 13201, the application of which would lead to a lighting concept that enables a higher visibility of cyclist.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

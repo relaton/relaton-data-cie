@@ -1,99 +1,79 @@
 ---
-schema-version: v1.2.9
-id: CIEx048-OP24
+id: CIEx048OP24
+type: standard
+schema_version: v1.4.1
 title:
 - content: THE ROLE OF DAYLIGHT IN LIBRARY USERS SEAT PREFERENCES
-  format: text/plain
   type: title-main
 - content: THE ROLE OF DAYLIGHT IN LIBRARY USERS SEAT PREFERENCES
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x048-op24?product_id=2240706
-  type: src
-type: standard
-docid:
-- id: CIE x048-OP24
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op24?product_id=2240706
+docidentifier:
+- content: CIE x048-OP24
   type: CIE
   primary: true
 docnumber: x048-OP24
+date:
+- type: published
+  at: '2021-09-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: G
+      forename:
+      - language: en
+        script: Latn
+        initial: G
       surname:
+        language: en
+        script: Latn
         content: Izmir Tunahan
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
+      forename:
+      - language: en
+        script: Latn
+        initial: H
       surname:
+        language: en
+        script: Latn
         content: Altamirano
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
         content: Unwin Teji
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Seating that meets the needs and preferences of students can promote a longer stay in libraries and keep students motivated, which in turn influences their emotions and learning abilities. However, existing knowledge on the interaction between daylighting and seating preferences is limited. This study aims to understand what type of spaces are in more demand and the relationship between seat occupancy and daylight availability. Occupancy data of the UCL Bartlett library acquired from motion sensors located underneath each desk was used to assess occupancy, which was then compared to characteristics of space, including daylight availability. The study revealed that although daylight has a considerable impact on students seat selection, the seating preference of the students cannot be explained by daylight alone. The seats with a good combination of daylight, outdoor view and privacy are in more demand compared to seats that provide only a high level of daylight. Future research should involve individual perception in addition to occupancy monitoring data, considering daylight conditions together with other components such as privacy, outdoor views, and quietness.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

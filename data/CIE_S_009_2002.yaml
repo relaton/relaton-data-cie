@@ -1,69 +1,88 @@
 ---
-schema-version: v1.2.9
-id: CIES009-2002
+id: CIES0092002
+type: standard
+schema_version: v1.4.1
 title:
 - content: Photobiological safety of lamps and lamp systems (bilingual edition)
-  format: text/plain
   type: title-main
 - content: Photobiological safety of lamps and lamp systems (bilingual edition)
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-s-009-2002-iec-62471-2006?product_id=1519485
-  type: src
-type: standard
-docid:
-- id: CIE S 009:2002
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-s-009-2002-iec-62471-2006?product_id=1519485
+docidentifier:
+- content: CIE S 009:2002
   type: CIE
   primary: true
-- id: IEC 62471:2006
+- content: IEC 62471:2006
   type: IEC
 docnumber: S 009:2002
+date:
+- type: published
+  at: '2006-07-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: "Lamps were developed and produced in large quantities and became commonplace
+    in an era\nwhen industry-wide safety standards were not the norm. The evaluation
+    and control of optical\nradiation hazards from lamps and lamp systems is a far
+    more complicated subject than similar\ntasks for a single-wavelength laser system.
+    \n\nThe required radiometric measurements are quite involved, for they do not
+    deal with the simple optics of a point source, but rather with an extended source
+    that may or may not be altered by diffusers or projection optics. Also the wavelength
+    distribution of the lamp may be altered by ancillary optical elements, diffusers,\nlenses,
+    and the like, as well as variations in operating conditions.\n\nTo evaluate a
+    broad-band optical source, such as an arc lamp, an incandescent lamp, a fluorescent
+    lamp, an array of lamps or a lamp system, it is first necessary to determine the
+    spectral distribution of optical radiation emitted from the source at the point
+    or points of nearest human access. This accessible emission spectral distribution
+    of interest for a lighting system may differ from that actually being emitted
+    by the lamp alone due to the filtration by any optical elements (e.g., projection
+    optics) in the light path. Secondly, the size,\nor projected size, of the source
+    must be characterized in the retinal hazard spectral region.\n\nThirdly, it may
+    be necessary to determine the variation of irradiance and effective radiance\nwith
+    distance. The performance of the necessary measurements is normally not an easy
+    task\nwithout sophisticated instruments. Thus it was decided to include reference
+    measurement\ntechniques for lamps and lamp systems in this standard. The measurement
+    techniques along\nwith the described risk group classification scheme will provide
+    common ground for both lamp\nmanufacturers and users to define the specific photobiological
+    hazards of any given lamp\nand/or lamp system.\n\nFinally, there are well known
+    optical radiation hazards associated with some lamps\nand lamp systems. The purpose
+    of this standard is to provide a standardized technique for\nevaluation of potential
+    radiation hazards that may be associated with various lamps and lamp\nsystems.\n
+    \             See more"
 relation:
 - type: updates
   bibitem:
-    id: CIES009-G-2002
     title:
     - content: Photobiologische Sicherheit von Lampen und Lampensystemen
-      format: text/plain
       type: title-main
     - content: Photobiologische Sicherheit von Lampen und Lampensystemen
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-009-g-2002?product_id=1210087
-      type: src
-    docid:
-    - id: CIE S 009/G:2002
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-009-g-2002?product_id=1210087
+    docidentifier:
+    - content: CIE S 009/G:2002
       type: CIE
       primary: true
     date:
     - type: published
-      value: '2002-01-01'
-    revdate: '2002-01-01'
+      at: '2002-01-01'
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

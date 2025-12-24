@@ -1,153 +1,115 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PP017
+id: CIEx050PP017
+type: standard
+schema_version: v1.4.1
 title:
 - content: EVALUATION STRUCTURE ON PREFERENCE OF PAINTING’S APPEARANCE IN MUSEUM LIGHTING
-  format: text/plain
   type: title-main
 - content: EVALUATION STRUCTURE ON PREFERENCE OF PAINTING’S APPEARANCE IN MUSEUM LIGHTING
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-pp017?product_id=2579353
-  type: src
-type: standard
-docid:
-- id: CIE x050-PP017
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-pp017?product_id=2579353
+docidentifier:
+- content: CIE x050-PP017
   type: CIE
   primary: true
 docnumber: x050-PP017
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Oe
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Maeda
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
+      forename:
+      - language: en
+        script: Latn
+        initial: H
       surname:
+        language: en
+        script: Latn
         content: Nagakoshi
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Takashima
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Mizokami
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "N"
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
       surname:
+        language: en
+        script: Latn
         content: Yoshizawa
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    This study seeks to clarify an evaluation structure in relation to preference concerning the appearance of the painting with a view to creating new lighting standards in museums that consider the luminance ratio. We analysed the experimental results together with the results of previous studies and found that 'appropriateness of brightness for the painting' and 'appropriateness of brightness contrast between the painting and the background surfaces' tended to have a stronger correlation with preference than 'brightness of the painting surface' item; therefore, we examined an evaluation structure using the above assessment items as variables. Consequently, we were able to construct a model that could be applied to all paintings under consideration - which starts with 'appropriateness of brightness for the painting' and ends with 'preference for the appearance of the painting.'
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

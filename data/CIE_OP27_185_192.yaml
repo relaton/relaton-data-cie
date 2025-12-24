@@ -1,201 +1,149 @@
 ---
-schema-version: v1.2.9
-id: CIEOP27185-192
-title:
-- content: EFFECT OF ILLUMINATED ROUTE SIGNS FOR TSUNAMI EVACUATION (OP27, 185-192)
-  format: text/plain
-  type: title-main
-- content: EFFECT OF ILLUMINATED ROUTE SIGNS FOR TSUNAMI EVACUATION (OP27, 185-192)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/effect-of-illuminated-route-signs-for-tsunami-evacuation-op27-185-192?product_id=2010468
-  type: src
+id: CIEOP27185192
 type: standard
-docid:
-- id: CIE OP27 185-192
+schema_version: v1.4.1
+title:
+- content: "EFFECT OF ILLUMINATED ROUTE SIGNS FOR TSUNAMI EVACUATION (OP27, 185-192)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "EFFECT OF ILLUMINATED ROUTE SIGNS FOR TSUNAMI EVACUATION (OP27, 185-192)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/effect-of-illuminated-route-signs-for-tsunami-evacuation-op27-185-192?product_id=2010468
+docidentifier:
+- content: CIE OP27 185-192
   type: CIE
   primary: true
 docnumber: OP27 185-192
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Matsui
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Hokugo
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Akizuki
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Takashima
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Takeuchi
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
+      forename:
+      - language: en
+        script: Latn
+        initial: H
       surname:
+        language: en
+        script: Latn
         content: Suzuki
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Yasufuku
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: T
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Pinheiro
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    A pilot study on tsunami evacuees guiding method with lighting system was carried out in a coastal area, the Fukura district of Minami Awaji City, where is anticipated heavy damage by Tsunami at Nankai Trough Earthquake. The study was conducted through community tsunami evacuation drills at the area. In the results, differences in evacuation behavior between residents and assumed tourists were found. Most of the resident participants (90%) were aware of illuminated route signs, and only 17% participants of assumed tourists noticed them. As the sense of safety, many participants who noticed the signs felt a psychological sense of
+    safety. It means that the noticeability is very important to not only find the correct escape routes but also to be reassuring. It is necessary to improve the specifications of these illuminated signs for effective guidance system of Tsunami evacuation.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

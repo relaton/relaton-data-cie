@@ -1,65 +1,57 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-OP054
+id: CIEx050OP054
+type: standard
+schema_version: v1.4.1
 title:
 - content: METRICS INDICATING PROPERTIES OF LIGHT COLOUR AND SUBJECTIVE EVALUATION
     OF COLOUR APPEARANCE
-  format: text/plain
   type: title-main
 - content: METRICS INDICATING PROPERTIES OF LIGHT COLOUR AND SUBJECTIVE EVALUATION
     OF COLOUR APPEARANCE
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-op054?product_id=2579019
-  type: src
-type: standard
-docid:
-- id: CIE x050-OP054
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op054?product_id=2579019
+docidentifier:
+- content: CIE x050-OP054
   type: CIE
   primary: true
 docnumber: x050-OP054
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
-      surname:
-        content: Iwata
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- organization:
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Iwata
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    In order to identify the relationship between the metrics indicating properties of light colour and subjective evaluation of colour appearance, field measurements and subjective experiments are carried out. It was shown that there are cases where general colour rendering index (Ra) is low and the Relative Gamut Area Index (Ga) is high. For RGBLED, duv and Ga were negatively correlated, however, it was suggested that even for the same CCT and duv, Ga varies with the type of light source. The subjects' evaluation showed that light sources with greater Ga were rated higher than light sources with greater Ra, for vividness and desirability. For naturalness, the light source with greater Ra was rated higher than light source with greater Ga for both the wood pieces and the flower painting, at 14000 K. No difference in evaluations was found between the visual objects, the wood piece and the flower painting.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

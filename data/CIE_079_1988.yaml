@@ -1,37 +1,39 @@
 ---
-schema-version: v1.2.9
-id: CIE079-1988
+id: CIE0791988
+type: standard
+schema_version: v1.4.1
 title:
 - content: A guide for the design of road traffic lights
-  format: text/plain
   type: title-main
 - content: A guide for the design of road traffic lights
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-079-1988?product_id=1210007
-  type: src
-type: standard
-docid:
-- id: CIE 079-1988
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-079-1988?product_id=1210007
+docidentifier:
+- content: CIE 079-1988
   type: CIE
   primary: true
 docnumber: '079-1988'
+date:
+- type: published
+  at: '1988-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This document, drafted in collaboration with the Permanent International Association of Road Congresses (PIARC) is a Guide concerned with photometric and colorimetric matters that are related to the design of road traffic lights. Its main purpose is to provide a basis for relevant national standards and codes of practice, but it should also be of direct use to road traffic authorities and manufacturers of the lights. It is derived from the Technical Report CIE 48-1980 (TC-1.6) Light Signals for Road Traffic Control, which contains the experimental evidence on which the Guide is based. The guide has taken account of more recent findings, but essentially it is supplement to CIE 48-1980.
 
     The visibility of a signal light depends on many factors, the most important of which are the colour, luminous intensity and luminous intensity distribution of the light. The Guide deals with these factors as well as with various symbols and "cut-out" figures that are used with traffic lights.
@@ -71,58 +73,46 @@ abstract:
     The Guide contains information on a number of particular lights, lights on high speed roads, the size and shape of arrows and their symbols, notably for lights for cyclists and pedestrians, low mounted lights, lane indicators, general warning lights, lights for special purposes, and optically programmed lights.
 
     The publication contains 23 pages, 4 figures and 3 tables.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+                  See more
 relation:
 - type: updates
   bibitem:
-    id: CIES006.1-1998ISO16508-1999
     title:
     - content: Road traffic lights
-      format: text/plain
       type: title-intro
     - content: Photometric properties of 200 mm roundel signals
-      format: text/plain
       type: title-main
     - content: Road traffic lights - Photometric properties of 200 mm roundel signals
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-006-1-1998-iso-16508-1999?product_id=1210129
-      type: src
-    docid:
-    - id: CIE S 006.1/1998 (ISO 16508:1999)
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-006-1-1998-iso-16508-1999?product_id=1210129
+    docidentifier:
+    - content: CIE S 006.1/1998 (ISO 16508:1999)
       type: CIE
       primary: true
     date:
     - type: published
-      value: '1999-01-01'
-    revdate: '1999-01-01'
+      at: '1999-01-01'
 - type: updates
   bibitem:
-    id: CIE048-1980
     title:
     - content: Light signals for road traffic control
-      format: text/plain
       type: title-main
     - content: Light signals for road traffic control
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-048-1980?product_id=1209980
-      type: src
-    docid:
-    - id: CIE 048-1980
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-048-1980?product_id=1209980
+    docidentifier:
+    - content: CIE 048-1980
       type: CIE
       primary: true
     date:
     - type: published
-      value: '1980-01-01'
-    revdate: '1980-01-01'
+      at: '1980-01-01'
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

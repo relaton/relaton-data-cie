@@ -1,88 +1,88 @@
 ---
-schema-version: v1.2.9
-id: CIEISO17166-2019
+id: CIEISO171662019
+type: standard
+schema_version: v1.4.1
 title:
 - content: Erythema reference action spectrum and standard erythema dose
-  format: text/plain
   type: title-main
 - content: Erythema reference action spectrum and standard erythema dose
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-iso-17166-2019?product_id=2078724
-  type: src
-type: standard
-docid:
-- id: CIE ISO 17166:2019
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-iso-17166-2019?product_id=2078724
+docidentifier:
+- content: CIE ISO 17166:2019
   type: CIE
   primary: true
-docnumber: ISO 17166:2019
+docnumber: 17166:2019
+date:
+- type: published
+  at: '2019-05-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    This document was prepared by the International Commission on Illumination (CIE) in cooperation with Technical Committee ISO/TC 274, Light and lighting.
+
+    This first edition of ISO/CIE 17166 cancels and replaces ISO 17166:1999 | CIE S 007-1998, of which it constitutes a minor revision. The document has been editorially revised as per current ISO and CIE rules and the references have been updated.
+
+    The document specifies the erythema reference action spectrum, ser(), and the standard erythema dose (SED).
+
+    The problem of dosimetry in skin photobiology lies in the fact that the ability of ultraviolet (UV) radiation to elicit erythema in human skin depends strongly on wavelength, encompassing a range of four orders of magnitude between 250 nm and 400 nm. Thus, a statement that a subject received an exposure dose of 1 J?cm?2 (104 J?m?2) of UV radiation conveys nothing about the consequences of that exposure in terms of erythema. If the radiation source was a UV-A fluorescent lamp, no erythemal response would be seen apart from in people exhibiting severe, abnormal pathological photosensitivity. The same dose delivered from an unfiltered mercury arc lamp or fluorescent sun-lamp would result in marked violaceous erythema in most white-skinned individuals. Consequently, photobiologists have long recognized the need to express the exposure as an erythemally weighted quantity.
+
+    The term "minimal erythema dose (MED)" has been used widely as a measure of erythemal radiation. This is unreasonable because the MED is not a standard measure of anything but, on the contrary, encompasses the variable nature of individual sensitivity to UV radiation. Variables that affect the MED include: optical and radiometric characteristics of the source; determinants of the exposure, such as dose increment and field size; nature of the skin, such as pigmentation, previous light exposure and anatomical site; and observational factors, such as definition of the endpoint, time of reading after exposure and ambient illumination.
+
+    To avoid further confusing misuse of the term MED, it is proposed that this term be reserved solely for observational studies in humans and other animals, and that the term "standard erythema dose (SED)" be used as a standardized measure of erythemogenic UV radiation.
+                  See more
 relation:
 - type: updates
   bibitem:
-    id: CIES007-1998ISO17166-1999
     title:
     - content: Erythema reference action spectrum and standard erythema dose
-      format: text/plain
       type: title-main
     - content: Erythema reference action spectrum and standard erythema dose
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-007-1998-iso-17166-1999?product_id=1210085
-      type: src
-    docid:
-    - id: CIE S 007/1998 (ISO 17166:1999)
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-007-1998-iso-17166-1999?product_id=1210085
+    docidentifier:
+    - content: CIE S 007/1998 (ISO 17166:1999)
       type: CIE
       primary: true
     date:
     - type: published
-      value: '1999-12-15'
-    revdate: '1999-12-15'
+      at: '1999-12-15'
 - type: updates
   bibitem:
-    id: CIES007-G-1998
     title:
     - content: Erythemale Referenzwirkungsfunktion und standardisierte Erythemdosis
-      format: text/plain
       type: title-main
     - content: Erythemale Referenzwirkungsfunktion und standardisierte Erythemdosis
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-007-g-1998?product_id=1210114
-      type: src
-    docid:
-    - id: CIE S 007/G-1998
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-007-g-1998?product_id=1210114
+    docidentifier:
+    - content: CIE S 007/G-1998
       type: CIE
       primary: true
     date:
     - type: published
-      value: '1998-01-01'
-    revdate: '1998-01-01'
+      at: '1998-01-01'
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

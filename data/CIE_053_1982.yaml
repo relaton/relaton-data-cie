@@ -1,45 +1,71 @@
 ---
-schema-version: v1.2.9
-id: CIE053-1982
+id: CIE0531982
+type: standard
+schema_version: v1.4.1
 title:
 - content: Methods of characterizing the performance of radiometers and photometers
-  format: text/plain
   type: title-main
 - content: Methods of characterizing the performance of radiometers and photometers
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-053-1982?product_id=1210131
-  type: src
-type: standard
-docid:
-- id: CIE 053-1982
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-053-1982?product_id=1210131
+docidentifier:
+- content: CIE 053-1982
   type: CIE
   primary: true
 docnumber: 053-1982
+date:
+- type: published
+  at: '1982-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Procedures are outlined for characterizing the performance of radiometers, with special attention to photometers. Quantitative methods are given for evaluating the most important errors. These include:
+
+        * systematic calibration errors;
+        * errors caused by non-standard spectral response;
+        * non-standard spatial evaluation of
+            --irradiance (illuminance),
+            --spherical irradiance (illuminance),
+            --cylindrical irradiance (illuminance) or
+              --radiance (luminance);
+        * non-linearity;
+        * fatigue;
+        * temperature coefficient.
+
+    Ways of judging the significance of less important aspects are suggested. These include:
+
+        * reading error;
+        * effect of modulated radiation;
+        * influence of polarization;
+        * non-uniform response;
+        * detector instability;
+        * zero drift.
+
+    The report deals with general problems of evaluation of photometric and radiometric instruments. Numerical requirements for individual types of instruments in later reports are not included.
+
+    The report includes tables of the relative spectral distributions of five special sources that can be used to estimate the quality of the V(lambda) correction of photometer heads.
+
+    This Technical Report has been supplemented by CIE 69-1987 Methods of Characterizing Illuminance Meters and Luminance Meters.
+
+    The report consists of 30 pages, 3 figures and 1 table.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

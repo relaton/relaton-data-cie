@@ -1,37 +1,39 @@
 ---
-schema-version: v1.2.9
-id: CIE115-1995
+id: CIE1151995
+type: standard
+schema_version: v1.4.1
 title:
 - content: Recommendations for the lighting of roads for motor and pedestrian traffic
-  format: text/plain
   type: title-main
 - content: Recommendations for the lighting of roads for motor and pedestrian traffic
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-115-1995?product_id=1210038
-  type: src
-type: standard
-docid:
-- id: CIE 115-1995
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-115-1995?product_id=1210038
+docidentifier:
+- content: CIE 115-1995
   type: CIE
   primary: true
 docnumber: 115-1995
+date:
+- type: published
+  at: '1995-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     The purpose of this report is to update CIE 12.2, Recommendations for the lighting of roads for motorized traffic and to add recommendations for the lighting of conflict areas and roads frequented by pedestrians and other users.
 
     CIE 12.2 was issued in 1977 and since that time much experience, worldwide, has been gained in the application of the luminance concept for the lighting of roads for motor traffic. This experience is reflected in this revision. Conflict areas, where there is an increased potential for accidents to occur, are given detailed treatment. A classification system for these areas is introduced and recommendations are made in terms of the luminance of the road surface, but alternative recommendations in terms of illuminance on the road are given for applications where it is impracticable to use the luminance concept.
@@ -43,55 +45,44 @@ abstract:
     In conformity with the most recent CIE practice, recommendations are based on maintained lighting levels and lighting quality. In essence this implies that performance must not fall below the prescribed limits, which are minima, for the life of the installation.
 
     The Technical Report is written in English, with a short summary in French and German. It contains 25 pages and 7 tables.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+                  See more
 relation:
 - type: updates
   bibitem:
-    id: CIE115-2010
     title:
     - content: Lighting of Roads for Motor and Pedestrian Traffic
-      format: text/plain
       type: title-main
     - content: Lighting of Roads for Motor and Pedestrian Traffic
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-115-2010?product_id=1724306
-      type: src
-    docid:
-    - id: CIE 115:2010
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-115-2010?product_id=1724306
+    docidentifier:
+    - content: CIE 115:2010
       type: CIE
       primary: true
     date:
     - type: published
-      value: '2010-07-01'
-    revdate: '2010-07-01'
+      at: '2010-07-01'
 - type: updates
   bibitem:
-    id: CIE023-1973
     title:
     - content: International recommendations for motorway lighting
-      format: text/plain
       type: title-main
     - content: International recommendations for motorway lighting
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-023-1973?product_id=1210137
-      type: src
-    docid:
-    - id: CIE 023-1973
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-023-1973?product_id=1210137
+    docidentifier:
+    - content: CIE 023-1973
       type: CIE
       primary: true
     date:
     - type: published
-      value: '1973-01-01'
-    revdate: '1973-01-01'
+      at: '1973-01-01'
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

@@ -1,0 +1,69 @@
+---
+id: CIEx0512025rjqs5f
+type: standard
+schema_version: v1.4.1
+title:
+- content: HETEROCHROMATIC BRIGHTNESS MATCHING AND RED-GREEN COLOUR VISION DEFICIENCY
+    RECOGNIZING WITH A SOFTWARE BASED ON APPARENT MOVEMENT
+  type: title-main
+- content: HETEROCHROMATIC BRIGHTNESS MATCHING AND RED-GREEN COLOUR VISION DEFICIENCY
+    RECOGNIZING WITH A SOFTWARE BASED ON APPARENT MOVEMENT
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-rjqs5f?product_id=3040019
+docidentifier:
+- content: CIE x051:2025/rjqs5f
+  type: CIE
+  primary: true
+docnumber: x051:2025/rjqs5f
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Szabó
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Samu
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This article introduces software designed for heterochromatic brightness matching (HBM) and red-green colour vision deficiency (CVD) recognition, which operates by minimising apparent movement. Our study focuses on presenting measurements and results on two different displays and laboratory environments using the same concept and principles. To validate the accuracy of the tests’ ability to determine both the presence and type of CVD, the results of the tests were compared with those from the Nagel (Type 2 Heidelberg Multi Color) anomaloscope and the Ishihara test (24 plate). Test subjects were categorized into three groups based on their CVD characteristics (normal colour vision, protan, and deutan). The results of the tests aligned with known CVD types in 67 % and 94 % of cases, showing the method’s reliability and accuracy in identifying CVD. Additionally, HBM results revealed that distinguishing deutan vision from normal colour vision is considerably more challenging than identifying protan cases.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

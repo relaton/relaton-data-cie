@@ -1,0 +1,67 @@
+---
+id: CIEx0512025dc9vks
+type: standard
+schema_version: v1.4.1
+title:
+- content: MELANOPIC EQUIVALENT DAYLIGHT ILLUMINANCE AT HOME OF JAPANESE TELECOMMUTERS
+  type: title-main
+- content: MELANOPIC EQUIVALENT DAYLIGHT ILLUMINANCE AT HOME OF JAPANESE TELECOMMUTERS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-dc9vks?product_id=3039894
+docidentifier:
+- content: CIE x051:2025/dc9vks
+  type: CIE
+  primary: true
+docnumber: x051:2025/dc9vks
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Kobayashi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Mochizuki
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In this study, the lighting environment at home used for telecommuting in Japan was assessed from the viewpoint meet the recommended melanopic equivalent daylight illuminance (melanopic EDI). The horizontal and the vertical illuminance levels in the spaces used for telecommuting, such as living-dining room and study room were analysed. The results show that spaces with daylight from windows are likely to retain the melanopic EDI higher than 250 lx during the daytime. However, the melanopic EDI during the nighttime mostly exceeds 10 lx. The findings emphasize the importance to consider the local lifestyle and various ethical visual characteristics when integrating non-visual light effects into the design of lighting.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,91 @@
+---
+id: CIEx0512025htajby
+type: standard
+schema_version: v1.4.1
+title:
+- content: AUTOMATED LIGHT QUALITY MEASUREMENT IN CORRIDORS
+  type: title-main
+- content: AUTOMATED LIGHT QUALITY MEASUREMENT IN CORRIDORS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-htajby?product_id=3039912
+docidentifier:
+- content: CIE x051:2025/htajby
+  type: CIE
+  primary: true
+docnumber: x051:2025/htajby
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Miallier
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Guyonneau
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Mercier
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      surname:
+        language: en
+        script: Latn
+        content: Boucher
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This paper describes an automated method to deal with standard requirements in evaluating lighting quality (illuminance levels and uniformity). We developed a system based on a calibrated illuminance meter carried by a mobile robot equipped with a 3D LiDAR. The localization of the illuminance points in space is calculated thanks to a Simultaneous Localization And Mapping (SLAM) algorithm. Finally, a processing of the illuminance data and the positions allows to build a dense illuminance map. We present two experiments made before and after relamping corridors in a workplace. The results are compared with the standard requirements.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

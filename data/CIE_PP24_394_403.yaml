@@ -1,89 +1,75 @@
 ---
-schema-version: v1.2.9
-id: CIEPP24394-403
-title:
-- content: OPTIMIZATION OF BIMODAL QUANTUM DOTS CONVERTED WHITE LEDS FOR HIGH COLOUR
-    RENDITION (PP24, 394-403)
-  format: text/plain
-  type: title-main
-- content: OPTIMIZATION OF BIMODAL QUANTUM DOTS CONVERTED WHITE LEDS FOR HIGH COLOUR
-    RENDITION (PP24, 394-403)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/optimization-of-bimodal-quantum-dots-converted-white-leds-for-high-colour-rendition-pp24-394-403?product_id=2016278
-  type: src
+id: CIEPP24394403
 type: standard
-docid:
-- id: CIE PP24 394-403
+schema_version: v1.4.1
+title:
+- content: "OPTIMIZATION OF BIMODAL QUANTUM DOTS CONVERTED WHITE LEDS FOR HIGH COLOUR
+    RENDITION (PP24, 394-403)\n        \n            \n              ✓\n              Most
+    Recent"
+  type: title-main
+- content: "OPTIMIZATION OF BIMODAL QUANTUM DOTS CONVERTED WHITE LEDS FOR HIGH COLOUR
+    RENDITION (PP24, 394-403)\n        \n            \n              ✓\n              Most
+    Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/optimization-of-bimodal-quantum-dots-converted-white-leds-for-high-colour-rendition-pp24-394-403?product_id=2016278
+docidentifier:
+- content: CIE PP24 394-403
   type: CIE
   primary: true
 docnumber: PP24 394-403
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: Z
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      - language: en
+        script: Latn
+        initial: Z
       surname:
+        language: en
+        script: Latn
         content: Wang
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: Q
+      forename:
+      - language: en
+        script: Latn
+        initial: Q
       surname:
+        language: en
+        script: Latn
         content: Yao
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Quantum dots (QDs) can produce a white light with high colour rendering while achieving high luminous efficacy, while dual emissive QDs are more applicable for spectral optimization of CCT tunable QDs-converted white LEDs (QD-WLEDs) with excellent colour rendering. In this study, we conducted a series of combined examinations of luminous efficacy of radiation (LER) and colour rendering (CR) of tri-chromatic QD-WLEDs by transferring such performance to chromaticity diagram. The approach allows an optimization of LER and CRI simultaneously. Numerous tri-chromatic QD-WLEDs were simulated. The simulation results show that the optimal CCT tunable QD-WLEDs with blue unimodal, red unimodal, and yellow bimodal QDs could realize CRI of 85-95 LER of 122 lm/W-252 lm/W and CCT of 3145 K-10259 K. Better yet, the combination with purple bimodal, green unimodal, and yellowish green unimodal QDs which did best at CR, could reach CRI at 97 with LER at 236 lm/W.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

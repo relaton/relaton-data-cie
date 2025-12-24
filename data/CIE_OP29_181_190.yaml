@@ -1,117 +1,94 @@
 ---
-schema-version: v1.2.9
-id: CIEOP29181-190
-title:
-- content: USING LIGHT TO FACILITATE THE MOBILITY OF LOW VISION PEOPLE (OP29, 181-190)
-  format: text/plain
-  type: title-main
-- content: USING LIGHT TO FACILITATE THE MOBILITY OF LOW VISION PEOPLE (OP29, 181-190)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/using-light-to-facilitate-the-mobility-of-low-vision-people-op29-181-190?product_id=2016242
-  type: src
+id: CIEOP29181190
 type: standard
-docid:
-- id: CIE OP29 181-190
+schema_version: v1.4.1
+title:
+- content: "USING LIGHT TO FACILITATE THE MOBILITY OF LOW VISION PEOPLE (OP29, 181-190)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "USING LIGHT TO FACILITATE THE MOBILITY OF LOW VISION PEOPLE (OP29, 181-190)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/using-light-to-facilitate-the-mobility-of-low-vision-people-op29-181-190?product_id=2016242
+docidentifier:
+- content: CIE OP29 181-190
   type: CIE
   primary: true
 docnumber: OP29 181-190
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
+      forename:
+      - language: en
+        script: Latn
+        initial: P
       surname:
+        language: en
+        script: Latn
         content: Sa-ngadsup
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: E
+      forename:
+      - language: en
+        script: Latn
+        initial: E
       surname:
+        language: en
+        script: Latn
         content: Dinet
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
+      forename:
+      - language: en
+        script: Latn
+        initial: P
       surname:
+        language: en
+        script: Latn
         content: Katemake
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Tremeau
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Two thirds of the low vision population are over the age of 50 and were not concerned by any visual deficiency when they were younger. The predominant concerns of the largest part of such a population are the loss of independence and the ability to perform simple activities of everyday life. With a clear lack of efficient visual aids, one urgent challenge is to design and to develop new approaches to facilitate the vision rehabilitation, the mobility and the socioeconomic independence of people that have to face a visual impairment inducing major changes in their life. Within this framework, we investigated the influence of lighting-based edge enhancement techniques on the autonomous mobility of visually impaired people.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

@@ -1,67 +1,67 @@
 ---
-schema-version: v1.2.9
-id: CIE063-1984
+id: CIE0631984
+type: standard
+schema_version: v1.4.1
 title:
 - content: The spectroradiometric measurement of light sources
-  format: text/plain
   type: title-main
 - content: The spectroradiometric measurement of light sources
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-063-1984?product_id=1210127
-  type: src
-type: standard
-docid:
-- id: CIE 063-1984
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-063-1984?product_id=1210127
+docidentifier:
+- content: CIE 063-1984
   type: CIE
   primary: true
 docnumber: 063-1984
+date:
+- type: published
+  at: '1984-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The CIE and other organizations have conducted international comparisons of measurements of the spectral power distribution of light sources, including fluorescent tubes. In these comparisons, some unexpectedly large differences were found between the results reported by different laboratories. CIE specialists concluded that before further large-scale international comparisons of measurements are organized, a method (or a few basic methods) should be agreed upon that would result in better accuracy and, hence, closer agreement between the measurements of participating laboratories. International agreement on such methods would also serve as a guide in setting up new spectroradiometric laboratories.
+
+    The first part of the report covers, in a general way, the use of a spectroradiometer for measuring the spectral power distribution of light sources, with particular reference to the determination of photometric and colorimetric properties.
+
+    The second part relates to the measurement of individual lamp types, particularly tubular fluorescent lamps. The report is designed to assist workers in industrial standards laboratories, but is not intended for use as a textbook.
+
+    The report consists of 61 pages and 8 figures.
+                  See more
 relation:
 - type: updates
   bibitem:
-    id: CIE250-2022
     title:
     - content: Spectroradiometric measurement of optical radiation sources
-      format: text/plain
       type: title-main
     - content: Spectroradiometric measurement of optical radiation sources
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-250-2022?product_id=2256732
-      type: src
-    docid:
-    - id: CIE 250:2022
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-250-2022?product_id=2256732
+    docidentifier:
+    - content: CIE 250:2022
       type: CIE
       primary: true
     date:
     - type: published
-      value: '2022-06-15'
-    revdate: '2022-06-15'
+      at: '2022-06-15'
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

@@ -1,47 +1,45 @@
 ---
-schema-version: v1.2.9
-id: CIE253-2024
+id: CIE2532024
+type: standard
+schema_version: v1.4.1
 title:
 - content: Overview of Methods for Evaluating Colour Rendition of White-Light Sources
     beyond Colour Fidelity
-  format: text/plain
   type: title-main
 - content: Overview of Methods for Evaluating Colour Rendition of White-Light Sources
     beyond Colour Fidelity
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-253-2024?product_id=2923959
-  type: src
-type: standard
-docid:
-- id: CIE 253:2024
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-253-2024?product_id=2923959
+docidentifier:
+- content: CIE 253:2024
   type: CIE
   primary: true
 docnumber: 253:2024
+date:
+- type: published
+  at: '2024'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    This Technical Report includes an overview of seven methods to characterize specific colour rendition characteristics of white-light sources beyond colour fidelity. Methods to characterize colour fidelity are described in CIE 13.3-1995 “Method of measuring and specifying Colour Rendering Properties of light sources” and CIE 224:2017 “CIE 2017 Colour Fidelity Index for accurate scientific use”.The seven described methods are:• Colour Quality Scale (CQS),• Colour Rendering Index (CRI)-based Colour Rendition Properties (CRI -CRP),• Colour Rendering Vectors and Colour Saturation Icon (CRV and CSI),• Feeling of Contrast Index (FCI),• IES TM-30 Method,• Memory Colour Rendition Index (MCRI),• Preference Index of Japanese Skin Colour (PS).This Technical Report neither ranks the methods nor recommends a specific method for the purpose of rating the adequacy of a white-light source for particular applications. The adequacy of a white-light source is likely to depend on the goal to be reached within a specific application field. The described methods are not intended to replace the general colour rendering index, Ra, or the general colour fidelity index, Rf, but they can be used to obtain a more complete description of the colour rendition characteristics of white-light sources, beyond colour fidelity.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

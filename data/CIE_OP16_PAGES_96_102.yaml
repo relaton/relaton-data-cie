@@ -1,101 +1,84 @@
 ---
-schema-version: v1.2.9
-id: CIEOP16Pages96-102
-title:
-- content: STUDY ON VISIBILITY ESTIMATON OF OBJECTS IN COMPLICATED LUMIANCE IMAGE
-    (OP16, Pages 96-102)
-  format: text/plain
-  type: title-main
-- content: STUDY ON VISIBILITY ESTIMATON OF OBJECTS IN COMPLICATED LUMIANCE IMAGE
-    (OP16, Pages 96-102)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/study-on-visibility-estimaton-of-objects-in-complicated-lumiance-image-op16-pages-96-102?product_id=1941818
-  type: src
+id: CIEOP16Pages96102
 type: standard
-docid:
-- id: CIE OP16 Pages 96-102
+schema_version: v1.4.1
+title:
+- content: "STUDY ON VISIBILITY ESTIMATON OF OBJECTS IN COMPLICATED LUMIANCE IMAGE
+    (OP16, Pages 96-102)\n        \n            \n              ✓\n              Most
+    Recent"
+  type: title-main
+- content: "STUDY ON VISIBILITY ESTIMATON OF OBJECTS IN COMPLICATED LUMIANCE IMAGE
+    (OP16, Pages 96-102)\n        \n            \n              ✓\n              Most
+    Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/study-on-visibility-estimaton-of-objects-in-complicated-lumiance-image-op16-pages-96-102?product_id=1941818
+docidentifier:
+- content: CIE OP16 Pages 96-102
   type: CIE
   primary: true
 docnumber: OP16 Pages 96-102
+date:
+- type: published
+  at: '2016-09-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Nakamura
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Kato
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Iwata
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    In order to estimate visibility of miscellaneous objects in the real lit environment, the authors tried to establish a method to predict visibility of objects by use of a luminance image obtained in the real lit environment. As visibility of objects can be estimated by a function of object size, luminance contrast between the object and the background, and the background luminance, the authors suggested to use contrast profile method, which can extract those parameters even from a complicated luminance image, and to use newly developed C-A graph for specific detection sizes. To check the possibility of this method, two experiments were conducted. In the first experiment, Landolt ring gaps were used for visual stimuli and thresholds of them were obtained. Plotting those thresholds in C-A graph, they were found to be represented as a simple curve. In the second experiment, circular objects were displayed in uniform background and complicated background. The thresholds of them again plotted in C-A graph and found to be represented as a similar simple curve, but there are some differences among background pattern. More precise prediction required to examine contrast images, because sometime detected contrasts pattern in the background could be very similar to the object contrast.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

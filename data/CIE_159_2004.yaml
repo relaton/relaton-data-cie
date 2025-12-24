@@ -1,69 +1,67 @@
 ---
-schema-version: v1.2.9
-id: CIE159-2004
+id: CIE1592004
+type: standard
+schema_version: v1.4.1
 title:
 - content: 'A colour appearance model for colour management systems: CIECAM02'
-  format: text/plain
   type: title-main
 - content: 'A colour appearance model for colour management systems: CIECAM02'
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-159-2004?product_id=1210075
-  type: src
-type: standard
-docid:
-- id: CIE 159:2004
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-159-2004?product_id=1210075
+docidentifier:
+- content: CIE 159:2004
   type: CIE
   primary: true
 docnumber: 159:2004
+date:
+- type: published
+  at: '2004-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    A colour appearance model provides a viewing condition specific method for transforming tristimulus values to and/or from perceptual attribute correlates. This document outlines a specific colour appearance model, CIECAM02, which may be useful for colour management applications. This model is based on CIECAM97s colour appearance model and consists of a chromatic adaptation transform and equations for computing a set of perceptual attribute correlates. The evolution and application of this colour appearance model are presented.
+
+    This report replaces CIE 131-1998, The CIE 1997 interim colour appearance model (simple version) CIECAM97s.
+
+    The Report is written in English, with a short summary in French and German. It consists of 22 pages with 1 figure and 7 tables.
+                  See more
 relation:
 - type: updates
   bibitem:
-    id: CIE248-2022
     title:
     - content: 'The CIE 2016 Colour Appearance Model for Colour Management Systems:
         CIECAM16'
-      format: text/plain
       type: title-main
     - content: 'The CIE 2016 Colour Appearance Model for Colour Management Systems:
         CIECAM16'
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-248-2022?product_id=2252795
-      type: src
-    docid:
-    - id: CIE 248:2022
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-248-2022?product_id=2252795
+    docidentifier:
+    - content: CIE 248:2022
       type: CIE
       primary: true
     date:
     - type: published
-      value: '2022-03-01'
-    revdate: '2022-03-01'
+      at: '2022-03-01'
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

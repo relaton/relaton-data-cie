@@ -1,68 +1,63 @@
 ---
-schema-version: v1.2.9
-id: CIEOP23158-167
+id: CIEOP23158167
+type: standard
+schema_version: v1.4.1
 title:
 - content: TRANSITORY BUILDINGS
-  format: text/plain
   type: title-intro
 - content: "LASTING EFFECT: AALTO'S EXHIBITION DESIGNS: PARIS WORLDS' FAIR, LAPUA
-    FORESTRY PAVILION, AND NEW YORK WORLDS' FAIR \n(OP23, 158-167)"
-  format: text/plain
+    FORESTRY PAVILION, AND NEW YORK WORLDS' FAIR \n(OP23, 158-167)\n\n        \n            \n
+    \             ✓\n              Most Recent"
   type: title-main
 - content: "TRANSITORY BUILDINGS - LASTING EFFECT: AALTO'S EXHIBITION DESIGNS: PARIS
-    WORLDS' FAIR, LAPUA FORESTRY PAVILION, AND NEW YORK WORLDS' FAIR \n(OP23, 158-167)"
-  format: text/plain
+    WORLDS' FAIR, LAPUA FORESTRY PAVILION, AND NEW YORK WORLDS' FAIR \n(OP23, 158-167)\n\n
+    \       \n            \n              ✓\n              Most Recent"
   type: main
-link:
-- content: https://store.accuristech.com/standards/transitory-buildings-lasting-effect-aalto-s-exhibition-designs-paris-worlds-fair-lapua-forestry-pavilion-and-new-york-worlds-fair-op23-158-167?product_id=2010464
-  type: src
-type: standard
-docid:
-- id: CIE OP23 158-167
+source:
+- type: src
+  content: https://store.accuristech.com/standards/transitory-buildings-lasting-effect-aalto-s-exhibition-designs-paris-worlds-fair-lapua-forestry-pavilion-and-new-york-worlds-fair-op23-158-167?product_id=2010464
+docidentifier:
+- content: CIE OP23 158-167
   type: CIE
   primary: true
 docnumber: OP23 158-167
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: V
-      surname:
-        content: Cartwright
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- organization:
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      surname:
+        language: en
+        script: Latn
+        content: Cartwright
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    This paper will look at the architectural and luminous design of 3 modest buildings that Alvar Aalto designed relatively early in his career, 1936-1939. After a short existence, all were demolished, yet during their lives were seen by many people from many cou ntries, and represent an important phase in Aalto's career, and in the evolution of his attitude towards employing daylight in his buildings. The first of these, the Finland Pavilion at the Paris World's Exposition, incorporated what might be called a "modernist" approach towards daylighting.
+    The second pavilion, the Forestry Pavilion at the South Ostrobothnia Agricultural Fair in Lapua, Finland in 1938, had an irregular distribution of skylights that both washed the walls and illuminated the floor below. The third, the Finland Pavilion at the New York World's Fair, also incorporated an irregular distribution of rectangular skylights. These skylights directed light towards an undulating wall.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

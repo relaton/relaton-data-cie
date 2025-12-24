@@ -1,0 +1,105 @@
+---
+id: CIEx0512025c3z8qu
+type: standard
+schema_version: v1.4.1
+title:
+- content: MACHINE LEARNING AIDED APPROACH TO ESTIMATE IMPRESSION FOR RESIDENTIAL
+    LIGHTING IMAGES
+  type: title-main
+- content: MACHINE LEARNING AIDED APPROACH TO ESTIMATE IMPRESSION FOR RESIDENTIAL
+    LIGHTING IMAGES
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-c3z8qu?product_id=3039885
+docidentifier:
+- content: CIE x051:2025/c3z8qu
+  type: CIE
+  primary: true
+docnumber: x051:2025/c3z8qu
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Ishihara
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Yumine
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Mukai
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Hatta
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Uchida
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In Japan, lighting for single rooms with one luminaire has been common, but lighting designs incorporating multiple luminaires are getting popular marginally. While those lighting designs can shape the impression of a space flexibly, it is difficult to select the optimum lighting design from the infinite number of lighting designs. To overcome this, accumulating impressions of various lighting designs is important. However, impression evaluations with many participants and real spaces consume massive time and cost. To avoid this, we developed a deep learning-based model to estimate impressions for Virtual Reality lit spaces. The model was trained with impression evaluation data for the spaces. A model test with validation data shows accuracy of 84% to 98%. Consequently, we constructed a database of 1,000 lighting designs with images and impression scores.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

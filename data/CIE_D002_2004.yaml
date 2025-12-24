@@ -1,39 +1,41 @@
 ---
-schema-version: v1.2.9
-id: CIED002-2004
+id: CIED0022004
+type: standard
+schema_version: v1.4.1
 title:
 - content: Disk version of CIE colorimetric and colour rendering data (Publ. 13.3
     and 15 tables)
-  format: text/plain
   type: title-main
 - content: Disk version of CIE colorimetric and colour rendering data (Publ. 13.3
     and 15 tables)
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-d002-2004?product_id=1210079
-  type: src
-type: standard
-docid:
-- id: CIE D002:2004
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-d002-2004?product_id=1210079
+docidentifier:
+- content: CIE D002:2004
   type: CIE
   primary: true
 docnumber: D002:2004
+date:
+- type: published
+  at: '2004-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This disc contains two subdirectories:
 
     1. Subdirectory PUBL13_3 contains files tabulating data supplementing CIE Publication 13.3 (1995):
@@ -50,12 +52,9 @@ abstract:
     •relative spectral power distributions of illuminants representing typical fluorescent lamps, expressed in microwatts/nm.lm for wavelength between 380 and 780 nm at 5 nm intervals: FL1_12.TXT, FL1_12.XLS and for the new lamps FL1_15.TXT, FL1_15.XLSfiles;
 
     Each file starts with some text lines containing information on the file. Then the data are presented.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

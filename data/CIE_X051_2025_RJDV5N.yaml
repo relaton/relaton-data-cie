@@ -1,0 +1,118 @@
+---
+id: CIEx0512025rjdv5n
+type: standard
+schema_version: v1.4.1
+title:
+- content: PSYCHOPHYSICAL EXPERIMENT TOWARDS A MEASUREMENT SCALE OF SPARKLE
+  type: title-main
+- content: PSYCHOPHYSICAL EXPERIMENT TOWARDS A MEASUREMENT SCALE OF SPARKLE
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-rjdv5n?product_id=3039172
+docidentifier:
+- content: CIE x051:2025/rjdv5n
+  type: CIE
+  primary: true
+docnumber: x051:2025/rjdv5n
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Slembrouck
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Ferrero
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Perales
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Basic
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Audenaert
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Leloup
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    https://doi.org/10.25039/x051.2025/rjdv5nThe visual appearance effect known as sparkle, defined as observed bright points of light contrasted with a darker surround, is frequently used to enhance modern product finishes. Existing commercial instruments measure sparkle using proprietary methods, lacking standardisation. To address this issue, CIE is working on the recommendation of a sparkle measurement scale based on luminance factor images. This paper presents the results of a study on the correlation between sparkle as optically quantified through luminance factor images and as visually assessed through a magnitude estimation experiment. To this end, 66 samples were selected, obtained from different manufactures and exhibiting different sparkle effects. The study demonstrates that the degree of correlation is strongly dependant on the sample type. This result illustrates that more research is needed for defining a general measurement and or processing procedure that is applicable to a wide variety of sample types.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

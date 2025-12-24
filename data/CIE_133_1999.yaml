@@ -1,46 +1,55 @@
 ---
-schema-version: v1.2.9
-id: CIE133-1999
+id: CIE1331999
+type: standard
+schema_version: v1.4.1
 title:
 - content: Proceedings of the 24th Session of the CIE, Warsaw, Poland, 24-30 June
     1999, Vol. I (Part 1 and 2) and Vol. II
-  format: text/plain
   type: title-main
 - content: Proceedings of the 24th Session of the CIE, Warsaw, Poland, 24-30 June
     1999, Vol. I (Part 1 and 2) and Vol. II
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-133-1999?product_id=1210139
-  type: src
-type: standard
-docid:
-- id: CIE 133-1999
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-133-1999?product_id=1210139
+docidentifier:
+- content: CIE 133-1999
   type: CIE
   primary: true
 docnumber: 133-1999
+date:
+- type: published
+  at: '1999-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: A vast majority of our standards are available in printed format. Sometimes
-    these are bound like a book, sometimes loose pages that you can put in a binder.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Vol. I (Part 1 and 2):
+
+    This volume contains on over 700 pages the texts of the Invited Papers, Presented Papers, Presented Posters and Displayed Posters received at the Organising Committee by the deadline for inclusion in the Proceedings, as well as the introductions to the Workshops.
+
+    Vol. II:
+
+    The second volume of the Proceedings contains on 164 pages the text of the Welcome Addresses, Officers Reports, Reports from the Closing Ceremony, as well as a list of participants.
+
+    It presents an overview on the technical work achieved during the quadrennium in the form of Quadrennial Reports, minutes of the Divisional Meetings and Workshop Reports.
+
+    The Proceedings are also available on a CD-ROM containing all the papers in a searchable form.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

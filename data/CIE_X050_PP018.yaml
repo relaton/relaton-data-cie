@@ -1,65 +1,57 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PP018
+id: CIEx050PP018
+type: standard
+schema_version: v1.4.1
 title:
 - content: SPARKLE AND GRAININESS INDEX MEASUREMENT OF METALLIC COATINGS WITH MATTING
     AGENT
-  format: text/plain
   type: title-main
 - content: SPARKLE AND GRAININESS INDEX MEASUREMENT OF METALLIC COATINGS WITH MATTING
     AGENT
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-pp018?product_id=2579354
-  type: src
-type: standard
-docid:
-- id: CIE x050-PP018
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-pp018?product_id=2579354
+docidentifier:
+- content: CIE x050-PP018
   type: CIE
   primary: true
 docnumber: x050-PP018
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
-      surname:
-        content: Osumi
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- organization:
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Osumi
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Sparkle and graininess measurement problems of metallic coated panel with matte coating were verified. Metallic coating panel combining aluminium flake and matting agents were prepared and observed by several types of microscopes. The three-dimensional microstructure was measured using a digital optical microscope and a laser confocal microscope for surface observation, and also high magnification observation by SEM. Using a portable gonio-spectrophotometer BYK mac I capable of measuring multi-angle reflectance, Sparkle and Graininess Index. And a surface property such as gloss, image clarity was measured by surface analyser, and clarified the relationship between the light diffusion effect of the matting agent. Spectroscopic imaging measurements were performed with 3-angle directional illumination. Among them, the diffusion effect of illumination light at 75 degrees illumination was characteristic. Spectroscopic imaging measurements were performed with three types of integrating sphere illumination. Among them, SCI was significantly affected by matting agents.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

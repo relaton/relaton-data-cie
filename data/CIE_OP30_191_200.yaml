@@ -1,101 +1,82 @@
 ---
-schema-version: v1.2.9
-id: CIEOP30191-200
-title:
-- content: EXPERIENCE OF LIGHT IN COMPARISON WITH RETINAL RESPONSE TO RADIATION (OP30,
-    191-200)
-  format: text/plain
-  type: title-main
-- content: EXPERIENCE OF LIGHT IN COMPARISON WITH RETINAL RESPONSE TO RADIATION (OP30,
-    191-200)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/experience-of-light-in-comparison-with-retinal-response-to-radiation-op30-191-200?product_id=2016243
-  type: src
+id: CIEOP30191200
 type: standard
-docid:
-- id: CIE OP30 191-200
+schema_version: v1.4.1
+title:
+- content: "EXPERIENCE OF LIGHT IN COMPARISON WITH RETINAL RESPONSE TO RADIATION (OP30,
+    191-200)\n        \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "EXPERIENCE OF LIGHT IN COMPARISON WITH RETINAL RESPONSE TO RADIATION (OP30,
+    191-200)\n        \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/experience-of-light-in-comparison-with-retinal-response-to-radiation-op30-191-200?product_id=2016243
+docidentifier:
+- content: CIE OP30 191-200
   type: CIE
   primary: true
 docnumber: OP30 191-200
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
         content: Enger
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Laike
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Fridell Anter
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The paper presents a pilot study conducted as part of an ongoing multidisciplinary research project entitled Swedish Research Project on Perceptual Metrics for Lighting Design. The overall objective is to develop definitions and concepts for light quality, as well as a basis for methods and tools for evaluation and design of light environments based on visual and emotional experience of light. The purpose of the study is to investigate how a selection descriptive words is associated with various light qualities in the room. The study also compare perceived contrast and brightness to the photoreceptors response to logarithmic light intensity, using the ELF measurement (Environmental Light Field).
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

@@ -1,103 +1,83 @@
 ---
-schema-version: v1.2.9
-id: CIEOP31218-227
-title:
-- content: |-
-    METROLOGICAL CHARACTERIZATION OF ILMD FOR SMART LIGHTING APPLICATIONS
-     (OP31, 218-227)
-  format: text/plain
-  type: title-main
-- content: |-
-    METROLOGICAL CHARACTERIZATION OF ILMD FOR SMART LIGHTING APPLICATIONS
-     (OP31, 218-227)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/metrological-characterization-of-ilmd-for-smart-lighting-applications-op31-218-227?product_id=2010472
-  type: src
+id: CIEOP31218227
 type: standard
-docid:
-- id: CIE OP31 218-227
+schema_version: v1.4.1
+title:
+- content: "METROLOGICAL CHARACTERIZATION OF ILMD FOR SMART LIGHTING APPLICATIONS\n
+    (OP31, 218-227)\n        \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "METROLOGICAL CHARACTERIZATION OF ILMD FOR SMART LIGHTING APPLICATIONS\n
+    (OP31, 218-227)\n        \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/metrological-characterization-of-ilmd-for-smart-lighting-applications-op31-218-227?product_id=2010472
+docidentifier:
+- content: CIE OP31 218-227
   type: CIE
   primary: true
 docnumber: OP31 218-227
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: G
+      forename:
+      - language: en
+        script: Latn
+        initial: G
       surname:
+        language: en
+        script: Latn
         content: Rossi
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
+      forename:
+      - language: en
+        script: Latn
+        initial: P
       surname:
+        language: en
+        script: Latn
         content: Iacomussi
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Radis
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    A method to characterize instruments based on ILMDs (Image Luminance Measuring Device) for applications in road and tunnel lighting installation is presented. In road lighting applications, these devices measure the road surface luminance for controlling smart adaptive road lighting systems. The measurement range is between 0,1 cd m-2 and 3 cd m-2 (CEN, 2015a). In tunnel lighting, the instrument measures the atmospheric luminance, the equivalent veiling luminance and calculates the veiling luminance for controlling the lighting level in the
+    threshold zone of the tunnel. In this case the range of measured luminances is between 100 cd m-2 and 20 kcd m-2. In both cases instruments should have low cost, a great stability and repeatability, and low sensitivity to climatic conditions (CEN, 2015b). Their calibration procedure shall be simple but adequate to application requirements and real operating conditions.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

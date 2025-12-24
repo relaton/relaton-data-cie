@@ -1,63 +1,72 @@
 ---
-schema-version: v1.2.9
-id: CIEPO18Pages484-492
-title:
-- content: VISUAL EVALUATION OF WHITE SAMPLES NEAR TO CIE LIMITS (PO18, Pages 484-492)
-  format: text/plain
-  type: title-main
-- content: VISUAL EVALUATION OF WHITE SAMPLES NEAR TO CIE LIMITS (PO18, Pages 484-492)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/visual-evaluation-of-white-samples-near-to-cie-limits-po18-pages-484-492?product_id=1941850
-  type: src
+id: CIEPO18Pages484492
 type: standard
-docid:
-- id: CIE PO18 Pages 484-492
+schema_version: v1.4.1
+title:
+- content: "VISUAL EVALUATION OF WHITE SAMPLES NEAR TO CIE LIMITS (PO18, Pages 484-492)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "VISUAL EVALUATION OF WHITE SAMPLES NEAR TO CIE LIMITS (PO18, Pages 484-492)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/visual-evaluation-of-white-samples-near-to-cie-limits-po18-pages-484-492?product_id=1941850
+docidentifier:
+- content: CIE PO18 Pages 484-492
   type: CIE
   primary: true
 docnumber: PO18 Pages 484-492
+date:
+- type: published
+  at: '2016-09-01'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
-      surname:
-        content: Vik
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- organization:
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Vik
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: "The evaluation of whiteness of a product is dependent from the materials
+    and the application it is used in. Natural materials for example tend to yield
+    some yellowish tint e.g. cotton or wool, so the industry modifies the materials
+    to compensate for this effect (yellowish tint of a product is most often seen
+    as a quality flaw, e.g. yellowed due to aging or dirt) and make the appearance
+    of a product whiter. The intuitive interpretation of paper whiteness is a material
+    with high light reflection for all wavelengths in the visual part of the colour
+    spectrum. However, a slightly bluish shade is perceived as being whiter than a
+    neutral white. Fluorescent Whitening Agents (FWA), dyes and pigmented inks are
+    used extensively in the textile, pulp and paper industry. It was found that in
+    some cases, calculated CIE whiteness values increased with increasing amount of
+    colours in the whitened substrate appeared darker or redder to the observers.
+    Small deviations in measured CIE tristimulus functions X, Y, and Z often caused
+    significant changes in calculated CIE, and Ganz whiteness values. A visual assessment
+    study of the selected samples was carried out in order to relate the influence
+    of the high tint to perceive white. The results show the deficiencies in the current
+    measurement techniques for assessment of brightness and whiteness of textile fabrics
+    containing optical brightening agents. \n\n              See more"
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

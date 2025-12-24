@@ -1,119 +1,94 @@
 ---
-schema-version: v1.2.9
-id: CIEPO17Pages312-318
-title:
-- content: CCT CHANGES OF THE LED'S DEPENDING ON THE ANGLE OF THEIR RADIATION (PO17,
-    Pages 312-318)
-  format: text/plain
-  type: title-main
-- content: CCT CHANGES OF THE LED'S DEPENDING ON THE ANGLE OF THEIR RADIATION (PO17,
-    Pages 312-318)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/cct-changes-of-the-led-s-depending-on-the-angle-of-their-radiation-po17-pages-312-318?product_id=1941849
-  type: src
+id: CIEPO17Pages312318
 type: standard
-docid:
-- id: CIE PO17 Pages 312-318
+schema_version: v1.4.1
+title:
+- content: "CCT CHANGES OF THE LED'S DEPENDING ON THE ANGLE OF THEIR RADIATION (PO17,
+    Pages 312-318)\n        \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "CCT CHANGES OF THE LED'S DEPENDING ON THE ANGLE OF THEIR RADIATION (PO17,
+    Pages 312-318)\n        \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cct-changes-of-the-led-s-depending-on-the-angle-of-their-radiation-po17-pages-312-318?product_id=1941849
+docidentifier:
+- content: CIE PO17 Pages 312-318
   type: CIE
   primary: true
 docnumber: PO17 Pages 312-318
+date:
+- type: published
+  at: '2016-09-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
+      forename:
+      - language: en
+        script: Latn
+        initial: P
       surname:
+        language: en
+        script: Latn
         content: Bos
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Novak
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Sokansky
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: Baleja
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The aim of the report is a description of an issue connected with subjective perception of colours from the extensive lighting system stepped by LED, where it was possible to observe identical light source (LED) within various angles. Colour of the light of LED sources depends not only on a type of a luminophor but also on a length that has to be overcome by a ray coming through the luminophor. The length can be defined by means of an angle of the normal, i.e. from a ray coming through the luminophor upright and having the shortest track. If the length of the ray coming through the luminophor is longer, the wider differences in its colour are. This phenomenon can influence sensation visual in a negative way. As it results from the article, the size of colour change is also influenced by a luminophor type. If the lights produced by LED go through diffuser, there is a partial blending of light and the colour change is smaller. Additional optical systems redistribute primary luminous flux coming from light source (LED) and thus there is a blending of luminous flux radiated to a certain angle of the illuminated space from various directions of the luminous flux radiation itself.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

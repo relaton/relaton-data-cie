@@ -1,167 +1,123 @@
 ---
-schema-version: v1.2.9
-id: CIEPO03412-415
-title:
-- content: THE GREY RELATIONAL ANALYSIS OF PSYCHOLOGICAL AND PHYSIOLOGICAL EVALUATIONS
-    FOR VISUAL FATIGUE IN THE OFFICE LIGHTING (PO03, 412-415)
-  format: text/plain
-  type: title-main
-- content: THE GREY RELATIONAL ANALYSIS OF PSYCHOLOGICAL AND PHYSIOLOGICAL EVALUATIONS
-    FOR VISUAL FATIGUE IN THE OFFICE LIGHTING (PO03, 412-415)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/the-grey-relational-analysis-of-psychological-and-physiological-evaluations-for-visual-fatigue-in-the-office-lighting-po03-412-415?product_id=2016281
-  type: src
+id: CIEPO03412415
 type: standard
-docid:
-- id: CIE PO03 412-415
+schema_version: v1.4.1
+title:
+- content: "THE GREY RELATIONAL ANALYSIS OF PSYCHOLOGICAL AND PHYSIOLOGICAL EVALUATIONS
+    FOR VISUAL FATIGUE IN THE OFFICE LIGHTING (PO03, 412-415)\n        \n            \n
+    \             ✓\n              Most Recent"
+  type: title-main
+- content: "THE GREY RELATIONAL ANALYSIS OF PSYCHOLOGICAL AND PHYSIOLOGICAL EVALUATIONS
+    FOR VISUAL FATIGUE IN THE OFFICE LIGHTING (PO03, 412-415)\n        \n            \n
+    \             ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/the-grey-relational-analysis-of-psychological-and-physiological-evaluations-for-visual-fatigue-in-the-office-lighting-po03-412-415?product_id=2016281
+docidentifier:
+- content: CIE PO03 412-415
   type: CIE
   primary: true
 docnumber: PO03 412-415
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Chen
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
         content: Wu
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Tseng
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: Luo
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: B
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Lin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    People have extended working hours with rapid change of social change today. Some studies find the long working hours and high use of eyes would have physical and mental conditions be in long-term fatigue and further increase the risks of emotion, sleep problems, and low work efficiency. How to improve the office workers' state is the most important issue. Therefore, we propose 12 lighting environment with different colour temperatures, illuminations and peak wavelengths of blue lights and analyse the physiological and psychological impacts for visual fatigue. In addition, Grey relational analysis is applied to analyse the correlations between physiological and psychological evaluations to control and stabilize the quality of experiment.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

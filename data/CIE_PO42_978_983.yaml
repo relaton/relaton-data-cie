@@ -1,123 +1,94 @@
 ---
-schema-version: v1.2.9
-id: CIEPO42978-983
-title:
-- content: |-
-    ON-SITE EVALUATION OF PHOTOBIOLOGICAL SAFETY AND LIGHTING HEALTHY
-
-     (PO42, 978-983)
-  format: text/plain
-  type: title-main
-- content: |-
-    ON-SITE EVALUATION OF PHOTOBIOLOGICAL SAFETY AND LIGHTING HEALTHY
-
-     (PO42, 978-983)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/on-site-evaluation-of-photobiological-safety-and-lighting-healthy-po42-978-983?product_id=2011178
-  type: src
+id: CIEPO42978983
 type: standard
-docid:
-- id: CIE PO42 978-983
+schema_version: v1.4.1
+title:
+- content: "ON-SITE EVALUATION OF PHOTOBIOLOGICAL SAFETY AND LIGHTING HEALTHY\n\n
+    (PO42, 978-983)\n        \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "ON-SITE EVALUATION OF PHOTOBIOLOGICAL SAFETY AND LIGHTING HEALTHY\n\n
+    (PO42, 978-983)\n        \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/on-site-evaluation-of-photobiological-safety-and-lighting-healthy-po42-978-983?product_id=2011178
+docidentifier:
+- content: CIE PO42 978-983
   type: CIE
   primary: true
 docnumber: PO42 978-983
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: X
-      surname:
-        content: Li
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: Q
+      forename:
+      - language: en
+        script: Latn
+        initial: X
       surname:
+        language: en
+        script: Latn
         content: Li
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
+      forename:
+      - language: en
+        script: Latn
+        initial: Q
       surname:
+        language: en
+        script: Latn
+        content: Li
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
         content: Chen
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
         content: Pan
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    With the development of lighting science and technology, the requirement to lighting quality is also improved. It needs much more than CCT and illuminance distribution when evaluating a lighting system, the safety and healthy are important aspects. This paper introduces the required quantities to evaluate the photobiological safety and lighting health of lighting system, analyses the key aspects for their measurement and proposes a speed measurement solution for the related quantities. The solution integrates the spectral radiance and two dimension luminance measurement, and the measured data can mutually corrected to further enhance the accuracy.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

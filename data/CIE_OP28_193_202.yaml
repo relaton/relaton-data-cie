@@ -1,99 +1,83 @@
 ---
-schema-version: v1.2.9
-id: CIEOP28193-202
-title:
-- content: EXTERIOR LIGHTING OF PUBLIC STAIRWAYS (OP28, 193-202)
-  format: text/plain
-  type: title-main
-- content: EXTERIOR LIGHTING OF PUBLIC STAIRWAYS (OP28, 193-202)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/exterior-lighting-of-public-stairways-op28-193-202?product_id=2010469
-  type: src
+id: CIEOP28193202
 type: standard
-docid:
-- id: CIE OP28 193-202
+schema_version: v1.4.1
+title:
+- content: "EXTERIOR LIGHTING OF PUBLIC STAIRWAYS (OP28, 193-202)\n        \n            \n
+    \             ✓\n              Most Recent"
+  type: title-main
+- content: "EXTERIOR LIGHTING OF PUBLIC STAIRWAYS (OP28, 193-202)\n        \n            \n
+    \             ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/exterior-lighting-of-public-stairways-op28-193-202?product_id=2010469
+docidentifier:
+- content: CIE OP28 193-202
   type: CIE
   primary: true
 docnumber: OP28 193-202
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Tran
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: G
+      forename:
+      - language: en
+        script: Latn
+        initial: G
       surname:
+        language: en
+        script: Latn
         content: Isoardi
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: E
+      forename:
+      - language: en
+        script: Latn
+        initial: E
       surname:
+        language: en
+        script: Latn
         content: Isdale
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The purpose of this paper is to determine the optimal position and distance for a single pole mounted luminaire to be placed relative to an external stairway. By investigating human factors, it was evident that the highest risk for injury was during descent. A computer simulation of the environment was designed to evaluate the light technical parameters specified in Australian Standards. As indicated by the uniformity and average horizontal illuminance metrics, the treads were most effectively illuminated when the luminaire was positioned at the bottom of the stairway. There was a negative correlation between horizontal illuminance and the luminaire distance. The luminaire provided the highest point vertical illuminance for descent at two to four
+    metres from the bottom of the staircase. The results demonstrated that a luminaire positioned at two metres from the bottom of the staircase is optimal, considering light technical parameters and human factors involved in staircase descent.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

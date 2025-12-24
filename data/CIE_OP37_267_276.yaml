@@ -1,139 +1,110 @@
 ---
-schema-version: v1.2.9
-id: CIEOP37267-276
-title:
-- content: A NEW DIMMING CONTROL SCHEME OF LED STREETLIGHTING LUMINAIRES BASED ON
-    MULTI-DOMAIN SIMULATION MODELS OF LEDS IN ORDER TO ACHIEVE CONSTANT LUMINOUS FLUX
-    AT DIFFERENT AMBIENT TEMPERATURES (OP37, 267-276)
-  format: text/plain
-  type: title-main
-- content: A NEW DIMMING CONTROL SCHEME OF LED STREETLIGHTING LUMINAIRES BASED ON
-    MULTI-DOMAIN SIMULATION MODELS OF LEDS IN ORDER TO ACHIEVE CONSTANT LUMINOUS FLUX
-    AT DIFFERENT AMBIENT TEMPERATURES (OP37, 267-276)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/a-new-dimming-control-scheme-of-led-streetlighting-luminaires-based-on-multi-domain-simulation-models-of-leds-in-order-to-achieve-constant-luminous-flux-at-different-ambient-temperatures-op37-267-276?product_id=2010480
-  type: src
+id: CIEOP37267276
 type: standard
-docid:
-- id: CIE OP37 267-276
+schema_version: v1.4.1
+title:
+- content: "A NEW DIMMING CONTROL SCHEME OF LED STREETLIGHTING LUMINAIRES BASED ON
+    MULTI-DOMAIN SIMULATION MODELS OF LEDS IN ORDER TO ACHIEVE CONSTANT LUMINOUS FLUX
+    AT DIFFERENT AMBIENT TEMPERATURES (OP37, 267-276)\n        \n            \n              ✓\n
+    \             Most Recent"
+  type: title-main
+- content: "A NEW DIMMING CONTROL SCHEME OF LED STREETLIGHTING LUMINAIRES BASED ON
+    MULTI-DOMAIN SIMULATION MODELS OF LEDS IN ORDER TO ACHIEVE CONSTANT LUMINOUS FLUX
+    AT DIFFERENT AMBIENT TEMPERATURES (OP37, 267-276)\n        \n            \n              ✓\n
+    \             Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/a-new-dimming-control-scheme-of-led-streetlighting-luminaires-based-on-multi-domain-simulation-models-of-leds-in-order-to-achieve-constant-luminous-flux-at-different-ambient-temperatures-op37-267-276?product_id=2010480
+docidentifier:
+- content: CIE OP37 267-276
   type: CIE
   primary: true
 docnumber: OP37 267-276
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
         content: Hegedus
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
+      forename:
+      - language: en
+        script: Latn
+        initial: P
       surname:
+        language: en
+        script: Latn
         content: Hotvath
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Szabo
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Szalai
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Poppe
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Temperature dependence of LED operation is often not fully considered during the design of solid state lighting products. If temperature dependence is not carefully considered, solidstate lighting products are typically overdesigned to be too robust enough to fulfil the requirements under any possible environmental conditions. Temperature dependent nature of LEDs though, could even be a new benefit if properly considered. Overdesign means designing for the worst case that is the highest possible environmental temperature when LED efficiency/efficacy is low. With a control scheme resulting in constant emitted total luminous flux significant electrical power saving can be achieved since at lower temperatures, due to increasing efficiency/efficacy less electrical power, thus, lower forward current levels are sufficient. We present the new, so called iso-flux control scheme and its implementation in an actual smart luminaire. The actual control scheme was designed with a multi-domain LED model and the results were validated by simulation.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

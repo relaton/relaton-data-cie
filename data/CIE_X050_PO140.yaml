@@ -1,83 +1,69 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO140
+id: CIEx050PO140
+type: standard
+schema_version: v1.4.1
 title:
 - content: 'LIGHTING EDUCATION: ANALYSIS OF THE INTERNATIONAL PANORAMA THROUGH A SYSTEMATIC
     LITERATURE REVIEW'
-  format: text/plain
   type: title-main
 - content: 'LIGHTING EDUCATION: ANALYSIS OF THE INTERNATIONAL PANORAMA THROUGH A SYSTEMATIC
     LITERATURE REVIEW'
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po140?product_id=2579205
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO140
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po140?product_id=2579205
+docidentifier:
+- content: CIE x050-PO140
   type: CIE
   primary: true
 docnumber: x050-PO140
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
         content: Sousa
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
+      forename:
+      - language: en
+        script: Latn
+        initial: C
       surname:
+        language: en
+        script: Latn
         content: Amorim
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    This article presents a systematic literature review on the lighting education in the context of built environment. The study aims to understand the overall panorama of lighting education and analyse the main themes addressed in scientific literature. The review was conducted using the Scopus and Web of Science databases. A total of 37 documents, including scientific articles and a report by the CIE, were selected for analysis. The results highlight the main aspects discussed in the field of lighting education, such as the contents addressed in the curriculum of courses, the experiences developed by teachers, the main criticisms and opinions about lighting education and lighting learning assessments. Challenges identified include integrating lighting education into design practice, addressing learning deficiencies, and developing multidisciplinary skills. The analysis reveals essential topics for lighting education, including the behavior of light in the built environment, functional aspects of light, available lighting technologies, the relation with human health, and environmental sustainability. The article emphasizes the need for a multidisciplinary approach to lighting education and highlights the importance of understanding light's interaction with architectural spaces, embracing new technologies, and fostering personal skills for professional practice.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

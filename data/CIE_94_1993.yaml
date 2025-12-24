@@ -1,45 +1,47 @@
 ---
-schema-version: v1.2.9
-id: CIE94-1993
+id: CIE941993
+type: standard
+schema_version: v1.4.1
 title:
 - content: Guide for floodlighting
-  format: text/plain
   type: title-main
 - content: Guide for floodlighting
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-94-1993?product_id=1210018
-  type: src
-type: standard
-docid:
-- id: CIE 94-1993
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-94-1993?product_id=1210018
+docidentifier:
+- content: CIE 94-1993
   type: CIE
   primary: true
 docnumber: 94-1993
+date:
+- type: published
+  at: '1993-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The purpose of this Guide from CIE Technical Committee TC 5-06 is to provide information on how to use exterior lighting for the decoration of the night-time urban landscape. Of the many applications of lighting in an urban environment, this Guide deals with those having a purely aesthetic and decorative purpose. Such lighting can be used every night, as is often the case in the lighting of monuments, public art, commercial buildings, or used only periodically on the occasion of a festival or public gathering. The lighting of natural sites, parks, and gardens is also dealt with in this Guide. Permanent lighting for traffic or public safety, although affecting the quality of a city's night time ambience, is not dealt with in the Guide. This Guide provides tools for the exterior lighting designer and ideas for the town architect. For those who have to make the decisions on expenditure, this Guide explains the possibilities of combining outdoor beautification with economical and energy friendly decorative lighting.
+
+    This Guide is written for the non-expert reader who is interested only in the broad technicalities of the subject and who wishes to be able to understand what an expert may tell him.
+
+    The publication contains 74 pages, 37 figures and 2 tables.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

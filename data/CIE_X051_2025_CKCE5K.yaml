@@ -1,0 +1,93 @@
+---
+id: CIEx0512025ckce5k
+type: standard
+schema_version: v1.4.1
+title:
+- content: 'WEARABLE DEVICE FOR PERSONAL LIGHT MONITORING: ASSESSING VISUAL AND NON-VISUAL
+    RESPONSES WITH SPECTRALLY-RESOLVED SENSOR'
+  type: title-main
+- content: 'WEARABLE DEVICE FOR PERSONAL LIGHT MONITORING: ASSESSING VISUAL AND NON-VISUAL
+    RESPONSES WITH SPECTRALLY-RESOLVED SENSOR'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-ckce5k?product_id=3039889
+docidentifier:
+- content: CIE x051:2025/ckce5k
+  type: CIE
+  primary: true
+docnumber: x051:2025/ckce5k
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Jin
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Zeng
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Li
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Lin
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Light has not only visual effects, but also physiological and psychological effects on people. To understand individuals’ light exposure pattern and its health impacts, accurate measurement of light spectra is essential. Here we have designed a wearable device measuring less than 2.5 cm and integrating spectrally-resolved sensor to accurately and comprehensively evaluate personal light exposure. In this study, we introduced its design and functions, and calibrated the light sensor under various light sources. For the reconstruction of LED and daylight spectra, most RMSE values are near or below 0.1, indicating high accuracy. Under daylight, 90% of the equivalent daylight illuminance (EDI) calculation errors are reliably within 10%, but for multi-peak light sources, the spectral reconstruction and EDI calculation still need improvements. In actual tests, the device demonstrates high practicality, which could support light environment assessment in scientific research, daily life and more potential application scenarios.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

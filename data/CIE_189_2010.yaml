@@ -1,45 +1,56 @@
 ---
-schema-version: v1.2.9
-id: CIE189-2010
+id: CIE1892010
+type: standard
+schema_version: v1.4.1
 title:
 - content: Calculation of Tunnel Lighting Quality Criteria
-  format: text/plain
   type: title-main
 - content: Calculation of Tunnel Lighting Quality Criteria
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-189-2010?product_id=1699086
-  type: src
-type: standard
-docid:
-- id: CIE 189:2010
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-189-2010?product_id=1699086
+docidentifier:
+- content: CIE 189:2010
   type: CIE
   primary: true
 docnumber: 189:2010
+date:
+- type: published
+  at: '2010-05-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Experience of making road tunnel lighting designs in accordance with publication
+    CIE 88:2004 has shown that there are some aspects of calculation of the different
+    lighting criteria where more specific guidance to the designers is necessary. This
+    document explains how the tunnel environment differs significantly from the open
+    road situation. In particular, the presence of walls along the traffic road involves
+    reflection effects between different surfaces. The variation of luminance level along
+    the tunnel, the changes in the lighting installation along the entrance section of the
+    tunnel and the use of different lighting systems in different parts of the tunnel
+    introduce more complexity in the lighting calculations. The report gives guidance on
+    determining the method for calculating the relevant lighting quality criteria for tunnel
+    situations.
+    The publication is written in English, with a short summary in French and German. It
+    consists of 18 pages with 4 figures
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

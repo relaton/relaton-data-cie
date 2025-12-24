@@ -1,63 +1,66 @@
 ---
-schema-version: v1.2.9
-id: CIEPO36604-611
-title:
-- content: SMART LED STREET LIGHTING (PO36, 604-611)
-  format: text/plain
-  type: title-main
-- content: SMART LED STREET LIGHTING (PO36, 604-611)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/smart-led-street-lighting-po36-604-611?product_id=2016412
-  type: src
+id: CIEPO36604611
 type: standard
-docid:
-- id: CIE PO36 604-611
+schema_version: v1.4.1
+title:
+- content: "SMART LED STREET LIGHTING (PO36, 604-611)\n        \n            \n              ✓\n
+    \             Most Recent"
+  type: title-main
+- content: "SMART LED STREET LIGHTING (PO36, 604-611)\n        \n            \n              ✓\n
+    \             Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/smart-led-street-lighting-po36-604-611?product_id=2016412
+docidentifier:
+- content: CIE PO36 604-611
   type: CIE
   primary: true
 docnumber: PO36 604-611
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
-      surname:
-        content: Tran
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- organization:
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Tran
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: "The rapid development of smart technologies for public street lighting
+    has introduced new opportunities and complexities. By embedding communication
+    systems into street lights, this commonplace infrastructure can facilitate the
+    transfer of data in the era of Internet of Things. Nevertheless, the prospect
+    of street lights providing revolutionary services can be overhyped without full
+    clarification of the short and long term costs and risks. Globally, there is widespread
+    uptake of LED luminaires for public street lighting, in virtue of energy efficiency
+    and complementary functionality with smart technologies. The power quality concerns
+    due to augmented total harmonic distortion must however be recognised. This paper
+    aims to provide a comprehensive assessment of the strengths and weaknesses of
+    introducing new smart technologies into what must continue to be a robust, reliable
+    public lighting network. \n\n              See more"
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

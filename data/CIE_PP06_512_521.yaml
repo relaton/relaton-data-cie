@@ -1,103 +1,82 @@
 ---
-schema-version: v1.2.9
-id: CIEPP06512-521
-title:
-- content: |-
-    VISION EXPERIMENT ON PERCEPTION OF CORRELATED COLOUR TEMPERATURE
-     (PP06, 512-521)
-  format: text/plain
-  type: title-main
-- content: |-
-    VISION EXPERIMENT ON PERCEPTION OF CORRELATED COLOUR TEMPERATURE
-     (PP06, 512-521)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/vision-experiment-on-perception-of-correlated-colour-temperature-pp06-512-521?product_id=2011264
-  type: src
+id: CIEPP06512521
 type: standard
-docid:
-- id: CIE PP06 512-521
+schema_version: v1.4.1
+title:
+- content: "VISION EXPERIMENT ON PERCEPTION OF CORRELATED COLOUR TEMPERATURE\n (PP06,
+    512-521)\n        \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "VISION EXPERIMENT ON PERCEPTION OF CORRELATED COLOUR TEMPERATURE\n (PP06,
+    512-521)\n        \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/vision-experiment-on-perception-of-correlated-colour-temperature-pp06-512-521?product_id=2011264
+docidentifier:
+- content: CIE PP06 512-521
   type: CIE
   primary: true
 docnumber: PP06 512-521
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Kwak
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
+      forename:
+      - language: en
+        script: Latn
+        initial: H
       surname:
+        language: en
+        script: Latn
         content: Ha
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Ohno
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    TThe correlated colour temperature (CCT) is defined by the closest point on the Planckian locus from a light source on the CIE 1960 (u, v) diagram (now obsolete), while the current standard uniform colour space is the CIE 1976 (u′, v′) diagram. To re-visit the question whether using the (u′, v′) coordinate improves the correlation between the CCT values and perception, vision experiments were conducted with 12 subjects using a double-booth with non-haploscopic and haploscopic methods. The overall results show that the perception of test lights at CCT 3000 K and Duv -0.015 and 0.015 is closer to the CCT calculated based on CIE 1976 (u′, v′) coordinate. The perception of CCT at 5500 K with the same Duv shifts appears to be between CCTs based on the (u, v) coordinate and the (u′, v′) coordinate. It is suggested that the definition of CCT be re-examined for possibly using the CIE 1976 (u′, v′).
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

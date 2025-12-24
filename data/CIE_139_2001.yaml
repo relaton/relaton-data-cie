@@ -1,47 +1,45 @@
 ---
-schema-version: v1.2.9
-id: CIE139-2001
+id: CIE1392001
+type: standard
+schema_version: v1.4.1
 title:
 - content: The Influence of Daylight and Artificial Light on Diurnal and Seasonal
     Variations in Humans. A Bibliography
-  format: text/plain
   type: title-main
 - content: The Influence of Daylight and Artificial Light on Diurnal and Seasonal
     Variations in Humans. A Bibliography
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-139-2001?product_id=1210057
-  type: src
-type: standard
-docid:
-- id: CIE 139-2001
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-139-2001?product_id=1210057
+docidentifier:
+- content: CIE 139-2001
   type: CIE
   primary: true
 docnumber: 139-2001
+date:
+- type: published
+  at: '2001-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    In recent years, the study of the psychobiological effects of light has come forth as an important subfield of lighting research. This final report of TC 6-16 consists of an alphabetically ordered bibliography with 1100 entries and a basic list of 120 key words. The bibliography deals with the impact of light, both natural and artificial, upon the biological clock. The effects cited include physiological variations between day and night, during the menstrual cycle, and during the different seasons of the year. Also included are psychological variations in emotional tone and alertness, as well as pre-menstrual tension and seasonal affective disorder.The selection of references has been restricted almost exclusively to research on humans. The bibliography covers the following topics: * The Biological Clock * Melatonin and Cortisol * Shift Work and Jet Lag * Seasonality in Hormones * Seasonal Affective Disorder * Light Therapy * Other Kinds of Seasonality * Premenstrual Syndrome * Windowless Environments * Lighting Characteristics * Individual and Group Differences * Confounding Factors
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

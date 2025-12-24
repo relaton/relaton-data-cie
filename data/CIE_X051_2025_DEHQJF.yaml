@@ -1,0 +1,81 @@
+---
+id: CIEx0512025dehqjf
+type: standard
+schema_version: v1.4.1
+title:
+- content: AN EXPERIMENTAL INVESTIGATION ON DEVELOPING A VISIBILITY MEASURE FOR THE
+    PHANTOM ARRAY EFFECT FOR GENERAL LIGHTING APPLICATIONS
+  type: title-main
+- content: AN EXPERIMENTAL INVESTIGATION ON DEVELOPING A VISIBILITY MEASURE FOR THE
+    PHANTOM ARRAY EFFECT FOR GENERAL LIGHTING APPLICATIONS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-dehqjf?product_id=3039156
+docidentifier:
+- content: CIE x051:2025/dehqjf
+  type: CIE
+  primary: true
+docnumber: x051:2025/dehqjf
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: X
+      surname:
+        language: en
+        script: Latn
+        content: Kong
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Perz
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: I
+      surname:
+        language: en
+        script: Latn
+        content: Heynderickx
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    https://doi.org/10.25039/x051.2025/dehqjfThe phantom array effect (PAE) has been extensively studied, but data on its visibility in well-illuminated environments, such as offices, remain insufficient for designing an appropriate visibility measure. According to CIE 249:2022, two essential sets of parameters are needed to develop such a measure: the temporal contrast threshold function and the Minkowski norm (i.e., the frequency summation exponent). Therefore, we designed an experiment to measure the visibility threshold of the PAE under the circumstances of a vertical illuminance of ~75 lx at eye level. In the experiment, we used sinusoidal waveforms at different frequencies, as well as complex waveforms, consisting of combinations of two or three sinusoids.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

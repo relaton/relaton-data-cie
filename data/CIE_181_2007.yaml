@@ -1,45 +1,48 @@
 ---
-schema-version: v1.2.9
-id: CIE181-2007
+id: CIE1812007
+type: standard
+schema_version: v1.4.1
 title:
 - content: Hand Protection by Disposable Gloves against Occupational UV Exposure
-  format: text/plain
   type: title-main
 - content: Hand Protection by Disposable Gloves against Occupational UV Exposure
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-181-2007?product_id=1529985
-  type: src
-type: standard
-docid:
-- id: CIE 181:2007
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-181-2007?product_id=1529985
+docidentifier:
+- content: CIE 181:2007
   type: CIE
   primary: true
 docnumber: 181:2007
+date:
+- type: published
+  at: '2007-12-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    A number of applications in industry, research and medicine involve occupational exposure to ultraviolet radiation (UVR) from a variety of lamps and lasers. While solar UVR exposure has been extensively studied, there is little information on methods to evaluate the efficiency of personal protective equipment (PPE) against exposure to artificial UVR sources.
+
+    Various test methods and instrumentation for measuring the spectral attenuation of disposable gloves are discussed. Factors affecting the UVR transmission through disposable gloves are investigated, and a method of assessing the level of protection provided by the glove when protecting against monochromatic or broad-band UVR sources is discussed. Application-specific examples are provided, and areas where research and standardisation efforts are still needed are discussed.
+
+    The Research Note is written in English, with a short summary in French and German. It consists of 36 pages with 34 figures and 8 tables.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

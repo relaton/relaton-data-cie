@@ -1,83 +1,69 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO040
+id: CIEx050PO040
+type: standard
+schema_version: v1.4.1
 title:
 - content: BCD LUMINANCE ESTIMATION MODEL REFLECTING OPTICAL AND RECEPTIVE FIELD CHARACTERISTICS
     OF VISION
-  format: text/plain
   type: title-main
 - content: BCD LUMINANCE ESTIMATION MODEL REFLECTING OPTICAL AND RECEPTIVE FIELD CHARACTERISTICS
     OF VISION
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po040?product_id=2579085
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO040
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po040?product_id=2579085
+docidentifier:
+- content: CIE x050-PO040
   type: CIE
   primary: true
 docnumber: x050-PO040
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Takase
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "N"
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
       surname:
+        language: en
+        script: Latn
         content: Hara
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    In the construction of a comfortable visual environment indoor and outdoor, discomfort glare is an essential rating category, and evaluation indices of that such as UGR and DGP are used worldwide for its prediction. Recently, visual environment assessment indicators were developed to model characteristics related to vision. However, the visual characteristics treated in these models are built into the models without sufficient reference to their relevance to glare assessment, and it is questionable whether they should be applied to glare assessment.In this paper, we propose a Borderline between Comfort and Discomfort (BCD) (Luckiesh, 1949) luminance estimation model that reflects the ocular optical system and the visual nervous system as visual characteristics. The suitability of the model is examined by fitting the model to subjective evaluations obtained from experiments on discomfort glare. For the various visual characteristics estimated by fitting the model, please refer to another paper (Hara, 2023).
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

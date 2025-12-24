@@ -1,45 +1,43 @@
 ---
-schema-version: v1.2.9
-id: CIE252-2024
+id: CIE2522024
+type: standard
+schema_version: v1.4.1
 title:
 - content: Assessment of Discomfort Glare from Daylight in Buildings
-  format: text/plain
   type: title-main
 - content: Assessment of Discomfort Glare from Daylight in Buildings
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-252-2024?product_id=2902550
-  type: src
-type: standard
-docid:
-- id: CIE 252:2024
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-252-2024?product_id=2902550
+docidentifier:
+- content: CIE 252:2024
   type: CIE
   primary: true
 docnumber: 252:2024
+date:
+- type: published
+  at: '2024-04-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Glare models developed for electric lighting conditions are not applicable to daylight situations. This report summarizes the daylight glare prediction models which were confirmed by independent studies.The cause of the sensation of discomfort glare appears to be a compound of two effects: contrast effect and total-amount effect. Total-amount glare is caused by the total amount of light reaching the eye, whereas contrast glare is caused by extreme luminance contrasts in the field of view. The glare prediction models are divided into three types: contrast-based, total-amount-based and hybrid models. The practical problems of the models, e.g. definition of the glare source, subjective rating scale, and applicability and limitation of the models are discussed. Moreover, factors other than the four main variables to consider (glare source luminance, background luminance, solid angle of the glare source, position index) are summarized. It is important to consider the limitations and conditions for which each of the prediction models is valid to select the most appropriate one based on the specific situation.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

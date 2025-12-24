@@ -1,83 +1,69 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PP004
+id: CIEx050PP004
+type: standard
+schema_version: v1.4.1
 title:
 - content: THE IMPACT OF COLOUR AND SIMULATION DETAIL ON SUBJECTIVE IMPRESSIONS OF
     RENDERED SCENES IN IMMERSIVE VIRTUAL REALITY
-  format: text/plain
   type: title-main
 - content: THE IMPACT OF COLOUR AND SIMULATION DETAIL ON SUBJECTIVE IMPRESSIONS OF
     RENDERED SCENES IN IMMERSIVE VIRTUAL REALITY
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-pp004?product_id=2578643
-  type: src
-type: standard
-docid:
-- id: CIE x050-PP004
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-pp004?product_id=2578643
+docidentifier:
+- content: CIE x050-PP004
   type: CIE
   primary: true
 docnumber: x050-PP004
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Sawyer
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Chamilothori
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    This study examined the influence of colour and simulation detail on impressions of daylit scenes shown in virtual reality. Experimental stimuli were 360° renderings of a typical office space with a south-facing window and varying presence of furniture, scene colour, and window treatment. Participants (N=100) experienced scenes using an Oculus Go VR headset and rated their subjective impressions, such as pleasantness, interest, excitement, calmness, and complexity. Results show that both the presence of furniture and the presence of colour affected participants' evaluations. Scenes with furniture were rated more positively than scenes without furniture across all attributes. Additionally, the presence of colour increased ratings of pleasantness, interest, excitement, calmness, and complexity. Grayscale scenes received lower ratings than coloured scenes, and coloured scenes were perceived as more exciting and complex than partly coloured scenes. These findings emphasize the importance of considering simulation choices in VR experiments, as they can impact participant responses.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

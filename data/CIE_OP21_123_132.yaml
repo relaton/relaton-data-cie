@@ -1,119 +1,96 @@
 ---
-schema-version: v1.2.9
-id: CIEOP21123-132
-title:
-- content: POTENTIAL OF ENERGY SAVINGS IN TRAFFIC-FLOW CONTROLLED STREET LIGHTING
-    SYSTEMS (OP21, 123-132)
-  format: text/plain
-  type: title-main
-- content: POTENTIAL OF ENERGY SAVINGS IN TRAFFIC-FLOW CONTROLLED STREET LIGHTING
-    SYSTEMS (OP21, 123-132)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/potential-of-energy-savings-in-traffic-flow-controlled-street-lighting-systems-op21-123-132?product_id=2016234
-  type: src
+id: CIEOP21123132
 type: standard
-docid:
-- id: CIE OP21 123-132
+schema_version: v1.4.1
+title:
+- content: "POTENTIAL OF ENERGY SAVINGS IN TRAFFIC-FLOW CONTROLLED STREET LIGHTING
+    SYSTEMS (OP21, 123-132)\n        \n            \n              ✓\n              Most
+    Recent"
+  type: title-main
+- content: "POTENTIAL OF ENERGY SAVINGS IN TRAFFIC-FLOW CONTROLLED STREET LIGHTING
+    SYSTEMS (OP21, 123-132)\n        \n            \n              ✓\n              Most
+    Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/potential-of-energy-savings-in-traffic-flow-controlled-street-lighting-systems-op21-123-132?product_id=2016234
+docidentifier:
+- content: CIE OP21 123-132
   type: CIE
   primary: true
 docnumber: OP21 123-132
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: D
+      forename:
+      - language: en
+        script: Latn
+        initial: D
       surname:
+        language: en
+        script: Latn
         content: Gasparovsky
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
+      forename:
+      - language: en
+        script: Latn
+        initial: P
       surname:
+        language: en
+        script: Latn
         content: Janiga
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: Dubnicka
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Novak
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    One of the most important motivations for lighting control in road lighting is energy savings. Lighting level can be reduced depending on various factors, including driving speed and traffic density. Detectors installed in lighting poles help to monitor traffic flow and provide useful data both for real time control as well as for analyses in order to understand traffic behaviour, to set up standardized lighting control profiles and to estimate possible energy saving potentials. This paper deals with determination of energy savings for major roads by implementing a suitable control profile. Data from selected sites in three cities in Slovakia and Czechia have been analysed. Time periods for reduced lighting levels and sustaining minimum level have been defined, reduction coefficient based on lighting class requirements have been determined and detection probabilities for each of the level and case study have been estimated. Energy saving potential is expressed in terms of the lighting operation coefficient combining in itself all of the mentioned factors.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

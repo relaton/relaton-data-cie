@@ -1,155 +1,117 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO136
+id: CIEx050PO136
+type: standard
+schema_version: v1.4.1
 title:
 - content: 'REFLECTED GLARE ON MUSEUM EXHIBITS WITH DISPLAY CASES: AN EXAMINATION
     OF A GLARE PREDICTION METHOD BASED ON LUMINANCE DISTRIBUTION'
-  format: text/plain
   type: title-main
 - content: 'REFLECTED GLARE ON MUSEUM EXHIBITS WITH DISPLAY CASES: AN EXAMINATION
     OF A GLARE PREDICTION METHOD BASED ON LUMINANCE DISTRIBUTION'
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po136?product_id=2579202
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO136
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po136?product_id=2579202
+docidentifier:
+- content: CIE x050-PO136
   type: CIE
   primary: true
 docnumber: x050-PO136
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Sagawa
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Maeda
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Mizokami
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Takashima
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Oe
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "N"
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
       surname:
+        language: en
+        script: Latn
         content: Yoshizawa
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The ultimate purpose of this study is to elucidate the occurrence conditions of reflected glare and to utilize this knowledge for museum lighting. In this study, subjects evaluated the reflected glare on replica paintings in an experimental room and the occurrence mechanism of reflected glare under conditions with and without acrylic display cases were compared. We examined whether the degree of glare could be predicted from three physical quantities–luminance contrast, reflectance, and glossiness of the painting surface–under the two conditions. It was found out that predicting the reflected glare from these physical quantities under a display case was difficult, and the prediction method with or without the display case should be reconsidered, because the spread of high-luminance areas that cause glare was different in the two conditions.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

@@ -1,141 +1,107 @@
 ---
-schema-version: v1.2.9
-id: CIEx048-PO41
+id: CIEx048PO41
+type: standard
+schema_version: v1.4.1
 title:
 - content: 'HIEQ LAB: A NOVEL FULL-SCALE FACILITY WITH OCCUPANTS TO INVESTIGATE INTEGRATIVE
     LIGHTING AND HUMAN PERFORMANCE IN A MULTI-DOMAIN APPROACH'
-  format: text/plain
   type: title-main
 - content: 'HIEQ LAB: A NOVEL FULL-SCALE FACILITY WITH OCCUPANTS TO INVESTIGATE INTEGRATIVE
     LIGHTING AND HUMAN PERFORMANCE IN A MULTI-DOMAIN APPROACH'
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x048-po41?product_id=2240849
-  type: src
-type: standard
-docid:
-- id: CIE x048-PO41
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-po41?product_id=2240849
+docidentifier:
+- content: CIE x048-PO41
   type: CIE
   primary: true
 docnumber: x048-PO41
+date:
+- type: published
+  at: '2021-09-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: V
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      - language: en
+        script: Latn
+        initial: R
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: L. Giovannini
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: F
+      forename:
+      - language: en
+        script: Latn
+        initial: F
       surname:
+        language: en
+        script: Latn
         content: Lo Verso
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: V
+      forename:
+      - language: en
+        script: Latn
+        initial: V
       surname:
+        language: en
+        script: Latn
         content: Favoino
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Serra
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       surname:
+        language: en
+        script: Latn
         content: Pellegrino
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The new HIEQ Lab (Health, well-being and Indoor Environmental Quality Laboratory) is presented. It is a living lab, primarily intended for research on human performance, comfort, and well-being, integrated with the energy performance in a completely controlled real space. Users are involved as active players in controlling and assessing building components and design strategies for health, well-being and IEQ requirements. Experimental activities will be addressed through a multi-domain approach that combines lighting, acoustic, air quality and thermal issues. For what concerns lighting, the laboratory is conceived to study the performance of daylighting and electric lighting systems and control solutions, focusing on the relationship between lighting conditions and human performance, comfort, and well-being. The paper reports the results of a literature review on existing lighting research facilities, and then describes the features of the new HIEQ Lab and its main research objectives, with a focus on lighting and daylighting research opportunities. 
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

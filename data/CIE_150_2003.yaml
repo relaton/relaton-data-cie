@@ -1,39 +1,41 @@
 ---
-schema-version: v1.2.9
-id: CIE150-2003
+id: CIE1502003
+type: standard
+schema_version: v1.4.1
 title:
 - content: Guide on the limitation of the effects of obtrusive light from outdoor
     lighting installations
-  format: text/plain
   type: title-main
 - content: Guide on the limitation of the effects of obtrusive light from outdoor
     lighting installations
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-150-2003?product_id=1210066
-  type: src
-type: standard
-docid:
-- id: CIE 150:2003
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-150-2003?product_id=1210066
+docidentifier:
+- content: CIE 150:2003
   type: CIE
   primary: true
 docnumber: 150:2003
+date:
+- type: published
+  at: '2003-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     The purpose of this Guide is to help formulate guidelines for assessing the environmental impacts of outdoor lighting and to give recommended limits for relevant lighting parameters to contain the obtrusive effects of outdoor lighting within tolerable levels. As the obtrusive effects of outdoor lighting are best controlled initially by appropriate design, the guidance given is primarily applicable to new installations; however, some advice is also provided on remedial measures which may be taken for existing installations.
 
     This Guide refers to the potentially adverse effects of outdoor lighting on both natural and man-made environments for people in most aspects of daily life, from residents, sightseers, transport users to environmentalists and astronomers. (Astronomers also see CIE 126-1997)
@@ -41,36 +43,29 @@ abstract:
     The daytime appearance of the lighting installation is important. The size and nature of the lighting support structures may be intrusive by day although this subject is not addressed in this Guide.
 
     The Technical Report is written in English, with a short summary in French and German. It consists of 43 pages with 14 figures and 10 tables.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+                  See more
 relation:
 - type: updates
   bibitem:
-    id: CIE150-2017
     title:
     - content: Guide on the limitation of the effects of obtrusive light from outdoor
         lighting installations
-      format: text/plain
       type: title-main
     - content: Guide on the limitation of the effects of obtrusive light from outdoor
         lighting installations
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-150-2017?product_id=1997388
-      type: src
-    docid:
-    - id: CIE 150:2017
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-150-2017?product_id=1997388
+    docidentifier:
+    - content: CIE 150:2017
       type: CIE
       primary: true
     date:
     - type: published
-      value: '2017-10-01'
-    revdate: '2017-10-01'
+      at: '2017-10-01'
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

@@ -1,0 +1,103 @@
+---
+id: CIEx0512025zcunvy
+type: standard
+schema_version: v1.4.1
+title:
+- content: 'CIRCADIAN RHYTHMS AND LIGHT EXPOSURE: INSIGHTS FROM WEARABLE SENSORS'
+  type: title-main
+- content: 'CIRCADIAN RHYTHMS AND LIGHT EXPOSURE: INSIGHTS FROM WEARABLE SENSORS'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-zcunvy?product_id=3040050
+docidentifier:
+- content: CIE x051:2025/zcunvy
+  type: CIE
+  primary: true
+docnumber: x051:2025/zcunvy
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Žagar
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Biček
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Oblak
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Krhin
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Malovrh Rebec
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This study investigates how LED lighting conditions affect circadian health using wearable sensors to monitor office workers’ light exposure, salivary melatonin, and skin temperature over five days. As LED lighting offers spectrally tunable options, understanding its non-image-forming (NIF) effects is critical for health optimization. Results show cool white light exposure over consecutive days reduced morning melatonin levels, while warm white light stabilized or increased them, emphasizing spectral sensitivity. Most participants failed to meet recommended light exposure thresholds, with declining morning melatonin suggesting insufficient circadian-effective office lighting. Nocturnal skin temperature remained unaffected by lighting changes, indicating it is less responsive to short-term spectral variation. These findings highlight the need for dynamic, circadian-supportive workplace lighting strategies to mitigate circadian disruption risks. By integrating wearable sensor data with melatonin biomarkers, this work advances evidence-based lighting design to harmonize spectral composition, visual comfort, and physiological health in real-world settings.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

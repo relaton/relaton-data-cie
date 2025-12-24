@@ -1,0 +1,103 @@
+---
+id: CIEx0512025rn46qr
+type: standard
+schema_version: v1.4.1
+title:
+- content: EFFECT OF IPRGC STIMULATION ON CONTRAST SENSITIVITY IN CENTRAL VISION
+  type: title-main
+- content: EFFECT OF IPRGC STIMULATION ON CONTRAST SENSITIVITY IN CENTRAL VISION
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-rn46qr?product_id=3040020
+docidentifier:
+- content: CIE x051:2025/rn46qr
+  type: CIE
+  primary: true
+docnumber: x051:2025/rn46qr
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Takahashi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Ishigane
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Kurashima
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Suzuki
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Uchikawa
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Since the discovery of the intrinsically photosensitive retinal ganglion cells (ipRGCs), their roles have been investigated by vision researchers around the world, and their effects on non-image-forming functions, such as circadian rhythm and pupillary light reflex, are now being evaluated. Furthermore, it has been suggested that the ipRGCs are also involved in contrast sensitivity, a fundamental function of the human visual system. Therefore, the purpose of this study is to clarify whether the high luminance ipRGC stimulation affect contrast sensitivity in central vision. In this study, a silent substitution method was applied using a multichannel variable wavelength light source to create background stimulus that stimulates only ipRGCs. The test stimulus was a Gabor stimulus presented on the display. The results showed that the higher the amount of stimulus given to the ipRGCs, the lower the contrast sensitivity, and the lower the amount of stimulus, the higher the contrast sensitivity.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

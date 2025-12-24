@@ -1,0 +1,96 @@
+---
+id: CIEx0512025nso6py
+type: standard
+schema_version: v1.4.1
+title:
+- content: HYPERSPECTRAL IMAGING IN AGRICULTURE – EVALUATING THE SPECTRAL DEPENDENCY
+    OF VEGETATION INDICES
+  type: title-main
+- content: HYPERSPECTRAL IMAGING IN AGRICULTURE – EVALUATING THE SPECTRAL DEPENDENCY
+    OF VEGETATION INDICES
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-nso6py?product_id=3039926
+docidentifier:
+- content: CIE x051:2025/nso6py
+  type: CIE
+  primary: true
+docnumber: x051:2025/nso6py
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Pizág
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Urbin
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Á.;
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Budai
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      - language: en
+        script: Latn
+        initial: V
+      surname:
+        language: en
+        script: Latn
+        content: Cs.; Nagy
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Vegetation indices have been in active use for over five decades. They are remote sensing indicators derived from surface reflectance data to highlight various vegetation-related properties. Their popularity stems partly from their simplicity. Each index is computed by simple formulas using the pixel values of a handful of multispectral bands. However, the loose definition of spectral bands introduces a device-specific discrepancy to the results as the spectral sensitivity can vary significantly between different systems and slightly even between different units of the same model. This paper uses hyperspectral aerial images to investigate the cross-instrument differences of some popular vegetation indices. The spectral characteristics of various multispectral instruments are reconstructed from the much narrower hyperspectral bands, creating the device-specific projections of the dataset. The differences between devices are presented using these transformed values.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

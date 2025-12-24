@@ -1,0 +1,93 @@
+---
+id: CIEx0512025kc5z2x
+type: standard
+schema_version: v1.4.1
+title:
+- content: DETERMINATION OF NATURAL REFERENCE LEVELS OF ILLUMINANCE AND EXPOSURE IN
+    THE NIGHT ENVIRONMENT FOR THE ASSESSMENT OF LIGHT POLLUTION LEVELS
+  type: title-main
+- content: DETERMINATION OF NATURAL REFERENCE LEVELS OF ILLUMINANCE AND EXPOSURE IN
+    THE NIGHT ENVIRONMENT FOR THE ASSESSMENT OF LIGHT POLLUTION LEVELS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-kc5z2x?product_id=3039920
+docidentifier:
+- content: CIE x051:2025/kc5z2x
+  type: CIE
+  primary: true
+docnumber: x051:2025/kc5z2x
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Novák
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Baxant
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Škoda
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Motyčka
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The paper is focused on the mathematical description of the moonlight, namely the values of horizontal and normal illuminance from the Moon and the corresponding exposure values for any time and place on Earth. The aim of the research was to determine an algorithm for simulating the Moon as a light source and then using it to generate values for the Czech Republic and the year 2024. The values thus determined were then statistically analysed to determine the histogram of their occurrence as well as the median and mean. The data were then used to determine the theoretical exposure (in lux-hours) for the individual lunar cycles of 2024. The calculations assume that the Moon is a completely dominant light source in the natural nighttime environment, but its luminance and therefore the illuminance on the Earth's surface varies greatly during the year and on individual days of a cycle.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

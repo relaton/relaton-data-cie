@@ -1,119 +1,93 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO001
+id: CIEx050PO001
+type: standard
+schema_version: v1.4.1
 title:
 - content: ACCURATE MEASUREMENT OF DRIVERS’ REACTION TIMES IN THREE DIFFERENT ROAD
     LIGHTING SETTINGS
-  format: text/plain
   type: title-main
 - content: ACCURATE MEASUREMENT OF DRIVERS’ REACTION TIMES IN THREE DIFFERENT ROAD
     LIGHTING SETTINGS
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po001?product_id=2578626
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO001
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po001?product_id=2578626
+docidentifier:
+- content: CIE x050-PO001
   type: CIE
   primary: true
 docnumber: x050-PO001
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Nilsson Tengelin
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Källberg
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Lindgren
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Ebenhag
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    This paper presents a study on the measurements the reaction time of a car drivers and how this reaction time is influenced by the road lighting. Three different road lighting settings (two with constant output but different light levels and one modulated) were tested in the city area of the car test track AstaZero. Suddenly appearing targets placed along the track were used to trigger a response to brake. The reaction time was measured by time stamped recordings of the target movement and brake pedal pressure. Release of the gas pedal was also recorded, and time stamped. 40 research persons drove 12 laps each, one driver at the time, where the lighting setting and which target would appear was altered between each lap. Each road lighting setting was selected four times in a randomized order. Preliminary analysis of the reaction time data indicates no influence of the modulated lighting on the reaction time but a slight tendency that the reaction times are increased with a lower light level.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

@@ -1,191 +1,136 @@
 ---
-schema-version: v1.2.9
-id: CIEPO24526-533
-title:
-- content: SMART GARNISH LIGHT/DISPLAY FOR VISUAL ASSISTANCE IN AUTOMOBILE (PO24,
-    526-533)
-  format: text/plain
-  type: title-main
-- content: SMART GARNISH LIGHT/DISPLAY FOR VISUAL ASSISTANCE IN AUTOMOBILE (PO24,
-    526-533)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/smart-garnish-light-display-for-visual-assistance-in-automobile-po24-526-533?product_id=2016301
-  type: src
+id: CIEPO24526533
 type: standard
-docid:
-- id: CIE PO24 526-533
+schema_version: v1.4.1
+title:
+- content: "SMART GARNISH LIGHT/DISPLAY FOR VISUAL ASSISTANCE IN AUTOMOBILE (PO24,
+    526-533)\n        \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "SMART GARNISH LIGHT/DISPLAY FOR VISUAL ASSISTANCE IN AUTOMOBILE (PO24,
+    526-533)\n        \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/smart-garnish-light-display-for-visual-assistance-in-automobile-po24-526-533?product_id=2016301
+docidentifier:
+- content: CIE PO24 526-533
   type: CIE
   primary: true
 docnumber: PO24 526-533
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Ko
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Choi
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Park
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: U
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: U
       surname:
+        language: en
+        script: Latn
         content: Park
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: W
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: W
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Song
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      - language: en
+        script: Latn
+        initial: H
       surname:
+        language: en
+        script: Latn
         content: Kim
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    This study introduces the best contents determined for a smart garnish light/display based on subjective experiments using an automobile simulator. The high-resolution displays can replace conventional garnishes in automobile and so play a role as ambient lights or  visual assistances linked with diverse sensors to enhance driver security. The appropriate colours and temporal effects are selected for three ambient lights and one alertness scene that have been previously determined to be user-expected important perceptual factors for the smart garnish: (1) the newest (up-to-date) attractiveness factor, (2) high-class interior quality factor, (3) comfortable and pleasant factor, and (4) alertness factor.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

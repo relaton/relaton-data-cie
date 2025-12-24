@@ -1,155 +1,117 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO004
+id: CIEx050PO004
+type: standard
+schema_version: v1.4.1
 title:
 - content: 'A POWER-EFFICIENT SMART LASER-PHOTOLUMINESCENT-LIGHT (LPL) WITH PV-SYSTEM
     INTEGRATION: EXPERIMENTAL ANALYSIS AND OPTIMIZATION FOR PEDESTRIAN ROADS'
-  format: text/plain
   type: title-main
 - content: 'A POWER-EFFICIENT SMART LASER-PHOTOLUMINESCENT-LIGHT (LPL) WITH PV-SYSTEM
     INTEGRATION: EXPERIMENTAL ANALYSIS AND OPTIMIZATION FOR PEDESTRIAN ROADS'
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po004?product_id=2579042
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO004
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po004?product_id=2579042
+docidentifier:
+- content: CIE x050-PO004
   type: CIE
   primary: true
 docnumber: x050-PO004
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: E
+      forename:
+      - language: en
+        script: Latn
+        initial: E
       surname:
+        language: en
+        script: Latn
         content: Belloni
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: I
+      forename:
+      - language: en
+        script: Latn
+        initial: I
       surname:
+        language: en
+        script: Latn
         content: Celli
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: F
+      forename:
+      - language: en
+        script: Latn
+        initial: F
       surname:
+        language: en
+        script: Latn
         content: Cotana
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Nakamura
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Pisello
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: D
+      forename:
+      - language: en
+        script: Latn
+        initial: D
       surname:
+        language: en
+        script: Latn
         content: Villacci
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The increasing urbanization and population growth in cities highlight the need for energy-efficient and sustainable lighting solutions. This paper presents a novel approach to the use of laser diodes and photoluminescent pavement to achieve a self-lighting surface. This innovative system, called LPL (Laser Photoluminescent Light), combines a 450 nm blue laser diode with photoluminescent materials that emit light through the absorbance of photons. Two types of self-illuminating surfaces, phosphorescent ceramic tiles and concrete with photoluminescent pigments, were investigated. The experimental analysis focused on energy consumption, illuminance levels, and visual comfort. The photoluminescent pavement shows promising lighting performances, and a questionnaire-based survey indicated positive visual comfort among participants. The integration of a PV system with the LPL further enhances its energy efficiency. This research provides valuable insights into the optimization and implementation of a power-efficient smart lighting solution for pedestrian roads, contributing to the development of sustainable and intelligent urban environments.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

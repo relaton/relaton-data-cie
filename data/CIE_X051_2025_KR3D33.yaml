@@ -1,0 +1,124 @@
+---
+id: CIEx0512025kr3d33
+type: standard
+schema_version: v1.4.1
+title:
+- content: MACHINE LEARNING BASED REAL-TIME PREDICTION OF LIGHTING CLASSES IN ADAPTIVE
+    ROAD LIGHTING SYSTEMS
+  type: title-main
+- content: MACHINE LEARNING BASED REAL-TIME PREDICTION OF LIGHTING CLASSES IN ADAPTIVE
+    ROAD LIGHTING SYSTEMS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-kr3d33?product_id=3039166
+docidentifier:
+- content: CIE x051:2025/kr3d33
+  type: CIE
+  primary: true
+docnumber: x051:2025/kr3d33
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Onaygil
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Yurtseven
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Feyzi
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Güler
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Ö.;
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Erdoğan
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Oktay
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    https://doi.org/10.25039/x051.2025/kr3d33This study presents a machine learning-based framework for real-time prediction of road lighting classes in adaptive lighting systems. A pilot implementation was conducted on Büyükdere Street in Istanbul using two years of traffic and meteorological data. Lighting scenarios were developed in line with EN 13201 standards, and simulations with dimmable LED luminaires ensured compliance with lighting quality requirements. Hourly traffic flow and vehicle speed were predicted using Extreme Gradient Boosting and mapped to appropriate lighting classes via a rule-based matrix. The system was validated over six months, capturing seasonal and daily variations. The models achieved R² scores of 0.864 and 0.822 for flow and speed predictions, respectively. Predicted lighting classes reached 92.1% and 89.7% agreement with actual classes in two directions. Compared to non-adaptive M2-level lighting, the proposed system provided up to 32.1% energy savings. Results confirm the feasibility of data-driven adaptive lighting for energy-efficient and safe urban road environments.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

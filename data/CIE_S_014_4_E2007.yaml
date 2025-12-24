@@ -1,40 +1,41 @@
 ---
-schema-version: v1.2.9
-id: CIES014-4-E2007
+id: CIES0144E2007
+type: standard
+schema_version: v1.4.1
 title:
 - content: Colorimetry
-  format: text/plain
   type: title-main
 - content: 'Part 4: CIE 1976 L*a*b* Colour Spaces'
-  format: text/plain
   type: title-part
 - content: 'Colorimetry - Part 4: CIE 1976 L*a*b* Colour Spaces'
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-s-014-4-e2007?product_id=1520488
-  type: src
-type: standard
-docid:
-- id: CIE S 014-4/E2007
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-s-014-4-e2007?product_id=1520488
+docidentifier:
+- content: CIE S 014-4/E2007
   type: CIE
   primary: true
 docnumber: S 014-4/E2007
+date:
+- type: published
+  at: '2007-09-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     The three-dimensional colour space produced by plotting CIE tristimulus values
     (X,Y,Z) in rectangular coordinates is not visually uniform, nor is the (x,y,Y) space nor
     the two-dimensional CIE (x,y) chromaticity diagram. Equal distances in these spaces
@@ -55,61 +56,49 @@ abstract:
     sophisticated colour difference formulae based on CIELAB, such as the CMC
     formula, the CIE94 formula, the DIN99 formula, and the CIEDE2000 formula nor
     does it cover the alternative uniform colour space, CIELUV.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+
+                  See more
 relation:
 - type: updates
   bibitem:
-    id: CIEISO11664-4-2019
     title:
     - content: Colorimetry
-      format: text/plain
       type: title-main
     - content: 'Part 4: CIE 1976 L*a*b* colour space'
-      format: text/plain
       type: title-part
     - content: 'Colorimetry - Part 4: CIE 1976 L*a*b* colour space'
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-iso-11664-4-2019?product_id=2078733
-      type: src
-    docid:
-    - id: CIE ISO 11664-4:2019
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-iso-11664-4-2019?product_id=2078733
+    docidentifier:
+    - content: CIE ISO 11664-4:2019
       type: CIE
       primary: true
     date:
     - type: published
-      value: '2019-06-01'
-    revdate: '2019-06-01'
+      at: '2019-06-01'
 - type: updates
   bibitem:
-    id: CIES014-4-E-2007ISO11664-4-2008
     title:
     - content: Colorimetry
-      format: text/plain
       type: title-main
     - content: 'Part 4: CIE 1976 L*a*b* Colour Spaces'
-      format: text/plain
       type: title-part
     - content: 'Colorimetry - Part 4: CIE 1976 L*a*b* Colour Spaces'
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-014-4-e-2007-iso-11664-4-2008?product_id=1601627
-      type: src
-    docid:
-    - id: CIE S 014-4/E:2007 (ISO 11664-4:2008)
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-014-4-e-2007-iso-11664-4-2008?product_id=1601627
+    docidentifier:
+    - content: CIE S 014-4/E:2007 (ISO 11664-4:2008)
       type: CIE
       primary: true
     date:
     - type: published
-      value: '2008-12-01'
-    revdate: '2008-12-01'
+      at: '2008-12-01'
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

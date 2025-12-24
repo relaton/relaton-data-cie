@@ -1,119 +1,93 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO092
+id: CIEx050PO092
+type: standard
+schema_version: v1.4.1
 title:
 - content: A STUDY OF THE EFFECTS OF ARTIFICIAL LIGHTING COLOURS ON OCCUPANTS' SPATIAL
     PERCEPTION AND CARDIAC RESPONSES
-  format: text/plain
   type: title-main
 - content: A STUDY OF THE EFFECTS OF ARTIFICIAL LIGHTING COLOURS ON OCCUPANTS' SPATIAL
     PERCEPTION AND CARDIAC RESPONSES
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po092?product_id=2579136
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO092
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po092?product_id=2579136
+docidentifier:
+- content: CIE x050-PO092
   type: CIE
   primary: true
 docnumber: x050-PO092
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Dai
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Wang
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
         content: Li
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: L
+      forename:
+      - language: en
+        script: Latn
+        initial: L
       surname:
+        language: en
+        script: Latn
         content: Hao
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Lighting in living environment has a non-negligible impact on psychology and physiology of occupants. In the study, the real-time effects of artificial lighting color of red, yellow, blue, green and white in living room space on human spatial perception and physiological indexes related to cardiac response were investigated. The atmosphere perception was measured with semantic difference scale. And an electrocardiogram (ECG) event recorder were used to monitor the effect of light color on human heart rate and heart rate variability (HRV). The results of data analysis showed that lighting color had a significant effect on space perception indicators, such as warm/cool, casual/formal, and open/closed, and so on. However, no significant effect of light color on average heart rate and HRV related indexes was found.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

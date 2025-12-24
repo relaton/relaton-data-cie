@@ -1,0 +1,81 @@
+---
+id: CIEx0512025cemvwf
+type: standard
+schema_version: v1.4.1
+title:
+- content: APPLICABILITY OF CIE SUPPLEMENTARY PHOTOMETRY FOR GLARE PREDICTION UNDER
+    COLORED DAYLIT SCENES
+  type: title-main
+- content: APPLICABILITY OF CIE SUPPLEMENTARY PHOTOMETRY FOR GLARE PREDICTION UNDER
+    COLORED DAYLIT SCENES
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-cemvwf?product_id=3039887
+docidentifier:
+- content: CIE x051:2025/cemvwf
+  type: CIE
+  primary: true
+docnumber: x051:2025/cemvwf
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Jain
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Wienold
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Andersen
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In this study, we examined the influence of daylight transmitted through colored glazing on discomfort glare by exposing 56 participants to four daylight conditions with the sun disc visible in their field of view. The conditions varied only in the glazing color (red, blue, green, and neutral) toward the sun while having similar transmittance and glare metric values. Results showed a strong influence of color on glare perception, with more participants reporting glare under red and blue conditions compared to green and neutral ones. These findings indicate that V(λ) is not an effective method for spectral weighting in colored lighting scenarios and that the Helmholz-Kohlrausch (H-K) effect may apply to glare similar to brightness perception. To incorporate this effect in glare model, we implemented the CIE200:2011 supplementary photometry system which integrates the H-K effect and results in better glare prediction in colored daylit scenes.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

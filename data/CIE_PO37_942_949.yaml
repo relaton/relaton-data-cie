@@ -1,177 +1,127 @@
 ---
-schema-version: v1.2.9
-id: CIEPO37942-949
-title:
-- content: |-
-    PHOSPHOR CONVERTED LASER DIODE LIGHT SOURCE FOR ENDOSCOPIC DIAGNOSTICS
-
-     (PO37, 942-949)
-  format: text/plain
-  type: title-main
-- content: |-
-    PHOSPHOR CONVERTED LASER DIODE LIGHT SOURCE FOR ENDOSCOPIC DIAGNOSTICS
-
-     (PO37, 942-949)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/phosphor-converted-laser-diode-light-source-for-endoscopic-diagnostics-po37-942-949?product_id=2011173
-  type: src
+id: CIEPO37942949
 type: standard
-docid:
-- id: CIE PO37 942-949
+schema_version: v1.4.1
+title:
+- content: "PHOSPHOR CONVERTED LASER DIODE LIGHT SOURCE FOR ENDOSCOPIC DIAGNOSTICS\n\n
+    (PO37, 942-949)\n        \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "PHOSPHOR CONVERTED LASER DIODE LIGHT SOURCE FOR ENDOSCOPIC DIAGNOSTICS\n\n
+    (PO37, 942-949)\n        \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/phosphor-converted-laser-diode-light-source-for-endoscopic-diagnostics-po37-942-949?product_id=2011173
+docidentifier:
+- content: CIE PO37 942-949
   type: CIE
   primary: true
 docnumber: PO37 942-949
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Krasnoshchoka
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Thorseth
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
+      forename:
+      - language: en
+        script: Latn
+        initial: C
       surname:
+        language: en
+        script: Latn
         content: Dam-Hansen
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: D
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: D
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      - language: en
+        script: Latn
+        initial: D
       surname:
+        language: en
+        script: Latn
         content: Corell
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Petersen
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: O
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: B
+      forename:
+      - language: en
+        script: Latn
+        initial: O
+      - language: en
+        script: Latn
+        initial: B
       surname:
+        language: en
+        script: Latn
         content: Jensen
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    In order to provide light sources for endourology and on-site testing of the light source, we are developing a portable endoscope light source prototype based on a phosphor converted laser diode. A small emitting area from the phosphor material excited by a laser diode enables coupling of the generated white light into thin optical fibres. The development involves designing optics for optimizing the light extraction efficiency and guiding of light to the area of interest. In this paper we compared the developed light source to the current standard in endoscopy ? xenon arc lamps. Detailed spectral analysis of illuminance, CRI and CCT at two power levels and two distances for both the PC-LD and the xenon light source was performed. The obtained results verified that the developed light source is suitable for endoscopy illumination and the first pre-clinical trials will be performed shortly.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

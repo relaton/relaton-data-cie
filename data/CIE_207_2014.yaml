@@ -1,47 +1,47 @@
 ---
-schema-version: v1.2.9
-id: CIE207-2014
+id: CIE2072014
+type: standard
+schema_version: v1.4.1
 title:
 - content: Sensitivity of Human Skin to Ultraviolet Radiation, Expressed as Minimal
     Erythema Dose (MED)
-  format: text/plain
   type: title-main
 - content: Sensitivity of Human Skin to Ultraviolet Radiation, Expressed as Minimal
     Erythema Dose (MED)
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-207-2014?product_id=1872934
-  type: src
-type: standard
-docid:
-- id: CIE 207:2014
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-207-2014?product_id=1872934
+docidentifier:
+- content: CIE 207:2014
   type: CIE
   primary: true
 docnumber: 207:2014
+date:
+- type: published
+  at: '2014-02-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Sensitivity of human skin to ultraviolet radiation (UVR) varies dramatically depending on its colour and also varies within each colour band. Yet, public health policies regarding UVR exposure of human skin are mostly based on our knowledge of the UVR effects in only one skin type class: fair-skinned White Caucasians. This report gives a review of the different approaches to predicting and measuring UVR sensitivity using the Minimal Erythema Dose (MED). The MED is defined as the smallest amount of radiation that causes a noticeable reddening of the skin in an individual after a single exposure (evaluated 1 day post-exposure). Ultraviolet radiation is used to diagnose and treat skin conditions in patients with a broad range of complexions (skin colour) from very fair to very dark. Occupational UVR exposures also concern workers representing all types of skin. A sizable proportion of the population in Western countries uses UVR-emitting indoor tanning equipment. Environmental UVR can induce damage in human skin of all complexions. This report recommends a new and simplified approach for categorization of human skin, based on their predisposition to sunburn (UVR-induced erythema). This categorization scheme is expected to facilitate modernization of public health policies.
+
+    The publication is written in English, with a short summary in French and German.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

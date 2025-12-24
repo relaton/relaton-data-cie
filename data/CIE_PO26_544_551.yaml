@@ -1,173 +1,140 @@
 ---
-schema-version: v1.2.9
-id: CIEPO26544-551
-title:
-- content: DUAL-BAND VIDEO-BASED MEASUREMENT FOR NONCONTACT PULSE RATE ESTIMATION
-    IN INFRARED (PO26, 544-551)
-  format: text/plain
-  type: title-main
-- content: DUAL-BAND VIDEO-BASED MEASUREMENT FOR NONCONTACT PULSE RATE ESTIMATION
-    IN INFRARED (PO26, 544-551)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/dual-band-video-based-measurement-for-noncontact-pulse-rate-estimation-in-infrared-po26-544-551?product_id=2016303
-  type: src
+id: CIEPO26544551
 type: standard
-docid:
-- id: CIE PO26 544-551
+schema_version: v1.4.1
+title:
+- content: "DUAL-BAND VIDEO-BASED MEASUREMENT FOR NONCONTACT PULSE RATE ESTIMATION
+    IN INFRARED (PO26, 544-551)\n        \n            \n              ✓\n              Most
+    Recent"
+  type: title-main
+- content: "DUAL-BAND VIDEO-BASED MEASUREMENT FOR NONCONTACT PULSE RATE ESTIMATION
+    IN INFRARED (PO26, 544-551)\n        \n            \n              ✓\n              Most
+    Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/dual-band-video-based-measurement-for-noncontact-pulse-rate-estimation-in-infrared-po26-544-551?product_id=2016303
+docidentifier:
+- content: CIE PO26 544-551
   type: CIE
   primary: true
 docnumber: PO26 544-551
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: Mitsuhashi
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: G
+      forename:
+      - language: en
+        script: Latn
+        initial: G
       surname:
+        language: en
+        script: Latn
         content: Okada
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Kurita
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Kagawa
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Kawahito
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
+      forename:
+      - language: en
+        script: Latn
+        initial: C
       surname:
+        language: en
+        script: Latn
         content: Koopipat
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "N"
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
       surname:
+        language: en
+        script: Latn
         content: Tsumura
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: "In this paper, we propose a novel noncontact pulse wave monitoring method
+    that is robust to fluctuations in illumination through use of two-band infrared
+    video signals. Because the proposed method uses infrared light for illumination,
+    the method can be used to detect a pulse wave on a human face without visible
+    lighting. The pixel values in the region of interest (ROI) were spatially averaged
+    over all the pixels of each frame. These averaged values were then used to form
+    the raw trace signal. Finally, the pulse wave and the corresponding pulse rate
+    were obtained from the raw trace signal through several signal processing stages,
+    including detrending, use of an adaptive bandpass filter, and peak detection.
+    In the experiments, we found that the performance of the proposed method was greatly
+    improved compared with that of conventional methods using single-band infrared
+    video. \n\n              See more"
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

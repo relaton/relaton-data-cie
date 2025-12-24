@@ -1,65 +1,57 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-OP035
+id: CIEx050OP035
+type: standard
+schema_version: v1.4.1
 title:
 - content: METROLOGICAL IMPACT OF INTRODUCING CONE FUNDAMENTAL-BASED PHOTOMETRY AS
     THE BASIS TO DERIVE PHOTOMETRIC UNITS
-  format: text/plain
   type: title-main
 - content: METROLOGICAL IMPACT OF INTRODUCING CONE FUNDAMENTAL-BASED PHOTOMETRY AS
     THE BASIS TO DERIVE PHOTOMETRIC UNITS
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-op035?product_id=2579006
-  type: src
-type: standard
-docid:
-- id: CIE x050-OP035
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op035?product_id=2579006
+docidentifier:
+- content: CIE x050-OP035
   type: CIE
   primary: true
 docnumber: x050-OP035
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
-      surname:
-        content: Shitomi
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- organization:
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Shitomi
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    CIE cone-fundamental-based photometry has drawn close attention as a concept to derive scientifically more reliable data to quantify visual sensation. Recently, argument has been stirred up about the possibility to adopt a revised spectral luminous efficiency function VF(λ) based on the CIE cone-fundamentals as a standard function to derive photometry quantities, instead of current V(λ) function. While adopting a scientifically more rigorous concept in the SI is quite important, there seems controversy on the idea to replace from V(λ) to VF(λ). Two ways of analysis, in terms of the potential change of photometric values and an instrument quality index, were made to identify the real impact when the standard photometric function V(λ) is replaced with VF(λ). It was found that the potential changes caused by the replacement of the standard photometric function are not negligible in many cases, and explicit discontinuity of the measurement values, that cannot be compensated by modifying the definition of the base SI unit, would be occurred.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

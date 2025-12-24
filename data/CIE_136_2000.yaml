@@ -1,45 +1,49 @@
 ---
-schema-version: v1.2.9
-id: CIE136-2000
+id: CIE1362000
+type: standard
+schema_version: v1.4.1
 title:
 - content: Guide to the lighting of urban areas
-  format: text/plain
   type: title-main
 - content: Guide to the lighting of urban areas
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-136-2000?product_id=1210054
-  type: src
-type: standard
-docid:
-- id: CIE 136-2000
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-136-2000?product_id=1210054
+docidentifier:
+- content: CIE 136-2000
   type: CIE
   primary: true
 docnumber: 136-2000
+date:
+- type: published
+  at: '2000-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The purpose of this guide is to supplement the lighting recommendations and standards for roads and areas of public use as detailed in the Publication CIE 115-1995. It replaces CIE 92-1992 Guide to the lighting of urban areas.
+
+    The recommendations cover the effect of light on night time crime and suggests lighting requirements for residential roads and community areas, industrial roads, central business districts and malls, pedestrian paths and access facilities and cycle tracks.
+
+    In addition to proposing levels of luminance and illuminance the recommendations consider aspects such as modelling of people and structures within the environment, the effects of glare and sparkle, suitability of light sources as far as colour appearance and colour rendering are concerned, the effect of the lighting on the environment and the general aesthetics of the lighting equipment used.
+
+    This publication is written in English, with a short summary in French and German. It contains 38 pages with 5 figures and 11 tables.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

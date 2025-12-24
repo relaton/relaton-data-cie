@@ -1,109 +1,85 @@
 ---
-schema-version: v1.2.9
-id: CIEPO971151-1156
-title:
-- content: |-
-    LIGHTING REQUIREMENTS NEAR ASTRONOMICAL OBSERVATORIES
-     (PO97, 1151-1156)
-  format: text/plain
-  type: title-main
-- content: |-
-    LIGHTING REQUIREMENTS NEAR ASTRONOMICAL OBSERVATORIES
-     (PO97, 1151-1156)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/lighting-requirements-near-astronomical-observatories-po97-1151-1156?product_id=2011251
-  type: src
+id: CIEPO9711511156
 type: standard
-docid:
-- id: CIE PO97 1151-1156
+schema_version: v1.4.1
+title:
+- content: "LIGHTING REQUIREMENTS NEAR ASTRONOMICAL OBSERVATORIES\n (PO97, 1151-1156)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "LIGHTING REQUIREMENTS NEAR ASTRONOMICAL OBSERVATORIES\n (PO97, 1151-1156)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/lighting-requirements-near-astronomical-observatories-po97-1151-1156?product_id=2011251
+docidentifier:
+- content: CIE PO97 1151-1156
   type: CIE
   primary: true
 docnumber: PO97 1151-1156
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
         content: Wainscoat
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: Billingsley
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: Thiel
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Nearly all astronomy at visible wavelengths involves the study of very faint objects in the night sky. Astronomy is therefore extremely vulnerable to the impact of artificial light, which can produce skyglow, making the night sky brighter. Artificial light can travel enormous distances in Earth?s atmosphere, limited only by the curvature of the Earth. Astronomical observatories must therefore be carefully protected by lighting regulations that extend for distances up to 300 km from the observatory. Astronomy is particularly vulnerable to blue light, which is becoming more common due to widespread use of LEDs. The methods being used to protect the major astronomical observatories in Hawaii will be described.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

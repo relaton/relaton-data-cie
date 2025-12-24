@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
 require 'fileutils'
-require 'relaton_cie'
+require 'relaton/cie/data_fetcher'
 
 FileUtils.rm_rf('data')
 FileUtils.rm Dir.glob('index*')
 
-RelatonCie::DataFetcher.fetch
+Relaton::Cie::DataFetcher.fetch

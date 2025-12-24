@@ -1,113 +1,97 @@
 ---
-schema-version: v1.2.9
-id: CIEPP17356-361
-title:
-- content: EFFECT OF AMBIENT LIGHTING CHROMATICITIES ON PERCEPTION OF NEUTRAL WHITE
-    OF A TABLET (PP17, 356-361)
-  format: text/plain
-  type: title-main
-- content: EFFECT OF AMBIENT LIGHTING CHROMATICITIES ON PERCEPTION OF NEUTRAL WHITE
-    OF A TABLET (PP17, 356-361)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/effect-of-ambient-lighting-chromaticities-on-perception-of-neutral-white-of-a-tablet-pp17-356-361?product_id=2016272
-  type: src
+id: CIEPP17356361
 type: standard
-docid:
-- id: CIE PP17 356-361
+schema_version: v1.4.1
+title:
+- content: "EFFECT OF AMBIENT LIGHTING CHROMATICITIES ON PERCEPTION OF NEUTRAL WHITE
+    OF A TABLET (PP17, 356-361)\n        \n            \n              ✓\n              Most
+    Recent"
+  type: title-main
+- content: "EFFECT OF AMBIENT LIGHTING CHROMATICITIES ON PERCEPTION OF NEUTRAL WHITE
+    OF A TABLET (PP17, 356-361)\n        \n            \n              ✓\n              Most
+    Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/effect-of-ambient-lighting-chromaticities-on-perception-of-neutral-white-of-a-tablet-pp17-356-361?product_id=2016272
+docidentifier:
+- content: CIE PP17 356-361
   type: CIE
   primary: true
 docnumber: PP17 356-361
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      - language: en
+        script: Latn
+        initial: P
       surname:
+        language: en
+        script: Latn
         content: Huang
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Wei
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: L
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      - language: en
+        script: Latn
+        initial: C
       surname:
+        language: en
+        script: Latn
         content: Ou
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: "A psychophysical experiment was carried out to study the white appearance
+    of a tablet display under 17 ambient lighting conditions with different chromaticities,
+    including one dark condition, seven conditions with chromaticities on the Planckian
+    locus, and nine conditions with chromaticities off the Planckian locus. A panel
+    of sixty-three naive observers participated in the study. One-standard deviation
+    error ellipses were used to define the boundary of white appearance; the bivariate
+    Gaussian distribution were used to correlate the degree of white with the chromaticities.
+    It was found that both the boundary of white appearance and the degree of white
+    appearance varied with the ambient lighting conditions. The findings also suggested
+    that the degree of chromatic adaptation was low under the low CCT illuminants.
+    \n\n              See more"
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

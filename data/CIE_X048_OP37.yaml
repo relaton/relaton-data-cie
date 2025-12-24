@@ -1,230 +1,164 @@
 ---
-schema-version: v1.2.9
-id: CIEx048-OP37
+id: CIEx048OP37
+type: standard
+schema_version: v1.4.1
 title:
 - content: IEA 4E SSL ANNEX INTERLABORATORY COMPARISON OF GONIOPHOTOMETERS MEASURING
     SOLID STATE LIGHTING PRODUCTS
-  format: text/plain
   type: title-intro
 - content: RESULTS
-  format: text/plain
   type: title-main
 - content: IEA 4E SSL ANNEX INTERLABORATORY COMPARISON OF GONIOPHOTOMETERS MEASURING
     SOLID STATE LIGHTING PRODUCTS - RESULTS
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x048-op37?product_id=2240791
-  type: src
-type: standard
-docid:
-- id: CIE x048-OP37
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op37?product_id=2240791
+docidentifier:
+- content: CIE x048-OP37
   type: CIE
   primary: true
 docnumber: x048-OP37
+date:
+- type: published
+  at: '2021-09-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Ohno
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
         content: Gaudemer
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
         content: Dubard
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Oh
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Jeon
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
         content: Scholand
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "N"
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
       surname:
+        language: en
+        script: Latn
         content: Borg
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: D
+      forename:
+      - language: en
+        script: Latn
+        initial: D
       surname:
+        language: en
+        script: Latn
         content: Boughey
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: G
+      forename:
+      - language: en
+        script: Latn
+        initial: G
       surname:
+        language: en
+        script: Latn
         content: Zissis
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The global interlaboratory comparison (IC 2017) on measurements of solid-state lighting (SSL) products with goniophotometers was conducted under the International Energy Agency 4E Solid State Lighting Annex with 36 participating laboratories from 19 countries with a total of 42 goniophotometric instruments including mirror-type, near-field type and source-rotating type goniophotometers. A narrow-beam LED lamp and three different types of LED luminaires, including a street lighting luminaire, were used as comparison artefacts for measurements of 16 different quantities. These included electrical, photometric, and colorimetric quantities, and goniophotometric quantities such as centre beam intensity, beam angle, partial flux (15° cone angle), and angular colour uniformity.  CIE S 025 was used as the test method. The results demonstrated overall good agreement on luminous flux and colour quantities, however, larger variations and various problems were identified in goniophotometric quantity results. Near-field type and source-rotating type goniophotometers showed equivalent accuracies overall to those of far-field mirror type goniophotometers.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

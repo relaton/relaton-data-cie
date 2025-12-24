@@ -1,0 +1,94 @@
+---
+id: CIEx05120258offjr
+type: standard
+schema_version: v1.4.1
+title:
+- content: 'THE VISIBILITY OF TARGETS: DISCS VS GRATINGS'
+  type: title-main
+- content: 'THE VISIBILITY OF TARGETS: DISCS VS GRATINGS'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-8offjr?product_id=3039872
+docidentifier:
+- content: CIE x051:2025/8offjr
+  type: CIE
+  primary: true
+docnumber: x051:2025/8offjr
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Gottar
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: W
+      surname:
+        language: en
+        script: Latn
+        content: Outtaleb
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Brémond
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Tarel
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The CIE approach to target visibility is based on Blackwell’s experimental data of contrast thresholds for uniform discs on uniform backgrounds. An analytical model of detection thresholds has been proposed by the CIE (1972; 1981) followed by Adrian (1989). Another line of research is based on the fact that the detection threshold of a periodic pattern can be derived from the detection thresholds of its Fourier components, using the Contrast Sensitivity Function (CSF) of the human eye. We use a computer vision algorithm to compare the two approaches: a bank of spatial filters is tuned in order to compute the visibility of edges in an image, in a way which is consistent with the CSF (Joulan et al., 2011a). It allows comparing the visibility computed from a CSF-based method to the visibility computed from Adrian’s formula, on the same images.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

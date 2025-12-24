@@ -1,121 +1,94 @@
 ---
-schema-version: v1.2.9
-id: CIEPO951135-1139
-title:
-- content: |-
-    THE POTENTIAL USAGE OF PUBLIC LIGHTING IN THE SMART CITY
-     (PO95, 1135-1139)
-  format: text/plain
-  type: title-main
-- content: |-
-    THE POTENTIAL USAGE OF PUBLIC LIGHTING IN THE SMART CITY
-     (PO95, 1135-1139)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/the-potential-usage-of-public-lighting-in-the-smart-city-po95-1135-1139?product_id=2011229
-  type: src
+id: CIEPO9511351139
 type: standard
-docid:
-- id: CIE PO95 1135-1139
+schema_version: v1.4.1
+title:
+- content: "THE POTENTIAL USAGE OF PUBLIC LIGHTING IN THE SMART CITY\n (PO95, 1135-1139)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "THE POTENTIAL USAGE OF PUBLIC LIGHTING IN THE SMART CITY\n (PO95, 1135-1139)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/the-potential-usage-of-public-lighting-in-the-smart-city-po95-1135-1139?product_id=2011229
+docidentifier:
+- content: CIE PO95 1135-1139
   type: CIE
   primary: true
 docnumber: PO95 1135-1139
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Novak
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Sokansky
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
+      forename:
+      - language: en
+        script: Latn
+        initial: P
       surname:
+        language: en
+        script: Latn
         content: Koudelka
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: Martinek
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Due to new technologies increase the public lighting gets currently into a ground-breaking phase. It is necessary to consider carefully how and where public lighting is heading forward and whether it is necessary to prepare for any changes right now so that we could use a potential of the public lighting, especially in connection to SMART CITIES. Two basic technologies influencing the public lighting are LED technology and its rapid and progressive development of communication technologies, particularly the development of optical fibre networks and mobile networks 5G. By their combination we can achieve not only the visibility increase due to the influence of better primary colour properties of a luminous flux and significantly better possibilities of its directing to the roads, but chiefly the usage of control options of each luminaire, which has already been proved to be crucial. The power system designed that way can be used throughout 24 hours as well as it can charge terminal active elements of technologies falling into the category of SMART CITY (free Wi-Fi for the population, IP camera systems, providing technologies that facilitate car to car and car to infrastructure communication WAVEp, environmental measurement and dynamic traffic management).
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

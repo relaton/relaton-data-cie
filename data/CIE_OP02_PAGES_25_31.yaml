@@ -1,137 +1,114 @@
 ---
-schema-version: v1.2.9
-id: CIEOP02Pages25-31
-title:
-- content: USER PERFORMANCE AND PREFERENCE STUDY UNDER VARIOUS PHOTOMETRIC AND COLORIMETRIC
-    PARAMETERS OF EXISTING LIGHT-EMITTING DIODE LAMPS IN INDONESIA  (OP02, Pages 25-31)
-  format: text/plain
-  type: title-main
-- content: USER PERFORMANCE AND PREFERENCE STUDY UNDER VARIOUS PHOTOMETRIC AND COLORIMETRIC
-    PARAMETERS OF EXISTING LIGHT-EMITTING DIODE LAMPS IN INDONESIA  (OP02, Pages 25-31)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/user-performance-and-preference-study-under-various-photometric-and-colorimetric-parameters-of-existing-light-emitting-diode-lamps-in-indonesia-op02-pages-25-31?product_id=2009458
-  type: src
+id: CIEOP02Pages2531
 type: standard
-docid:
-- id: CIE OP02 Pages 25-31
+schema_version: v1.4.1
+title:
+- content: "USER PERFORMANCE AND PREFERENCE STUDY UNDER VARIOUS PHOTOMETRIC AND COLORIMETRIC
+    PARAMETERS OF EXISTING LIGHT-EMITTING DIODE LAMPS IN INDONESIA  (OP02, Pages 25-31)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "USER PERFORMANCE AND PREFERENCE STUDY UNDER VARIOUS PHOTOMETRIC AND COLORIMETRIC
+    PARAMETERS OF EXISTING LIGHT-EMITTING DIODE LAMPS IN INDONESIA  (OP02, Pages 25-31)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/user-performance-and-preference-study-under-various-photometric-and-colorimetric-parameters-of-existing-light-emitting-diode-lamps-in-indonesia-op02-pages-25-31?product_id=2009458
+docidentifier:
+- content: CIE OP02 Pages 25-31
   type: CIE
   primary: true
 docnumber: OP02 Pages 25-31
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Revantino Mangkuto
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Enge
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: F
+      forename:
+      - language: en
+        script: Latn
+        initial: F
       surname:
+        language: en
+        script: Latn
         content: Munir
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: F
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: X
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "N"
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      - language: en
+        script: Latn
+        initial: X
+      - language: en
+        script: Latn
+        initial: "N"
       surname:
+        language: en
+        script: Latn
         content: Soelami
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: "In this study, measurements of various domestic light-emitting diode (LED)
+    lamps were conducted to investigate the effects of varying illuminance, correlated
+    colour temperature (CCT), and colour rendering index (CRI) on visual perception;
+    and to determine the users' preference of those parameters under LED lamps in
+    Indonesian context. The assessments consisted of subjective performance and preference
+    tests. Variation of illuminance, CCT, and CRI of has been found to yield significant
+    effect on user performance and preference. On lighting level, variation of both
+    illuminance and CCT yields more significant effect compared to CRI. On colour
+    appearance, variation of CCT yields more significant effect compared to CRI. Variation
+    of CCT also yields more significant effect on colour clarity and visual comfort.
+    The subjects preferred higher CRI value for visual comfort, also at illuminance
+    350 lx and CCT 6500 K; but preferred higher illuminance and CCT for good lighting
+    level and colour clarity. \n\n              See more"
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

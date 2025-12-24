@@ -1,44 +1,51 @@
 ---
-schema-version: v1.2.9
-id: CIEx024-2002
+id: CIEx0242002
+type: standard
+schema_version: v1.4.1
 title:
 - content: Proceedings of the CIE/ARUP Symposium on Visual Environment
-  format: text/plain
   type: title-main
 - content: Proceedings of the CIE/ARUP Symposium on Visual Environment
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x024-2002?product_id=1210142
-  type: src
-type: standard
-docid:
-- id: CIE x024:2002
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x024-2002?product_id=1210142
+docidentifier:
+- content: CIE x024:2002
   type: CIE
   primary: true
 docnumber: x024:2002
+date:
+- type: published
+  at: '2002-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: A vast majority of our standards are available in printed format. Sometimes
-    these are bound like a book, sometimes loose pages that you can put in a binder.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The energy crisis of the 70's led to the situation that lighting design was considered as essentially an issue of energy conservation. Later, building physics and lighting research generated new contacts with the development of architecture and construction, including architectural and building research. New designs and forms of buildings were created accompanied by new relationships of light and shadow thereby creating hitherto unknown visual effects. This design acquired new work methods, a variety of new computer software have been developed to design complex forms. To show the latest achievements and to provide a discussion forum ARUP and CIE cosponsored and organized a two day conference on Visual Environment in April 2002 at the Royal Society, London, focusing on natural and artificial lighting and on the visual perception of our milieu. Papers were presented in the following five sections:
+
+    - Historical Legacy - Lighting Research Progress During the 20th Century
+    - Visual Climate: Photometric, Radiometric and Colorimetric Descriptors
+    - Health and Perception of the Indoor Visual Environment
+    - Ergonomic, Ecologic and Economic Implications of Perception
+    - Built Visual Environment Descriptors
+
+    A CD-ROM containing all the papers in a searchable form is also available.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

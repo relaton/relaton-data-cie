@@ -1,0 +1,84 @@
+---
+id: CIEx0512025n3cuc4
+type: standard
+schema_version: v1.4.1
+title:
+- content: 'REAL-LIFE CHARACTERIZATION OF EYE EXPOSURE TO LIGHT USING A NEW INSTRUMENTED
+    EYEWEAR: A PROOF-OF-CONCEPT STUDY'
+  type: title-main
+- content: 'REAL-LIFE CHARACTERIZATION OF EYE EXPOSURE TO LIGHT USING A NEW INSTRUMENTED
+    EYEWEAR: A PROOF-OF-CONCEPT STUDY'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-n3cuc4?product_id=3039169
+docidentifier:
+- content: CIE x051:2025/n3cuc4
+  type: CIE
+  primary: true
+docnumber: x051:2025/n3cuc4
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Pic
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Le Cain
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Ehrismann
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    https://doi.org/10.25039/x051.2025/n3cuc4New and convenient devices for continuously monitoring eye light exposure levels in real life are needed to address current knowledge gaps. This two-week study, involving 10 participants, assessed the real-life reliability and usability of a device developed to meet this need: newly instrumented eyewear containing four calibrated sensors (an illuminance ambient light sensor, an irradiance spectrometer with eight channels, and two proximity sensors). The eyewear provided reliable, objective data on light dose and spectral composition, and enabled analyses according to time of day, light environment (indoor/outdoor; different light sources), and weather conditions. Feedback on aesthetics, comfort, and usability was positive. These data support the larger-scale use of this new instrumented eyewear in future studies involving real-life characterization.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

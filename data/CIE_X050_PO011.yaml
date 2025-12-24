@@ -1,117 +1,91 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO011
+id: CIEx050PO011
+type: standard
+schema_version: v1.4.1
 title:
 - content: CALCULATING SPATIAL EFFICIENCY TO QUANTIFY INDOOR LIGHTING SUSTAINABILITY
-  format: text/plain
   type: title-main
 - content: CALCULATING SPATIAL EFFICIENCY TO QUANTIFY INDOOR LIGHTING SUSTAINABILITY
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po011?product_id=2579048
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO011
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po011?product_id=2579048
+docidentifier:
+- content: CIE x050-PO011
   type: CIE
   primary: true
 docnumber: x050-PO011
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: D
+      forename:
+      - language: en
+        script: Latn
+        initial: D
       surname:
+        language: en
+        script: Latn
         content: Durmus
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
+      forename:
+      - language: en
+        script: Latn
+        initial: P
       surname:
+        language: en
+        script: Latn
         content: Mahmoudzadeh
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: W
+      forename:
+      - language: en
+        script: Latn
+        initial: W
       surname:
+        language: en
+        script: Latn
         content: Hu
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: W
+      forename:
+      - language: en
+        script: Latn
+        initial: W
       surname:
+        language: en
+        script: Latn
         content: Davis
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The effectiveness of architectural lighting systems has traditionally been measured based on individual luminaire efficiency and cannot capture the performance of intelligent lighting systems. To address this, a lighting application efficacy (LAE) framework has been proposed, which consolidates radiant efficiency, visual system sensitivity, and spatial efficiency of lighting systems. Radiance software simulations indicate that spatial efficiency, the amount of radiant flux reaching the target divided by the total emitted radiant flux into a room, is significantly affected by room size, luminaire density, surface reflectance, luminous distribution type, and visual field angle. The LAE framework is flexible and accommodating, allowing other researchers to add and modify each component to address more complex needs in the future. Measures of LAE can enable measuring the energy efficiency of buildings in real time and report integrated and averaged metrics, which can be incorporated into intelligent, dynamic, and integrated building systems to make real-time decisions.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

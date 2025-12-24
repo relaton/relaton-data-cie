@@ -1,173 +1,129 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO143
+id: CIEx050PO143
+type: standard
+schema_version: v1.4.1
 title:
 - content: PROPOSAL OF MAINTENANCE MANAGEMENT METHOD FOR ROAD LIGHTING FACILITIES
     USING UNMANNED AERIAL VEHICLES
-  format: text/plain
   type: title-main
 - content: PROPOSAL OF MAINTENANCE MANAGEMENT METHOD FOR ROAD LIGHTING FACILITIES
     USING UNMANNED AERIAL VEHICLES
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po143?product_id=2579207
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO143
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po143?product_id=2579207
+docidentifier:
+- content: CIE x050-PO143
   type: CIE
   primary: true
 docnumber: x050-PO143
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Takahashi
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Kohko
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Hagiwara
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Sagane
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Fujimoto
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Kurosawa
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Hama
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    In recent years, light-emitting diode (LED) lamps have become the mainstream light source for road lighting because of their high efficiency and long life. Unlike high-intensity discharge lamps, LEDs do not stop lighting at the end of their service life but continue emitting light with a decreased luminous flux. For this reason, it is important for road lighting that uses LEDs to regularly check if the road surface luminance is maintained according to the relevant performance index. If measurement of road surface illuminance using an unmanned aerial vehicle (UAV) is realized, the time required for illuminance measurement can be reduced, which may reduce the traffic control hours and the burden on road users, such as detours and traffic congestion caused by traffic control. This study examined whether road surface illuminance photometry using UAVs can be used for maintenance and management of road lighting facilities.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

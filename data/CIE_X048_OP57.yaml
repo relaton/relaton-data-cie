@@ -1,119 +1,93 @@
 ---
-schema-version: v1.2.9
-id: CIEx048-OP57
+id: CIEx048OP57
+type: standard
+schema_version: v1.4.1
 title:
 - content: THE DIFFUSENESS OF ILLUMINATION SUITABLE FOR REPRODUCING OBJECT SURFACE
     APPEARANCE USING COMPUTER GRAPHICS
-  format: text/plain
   type: title-main
 - content: THE DIFFUSENESS OF ILLUMINATION SUITABLE FOR REPRODUCING OBJECT SURFACE
     APPEARANCE USING COMPUTER GRAPHICS
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x048-op57?product_id=2240809
-  type: src
-type: standard
-docid:
-- id: CIE x048-OP57
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op57?product_id=2240809
+docidentifier:
+- content: CIE x048-OP57
   type: CIE
   primary: true
 docnumber: x048-OP57
+date:
+- type: published
+  at: '2021-09-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Mizushima
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
+      forename:
+      - language: en
+        script: Latn
+        initial: H
       surname:
+        language: en
+        script: Latn
         content: Kudo
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Dobashi
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Mizokami
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The appearance of an object depends on its material, shape, and lighting. In particular, the diffuseness of the illumination has a significant effect on the appearance of material and surface texture. We investigated a diffuseness condition suitable for reproducing surface appearance using computer graphics. First, observers memorized the appearance and impression of objects by viewing pre-observation images rendered using various environment maps. Then they evaluated the appearance of the objects in test images rendered under different levels of diffuseness. As a result, moderate diffuseness conditions received a higher evaluation than low diffuseness conditions. This means that low or very high diffuseness unfamiliar in daily life is unsuitable for reproducing a faithful and ideal surface appearance. However, a particular material is difficult to memorize and evaluate its appearance. The results suggest that it is possible to define a diffuseness that adequately reproduces the appearance of an object using computer graphics.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

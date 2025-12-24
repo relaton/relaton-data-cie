@@ -1,177 +1,132 @@
 ---
-schema-version: v1.2.9
-id: CIEPP18589-596
-title:
-- content: |-
-    MEASUREMENT OF ILLUMINANCE SATISFACTION REGARD TO DUTIES AND NEW CONTROL METHOD OF INTELLIGENT LIGHTING SYSTEM USING SATISFACTION LEVEL
-
-     (PP18, 589-596)
-  format: text/plain
-  type: title-main
-- content: |-
-    MEASUREMENT OF ILLUMINANCE SATISFACTION REGARD TO DUTIES AND NEW CONTROL METHOD OF INTELLIGENT LIGHTING SYSTEM USING SATISFACTION LEVEL
-
-     (PP18, 589-596)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/measurement-of-illuminance-satisfaction-regard-to-duties-and-new-control-method-of-intelligent-lighting-system-using-satisfaction-level-pp18-589-596?product_id=2011273
-  type: src
+id: CIEPP18589596
 type: standard
-docid:
-- id: CIE PP18 589-596
+schema_version: v1.4.1
+title:
+- content: "MEASUREMENT OF ILLUMINANCE SATISFACTION REGARD TO DUTIES AND NEW CONTROL
+    METHOD OF INTELLIGENT LIGHTING SYSTEM USING SATISFACTION LEVEL\n\n (PP18, 589-596)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "MEASUREMENT OF ILLUMINANCE SATISFACTION REGARD TO DUTIES AND NEW CONTROL
+    METHOD OF INTELLIGENT LIGHTING SYSTEM USING SATISFACTION LEVEL\n\n (PP18, 589-596)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/measurement-of-illuminance-satisfaction-regard-to-duties-and-new-control-method-of-intelligent-lighting-system-using-satisfaction-level-pp18-589-596?product_id=2011273
+docidentifier:
+- content: CIE PP18 589-596
   type: CIE
   primary: true
 docnumber: PP18 589-596
+date:
+- type: published
+  at: '1951-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "N"
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
       surname:
+        language: en
+        script: Latn
         content: Hiroaki
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Miki
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Dainaka
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Tamura
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: Tomioka
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Yamashita
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
+      forename:
+      - language: en
+        script: Latn
+        initial: H
       surname:
+        language: en
+        script: Latn
         content: Aida
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    In order to determine the range of illuminance which an office worker believes is most conducive to favourable job performance, we first examine the relation between degrees of job satisfaction and illuminance per worker in an office setting. Following this, using a conventional Intelligent Lighting System (ILS), we discovered instances where the target illuminance cannot be realised owing to physical lighting characteristics when the illuminance of an adjacent worker differs from that of a target worker. Thus, problems such as extremely low illuminance satisfaction of specific workers can occur. Therefore, based on measured satisfaction levels (which are psychological indicators for each user), we propose a novel
+    method for obtaining high illuminance satisfaction. Finally, as illuminance satisfaction can change, we consider a learning function to estimate satisfaction levels while doing daily work, and introduce this learning function to the ILS.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

@@ -1,45 +1,54 @@
 ---
-schema-version: v1.2.9
-id: CIEISOTS22012-2019
+id: CIEISOTS220122019
+type: standard
+schema_version: v1.4.1
 title:
 - content: Light and lighting -- Maintenance factor determination -- Way of working
-  format: text/plain
   type: title-main
 - content: Light and lighting -- Maintenance factor determination -- Way of working
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-iso-ts-22012-2019?product_id=2078728
-  type: src
-type: standard
-docid:
-- id: CIE ISO TS 22012:2019
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-iso-ts-22012-2019?product_id=2078728
+docidentifier:
+- content: CIE ISO TS 22012:2019
   type: CIE
   primary: true
-docnumber: ISO TS 22012:2019
+docnumber: TS 22012:2019
+date:
+- type: published
+  at: '2019-02-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    This document is a Technical Specification outlining a way of working to determine the maintenance factor for both outdoor and indoor lighting installations using the methodology as described in CIE 154:2003 and CIE 097:2005.
+
+    The methodology of determining the maintenance factor has been extensively documented by CIE. However, as the focus of these technical reports was predominantly on incandescent and gas discharge light sources, more clarity is needed to ensure the proper use/translation of the existing methodology towards technologies such as light emitting diodes (LED).
+
+    Technologies such as LED distinguish themselves from other technologies by their long lifetime, low failure rate and their integration of components which were previously seen as separate components. As such the previous methods used to determine the depreciation and survival of luminaires might seem unusable and cause uncertainty. However, based on work by IEC the luminous flux depreciation and light source failure parameters have now been (re)established for LED-based light sources and allow for translation into an updated way of working to determine the maintenance factor using the existing CIE methodology and data for luminaire and surface dirt depreciation.
+
+    The document combines insights from IEC standards with regard to product performance of luminaires and light sources currently in the market with the existing determination methodology from CIE Technical Reports. Furthermore, it references the data in the CIE Technical Reports with regard to the impact of the environment on luminaires (accumulation of dirt on surfaces and luminaires).
+
+    The document provides the following:
+    background information with respect to the principles of the maintenance factor and the relevant parameters for indoor and outdoor applications;
+    a detailed way of working on how to apply the maintenance factor determination method (as described in CIE 154:2003 and CIE 097:2005) for outdoor and indoor lighting designs using the technologies available in the market;
+    explanation and examples on how to apply the maintenance factor and how to ensure proper operation over time corresponding to the determined values.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

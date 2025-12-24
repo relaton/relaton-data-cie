@@ -1,0 +1,103 @@
+---
+id: CIEx0512025g3u6hj
+type: standard
+schema_version: v1.4.1
+title:
+- content: SPECIFYING LUMINAIRE CUTOFF IN LIGHT POLLUTION REGULATIONS
+  type: title-main
+- content: SPECIFYING LUMINAIRE CUTOFF IN LIGHT POLLUTION REGULATIONS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-g3u6hj?product_id=3039160
+docidentifier:
+- content: CIE x051:2025/g3u6hj
+  type: CIE
+  primary: true
+docnumber: x051:2025/g3u6hj
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Martinsons
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Busson
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Forst
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Verny
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Tremeau
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    https://doi.org/10.25039/x051.2025/g3u6hjThis paper examines different approaches used to specify the cutoff, or shielding, properties of luminaires in light pollution regulations, with a focus on the G* classification defined in the European road lighting standard, and the CIE flux code FC3, used in the French regulation. To compare the G* and FC3 rating schemes, a simple parametric model is introduced to generate typical luminous intensity distributions used in road lighting. In addition, these rating schemes are applied to a dataset of 145 measured luminous intensity distributions of outdoor luminaires with different characteristics. The results show that the G* classification yields more robust ratings than requirements based on FC3. However, neither FC3 nor G* can correctly predict the cutoff angle of the luminous intensity distributions, a parameter linked to the visibility of a luminaire at long distance.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

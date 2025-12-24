@@ -1,39 +1,41 @@
 ---
-schema-version: v1.2.9
-id: CIED007-1994
+id: CIED0071994
+type: standard
+schema_version: v1.4.1
 title:
 - content: A method of predicting corresponding colours under different chromatic
     and illuminance adaptations (Computer program to Publ. CIE 109)
-  format: text/plain
   type: title-main
 - content: A method of predicting corresponding colours under different chromatic
     and illuminance adaptations (Computer program to Publ. CIE 109)
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-d007-1994?product_id=1210147
-  type: src
-type: standard
-docid:
-- id: CIE D007-1994
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-d007-1994?product_id=1210147
+docidentifier:
+- content: CIE D007-1994
   type: CIE
   primary: true
 docnumber: D007-1994
+date:
+- type: published
+  at: '1994-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     A Computer Program Implementing the "Method of Predicting Corresponding Colours under Different Chromatic and Illuminance Adaptation" described in Publication CIE 109-1994
 
     To enable easy use of the calculation method described in CIE 109-1994, CIE-CB introduced CIE Disk D007 (Rel. 1.0) working in a DOS environment. Using one of the programs included on this disk you can determine the corresponding colour according to CIE 109-1994 in no time. You can learn more about these programs by reading the following description. CIE Disk D007 can be obtained as CD-ROM to be used in a DOS environment.
@@ -51,12 +53,10 @@ abstract:
     The chromatic adaptation transform used in these programs can be applied to predict corresponding colours in the following cases. In case of different test and reference illuminants with equal illuminance, the tristimulus values of the corresponding colour in the reference field are determined by giving the tristimulus values of the test sample in the test field. In case of equal test and reference illuminants with different illuminance, the tristimulus values of the corresponding colour in the reference field are determined by giving the tristimulus values of the test sample in the test field. In the case of different test and reference illuminants with different illuminance, the tristimulus values of the corresponding colour in the reference field are determined by giving the tristimulus values of the test sample in the test field.
 
     The program is started by selecting the FILE/NEW menu point. The DOS version of the program is able to handle up to 6 different windows which can be selected with the mouse or from the keyboard pressing ALT+windows_number. (This is displayed at the top-right corner of each window) The next step is to select a test illuminant. In the WINDOWS version CIE Standard Illuminant A, C, D50, D55, D65 and D75 can be chosen from the scroll down menu, or a CUSTOM defined illuminant can be chosen. In the latter case the chromaticity coordinates of the test illuminant have to be keyed in manually. Also the test illuminance can be set (pre selected value: 1000 lux). The next step is to select the test sample input format (x, y, Y or X, Y, Z). Decimal point has to bused. The next step is to select the reference illuminant. Similarly to the test illuminant the following reference illuminants are preprogrammed in the WINDOWS version: CIE Standard Illuminant A, C, D50, D55, D65 and D75. In this step also the reference illuminance has to be set (preselected value: 1000 lux). Finally the value for the test and reference background Y0 tristimulus value has to be set (pre selected value: 20 %). If all values are set correctly, the "OK" button is clicked and the result window opens, called 'Nayatani method', after the Chairman of the TC elaborating the method. Here all the input data can be checked once again, together with the "Results", the chromaticity coordinates and Y value of the corresponding colour. The results can be printed (selecting the FILE/PRINT menu point) or saved in a file (FILE/SAVE).
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

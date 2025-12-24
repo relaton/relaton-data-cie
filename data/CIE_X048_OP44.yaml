@@ -1,123 +1,115 @@
 ---
-schema-version: v1.2.9
-id: CIEx048-OP44
+id: CIEx048OP44
+type: standard
+schema_version: v1.4.1
 title:
 - content: TESTING THE PERFORMANCE FOR UNRELATED COLOUR APPEARANCE MODELS
-  format: text/plain
   type: title-main
 - content: TESTING THE PERFORMANCE FOR UNRELATED COLOUR APPEARANCE MODELS
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x048-op44?product_id=2240796
-  type: src
-type: standard
-docid:
-- id: CIE x048-OP44
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op44?product_id=2240796
+docidentifier:
+- content: CIE x048-OP44
   type: CIE
   primary: true
 docnumber: x048-OP44
+date:
+- type: published
+  at: '2021-09-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: Shi
-          language:
-          - en
-          script:
-          - Latn
       surname:
+        language: en
+        script: Latn
         content: Keyu
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: Li
-          language:
-          - en
-          script:
-          - Latn
       surname:
+        language: en
+        script: Latn
+        content: Shi
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
         content: Changjun
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: Gao
-          language:
-          - en
-          script:
-          - Latn
       surname:
+        language: en
+        script: Latn
+        content: Li
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
         content: Cheng
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: Ronnier
-          language:
-          - en
-          script:
-          - Latn
       surname:
+        language: en
+        script: Latn
+        content: Gao
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
         content: Ming
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       surname:
-        content: Luo
-        language:
-        - en
-        script:
-        - Latn
-  role:
+        language: en
+        script: Latn
+        content: Ronnier
+- role:
   - type: author
-- organization:
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Luo
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Most colour appearance models (CAMs) have been developed to predict the colour appearance only for related colours in different viewing conditions. More recently, CAMs to predict for unrelated colours have been proposed due to the availability of the experimental data. This paper investigates the performance of the three promising colour appearance models for unrelated colours, i.e. CAM15u, CAMFu and CAM20u using an experimental dataset carefully accumulated by Fu et al. in term of CV values. The results showed that the latest CAM20u outperformed the other models. CAMFu, as the oldest model, whose performance was much worse than other two models in predicting brightness and colourfulness, and performed well in predicting hue composition, while CAM15u gave a moderate performance in predicting brightness and colourfulness, but performed slightest worse than the others for hue composition.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

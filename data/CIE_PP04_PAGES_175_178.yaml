@@ -1,209 +1,150 @@
 ---
-schema-version: v1.2.9
-id: CIEPP04Pages175-178
-title:
-- content: EFFICIENT MEASUREMENT OF ANGLE-RESOLVED LUMINANCE DISTRIBUTION WITH IMAGING
-    SENSOR (PP04, Pages 175-178)
-  format: text/plain
-  type: title-main
-- content: EFFICIENT MEASUREMENT OF ANGLE-RESOLVED LUMINANCE DISTRIBUTION WITH IMAGING
-    SENSOR (PP04, Pages 175-178)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/efficient-measurement-of-angle-resolved-luminance-distribution-with-imaging-sensor-pp04-pages-175-178?product_id=1941829
-  type: src
+id: CIEPP04Pages175178
 type: standard
-docid:
-- id: CIE PP04 Pages 175-178
+schema_version: v1.4.1
+title:
+- content: "EFFICIENT MEASUREMENT OF ANGLE-RESOLVED LUMINANCE DISTRIBUTION WITH IMAGING
+    SENSOR (PP04, Pages 175-178)\n        \n            \n              ✓\n              Most
+    Recent"
+  type: title-main
+- content: "EFFICIENT MEASUREMENT OF ANGLE-RESOLVED LUMINANCE DISTRIBUTION WITH IMAGING
+    SENSOR (PP04, Pages 175-178)\n        \n            \n              ✓\n              Most
+    Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/efficient-measurement-of-angle-resolved-luminance-distribution-with-imaging-sensor-pp04-pages-175-178?product_id=1941829
+docidentifier:
+- content: CIE PP04 Pages 175-178
   type: CIE
   primary: true
 docnumber: PP04 Pages 175-178
+date:
+- type: published
+  at: '2016-09-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      - language: en
+        script: Latn
+        initial: H
       surname:
+        language: en
+        script: Latn
         content: Yang
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      - language: en
+        script: Latn
+        initial: C
       surname:
+        language: en
+        script: Latn
         content: Hsiao
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: W
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      - language: en
+        script: Latn
+        initial: W
       surname:
+        language: en
+        script: Latn
         content: Yu
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: C
       surname:
+        language: en
+        script: Latn
         content: Lin
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Le
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      - language: en
+        script: Latn
+        initial: H
       surname:
+        language: en
+        script: Latn
         content: Lin
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: C
       surname:
+        language: en
+        script: Latn
         content: Sun
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    In this work, one efficient measuring scheme is proposed for the measurement of angle-resolved luminance with imaging sensors. Mainly, a Lambertian diffuser transmitting screen is introduced to highly reduce the measuring time. In addition to the light sources, the measuring scheme can be also easily expanded for the measurement on the BRDF and the BTDF of the diffuse surface materials. Finally, some testing examples are also presented in our experiments.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

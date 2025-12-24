@@ -1,45 +1,45 @@
 ---
-schema-version: v1.2.9
-id: CIE172-2006
+id: CIE1722006
+type: standard
+schema_version: v1.4.1
 title:
 - content: UV protection and clothing
-  format: text/plain
   type: title-main
 - content: UV protection and clothing
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-172-2006?product_id=1262065
-  type: src
-type: standard
-docid:
-- id: CIE 172:2006
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-172-2006?product_id=1262065
+docidentifier:
+- content: CIE 172:2006
   type: CIE
   primary: true
 docnumber: 172:2006
+date:
+- type: published
+  at: '2006-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Clothing can provide substantial protection against solar ultraviolet radiation (UVR) and quantifying the amount of protection can have useful applications to recreational, occupational and medical situations.
+
+    Various test methods for measurement of UVR transmittance through fabrics are discussed. The measured transmittances can be used to calculate the erythemally weighted UVR transmitted by the fabric and thus the amount of protection provided. Factors affecting the UVR transmission of fabrics are also detailed. Currently existing standard documents are discussed, and then the document outlines a recommended test method for the determination of the UVR transmitted by fabrics and details a rating scheme using Ultraviolet Protection Factors (UPFs) to quantify the protection. Areas where research and standardisation efforts are still needed are discussed.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

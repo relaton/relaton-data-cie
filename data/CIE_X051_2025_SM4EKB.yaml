@@ -1,0 +1,91 @@
+---
+id: CIEx0512025sm4ekb
+type: standard
+schema_version: v1.4.1
+title:
+- content: ESTIMATION MODEL OF VISIBILITY BASED ON THE CHROMATIC MECHANISM IN NEUROPHYSIOLOGY
+  type: title-main
+- content: ESTIMATION MODEL OF VISIBILITY BASED ON THE CHROMATIC MECHANISM IN NEUROPHYSIOLOGY
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-sm4ekb?product_id=3040023
+docidentifier:
+- content: CIE x051:2025/sm4ekb
+  type: CIE
+  primary: true
+docnumber: x051:2025/sm4ekb
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Tayama
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Shida
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Takase
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Yoshizawa
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Visibility is a fundamental factor for explaining the visual environment and quantitative evaluation methods are being developed. Previously, as a model for estimating visibility, the edge detection algorithm that creates an edge image from a luminance image by imitating the perception of the boundaries of objects and surfaces (hereafter referred to as “edges”) in human early vision has been developed. In this study, we incorporated chromatic mechanisms into the algorithm using the responses of long-, middle-, and short wavelength-sensitive (L-, M-, and S-) cones in the retina as input data. This algorithm detects edges based on chromaticity that were not detected by the previous algorithm. We confirmed the efficiency of the algorithm by comparing the results of a subjective evaluation experiment using a display with the calculated values of the algorithm.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

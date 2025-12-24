@@ -1,137 +1,119 @@
 ---
-schema-version: v1.2.9
-id: CIEPO46Pages438-445
-title:
-- content: PHOTOMETRIC AND COLORIMETRIC COMPARISON OF HDR AND SPECTRALLY RESOLVED
-    RENDERING IMAGES (PO46, Pages 438-445)
-  format: text/plain
-  type: title-main
-- content: PHOTOMETRIC AND COLORIMETRIC COMPARISON OF HDR AND SPECTRALLY RESOLVED
-    RENDERING IMAGES (PO46, Pages 438-445)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/photometric-and-colorimetric-comparison-of-hdr-and-spectrally-resolved-rendering-images-po46-pages-438-445?product_id=1941868
-  type: src
+id: CIEPO46Pages438445
 type: standard
-docid:
-- id: CIE PO46 Pages 438-445
+schema_version: v1.4.1
+title:
+- content: "PHOTOMETRIC AND COLORIMETRIC COMPARISON OF HDR AND SPECTRALLY RESOLVED
+    RENDERING IMAGES (PO46, Pages 438-445)\n        \n            \n              ✓\n
+    \             Most Recent"
+  type: title-main
+- content: "PHOTOMETRIC AND COLORIMETRIC COMPARISON OF HDR AND SPECTRALLY RESOLVED
+    RENDERING IMAGES (PO46, Pages 438-445)\n        \n            \n              ✓\n
+    \             Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/photometric-and-colorimetric-comparison-of-hdr-and-spectrally-resolved-rendering-images-po46-pages-438-445?product_id=1941868
+docidentifier:
+- content: CIE PO46 Pages 438-445
   type: CIE
   primary: true
 docnumber: PO46 Pages 438-445
+date:
+- type: published
+  at: '2016-09-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Amdemeskel
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Soreze
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Thorseth
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: D
+      forename:
+      - language: en
+        script: Latn
+        initial: D
       surname:
+        language: en
+        script: Latn
         content: Corell
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
+      forename:
+      - language: en
+        script: Latn
+        initial: C
       surname:
+        language: en
+        script: Latn
         content: Dam-Hansen
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: "In this paper, we will demonstrate a comparison between measured colorimetric
+    images, and simulated images from a physics based rendering engine. The colorimetric
+    images are high dynamic range (HDR) and taken with a luminance and colour camera
+    mounted on a goniometer. For the comparison, we have used a scene similar to the
+    cornel box but with a spectrally controllable LED light source, neutral grey walls
+    and a colour checker board for colorimetric assessments. The luminance value and
+    colour information of the HDR camera and rendering images are used for the comparison.
+    The spectral irradiances of the light source were measured for two lighting scenarios:
+    low and high correlated colour temperature (CCT) white lighting conditions for
+    the modelling of the light source. Based on these measurements, we have conducted
+    spectrally resolved renderings with a spectral renderer, Ocean. The colour differences
+    between the camera and rendered images were calculated with the most recent CIE
+    metric, CIEDE2000.  Our simulations have demonstrated interesting results, which
+    confirm the accuracy of the Ocean engine. In the future, we want to consider non-Lambertian
+    surfaces.     \n\n              See more"
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

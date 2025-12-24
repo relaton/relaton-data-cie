@@ -1,83 +1,69 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO161
+id: CIEx050PO161
+type: standard
+schema_version: v1.4.1
 title:
 - content: AN ENERGY EFFICIENT HUMAN CENTERED LIGHTING FOR OPEN PLAN OFFICES WITH
     COMFORT CRITERIA
-  format: text/plain
   type: title-main
 - content: AN ENERGY EFFICIENT HUMAN CENTERED LIGHTING FOR OPEN PLAN OFFICES WITH
     COMFORT CRITERIA
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po161?product_id=2579222
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO161
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po161?product_id=2579222
+docidentifier:
+- content: CIE x050-PO161
   type: CIE
   primary: true
 docnumber: x050-PO161
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Aliparast
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Onaygil
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    In study two types, Direct Suspended Linear (DSL) and Direct and Indirect Suspended Linear (DISL) luminaires with dynamic height at daylight non access office proposed, to improve the Circadian Stimulus (CS) and Equivalent Melanopic Lux (EML) by focusing on working plane and occupants view direction. CS and EML measured in three height (H1, H2, H3) scenarios. DSL shows: EVH1:523 lux, EVH2:520 lux, EVH3:550 lux and EHH1:2026.25 lux, EHH2:870 lux, EHH3:752.5 lux. Accordingly, CSH1:0.3, CSH2:0.3, CSH3:0.31 and EMLH1:340.473, EMLH2:338.52, EMLH3:358.05. DISL shows: EVH1:420 lux, EVH2:393 lux, EVH3:400 lux and EHH1:1137.5 lux, EHH2:520 lux, EHH3:521.5 and CSH1:0.321, CSH2:0.3, CSH3:0.311 and EMLH1:303.24, EMLH2:283.746, EMLH3:288.8. The Wilcoxon Signed Rank Test showed the impact of DSL and DISL luminaires on occupants' comfort criteria. Energy-efficient lighting, targeting a CS of 0.3, reduced power consumption by 40%. Data evaluation with 10 participants confirmed that beam distribution influenced power consumption, EV, EH, and occupant satisfaction (p-value: 0.006).
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

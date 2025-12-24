@@ -1,81 +1,67 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-OP073
+id: CIEx050OP073
+type: standard
+schema_version: v1.4.1
 title:
 - content: 'DAYLIGHT REQUIREMENTS: AN OVERVIEW OF DEFINITIONS, PROGRESS AND GAPS'
-  format: text/plain
   type: title-main
 - content: 'DAYLIGHT REQUIREMENTS: AN OVERVIEW OF DEFINITIONS, PROGRESS AND GAPS'
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-op073?product_id=2579029
-  type: src
-type: standard
-docid:
-- id: CIE x050-OP073
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op073?product_id=2579029
+docidentifier:
+- content: CIE x050-OP073
   type: CIE
   primary: true
 docnumber: x050-OP073
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Pinheiro
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
+      forename:
+      - language: en
+        script: Latn
+        initial: C
       surname:
+        language: en
+        script: Latn
         content: Amorim
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Daylight is fundamental in the built environment. Requirements define, describe, and measure the behavior of daylight. This article conducts a systematic literature review that aims to investigate daylight metrics and requirements in documents regarding buildings, such as standards, regulations, rating systems, guidelines, and building and urban codes to track their progress over time and the remaining gaps. The results show a lack of studies approaching daylight requirements in building and urban codes, regulations and guidelines, showing a gap between research and design practice. There is an evolution on time from static to dynamic metrics as requirements found in international standards and rating systems. Static metrics are still present on some of these documents, but dynamic metrics provide more accurate evaluations. Finally, Spatial Daylight Autonomy and Target Illuminance have similar concepts, as well as Annual Sunlight Exposure and Exposure to Sunlight, which suggests a possible harmonisation in an international context.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

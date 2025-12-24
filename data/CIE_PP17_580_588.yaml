@@ -1,131 +1,100 @@
 ---
-schema-version: v1.2.9
-id: CIEPP17580-588
-title:
-- content: |-
-    RESEARCH ON THE INFLUENCE MECHANISM OF THE ARTIFICIAL LIGHT ENVIRONMENT EVALUATION INDEX ON OFFICE LIGHTING COMFORT
-
-
-     (PP17, 580-588)
-  format: text/plain
-  type: title-main
-- content: |-
-    RESEARCH ON THE INFLUENCE MECHANISM OF THE ARTIFICIAL LIGHT ENVIRONMENT EVALUATION INDEX ON OFFICE LIGHTING COMFORT
-
-
-     (PP17, 580-588)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/research-on-the-influence-mechanism-of-the-artificial-light-environment-evaluation-index-on-office-lighting-comfort-pp17-580-588?product_id=2011272
-  type: src
+id: CIEPP17580588
 type: standard
-docid:
-- id: CIE PP17 580-588
+schema_version: v1.4.1
+title:
+- content: "RESEARCH ON THE INFLUENCE MECHANISM OF THE ARTIFICIAL LIGHT ENVIRONMENT
+    EVALUATION INDEX ON OFFICE LIGHTING COMFORT\n\n\n (PP17, 580-588)\n        \n
+    \           \n              ✓\n              Most Recent"
+  type: title-main
+- content: "RESEARCH ON THE INFLUENCE MECHANISM OF THE ARTIFICIAL LIGHT ENVIRONMENT
+    EVALUATION INDEX ON OFFICE LIGHTING COMFORT\n\n\n (PP17, 580-588)\n        \n
+    \           \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/research-on-the-influence-mechanism-of-the-artificial-light-environment-evaluation-index-on-office-lighting-comfort-pp17-580-588?product_id=2011272
+docidentifier:
+- content: CIE PP17 580-588
   type: CIE
   primary: true
 docnumber: PP17 580-588
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: G
-      surname:
-        content: Liu
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: L
+      forename:
+      - language: en
+        script: Latn
+        initial: G
       surname:
+        language: en
+        script: Latn
         content: Liu
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: L
       surname:
+        language: en
+        script: Latn
+        content: Liu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
         content: Luo
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: Dang
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Due to the large building stock, the relatively simple building space, the longer pace times, and the specific requirements of artificial light environment, a small office space should be chosen for the study. By adopting the research method of subjective evaluation experiment, we explored the influence of four lighting environment comfort evaluation indices on lighting comfort level. By using the results of the comfort questionnaire, the influence of illuminance, correlated colour temperature, general colour rendering index, and uniformity ratio of illuminance on the degree of comfort and brightness were found to further study the
+    quantitative effects of individual physical environment on visual comfort. Combining the questionnaire statistics and experimental data correlation analysis, followed by a multivariate linear regression analysis by SPSS software, the mathematical model of artificial light environment is established. Further, a quantitative evaluation of the effects of various optical environment parameters on visual comfort in artificial light environment was conducted.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

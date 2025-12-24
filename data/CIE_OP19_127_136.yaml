@@ -1,85 +1,70 @@
 ---
-schema-version: v1.2.9
-id: CIEOP19127-136
-title:
-- content: |-
-    NIGHT-TIME VISIBILITY OF ROAD SIGNS WITH MODERN HEADLAMPS
-     (OP19, 127-136)
-  format: text/plain
-  type: title-main
-- content: |-
-    NIGHT-TIME VISIBILITY OF ROAD SIGNS WITH MODERN HEADLAMPS
-     (OP19, 127-136)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/night-time-visibility-of-road-signs-with-modern-headlamps-op19-127-136?product_id=2010429
-  type: src
+id: CIEOP19127136
 type: standard
-docid:
-- id: CIE OP19 127-136
+schema_version: v1.4.1
+title:
+- content: "NIGHT-TIME VISIBILITY OF ROAD SIGNS WITH MODERN HEADLAMPS\n (OP19, 127-136)\n\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "NIGHT-TIME VISIBILITY OF ROAD SIGNS WITH MODERN HEADLAMPS\n (OP19, 127-136)\n\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/night-time-visibility-of-road-signs-with-modern-headlamps-op19-127-136?product_id=2010429
+docidentifier:
+- content: CIE OP19 127-136
   type: CIE
   primary: true
 docnumber: OP19 127-136
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Nilsson Tengelin
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Kallberg
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Retroreflective road signs and vehicle headlamps are important factors that contribute to road safety, especially during the dark hours of the day. In this paper we investigate whether modern vehicle light sources such as LED and HID influence the visibility of road signs compared to traditional halogen lamps, with focus on colour recognition and retroreflection. The results show that LED headlamps significantly affect the coefficient of retroreflection for blue, red and green signs, with lower retroreflection in the red and higher for blue and green. As for colour recognition it is shown that different viewing geometries will have a minor impact on the road sign face colour, while different types of headlamps will produce quite significant colour shifts. However, as the separation between different colours tend to stay the same or even increase with LED or HID compared to halogen lamps, the risk for misjudging nearby colours is considered small.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

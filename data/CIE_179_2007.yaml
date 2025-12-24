@@ -1,47 +1,54 @@
 ---
-schema-version: v1.2.9
-id: CIE179-2007
+id: CIE1792007
+type: standard
+schema_version: v1.4.1
 title:
 - content: Methods for characterising tristimulus colorimeters for measuring the colour
     of light
-  format: text/plain
   type: title-main
 - content: Methods for characterising tristimulus colorimeters for measuring the colour
     of light
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-179-2007?product_id=1377605
-  type: src
-type: standard
-docid:
-- id: CIE 179:2007
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-179-2007?product_id=1377605
+docidentifier:
+- content: CIE 179:2007
   type: CIE
   primary: true
 docnumber: 179:2007
+date:
+- type: published
+  at: '2007-05-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: "The purpose of this technical report is to provide an objective means
+    for evaluating the properties of tristimulus colorimeter heads that are to be
+    used to measure the colour of light sources. Several properties that determine
+    the performance of tristimulus colorimeters can be quantified by numerical assessments.
+    There are some properties, however, which have not been possible to quantify,
+    where only a qualitative description is possible. Several sources of measurement
+    error are also described. \n\nThe report is intended to serve as a guide for a
+    potential user who wishes to make colour measurements of sources using a tristimulus
+    colorimeter, and for manufacturers or users of instruments who need to specify
+    or assess the quality of these instruments. The factors that make up the evaluation
+    may also serve as a guide to manufacturers in the development of improved colorimetric
+    instruments.\n\n              See more"
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

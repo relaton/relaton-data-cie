@@ -1,117 +1,94 @@
 ---
-schema-version: v1.2.9
-id: CIEOP17100-105
-title:
-- content: PEDESTRIANS SUPPORT SYSTEM USING VISIBLE LIGHT COMMUNICATION (OP17, 100-105)
-  format: text/plain
-  type: title-main
-- content: PEDESTRIANS SUPPORT SYSTEM USING VISIBLE LIGHT COMMUNICATION (OP17, 100-105)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/pedestrians-support-system-using-visible-light-communication-op17-100-105?product_id=2016231
-  type: src
+id: CIEOP17100105
 type: standard
-docid:
-- id: CIE OP17 100-105
+schema_version: v1.4.1
+title:
+- content: "PEDESTRIANS SUPPORT SYSTEM USING VISIBLE LIGHT COMMUNICATION (OP17, 100-105)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "PEDESTRIANS SUPPORT SYSTEM USING VISIBLE LIGHT COMMUNICATION (OP17, 100-105)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/pedestrians-support-system-using-visible-light-communication-op17-100-105?product_id=2016231
+docidentifier:
+- content: CIE OP17 100-105
   type: CIE
   primary: true
 docnumber: OP17 100-105
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Kitaguchi
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Kitani
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Oshiba
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Morimoto
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The pedestrians' support system were introduced. This system uses a Visible Light Communication (VLC) with Light-Emitting Diodes (LEDs) to help people particularly with low vision using lights from the illuminated bollards and road studs etc, on the streets. In this system, the lights can not only be for illuminating the environments, but also sending safety information in the neighbourhood to people through receivers. The information can be played as audio information. In this paper, visual evaluations were carried out to select appropriate lighting patterns by normal vision people. The appropriate lights were selected also by considering the opinions of low vision people (Iki et al., 2015; Oshiba et al., 2016). Interview with low vision people and their behaviour observation were also carried out. Reflecting the results, more ideas of the use of the system and also system of receivers were proposed.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

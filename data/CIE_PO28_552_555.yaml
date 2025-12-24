@@ -1,143 +1,106 @@
 ---
-schema-version: v1.2.9
-id: CIEPO28552-555
-title:
-- content: PSYCHOLOGICAL INFLUENCE OF COLOURFUL LIGHT-EMITTING DIODE LUMINAIRE (PO28,
-    552-555)
-  format: text/plain
-  type: title-main
-- content: PSYCHOLOGICAL INFLUENCE OF COLOURFUL LIGHT-EMITTING DIODE LUMINAIRE (PO28,
-    552-555)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/psychological-influence-of-colourful-light-emitting-diode-luminaire-po28-552-555?product_id=2016304
-  type: src
+id: CIEPO28552555
 type: standard
-docid:
-- id: CIE PO28 552-555
+schema_version: v1.4.1
+title:
+- content: "PSYCHOLOGICAL INFLUENCE OF COLOURFUL LIGHT-EMITTING DIODE LUMINAIRE (PO28,
+    552-555)\n        \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "PSYCHOLOGICAL INFLUENCE OF COLOURFUL LIGHT-EMITTING DIODE LUMINAIRE (PO28,
+    552-555)\n        \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/psychological-influence-of-colourful-light-emitting-diode-luminaire-po28-552-555?product_id=2016304
+docidentifier:
+- content: CIE PO28 552-555
   type: CIE
   primary: true
 docnumber: PO28 552-555
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Chen
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: L
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      - language: en
+        script: Latn
+        initial: C
       surname:
+        language: en
+        script: Latn
         content: Su
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: C
       surname:
+        language: en
+        script: Latn
         content: Yang
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Fu
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Light-emitting diode (LED) lighting becomes the mainstream of lighting products. The construction of colourful LED lighting system can be based on human factor, well-being, and human health including physiological and psychological effects. Automatic change and peopleoriented intelligent lighting system achieve the smart life environment. Under normal physiological conditions, the most important factors affecting the physiological clock (circadian rhythm) are the coordination of light and dark changes, movement, diet, and physiological clocks of whole cells. The response curve of circadian stimulus / photometry (CSP) is the definition of circadian action factor (CAF) which is an indicator of physiological light stimulus. However, the psychological influence of colourful LED luminaire is a complex and important issue to study the mental effect of integrative lighting.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

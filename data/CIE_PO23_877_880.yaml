@@ -1,87 +1,72 @@
 ---
-schema-version: v1.2.9
-id: CIEPO23877-880
-title:
-- content: |-
-    VISUAL EVALUATION RESULTS OF PERCEIVED WHITENESS UNDER THE ILLUMINANT D50 CONDITION AND THEIR PREDICTIONS
-
-     (PO23, 877-880)
-  format: text/plain
-  type: title-main
-- content: |-
-    VISUAL EVALUATION RESULTS OF PERCEIVED WHITENESS UNDER THE ILLUMINANT D50 CONDITION AND THEIR PREDICTIONS
-
-     (PO23, 877-880)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/visual-evaluation-results-of-perceived-whiteness-under-the-illuminant-d50-condition-and-their-predictions-po23-877-880?product_id=2011163
-  type: src
+id: CIEPO23877880
 type: standard
-docid:
-- id: CIE PO23 877-880
+schema_version: v1.4.1
+title:
+- content: "VISUAL EVALUATION RESULTS OF PERCEIVED WHITENESS UNDER THE ILLUMINANT
+    D50 CONDITION AND THEIR PREDICTIONS\n\n (PO23, 877-880)\n        \n            \n
+    \             ✓\n              Most Recent"
+  type: title-main
+- content: "VISUAL EVALUATION RESULTS OF PERCEIVED WHITENESS UNDER THE ILLUMINANT
+    D50 CONDITION AND THEIR PREDICTIONS\n\n (PO23, 877-880)\n        \n            \n
+    \             ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/visual-evaluation-results-of-perceived-whiteness-under-the-illuminant-d50-condition-and-their-predictions-po23-877-880?product_id=2011163
+docidentifier:
+- content: CIE PO23 877-880
   type: CIE
   primary: true
 docnumber: PO23 877-880
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: I
+      forename:
+      - language: en
+        script: Latn
+        initial: I
       surname:
+        language: en
+        script: Latn
         content: Katayama
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Yano
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    We conducted a visual evaluation experiment of perceived whiteness under the illuminant D50 condition, which is normally used in graphic arts. As a result, whiteness was evaluated higher for the stimuli of higher bluish purity even in the region exceeding the applicable limit of the CIE whiteness formula. When the correlation between the visual evaluation results and the predicted values by each whiteness formula of CIE, Uchida, and Grum was discussed, it was found that the Uchida whiteness formula did not predict whiteness under the illuminant D50 condition. The predicted values by the whiteness formulas of CIE and Grum correlated well with the visual evaluation results; however, it was considered that the Grum whiteness formula with no applicable limit is superior to the current CIE whiteness formula.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

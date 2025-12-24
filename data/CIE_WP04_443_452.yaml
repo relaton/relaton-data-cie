@@ -1,93 +1,73 @@
 ---
-schema-version: v1.2.9
-id: CIEWP04443-452
-title:
-- content: |-
-    AN INSTRUMENT FOR THE MEASUREMENT OF ROAD SURFACE REFLECTION PROPERTIES
-
-     (WP04, 443-452)
-  format: text/plain
-  type: title-main
-- content: |-
-    AN INSTRUMENT FOR THE MEASUREMENT OF ROAD SURFACE REFLECTION PROPERTIES
-
-     (WP04, 443-452)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/an-instrument-for-the-measurement-of-road-surface-reflection-properties-wp04-443-452?product_id=2011381
-  type: src
+id: CIEWP04443452
 type: standard
-docid:
-- id: CIE WP04 443-452
+schema_version: v1.4.1
+title:
+- content: "AN INSTRUMENT FOR THE MEASUREMENT OF ROAD SURFACE REFLECTION PROPERTIES\n\n
+    (WP04, 443-452)\n        \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "AN INSTRUMENT FOR THE MEASUREMENT OF ROAD SURFACE REFLECTION PROPERTIES\n\n
+    (WP04, 443-452)\n        \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/an-instrument-for-the-measurement-of-road-surface-reflection-properties-wp04-443-452?product_id=2011381
+docidentifier:
+- content: CIE WP04 443-452
   type: CIE
   primary: true
 docnumber: WP04 443-452
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: D
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: D
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      - language: en
+        script: Latn
+        initial: D
       surname:
+        language: en
+        script: Latn
         content: Corell
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: S?rensen
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Road surface reflection data in the form of standard r-tables serve as input for design calculations of road lighting installations on traffic roads. However, in several countries the use of the standard r-tables has not been verified by measurement in a long period of time, while the types of road surfaces in use have changed - for instance to road surface types with less noise from wheel passages. Because of this, a co-operation between the road administrations of the Nordic countries (abbreviated NMF) decided to construct a portable instrument to be used on selections of traffic roads within these countries in order to provide updated knowledge. This article describes the principles behind this instrument.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

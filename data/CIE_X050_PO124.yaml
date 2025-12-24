@@ -1,117 +1,91 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO124
+id: CIEx050PO124
+type: standard
+schema_version: v1.4.1
 title:
 - content: THE MEASUREMENT UNCERTAINTY OF THE IMAGING LUMINANCE MEASUREMENT DEVICES
-  format: text/plain
   type: title-main
 - content: THE MEASUREMENT UNCERTAINTY OF THE IMAGING LUMINANCE MEASUREMENT DEVICES
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po124?product_id=2579190
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO124
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po124?product_id=2579190
+docidentifier:
+- content: CIE x050-PO124
   type: CIE
   primary: true
 docnumber: x050-PO124
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Motyčka
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
         content: Škoda
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
+      forename:
+      - language: en
+        script: Latn
+        initial: P
       surname:
+        language: en
+        script: Latn
         content: Baxant
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "N"
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
       surname:
+        language: en
+        script: Latn
         content: Novák
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    An imaging luminance measuring device (ILMD) is capable of simultaneous luminance measurement in every pixel of captured image. A conventional luminance meter only measures average luminance in defined viewing angle. An imaging luminance measuring device offers more flexibility and complexity to the luminance analysis of region of interest. However, these devices require complex hardware and software calibration and the uncertainty analysis is therefore more difficult than in case of a conventional luminance meter. In this article a reader learns about the estimation of measurement uncertainties of imaging luminance measurement devices based on the digital camera. Expanded uncertainty in luminance measurement depends on settings of a digital camera and is not uniform across the image. Therefore, 3D functions are chosen for best representing of expanded uncertainty.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

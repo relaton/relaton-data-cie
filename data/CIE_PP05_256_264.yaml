@@ -1,136 +1,131 @@
 ---
-schema-version: v1.2.9
-id: CIEPP05256-264
+id: CIEPP05256264
+type: standard
+schema_version: v1.4.1
 title:
 - content: RESEARCH ON THE APPLICATION BENEFITS OF THE LED LIGHT SOURCE BASED ON THE
     ROAD LIGHTING SYSTEM FOR THE SMART CITY
-  format: text/plain
   type: title-intro
-- content: IN TIANJIN REGION AS AN EXAMPLE (PP05, 256-264)
-  format: text/plain
+- content: "IN TIANJIN REGION AS AN EXAMPLE (PP05, 256-264)\n        \n            \n
+    \             ✓\n              Most Recent"
   type: title-main
-- content: RESEARCH ON THE APPLICATION BENEFITS OF THE LED LIGHT SOURCE BASED ON THE
-    ROAD LIGHTING SYSTEM FOR THE SMART CITY - IN TIANJIN REGION AS AN EXAMPLE (PP05,
-    256-264)
-  format: text/plain
+- content: "RESEARCH ON THE APPLICATION BENEFITS OF THE LED LIGHT SOURCE BASED ON
+    THE ROAD LIGHTING SYSTEM FOR THE SMART CITY - IN TIANJIN REGION AS AN EXAMPLE
+    (PP05, 256-264)\n        \n            \n              ✓\n              Most Recent"
   type: main
-link:
-- content: https://store.accuristech.com/standards/research-on-the-application-benefits-of-the-led-light-source-based-on-the-road-lighting-system-for-the-smart-city-in-tianjin-region-as-an-example-pp05-256-264?product_id=2016252
-  type: src
-type: standard
-docid:
-- id: CIE PP05 256-264
+source:
+- type: src
+  content: https://store.accuristech.com/standards/research-on-the-application-benefits-of-the-led-light-source-based-on-the-road-lighting-system-for-the-smart-city-in-tianjin-region-as-an-example-pp05-256-264?product_id=2016252
+docidentifier:
+- content: CIE PP05 256-264
   type: CIE
   primary: true
 docnumber: PP05 256-264
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: Xiufeng
-          language:
-          - en
-          script:
-          - Latn
-      surname:
-        content: Ma
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: Lixiong
-          language:
-          - en
-          script:
-          - Latn
       surname:
+        language: en
+        script: Latn
+        content: Ma
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Xiufeng
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
         content: Wang
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: Yuanpeng
-          language:
-          - en
-          script:
-          - Latn
       surname:
+        language: en
+        script: Latn
+        content: Lixiong
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
         content: Gao
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: Juan
-          language:
-          - en
-          script:
-          - Latn
       surname:
+        language: en
+        script: Latn
+        content: Yuanpeng
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
         content: Yu
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: Junrong
-          language:
-          - en
-          script:
-          - Latn
       surname:
-        content: Ma
-        language:
-        - en
-        script:
-        - Latn
-  role:
+        language: en
+        script: Latn
+        content: Juan
+- role:
   - type: author
-- organization:
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Ma
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Junrong
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Based on the investigation and discussion of the lighting system in the smart city of Tianjin, this paper analyses the existing problems of the road lighting system and summarizes the solutions. Relying on DIALUX software to build the urban road model foundation space to simulate the urban lighting system. Analysis the data, using the DIALUX Lighting computing Wizard to find out the best application strategies for each kind of the light source. Establish the contrast light source, and combine with the new light source parameters, find out the best application strategies for the LED light source. Based on the best application strategies, analysis and simulate the data, at last calculate the relevant benefits, including the economic benefits, the energy benefits and the environmental benefits.
+
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

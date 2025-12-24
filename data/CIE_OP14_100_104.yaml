@@ -1,119 +1,96 @@
 ---
-schema-version: v1.2.9
-id: CIEOP14100-104
-title:
-- content: STUDY ON GLARE DURING PLAYING BADMINTON IN GYMNASIUMS USING LED AND HID
-    FLOODLIGHTS (OP14, 100-104)
-  format: text/plain
-  type: title-main
-- content: STUDY ON GLARE DURING PLAYING BADMINTON IN GYMNASIUMS USING LED AND HID
-    FLOODLIGHTS (OP14, 100-104)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/study-on-glare-during-playing-badminton-in-gymnasiums-using-led-and-hid-floodlights-op14-100-104?product_id=2009531
-  type: src
+id: CIEOP14100104
 type: standard
-docid:
-- id: CIE OP14 100-104
+schema_version: v1.4.1
+title:
+- content: "STUDY ON GLARE DURING PLAYING BADMINTON IN GYMNASIUMS USING LED AND HID
+    FLOODLIGHTS (OP14, 100-104)\n        \n            \n              ✓\n              Most
+    Recent"
+  type: title-main
+- content: "STUDY ON GLARE DURING PLAYING BADMINTON IN GYMNASIUMS USING LED AND HID
+    FLOODLIGHTS (OP14, 100-104)\n        \n            \n              ✓\n              Most
+    Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/study-on-glare-during-playing-badminton-in-gymnasiums-using-led-and-hid-floodlights-op14-100-104?product_id=2009531
+docidentifier:
+- content: CIE OP14 100-104
   type: CIE
   primary: true
 docnumber: OP14 100-104
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Taniguchi
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Iwata
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "N"
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
       surname:
+        language: en
+        script: Latn
         content: Shinohara
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: E
+      forename:
+      - language: en
+        script: Latn
+        initial: E
       surname:
+        language: en
+        script: Latn
         content: Mochizuki
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The purpose of this study is to model the physical lighting conditions associated with glare in gymnasiums. Subjective experiments were carried out in eight gymnasiums in Japan. The result of these subjective experiments showed that the larger the angle of the subject?s line of sight from the horizontal plane, the larger the degree of glare from the floodlight and the lower the visibility of the shuttlecock in front of the floodlight. Using the degree of glare as a dependent variable and the candidate predictor variables as independent variables, a multiple regression analysis was carried out and the multiple correlation equation was obtained. This equation shows that increasing the reflectance of the ceiling can reduce the degree of the glare.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

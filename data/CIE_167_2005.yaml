@@ -1,45 +1,45 @@
 ---
-schema-version: v1.2.9
-id: CIE167-2005
+id: CIE1672005
+type: standard
+schema_version: v1.4.1
 title:
 - content: Recommended practice for tabulating spectral data for use in colour computations
-  format: text/plain
   type: title-main
 - content: Recommended practice for tabulating spectral data for use in colour computations
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-167-2005?product_id=1233525
-  type: src
-type: standard
-docid:
-- id: CIE 167:2005
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-167-2005?product_id=1233525
+docidentifier:
+- content: CIE 167:2005
   type: CIE
   primary: true
 docnumber: 167:2005
+date:
+- type: published
+  at: '2005-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    This technical report describes several difficulties resulting from incompatibility of tables of spectral data used for computations, such as colour computations, with automatic digital computers, and provides guidance in tabulating spectral data to facilitate such applications. The recommended practices, with regard to spectral ranges, spectral intervals, etc., are based on the experience of members of the committee, who were experts in the field of colour measurement and computation.
+
+    The report is written in English, with a short summary in French and German. It consists of 21 pages with 3 figures and 12 tables.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

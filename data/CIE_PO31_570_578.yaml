@@ -1,136 +1,109 @@
 ---
-schema-version: v1.2.9
-id: CIEPO31570-578
-title:
-- content: PROBLEMS ASSOCIATED WITH THE APPLICATION OF CURRENT STANDARDS ON LIGHT
-    POLLUTION AND NEED FOR IMPROVEMENT (PO31, 570-578)
-  format: text/plain
-  type: title-main
-- content: PROBLEMS ASSOCIATED WITH THE APPLICATION OF CURRENT STANDARDS ON LIGHT
-    POLLUTION AND NEED FOR IMPROVEMENT (PO31, 570-578)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/problems-associated-with-the-application-of-current-standards-on-light-pollution-and-need-for-improvement-po31-570-578?product_id=2016307
-  type: src
+id: CIEPO31570578
 type: standard
-docid:
-- id: CIE PO31 570-578
+schema_version: v1.4.1
+title:
+- content: "PROBLEMS ASSOCIATED WITH THE APPLICATION OF CURRENT STANDARDS ON LIGHT
+    POLLUTION AND NEED FOR IMPROVEMENT (PO31, 570-578)\n        \n            \n              ✓\n
+    \             Most Recent"
+  type: title-main
+- content: "PROBLEMS ASSOCIATED WITH THE APPLICATION OF CURRENT STANDARDS ON LIGHT
+    POLLUTION AND NEED FOR IMPROVEMENT (PO31, 570-578)\n        \n            \n              ✓\n
+    \             Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/problems-associated-with-the-application-of-current-standards-on-light-pollution-and-need-for-improvement-po31-570-578?product_id=2016307
+docidentifier:
+- content: CIE PO31 570-578
   type: CIE
   primary: true
 docnumber: PO31 570-578
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Han
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: W
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: W
       surname:
+        language: en
+        script: Latn
         content: Lee
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Yoo
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: Hoon
-          language:
-          - en
-          script:
-          - Latn
       surname:
+        language: en
+        script: Latn
         content: Kim
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- organization:
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Hoon
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    People's desire for more pleasant living conditions has grown even more in recent years in Asia. However, along with sharp increase in use of night-time lighting equipment due to growth in economically active population and changes in people's lifestyles, the ill effects from light pollution have also increased. Countries around the world have come to recognize light pollution as a social problem and have been implementing their own regulation measures based on international guidelines such as CIE 150 and IDA/IES MLO. Since the enactment of "Light Pollution by Artificial Lighting Prevention Act" in 2012, numerous fact-finding studies, researches, and environmental assessments had been and are being carried out on a national level in Korea. In this study, through application of light pollution standards to current state of light pollution caused by advertisement lightings, we analysed the problems associated with light pollution's characteristics, and proposed improvement measures.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

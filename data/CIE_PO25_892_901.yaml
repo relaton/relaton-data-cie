@@ -1,129 +1,96 @@
 ---
-schema-version: v1.2.9
-id: CIEPO25892-901
-title:
-- content: |-
-    STUDY ON VISIBILITY THRESHOLD CURVE OF CIRCULAR OBJECTS AND VISIBILITY ESTIMATION METHOD USING C-A GRAPH
-
-
-
-
-     (PO25, 892-901)
-  format: text/plain
-  type: title-main
-- content: |-
-    STUDY ON VISIBILITY THRESHOLD CURVE OF CIRCULAR OBJECTS AND VISIBILITY ESTIMATION METHOD USING C-A GRAPH
-
-
-
-
-     (PO25, 892-901)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/study-on-visibility-threshold-curve-of-circular-objects-and-visibility-estimation-method-using-c-a-graph-po25-892-901?product_id=2011166
-  type: src
+id: CIEPO25892901
 type: standard
-docid:
-- id: CIE PO25 892-901
+schema_version: v1.4.1
+title:
+- content: "STUDY ON VISIBILITY THRESHOLD CURVE OF CIRCULAR OBJECTS AND VISIBILITY
+    ESTIMATION METHOD USING C-A GRAPH\n\n\n\n\n (PO25, 892-901)\n        \n            \n
+    \             ✓\n              Most Recent"
+  type: title-main
+- content: "STUDY ON VISIBILITY THRESHOLD CURVE OF CIRCULAR OBJECTS AND VISIBILITY
+    ESTIMATION METHOD USING C-A GRAPH\n\n\n\n\n (PO25, 892-901)\n        \n            \n
+    \             ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/study-on-visibility-threshold-curve-of-circular-objects-and-visibility-estimation-method-using-c-a-graph-po25-892-901?product_id=2011166
+docidentifier:
+- content: CIE PO25 892-901
   type: CIE
   primary: true
 docnumber: PO25 892-901
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Kato
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Nakamura
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Kamiguchi
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Iwata
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    It is vitally important to estimate visibility in order to maintain a visual safety especially for low-vision people. Authors have agreed that it is reasonable to establish a method to estimate visibility of objects using luminance images, and proposed C-A graph (Nakamura et al. 2016) based on contrast profile method (Nakamura et al. 2003). C-A graph presents luminance contrast and logarithmic average on vertical and horizontal axes for varying object sizes respectively. In this study, two experiments were conducted in order to consider visibility estimation method using C-A graph. The first experiment was conducted to obtain visibility threshold conditions and the second experiment was conducted to examine the relationship between visibility threshold values and visibility evaluation.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

@@ -1,163 +1,123 @@
 ---
-schema-version: v1.2.9
-id: CIEPP43758-763
-title:
-- content: |-
-    ANALYSIS OF THE LIGHTING INFLUENCE IN THE SPARKLE DETECTION BY APPLYING STATISTICAL DESIGN OF EXPERIMENTS
-    (PP43, 758-763)
-  format: text/plain
-  type: title-main
-- content: |-
-    ANALYSIS OF THE LIGHTING INFLUENCE IN THE SPARKLE DETECTION BY APPLYING STATISTICAL DESIGN OF EXPERIMENTS
-    (PP43, 758-763)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/analysis-of-the-lighting-influence-in-the-sparkle-detection-by-applying-statistical-design-of-experiments-pp43-758-763?product_id=2011372
-  type: src
+id: CIEPP43758763
 type: standard
-docid:
-- id: CIE PP43 758-763
+schema_version: v1.4.1
+title:
+- content: "ANALYSIS OF THE LIGHTING INFLUENCE IN THE SPARKLE DETECTION BY APPLYING
+    STATISTICAL DESIGN OF EXPERIMENTS\n(PP43, 758-763)\n        \n            \n              ✓\n
+    \             Most Recent"
+  type: title-main
+- content: "ANALYSIS OF THE LIGHTING INFLUENCE IN THE SPARKLE DETECTION BY APPLYING
+    STATISTICAL DESIGN OF EXPERIMENTS\n(PP43, 758-763)\n        \n            \n              ✓\n
+    \             Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/analysis-of-the-lighting-influence-in-the-sparkle-detection-by-applying-statistical-design-of-experiments-pp43-758-763?product_id=2011372
+docidentifier:
+- content: CIE PP43 758-763
   type: CIE
   primary: true
 docnumber: PP43 758-763
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: O
+      forename:
+      - language: en
+        script: Latn
+        initial: O
       surname:
+        language: en
+        script: Latn
         content: Gomez
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: E
+      forename:
+      - language: en
+        script: Latn
+        initial: E
       surname:
+        language: en
+        script: Latn
         content: Perales
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: B
+      forename:
+      - language: en
+        script: Latn
+        initial: B
       surname:
+        language: en
+        script: Latn
         content: Mico
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Hurabait
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: V
+      forename:
+      - language: en
+        script: Latn
+        initial: V
       surname:
+        language: en
+        script: Latn
         content: Viqueira
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: F
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Martinez-Verdu
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    In this work we have studied how the external or environmental variables impact in the sparkle perception. Setting the structural variables of the samples and only varying the illumination source, its illuminance and the measurement geometry, we were able to analyze thanks to the design of experiments what is the relevance of these variables and the interaction grade among them on the sparkle detection distance. It has been found that any slight variation in any of the variables studied induces a variation in the way in which we detect sparkle on the sample. The two most relevant variables are the measurement geometry and illuminance, although between both stands out clearly the influence of geometry when it comes to detecting the sparkle texture effect. For low illuminance levels (800 lx) and for the 45°x:0° (or, industrially, 45as45) measurement
+    geometry, the observer is able to detect sparkle at a greater distance comparing with medium and high illuminance levels (2400 and 5000 lx). Finally, it is also interesting to indicate the low influence of the lamp, or colour temperature (CCT), when detecting the sparkle texture effect.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

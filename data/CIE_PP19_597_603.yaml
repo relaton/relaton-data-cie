@@ -1,161 +1,118 @@
 ---
-schema-version: v1.2.9
-id: CIEPP19597-603
-title:
-- content: |-
-    FIELD MEASUREMENT OF NET-ZERO ENERGY RENOVATION BUILDING
-
-
-     (PP19, 597-603)
-  format: text/plain
-  type: title-main
-- content: |-
-    FIELD MEASUREMENT OF NET-ZERO ENERGY RENOVATION BUILDING
-
-
-     (PP19, 597-603)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/field-measurement-of-net-zero-energy-renovation-building-pp19-597-603?product_id=2011274
-  type: src
+id: CIEPP19597603
 type: standard
-docid:
-- id: CIE PP19 597-603
+schema_version: v1.4.1
+title:
+- content: "FIELD MEASUREMENT OF NET-ZERO ENERGY RENOVATION BUILDING\n\n\n (PP19,
+    597-603)\n        \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "FIELD MEASUREMENT OF NET-ZERO ENERGY RENOVATION BUILDING\n\n\n (PP19,
+    597-603)\n        \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/field-measurement-of-net-zero-energy-renovation-building-pp19-597-603?product_id=2011274
+docidentifier:
+- content: CIE PP19 597-603
   type: CIE
   primary: true
 docnumber: PP19 597-603
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: Sakuma
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Iwata
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
+      forename:
+      - language: en
+        script: Latn
+        initial: H
       surname:
+        language: en
+        script: Latn
         content: Takai
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Tanaka
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Kikuchi
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
+      forename:
+      - language: en
+        script: Latn
+        initial: H
       surname:
+        language: en
+        script: Latn
         content: Kawakami
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    In this paper, a field survey and subjective assessment of the visual environment of an NZEB (Net-Zero Energy Building) renovation were carried out. In the subject building , LED taskambient lighting and venetian blinds were automatically controlled. When daylight provided enough light, areas near the facades showed higher desk illuminance than that at the centre. Generally, 300 lx of desk illuminance was kept on both the sunny measurement days and the cloudy measurement day. In the absence of direct sunlight, the fully-up blinds increased the luminance of the ceiling and saved energy for lighting while only slightly increasing glare. The
+    subjective assessment showed that subjects? evaluations about room and desktop brightness were neutral (neither bright nor dark), when the northwest blinds were both fully-up and fullydown with slats at a 0 degrees angle.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

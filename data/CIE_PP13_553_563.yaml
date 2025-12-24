@@ -1,105 +1,84 @@
 ---
-schema-version: v1.2.9
-id: CIEPP13553-563
-title:
-- content: |-
-    HDR IMAGES FOR GLARE EVALUATION: COMPARISON BETWEEN DSLR CAMERAS, AN ABSOLUTE CALIBRATED LUMINANCE CAMERA AND A SPOT LUMINANCE METER
-
-     (PP13, 553-563)
-  format: text/plain
-  type: title-main
-- content: |-
-    HDR IMAGES FOR GLARE EVALUATION: COMPARISON BETWEEN DSLR CAMERAS, AN ABSOLUTE CALIBRATED LUMINANCE CAMERA AND A SPOT LUMINANCE METER
-
-     (PP13, 553-563)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/hdr-images-for-glare-evaluation-comparison-between-dslr-cameras-an-absolute-calibrated-luminance-camera-and-a-spot-luminance-meter-pp13-553-563?product_id=2011269
-  type: src
+id: CIEPP13553563
 type: standard
-docid:
-- id: CIE PP13 553-563
+schema_version: v1.4.1
+title:
+- content: "HDR IMAGES FOR GLARE EVALUATION: COMPARISON BETWEEN DSLR CAMERAS, AN ABSOLUTE
+    CALIBRATED LUMINANCE CAMERA AND A SPOT LUMINANCE METER\n\n (PP13, 553-563)\n        \n
+    \           \n              ✓\n              Most Recent"
+  type: title-main
+- content: "HDR IMAGES FOR GLARE EVALUATION: COMPARISON BETWEEN DSLR CAMERAS, AN ABSOLUTE
+    CALIBRATED LUMINANCE CAMERA AND A SPOT LUMINANCE METER\n\n (PP13, 553-563)\n        \n
+    \           \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/hdr-images-for-glare-evaluation-comparison-between-dslr-cameras-an-absolute-calibrated-luminance-camera-and-a-spot-luminance-meter-pp13-553-563?product_id=2011269
+docidentifier:
+- content: CIE PP13 553-563
   type: CIE
   primary: true
 docnumber: PP13 553-563
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
+      forename:
+      - language: en
+        script: Latn
+        initial: P
       surname:
+        language: en
+        script: Latn
         content: Hansen
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
         content: Wienold
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Andersen
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    User calibrated digital single-lens reflex (DSLR) cameras are being used in visual comfort and especially for glare evaluations as affordable alternatives to high-end luminance cameras calibrated by the manufacturer itself. While the typical way for a user calibrated camera is the application of an automatic calibration algorithm, manufacturers, on the other hand, tend to rely on a calibration process for their cameras based on measurements performed for each exposure setting (absolute calibration). This paper investigates the accuracy of luminance maps derived from HDR images captured with auto-calibrated DSLR cameras. More
+    specifically, the aim of this study is to compare the luminance values obtained with an autocalibrated DSLR camera for different light scenarios on one hand to a commercially available camera (that benefited from an absolute calibration) and on the other hand to a handheld luminance meter, considered as the reference. It was found that there are only small differences when luminance values estimated with auto-calibrated DSLR cameras are compared with those obtained for the commercially calibrated camera for low to mid-range luminance values (50 ? 5000 cd/m2). However, for higher luminance values (>5000 cd/m2), HDR images from the auto-calibrated camera show differences of up to 20 % when compared to the manufacturer calibrated camera, which could be problematic for glare investigations. More studies specifically focusing on high luminances are thus needed, so as to determine more conclusively whether certain limitations should apply to the use of automatically calibrated DSLR cameras for glare evaluations.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

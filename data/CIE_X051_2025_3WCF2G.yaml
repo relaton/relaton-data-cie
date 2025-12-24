@@ -1,0 +1,81 @@
+---
+id: CIEx05120253wcf2g
+type: standard
+schema_version: v1.4.1
+title:
+- content: 'CLOSED-LOOP PROPORTIONAL DAYLIGHT-LINKED CONTROL SYSTEMS: HOW TO CALIBRATE
+    THEM FOR INTEGRATIVE LIGHTING PURPOSES?'
+  type: title-main
+- content: 'CLOSED-LOOP PROPORTIONAL DAYLIGHT-LINKED CONTROL SYSTEMS: HOW TO CALIBRATE
+    THEM FOR INTEGRATIVE LIGHTING PURPOSES?'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-3wcf2g?product_id=3039587
+docidentifier:
+- content: CIE x051:2025/3wcf2g
+  type: CIE
+  primary: true
+docnumber: x051:2025/3wcf2g
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Bellia
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Diglio
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Fragliasso
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Effective integration between daylight and electric light is of paramount importance for high-quality lighting. Currently, daylight-linked control systems are calibrated to guarantee required work-plane illuminance while saving energy, but how can they be calibrated if integrative lighting purposes must be fulfilled? Based on on-field measurements, the functioning of a closed-loop proportional system is simulated considering 3 electric light CCTs and by adopting 4 different calibration strategies: 1 to achieve work-plane illuminance equal to 500 lx and 3 to guarantee melanopic equivalent daylight illuminance (melEDI) equal to 250 lx. Results show that if the system is calibrated to provide adequate work-plane illuminance, sufficient melEDI values are achieved with 6500 K only; if the system is calibrated to achieve melEDI=250 lx, very high work-plane illuminance levels occur in some cases depending on the adopted strategy. Overall, the choice of CCT is crucial to guarantee the simultaneous fulfilment of visual and circadian needs.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

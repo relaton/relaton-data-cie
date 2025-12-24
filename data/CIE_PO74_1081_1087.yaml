@@ -1,102 +1,96 @@
 ---
-schema-version: v1.2.9
-id: CIEPO741081-1087
-title:
-- content: |-
-    A STUDY ON THE LEDS COMBINATION RATIO OF WINDOW LIGHTING FOR COLOUR TEMPERATURE AND CIRCADIAN ACTION FACTOR OF REAL SKY
-
-     (PO74, 1081-1087)
-  format: text/plain
-  type: title-main
-- content: |-
-    A STUDY ON THE LEDS COMBINATION RATIO OF WINDOW LIGHTING FOR COLOUR TEMPERATURE AND CIRCADIAN ACTION FACTOR OF REAL SKY
-
-     (PO74, 1081-1087)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/a-study-on-the-leds-combination-ratio-of-window-lighting-for-colour-temperature-and-circadian-action-factor-of-real-sky-po74-1081-1087?product_id=2011222
-  type: src
+id: CIEPO7410811087
 type: standard
-docid:
-- id: CIE PO74 1081-1087
+schema_version: v1.4.1
+title:
+- content: "A STUDY ON THE LEDS COMBINATION RATIO OF WINDOW LIGHTING FOR COLOUR TEMPERATURE
+    AND CIRCADIAN ACTION FACTOR OF REAL SKY\n\n (PO74, 1081-1087)\n        \n            \n
+    \             ✓\n              Most Recent"
+  type: title-main
+- content: "A STUDY ON THE LEDS COMBINATION RATIO OF WINDOW LIGHTING FOR COLOUR TEMPERATURE
+    AND CIRCADIAN ACTION FACTOR OF REAL SKY\n\n (PO74, 1081-1087)\n        \n            \n
+    \             ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/a-study-on-the-leds-combination-ratio-of-window-lighting-for-colour-temperature-and-circadian-action-factor-of-real-sky-po74-1081-1087?product_id=2011222
+docidentifier:
+- content: CIE PO74 1081-1087
   type: CIE
   primary: true
 docnumber: PO74 1081-1087
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: In-Tae
-          language:
-          - en
-          script:
-          - Latn
       surname:
+        language: en
+        script: Latn
         content: Kim
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: Seong-Kwan
-          language:
-          - en
-          script:
-          - Latn
       surname:
+        language: en
+        script: Latn
+        content: In-Tae
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
         content: Hong
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: An-Seop
-          language:
-          - en
-          script:
-          - Latn
       surname:
-        content: Choi
-        language:
-        - en
-        script:
-        - Latn
-  role:
+        language: en
+        script: Latn
+        content: Seong-Kwan
+- role:
   - type: author
-- organization:
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Choi
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: An-Seop
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Bluer colour of luminous environment perceived by occupants increases circadian actionfactor that indicates the degree of effect on circadian rhythm, which affects suppression of melatonin hormone secretion. Suppression of melatonin hormone secretion causes adverse effects such as sleep disorder, melancholia and growth impairment. Therefore, to design appropriate human centric lighting, it would be desirable to provide lighting similar to daylight. The spectrum matching methodology proposed in previous studies offers monochromatic artificial lighting that resembles spectrum of daylight. If the methodology is applied to artificial luminous ceiling or artificial window lighting installed for communication with the outside without daylight, monochromatic light cannot be expected to give satisfactory communication effect for occupants even if its spectrum is same as daylight. Accordingly, this study developed a methodology for calculating combination ratio of multi LED chips matched with spectrum of daylight and embodying non-monochromatic real sky image for artificial luminous ceiling or artificial window lighting that can be applied to underground space, windowless space, submarine, and so in.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

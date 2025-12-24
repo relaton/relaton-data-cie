@@ -1,137 +1,105 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-OP086
+id: CIEx050OP086
+type: standard
+schema_version: v1.4.1
 title:
 - content: EVALUATION OF LIGHTING ENVIRONMENT IN A GYMNASIUM FOR VARIOUS ACTIVITIES
     DURING USE OF AN EVACUATION CENTER
-  format: text/plain
   type: title-main
 - content: EVALUATION OF LIGHTING ENVIRONMENT IN A GYMNASIUM FOR VARIOUS ACTIVITIES
     DURING USE OF AN EVACUATION CENTER
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-op086?product_id=2579037
-  type: src
-type: standard
-docid:
-- id: CIE x050-OP086
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op086?product_id=2579037
+docidentifier:
+- content: CIE x050-OP086
   type: CIE
   primary: true
 docnumber: x050-OP086
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
+      forename:
+      - language: en
+        script: Latn
+        initial: H
       surname:
+        language: en
+        script: Latn
         content: Yamaguchi
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Oe
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Kurobe
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Akizuki
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "N"
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
       surname:
+        language: en
+        script: Latn
         content: Yoshizawa
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Japan is one of the most disaster-prone countries in the world, and in the event of a large-scale disaster such as a great earthquake, many evacuees are forced to live in evacuation centers for extended periods of time. However, gymnasiums, which are often used as evacuation centers in Japan, are not designed primarily for evacuation, and are not necessarily well equipped as living spaces during disasters. In this study, from the viewpoint of providing basic data for lighting design in evacuation centers, the relationship between the spatial brightness evaluation of evacuation center and the impression evaluation by assumed several activities in various lighting levels and lighting patterns was summarized.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

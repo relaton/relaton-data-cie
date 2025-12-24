@@ -1,0 +1,117 @@
+---
+id: CIEx0512025gj5nat
+type: standard
+schema_version: v1.4.1
+title:
+- content: ROAD SURFACE LUMINANCE OF THE TUNNEL INTERIOR LIGHTING WITH SOOT AND SMOKE
+    EXHAUSTED FROM VEHICLES
+  type: title-main
+- content: ROAD SURFACE LUMINANCE OF THE TUNNEL INTERIOR LIGHTING WITH SOOT AND SMOKE
+    EXHAUSTED FROM VEHICLES
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-gj5nat?product_id=3039908
+docidentifier:
+- content: CIE x051:2025/gj5nat
+  type: CIE
+  primary: true
+docnumber: x051:2025/gj5nat
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Maruyama
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Aoki
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Tsuji
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Fujiwara
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Matsuoka
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: ITO
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Under any tunnel interior lighting conditions, the required road surface luminance taking into account the effect of soot and smoke exhausted from vehicles on the visibility of obstacles on the road has not been clarified. In this study, the total revealing power of the visibility index is calculated using a model for calculating the luminance of a visual object in soot and smoke exhausted from vehicles and a model that modified the method for calculating the luminance difference threshold in a non-uniform visual environment. The required road surface luminance is shown for any given air transmittance in a tunnel, taking the total revealing power under Japan's current lighting standards as the required value. The road surface luminance can be adjusted based on the air transmittance inside the tunnel, which changes over time, it is possible to reduce energy consumption while ensuring safety.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

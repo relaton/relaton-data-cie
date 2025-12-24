@@ -1,47 +1,45 @@
 ---
-schema-version: v1.2.9
-id: CIEISO-CIETR3092-2023
+id: CIEISOCIETR30922023
+type: standard
+schema_version: v1.4.1
 title:
 - content: Light and lighting -- Energy performance of lighting in buildings -- Explanation
     and justification of ISO/CIE 20086
-  format: text/plain
   type: title-main
 - content: Light and lighting -- Energy performance of lighting in buildings -- Explanation
     and justification of ISO/CIE 20086
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-iso-cie-tr-3092-2023-e?product_id=2580801
-  type: src
-type: standard
-docid:
-- id: CIE ISO/CIE TR 3092:2023
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-iso-cie-tr-3092-2023-e?product_id=2580801
+docidentifier:
+- content: CIE ISO/CIE TR 3092:2023
   type: CIE
   primary: true
 docnumber: ISO/CIE TR 3092:2023
+date:
+- type: published
+  at: '2023-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
+- language: en
+  script: Latn
+  content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
     printing, and downloading. For more details on these restrictions refer to: Help
     Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

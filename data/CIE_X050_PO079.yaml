@@ -1,101 +1,81 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO079
+id: CIEx050PO079
+type: standard
+schema_version: v1.4.1
 title:
 - content: A FIRST APPROACH TO A PREDICTIVE MODEL OF THE SKY SPECTRAL POWER DISTRIBUTION
     IN THE MEDITERRANEAN AREA
-  format: text/plain
   type: title-main
 - content: A FIRST APPROACH TO A PREDICTIVE MODEL OF THE SKY SPECTRAL POWER DISTRIBUTION
     IN THE MEDITERRANEAN AREA
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po079?product_id=2579123
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO079
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po079?product_id=2579123
+docidentifier:
+- content: CIE x050-PO079
   type: CIE
   primary: true
 docnumber: x050-PO079
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Aguilar-Carrasco
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: I
+      forename:
+      - language: en
+        script: Latn
+        initial: I
       surname:
+        language: en
+        script: Latn
         content: Acosta
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Domínguez-Amarillo
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The use of daylight inside buildings has always been a concern due to its impact on the users’ health and comfort. Thus, the definition of the sky luminance distribution under different situations becomes crucial and the International Commission on Illumination (CIE) establishes 15 different sky luminance distribution models. However, it allows the calculation of metrics related to visual comfort, but it is not enough to assess the impact of light on circadian rhythms, for which it is necessary to know the spectrum of the light source. The CIE establishes the standard illuminant series D, theoretical sources which represent the daylight spectra, but under the same sky conditions, different spectrum can be obtained depending on the location, solar position or orientation. This paper presents a first approach for defining a predictive model of the sky spectrum to determine it as a function of the sky type, solar position, location and orientation.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

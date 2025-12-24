@@ -1,0 +1,88 @@
+---
+id: CIEx05120254hkuqe
+type: standard
+schema_version: v1.4.1
+title:
+- content: 'ASSESSING MELANOPIC ILLUMINANCE IN HOMES: FROM DESIGN TO CONSTRUCTION'
+  type: title-main
+- content: 'ASSESSING MELANOPIC ILLUMINANCE IN HOMES: FROM DESIGN TO CONSTRUCTION'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-4hkuqe?product_id=3039590
+docidentifier:
+- content: CIE x051:2025/4hkuqe
+  type: CIE
+  primary: true
+docnumber: x051:2025/4hkuqe
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      - language: en
+        script: Latn
+        initial: O
+      surname:
+        language: en
+        script: Latn
+        content: Beltrán
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Xiao
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Tumpa
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This paper presents a detailed analysis of the non-visual daylighting performance of a newly constructed, carbon-neutral, single-story home-office located in the humid subtropical climate of East Texas, USA. The house was simulated in ClimateStudio to generate climate-based annual hourly illuminance data, and in ALFA to estimate the circadian impact of light. On-site photometric and spectral measurements were conducted to compare with simulation outputs and assess compliance with recommended Melanopic Equivalent Daylight Illuminance (M-EDI) thresholds. Results indicate that M-EDI levels at office workstations and in the living-dining areas exceed the 250 lux minimum recommendation by a factor of 2 to 6 under clear sky conditions. Photopic illuminance levels also surpass the requirements specified by LEED and WELL standards for daylighting credits. The house design features small windows and minimal shading to manage glare and thermal gains.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

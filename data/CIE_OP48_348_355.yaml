@@ -1,105 +1,82 @@
 ---
-schema-version: v1.2.9
-id: CIEOP48348-355
-title:
-- content: |-
-    THE APPLICATION OF MEAN ROOM SURFACE EXITANCE INTO LIGHTING DESIGN PRACTICE
-
-     (OP48, 348-355)
-  format: text/plain
-  type: title-main
-- content: |-
-    THE APPLICATION OF MEAN ROOM SURFACE EXITANCE INTO LIGHTING DESIGN PRACTICE
-
-     (OP48, 348-355)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/the-application-of-mean-room-surface-exitance-into-lighting-design-practice-op48-348-355?product_id=2010520
-  type: src
+id: CIEOP48348355
 type: standard
-docid:
-- id: CIE OP48 348-355
+schema_version: v1.4.1
+title:
+- content: "THE APPLICATION OF MEAN ROOM SURFACE EXITANCE INTO LIGHTING DESIGN PRACTICE\n\n
+    (OP48, 348-355)\n        \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "THE APPLICATION OF MEAN ROOM SURFACE EXITANCE INTO LIGHTING DESIGN PRACTICE\n\n
+    (OP48, 348-355)\n        \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/the-application-of-mean-room-surface-exitance-into-lighting-design-practice-op48-348-355?product_id=2010520
+docidentifier:
+- content: CIE OP48 348-355
   type: CIE
   primary: true
 docnumber: OP48 348-355
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Durante
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
         content: Duff
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Kelly
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Current lighting design practice related to most indoor environments has been achieved through the same design methods and guidelines originally developed over a century ago. This needs to change because visual needs of people in modern ways of life are evolving; demands for better quality and reduced energy are increasing. An alternative exitance-based lighting design methodology has been suggested with the intention of achieving better quality lighting. Perceived Adequacy of Illumination (PAI) and Illumination Hierarchy (IH) criteria are proposed as the basis of this new method. There are two metrics associated with these criteria: Mean Room Surface Exitance (MRSE) and Target - Ambient Illuminance Ratio (TAIR). The MRSE metric has been examined to determine if it is better and whether it can be easily evaluated and measured. This paper focuses on measurement of MRSR and provides data about spatial or surrounding brightness and MRSE levels in real life installations designed with existing methods.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

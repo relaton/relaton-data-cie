@@ -1,45 +1,47 @@
 ---
-schema-version: v1.2.9
-id: CIE066-1984
+id: CIE0661984
+type: standard
+schema_version: v1.4.1
 title:
 - content: Road surfaces and lighting (joint technical report CIE/PIARC)
-  format: text/plain
   type: title-main
 - content: Road surfaces and lighting (joint technical report CIE/PIARC)
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-066-1984?product_id=1209998
-  type: src
-type: standard
-docid:
-- id: CIE 066-1984
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-066-1984?product_id=1209998
+docidentifier:
+- content: CIE 066-1984
   type: CIE
   primary: true
 docnumber: 066-1984
+date:
+- type: published
+  at: '1984-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    This technical report deals with the relationship between the photometric characteristics (reflection properties) of road surfaces and their construction (compositions and texture). It was drafted by CIE experts on reflection by road surfaces in collaboration with PIARC experts on road construction, and is intended as a guide for road constructors and for lighting designers.
+
+    The report is a summary of recommendations contained in CIE technical reports, and gives supplementary information not previously published by CIE or PIARC. Some of this information is provisional. It is hoped that the report will stimulate the collection of additional data that lead to more accurate information.
+
+    The publication contains 74 pages, 35 figures and 21 tables.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

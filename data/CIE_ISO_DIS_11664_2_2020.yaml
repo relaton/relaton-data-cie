@@ -1,118 +1,103 @@
 ---
-schema-version: v1.2.9
-id: CIEISODIS11664-2-2020
+id: CIEISODIS1166422020
+type: standard
+schema_version: v1.4.1
 title:
 - content: Colorimetry
-  format: text/plain
   type: title-main
 - content: 'Part 2: CIE standard illuminants'
-  format: text/plain
   type: title-part
 - content: 'Colorimetry - Part 2: CIE standard illuminants'
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-iso-dis-11664-2-2020?product_id=2103147
-  type: src
-type: standard
-docid:
-- id: CIE ISO DIS 11664-2:2020
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-iso-dis-11664-2-2020?product_id=2103147
+docidentifier:
+- content: CIE ISO DIS 11664-2:2020
   type: CIE
   primary: true
-docnumber: ISO DIS 11664-2:2020
+docnumber: DIS 11664-2:2020
+date:
+- type: published
+  at: '2020-01-31'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    CIE ISO DIS 11664-2:2020 was prepared by the International Commission on Illumination (CIE) in cooperation with Technical Committee ISO/TC 274, Light and lighting.
+    This Draft International Standard is a revision of ISO 11664-2:2007 | CIE S 014-2:2006. It will cancel and replace ISO 11664-2:2007 | CIE S 014-2:2006 and will become the first edition of ISO/CIE 11664-2. The document has been technically and editorially revised as per current ISO and CIE rules and the references have been updated.
+    The document defines the following three standard illuminants.
+                  See more
 relation:
 - type: updates
   bibitem:
-    id: CIEISO11664-2-2022
     title:
     - content: Colorimetry
-      format: text/plain
       type: title-main
     - content: 'Part 2: CIE standard illuminants'
-      format: text/plain
       type: title-part
     - content: 'Colorimetry - Part 2: CIE standard illuminants'
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-iso-11664-2-2022?product_id=2502988
-      type: src
-    docid:
-    - id: CIE ISO 11664-2:2022
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-iso-11664-2-2022?product_id=2502988
+    docidentifier:
+    - content: CIE ISO 11664-2:2022
       type: CIE
       primary: true
     date:
     - type: published
-      value: '2022-08-01'
-    revdate: '2022-08-01'
+      at: '2022-08-01'
 - type: updates
   bibitem:
-    id: CIES014-2-E-2006ISO11664-2-2007E
     title:
     - content: Colorimetry
-      format: text/plain
       type: title-main
     - content: 'Part 2: CIE standard illuminants'
-      format: text/plain
       type: title-part
     - content: 'Colorimetry - Part 2: CIE standard illuminants'
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-014-2-e-2006-iso-11664-2-2007-e?product_id=1601626
-      type: src
-    docid:
-    - id: CIE S 014-2/E:2006 (ISO 11664-2:2007(E))
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-014-2-e-2006-iso-11664-2-2007-e?product_id=1601626
+    docidentifier:
+    - content: CIE S 014-2/E:2006 (ISO 11664-2:2007(E))
       type: CIE
       primary: true
     date:
     - type: published
-      value: '2008-11-01'
-    revdate: '2008-11-01'
+      at: '2008-11-01'
 - type: updates
   bibitem:
-    id: CIES014-2-E-2006ISO10526-2007E
     title:
     - content: CIE standard illuminants for colorimetry
-      format: text/plain
       type: title-main
     - content: CIE standard illuminants for colorimetry
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-014-2-e-2006-iso-10526-2007-e?product_id=1529665
-      type: src
-    docid:
-    - id: CIE S 014-2/E:2006 (ISO 10526:2007(E))
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-014-2-e-2006-iso-10526-2007-e?product_id=1529665
+    docidentifier:
+    - content: CIE S 014-2/E:2006 (ISO 10526:2007(E))
       type: CIE
       primary: true
     date:
     - type: published
-      value: '2007-10-15'
-    revdate: '2007-10-15'
+      at: '2007-10-15'
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

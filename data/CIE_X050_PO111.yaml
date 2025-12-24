@@ -1,155 +1,117 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO111
+id: CIEx050PO111
+type: standard
+schema_version: v1.4.1
 title:
 - content: EVALUATION OF DISCOMFORT GLARE IN ROAD LIGHTING USING FIXED LOW MOUNTING
     HEIGHT LUMINAIRES
-  format: text/plain
   type: title-main
 - content: EVALUATION OF DISCOMFORT GLARE IN ROAD LIGHTING USING FIXED LOW MOUNTING
     HEIGHT LUMINAIRES
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po111?product_id=2579146
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO111
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po111?product_id=2579146
+docidentifier:
+- content: CIE x050-PO111
   type: CIE
   primary: true
 docnumber: x050-PO111
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Maehama
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
+      forename:
+      - language: en
+        script: Latn
+        initial: H
       surname:
+        language: en
+        script: Latn
         content: Futatsuya
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Kawamata
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Miyamato
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Hayakawa
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
+      forename:
+      - language: en
+        script: Latn
+        initial: H
       surname:
+        language: en
+        script: Latn
         content: Ito
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    An experiment was conducted in a dark room to clarify the evaluation method for suppressing discomfort glare for fixed low mounting height luminaires lighting system (LMHL) in road lighting. Experiments were performed by a method of adjustment that set the output of the glare source to acceptable discomfort and a method of constant stimuli using a deBoer rating. As an evaluation index of discomfort glare, vertical illuminance (Evg) at a height of 1,2 m above the road at the boundary between the lane and shoulder was defined. Experimental results show that Evg correlates with deBoer rating. Also, the Evg (relative value) for suppressing the discomfort glare to an acceptable level for the observer's adaptation luminance and the acceptable Evg (absolute value) at an adaptation luminance of 0,5 cd·m-2 were obtained from the experiment. Using these, we propose to set the acceptable Evg according to the condition of the average road luminance in the design of road lighting.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

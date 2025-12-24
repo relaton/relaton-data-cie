@@ -1,0 +1,69 @@
+---
+id: CIEx0512025fmj9a9
+type: standard
+schema_version: v1.4.1
+title:
+- content: EXPLORING THE LIGHTING ENVIRONMENT OF RESEARCH AND DEVELOPMENT LABORATORIES
+    FOR DRIVING AND RIDING EXPERIENCE IN THE SMART TRANSPORTATION ERA
+  type: title-main
+- content: EXPLORING THE LIGHTING ENVIRONMENT OF RESEARCH AND DEVELOPMENT LABORATORIES
+    FOR DRIVING AND RIDING EXPERIENCE IN THE SMART TRANSPORTATION ERA
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-fmj9a9?product_id=3039159
+docidentifier:
+- content: CIE x051:2025/fmj9a9
+  type: CIE
+  primary: true
+docnumber: x051:2025/fmj9a9
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Liu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: X
+      surname:
+        language: en
+        script: Latn
+        content: Zhang
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    https://doi.org/10.25039/x051.2025/fmj9a9With the rapid development of smart transportation and autonomous driving technologies, creating realistic and immersive lighting conditions in vehicular research and development laboratories has become crucial for understanding the effects of in-vehicle lighting on visual and non-visual perceptions, comfort, health and overall experience. However, current experimental setups either lack immersion or fail to reproduce high-intensity dynamic light sources such as sunlight and headlights. To address this, field measurements of luminance distributions in urban driving scenarios were conducted, and key characteristics of in-vehicle lighting were identified, including variations influenced by natural and artificial light, vehicle directions, times of day, and obstructions such as buildings. Based on these findings, the paper proposes a novel laboratory design to better reproduce real-world lighting while ensuring essential immersion. The laboratory setup will support more precise investigations into in-vehicle lighting, providing technical support for optimising future smart transportation systems and improving driving and riding experience.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

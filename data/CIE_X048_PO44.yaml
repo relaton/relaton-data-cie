@@ -1,99 +1,79 @@
 ---
-schema-version: v1.2.9
-id: CIEx048-PO44
+id: CIEx048PO44
+type: standard
+schema_version: v1.4.1
 title:
 - content: CREATING A SENSE OF THE UNUSUAL WITH CHROMATIC LIGHT
-  format: text/plain
   type: title-main
 - content: CREATING A SENSE OF THE UNUSUAL WITH CHROMATIC LIGHT
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x048-po44?product_id=2240851
-  type: src
-type: standard
-docid:
-- id: CIE x048-PO44
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-po44?product_id=2240851
+docidentifier:
+- content: CIE x048-PO44
   type: CIE
   primary: true
 docnumber: x048-PO44
+date:
+- type: published
+  at: '2021-09-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Inoue
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Kaba
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
         content: Heo
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Due to the influence of COVID-19, there is a need to create an environment where people can relax and feel special in a separated space. Therefore, in this study, we will clarify the psychological changes that occur when people are surrounded by an unusual environment.This study prepared eight LED lighting colours: red, orange, yellow, green, blue, light blue, purple, and white. The room was illuminated, and the participants were asked to evaluate their impressions using the SD method on a 7-point scale.As a result of impression evaluation, red gave a warm impression, yellow gave a bright impression, blue gave a cold impression, and purple gave a mature impression, just like the psychological effects of colours. Green gave an artificial impression that was different from the psychological effects of the other colours.From these results, we can conclude that impressions do not correlate with colour symbolism when the entire room is illuminated with coloured light. In the future, we will clarify the relationship between wavelength and impression by studying the spectral distribution of each light source.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

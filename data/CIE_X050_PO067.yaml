@@ -1,117 +1,91 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO067
+id: CIEx050PO067
+type: standard
+schema_version: v1.4.1
 title:
 - content: THE EFFECTS OF URBAN MORPHOLOGY ON WINDOW VIEW
-  format: text/plain
   type: title-main
 - content: THE EFFECTS OF URBAN MORPHOLOGY ON WINDOW VIEW
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po067?product_id=2579115
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO067
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po067?product_id=2579115
+docidentifier:
+- content: CIE x050-PO067
   type: CIE
   primary: true
 docnumber: x050-PO067
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
+      forename:
+      - language: en
+        script: Latn
+        initial: P
       surname:
+        language: en
+        script: Latn
         content: Sabet
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: G
+      forename:
+      - language: en
+        script: Latn
+        initial: G
       surname:
+        language: en
+        script: Latn
         content: Ciampi
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Scorpio
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Sibilio
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Windows have always served multifunctional roles in buildings. Therefore, it has been observed that early assessment of the view can be beneficial for design decisions made in the initial design stage. This paper presents the preliminary research results aimed at evaluating the effect of urban configurations, namely average building height, building skyline, and road size, on window view quality. The research starts by selecting the city of Aversa (south of Italy) as a reference reviewing landscape metrics performed to characterize urban buildings and classify urban morphology. Eighteen urban configurations are modelled in the Climate Studio software, and the window view quality is evaluated according to EN 17037 and LEED. The simulation results suggest that for specific urban configurations (road size of 20 m, average building height of 12 m and variable skyline) it is possible to maximise the window view level according to EN 17037 and LEED.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

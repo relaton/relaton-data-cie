@@ -1,167 +1,123 @@
 ---
-schema-version: v1.2.9
-id: CIEPO10457-460
-title:
-- content: NON-SUBJECTIVE AND SUBJECTIVE EVALUATIONS OF CONCENTRATION OF OFFICE WORKERS
-    IN LIGHTING CONDITIONS WITH DIFFERENT BLUE LIGHTS (PO10, 457-460)
-  format: text/plain
-  type: title-main
-- content: NON-SUBJECTIVE AND SUBJECTIVE EVALUATIONS OF CONCENTRATION OF OFFICE WORKERS
-    IN LIGHTING CONDITIONS WITH DIFFERENT BLUE LIGHTS (PO10, 457-460)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/non-subjective-and-subjective-evaluations-of-concentration-of-office-workers-in-lighting-conditions-with-different-blue-lights-po10-457-460?product_id=2016288
-  type: src
+id: CIEPO10457460
 type: standard
-docid:
-- id: CIE PO10 457-460
+schema_version: v1.4.1
+title:
+- content: "NON-SUBJECTIVE AND SUBJECTIVE EVALUATIONS OF CONCENTRATION OF OFFICE WORKERS
+    IN LIGHTING CONDITIONS WITH DIFFERENT BLUE LIGHTS (PO10, 457-460)\n        \n
+    \           \n              ✓\n              Most Recent"
+  type: title-main
+- content: "NON-SUBJECTIVE AND SUBJECTIVE EVALUATIONS OF CONCENTRATION OF OFFICE WORKERS
+    IN LIGHTING CONDITIONS WITH DIFFERENT BLUE LIGHTS (PO10, 457-460)\n        \n
+    \           \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/non-subjective-and-subjective-evaluations-of-concentration-of-office-workers-in-lighting-conditions-with-different-blue-lights-po10-457-460?product_id=2016288
+docidentifier:
+- content: CIE PO10 457-460
   type: CIE
   primary: true
 docnumber: PO10 457-460
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Chen
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
         content: Wu
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Tseng
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: Luo
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: B
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Lin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    To more definitely understand the effect of lighting on humans, the ergonomic study on health lighting has been discussed. Both subjective and non-subjective evaluations were implemented for obtaining the influence of different lighting conditions on human. The correlations between subjective evaluation and non-subjective evaluation is mentioned in this study. The subjective evaluation result revealed that most participants presented concentration and being excited, while the non-subjective evaluation showed that participants were enhanced the sympathetic activity indicator and the indexes of brain waves and reduced the parasympathetic activity indicator. Grey relational analysis is applied to analyse the correlations between subjective evaluation and non-subjective evaluation to control and stabilize the quality of experiment, expecting to reduce the variation between subjective and non-subjective experiment results and enhance the accuracy of experiment through such correlations. Furthermore, it is expected to establish a reliable model for the development of human-centric lighting in the future.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

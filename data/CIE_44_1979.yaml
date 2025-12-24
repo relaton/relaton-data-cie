@@ -1,45 +1,45 @@
 ---
-schema-version: v1.2.9
-id: CIE44-1979
+id: CIE441979
+type: standard
+schema_version: v1.4.1
 title:
 - content: Absolute methods for reflection measurements
-  format: text/plain
   type: title-main
 - content: Absolute methods for reflection measurements
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-44-1979?product_id=1209976
-  type: src
-type: standard
-docid:
-- id: CIE 44-1979
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-44-1979?product_id=1209976
+docidentifier:
+- content: CIE 44-1979
   type: CIE
   primary: true
 docnumber: 44-1979
+date:
+- type: published
+  at: '1979-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Measurements of reflectance or reflectance factor are made by comparison to appropriately chosen reference standards. In 1969, the CIE recommended that the perfect reflecting diffuser be taken as the ideal standard. As there is no existing material which corresponds to the perfect diffuser, the problem is one of transforming measurements made with reference to real physical standards to those of absolute values relative to the perfect reflecting diffuser. The main emphasis of this report is on theory and procedures by which this conversion is made, not on properties of the materials, measuring instruments, or preparation of samples. For these topics, the reader is referred to original papers.
+
+    The document consists of 68 pages and 12 figures.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

@@ -1,0 +1,87 @@
+---
+id: CIEx0512025c78p85
+type: standard
+schema_version: v1.4.1
+title:
+- content: THE ROLE OF ROAD SURFACE IN ROAD LIGHTING QUALITY AND EFFICIENCY. A CURRENT
+    CASE IN AN ARGENTINIAN MOTORWAY
+  type: title-main
+- content: THE ROLE OF ROAD SURFACE IN ROAD LIGHTING QUALITY AND EFFICIENCY. A CURRENT
+    CASE IN AN ARGENTINIAN MOTORWAY
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-c78p85?product_id=3039886
+docidentifier:
+- content: CIE x051:2025/c78p85
+  type: CIE
+  primary: true
+docnumber: x051:2025/c78p85
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Ixtaina
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Colonna
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Pucheta
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The road lighting installation design requires a combination of the photometric luminaire information and the road surface reflection properties. Only a thorough knowledge of both terms can guarantee a design that ensures driver visual comfort, road safety and minimal energy consumption.The replacement of discharge lamps with high-efficiency LED sources has led to a massive conversion of road lighting installations. At list in our region, designs are strongly directed by the advantages of the new technology and the commercial momentum, accentuated the lack of incentives to research the reflective properties of the new pavements.The paper describes a case observed on an Argentinian highway. The evaluation of a new installation design based on a standard CIE table resulted in inadequate quality parameters and an oversized appreciation of energy efficiency. The subsequent introduction of a new measured r-table made it possible to adjust the luminaire and correct the quality parameters.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

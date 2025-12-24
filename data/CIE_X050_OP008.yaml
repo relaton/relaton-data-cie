@@ -1,137 +1,105 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-OP008
+id: CIEx050OP008
+type: standard
+schema_version: v1.4.1
 title:
 - content: 'Qd VS Q0 FOR SCALING OF STANDARD R-TABLES IN ROAD LIGHTING DESIGN: THE
     QUESTION IS WORTH ASKING'
-  format: text/plain
   type: title-main
 - content: 'Qd VS Q0 FOR SCALING OF STANDARD R-TABLES IN ROAD LIGHTING DESIGN: THE
     QUESTION IS WORTH ASKING'
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-op008?product_id=2578653
-  type: src
-type: standard
-docid:
-- id: CIE x050-OP008
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op008?product_id=2578653
+docidentifier:
+- content: CIE x050-OP008
   type: CIE
   primary: true
 docnumber: x050-OP008
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: F
+      forename:
+      - language: en
+        script: Latn
+        initial: F
       surname:
+        language: en
+        script: Latn
         content: Greffier
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
+      forename:
+      - language: en
+        script: Latn
+        initial: C
       surname:
+        language: en
+        script: Latn
         content: Schulze
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: V
+      forename:
+      - language: en
+        script: Latn
+        initial: V
       surname:
+        language: en
+        script: Latn
         content: Boucher
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Liandrat
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: V
+      forename:
+      - language: en
+        script: Latn
+        initial: V
       surname:
+        language: en
+        script: Latn
         content: Muzet
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    In lighting design, knowing the pavement reflection properties is the best way of optimising road luminance, but using the CIE standard r-tables remains the common practice. A lesser evil is to scale these r-tables using Qd or Q0 coefficients to consider the lightness of the pavement. Using various r-tables databases and numerous lighting calculations, we show in this study that the scaling with Qd is a good option for most surfaces. This result is interesting because there are devices on the market capable of measuring Qd directly. However, they are dedicated to the visibility of road markings and operate with an observation angle of 2.29° instead of the conventional 1° in road lighting. Our investigations show that this geometrical difference can be considered by applying a correction factor to the measured Qd. It could then be used to scale standard r-tables, which would represent a significant operational advance.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

@@ -1,89 +1,73 @@
 ---
-schema-version: v1.2.9
-id: CIEOP25155-160
-title:
-- content: STRUCTURAL MATERIAL EFFECTS ON DISCOMFORT GLARE IN THE DARK CAB (OP25,
-    155-160)
-  format: text/plain
-  type: title-main
-- content: STRUCTURAL MATERIAL EFFECTS ON DISCOMFORT GLARE IN THE DARK CAB (OP25,
-    155-160)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/structural-material-effects-on-discomfort-glare-in-the-dark-cab-op25-155-160?product_id=2016238
-  type: src
+id: CIEOP25155160
 type: standard
-docid:
-- id: CIE OP25 155-160
+schema_version: v1.4.1
+title:
+- content: "STRUCTURAL MATERIAL EFFECTS ON DISCOMFORT GLARE IN THE DARK CAB (OP25,
+    155-160)\n        \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "STRUCTURAL MATERIAL EFFECTS ON DISCOMFORT GLARE IN THE DARK CAB (OP25,
+    155-160)\n        \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/structural-material-effects-on-discomfort-glare-in-the-dark-cab-op25-155-160?product_id=2016238
+docidentifier:
+- content: CIE OP25 155-160
   type: CIE
   primary: true
 docnumber: OP25 155-160
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: L
+      forename:
+      - language: en
+        script: Latn
+        initial: L
       surname:
+        language: en
+        script: Latn
         content: Zhou
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: D
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      - language: en
+        script: Latn
+        initial: D
       surname:
+        language: en
+        script: Latn
         content: Lin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    This thesis aims at exploring the effect of structural material on discomfort glare evaluation in locomotive cabs, summarizes the common structural material including chromaticity coordinate, reflectance and refractive index as a reference. Firstly, an integrated optical simulation in consideration of lamps, displays and indicator lights was conducted to emulate and quantify glare indicators using various different materials. And then the ergonomics experiments were conducted to verify the relationship between discomfort glare and the reflectance and refractive index of materials by comparison with the subjective visual feeling and visual search performance under different samples. Experiment results showed that:1) discomfort glare in the dark cab can be improved by adjusting the reflectance and refractive index of materials inside, including direct glare and veiling reflection on the windshield and visual display terminal(VDT).2) The brightness of veiling reflection on the windshield and VDT can be lower than the existing typical structural material and visual performance significantly improves(P3) With the structural material of 35 %, DBR value was the optimal, in specific reflectivity range, WP value in direct proportion to the structural material.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

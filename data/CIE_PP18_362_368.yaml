@@ -1,113 +1,110 @@
 ---
-schema-version: v1.2.9
-id: CIEPP18362-368
-title:
-- content: A VISUAL EVALUATION OF COLOUR DIFFERENCES BETWEEN 3D OBJECTS (PP18, 362-368)
-  format: text/plain
-  type: title-main
-- content: A VISUAL EVALUATION OF COLOUR DIFFERENCES BETWEEN 3D OBJECTS (PP18, 362-368)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/a-visual-evaluation-of-colour-differences-between-3d-objects-pp18-362-368?product_id=2016273
-  type: src
+id: CIEPP18362368
 type: standard
-docid:
-- id: CIE PP18 362-368
+schema_version: v1.4.1
+title:
+- content: "A VISUAL EVALUATION OF COLOUR DIFFERENCES BETWEEN 3D OBJECTS (PP18, 362-368)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "A VISUAL EVALUATION OF COLOUR DIFFERENCES BETWEEN 3D OBJECTS (PP18, 362-368)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/a-visual-evaluation-of-colour-differences-between-3d-objects-pp18-362-368?product_id=2016273
+docidentifier:
+- content: CIE PP18 362-368
   type: CIE
   primary: true
 docnumber: PP18 362-368
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: Wei-Chun
-          language:
-          - en
-          script:
-          - Latn
       surname:
+        language: en
+        script: Latn
         content: Hung
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: Pei-Li
-          language:
-          - en
-          script:
-          - Latn
       surname:
+        language: en
+        script: Latn
+        content: Wei-Chun
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
         content: Sun
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: Yan-Zhen
-          language:
-          - en
-          script:
-          - Latn
       surname:
+        language: en
+        script: Latn
+        content: Pei-Li
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
         content: Lai
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: Yan-Mi
-          language:
-          - en
-          script:
-          - Latn
       surname:
-        content: Chen
-        language:
-        - en
-        script:
-        - Latn
-  role:
+        language: en
+        script: Latn
+        content: Yan-Zhen
+- role:
   - type: author
-- organization:
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Yan-Mi
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The aim of this study is to see if colour differences of colour 3D objects are different from 2D objects. Five colours were tested, each consisting of 2 three-dimensional geometric shapes, 2 materials and perturbed in 3 colour attributes. This resulted in 52 three-dimensional colourshape combinations, using a series of psycho-visual experiments to quantify visual colour differences of 3D objects. Each colour-shape combination was assessed using 7-step grey scale under a standard light booth by a panel of observers with normal colour vision. Measurement data were compared with the psychophysical experimental data. The results show that the perceptual colour differences in both cube and cone shapes are similar. In terms of material, matte surface is better than glossy surface in  discriminating colour differences, especially in hue differences. Chroma differences for high chroma or dark colours are not easy to aware. Lighting and colour also have some interesting impacts on the results.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

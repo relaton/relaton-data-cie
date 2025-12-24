@@ -1,81 +1,67 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO134
+id: CIEx050PO134
+type: standard
+schema_version: v1.4.1
 title:
 - content: INNOVATIVE DEVICE TO VERIFY AND/OR CALIBRATE LUXMETERS (LIGHT METERS)
-  format: text/plain
   type: title-main
 - content: INNOVATIVE DEVICE TO VERIFY AND/OR CALIBRATE LUXMETERS (LIGHT METERS)
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po134?product_id=2579199
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO134
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po134?product_id=2579199
+docidentifier:
+- content: CIE x050-PO134
   type: CIE
   primary: true
 docnumber: x050-PO134
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
-      surname:
-        content: Quiroga
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Quiroga
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- organization:
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Quiroga
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Calibration methods for illuminance meters have been positioned in the market for decades without any significant changes. However, recently the International Commission on Illumination issued a publication regarding the “CIE 251:2023. LED Reference Spectrum for Photometer Calibration.” This will denote significant changes in the current calibration method. Several of these changes are presented in this article, where an illuminance meter verification and/or calibration device demonstrates this technological shift. Due to its recent development and pending patent approval, it enables faster, automated calibration or verification of lux meters with a wide measurement coverage range.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

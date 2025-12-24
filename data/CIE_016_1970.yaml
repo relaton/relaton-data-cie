@@ -1,45 +1,45 @@
 ---
-schema-version: v1.2.9
-id: CIE016-1970
+id: CIE0161970
+type: standard
+schema_version: v1.4.1
 title:
 - content: Daylight
-  format: text/plain
   type: title-main
 - content: Daylight
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-016-1970?product_id=1209966
-  type: src
-type: standard
-docid:
-- id: CIE 016-1970
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-016-1970?product_id=1209966
+docidentifier:
+- content: CIE 016-1970
   type: CIE
   primary: true
 docnumber: 016-1970
+date:
+- type: published
+  at: '1970-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The purpose of this guide is to aid architects, civil engineers, building inspectors, and others concerned with the natural lighting of buildings. The guide specifies a simple but accurate method of computing and checking interior daylight levels. It contains a comprehensive list of other methods for predicting daylight levels in buildings. From this list, designers specializing in daylighting can select methods that are best suited for any one case.
+
+    This publication contains 87 pages, 32 figures and 4 tables.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

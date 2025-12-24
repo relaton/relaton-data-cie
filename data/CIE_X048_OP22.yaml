@@ -1,98 +1,93 @@
 ---
-schema-version: v1.2.9
-id: CIEx048-OP22
+id: CIEx048OP22
+type: standard
+schema_version: v1.4.1
 title:
 - content: 'USER EVALUATIONS OF CONTRAST-DOMINANT DISCOMFORT GLARE IN DIM DAYLIT SCENARIOS:
     PRELIMINARY FINDINGS'
-  format: text/plain
   type: title-main
 - content: 'USER EVALUATIONS OF CONTRAST-DOMINANT DISCOMFORT GLARE IN DIM DAYLIT SCENARIOS:
     PRELIMINARY FINDINGS'
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x048-op22?product_id=2240702
-  type: src
-type: standard
-docid:
-- id: CIE x048-OP22
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op22?product_id=2240702
+docidentifier:
+- content: CIE x048-OP22
   type: CIE
   primary: true
 docnumber: x048-OP22
+date:
+- type: published
+  at: '2021-09-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: Quek
-          language:
-          - en
-          script:
-          - Latn
       surname:
+        language: en
+        script: Latn
         content: Geraldine
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: Wienold
-          language:
-          - en
-          script:
-          - Latn
       surname:
+        language: en
+        script: Latn
+        content: Quek
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
         content: Jan
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: Andersen
-          language:
-          - en
-          script:
-          - Latn
       surname:
-        content: Marilyne
-        language:
-        - en
-        script:
-        - Latn
-  role:
+        language: en
+        script: Latn
+        content: Wienold
+- role:
   - type: author
-- organization:
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Marilyne
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Andersen
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Discomfort glare metrics typically consider at least one of the two effects of discomfort glare - saturation and contrast - in their equation. The former occurs when there is an excessively bright glare source in the field of view, while the latter occurs when there is a high luminance ratio between the glare source and the adaptation level of the eye. We hypothesize that the contrast effect may dominate in low-light scenarios such as those commonly found in open-plan offices. Thus, we designed and carried out a user study in controlled laboratory conditions with 63 participants with a total of 252 scenes to investigate discomfort glare evaluations in dim daylight office environments with low adaptation levels. Our preliminary findings support our hypothesis that contrast-driven metrics predict glare responses in a more reliable way than hybrid metrics at low adaptation levels where the contrast effect dominates, which underlines the need for refining glare metrics in low brightness conditions.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

@@ -1,45 +1,44 @@
 ---
-schema-version: v1.2.9
-id: CIE238-2020
+id: CIE2382020
+type: standard
+schema_version: v1.4.1
 title:
 - content: Characterization of AC-Driven LEDs for SSL Applications
-  format: text/plain
   type: title-main
 - content: Characterization of AC-Driven LEDs for SSL Applications
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-238-2020?product_id=2106335
-  type: src
-type: standard
-docid:
-- id: CIE 238:2020
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-238-2020?product_id=2106335
+docidentifier:
+- content: CIE 238:2020
   type: CIE
   primary: true
 docnumber: 238:2020
+date:
+- type: published
+  at: '2020-03-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    AC-driven LEDs (AC LEDs) operate on AC power and may be connected directly to a mains supply without the need of any electronics (e.g. LED drivers or control gears) for converting AC power to a constant direct current. Similar to DC-driven LEDs (DC LEDs), accurate measurements of AC LEDs are also difficult due to the high sensitivity of optical and electrical properties of LEDs to their thermal and operating conditions. In addition, forward voltage, current, and junction temperature of an AC LED change rapidly, which makes measurements even more difficult.
+    CIE 238:2020 provides guidance for optical measurements of AC LEDs, performed at testing laboratories with emphasis on reproducibility and small measurement uncertainties by accurately setting and controlling the junction temperature. The report includes measurement methods, instrumentation, and procedures. The measurement methods and procedures used for optical measurement of AC LEDs are based on a specified junction temperature using either single AC cycle operation or continuous AC operation.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

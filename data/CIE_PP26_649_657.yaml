@@ -1,129 +1,97 @@
 ---
-schema-version: v1.2.9
-id: CIEPP26649-657
-title:
-- content: VISUAL EXPERIENCES AND NEEDS OF AGEING DRIVERS (PP26, 649-657)
-  format: text/plain
-  type: title-main
-- content: VISUAL EXPERIENCES AND NEEDS OF AGEING DRIVERS (PP26, 649-657)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/visual-experiences-and-needs-of-ageing-drivers-pp26-649-657?product_id=2011357
-  type: src
+id: CIEPP26649657
 type: standard
-docid:
-- id: CIE PP26 649-657
+schema_version: v1.4.1
+title:
+- content: "VISUAL EXPERIENCES AND NEEDS OF AGEING DRIVERS (PP26, 649-657)\n        \n
+    \           \n              ✓\n              Most Recent"
+  type: title-main
+- content: "VISUAL EXPERIENCES AND NEEDS OF AGEING DRIVERS (PP26, 649-657)\n        \n
+    \           \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/visual-experiences-and-needs-of-ageing-drivers-pp26-649-657?product_id=2011357
+docidentifier:
+- content: CIE PP26 649-657
   type: CIE
   primary: true
 docnumber: PP26 649-657
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: H
       surname:
+        language: en
+        script: Latn
         content: Donners
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: E
+      forename:
+      - language: en
+        script: Latn
+        initial: E
       surname:
+        language: en
+        script: Latn
         content: Stein
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: F
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: F
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: W
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      - language: en
+        script: Latn
+        initial: H
+      - language: en
+        script: Latn
+        initial: F
+      - language: en
+        script: Latn
+        initial: W
       surname:
+        language: en
+        script: Latn
         content: van der Heijde
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    With age, the variation in visual and driving performance increases . Decreases in visual performance eventually cause many seniors to change their driving behaviour or even to refrain from driving at night at all. To establish the degradation of which visual functions contributes most, we conducted a literature review and a survey among ageing drivers. From both, an increased sensitivity to glare and a reduced contrast sensitivity and a bility to adapt to darkness, are flagged. All three are aggravated by rain. Factors not recognized by survey participants in all countries are UFOV and the perception of movement . In literature, decreasing reaction time and difficulties estimating time to contact are also identified as major contributors to driving restricting by ageing drivers.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

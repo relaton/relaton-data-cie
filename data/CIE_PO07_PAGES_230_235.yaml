@@ -1,83 +1,70 @@
 ---
-schema-version: v1.2.9
-id: CIEPO07Pages230-235
-title:
-- content: INFLUENCE OF DIFFERENT ROOM SURFACE COLOURS ON THE MELANOPIC FACTOR (PO07,
-    Pages 230-235)
-  format: text/plain
-  type: title-main
-- content: INFLUENCE OF DIFFERENT ROOM SURFACE COLOURS ON THE MELANOPIC FACTOR (PO07,
-    Pages 230-235)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/influence-of-different-room-surface-colours-on-the-melanopic-factor-po07-pages-230-235?product_id=1941837
-  type: src
+id: CIEPO07Pages230235
 type: standard
-docid:
-- id: CIE PO07 Pages 230-235
+schema_version: v1.4.1
+title:
+- content: "INFLUENCE OF DIFFERENT ROOM SURFACE COLOURS ON THE MELANOPIC FACTOR (PO07,
+    Pages 230-235)\n        \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "INFLUENCE OF DIFFERENT ROOM SURFACE COLOURS ON THE MELANOPIC FACTOR (PO07,
+    Pages 230-235)\n        \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/influence-of-different-room-surface-colours-on-the-melanopic-factor-po07-pages-230-235?product_id=1941837
+docidentifier:
+- content: CIE PO07 Pages 230-235
   type: CIE
   primary: true
 docnumber: PO07 Pages 230-235
+date:
+- type: published
+  at: '2016-09-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Knoche
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: Kirsch
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    This work investigates the impact of different room surface colours on the melanopic effectiveness of an office lighting installation. Two different LED spectra were weighted with the spectral reflectance function of different colours. The resulting spectra were then analysed regarding the impact on the melanopic factor. In a subsequent lighting simulation, two different lighting solutions with a selected set of wall colourings was used. For the indirect part of the vertical illuminance at the observer's eye level, a resulting amel,v was calculated to obtain an overall melanopic irradiance and, thus, a measure for the melanopic effectiveness. As expected, the results showed a strong dependency on the absolute values of illuminance but also on the colour of walls and ceiling in combination with their overall reflectance.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

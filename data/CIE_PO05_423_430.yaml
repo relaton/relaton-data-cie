@@ -1,95 +1,83 @@
 ---
-schema-version: v1.2.9
-id: CIEPO05423-430
-title:
-- content: INVESTIGATION OF AFFECTIVE FACTOR EVALUATION METHODOLOGY FOR WHITE LIGHTS
-    (PO05, 423-430)
-  format: text/plain
-  type: title-main
-- content: INVESTIGATION OF AFFECTIVE FACTOR EVALUATION METHODOLOGY FOR WHITE LIGHTS
-    (PO05, 423-430)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/investigation-of-affective-factor-evaluation-methodology-for-white-lights-po05-423-430?product_id=2016283
-  type: src
+id: CIEPO05423430
 type: standard
-docid:
-- id: CIE PO05 423-430
+schema_version: v1.4.1
+title:
+- content: "INVESTIGATION OF AFFECTIVE FACTOR EVALUATION METHODOLOGY FOR WHITE LIGHTS
+    (PO05, 423-430)\n        \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "INVESTIGATION OF AFFECTIVE FACTOR EVALUATION METHODOLOGY FOR WHITE LIGHTS
+    (PO05, 423-430)\n        \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/investigation-of-affective-factor-evaluation-methodology-for-white-lights-po05-423-430?product_id=2016283
+docidentifier:
+- content: CIE PO05 423-430
   type: CIE
   primary: true
 docnumber: PO05 423-430
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Ko
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Choi
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: "The evaluation components for lighting quality include visual comfort,
+    visibility, user-required affective factors, workability etc. that are different
+    up to the architectural use of space and behaviour types of users. All of these
+    components contribute to overall user satisfaction. Our affective factors are
+    composed of stimuli through five senses (sight, hearing, touch, smell and taste),
+    behaviour types, and individual long-term experiences. We therefore need to understand
+    the deviation between user-required `affective factors' formed from long-term
+    experiences and `those' influenced by visual pathway against the illumination
+    change. The current study attempts to figure out this deviation and to determine
+    the affective factors significant for human-centric illumination development,
+    particularly in office space. \n\n              See more"
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

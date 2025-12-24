@@ -1,63 +1,55 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO095
+id: CIEx050PO095
+type: standard
+schema_version: v1.4.1
 title:
 - content: QUANTIFYING THE BRIGHTNESS OF CHROMATIC LIGHTING IN A WIDE FIELD OF VIEW
-  format: text/plain
   type: title-main
 - content: QUANTIFYING THE BRIGHTNESS OF CHROMATIC LIGHTING IN A WIDE FIELD OF VIEW
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po095?product_id=2579139
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO095
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po095?product_id=2579139
+docidentifier:
+- content: CIE x050-PO095
   type: CIE
   primary: true
 docnumber: x050-PO095
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: D
-      surname:
-        content: Durmus
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- organization:
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Durmus
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Chromatic lighting is often used in specialised applications such as entertainment, theatre, and signage, but there is lack of consensus on metrics that can estimate the brightness of chromatic stimuli. Researchers have previously adjusted colour appearance models (CAMs) to predict brightness of stimuli seem in narrow fields of view. However, metric performance has not been tested in full field of view. A psychophysical experiment was conducted to test the performance of existing metrics in estimating chromatic brightness of light sources in a wide field of view. Fourteen participants judged the brightness of 18 chromatic test stimuli illuminating a room using a magnitude estimation method compared to two reference light sequentially. The results suggest that CAM16 QHK, luminance, and illuminance can predict the brightness of chromatic lighting in wide field of view. Future research should investigate the metric performance using a large number of stimuli, participants, and spectral variation in stimuli.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

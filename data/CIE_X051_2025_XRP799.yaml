@@ -1,0 +1,71 @@
+---
+id: CIEx0512025xrp799
+type: standard
+schema_version: v1.4.1
+title:
+- content: STUDY ON CALCULATING LUMINANCE DISTRIBUTIONS BY INCORPORATING THE ESTIMATED
+    MODELS OF DIRECTIONAL REFLECTANCE CHARACTERISTICS FROM SIMPLIFIED MEASUREMENTS
+    INTO RADIANCE
+  type: title-main
+- content: STUDY ON CALCULATING LUMINANCE DISTRIBUTIONS BY INCORPORATING THE ESTIMATED
+    MODELS OF DIRECTIONAL REFLECTANCE CHARACTERISTICS FROM SIMPLIFIED MEASUREMENTS
+    INTO RADIANCE
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-xrp799?product_id=3040036
+docidentifier:
+- content: CIE x051:2025/xrp799
+  type: CIE
+  primary: true
+docnumber: x051:2025/xrp799
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Yabe
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Ohki
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This study verifies the accuracy of the calculated luminance distributions of scaled models with directionally reflective surfaces by Radiance software. It compares them with the luminance distributions calculated by the luminous flux transfer method. The directional reflectance properties of the materials were modelled using data from simplified goniophotometer and used as inputs for the calculations. The Radiance calculations reproduced the maximum luminance and the distributions of the first reflection from the directionally reflective surfaces but not the second reflection. The calculated luminance distributions and Daylight Glare Probability (DGP) due to daylight reflection from the building materials exhibited considerable differences when the building materials were assumed to be ideal uniform diffuse, specular, or directionally reflective surfaces. This suggests that it is necessary to consider the directional reflectance properties of the building materials for glare assessment. Using directional reflectance data modelled from simplified measurements as inputs for luminance calculations is beneficial.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

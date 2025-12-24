@@ -1,119 +1,93 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO073
+id: CIEx050PO073
+type: standard
+schema_version: v1.4.1
 title:
 - content: 'LED LIGHTING IN ROAD TUNNELS: SIMULATION OF ENERGY-EFFICIENT ADAPTIVE
     LIGHTING SCENARIOS'
-  format: text/plain
   type: title-main
 - content: 'LED LIGHTING IN ROAD TUNNELS: SIMULATION OF ENERGY-EFFICIENT ADAPTIVE
     LIGHTING SCENARIOS'
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po073?product_id=2579119
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO073
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po073?product_id=2579119
+docidentifier:
+- content: CIE x050-PO073
   type: CIE
   primary: true
 docnumber: x050-PO073
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: D
+      forename:
+      - language: en
+        script: Latn
+        initial: D
       surname:
+        language: en
+        script: Latn
         content: Talon
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: D
+      forename:
+      - language: en
+        script: Latn
+        initial: D
       surname:
+        language: en
+        script: Latn
         content: Dumortier
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Jost
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Besson
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The control of LED lighting installations through natural lighting conditions, traffic speed, or state of the ground conditions can lead to significant energy savings in road tunnels. A dynamic model has been developed to estimate them. This model can evaluate the need for road luminance levels inside a tunnel in function of the parameters previously mentioned. It can also calculate the actual luminance levels implemented to fulfil this need, and the energy consumptions associated. The model was applied to a test tunnel located in the Paris area, as part of a wider research project. This tunnel receives a heavy traffic and is subject to road congestion for several hours a day. The results showed that annual energy savings around 35% are achievable with a control of the lighting installation through traffic speed, and around 25% with a control through state of the ground conditions (dry or wet road).
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

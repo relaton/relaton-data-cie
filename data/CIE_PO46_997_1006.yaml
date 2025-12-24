@@ -1,121 +1,93 @@
 ---
-schema-version: v1.2.9
-id: CIEPO46997-1006
-title:
-- content: |-
-    VNISI TEST CENTER IN THE SYSTEM OF QUALITY ASSESSMENT FOR MODERN LIGHTING EQUIPMENT IN RUSSIA
-     (PO46, 997-1006)
-  format: text/plain
-  type: title-main
-- content: |-
-    VNISI TEST CENTER IN THE SYSTEM OF QUALITY ASSESSMENT FOR MODERN LIGHTING EQUIPMENT IN RUSSIA
-     (PO46, 997-1006)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/vnisi-test-center-in-the-system-of-quality-assessment-for-modern-lighting-equipment-in-russia-po46-997-1006?product_id=2011181
-  type: src
+id: CIEPO469971006
 type: standard
-docid:
-- id: CIE PO46 997-1006
+schema_version: v1.4.1
+title:
+- content: "VNISI TEST CENTER IN THE SYSTEM OF QUALITY ASSESSMENT FOR MODERN LIGHTING
+    EQUIPMENT IN RUSSIA\n (PO46, 997-1006)\n        \n            \n              ✓\n
+    \             Most Recent"
+  type: title-main
+- content: "VNISI TEST CENTER IN THE SYSTEM OF QUALITY ASSESSMENT FOR MODERN LIGHTING
+    EQUIPMENT IN RUSSIA\n (PO46, 997-1006)\n        \n            \n              ✓\n
+    \             Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/vnisi-test-center-in-the-system-of-quality-assessment-for-modern-lighting-equipment-in-russia-po46-997-1006?product_id=2011181
+docidentifier:
+- content: CIE PO46 997-1006
   type: CIE
   primary: true
 docnumber: PO46 997-1006
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Bartsev
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: I
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      - language: en
+        script: Latn
+        initial: I
       surname:
+        language: en
+        script: Latn
         content: Stolyarevskaya
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: G
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: G
       surname:
+        language: en
+        script: Latn
         content: Shakhparunyants
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Starting from 2015, the Russian Ministry of Energy began a great job of an independent examination of the domestic lighting market. This activity is carried out and is curr ently running in the competition on the Eurasian Illuminating Engineering Award. To do this, the selection was made of certified test centers and laboratories in the Russia and the CIS countries who are involved in the measurements of light, colour and electrical characteristics of lighting devices by participating in the competition. The central place in the group of laboratories is devoted to VNISI Test Centre with advanced measuring systems, laboratory conditions corresponding to the international standards, with heat and cold chambers, and highly qualified personnel. Analysis work center allows highlight a number of important problems of metrological support of modern measuring systems used in photometry and colorimetry.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

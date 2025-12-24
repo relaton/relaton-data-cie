@@ -1,67 +1,69 @@
 ---
-schema-version: v1.2.9
-id: CIE173-2012
+id: CIE1732012
+type: standard
+schema_version: v1.4.1
 title:
 - content: Tubular Daylight Guidance Systems (Including Erratum 1)
-  format: text/plain
   type: title-main
 - content: Tubular Daylight Guidance Systems (Including Erratum 1)
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-173-2012?product_id=1840549
-  type: src
-type: standard
-docid:
-- id: CIE 173:2012
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-173-2012?product_id=1840549
+docidentifier:
+- content: CIE 173:2012
   type: CIE
   primary: true
 docnumber: 173:2012
+date:
+- type: published
+  at: '2012-08-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Tubular daylight guidance systems are linear devices that channel daylight into the core of a building. They consist of a light transport section with, at the outer end, some device for collecting natural light and, at the inner end, a means of distribution of light within the interior. Collectors may be either mechanical devices that actively focus and direct daylight (usually sunlight), or be passive devices that accept sunlight and skylight from part or whole sky hemisphere. The transport element is usually a tube lined with highly reflective or prismatic material or may contain lenses or other devices to redirect the light. Light is distributed in an interior by output components, commonly diffusers made of opal or prismatic material. The major emphasis of this Report is on passive zenithal systems, the most commercially successful type of daylight guidance being installed in many parts of the world.
+
+    The Report includes a contextual review of the technology of all generic types of daylight guidance system. The major part of the report is concerned with photometry of components and systems, design methods, maintenance issues in both design and use, energy aspects, cost and benefits, human factors and architectural issues in the context of passive zenithal systems. The report includes case studies showing good practice.
+
+    This publication corrects and replaces CIE 173:2006 "Tubular Daylight Guidance Systems".
+
+    An Erratum is included that shows a corrected value in Table 3 and a corrected formula in Appendix C.
+
+    The publication is written in English, with a short summary in French and German.
+                  See more
 relation:
 - type: updates
   bibitem:
-    id: CIE173-2006
     title:
     - content: Tubular Daylight Guidance Systems (Including Erratum 1)
-      format: text/plain
       type: title-main
     - content: Tubular Daylight Guidance Systems (Including Erratum 1)
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-173-2006?product_id=1270666
-      type: src
-    docid:
-    - id: CIE 173:2006
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-173-2006?product_id=1270666
+    docidentifier:
+    - content: CIE 173:2006
       type: CIE
       primary: true
     date:
     - type: published
-      value: '2006-01-01'
-    revdate: '2006-01-01'
+      at: '2006-01-01'
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

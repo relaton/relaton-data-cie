@@ -1,119 +1,93 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO055
+id: CIEx050PO055
+type: standard
+schema_version: v1.4.1
 title:
 - content: A PILOT TEST OF DAYLIGHTING AND ELECTRIC LIGHTING TO ADDRESS VISUAL AND
     NON-VISUAL REQUIREMENTS
-  format: text/plain
   type: title-main
 - content: A PILOT TEST OF DAYLIGHTING AND ELECTRIC LIGHTING TO ADDRESS VISUAL AND
     NON-VISUAL REQUIREMENTS
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po055?product_id=2579106
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO055
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po055?product_id=2579106
+docidentifier:
+- content: CIE x050-PO055
   type: CIE
   primary: true
 docnumber: x050-PO055
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
+      forename:
+      - language: en
+        script: Latn
+        initial: P
       surname:
+        language: en
+        script: Latn
         content: Biju
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: Ståhl
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
+      forename:
+      - language: en
+        script: Latn
+        initial: P
       surname:
+        language: en
+        script: Latn
         content: Mattsson
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "N"
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
       surname:
+        language: en
+        script: Latn
         content: Gentile
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Advancements in understanding the non-visual effects of light have sparked interest in using lighting to promote circadian entrainment. Circadian design metrics like melanopic equivalent daylight illuminance (mEDI) are now being adopted with proposed target values. Traditional lighting design, focused on horizontal illumination for visual needs, falls short for circadian lighting design which should focus on vertical illumination at the eye. Previous research suggests that horizontal illuminance from electric lighting may need to be three times higher than standard lighting design criteria to reach non-visual targets for melanopic illuminance requirements, posing an energy efficiency challenge. This pilot study tests two electric lighting schemes based on spotlights and pendants, combining electric lighting and daylighting. Two identical office mock-ups with the different light distributions were used. An initial assessment of the physical rooms was performed. This included tests with subjects (N = 10) under electric lighting and mixed daylight/electric lighting conditions. Additional (day)lighting scenarios were simulated in LARK 2.0 and the energy use for lighting was calculated. The results show that electric lighting alone could not meet the non-visual targets. Including daylighting significantly decreased the energy use for lighting while maintaining adequate illumination on both horizontal and vertical surfaces. In conclusion, it is highly recommended to incorporate daylighting into the design of lighting for non-visual needs. Failure to do so can lead to over dimensioning of electric lighting, resulting in unnecessary energy use.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

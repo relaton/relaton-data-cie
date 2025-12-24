@@ -1,0 +1,79 @@
+---
+id: CIEx0512025bmq5kq
+type: standard
+schema_version: v1.4.1
+title:
+- content: COLOUR-BASED GRANULOMETRIC ANALYSIS WITH PATTERN SPECTRUM
+  type: title-main
+- content: COLOUR-BASED GRANULOMETRIC ANALYSIS WITH PATTERN SPECTRUM
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-bmq5kq?product_id=3039880
+docidentifier:
+- content: CIE x051:2025/bmq5kq
+  type: CIE
+  primary: true
+docnumber: x051:2025/bmq5kq
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Hillairaud
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Richard
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Beaudoin
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The granulometry of riverbed is essential for river flow simulations and sediment transport studies. Physical measurements are time-consuming and invasive, remote sensing solutions are therefore preferred, such as image-based approaches. Among them, the pattern spectrum, derived from mathematical morphology, respects metrological properties and does not require shape approximation. We illustrate here the extension of the pattern spectrum to colour images and the link between the results and granulometric distribution. Colour references are required by the ordering relation used, which allow for an order between grains and other constituents to be found. To reproducibly compare the impact of granulometric distributions, we chose to work on manufactured grain tiles. A comparative analysis of four samples is presented. The resulting pattern spectra illustrate the potential for discrimination related to granulometric distributions, as well as the problem caused by the choice of references for the ordering relation.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

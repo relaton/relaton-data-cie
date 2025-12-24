@@ -1,121 +1,96 @@
 ---
-schema-version: v1.2.9
-id: CIEOP25173-179
-title:
-- content: |-
-    TESTING A MESOPIC ADAPTATION SIMULATION METHOD WITH SIMPLE LUMINANCE DISTRIBUTIONS
-     (OP25, 173-179)
-  format: text/plain
-  type: title-main
-- content: |-
-    TESTING A MESOPIC ADAPTATION SIMULATION METHOD WITH SIMPLE LUMINANCE DISTRIBUTIONS
-     (OP25, 173-179)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/testing-a-mesopic-adaptation-simulation-method-with-simple-luminance-distributions-op25-173-179?product_id=2010466
-  type: src
+id: CIEOP25173179
 type: standard
-docid:
-- id: CIE OP25 173-179
+schema_version: v1.4.1
+title:
+- content: "TESTING A MESOPIC ADAPTATION SIMULATION METHOD WITH SIMPLE LUMINANCE DISTRIBUTIONS\n
+    (OP25, 173-179)\n\n        \n            \n              ✓\n              Most
+    Recent"
+  type: title-main
+- content: "TESTING A MESOPIC ADAPTATION SIMULATION METHOD WITH SIMPLE LUMINANCE DISTRIBUTIONS\n
+    (OP25, 173-179)\n\n        \n            \n              ✓\n              Most
+    Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/testing-a-mesopic-adaptation-simulation-method-with-simple-luminance-distributions-op25-173-179?product_id=2010466
+docidentifier:
+- content: CIE OP25 173-179
   type: CIE
   primary: true
 docnumber: OP25 173-179
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Uchida
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Akashi
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "N"
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
       surname:
+        language: en
+        script: Latn
         content: Terai
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Iwamoto
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    For implementing the CIE mesopic photometry system to outdoor lighting applications, the adaptation luminances needs to be determined to figure out the mesopic luminous efficiency function to be used for particular lighting scenarios. This study verifies an adaptation luminance simulation method proposed in Uchida et al. (2016) by using sets of luminance distributions (LDs) and corresponding adaptation luminances measured in a vision experiment by Terai et al. (2017). The simulation method was applied to the LDs and the simulated adaptation luminances were compared with the empirical data. The result suggests that the simulation method can estimate the adaptation luminance when the employed veiling luminance model is sufficiently accurate. When a different veiling luminance model is employed, the simulation underestimates the adaptation luminance and causes a certain level of error on the mesopic luminance. The veiling luminance model contribution to the adaptation luminance depends on the LD. For the LDs used in this study, the adaptation luminance is considered more sensitive to the veiling luminance model than that for real lit scene LDs.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

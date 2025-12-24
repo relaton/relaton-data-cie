@@ -1,49 +1,46 @@
 ---
-schema-version: v1.2.9
-id: CIEx048-2021
+id: CIEx0482021
+type: standard
+schema_version: v1.4.1
 title:
 - content: Proceedings of the Conference CIE 2021, September 27
-  format: text/plain
   type: title-intro
 - content: 29, 2021 hosted by NC Malaysia online
-  format: text/plain
   type: title-main
 - content: Proceedings of the Conference CIE 2021, September 27 - 29, 2021 hosted
     by NC Malaysia online
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x048-2021?product_id=2242151
-  type: src
-type: standard
-docid:
-- id: CIE x048:2021
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-2021?product_id=2242151
+docidentifier:
+- content: CIE x048:2021
   type: CIE
   primary: true
 docnumber: x048:2021
+date:
+- type: published
+  at: '2021-11-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    In October 2021 CIE held a 3-day online conference, CIE 2021, which originally was intended to accompany the CIE 2021 Midterm Meeting. Experts from all over the world presented latest research results and survey lectures in 4 invited presentations, 68 oral presentations, 58 posters and 8 workshops.  Various subjects related to light and lighting were covered, e.g. "Integrative lighting", "Visual appearance", "Glare", "Measurement theory", "Daylight", "Temporal light modulation", "Road lighting", "Residential lighting", "Measurement of materials and sources".
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

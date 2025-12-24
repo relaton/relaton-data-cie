@@ -1,179 +1,132 @@
 ---
-schema-version: v1.2.9
-id: CIEx048-OP35
+id: CIEx048OP35
+type: standard
+schema_version: v1.4.1
 title:
 - content: HOME OFFICE SURVEY IN THE SCOPE OF THE IEA SHC TASK 61, THE LIGHTING CONDITIONS
     FOR STUDENTSE
-  format: text/plain
   type: title-main
 - content: HOME OFFICE SURVEY IN THE SCOPE OF THE IEA SHC TASK 61, THE LIGHTING CONDITIONS
     FOR STUDENTSE
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x048-op35?product_id=2240790
-  type: src
-type: standard
-docid:
-- id: CIE x048-OP35
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op35?product_id=2240790
+docidentifier:
+- content: CIE x048-OP35
   type: CIE
   primary: true
 docnumber: x048-OP35
+date:
+- type: published
+  at: '2021-09-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: B
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Matusiak
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
+      forename:
+      - language: en
+        script: Latn
+        initial: C
       surname:
+        language: en
+        script: Latn
         content: Amorim
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Sibilio
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
         content: Martyniuk- Peczek
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "N"
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
       surname:
+        language: en
+        script: Latn
         content: Sokol
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Koga
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
         content: Debik
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    This paper has been developed in the IEA SHC Task 61 Integrated Solutions for Daylighting and Electric Lighting scope. Task 61 aims at developing and testing strategies and solutions combining daylighting, electric lighting, and the most suitable control systems. Some of the planned activities, especially in the Subtask A: User perspective and requirements, were not possible due to the Coronavirus pandemic restrictions. On the other side, new challenges emerged, for example, the migration of workplaces to homes. It occurred both for professionals and students, and the lighting conditions in these new improvised workplaces are unknown. In this context, the article presents the part of the home office survey aiming to understand lighting conditions for students in home offices in different countries: Brazil, Italy, Japan, Columbia, Denmark, and Poland. The paper also seeks to define the current limitations of a home office in providing a resilient visual environment.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

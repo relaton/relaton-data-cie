@@ -1,123 +1,96 @@
 ---
-schema-version: v1.2.9
-id: CIEOP04Pages25-29
-title:
-- content: INTERCOMPARISON OF VISUAL GLOSS PSYCHOMETRIC SCALES (OP04, Pages 25-29)
-  format: text/plain
-  type: title-main
-- content: INTERCOMPARISON OF VISUAL GLOSS PSYCHOMETRIC SCALES (OP04, Pages 25-29)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/intercomparison-of-visual-gloss-psychometric-scales-op04-pages-25-29?product_id=1941809
-  type: src
+id: CIEOP04Pages2529
 type: standard
-docid:
-- id: CIE OP04 Pages 25-29
+schema_version: v1.4.1
+title:
+- content: "INTERCOMPARISON OF VISUAL GLOSS PSYCHOMETRIC SCALES (OP04, Pages 25-29)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "INTERCOMPARISON OF VISUAL GLOSS PSYCHOMETRIC SCALES (OP04, Pages 25-29)\n
+    \       \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/intercomparison-of-visual-gloss-psychometric-scales-op04-pages-25-29?product_id=1941809
+docidentifier:
+- content: CIE OP04 Pages 25-29
   type: CIE
   primary: true
 docnumber: OP04 Pages 25-29
+date:
+- type: published
+  at: '2016-09-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: G
+      forename:
+      - language: en
+        script: Latn
+        initial: G
       surname:
+        language: en
+        script: Latn
         content: Ged
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: F
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: B
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      - language: en
+        script: Latn
+        initial: B
       surname:
+        language: en
+        script: Latn
         content: Leloup
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: De Wit
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: G
+      forename:
+      - language: en
+        script: Latn
+        initial: G
       surname:
+        language: en
+        script: Latn
         content: Obein
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The total visual appearance of a surface is of concern in a wide panel of industrial sectors. In many manufacturing processes, more than instruments, the visual system has the last word when the quality of the finished product is at stake. Psychophysical studies aim to produce scales describing our perception of stimuli. In the field of gloss appraisal, psychophysics has been of importance since Hunter's early work, and a variety of scales describing one or more visual aspects of surface gloss have been derived. However, to our knowledge, no metrological assessment of scales constructed from one and the same set of samples through different protocols has ever been carried out. In this study, psychometric functions of a commercially available gloss scale are derived from experiments conducted under different assessment conditions, by two sets of naive observers, and using two distinct protocols. The metrological validity of the results is discussed. The potential output of this work may lead the way towards the definition of a standard gloss observer.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

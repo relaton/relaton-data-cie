@@ -1,0 +1,91 @@
+---
+id: CIEx05120258jk73w
+type: standard
+schema_version: v1.4.1
+title:
+- content: IS THE COST 331 SOFTWARE STILL RELEVANT FOR CHARACTERISING THE VISIBILITY
+    OF ROAD MARKINGS?
+  type: title-main
+- content: IS THE COST 331 SOFTWARE STILL RELEVANT FOR CHARACTERISING THE VISIBILITY
+    OF ROAD MARKINGS?
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-8jk73w?product_id=3039871
+docidentifier:
+- content: CIE x051:2025/8jk73w
+  type: CIE
+  primary: true
+docnumber: x051:2025/8jk73w
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Girard
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Lebouc
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      surname:
+        language: en
+        script: Latn
+        content: Muzet
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This study aims to evaluate the relevance of the daytime visibility distances
+    of the road marking predicted by the software developed by COST 331. To do this,
+    an experiment was carried out on a test track with two road surfaces (asphalt
+    and concrete) on which new and worn discontinuous marking lines were applied.
+    The visibility distance obtained with the software from static \U0001D444\U0001D451
+    and horizontal illuminance measurements was compared to visibility distances calculated
+    with the Adrian’s model from luminance images acquired dynamically. The results
+    show that the software systematically overestimates the visibility distance, in
+    particular due to its failure to consider the variability of the perceived luminance
+    as a function of the viewing distance. Moreover, the results question the fact
+    that the standardized indicators of the visibility of road markings should really
+    considered the contrast between the marking and the surrounding road surface.\n
+    \             See more"
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

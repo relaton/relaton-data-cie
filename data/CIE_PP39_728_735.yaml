@@ -1,171 +1,121 @@
 ---
-schema-version: v1.2.9
-id: CIEPP39728-735
-title:
-- content: |-
-    BROADBAND DEEP-UV TO BLUE LED MEASUREMENTS
-
-     (PP39, 728-735)
-  format: text/plain
-  type: title-main
-- content: |-
-    BROADBAND DEEP-UV TO BLUE LED MEASUREMENTS
-
-     (PP39, 728-735)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/broadband-deep-uv-to-blue-led-measurements-pp39-728-735?product_id=2011368
-  type: src
+id: CIEPP39728735
 type: standard
-docid:
-- id: CIE PP39 728-735
+schema_version: v1.4.1
+title:
+- content: "BROADBAND DEEP-UV TO BLUE LED MEASUREMENTS\n\n (PP39, 728-735)\n        \n
+    \           \n              ✓\n              Most Recent"
+  type: title-main
+- content: "BROADBAND DEEP-UV TO BLUE LED MEASUREMENTS\n\n (PP39, 728-735)\n        \n
+    \           \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/broadband-deep-uv-to-blue-led-measurements-pp39-728-735?product_id=2011368
+docidentifier:
+- content: CIE PP39 728-735
   type: CIE
   primary: true
 docnumber: PP39 728-735
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: G
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      - language: en
+        script: Latn
+        initial: P
       surname:
+        language: en
+        script: Latn
         content: Eppeldauer
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: V
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: B
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      - language: en
+        script: Latn
+        initial: B
       surname:
+        language: en
+        script: Latn
         content: Podobedov
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: W
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      - language: en
+        script: Latn
+        initial: W
       surname:
+        language: en
+        script: Latn
         content: Yoon
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: C
       surname:
+        language: en
+        script: Latn
         content: Cooksey
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: C
       surname:
+        language: en
+        script: Latn
         content: Miller
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Deep-UV LEDs have low output optical power. For radiometric applications, they need evaluations and selections. Traditional photometric measurements in the blue range have large uncertainties because of the poor realizations of the CIE standard V(•) function in the wings. Pyroelectric radiometers with low noise-equivalent-power (NEP) and flat spectral response have been developed with NIST coordination to solve these LED measurement problems. The relative detector-response was determined from spectral reflectance measurements of the black-coating between 250 nm and 800 nm. The new pyroelectric radiometers can be used at the output of regular monochromators and they also can accurately measure the broadband irradiance from deep-UV LEDs. The response of these pyroelectric detectors is an order of magnitude more flat in the UV-VIS range than filtered silicon detectors. The irradiance responsivity of the pyroelectric detector was derived from a silicon-trap-detector in the collimated irradiance of a current and temperature controlled LED of 660 nm peak. Using this tie point, the relative response curve of the pyroelectric detector was converted into spectral irradiance responsivity. The deviation of this responsivity function from a constant value was less than +/- 0.2 % between 250 nm and 780 nm. This spectral flatness was validated in DC mode against a Si photodiode standard down to 350 nm. To improve the stray light in the UV, the validation was performed using an LED collimator with 368-nm peak at the input of the monochromator as an alternate light-source of the originally used tungsten-halogen lamp. The pyroelectric detector measured the integrated irradiance from deep-UV LEDs with nominal peaks of 265 nm, 275 nm, and 285 nm and from high power LEDs with 365 nm, 400 nm, and 405 nm peaks. Source standards were not needed in these detector-based calibrations. The irradiance measurements were made 40 cm away from the LED sources. The spectral irradiance responsivity uncertainty of the pyroelectric radiometer standard at the tie point was 0.25 % (k=1).
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

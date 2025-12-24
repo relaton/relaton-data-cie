@@ -1,155 +1,121 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO118
+id: CIEx050PO118
+type: standard
+schema_version: v1.4.1
 title:
 - content: UNCERTAINTY EVALUATION OF HORTICULTURAL LEDs AND MONTE CARLO SIMULATION
     APPROACH
-  format: text/plain
   type: title-main
 - content: UNCERTAINTY EVALUATION OF HORTICULTURAL LEDs AND MONTE CARLO SIMULATION
     APPROACH
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po118?product_id=2579186
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO118
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po118?product_id=2579186
+docidentifier:
+- content: CIE x050-PO118
   type: CIE
   primary: true
 docnumber: x050-PO118
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
       surname:
+        language: en
+        script: Latn
         content: Alpaslan
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: Z
+      forename:
+      - language: en
+        script: Latn
+        initial: Z
       surname:
+        language: en
+        script: Latn
         content: Kösemen
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       surname:
+        language: en
+        script: Latn
         content: Yaran
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: Akkan
-          language:
-          - en
-          script:
-          - Latn
       surname:
+        language: en
+        script: Latn
         content: Ş.
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: Ni
-          language:
-          - en
-          script:
-          - Latn
       surname:
+        language: en
+        script: Latn
+        content: Akkan
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
         content: Ç.
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
+      forename:
+      - language: en
+        script: Latn
+        initial: H
       surname:
-        content: şancı
-        language:
-        - en
-        script:
-        - Latn
-  role:
+        language: en
+        script: Latn
+        content: Nişancı
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Sperling
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    In the fields of photometry and radiometry, spectral measurements play a crucial role in determining various parameters. The photometric parameters like total luminous flux, colour coordinates, etc. are attained by integrating spectral quantities. The integrated quantity uncertainty analyses can be complex for the calculation by GUM approach. Uncertainty analysis including the correlations effect can be done by Monte Carlo simulation. This study shows both approaches, i.e., with and without correlations, for the uncertainty analysis of the flux of a horticultural LED.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

@@ -1,0 +1,80 @@
+---
+id: CIEx0512025t22ew7
+type: standard
+schema_version: v1.4.1
+title:
+- content: 'ENERGY-EFFICIENT LIGHTING DESIGN FOR HAGIA EIRENE: TAILORED SOLUTIONS
+    FOR WORSHIP, CONCERT AND MUSEUM SETTINGS'
+  type: title-main
+- content: 'ENERGY-EFFICIENT LIGHTING DESIGN FOR HAGIA EIRENE: TAILORED SOLUTIONS
+    FOR WORSHIP, CONCERT AND MUSEUM SETTINGS'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-t22ew7?product_id=3040026
+docidentifier:
+- content: CIE x051:2025/t22ew7
+  type: CIE
+  primary: true
+docnumber: x051:2025/t22ew7
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Tokuşlu
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Erdem
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Atılgan
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Throughout history, churches have served as central gathering places for various activities. This study aims to propose energy-efficient lighting design recommendations for the Hagia Eirene Museum considering its potential uses and adhering to the ISO/CIE 8995-1:2025 and the Society of Light and Lighting Guide 13: Lighting for Places of Worship (SLL LG13) standards. Three different utilization scenarios were chosen as the basis for these recommendations: the museum envisioned as a concert venue, a common use of the space throughout the building’s history, a church for which it was originally built, and a museum, the actual utilization of the space as of 1800s. Different lighting design proposals were developed to meet the unique requirements of each scenario. To achieve this, the historic building’s 3D model was created using DIALux evo. Recommendations and photometric calculations, including illuminance levels and glare, have been made based on this model.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

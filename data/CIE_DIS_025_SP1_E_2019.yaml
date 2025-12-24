@@ -1,37 +1,39 @@
 ---
-schema-version: v1.2.9
-id: CIEDIS025-SP1-E-2019
+id: CIEDIS025SP1E2019
+type: standard
+schema_version: v1.4.1
 title:
 - content: Test Method for OLED Luminaires and OLED Light Sources
-  format: text/plain
   type: title-main
 - content: Test Method for OLED Luminaires and OLED Light Sources
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-dis-025-sp1-e-2019?product_id=2078723
-  type: src
-type: standard
-docid:
-- id: CIE DIS 025-SP1/E:2019
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-dis-025-sp1-e-2019?product_id=2078723
+docidentifier:
+- content: CIE DIS 025-SP1/E:2019
   type: CIE
   primary: true
 docnumber: DIS 025-SP1/E:2019
+date:
+- type: published
+  at: '2019-03-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: |-
+- language: en
+  script: Latn
+  content: |-
     This standard provides requirements to perform reproducible photometric and colorimetric measurements on LED lamps, LED modules, and LED luminaires (LED devices). It also provides advice for the reporting of the data. The availability of reliable and accurate photometric data for LED devices is a basic requirement for designing good lighting systems and evaluating performance of products. By obtaining these data through measurements in specific normalized measuring conditions, the consistency of the data should be ensured between different laboratories (within the limits of the declared measurement uncertainty) and comparison of different products on the same basis is possible.
 
     The standard specifies the requirements for measurement of electrical, photometric, and colorimetric quantities of LED lamps, LED modules and LED luminaires, for operation with AC or DC supply voltages, possibly with associated LED control gear. LED light engines are assimilated to LED modules and handled accordingly. Photometric and colorimetric quantities covered in this standard include total luminous flux, luminous efficacy, partial luminous flux, luminous intensity distribution, centre-beam intensity, luminance and luminance distribution, chromaticity coordinates, correlated colour temperature (CCT), colour rendering index (CRI), and angular colour uniformity. This standard does not cover LED packages and products based on OLEDs (organic LEDs).
@@ -39,38 +41,30 @@ abstract:
     The standard aims in particular to cover measurement methods for testing the compliance of LED devices with the photometric and colorimetric requirements of LED performance standards issued by IEC/TC 34 "Lamps and related equipment".
 
     As LED devices offer a large variety of configurations in respect to geometry and/or colour, the photometric and colorimetric performances are considered individually for each configuration.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+                  See more
 relation:
 - type: updates
   bibitem:
-    id: CIES025-SP1-E-2019
     title:
     - content: Test Method for LED Lamps, LED Luminaires and LED Modules
-      format: text/plain
       type: title-intro
     - content: 'Supplement 1: Test Method for OLED Luminaires and OLED Light Sources'
-      format: text/plain
       type: title-main
     - content: 'Test Method for LED Lamps, LED Luminaires and LED Modules - Supplement
         1: Test Method for OLED Luminaires and OLED Light Sources'
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-s-025-sp1-e-2019?product_id=2092150
-      type: src
-    docid:
-    - id: CIE S 025-SP1/E:2019
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-025-sp1-e-2019?product_id=2092150
+    docidentifier:
+    - content: CIE S 025-SP1/E:2019
       type: CIE
       primary: true
     date:
     - type: published
-      value: '2019-11-01'
-    revdate: '2019-11-01'
+      at: '2019-11-01'
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

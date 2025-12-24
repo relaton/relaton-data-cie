@@ -1,79 +1,98 @@
 ---
-schema-version: v1.2.9
-id: CIES008-E-2001
+id: CIES008E2001
+type: standard
+schema_version: v1.4.1
 title:
 - content: Lighting of work places
-  format: text/plain
   type: title-main
 - content: 'Part 1: Indoor [incl. Technical Corrigendum ISO 8995:2002/Cor.1:2005(E)]'
-  format: text/plain
   type: title-part
 - content: 'Lighting of work places - Part 1: Indoor [incl. Technical Corrigendum
     ISO 8995:2002/Cor.1:2005(E)]'
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-s-008-e-2001-iso-8995-1-2002-e?product_id=1529685
-  type: src
-type: standard
-docid:
-- id: CIE S 008/E:2001
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-s-008-e-2001-iso-8995-1-2002-e?product_id=1529685
+docidentifier:
+- content: CIE S 008/E:2001
   type: CIE
   primary: true
-- id: ISO 8995-1:2002
+- content: ISO 8995-1:2002
   type: ISO
 docnumber: S 008/E:2001
+date:
+- type: published
+  at: '2002-05-15'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    CIE published its "Guide on interior lighting" 2nd edition in 1986. Since then lighting practice
+    changed considerably, and it became necessary to prepare a new guide, this time as a CIE
+    Standard.
+    Good lighting requires equal attention to the quantity and quality of the lighting. While
+    the provision of sufficient illuminance on the task is necessary, in many instances the visibility
+    depends on the way in which the light is applied, the colour characteristics of the light source
+    and surfaces together with the amount of glare the system gives. In this standard opportunity
+    was taken to specify for various work places and task types not just the illuminance but also
+    the limiting discomfort glare and minimum colour rendering index of the source. Parameters to
+    create comfortable visual conditions are proposed in the body of this standard. The
+    recommended values are considered to represent a reasonable balance, having regard to the
+    requirements for safe, healthy and efficient work performance. The values can be achieved
+    with practical energy efficient solutions.
+    There are also visual ergonomic parameters such as perceptual ability and the
+    characteristics and attributes of the task, which determine the quality of the operator's visual
+    skills, and hence performance levels. In some cases enhancement of these influencing
+    factors can improve performance without the need to raise illuminance. For example by
+    improving the contrast of the task attributes, enlarging the task by the use of up to date visual
+    aids (glasses) and by the provision of special lighting systems with local directional lighting
+    capability.
+    The Standard provides guidance for illuminance, glare limitation and colour quality for
+    general building areas, agriculture buildings, the cement, concrete and brick industry, ceramic
+    and glass industry, chemical, plastics and rubber industry, electrical industry, food industry,
+    foundries and metal casting plants, hairdresser, jewelry manufacturing, laundries and dry
+    cleaning, leather industry, metal working and processing, paper industry, power stations,
+    printers, iron and steel works, textile industry, vehicle construction, wood working and
+    furniture industry, offices, retailing, restaurants and hotels, places of entertainment, libraries,
+    indoor public car parks, educational buildings, health care premises, airports, and churches.
+
+                  See more
 relation:
 - type: updates
   bibitem:
-    id: CIEISO8995-1-2025en
     title:
     - content: Light and lighting
-      format: text/plain
       type: title-intro
     - content: Lighting of work places
-      format: text/plain
       type: title-main
     - content: 'Part 1: Indoor'
-      format: text/plain
       type: title-part
     - content: 'Light and lighting - Lighting of work places - Part 1: Indoor'
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-iso-8995-1-2025-en?product_id=2930375
-      type: src
-    docid:
-    - id: CIE ISO 8995-1:2025(en)
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-iso-8995-1-2025-en?product_id=2930375
+    docidentifier:
+    - content: CIE ISO 8995-1:2025(en)
       type: CIE
       primary: true
     date:
     - type: published
-      value: '2025-01-01'
-    revdate: '2025-01-01'
+      at: '2025-01-01'
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

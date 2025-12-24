@@ -1,81 +1,80 @@
 ---
-schema-version: v1.2.9
-id: CIEPO25534-543
-title:
-- content: OPTIMIZING IMAGE APPEARANCE OF AN OPTICAL SEE-THROUGH HMD FOR MIXED-REALITY
-    APPLICATIONS (PO25, 534-543)
-  format: text/plain
-  type: title-main
-- content: OPTIMIZING IMAGE APPEARANCE OF AN OPTICAL SEE-THROUGH HMD FOR MIXED-REALITY
-    APPLICATIONS (PO25, 534-543)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/optimizing-image-appearance-of-an-optical-see-through-hmd-for-mixed-reality-applications-po25-534-543?product_id=2016302
-  type: src
+id: CIEPO25534543
 type: standard
-docid:
-- id: CIE PO25 534-543
+schema_version: v1.4.1
+title:
+- content: "OPTIMIZING IMAGE APPEARANCE OF AN OPTICAL SEE-THROUGH HMD FOR MIXED-REALITY
+    APPLICATIONS (PO25, 534-543)\n        \n            \n              ✓\n              Most
+    Recent"
+  type: title-main
+- content: "OPTIMIZING IMAGE APPEARANCE OF AN OPTICAL SEE-THROUGH HMD FOR MIXED-REALITY
+    APPLICATIONS (PO25, 534-543)\n        \n            \n              ✓\n              Most
+    Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/optimizing-image-appearance-of-an-optical-see-through-hmd-for-mixed-reality-applications-po25-534-543?product_id=2016302
+docidentifier:
+- content: CIE PO25 534-543
   type: CIE
   primary: true
 docnumber: PO25 534-543
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: Yu-Ting
-          language:
-          - en
-          script:
-          - Latn
       surname:
+        language: en
+        script: Latn
         content: Hsiao
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: Pei-Li
-          language:
-          - en
-          script:
-          - Latn
       surname:
-        content: Sun
-        language:
-        - en
-        script:
-        - Latn
-  role:
+        language: en
+        script: Latn
+        content: Yu-Ting
+- role:
   - type: author
-- organization:
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Sun
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Pei-Li
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    OST-HMD (optical see-through head-mounted display) is a kind of display device which is frequently used in mixed reality applications. In general, the virtual image would be nearly transparent when the virtual image is dark or the background scene is too bright. Especially for the second condition, if there is a glossy object in the scene and to be covered by a virtual object, the virtual object should be processed in order to enhance its visibility. To simulate the highlight condition, we generate background image with glossy objects in varying degrees and display these images on a 42" high dynamic range display. A psychophysical experiment was conducted to analyse the correlation between the scene and preferred rendering parameters.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

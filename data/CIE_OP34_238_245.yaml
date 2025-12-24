@@ -1,119 +1,97 @@
 ---
-schema-version: v1.2.9
-id: CIEOP34238-245
-title:
-- content: AN EXPERIMENTAL PROTOCOL TO OBJECTIVELY CHARACTERIZE DISCOMFORT GLARE USING
-    PHYSIOLOGICAL MEASUREMENTS (OP34, 238-245)
-  format: text/plain
-  type: title-main
-- content: AN EXPERIMENTAL PROTOCOL TO OBJECTIVELY CHARACTERIZE DISCOMFORT GLARE USING
-    PHYSIOLOGICAL MEASUREMENTS (OP34, 238-245)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/an-experimental-protocol-to-objectively-characterize-discomfort-glare-using-physiological-measurements-op34-238-245?product_id=2010474
-  type: src
+id: CIEOP34238245
 type: standard
-docid:
-- id: CIE OP34 238-245
+schema_version: v1.4.1
+title:
+- content: "AN EXPERIMENTAL PROTOCOL TO OBJECTIVELY CHARACTERIZE DISCOMFORT GLARE
+    USING PHYSIOLOGICAL MEASUREMENTS (OP34, 238-245)\n        \n            \n              ✓\n
+    \             Most Recent"
+  type: title-main
+- content: "AN EXPERIMENTAL PROTOCOL TO OBJECTIVELY CHARACTERIZE DISCOMFORT GLARE
+    USING PHYSIOLOGICAL MEASUREMENTS (OP34, 238-245)\n        \n            \n              ✓\n
+    \             Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/an-experimental-protocol-to-objectively-characterize-discomfort-glare-using-physiological-measurements-op34-238-245?product_id=2010474
+docidentifier:
+- content: CIE OP34 238-245
   type: CIE
   primary: true
 docnumber: OP34 238-245
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Iodice
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Jost
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: D
+      forename:
+      - language: en
+        script: Latn
+        initial: D
       surname:
+        language: en
+        script: Latn
         content: Dumortier
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
+      forename:
+      - language: en
+        script: Latn
+        initial: C
       surname:
+        language: en
+        script: Latn
         content: Gronfier
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Most studies about discomfort glare rely on psychovisual experiments, where participants evaluate their own perception: ratings on semantic or numeric scales, adjustments of source luminance, pair comparisons, etc. But only few used physiological measurements to collect objective data. Investigations with physiological measurement devices can be divided in two categories: studying the relationship between discomfort and physiological data, or using directly physiological data to qualify the discomfort provided by a visual scene. Our study belongs to the first category. Indeed, a capacity of objectively characterising discomfort glare would have many applications in research. Moreover, development of such methods could benefit the understanding of its perception. But would the range of stimuli required to observe a significant physiological response be representative of standard lighting conditions? The aim of this study is to design experimental physiological procedure and set-up which would conciliate controlled laboratory parameters and real lighting situations. In such conditions, the physiological measurements could give relevant information about practical lighting
+    applications.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

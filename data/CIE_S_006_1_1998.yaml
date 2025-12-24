@@ -1,93 +1,92 @@
 ---
-schema-version: v1.2.9
-id: CIES006.1-1998
+id: CIES00611998
+type: standard
+schema_version: v1.4.1
 title:
 - content: Road traffic lights
-  format: text/plain
   type: title-intro
 - content: Photometric properties of 200 mm roundel signals
-  format: text/plain
   type: title-main
 - content: Road traffic lights - Photometric properties of 200 mm roundel signals
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-s-006-1-1998-iso-16508-1999?product_id=1210129
-  type: src
-type: standard
-docid:
-- id: CIE S 006.1/1998
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-s-006-1-1998-iso-16508-1999?product_id=1210129
+docidentifier:
+- content: CIE S 006.1/1998
   type: CIE
   primary: true
-- id: ISO 16508:1999
+- content: ISO 16508:1999
   type: ISO
 docnumber: S 006.1/1998
+date:
+- type: published
+  at: '1999-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    National and international standards for road traffic signal lights usually specify requirements for the luminous intensity of the lights to ensure that the signals will be visible in adequate time for an approaching driver to safely and efficiently respond to the signal on roads where speeds are low.
+
+    The official guidance of the CIE for traffic signal luminous intensity (CIE 79-1988: A Guide for the Design of Road Traffic Lights) has been widely followed as providing sound direction for standard development. This guidance was based on a comprehensive review of the subject published as a CIE Technical Report (CIE 48-1980: Light Signals for Road Traffic Control).
+
+    The CIE undertook a major review of its recommendations in the period 1989 to 1994 (see CIE 107-1994: Review of the official recommendations of the CIE for the colours of signal lights and CIE DS004.2-1996: Colours of light signals) and this Standard is based on that review. Technical Committee 4-29 (Standard on Road Traffic Lights) of Division 4 of the CIE (Lighting and Signalling for Transport) was responsible for the review and the drafting of this Standard. This Standard deals with the colour, luminous intensity and luminous intensity distribution for 200 mm road traffic signals. The serious problem of sun phantom, which can affect the correct recognition of the light, is included in the Standard.
+
+    It should be noted that this Standard considers only a few of the topics covered in CIE 79-1988. These are the topics for which supporting research and practical experience were strong enough to support standardisation. For topics not covered in this Standard, such as guidance concerning higher speed roadways and traffic lights using symbols, the user is advised to follow the guidance provided in CIE 79-1988.
+
+    This Standard has been approved by the CIE and replaces the recommendations made on 200 mm roundel signals in CIE 79-1988. It has been approved by ISO as a joint ISO/CIE standard.
+
+    This Standard may be obtained from the CIE National Committees or the Central Bureau of the CIE. A French and a German version (ISO 16508:1999/CIE S006.1/F-1998 and CIE S006/G-1998) are also available.
+                  See more
 relation:
 - type: updates
   bibitem:
-    id: CIE079-1988
     title:
     - content: A guide for the design of road traffic lights
-      format: text/plain
       type: title-main
     - content: A guide for the design of road traffic lights
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-079-1988?product_id=1210007
-      type: src
-    docid:
-    - id: CIE 079-1988
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-079-1988?product_id=1210007
+    docidentifier:
+    - content: CIE 079-1988
       type: CIE
       primary: true
     date:
     - type: published
-      value: '1988-01-01'
-    revdate: '1988-01-01'
+      at: '1988-01-01'
 - type: updates
   bibitem:
-    id: CIE048-1980
     title:
     - content: Light signals for road traffic control
-      format: text/plain
       type: title-main
     - content: Light signals for road traffic control
-      format: text/plain
       type: main
-    link:
-    - content: https://www.techstreet.comhttps//store.accuristech.com/standards/cie-048-1980?product_id=1209980
-      type: src
-    docid:
-    - id: CIE 048-1980
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-048-1980?product_id=1209980
+    docidentifier:
+    - content: CIE 048-1980
       type: CIE
       primary: true
     date:
     - type: published
-      value: '1980-01-01'
-    revdate: '1980-01-01'
+      at: '1980-01-01'
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

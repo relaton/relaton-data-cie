@@ -1,113 +1,88 @@
 ---
-schema-version: v1.2.9
-id: CIEPO49Pages462-469
-title:
-- content: THE EFFECTIVE LUMINOUS SURFACES IN THE UNIFIED GLARE RATING (PO49, Pages
-    462-469)
-  format: text/plain
-  type: title-main
-- content: THE EFFECTIVE LUMINOUS SURFACES IN THE UNIFIED GLARE RATING (PO49, Pages
-    462-469)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/the-effective-luminous-surfaces-in-the-unified-glare-rating-po49-pages-462-469?product_id=1941872
-  type: src
+id: CIEPO49Pages462469
 type: standard
-docid:
-- id: CIE PO49 Pages 462-469
+schema_version: v1.4.1
+title:
+- content: "THE EFFECTIVE LUMINOUS SURFACES IN THE UNIFIED GLARE RATING (PO49, Pages
+    462-469)\n        \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "THE EFFECTIVE LUMINOUS SURFACES IN THE UNIFIED GLARE RATING (PO49, Pages
+    462-469)\n        \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/the-effective-luminous-surfaces-in-the-unified-glare-rating-po49-pages-462-469?product_id=1941872
+docidentifier:
+- content: CIE PO49 Pages 462-469
   type: CIE
   primary: true
 docnumber: PO49 Pages 462-469
+date:
+- type: published
+  at: '2016-09-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: G
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      - language: en
+        script: Latn
+        initial: H
       surname:
+        language: en
+        script: Latn
         content: Scheir
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
+      forename:
+      - language: en
+        script: Latn
+        initial: P
       surname:
+        language: en
+        script: Latn
         content: Hanselaer
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: W
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: W
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: Ryckaert
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    A non-uniform luminance distribution produces more discomfort glare than a uniform one of equal average luminance. Since the average luminance level for the standard UGR calculation considers mostly the total luminaire surface, its applicability for non-uniform light sources is under discussion. With a growing market share of highly non-uniform LED luminaires, a valid discomfort glare metric becomes essential. The UGR can elegantly be improved by discriminating between background and light emitting part(s) of a luminaire. A luminance threshold identifies the high luminance pixels in a luminance map as actual light emitting surface. A subjective visual experiment encompassing commercially available recessed office luminaires validates the improved UGR method. With a coefficient of determination of 0.44, the standard UGR fails to predict discomfort glare. Covering also non-uniform light sources, the improved UGR, with a coefficient of determination of up to 0.80, elegantly ameliorates the visual discomfort calculation from a luminance map.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

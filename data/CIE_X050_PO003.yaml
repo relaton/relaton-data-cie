@@ -1,119 +1,93 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO003
+id: CIEx050PO003
+type: standard
+schema_version: v1.4.1
 title:
 - content: CORRELATING PHOTOPIC AND MELANOPIC REFLECTANCE TO SURFACE COLOUR ATTRIBUTES
     FOR INDOOR ENVIRONMENTS DESIGN
-  format: text/plain
   type: title-main
 - content: CORRELATING PHOTOPIC AND MELANOPIC REFLECTANCE TO SURFACE COLOUR ATTRIBUTES
     FOR INDOOR ENVIRONMENTS DESIGN
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po003?product_id=2579041
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO003
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po003?product_id=2579041
+docidentifier:
+- content: CIE x050-PO003
   type: CIE
   primary: true
 docnumber: x050-PO003
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: L
+      forename:
+      - language: en
+        script: Latn
+        initial: L
       surname:
+        language: en
+        script: Latn
         content: Bellia
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: F
+      forename:
+      - language: en
+        script: Latn
+        initial: F
       surname:
+        language: en
+        script: Latn
         content: Diglio
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: F
+      forename:
+      - language: en
+        script: Latn
+        initial: F
       surname:
+        language: en
+        script: Latn
         content: Fragliasso
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Sharma
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Reflecting the incident radiation, opaque surfaces contribute to determining visual and non-visual responses to light. Material’s photopic and melanopic reflectance indicate surfaces’ potential in reflecting the radiation able to stimulate the visual system and the circadian one respectively. Classification of materials based on the ratio between these two quantities (M/P) is helpful to drive designers’ choices. This study applies a systematic analysis on 195 samples selected from the Natural Colour System to deepen how colours’ attributes (hue, chromaticness, and blackness) influence photopic and melanopic reflectance (under CIE D65 illuminant) and M/P ratios. Results show that, whatever the blackness, both total photopic and melanopic reflectance linearly decrease as the chromaticness increases and in the meantime, their ratios tend towards 1. So, a model to calculate M/P ratios as a function of colours’ chromaticness is proposed. Finally, an approach to classify colours according to M/P ratios is suggested.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

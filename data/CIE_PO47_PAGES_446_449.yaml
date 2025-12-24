@@ -1,191 +1,144 @@
 ---
-schema-version: v1.2.9
-id: CIEPO47Pages446-449
-title:
-- content: VISUAL FIDELITY ASSESSMENT OF ARTWORKS IN VIRTUAL REALITY (PO47, Pages
-    446-449)
-  format: text/plain
-  type: title-main
-- content: VISUAL FIDELITY ASSESSMENT OF ARTWORKS IN VIRTUAL REALITY (PO47, Pages
-    446-449)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/visual-fidelity-assessment-of-artworks-in-virtual-reality-po47-pages-446-449?product_id=1941869
-  type: src
+id: CIEPO47Pages446449
 type: standard
-docid:
-- id: CIE PO47 Pages 446-449
+schema_version: v1.4.1
+title:
+- content: "VISUAL FIDELITY ASSESSMENT OF ARTWORKS IN VIRTUAL REALITY (PO47, Pages
+    446-449)\n        \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "VISUAL FIDELITY ASSESSMENT OF ARTWORKS IN VIRTUAL REALITY (PO47, Pages
+    446-449)\n        \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/visual-fidelity-assessment-of-artworks-in-virtual-reality-po47-pages-446-449?product_id=1941869
+docidentifier:
+- content: CIE PO47 Pages 446-449
   type: CIE
   primary: true
 docnumber: PO47 Pages 446-449
+date:
+- type: published
+  at: '2016-09-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
         content: Pardo
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      - language: en
+        script: Latn
+        initial: C
       surname:
+        language: en
+        script: Latn
         content: Cwierz
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: I
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: I
       surname:
+        language: en
+        script: Latn
         content: Suero
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Felicisimo
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: E
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: E
       surname:
+        language: en
+        script: Latn
         content: Polo
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: L
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: L
       surname:
+        language: en
+        script: Latn
         content: Perez
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: "Head Mounted Displays (HMD) allows immersive experiences in virtual worlds
+    and it would be expected to have many applications, in both fields: recreational
+    and professional. The aim of this paper is to check the accuracy of the visual
+    appearance of real objects captured through a 3D scanner, rendered in a PC and
+    displayed in the latest development kit available of the Oculus Rift Virtual Reality
+    glasses. Subjective evaluation has been carried out in both environments, real
+    and virtual. Ten observers through a survey based on a 5 steps Mean Opinion Score
+    scale. The results indicate greater fidelity in the lighting and shading using
+    the deferred renderer that includes the BRDF model. For colour and texture, the
+    results are slightly worse, but can still be considered acceptable. The worst
+    results were obtained regarding the pixelation effect and correction for chromatic
+    aberration. \n\n              See more"
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

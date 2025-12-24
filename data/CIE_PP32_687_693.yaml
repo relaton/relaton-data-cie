@@ -1,87 +1,70 @@
 ---
-schema-version: v1.2.9
-id: CIEPP32687-693
-title:
-- content: |-
-    LIGHT EVALUATION IN HIGH AND LOW MOOD STATES
-
-     (PP32, 687-693)
-  format: text/plain
-  type: title-main
-- content: |-
-    LIGHT EVALUATION IN HIGH AND LOW MOOD STATES
-
-     (PP32, 687-693)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/light-evaluation-in-high-and-low-mood-states-pp32-687-693?product_id=2011363
-  type: src
+id: CIEPP32687693
 type: standard
-docid:
-- id: CIE PP32 687-693
+schema_version: v1.4.1
+title:
+- content: "LIGHT EVALUATION IN HIGH AND LOW MOOD STATES\n\n (PP32, 687-693)\n        \n
+    \           \n              ✓\n              Most Recent"
+  type: title-main
+- content: "LIGHT EVALUATION IN HIGH AND LOW MOOD STATES\n\n (PP32, 687-693)\n        \n
+    \           \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/light-evaluation-in-high-and-low-mood-states-pp32-687-693?product_id=2011363
+docidentifier:
+- content: CIE PP32 687-693
   type: CIE
   primary: true
 docnumber: PP32 687-693
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "N"
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
       surname:
+        language: en
+        script: Latn
         content: Umemiya
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Suzuki
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Effects of mood states on evaluation of light environment evaluation were inspected in this study. Light conditions were set in two levels, light (2200 lux) and dark?340 lux). Light level was changed from light to dark or dark to light in an experiment and effects of change order were also considered. Mood states were calculated by Profile of Mood States score which was developed for clinical use. Subjects were classified into high and low mood states by limits of 25, 50 and 75 percentile values of mood score. As a results, tension?anxiety mood was related to the evaluation of glare and comfort. Vigour mood was related to the brightness, comfort, preference and performance. Anger-hostility mood was related to the glare and performance. Depression mood was related to the brightness and glare. However, fatigue and confusion mood were not related to the evaluation of light environment at all.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

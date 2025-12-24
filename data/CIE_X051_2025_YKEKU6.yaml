@@ -1,0 +1,108 @@
+---
+id: CIEx0512025ykeku6
+type: standard
+schema_version: v1.4.1
+title:
+- content: TOWARD AN UNIFIED PROPOSAL FOR THE COLOURS OF THE FLAGS OF THE TWENTY-SEVEN
+    MEMBER STATES OF THE EUROPEAN UNION
+  type: title-main
+- content: TOWARD AN UNIFIED PROPOSAL FOR THE COLOURS OF THE FLAGS OF THE TWENTY-SEVEN
+    MEMBER STATES OF THE EUROPEAN UNION
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-ykeku6?product_id=3040038
+docidentifier:
+- content: CIE x051:2025/ykeku6
+  type: CIE
+  primary: true
+docnumber: x051:2025/ykeku6
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Yebra
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Melgosa
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: I
+      surname:
+        language: en
+        script: Latn
+        content: Serrano-Matías
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Viková
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Vik
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    We analysed the official regulations for the colours of the flags of the 27 member states of the European Union (59 colour samples) and compared them with the colours we measured (D65 illuminant, CIE 1964 standard observer) for commercial flags made by a Spanish manufacturer. Official regulations employed 7 colour systems, Pantone being the most common (78% of flags). These regulations used the CIE x,y,Y or CIELAB systems (specifying colour tolerances) for only 29% of flags. Colour differences between the official regulations and the colours measured with/without a reference plaque behind the fabric were very high: an average of 19/25 CIELAB units (standard deviation of 12/13 CIELAB units), respectively. Colours in the official regulations were spread over larger regions of colour space than the colours measured for the commercial flags, which were mainly located in 7 regions. A rigorous and unified quantitative specification of colours for these flags seems necessary.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

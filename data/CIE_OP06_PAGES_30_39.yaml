@@ -1,104 +1,85 @@
 ---
-schema-version: v1.2.9
-id: CIEOP06Pages30-39
+id: CIEOP06Pages3039
+type: standard
+schema_version: v1.4.1
 title:
 - content: POLARIZATION EFFECTS IN DIFFUSE REFLECTANCE MEASUREMENTS
-  format: text/plain
   type: title-intro
-- content: COMPARISON OF WHITE STANDARDS AND SPECIAL-EFFECT PIGMENT SAMPLES (OP06,
-    Pages 30-39)
-  format: text/plain
+- content: "COMPARISON OF WHITE STANDARDS AND SPECIAL-EFFECT PIGMENT SAMPLES (OP06,
+    Pages 30-39)\n        \n            \n              ✓\n              Most Recent"
   type: title-main
-- content: POLARIZATION EFFECTS IN DIFFUSE REFLECTANCE MEASUREMENTS - COMPARISON OF
-    WHITE STANDARDS AND SPECIAL-EFFECT PIGMENT SAMPLES (OP06, Pages 30-39)
-  format: text/plain
+- content: "POLARIZATION EFFECTS IN DIFFUSE REFLECTANCE MEASUREMENTS - COMPARISON
+    OF WHITE STANDARDS AND SPECIAL-EFFECT PIGMENT SAMPLES (OP06, Pages 30-39)\n        \n
+    \           \n              ✓\n              Most Recent"
   type: main
-link:
-- content: https://store.accuristech.com/standards/polarization-effects-in-diffuse-reflectance-measurements-comparison-of-white-standards-and-special-effect-pigment-samples-op06-pages-30-39?product_id=1941810
-  type: src
-type: standard
-docid:
-- id: CIE OP06 Pages 30-39
+source:
+- type: src
+  content: https://store.accuristech.com/standards/polarization-effects-in-diffuse-reflectance-measurements-comparison-of-white-standards-and-special-effect-pigment-samples-op06-pages-30-39?product_id=1941810
+docidentifier:
+- content: CIE OP06 Pages 30-39
   type: CIE
   primary: true
 docnumber: OP06 Pages 30-39
+date:
+- type: published
+  at: '2016-09-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Quast
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Schirmacher
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Hauer
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    To characterize the polarization influence in diffuse reflectance measurements, PTB's gonioreflectometer has been equipped with a polarization-analyzer unit. This allows one to characterize the polarization state of light by measuring the Stokes parameters. Different kinds of samples have been investigated in several exemplary geometries (in plane and out of plane) and at different wavelengths to assess the influence of polarization. Among these samples are a ceramic white standard, semi-matte photo papers and different special-effect pigment coated tiles. The observed polarization effect strongly depends on the sample and on the geometry. For the samples in this study, the more sophisticated the optical properties of the sample are (color, gloss, texture, goniochromatism), the larger is the polarization effect, even for typical geometries.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

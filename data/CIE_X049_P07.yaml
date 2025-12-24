@@ -1,196 +1,140 @@
 ---
-schema-version: v1.2.9
-id: CIEx049-P07
+id: CIEx049P07
+type: standard
+schema_version: v1.4.1
 title:
 - content: DEVELOPMENT OF A CONTROL SYSTEM TO EVALUATE THE IMPACT OF ARTIFICIAL LIGHT
     MODULATION ON INSECTS
-  format: text/plain
   type: title-main
 - content: DEVELOPMENT OF A CONTROL SYSTEM TO EVALUATE THE IMPACT OF ARTIFICIAL LIGHT
     MODULATION ON INSECTS
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x049-p07?product_id=2502829
-  type: src
-type: standard
-docid:
-- id: CIE x049-P07
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x049-p07?product_id=2502829
+docidentifier:
+- content: CIE x049-P07
   type: CIE
   primary: true
 docnumber: x049-P07
+date:
+- type: published
+  at: '2022-10-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: L
+      forename:
+      - language: en
+        script: Latn
+        initial: L
       surname:
+        language: en
+        script: Latn
         content: De Causmaecker
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Mentens
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
+      forename:
+      - language: en
+        script: Latn
+        initial: S
       surname:
+        language: en
+        script: Latn
         content: Aerts
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: B
+      forename:
+      - language: en
+        script: Latn
+        initial: B
       surname:
+        language: en
+        script: Latn
         content: Vanschoenwinkel
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: Moortgat
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: den
-          language:
-          - en
-          script:
-          - Latn
       surname:
+        language: en
+        script: Latn
         content: Van
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
+      forename:
+      - language: en
+        script: Latn
+        initial: P
       surname:
-        content: Bossche
-        language:
-        - en
-        script:
-        - Latn
-  role:
+        language: en
+        script: Latn
+        content: den Bossche
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: V
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Jacobs
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    By 2030, all public lighting in Flanders, Belgium will be replaced by LED technology. However, artificial lighting properties, such as flickering due to light modulation, influence nocturnal insects. This research describes the development of a novel measurement device that can control the flickering frequency, luminous flux and correlated color temperature (CCT) of an LED light box. This to evaluate the impact of artificial light modulation on insects. A case study has been developed using four identical setups that were placed on the university campus. For each setup, the flickering frequency can be varied (f = 0 Hz, 80 Hz, 120 Hz, 150 Hz) while other parameters are unchanged. When an insect is detected, an image is taken which allows further determination. In this paper, descriptive statistics on the number of detected insects are presented. The results of the prototype and measurement setup are promising for further research in different areas of biology.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

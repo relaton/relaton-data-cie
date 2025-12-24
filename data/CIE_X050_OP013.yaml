@@ -1,81 +1,67 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-OP013
+id: CIEx050OP013
+type: standard
+schema_version: v1.4.1
 title:
 - content: THE EFFECTS OF AMBIENT LIGHTING IN THE USAGE OF AUGMENTED REALITY
-  format: text/plain
   type: title-main
 - content: THE EFFECTS OF AMBIENT LIGHTING IN THE USAGE OF AUGMENTED REALITY
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-op013?product_id=2578987
-  type: src
-type: standard
-docid:
-- id: CIE x050-OP013
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op013?product_id=2578987
+docidentifier:
+- content: CIE x050-OP013
   type: CIE
   primary: true
 docnumber: x050-OP013
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: X
-      surname:
-        content: Mou
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: X
       surname:
+        language: en
+        script: Latn
         content: Mou
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- organization:
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Mou
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Augmented reality (AR) technology has been adopted in a wide spectrum of applications ranging from education, to healthcare, to manufacturing. In optical see-through AR devices, the see-through scene illuminated by ambient lighting can have a visible difference in colour and brightness from the virtual image from the AR device. This difference affects the immersion and realism experience. For example, if the ambient lighting is in a warm tone (lower CCT), it may make the higher CCT colors of the AR image appear more muted or washed out. Conversely, if the ambient lighting is cool, warm colors in the AR image may appear more vibrant or saturated. This paper addresses the effects on optical see-through AR image quality under various ambient lighting conditions.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

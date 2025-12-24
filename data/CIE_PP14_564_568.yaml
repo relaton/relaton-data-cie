@@ -1,195 +1,139 @@
 ---
-schema-version: v1.2.9
-id: CIEPP14564-568
-title:
-- content: |-
-    STUDY ON THE POSSIBIALITY OF LED FILAMENT LAMP AS PHOTOMETRIC STANDARD
-
-     (PP14, 564-568)
-  format: text/plain
-  type: title-main
-- content: |-
-    STUDY ON THE POSSIBIALITY OF LED FILAMENT LAMP AS PHOTOMETRIC STANDARD
-
-     (PP14, 564-568)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/study-on-the-possibiality-of-led-filament-lamp-as-photometric-standard-pp14-564-568?product_id=2011270
-  type: src
+id: CIEPP14564568
 type: standard
-docid:
-- id: CIE PP14 564-568
+schema_version: v1.4.1
+title:
+- content: "STUDY ON THE POSSIBIALITY OF LED FILAMENT LAMP AS PHOTOMETRIC STANDARD\n\n
+    (PP14, 564-568)\n        \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "STUDY ON THE POSSIBIALITY OF LED FILAMENT LAMP AS PHOTOMETRIC STANDARD\n\n
+    (PP14, 564-568)\n        \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/study-on-the-possibiality-of-led-filament-lamp-as-photometric-standard-pp14-564-568?product_id=2011270
+docidentifier:
+- content: CIE PP14 564-568
   type: CIE
   primary: true
 docnumber: PP14 564-568
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
-      surname:
-        content: Liu
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: H
       surname:
+        language: en
+        script: Latn
         content: Liu
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: W
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: Q
+      forename:
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
+        content: Liu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: W
+      - language: en
+        script: Latn
+        initial: Q
+      surname:
+        language: en
+        script: Latn
         content: Zhao
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: D
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      - language: en
+        script: Latn
+        initial: D
       surname:
+        language: en
+        script: Latn
         content: Lin
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Su
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: L
+      forename:
+      - language: en
+        script: Latn
+        initial: L
       surname:
+        language: en
+        script: Latn
         content: Jiang
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Yan
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The current photometric measurement system is based on CIE standard illuminant A (i.e. incandescent lamps), but LED is widely used to instead of incandescent lamp, in the future most of our measurement object will be LED. LED-based standard lamp could short the calibration chain as well as greatly reduce the uncertainty related to spectra deviation. Three LED filament lamps with different colour temperature were used as standard lamp to calibrate the spectroradiometer, and then divers LED lamps were measured, to compare with the incandescent base method, the difference of luminous flux is less than 0.3%, which is inside
+    the range of uncertainty. The repeatability and storage character of LED filament lamp was investigated as well. This study shows LED based lamp could substitute the incandescent lamp as luminous flux and spectral transferring standard for typical white LED measurement.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

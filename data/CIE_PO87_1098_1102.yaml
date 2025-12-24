@@ -1,123 +1,91 @@
 ---
-schema-version: v1.2.9
-id: CIEPO871098-1102
-title:
-- content: |-
-    MEASUREMENTS OF REFLECTION PROPERTIES OF A WET LED-LIGHTED ROAD
-
-     (PO87, 1098-1102)
-  format: text/plain
-  type: title-main
-- content: |-
-    MEASUREMENTS OF REFLECTION PROPERTIES OF A WET LED-LIGHTED ROAD
-
-     (PO87, 1098-1102)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/measurements-of-reflection-properties-of-a-wet-led-lighted-road-po87-1098-1102?product_id=2011224
-  type: src
+id: CIEPO8710981102
 type: standard
-docid:
-- id: CIE PO87 1098-1102
+schema_version: v1.4.1
+title:
+- content: "MEASUREMENTS OF REFLECTION PROPERTIES OF A WET LED-LIGHTED ROAD\n\n (PO87,
+    1098-1102)\n        \n            \n              ✓\n              Most Recent"
+  type: title-main
+- content: "MEASUREMENTS OF REFLECTION PROPERTIES OF A WET LED-LIGHTED ROAD\n\n (PO87,
+    1098-1102)\n        \n            \n              ✓\n              Most Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/measurements-of-reflection-properties-of-a-wet-led-lighted-road-po87-1098-1102?product_id=2011224
+docidentifier:
+- content: CIE PO87 1098-1102
   type: CIE
   primary: true
 docnumber: PO87 1098-1102
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: W
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: W
       surname:
+        language: en
+        script: Latn
         content: Hsu
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: H
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: H
       surname:
+        language: en
+        script: Latn
         content: Chen
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: S
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Hung
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    IWe have developed a method based on on-site measurement of luminance images to study the reflected properties of LED and HPS lighted wet road. The distance of imaging luminance measurement device (ILMD) can be very close to the measured region to have high observation angles. All the measured luminance images were analysed and summarized to a distribution of reflected luminance as a function deviation angle, incidence angle, and observation angle.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

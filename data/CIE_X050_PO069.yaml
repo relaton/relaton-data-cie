@@ -1,83 +1,69 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-PO069
+id: CIEx050PO069
+type: standard
+schema_version: v1.4.1
 title:
 - content: INFLUENCE OF PHOTOGRAPHIC LIGHT-SHAPING ATTACHMENTS ON COLOUR PROPERTIES
     OF THE ORIGINAL LIGHT SOURCE
-  format: text/plain
   type: title-main
 - content: INFLUENCE OF PHOTOGRAPHIC LIGHT-SHAPING ATTACHMENTS ON COLOUR PROPERTIES
     OF THE ORIGINAL LIGHT SOURCE
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-po069?product_id=2579116
-  type: src
-type: standard
-docid:
-- id: CIE x050-PO069
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po069?product_id=2579116
+docidentifier:
+- content: CIE x050-PO069
   type: CIE
   primary: true
 docnumber: x050-PO069
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: V
+      forename:
+      - language: en
+        script: Latn
+        initial: V
       surname:
+        language: en
+        script: Latn
         content: Štampfl
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: J
+      forename:
+      - language: en
+        script: Latn
+        initial: J
       surname:
+        language: en
+        script: Latn
         content: Ahtik
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The properties of photographic light sources are often described in terms of the type of light source, its power, colour temperature, colour rendering index, and often its distance from the observed scene. These properties affect the lighting conditions at the scene and can be critical to accurate colour reproduction in images. However, light-shaping attachments are often used to alter the original lighting by either focusing the light, diffusing the light beam, or otherwise transforming it. This can affect the colour characteristics of the original light, making the description of the light source inadequate.The effects of three different light-shaping attachments in combination with five light sources on the colour properties of the photographic scene are presented. The CIEΔE2000 colour differences as well as the differences in lightness, chromaticity, and hue for each combination of attachment and light sources are presented.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

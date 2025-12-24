@@ -1,87 +1,70 @@
 ---
-schema-version: v1.2.9
-id: CIEx050-IP001
+id: CIEx050IP001
+type: standard
+schema_version: v1.4.1
 title:
 - content: THE FUTURE OF LIGHTING STANDARDS (AND HOW TO GET THERE)
-  format: text/plain
   type: title-main
 - content: THE FUTURE OF LIGHTING STANDARDS (AND HOW TO GET THERE)
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x050-ip001?product_id=2578609
-  type: src
-type: standard
-docid:
-- id: CIE x050-IP001
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-ip001?product_id=2578609
+docidentifier:
+- content: CIE x050-IP001
   type: CIE
   primary: true
 docnumber: x050-IP001
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: P
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: Boyce
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: C
+      forename:
+      - language: en
+        script: Latn
+        initial: C
       surname:
+        language: en
+        script: Latn
         content: Cuttle
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    Lighting has changed dramatically over the last two decades, but lighting standards have not. Standards were first introduced to ensure the efficient performance of visual tasks. They soon expanded to cover visual discomfort and became a means to eliminate bad lighting. Today, they often limit the ability to produce good lighting. This is partly because standards have been issued for applications without critical visual tasks and partly because they encourage the use of regular arrays of luminaires. There are three steps to solving this problem. The first is to separate lighting recommendations into standards and guidance. Standards should be devoted to eliminating bad lighting. Guidance should be devoted to promoting good lighting. The second is to focus attention on lighting the space rather than the task. The third is to use the lighting design objectives procedure rather than the lumen method as the basis for lighting design.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

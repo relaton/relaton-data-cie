@@ -1,101 +1,83 @@
 ---
-schema-version: v1.2.9
-id: CIEPP01Pages163-166
-title:
-- content: OPTICAL DETECTION SYSTEM FOR MONOCHRAMATIC BEAM GONIOSPECTROPHOTOMETRY
-    (PP01, Pages 163-166)
-  format: text/plain
-  type: title-main
-- content: OPTICAL DETECTION SYSTEM FOR MONOCHRAMATIC BEAM GONIOSPECTROPHOTOMETRY
-    (PP01, Pages 163-166)
-  format: text/plain
-  type: main
-link:
-- content: https://store.accuristech.com/standards/optical-detection-system-for-monochramatic-beam-goniospectrophotometry-pp01-pages-163-166?product_id=1941827
-  type: src
+id: CIEPP01Pages163166
 type: standard
-docid:
-- id: CIE PP01 Pages 163-166
+schema_version: v1.4.1
+title:
+- content: "OPTICAL DETECTION SYSTEM FOR MONOCHRAMATIC BEAM GONIOSPECTROPHOTOMETRY
+    (PP01, Pages 163-166)\n        \n            \n              ✓\n              Most
+    Recent"
+  type: title-main
+- content: "OPTICAL DETECTION SYSTEM FOR MONOCHRAMATIC BEAM GONIOSPECTROPHOTOMETRY
+    (PP01, Pages 163-166)\n        \n            \n              ✓\n              Most
+    Recent"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/optical-detection-system-for-monochramatic-beam-goniospectrophotometry-pp01-pages-163-166?product_id=1941827
+docidentifier:
+- content: CIE PP01 Pages 163-166
   type: CIE
   primary: true
 docnumber: PP01 Pages 163-166
+date:
+- type: published
+  at: '2016-09-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
+        language: en
+        script: Latn
         content: Koo
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: G
+      forename:
+      - language: en
+        script: Latn
+        initial: G
       surname:
+        language: en
+        script: Latn
         content: Porrovecchio
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: M
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
+        language: en
+        script: Latn
         content: Smid
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    The design and manufacture of a detection system suitable for an 'underfilled sample' goniospectrophotometer system illuminated by a quasi-monochromatic beam is described and assessed. Optomechanical design of the detection system was optimised to ensure equal efficiency for both vertically and horizontally polarized light. To achieve this, a mirror tilted about both vertical and horizontal axes is used to focus light into a custom made sintered halon integrating sphere. Photon detection is performed by a combination of a state-of-the-art small factor photon counter and a Si based detector in conjunction with custom made switch integrator low noise electronics. This hybrid detector covers ten orders of magnitude of linear operation.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

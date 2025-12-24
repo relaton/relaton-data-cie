@@ -1,87 +1,70 @@
 ---
-schema-version: v1.2.9
-id: CIEx048-PO65
+id: CIEx048PO65
+type: standard
+schema_version: v1.4.1
 title:
 - content: USEFUL CONTRAST INDEX FOR ROADWAY LIGHTING STANDARDS
-  format: text/plain
   type: title-main
 - content: USEFUL CONTRAST INDEX FOR ROADWAY LIGHTING STANDARDS
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x048-po65?product_id=2240867
-  type: src
-type: standard
-docid:
-- id: CIE x048-PO65
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-po65?product_id=2240867
+docidentifier:
+- content: CIE x048-PO65
   type: CIE
   primary: true
 docnumber: x048-PO65
+date:
+- type: published
+  at: '2021-09-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: A
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: AbouElhamd
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: R
+      forename:
+      - language: en
+        script: Latn
+        initial: R
       surname:
+        language: en
+        script: Latn
         content: Saraiji
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    This article proposes a new metric for roadway lighting design that has the potential to improve visibility for drivers during nighttime. The new metric is named as Useful Contrast Index (UCI) and it relates the contrast of obstacles (targets) to the contrast threshold. We define the useful contrast index as the percentage of targets that have a contrast value greater than the contrast threshold along the length of the road. We conclude that the Useful Contrast Index has merit and could be used to provide a better visual environment for drivers.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

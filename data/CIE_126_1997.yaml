@@ -1,45 +1,46 @@
 ---
-schema-version: v1.2.9
-id: CIE126-1997
+id: CIE1261997
+type: standard
+schema_version: v1.4.1
 title:
 - content: Guidelines for minimizing sky glow
-  format: text/plain
   type: title-main
 - content: Guidelines for minimizing sky glow
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-126-1997?product_id=1210124
-  type: src
-type: standard
-docid:
-- id: CIE 126-1997
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-126-1997?product_id=1210124
+docidentifier:
+- content: CIE 126-1997
   type: CIE
   primary: true
 docnumber: 126-1997
+date:
+- type: published
+  at: '1997-01-01'
 contributor:
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    In most countries of the world, astronomical observations are disturbed by the light from outdoor lighting installations. Part of the light is scattered in the atmosphere and forms a luminous halo. The phenomenon is called 'sky glow'. This Technical Report gives general guidance for lighting designers and policy makers on the reduction of the sky glow. The report discusses briefly the theoretical aspects of sky glow and it gives recommendations about maximum permissible values for lighting installations in relation to the needs of astronomical observations - casual sky viewing included. These values must be regarded as limiting values. Lighting designers should do all possible to meet the lowest specifications for the design unless the specific installation requires relaxation. Other uses of the open air areas at night will usually result in less stringent sky-glow requirements. Practical implementation of the general guidance is left to National Regulations. Other aspects of light obtrusion are covered in detail by CIE TC 5-12 "Obtrusive light".
+
+    The report is written in English with a short summary in French and German. It contains 20 pages.
+
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie

@@ -1,0 +1,82 @@
+---
+id: CIEx0512025ynog6u
+type: standard
+schema_version: v1.4.1
+title:
+- content: ASSESSING ATYPICAL COLOUR PERCEPTIONS IN NEURODIVERGENT INDIVIDUALS
+  type: title-main
+- content: ASSESSING ATYPICAL COLOUR PERCEPTIONS IN NEURODIVERGENT INDIVIDUALS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-ynog6u?product_id=3040044
+docidentifier:
+- content: CIE x051:2025/ynog6u
+  type: CIE
+  primary: true
+docnumber: x051:2025/ynog6u
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Yin
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Raynham
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: U
+      surname:
+        language: en
+        script: Latn
+        content: Teji
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Challenges posed by unsuitable colour and light conditions can lead to human’s visual discomfort, sensory overload, negative behaviour, and diminished mood. Such effects are often more pronounced in neurodivergent (ND) compared to neurotypical (NT) individuals due to their unique physiological and psychological processing of colour and light. However, existing research is limited and contains contradictions. Here we present a comparative study focused on a series of psychophysical visual-perceptual colour tests, to explore potential differences between ND (34) and NT (34) people regarding their Colour Preference (CP), Colour Comfort (CC), and Colour Discrimination Threshold (CD). Some results showed significant differences between ND and NT groups, such as the hue quadrants of preferred colour and their colour discrimination ability. However, colour effects on various visual perceptual and cognitive tasks are varied, and require further investigation. The findings can provide insights into the possible effect of colour on neurodivergent people.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,119 +1,93 @@
 ---
-schema-version: v1.2.9
-id: CIEx048-OP25
+id: CIEx048OP25
+type: standard
+schema_version: v1.4.1
 title:
 - content: EFFECTS OF THE TRIPLE SPLIT WINDOW SCREEN ON VISUAL PRIVACY AND VIEW IN
     THE RESIDENTIAL LIVING SPACE
-  format: text/plain
   type: title-main
 - content: EFFECTS OF THE TRIPLE SPLIT WINDOW SCREEN ON VISUAL PRIVACY AND VIEW IN
     THE RESIDENTIAL LIVING SPACE
-  format: text/plain
   type: main
-link:
-- content: https://store.accuristech.com/standards/cie-x048-op25?product_id=2240707
-  type: src
-type: standard
-docid:
-- id: CIE x048-OP25
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op25?product_id=2240707
+docidentifier:
+- content: CIE x048-OP25
   type: CIE
   primary: true
 docnumber: x048-OP25
+date:
+- type: published
+  at: '2021-09-29'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "Y"
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
+        language: en
+        script: Latn
         content: Oe
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: K
+      forename:
+      - language: en
+        script: Latn
+        initial: K
       surname:
+        language: en
+        script: Latn
         content: Saito
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: T
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
+        language: en
+        script: Latn
         content: Souma
-        language:
-        - en
-        script:
-        - Latn
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
-      given:
-        forename:
-        - content: ''
-          language:
-          - en
-          script:
-          - Latn
-          initial: "N"
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
       surname:
+        language: en
+        script: Latn
         content: Yoshizawa
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
     name:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-    url: cie.co.at
-  role:
-  - type: publisher
-language:
-- en
-script:
-- Latn
+language: en
+script: Latn
 abstract:
-- content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
+- language: en
+  script: Latn
+  content: |-
+    In order to examine the effect of the translucent level of each layer on the visual privacy and the view when the window equipment is divided into three sections, the subject experiment was carried out. It was found that visibility from inside and estimated visibility from outside were proportional to each other regardless of the window equipment condition. The relationship between visibility from inside and estimated visibility from outside was affected by the shielding position of the window equipment, and it was revealed that the clearer the view from the middle layer, the more privacy could be secured. In addition, it was suggested that opening the lower level of the window rather than the upper level would ensure both privacy and view.
+                  See more
 ext:
-  schema-version: v1.0.0
+  schema_version: v1.0.0
   doctype:
-    type: document
+    content: document
+  flavor: cie
