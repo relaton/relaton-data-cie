@@ -1,0 +1,70 @@
+---
+id: CIEx043PP05
+type: standard
+schema_version: v1.4.1
+title:
+- content: STUDY ON SPECTRAL CHARACTERISTICS FOR IDENTIFICATION OF SKIN COLOUR OF
+    INJURED JAPANESE PERSONS AT DISASTER SITES (PP05, Pages 179-189)
+  type: title-main
+- content: STUDY ON SPECTRAL CHARACTERISTICS FOR IDENTIFICATION OF SKIN COLOUR OF
+    INJURED JAPANESE PERSONS AT DISASTER SITES (PP05, Pages 179-189)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/study-on-spectral-characteristics-for-identification-of-skin-colour-of-injured-japanese-persons-at-disaster-sites-pp05-pages-179-189?product_id=1941830
+docidentifier:
+- content: CIE x043-PP05
+  type: CIE
+  primary: true
+docnumber: PP05 Pages 179-189
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Akizuki
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Ohno
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In order to develop suitable light sources for disaster medical work, we first determined the skin colour and spectral reflectance of injured or sick persons under shocked or congested state. Using the NIST Color Quality Scale (CQS) simulation model, we theoretically determined appropriate spectral power distributions (SPD) of a light source which is effective in distinguishing colour differences among various skin states. Moreover, in order to evaluate the colour rendering, a subjective qualitative evaluation was conducted with similar SPD lights as the theoretical SPDs in NIST Spectrally Tunable Lighting Facility.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

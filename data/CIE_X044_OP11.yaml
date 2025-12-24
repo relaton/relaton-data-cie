@@ -1,0 +1,103 @@
+---
+id: CIEx044OP11
+type: standard
+schema_version: v1.4.1
+title:
+- content: GENERIC GLARE MODELS FOR PREDICTING NON-UNIFORM AND COLOURED  LED SOURCES
+    (OP11, 79-82)
+  type: title-main
+- content: GENERIC GLARE MODELS FOR PREDICTING NON-UNIFORM AND COLOURED  LED SOURCES
+    (OP11, 79-82)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/generic-glare-models-for-predicting-non-uniform-and-coloured-led-sources-op11-79-82?product_id=2009528
+docidentifier:
+- content: CIE x044-OP11
+  type: CIE
+  primary: true
+docnumber: OP11 79-82
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Luo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Yang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: W
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Huang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Ma
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This paper summarises the research work by the authors for the evaluation of glare (Yang et al., 2015, 2016a, 2016b 2017). Three experiments were carried out to accumulate glare perception data from luminaires having different uniformities and spectral power distributions. Two generic glare models were developed to fit the visual data in Experiments 1 and 2. Their performance were also tested using Experiment 3 data. They outperformed the UGR and the other state of the art models.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

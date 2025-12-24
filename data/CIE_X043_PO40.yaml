@@ -1,0 +1,118 @@
+---
+id: CIEx043PO40
+type: standard
+schema_version: v1.4.1
+title:
+- content: ESTIMATION OF THE SPARKLE TEXTURE EFFECT BY VISUAL AND INSTRUMENTAL ASSESSMENTS
+    (PO40, Pages 395-400)
+  type: title-main
+- content: ESTIMATION OF THE SPARKLE TEXTURE EFFECT BY VISUAL AND INSTRUMENTAL ASSESSMENTS
+    (PO40, Pages 395-400)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/estimation-of-the-sparkle-texture-effect-by-visual-and-instrumental-assessments-po40-pages-395-400?product_id=1941862
+docidentifier:
+- content: CIE x043-PO40
+  type: CIE
+  primary: true
+docnumber: PO40 Pages 395-400
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Perales
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Chorro
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: O
+      surname:
+        language: en
+        script: Latn
+        content: Gomez
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      surname:
+        language: en
+        script: Latn
+        content: Viqueira
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Martinez-Verdu
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: "To validate the instrumental measurement of sparkle by the BYK-mac multi-angle
+    spectrophotometer, the correlation between the sparkle magnitude assigned by observers
+    and the sparkle magnitude calculated by the instrument was studied by using a
+    psychophysical experiment. The method used for the visual assessment was the method
+    of magnitude estimation. Observers were asked to assign numbers in proportion
+    to the magnitude of a stimulus taking into account two references (extreme anchors).
+    It was found that sparkle grade (SG) correlates very well with human visual perception.
+    The performance is slightly better for 15°as15° measurement geometry than for
+    45°as45° measurement geometry. However, sparkle intensity (Si) and sparkle area
+    (Sa) do not correlate well with visual perception for any measurement geometry.
+    It could be because the psychophysical experiment was designed to evaluate the
+    sparkle grade and not to evaluate the two independent variables, although relevant
+    for the final sparkle value. \n\n              See more"
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

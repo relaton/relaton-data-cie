@@ -1,0 +1,70 @@
+---
+id: CIEx043PO39
+type: standard
+schema_version: v1.4.1
+title:
+- content: PHYSICAL INDEX FOR JUDGING APPEARANCE HARMONY OF MATERIALS (PO39, Pages
+    387-394)
+  type: title-main
+- content: PHYSICAL INDEX FOR JUDGING APPEARANCE HARMONY OF MATERIALS (PO39, Pages
+    387-394)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/physical-index-for-judging-appearance-harmony-of-materials-po39-pages-387-394?product_id=1941861
+docidentifier:
+- content: CIE x043-PO39
+  type: CIE
+  primary: true
+docnumber: PO39 Pages 387-394
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Tanaka
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Horiuchi
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In visual design, harmony refers to the similarity among objects and the components of these objects that appear as if they belong together. Harmony is related to the body, mind, and emotions as we relate to our living space, which means that the harmony of real objects is an important characteristic. Moreover, harmony might be affected by the shared traits between objects, such as their colour, shape, texture, and material. Although the appearance harmony in specific materials has been investigated, harmony among different materials has not received adequate attention. In our previous study, we investigated the appearance harmony among various materials by psychophysical experiments. In this study, we analysed the psychophysical evaluations obtained from our previous experiments, and the physical properties of the materials. We found that the property of texture represented by the anisotropy histogram was an important index that can be used to judge the harmony of materials.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

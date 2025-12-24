@@ -1,0 +1,99 @@
+---
+id: CIEx043OP21
+type: standard
+schema_version: v1.4.1
+title:
+- content: ACCURATE SIMULATION OF LIGHT DIFFUSION EFFECTS OF PATTERNED GLAZING BY
+    IMPLEMENTATION OF BIDIRECTIONAL TRANSMITTANCE DISTRIBUTION FUNCTIONS INTO DAYLIGHT
+    CALCULATION SOFTWARE (OP21, Pages 133-139)
+  type: title-main
+- content: ACCURATE SIMULATION OF LIGHT DIFFUSION EFFECTS OF PATTERNED GLAZING BY
+    IMPLEMENTATION OF BIDIRECTIONAL TRANSMITTANCE DISTRIBUTION FUNCTIONS INTO DAYLIGHT
+    CALCULATION SOFTWARE (OP21, Pages 133-139)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/accurate-simulation-of-light-diffusion-effects-of-patterned-glazing-by-implementation-of-bidirectional-transmittance-distribution-functions-into-daylight-calculation-software-op21-pages-133-139?product_id=1941823
+docidentifier:
+- content: CIE x043-OP21
+  type: CIE
+  primary: true
+docnumber: OP21 Pages 133-139
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Vyncke
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Meulenbergs
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Audenaert
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Leloup
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    When evaluating the daylight factor in buildings, generally an exponential decline of the illuminance is perceived the further the distance from the window. A better daylight penetration should be put forward, for example by redirecting a part of the light to the ceiling. The goal of this study was to investigate the optical characteristics of readily available patterned glazing to this use. Besides an assessment of the total reflectance and transmittance properties, bidirectional transmittance distribution function measurements under multiple angles of illumination were performed on a set of glazing samples. The resulting BTDF data were combined and transformed into an appropriate format for implementation in light simulation software. In result, daylight simulations of buildings can be performed with accurate input data. As an example, the implementation of a characterized glazing sample in a public office is presented.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

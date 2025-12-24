@@ -1,0 +1,94 @@
+---
+id: CIEx043OP22
+type: standard
+schema_version: v1.4.1
+title:
+- content: SPECTRAL IMAGE ANALYSIS AND APPEARANCE RECONSTRUCTION OF FLUORESCENT OBJECTS
+    UNDER DIFFERENT ILLUMINATIONS (OP22, Pages 140-146)
+  type: title-main
+- content: SPECTRAL IMAGE ANALYSIS AND APPEARANCE RECONSTRUCTION OF FLUORESCENT OBJECTS
+    UNDER DIFFERENT ILLUMINATIONS (OP22, Pages 140-146)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/spectral-image-analysis-and-appearance-reconstruction-of-fluorescent-objects-under-different-illuminations-op22-pages-140-146?product_id=1941824
+docidentifier:
+- content: CIE x043-OP22
+  type: CIE
+  primary: true
+docnumber: OP22 Pages 140-146
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Tominaga
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Kato
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Hirai
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Horiuchi
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    A method is proposed for analysing spectral components from the observed images of fluorescent objects and reconstructing realistic appearances of the fluorescent objects under different illuminations. First, the Donaldson matrices of fluorescent objects are estimated at each pixel point using a spectral imaging system under two-illuminant projections. Observed images of the fluorescent objects under arbitrary illuminations are constructed using the estimated matrices and the target illuminant. Next, the mutual illumination phenomenon between fluorescent objects is analysed. The Donaldson matrix of each object and the spectral image components are estimated from the images with the mutual illumination. The estimated component images are used for reconstructing the same objects under different light source. Finally the feasibility of the method is shown in appearance reconstruction of fluorescent objects with/without mutual illumination effects under different light sources.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

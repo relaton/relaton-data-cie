@@ -1,0 +1,85 @@
+---
+id: CIEx044OP03
+type: standard
+schema_version: v1.4.1
+title:
+- content: WHITE LIGHT CHROMATICITY LOCUS FOR NATURALNESS (OP03, 32-37)
+  type: title-main
+- content: WHITE LIGHT CHROMATICITY LOCUS FOR NATURALNESS (OP03, 32-37)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/white-light-chromaticity-locus-for-naturalness-op03-32-37?product_id=2009464
+docidentifier:
+- content: CIE x044-OP03
+  type: CIE
+  primary: true
+docnumber: OP03 32-37
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Jiamin
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: Z
+      surname:
+        language: en
+        script: Latn
+        content: Qiyan
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Luo
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    From the earlier study by Ohno and Fein, the white light chromaticities across different correlated colour temperature (CCT) perceived the most natural were located below the Planckian locus. The goal of this study was to investigate whether some white lights can
+    make familiar objects (such as banana, apple) to appear more natural, i.e. closer to observers' memory colours. The experiment was conducted using a spectrum tunable LED lighting system in a double viewing cabinets. The effect of white chromaticity of natural
+    perception were evaluated with a strict control of the other colour quality parameters including CCT, colour fidelity, gamut shape and chromatic adaptation. Seventeen normal colour vision observers attended the visual assessments using a pair comparison method. The results showed that the lights with a mean Duv of - 0,013 across a variety of CCTs appeared the most natural.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

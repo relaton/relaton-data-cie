@@ -1,0 +1,80 @@
+---
+id: CIEx043OP19
+type: standard
+schema_version: v1.4.1
+title:
+- content: CAPTURING MATERIAL VISUALIZATION DATA USING GONIOMETERS (OP19, Pages 121-128)
+  type: title-main
+- content: CAPTURING MATERIAL VISUALIZATION DATA USING GONIOMETERS (OP19, Pages 121-128)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/capturing-material-visualization-data-using-goniometers-op19-pages-121-128?product_id=1941821
+docidentifier:
+- content: CIE x043-OP19
+  type: CIE
+  primary: true
+docnumber: OP19 Pages 121-128
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Filip
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Vavra
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Haindl
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Reproduction of the appearance of real-world materials in virtual environments has been one of the ultimate challenges of computer graphics. The required material representations depend on the complexity of the material's appearance. They start with a bidirectional reflectance distribution function (BRDF) describing distribution of energy reflected in the viewing direction when illuminated from a specific direction. As the BRDF cannot capture a material's spatial structure, it has been extended to a more general bidirectional texture function (BTF) capturing non-local effects in rough material structures, such as occlusions, masking, sub-surface scattering, or inter-reflections. A monospectral BTF is a six-dimensional function representing the material appearance at each surface point for variable illumination and view directions, parameterized by elevation and azimuthal angles. This paper describes application of gonioreflectometers for capturing BTF for material visualization purposes. It starts with the reference measurement setup and continue with introduction of portable measurement approaches to capturing approximate BTF. Finally, we discuss future challenges in material acquisition.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

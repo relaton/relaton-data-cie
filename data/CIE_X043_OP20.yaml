@@ -1,0 +1,70 @@
+---
+id: CIEx043OP20
+type: standard
+schema_version: v1.4.1
+title:
+- content: AN LED SPECTRUM FOR DISCERNING TEXTURE DETAILS (OP20, Pages 129-132)
+  type: title-main
+- content: AN LED SPECTRUM FOR DISCERNING TEXTURE DETAILS (OP20, Pages 129-132)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/an-led-spectrum-for-discerning-texture-details-op20-pages-129-132?product_id=1941822
+docidentifier:
+- content: CIE x043-OP20
+  type: CIE
+  primary: true
+docnumber: OP20 Pages 129-132
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Xu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Luo
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    A study was carried out to investigate the spectra of a light source affecting the texture perceptions. A method was developed on the enhancement of visibility of textures and was verified via two psychophysical experiments on images displayed on a monitor and real materials in a viewing cabinet. Three wavelength regions at around 425 nm, 480 nm - 505 nm and 660 nm were found to form a white illuminant that can largely improve the visibility of texture. The visual results showed the effectiveness of the spectra design method. Also, the results obtained from the display and viewing cabinets gave similar results.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -3,11 +3,9 @@ id: CIEIEC01741987
 type: standard
 schema_version: v1.4.1
 title:
-- content: International lighting vocabulary, 4th ed. ***CONTACT [email protected]
-    TO OBTAIN THIS PUBLICATION
+- content: International lighting vocabulary, 4th ed. ***CONTACT
   type: title-main
-- content: International lighting vocabulary, 4th ed. ***CONTACT [email protected]
-    TO OBTAIN THIS PUBLICATION
+- content: International lighting vocabulary, 4th ed. ***CONTACT
   type: main
 source:
 - type: src
@@ -16,6 +14,8 @@ docidentifier:
 - content: CIE IEC 017.4-1987
   type: CIE
   primary: true
+- content: '3900734070'
+  type: ISBN
 docnumber: IEC 017.4-1987
 date:
 - type: published

@@ -1,0 +1,162 @@
+---
+id: CIEx043PO14
+type: standard
+schema_version: v1.4.1
+title:
+- content: USING A STANDARD GREY SCALE FOR COLOUR CHANGE IN A MULTI-ANGLE COLOUR-ASSESSMENT
+    CABINET (PO14, Pages 287-294)
+  type: title-main
+- content: USING A STANDARD GREY SCALE FOR COLOUR CHANGE IN A MULTI-ANGLE COLOUR-ASSESSMENT
+    CABINET (PO14, Pages 287-294)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/using-a-standard-grey-scale-for-colour-change-in-a-multi-angle-colour-assessment-cabinet-po14-pages-287-294?product_id=1941846
+docidentifier:
+- content: CIE x043-PO14
+  type: CIE
+  primary: true
+docnumber: PO14 Pages 287-294
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Melgosa
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Gomez-Robledo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Cui
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Li
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Ferrero
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Bernad
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Campos
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Richard
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Fernandez-Maloigne
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: "We performed 3 independent spectroradiometric measurements of the 9 colour
+    pairs in the grey scale of the Society of Dyers and Colourist (SDC) at 6 different
+    viewing angles, as provided by a byko-spectra multi-angle colour assessment cabinet.
+    On the average, the CIELAB colour differences of these colour pairs showed a variability
+    with viewing angle 4 times higher than the variability associated to the 3 independent
+    measurements. BRDF measurements of the samples in the SDC grey scale confirmed
+    their goniochromatism, which is not identical to the one shown by the samples
+    in the grey scale of the American Association of Textiles Chemists and Colorists
+    (AATCC). A pseudo-divergence bidimensional representation confirmed the results
+    found for the two grey scales. We conclude that the viewing angle is a relevant
+    parameter in the colour differences of colour pairs of commercial grey scales
+    placed in multi-angle colour cabinets. \n\n              See more"
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

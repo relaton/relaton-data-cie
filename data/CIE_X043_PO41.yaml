@@ -1,0 +1,82 @@
+---
+id: CIEx043PO41
+type: standard
+schema_version: v1.4.1
+title:
+- content: EVALUATION INDEX FOR THE VISUAL APPEARANCE AND THE TACTILE TEXTURE (PO41,
+    Pages 401-407)
+  type: title-main
+- content: EVALUATION INDEX FOR THE VISUAL APPEARANCE AND THE TACTILE TEXTURE (PO41,
+    Pages 401-407)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/evaluation-index-for-the-visual-appearance-and-the-tactile-texture-po41-pages-401-407?product_id=1941863
+docidentifier:
+- content: CIE x043-PO41
+  type: CIE
+  primary: true
+docnumber: PO41 Pages 401-407
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Kitamura
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Sugita
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Isoda
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Visual appearance of building finishing materials is one of the most important factors for the total impression of a room. It is evaluated through the sense of vision, touch, smell and hearing. Among them, it is considered that the sense of vision contributes largely to the visual impression of a room. This study is aimed to be a foundation for a suggestion of the evaluation index of visual appearance. Two experiments and 4 measurements were held to clarify the evaluation index for the visual appearance and the tactile texture. As a result, five evaluation index were extracted, gloss, roughness, warmth, softness and dryness.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

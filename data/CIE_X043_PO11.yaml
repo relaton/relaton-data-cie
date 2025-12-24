@@ -1,0 +1,82 @@
+---
+id: CIEx043PO11
+type: standard
+schema_version: v1.4.1
+title:
+- content: STUDY OF VISIBILITY UNDER COMPLEX LUMINANCE CONDITIONS FOR THE VISUALLY
+    CHALLENGED PEOPLE USING LUMINANCE-IMAGE FILTERING (PO11, Pages 262-268)
+  type: title-main
+- content: STUDY OF VISIBILITY UNDER COMPLEX LUMINANCE CONDITIONS FOR THE VISUALLY
+    CHALLENGED PEOPLE USING LUMINANCE-IMAGE FILTERING (PO11, Pages 262-268)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/study-of-visibility-under-complex-luminance-conditions-for-the-visually-challenged-people-using-luminance-image-filtering-po11-pages-262-268?product_id=1941843
+docidentifier:
+- content: CIE x043-PO11
+  type: CIE
+  primary: true
+docnumber: PO11 Pages 262-268
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Iwata
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Kato
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Nakamura
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    For visibility, many studies have been conducted on visibility with uniform luminance background. However, when applying the results to the real world, since the visual object or the background normally have complicated brightness distribution, the application is difficult. This study examines through an experiment on sighted persons (including those whose visual acuity have been corrected) and persons with low vision (not including those whose visual acuity have been corrected) using an evaluation method involving a brightness contrast image which can examine quantitatively under complicated brightness distribution environment on the assumption of visibility of signs and obstacles.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie
