@@ -1,0 +1,110 @@
+---
+id: CIEx05120257crdee
+type: standard
+schema_version: v1.5.6
+title:
+- content: EXPLORING THE ROLE OF THE FALL OF DARKNESS ON LONDON'S THEFT AND ROBBERY
+    INCIDENTS BETWEEN 2013
+  type: title-intro
+- content: '2019'
+  type: title-main
+- content: EXPLORING THE ROLE OF THE FALL OF DARKNESS ON LONDON'S THEFT AND ROBBERY
+    INCIDENTS BETWEEN 2013 - 2019
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-7crdee?product_id=3039863
+docidentifier:
+- content: CIE x051:2025/7crdee
+  type: CIE
+  primary: true
+docnumber: x051:2025/7crdee
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Erturk
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Ticleanu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Barrett
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Raynham
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: U
+      surname:
+        language: en
+        script: Latn
+        content: Teji
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This study investigates criminal behaviour in London after dark by using Metropolitan Police Services (MPS) crime records from 2013 to 2019 and calculating solar altitude at the time the crime took place. The data was filtered to identify crimes where the time was known to have taken place in a window of 5 minutes or less, and only these were analysed in the study. “Darkness” is defined in this study as the condition when the solar altitude is less than –6 degrees. Findings indicate that robbery and theft from the person increased significantly after dark (p<0.0001). The percentage of theft that takes place after dark, increases in Central London, compared to the whole of London. Further analysis found that robbery and theft occurrences have a significant correlation with darkness.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

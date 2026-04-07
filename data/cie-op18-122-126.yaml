@@ -1,0 +1,73 @@
+---
+id: CIEOP18122126
+type: standard
+schema_version: v1.5.6
+title:
+- content: STUDY CHROMATIC ADAPTATION VIA NEUTRAL WHITE ASSESSMENT IN DIFFERENT VIEWING
+    CONDITIONS (OP18, 122-126)
+  type: title-main
+- content: STUDY CHROMATIC ADAPTATION VIA NEUTRAL WHITE ASSESSMENT IN DIFFERENT VIEWING
+    CONDITIONS (OP18, 122-126)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/study-chromatic-adaptation-via-neutral-white-assessment-in-different-viewing-conditions-op18-122-126?product_id=2010428
+docidentifier:
+- content: CIE OP18 122-126
+  type: CIE
+  primary: true
+docnumber: OP18 122-126
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: Q
+      surname:
+        language: en
+        script: Latn
+        content: Zhai
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Luo
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This study focused on the neutral white of chromatic adaptation in colour science. Using both surface colours and self-luminous colours, an experiment was conducted to collected visual results of the neutral white under white illuminants. The result proves the previous study about the chromatic adaptation. The baseline illuminants of the 2-step CAT was found with different CCTs for the surface colours and self-luminous colours respectively. Models of effective degree of chromatic adaptation were tested and compared with that found in the previous study, which was found highly associated with the viewing media.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

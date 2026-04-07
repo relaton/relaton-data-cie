@@ -1,0 +1,51 @@
+---
+id: CIE2272017
+type: standard
+schema_version: v1.5.6
+title:
+- content: Lighting for Older People and People with Visual Impairment in Buildings
+  type: title-main
+- content: Lighting for Older People and People with Visual Impairment in Buildings
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-227-2017?product_id=1994746
+docidentifier:
+- content: CIE 227:2017
+  type: CIE
+  primary: true
+- content: '9783901906961'
+  type: ISBN
+docnumber: 227:2017
+date:
+- type: published
+  at: '2017-09-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    CIE 227:2017 summarizes lighting recommendations on lighting and visual environment in interior spaces such as offices, public spaces, and residences for healthy older people (defined as people aged 50 years and older) with normal vision, and people with low vision, and implements guidelines described in CIE 196:2011 into practical solutions.
+
+    The report provides (1) illuminance recommendations, derived from simulations with existing visual models for older people, (2) state of art of studies on how light helps people with low vision see objects by reviewing recent literature, and (3) design guidelines for lighting practitioners how to design appropriate visual environments for people with low vision.
+
+    The publication is written in English, with a short summary in French and German.
+
+    English version is included in the case of purchasing a translation.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

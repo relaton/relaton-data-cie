@@ -1,0 +1,55 @@
+---
+id: CIEx050OP009
+type: standard
+schema_version: v1.5.6
+title:
+- content: A CORE LIGHTING CURRICULUM FOR UNIVERSITY STUDENTS
+  type: title-main
+- content: A CORE LIGHTING CURRICULUM FOR UNIVERSITY STUDENTS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op009?product_id=2578654
+docidentifier:
+- content: CIE x050-OP009
+  type: CIE
+  primary: true
+docnumber: x050-OP009
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Houser
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In collaboration with a group of lighting professionals, learning outcomes were defined, prioritized, organized, and mapped to a three-course sequence of lighting courses within a Bachelor of Science in Architectural Engineering degree program. Syllabi and educational exercises were developed to support the learning outcomes—including classroom activities, homework assignments, and design projects. The learning exercises balance the technical foundations of applied illuminating engineering with the artistic aspects of applied lighting design and are intended to promote significant and lasting learning by providing students with realistic, contemporary, and contextual educational experiences. The process for identifying and prioritizing lighting content is described, a process that could be adapted by other lighting educators to other pedagogical contexts. The syllabi and learning exercises are disseminated for reuse or adaptation, or for self-study by independent learners.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

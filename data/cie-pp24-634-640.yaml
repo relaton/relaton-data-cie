@@ -1,0 +1,74 @@
+---
+id: CIEPP24634640
+type: standard
+schema_version: v1.5.6
+title:
+- content: |-
+    THE EFFECTS OF DUV ON LIGHTING ENVIRONMENT WITH CONSIDERATION OF INTERIOR MATERIAL
+
+     (PP24, 634-640)
+  type: title-main
+- content: |-
+    THE EFFECTS OF DUV ON LIGHTING ENVIRONMENT WITH CONSIDERATION OF INTERIOR MATERIAL
+
+     (PP24, 634-640)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/the-effects-of-duv-on-lighting-environment-with-consideration-of-interior-material-pp24-634-640?product_id=2011355
+docidentifier:
+- content: CIE PP24 634-640
+  type: CIE
+  primary: true
+docnumber: PP24 634-640
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Mochizuki
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Usui
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    It has been pointed out that LED sometimes causes unnatural colour appearance due to the chromaticity distance from the Planckian locus (Duv). In this study, subjective experiment was conducted to identify the effects of Duv of LED luminaire on the lighting environment considering the interior surface material. From the results of the experiment, it was identified that brightness evaluation was significantly different when the chromaticity coordinates was off the Planckian locus even when the correlated colour temperature of the light source was classified as the same by JIS. It was also shown that the effects of Duv on brightness evaluation differ depending on the combination of interior material and which side the Duv shifts.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

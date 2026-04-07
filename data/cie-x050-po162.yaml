@@ -1,0 +1,127 @@
+---
+id: CIEx050PO162
+type: standard
+schema_version: v1.5.6
+title:
+- content: AIRBORNE LUMINANCEMETER FOR OBTRUSIVE LIGHT MEASUREMENTS
+  type: title-main
+- content: AIRBORNE LUMINANCEMETER FOR OBTRUSIVE LIGHT MEASUREMENTS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po162?product_id=2579223
+docidentifier:
+- content: CIE x050-PO162
+  type: CIE
+  primary: true
+docnumber: x050-PO162
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Chasseigne
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: García-Márquez
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Renoux
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Pierrard
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Betis
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Dubard
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Hay
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    An airborne imaging luminance-colorimeter is designed for aerial surveillance of specific geographic areas, typically 1000 km², at night-time. In addition to the measurement of the luminance [cd∙m-2], the instrument shall estimate colour temperatures, with 3000 K defined as the higher limit by the 2018’s French ministerial decree. The testing bench allows the luminance-colorimeter to be calibrated before the first operational flight. The bench presented here allows calibration in luminance, colour parameters, linearity, signal-to-noise ratio, geometrical distortion and vignetting. The instrument exhibits good spectral mismatch regarding the X1, X2, Y, and Z responses.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,72 @@
+---
+id: CIEx0512025o47ms9
+type: standard
+schema_version: v1.5.6
+title:
+- content: THE RELIABILITY OF LED DRIVERS
+  type: title-intro
+- content: ESTIMATING FAILURE RATES AND TRENDS
+  type: title-main
+- content: THE RELIABILITY OF LED DRIVERS - ESTIMATING FAILURE RATES AND TRENDS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-o47ms9?product_id=3039927
+docidentifier:
+- content: CIE x051:2025/o47ms9
+  type: CIE
+  primary: true
+docnumber: x051:2025/o47ms9
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Preston
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Mucklejohn
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The reliability of LED drivers is usually expressed in product datasheets as the number of failures after a given time of operation. The unit must be operated within the specification limits of case temperature and humidity to achieve the stated lifetime. Typical values would be lifetime 50 000 h, with failures of 10%, case temperature not to exceed 75°C, relative humidity 10% to 90%. These values do not give the user a feel for the expected number of failures with time. The exponential and binomial distributions are used to illustrate failure rates and upper confidence bounds for LED drivers in installations of 100, 300 and 1 000 units. The Laplace Test is used to indicate if failure rates are stable, increasing or decreasing.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

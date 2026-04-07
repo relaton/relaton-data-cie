@@ -1,0 +1,104 @@
+---
+id: CIEPO01404407
+type: standard
+schema_version: v1.5.6
+title:
+- content: ILLUMINATION CONTROL MODEL FOR COMFORTABLE INDOOR READING (PO01, 404-407)
+  type: title-main
+- content: ILLUMINATION CONTROL MODEL FOR COMFORTABLE INDOOR READING (PO01, 404-407)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/illumination-control-model-for-comfortable-indoor-reading-po01-404-407?product_id=2016279
+docidentifier:
+- content: CIE PO01 404-407
+  type: CIE
+  primary: true
+docnumber: PO01 404-407
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Lin
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Huang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Chang
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This study evaluates the visual influences of indoor reading illumination in relation to two operating factors: the correlated colour temperature and task illuminance. Psychophysical experiments are carried out to explore the impact of these two factors on visual comfort, visual fatigue and task performance. An illumination control model based on the subjective perceptions is established to define the satisfactory operating range.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

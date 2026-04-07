@@ -1,0 +1,105 @@
+---
+id: CIEPO7110651073
+type: standard
+schema_version: v1.5.6
+title:
+- content: |-
+    AN ANALYSIS OF ARTIFICIAL ILLUMINATION PROBLEMS IN CHINESE RETAIL BUILDINGS BASED ON VISUAL COMFORT
+
+     (PO71, 1065-1073)
+  type: title-main
+- content: |-
+    AN ANALYSIS OF ARTIFICIAL ILLUMINATION PROBLEMS IN CHINESE RETAIL BUILDINGS BASED ON VISUAL COMFORT
+
+     (PO71, 1065-1073)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/an-analysis-of-artificial-illumination-problems-in-chinese-retail-buildings-based-on-visual-comfort-po71-1065-1073?product_id=2011219
+docidentifier:
+- content: CIE PO71 1065-1073
+  type: CIE
+  primary: true
+docnumber: PO71 1065-1073
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Dang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Bu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: Q
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Wang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Liu
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    According to statistics, lighting accounts for a significant proportion of the total energy consumption of retail buildings. Therefore, it is necessary to investigate the illumination situation and reality of retail buildings, aiming at reducing the energy consumption. In this
+    paper, the artificial lighting environment of two retail buildings in Beijing were investigated, and five physical quantities - space illuminance, commodity illuminance, general colour rendering index, correlated colour temperature - were measured, and visual comfort was
+    subjectively evaluated at the same time. On the statistical analysis of survey data, this study indicates that the illuminance in retail buildings are much higher than the existing norms, but visual comfort still remains to be improved. This paper summarizes existing problems of the artificial lighting environment in retail buildings and provides support for reducing lighting energy consumption, for enhancing visual comfort of lighting environment, and for improving consumer?s shopping experience.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

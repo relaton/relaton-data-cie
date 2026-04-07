@@ -1,0 +1,67 @@
+---
+id: CIEx050PO060
+type: standard
+schema_version: v1.5.6
+title:
+- content: COLORIMETRIC CALIBRATION BETWEEN RGB AND LMSR SPACES
+  type: title-main
+- content: COLORIMETRIC CALIBRATION BETWEEN RGB AND LMSR SPACES
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po060?product_id=2579109
+docidentifier:
+- content: CIE x050-PO060
+  type: CIE
+  primary: true
+docnumber: x050-PO060
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Legrand
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Labayrade
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In this paper colorimetric calibrations between RGB (camera or screen space) and LMSR (biological eye color-space with cones ‘LMS’ and rods ‘R’) spaces are purposed. Both acquisition (RGB → LMSR) and restitution (LMSR → RGB) are investigated. The method described in this paper is based on four colorimetric calibrations RGB → LMS, RGB → LMR, RGB → LSR and → MSR. First, a new way to ensure colorimetric calibration is described. This new colorimetric calibration is named tetraedric-based calibration and consist to a trilinear interpolation. Secondly, an SVD-based and a tetraedric-based colorimetric calibration between RGB and LMSR spaces are performed for 8 different light sources (acquisition) and for one screen (restitution). For both acquisition and restitution, the tetraedric-based method provides better relative errors per channel than the SVD one, acquisition: 5.5% (SVD) against 2.3% (tetraedric) and restitution: 4.8% (SVD) against 1.44% (tetraedric).
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

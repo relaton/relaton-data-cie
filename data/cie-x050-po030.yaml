@@ -1,0 +1,93 @@
+---
+id: CIEx050PO030
+type: standard
+schema_version: v1.5.6
+title:
+- content: RESEARCH ON THE DETERMINATION OF THE REFERENCE IN MEASUREMENT OF THE OPTICAL
+    FIELD OF NED
+  type: title-main
+- content: RESEARCH ON THE DETERMINATION OF THE REFERENCE IN MEASUREMENT OF THE OPTICAL
+    FIELD OF NED
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po030?product_id=2579079
+docidentifier:
+- content: CIE x050-PO030
+  type: CIE
+  primary: true
+docnumber: x050-PO030
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Pan
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Song
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: Q
+      surname:
+        language: en
+        script: Latn
+        content: Li
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Cao
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    With the rapid development of Near Eye Display (NED) technology, there is an urgent need for accurate measurement techniques to evaluate NED quality. The key to precise characterization lies in determining the reference of the optical field, namely the exit pupil, eye point, and optical axis. However, conventional methods suffer from issues such as measurement errors, complex operations, and low efficiency. We propose a new method called the layer-by-layer scanning method to determine the optical reference in optical field measurements of NED. The layer-by-layer scanning method aims to improve measurement accuracy, simplify operations, and enhance efficiency.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

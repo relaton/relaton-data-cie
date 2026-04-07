@@ -1,0 +1,61 @@
+---
+id: CIEx0432016
+type: standard
+schema_version: v1.5.6
+title:
+- content: Proceedings of the 4th CIE Expert Symposium on Colour and Visual Appearance
+  type: title-main
+- content: Proceedings of the 4th CIE Expert Symposium on Colour and Visual Appearance
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x043-2016?product_id=1928699
+docidentifier:
+- content: CIE x043:2016
+  type: CIE
+  primary: true
+- content: '9783902842596'
+  type: ISBN
+docnumber: x043:2016
+date:
+- type: published
+  at: '2016-09-07'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: "New!  Individual proceedings papers are now available.  Click here for
+    more information.\n              \n\n            Visual assessment of the appearance
+    of objects and materials involves aspects such as:\n• the object itself and its
+    optical characteristics;\n• the position, size, shape and spectrum of the light
+    source;\n• the nature of the visual field surrounding the object;\n• the observer’s
+    visual system with its amazing complexity.\n\nResearch areas have been formed
+    which are devoted to the four visual attributes: colour, gloss, texture and translucency.
+    The development of new visual appearance effects, such as goniochromatism and
+    graininess, have required progress and evolution in the quantification of visual
+    appearance and corresponding measurement setups. The outcome of research in this
+    area is significant for industrial sectors where the measurement of visual appearance
+    is important and for manufacturers of measurement equipment.\nDuring this joint
+    symposium of CIE Divisions 1 and 2 presentations were given on:\n• the state of
+    the art in our understanding of the perception of the visual attributes, such
+    as colour, texture, translucency and gloss;\n• the latest achievements in the
+    fields of novel measurement methodologies such as BRDF, BTDF, BSSRDF and others;\n•
+    possible applications of visual appearance knowledge and novel measurement methodologies
+    for the design and characterization of modern optical surfaces.\n              See
+    more"
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,85 @@
+---
+id: CIEx048OP16
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'TOWARDS A FRAMEWORK FOR LIGHT-DOSIMETRY STUDIES: METHODOLOGICAL CONSIDERATIONS'
+  type: title-main
+- content: 'TOWARDS A FRAMEWORK FOR LIGHT-DOSIMETRY STUDIES: METHODOLOGICAL CONSIDERATIONS'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op16?product_id=2240692
+docidentifier:
+- content: CIE x048-OP16
+  type: CIE
+  primary: true
+docnumber: x048-OP16
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Hartmeyer
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Webler
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Andersen
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    For field research of non-visual effects of light, accurate measurement of personal light exposure is required. A consensus framework for light-dosimetry could improve non-visual field research and ensure comparability between studies. Here we present a review of methodologies used in non-visual light-dosimetry studies published to date, focussing on considerations regarding the measurement and preparation of personal light exposure data. Overall, a large variability in the studies methodologies is observed, highlighting the need for a consensus framework. We propose methodological considerations that should be included in such a framework and that can guide future studies. Furthermore, we highlight important points that should be addressed in future research to ensure compatibility between different dosimetry studies. Taken together, this review effort underlines the importance of a systematic approach to light-dosimetry in order to harness all the power of integrative lighting research in real-life.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

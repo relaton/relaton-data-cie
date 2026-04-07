@@ -1,0 +1,79 @@
+---
+id: CIEx050PO152
+type: standard
+schema_version: v1.5.6
+title:
+- content: PERCEPTION OF LIGHT QUALITIES – A DESIGNED STUDY ON LIGHT SOURCES IN COMBINATIONS
+  type: title-main
+- content: PERCEPTION OF LIGHT QUALITIES – A DESIGNED STUDY ON LIGHT SOURCES IN COMBINATIONS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po152?product_id=2578641
+docidentifier:
+- content: CIE x050-PO152
+  type: CIE
+  primary: true
+docnumber: x050-PO152
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Wendin
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Hiller
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Enger
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    To understand how perceived light qualities in everyday life impact comfort and well-being, it is important to study diverse light environments where two or more light sources may counteract or support each other. Combinations of directed and omnidirectional light sources differing in colour temperature and placement were analysed using sensory analysis. Also, luminance was measured. In all 16 combinations of light sources, varied according to a full factorial design, were included. Each combination consisted of two light sources. In conclusion: light distribution of point lighting is the most decisive for whether the light is perceived as diffuse or distinct. Directed light sources is perceived as distinct, it is reinforced if both point and general lightings are directed. The point lightings also have a greater impact on perceived light colour than the general lighting. All design factors had a significant impact on perceived light qualities of light sources in combinations.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,82 @@
+---
+id: CIEx048OP56
+type: standard
+schema_version: v1.5.6
+title:
+- content: DAMAGE REDUCTION WITH MAINTAINED COLOUR QUALITY OF ARTWORK UNDER RGB PROJECTOR
+  type: title-main
+- content: DAMAGE REDUCTION WITH MAINTAINED COLOUR QUALITY OF ARTWORK UNDER RGB PROJECTOR
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op56?product_id=2240808
+docidentifier:
+- content: CIE x048-OP56
+  type: CIE
+  primary: true
+docnumber: x048-OP56
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Kore
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Brown
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Durmus
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Light absorbed by sensitive artwork may cause irreversible damage. Optimising the spectral power distribution of light sources to minimise absorbed light can reduce damage while maintaining the colour appearance of artwork. Previous absorption minimisation studies used optimisation methods without comparing their performance. Here, three channel RGB LED projector spectra was optimised for 24 colour samples by using brute-force (BF) and a multi-objective genetic algorithm (MOGA). BF search and MOGA were similar in achieving optimal results, reducing both light absorption and energy consumption by almost half. MOGA was 2.5 times faster than BF in finding optimal solutions. The results indicate that an LED RGB projector can be used to illuminate museum artifacts to reduce light absorption and energy consumption, with the caveat of perceptible colour shifts in certain samples. Future research will investigate the use of CIECAM02 instead of CIEDE2000 and observers subjective evaluations of artwork under optimised lighting.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

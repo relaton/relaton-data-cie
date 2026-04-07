@@ -1,0 +1,115 @@
+---
+id: CIEx0512025dytvft
+type: standard
+schema_version: v1.5.6
+title:
+- content: INTERPRETATION OF THE FLICKER SEVERITY METRICS PRODUCED BY THE LIGHT FLICKERMETER
+  type: title-main
+- content: INTERPRETATION OF THE FLICKER SEVERITY METRICS PRODUCED BY THE LIGHT FLICKERMETER
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-dytvft?product_id=3039897
+docidentifier:
+- content: CIE x051:2025/dytvft
+  type: CIE
+  primary: true
+docnumber: x051:2025/dytvft
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Kukačka
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Hergesel
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Drápela
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Meyer
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Stiegler
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Nečásek
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The paper focuses on the Light Flickermeter, a standardised algorithm which is widely used to estimate the severity of flicker of artificial light sources for human observers. The development of the algorithm is briefly covered with special focus on clarification of many ambiguities about meaning of the results that the algorithm produces. Laboratory measurements performed with human observers are used as an empirical basis for the claims presented in the paper. Some of the limitations of the algorithm, being a necessary consequence of how the algorithm was developed, are exposed and discussed. A modified algorithm is presented which removes some of these limitations and thus allows for an easier interpretation of the results.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,105 @@
+---
+id: CIEx050PO121
+type: standard
+schema_version: v1.5.6
+title:
+- content: THE COMPREHENSIVE STUDY OF INTEGRATIVE LIGHTING ON THE PERFORMANCE, ALERTNESS,
+    MOOD, AND EYESTRAIN OF SCHOOL CHILDREN
+  type: title-main
+- content: THE COMPREHENSIVE STUDY OF INTEGRATIVE LIGHTING ON THE PERFORMANCE, ALERTNESS,
+    MOOD, AND EYESTRAIN OF SCHOOL CHILDREN
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po121?product_id=2579187
+docidentifier:
+- content: CIE x050-PO121
+  type: CIE
+  primary: true
+docnumber: x050-PO121
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Li
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Li
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Wang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Shao
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Hao
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Integrative lighting has acute impact on visual task performance and daytime alertness, however, there wasn’t a consistent and comprehensive study on the optimal lighting environment for children. The study investigated the effects of different illuminance levels (300 lx vs. 1200 lx) and CCT levels (2800 K vs. 5000 K) on memory, reaction speed, accuracy, subjective alertness and sustained attention, mood, and eyestrain in highly simulated children's study lab. Nineteen healthy school-age children participated in the laboratory study, all of them taking eye examinations and PSQI, SAS, and SDS tests before the experiment. CCT had a greater impact on spatial temperature perception, and spatial color perception was distinguished well under different illuminances (p＜0.1). The optimal lighting strategies were different according to different tasks. The influence of task types under different lighting conditions and interaction effects on CCT and illuminance were discussed.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

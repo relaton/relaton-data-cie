@@ -1,0 +1,86 @@
+---
+id: CIEOP46329339
+type: standard
+schema_version: v1.5.6
+title:
+- content: |-
+    METHODS TO QUANTIFY THE EFFECT OF LIGHT EXPOSURE IN HUMANS AND THEIR PRACTICAL APPLICATION
+
+     (OP46, 329-339)
+  type: title-main
+- content: |-
+    METHODS TO QUANTIFY THE EFFECT OF LIGHT EXPOSURE IN HUMANS AND THEIR PRACTICAL APPLICATION
+
+     (OP46, 329-339)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/methods-to-quantify-the-effect-of-light-exposure-in-humans-and-their-practical-application-op46-329-339?product_id=2010518
+docidentifier:
+- content: CIE OP46 329-339
+  type: CIE
+  primary: true
+docnumber: OP46 329-339
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Wieland
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Guldner
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Ritter
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    By using artificial lighting for the investigation of medical research hypotheses there are new challenges for the evaluation of the data and the results obtained. Within this paper the effect of light exposure is quantified by electroencephalography (EEG) Data, heart rate, blood samples, pupillometry data and self-rated sleepiness. This Data has been collected in two studies funded within the German BMBF NiviL Project. The results and methods of the second study as well as the newly developed light exposure unit with pupillary exposure control feedback will be presented here. Pupillometry data is evaluated using the Pupillen Unruhe Index (PUI). Heart rate and heart rate variability (HRV) are analysed and melatonin concentration of the blood samples is shown. Since there is no agreed standard of EEG data evaluation, one approach on spectral analysis of the data is presented and remarks on using EEG to characterise the influence of light is given.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

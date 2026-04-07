@@ -1,0 +1,57 @@
+---
+id: CIEx0512025d2twar
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'INVESTIGATION OF THE BALANCE BETWEEN WORK SURFACE ILLUMINANCE AND SPATIAL
+    AVERAGE LUMINANCE IN DESK WORKSPACES: A COMPARISON OF YOUNGER AND OLDER ADULTS'
+  type: title-main
+- content: 'INVESTIGATION OF THE BALANCE BETWEEN WORK SURFACE ILLUMINANCE AND SPATIAL
+    AVERAGE LUMINANCE IN DESK WORKSPACES: A COMPARISON OF YOUNGER AND OLDER ADULTS'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-d2twar?product_id=3039892
+docidentifier:
+- content: CIE x051:2025/d2twar
+  type: CIE
+  primary: true
+docnumber: x051:2025/d2twar
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Kato
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In 2016, the Architectural Institute of Japan published the Academic Standard for Lighting Environments (AIJES-L0002-2016), which has been in use for several years and is currently under consideration for revision. This standard specifies the lower limit of recommended average luminance values for ceilings and wall surfaces. However, it has been noted that the internal reflectance values underlying these recommendations are set too low, resulting in an excessively high contrast between work surface illuminance and average luminance. To address this issue, evaluation experiments were conducted to investigate the balance between appropriate work surface illuminance and spatial average luminance. To ensure the inclusion of a broad age range, experiments were conducted with participants in their 20s and those around 70 years of age. The results revealed that, regardless of age group, approximately half of the participants judged the contrast as inappropriate when the ratio of work surface illuminance to spatial average luminance exceeded 20:1.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

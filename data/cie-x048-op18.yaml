@@ -1,0 +1,181 @@
+---
+id: CIEx048OP18
+type: standard
+schema_version: v1.5.6
+title:
+- content: THE LIGHT-DOSIMETER
+  type: title-intro
+- content: A NEW DEVICE TO HELP ADVANCE RESEARCH ON THE NON-VISUAL RESPONSES TO LIGHT
+  type: title-main
+- content: THE LIGHT-DOSIMETER - A NEW DEVICE TO HELP ADVANCE RESEARCH ON THE NON-VISUAL
+    RESPONSES TO LIGHT
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op18?product_id=2240696
+docidentifier:
+- content: CIE x048-OP18
+  type: CIE
+  primary: true
+docnumber: x048-OP18
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Stampfli
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Schrader
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: di Battista
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Häfliger
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: O
+      surname:
+        language: en
+        script: Latn
+        content: Schälli
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Wichmann
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Zumbühl
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Blattner
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Cajochen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Lazar
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Spitschan
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Research on the non-visual responses to light under real-world conditions has been hindered by the lack of suitable measuring devices. Here, we present a novel, portable and miniaturised light-dosimeter attached to a spectacle frame, taking measurements in the near-corneal plane. The recorded data is processed with the help of the custom-made software package Lido Studio. In addition to commonly used metrics such as illuminance and correlated colour temperature (CCT), it also provides metrics standardised in CIE S 026:2018. Data can be analysed directly in Lido Studio or exported as a PDF report or a comma-separated values (CSV) file for further in-depth time-series analyses. The Federal Institute of Metrology (METAS) optics laboratory (Bern-Wabern, Switzerland) assessed the light-dosimeters spectral and geometric properties. Subsequentially, the team at the Centre for Chronobiology (Basel, Switzerland) confirmed that measurements performed with a light-dosimeter were comparable to those from a commercial spectroradiometer.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

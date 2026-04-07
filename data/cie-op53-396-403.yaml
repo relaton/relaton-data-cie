@@ -1,0 +1,111 @@
+---
+id: CIEOP53396403
+type: standard
+schema_version: v1.5.6
+title:
+- content: |-
+    DOES THE VISUAL SYSTEM EXTRACT MORE INFORMATION THAN GLOSS IN THE SPECULAR DIRECTION?
+
+      (OP53, 396-403)
+  type: title-main
+- content: |-
+    DOES THE VISUAL SYSTEM EXTRACT MORE INFORMATION THAN GLOSS IN THE SPECULAR DIRECTION?
+
+      (OP53, 396-403)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/does-the-visual-system-extract-more-information-than-gloss-in-the-specular-direction-op53-396-403?product_id=2010525
+docidentifier:
+- content: CIE OP53 396-403
+  type: CIE
+  primary: true
+docnumber: OP53 396-403
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Ged
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Rabal
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Turbil
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Himbert
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Obein
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    We measure the microtopography of three pre-existing grey matt samples with Coherence Scattering Interferometry. The high angular resolution BRDF of specular peaks from these samples is acquired using a goniospectrophotometer. A visual ranking of the samples according to their perceived gloss is established by naive observers. Crossing the results of these experiments, we remark the presence of a complex information embedded in the specular peak, that could be used as a cue in the construction of the glossy perception. The
+    joint analysis of the bidimensional Fast-Fourier Transform of the roughness mappings and BRDF measurements is a promising path towards a better understanding of reflection upon complex surfaces.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

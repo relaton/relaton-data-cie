@@ -1,0 +1,96 @@
+---
+id: CIEx048PO05
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'OPTIMUM SPECTRUM OF LED LIGHTING FOR CULTURAL AND HERITAGE SITE: A CASE
+    STUDY OF 15TH CENTURY WORLD HERITAGE SITE IN NEPAL'
+  type: title-main
+- content: 'OPTIMUM SPECTRUM OF LED LIGHTING FOR CULTURAL AND HERITAGE SITE: A CASE
+    STUDY OF 15TH CENTURY WORLD HERITAGE SITE IN NEPAL'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-po05?product_id=2240822
+docidentifier:
+- content: CIE x048-PO05
+  type: CIE
+  primary: true
+docnumber: x048-PO05
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Bista
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Bista
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Bhusal
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Chhetri
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Nepal houses several architecturally and culturally rich heritage sites and monuments. These sites are recognised globally and are of immense importance to the local and worldwide audience. The majority were constructed during the 15th to 18th century and were designed to incorporate oil or fat-based wick lamps for lighting. The intervention of modern electric lighting in these structures should be carried out without conceding cultural values, visual perception, and traditional outlook. However, in most sites, there are no lighting or unscientific lighting interventions which are inappropriate, unsurpassed, exaggerated, and unpleasant. The light source spectrum is an essential factor in enhancing the natural appearance, increasing luminance, reducing degradation of artefacts by photochemical action, and reducing power consumption. The study aims to characterise the white light spectrum for its appropriateness to enhance the optical parameters by observing the spectral reflectance of the building materials of these sites. The experiment uses RGB tunes LED light source to obtain white light of different SPD and CCT. Building materials from Bhaktapur Durbar Square and Tripureshwor Mahadev temple and light SPD with CCT in the range of 1735 to 7669 K were used for the study. The study thus makes recommendations for an appropriate spectrum of light sources for Nepals heritage sites and monuments based on the experimental findings. 
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

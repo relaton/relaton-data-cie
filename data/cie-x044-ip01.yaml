@@ -1,0 +1,81 @@
+---
+id: CIEx044IP01
+type: standard
+schema_version: v1.5.6
+title:
+- content: CONTENTS DEVELOPMENT FOR OFFICE SMART LIGHTS (IP01, Pages 1-9)
+  type: title-main
+- content: CONTENTS DEVELOPMENT FOR OFFICE SMART LIGHTS (IP01, Pages 1-9)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/contents-development-for-office-smart-lights-ip01-pages-1-9?product_id=2009447
+docidentifier:
+- content: CIE x044-IP01
+  type: CIE
+  primary: true
+docnumber: IP01 Pages 1-9
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Ko
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Choi
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This study introduces human centric implementation scenario for office smart lights
+    considering ethnic differences between Korean and Caucasian. This solution includes the
+    optimal CCT and illuminance ranges in which the user-required affective and visual elements
+    are fulfilled in accordance with action types in three subdivided office spaces of general office,
+    conference room and lounge. The mathematical functions are also proposed to estimate
+    preference degree for both Korean and Caucasian. Some interesting results are found in the
+    culture deviation study: the gap of UGR (Unified Glare Index) value and the viewpoint
+    difference about important lighting-quality factors leading to different optimal CCT and
+    illuminance ranges.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

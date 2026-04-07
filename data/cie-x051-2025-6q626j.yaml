@@ -1,0 +1,108 @@
+---
+id: CIEx05120256q626j
+type: standard
+schema_version: v1.5.6
+title:
+- content: THE EFFECT OF RADIATION PATTERNS ON VEHICULAR VISIBLE LIGHT COMMUNICATION
+  type: title-main
+- content: THE EFFECT OF RADIATION PATTERNS ON VEHICULAR VISIBLE LIGHT COMMUNICATION
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-6q626j?product_id=3039148
+docidentifier:
+- content: CIE x051:2025/6q626j
+  type: CIE
+  primary: true
+docnumber: x051:2025/6q626j
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Dotreppe
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Coosemans
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Van
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: den Bossche
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Jacobs
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    https://doi.org/10.25039/x051.2025/6q626jVehicular Visible Light Communication (V-VLC) offers a compelling alternative communication technology for Intelligent Transportation Systems, leveraging its license-free spectrum, wide bandwidth, energy efficiency, and existing transmitters. Accurate optical channel modelling is essential for evaluating V-VLC feasibility and performance in vehicular environments. For this, accurate transmitter representations are required. Low beam headlights and daytime running lights are primary candidates for VLC transmitters, yet simplified light source models often lack photometric realism compared to actual vehicle headlights. A comparison of a Lambertian and a measured low-beam emission patterns reveals that Lambertian models underestimate communication range while overestimating mobility. A narrow beam better reflects the low beam irradiance but requires careful design considerations for an optimal representation. This study examines the differences between the source models commonly used and suggests alternative modelling approaches depending on the communication range.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

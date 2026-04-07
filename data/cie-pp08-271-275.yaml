@@ -1,0 +1,104 @@
+---
+id: CIEPP08271275
+type: standard
+schema_version: v1.5.6
+title:
+- content: VISIBILITY AND GLARE STUDY OF LED-EMBEDDED SIGNS (PP08, 271-275)
+  type: title-main
+- content: VISIBILITY AND GLARE STUDY OF LED-EMBEDDED SIGNS (PP08, 271-275)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/visibility-and-glare-study-of-led-embedded-signs-pp08-271-275?product_id=2016254
+docidentifier:
+- content: CIE PP08 271-275
+  type: CIE
+  primary: true
+docnumber: PP08 271-275
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      - language: en
+        script: Latn
+        initial: X
+      surname:
+        language: en
+        script: Latn
+        content: Lee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Wang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Sun
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    With the popularity of LEDs in traffic signal and sign application, it is important to ensure that driver can adequately identify these signals, especially in the changing weather and the complex ambient light level conditions. Due to the characteristics of small light-emitting area and high directivity, LEDs are considered more probable to induce glare that disturbs human's visual sensation. To investigate the visibility and visual comfort of LED traffic signs, a psychophysical experiment is designed and performed. Ultimately, we hope it can be able to extend to a variety of research of LED traffic signal and sign devices, and be a reference for the future smart traffic systems, to provide an effective, safe and comfortable transport lighting environment.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

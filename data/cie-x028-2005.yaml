@@ -1,0 +1,57 @@
+---
+id: CIEx0282005
+type: standard
+schema_version: v1.5.6
+title:
+- content: Proceedings of the CIE Symposium '05, Vision and Lighting in Mesopic Conditions
+  type: title-main
+- content: Proceedings of the CIE Symposium '05, Vision and Lighting in Mesopic Conditions
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x028-2005?product_id=1257685
+docidentifier:
+- content: CIE x028:2005
+  type: CIE
+  primary: true
+- content: '9783901906435'
+  type: ISBN
+docnumber: x028:2005
+date:
+- type: published
+  at: '2005-05-21'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This CIE Symposium was held in the Auditorio Municipal of León, Spain on 21 May 2005, as a satellite meeting of the CIE Midterm Meeting and the International Lighting Congress: Lighting in the XXI Century. The present volume contains the text of the 13 papers read at the meeting.
+
+    The first paper by Prof. Halonen summarizes the findings of a European consortium that had as its task to develop a model based on different task performance experiments. Details of these experiments are contained in three subsequent papers.
+
+    Dr. Sagawa's paper showed progress in the other area of mesopic photometry based on brightness matching, and presents the outlines of a supplementary system of photometry.
+
+    Professor Berman's paper discusses some fundamental problems mesopic lighting and vision research is faced with, due to the non-linearity and non-additivity of visual perception in the mesopic range.
+
+    A further group of papers lead by the invited paper by Professor Rea discusses the US version of a task performance based mesopic photometry. Several other papers discuss application items based on one or the other new mesopic model.
+
+    CIE is progressing to define a task performance based photometric system, and anybody who is interested in the fundamental visual mechanism of mesopic vision, or would like to know in which direction the street lighting most probably will move, and which measuring instruments will be needed to evaluate mesopic lighting systems, should read the papers presented at this meeting.
+
+    The proceedings is written in English, with a short summary in French and German, consists of 70 pages with 31 figures and 9 tables.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

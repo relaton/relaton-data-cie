@@ -1,0 +1,91 @@
+---
+id: CIEx0512025uu43xv
+type: standard
+schema_version: v1.5.6
+title:
+- content: THE PRESENCE OF ROAD LIGHTING LEADS TO MORE CYCLING
+  type: title-main
+- content: THE PRESENCE OF ROAD LIGHTING LEADS TO MORE CYCLING
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-uu43xv?product_id=3040032
+docidentifier:
+- content: CIE x051:2025/uu43xv
+  type: CIE
+  primary: true
+docnumber: x051:2025/uu43xv
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Uttley
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Balela
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Yesiltepe
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Fotios
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Encouraging people to cycle more has a range of individual and societal benefits. Previous studies using cycle count data have shown that darkness reduces the number of people cycling. This study extends previous work by establishing a model for the impact of road lighting on cycling after dark. Analysis of data from 117 cycle counters in five cities using a pooled odds ratio, incorporating all possible combinations of case and control hours to improve accuracy, confirmed that darkness reduces cycling numbers. This deterrent effect of darkness was reduced by the presence of road lighting. Specifically, a linear regression model suggests the presence of lighting reduces the odds ratio from 2.51 to 1.31, showing that road lighting is of critical value to support cycling after dark. This research contributes to the development of evidence-informed lighting design guidance, aiming to encourage active travel and improve cyclist safety.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

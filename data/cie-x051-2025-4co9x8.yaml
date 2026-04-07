@@ -1,0 +1,93 @@
+---
+id: CIEx05120254co9x8
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'STUDENTS’ “LUMINOUS DIET”: ARE EDUCATIONAL BUILDINGS DESIGNED TO PROVIDE
+    THE PROPER DAILY LIGHT DOSAGE?'
+  type: title-main
+- content: 'STUDENTS’ “LUMINOUS DIET”: ARE EDUCATIONAL BUILDINGS DESIGNED TO PROVIDE
+    THE PROPER DAILY LIGHT DOSAGE?'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-4co9x8?product_id=3039589
+docidentifier:
+- content: CIE x051:2025/4co9x8
+  type: CIE
+  primary: true
+docnumber: x051:2025/4co9x8
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Bellia
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Di Nuzzo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Diglio
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Fragliasso
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This paper aims to evaluate the daily light dosage received by students in a university building. To evaluate their weekly “luminous diet”, their study plan is analysed to select a week for each period of classes. Electric light eye-level spectral irradiance and work-plane illuminances were measured in spaces where students attend lectures and study without teachers, while daylight illuminance was simulated with DIALux. The measured and simulated values were summed to define melanopic equivalent daylight illuminance patterns representative of the light dosage received by students. The results show that in some of the analysed spaces the lighting system does not guarantee the minimum illuminance level on work-planes, whereas quite always lighting is ineffective for the regulation of circadian rhythms.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

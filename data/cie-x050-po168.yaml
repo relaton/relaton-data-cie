@@ -1,0 +1,105 @@
+---
+id: CIEx050PO168
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'IMAGE PHOTOMETRY FOR EVALUATING LIGHTING ENVIRONMENTS: IMPROVEMENT IN
+    SPEED AND ACCURACY BY USING RAW FORMAT PHOTO DATA'
+  type: title-main
+- content: 'IMAGE PHOTOMETRY FOR EVALUATING LIGHTING ENVIRONMENTS: IMPROVEMENT IN
+    SPEED AND ACCURACY BY USING RAW FORMAT PHOTO DATA'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po168?product_id=2579226
+docidentifier:
+- content: CIE x050-PO168
+  type: CIE
+  primary: true
+docnumber: x050-PO168
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Horiuchi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Miyake
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Yamaguchi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Nishihara
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Yoshizawa
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    To reduce the shooting time in image photometry, we developed a method to obtain luminance from RAW data instead of JPEG data, as in the existing method, and investigated how to reduce the number of images to be captured by utilizing the high information content of the RAW data. The JPEG data are compressed during development, whereas the values obtained directly from the RAW data before irreversible changes are made are considered highly reliable. The objective of this study was to improve the accuracy of obtaining XYZ values by directly utilizing 14-bit information in its linear form and to reduce the number of images that need to be captured by increasing the dynamic range of RGB values obtained from each image.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

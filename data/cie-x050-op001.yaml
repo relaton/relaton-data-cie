@@ -1,0 +1,93 @@
+---
+id: CIEx050OP001
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'CONTINUOUS OVERCAST DAYLIGHT AUTONOMY: A NEW SENSOR-LESS ALGORITHM FOR
+    LIGHTING SMART CONTROLS'
+  type: title-main
+- content: 'CONTINUOUS OVERCAST DAYLIGHT AUTONOMY: A NEW SENSOR-LESS ALGORITHM FOR
+    LIGHTING SMART CONTROLS'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op001?product_id=2578648
+docidentifier:
+- content: CIE x050-OP001
+  type: CIE
+  primary: true
+docnumber: x050-OP001
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: I
+      surname:
+        language: en
+        script: Latn
+        content: Acosta
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Campano
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Fernandez-Aguera
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Bustamante
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Daylight dynamic metrics are valuable instruments for determining the activation or dimming of electric lighting systems linked to an architectural context. An updated version of these metrics can also be employed to establish strategies to adapt the luminaires to the daylight conditions, dimming the luminous flux without external devices and consequently increasing the energy saving of the lighting system. Given this scenario, a new concept is proposed, Continuous Overcast Daylight Autonomy (DAo.con), conceived as the percentage of occupied time during which an illuminance threshold is reached by daylight considering a continuous overcast sky, giving a partial credit linearly to values below the limit defined. This new metric is based in a collection of weighting factors, which serve to define an algorithm that adjust the luminous flux of the lighting fixtures depending on the Daylight Factors and the solar elevation, taking into account the user needs.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

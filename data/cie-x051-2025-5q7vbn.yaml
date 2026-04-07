@@ -1,0 +1,104 @@
+---
+id: CIEx05120255q7vbn
+type: standard
+schema_version: v1.5.6
+title:
+- content: A COMPARATIVE STUDY OF SUBJECTIVE PERCEPTIONS OF LIGHTING AND PHYSIOLOGICAL
+    RESULTS IN REAL AND VIRTUAL ENVIRONMENTS
+  type: title-main
+- content: A COMPARATIVE STUDY OF SUBJECTIVE PERCEPTIONS OF LIGHTING AND PHYSIOLOGICAL
+    RESULTS IN REAL AND VIRTUAL ENVIRONMENTS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-5q7vbn?product_id=3039597
+docidentifier:
+- content: CIE x051:2025/5q7vbn
+  type: CIE
+  primary: true
+docnumber: x051:2025/5q7vbn
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Castilla
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Higuera-Trujillo
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Pérez
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Martínez
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Llinares
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Understanding the effect of psychological and physiological variables in both VR and physical environments is crucial to establishing the effect of lighting on humans. This study compares perceptions and physiological responses of artificial lighting in a physical environment versus a virtual reality (VR) setting. A total of 30 participants evaluated each lighting setup, half in the physical and half in the virtual environments. The VR environment was captured using a 360° high-dynamic-range camera and displayed on a head-mounted display. The results show that both environments have similar subjective impressions and electrodermal activity (EDA). Accurately simulating lighting is fundamental to creating immersive and compelling VR experiences. This work can help to establish knowledge that will aid in the reliable replicability of lighting environments in VR. This comparative analysis can help improve the effectiveness of VR simulations in various applications, including architectural space design, medicine and simulator development.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

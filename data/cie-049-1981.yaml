@@ -1,0 +1,47 @@
+---
+id: CIE0491981
+type: standard
+schema_version: v1.5.6
+title:
+- content: Guide on the emergency lighting of building interiors
+  type: title-main
+- content: Guide on the emergency lighting of building interiors
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-049-1981?product_id=1209981
+docidentifier:
+- content: CIE 049-1981
+  type: CIE
+  primary: true
+- content: '9789290340492'
+  type: ISBN
+docnumber: '049-1981'
+date:
+- type: published
+  at: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The aim of this publication is to lay down the basic principles of emergency lighting as applicable to building interiors and, thereby, to furnish guidance on the various aspects that should be considered when seeking to design an effective and reliable installation. The publication deals solely with the principles of lighting; no attempt has been made to review suitable lighting hardware. It is hoped that it will provide guidance suitable for assimilation in future international standards for this field. Statutory regulations relating to emergency lighting already exist in some countries, states, or towns. For this reason, the appropriate authorities should always be consulted before commencing the design of a specific emergency lighting system.
+
+    The publication contains 15 pages and 4 figures.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

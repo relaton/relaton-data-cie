@@ -1,0 +1,57 @@
+---
+id: CIEx0512025hw95kf
+type: standard
+schema_version: v1.5.6
+title:
+- content: POTENTIAL OF USING LUMINOUS COLOUR IN WORKSPACES WITH DIFFERENT TYPES OF
+    TASKS
+  type: title-main
+- content: POTENTIAL OF USING LUMINOUS COLOUR IN WORKSPACES WITH DIFFERENT TYPES OF
+    TASKS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-hw95kf?product_id=3039914
+docidentifier:
+- content: CIE x051:2025/hw95kf
+  type: CIE
+  primary: true
+docnumber: x051:2025/hw95kf
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Mochizuki
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Recently, different types of places other than the office have been used for office work. The aims and values for office workers to gather in office spaces are being reconsidered. There is needed for offices to have spaces that can be used for multiple purposes as needed, rather than spaces that are specialised for a specific purpose only. The lighting design of office spaces should not only ensure visual workability, but also enhance the productivity of both the individual worker and the organization.In this study, a subjective experiment was conducted to identify the potential of luminous colour to create workspaces where different types of tasks coexist simultaneously or over time. The effects of luminous colour which gently divides the space into zones with different types of tasks are being performed on the subjects’ workability, visual fatigue, and visual comfort are examined.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

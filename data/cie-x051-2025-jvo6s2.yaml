@@ -1,0 +1,85 @@
+---
+id: CIEx0512025jvo6s2
+type: standard
+schema_version: v1.5.6
+title:
+- content: INFLUENCE OF LEVEL OF DETAILS OF 3D OBJECTS ON REALISM IN VR ENVIRONMENTS
+  type: title-main
+- content: INFLUENCE OF LEVEL OF DETAILS OF 3D OBJECTS ON REALISM IN VR ENVIRONMENTS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-jvo6s2?product_id=3039162
+docidentifier:
+- content: CIE x051:2025/jvo6s2
+  type: CIE
+  primary: true
+docnumber: x051:2025/jvo6s2
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      - language: en
+        script: Latn
+        initial: V
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Napitupulu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Koga
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Thomas
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    https://doi.org/10.25039/x051.2025/jvo6s2Rendering high levels of detail (LOD) in virtual reality (VR) requires extensive 3D modelling, which is computationally intensive and often requires high-end hardware. These demands frequently lead to compromises in performance, resulting in lower frame rates, inconsistent graphics, and system lag, which reduce immersion and increase the risk of motion sickness. To address these challenges, this study explores perceived realism rather than solely pursuing photorealistic rendering. The goal is to identify the most important visual features for maintaining realism in VR environments without significantly increasing the computational load. An experiment was conducted to examine the impact of the LOD on the perception of realism. Participants evaluated VR spaces in which virtual human models with different LODs were placed. The results indicated that the LOD of objects is the dominant factor in perceived realism. But other visual cues such as shadows would affect perceived realism when the LOD is low.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

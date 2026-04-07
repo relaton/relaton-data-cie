@@ -1,0 +1,94 @@
+---
+id: CIEPP10538543
+type: standard
+schema_version: v1.5.6
+title:
+- content: CHARACTERIZING AN INTEGRATING SPHERE PHOTOMETER  FOR MEASUREMENTS OF SOLID-STATE
+    LIGHTING PANELS (PP10, 538-543)
+  type: title-main
+- content: CHARACTERIZING AN INTEGRATING SPHERE PHOTOMETER  FOR MEASUREMENTS OF SOLID-STATE
+    LIGHTING PANELS (PP10, 538-543)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/characterizing-an-integrating-sphere-photometer-for-measurements-of-solid-state-lighting-panels-pp10-538-543?product_id=2011267
+docidentifier:
+- content: CIE PP10 538-543
+  type: CIE
+  primary: true
+docnumber: PP10 538-543
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Askola
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Poikonen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Pulli
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Ikonen
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    An integrating sphere photometer was characterized for the luminous flux measurements of solid-state lighting panels. Relative angular intensity distributions of six OLED panels with dimensions under 10 cm were measured with a near-field goniospectrometer and the integrating sphere was scanned both photometrically and spectrally with a commercial sphere scanner. The correction factors for the integrating sphere photometer, including the photometric and spectral spatial corrections, were calculated for the tested panels. The corrected luminous flux values of the OLEDs, measured in the integrating sphere, were at best within 0,02 % between horizontal and vertical operating orientations. The expanded uncertainty (k = 2) of the SSL panel measurements in the integrating sphere photometer is 1,0 %.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

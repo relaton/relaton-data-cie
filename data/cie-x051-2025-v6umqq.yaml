@@ -1,0 +1,135 @@
+---
+id: CIEx0512025v6umqq
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'LIGHTING CONDITIONS IN THE HOMES OF OLDER ADULTS: ARE THEY SUITABLE FOR
+    HEALTHY AGING IN PLACE?'
+  type: title-main
+- content: 'LIGHTING CONDITIONS IN THE HOMES OF OLDER ADULTS: ARE THEY SUITABLE FOR
+    HEALTHY AGING IN PLACE?'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-v6umqq?product_id=3039175
+docidentifier:
+- content: CIE x051:2025/v6umqq
+  type: CIE
+  primary: true
+docnumber: x051:2025/v6umqq
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Veitch
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Nixon
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: I
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Cunha
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Eakin
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Villeneuve
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: W
+      surname:
+        language: en
+        script: Latn
+        content: O’Brien
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Touchie
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    https://doi.org/10.25039/x051.2025/v6umqqMany people in industrialized countries would prefer to remain in their own homes for as long as possible. Remaining healthy while aging in place will depend on maintaining suitable indoor environmental quality. This paper reports preliminary online survey results concerning lighting conditions in the homes of older Canadian adults. Older adults who spend close to 24 hours daily in their homes might not receive the recommended daily light exposure of minimum 250 lx melanopic equivalent daylight illuminance from morning until three hours before bed. Those who spend time outdoors might receive an adequate total exposure if shorter or intermittent very high illuminance exposures are equivalent to long periods at a lower level. Survey participants were generally satisfied with their lighting. Regression analyses revealed small but statistically significant effects of light exposures and satisfaction with lighting on sleep and quality of life, which require validation with light logger data.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,95 @@
+---
+id: CIEPP26649657
+type: standard
+schema_version: v1.5.6
+title:
+- content: VISUAL EXPERIENCES AND NEEDS OF AGEING DRIVERS (PP26, 649-657)
+  type: title-main
+- content: VISUAL EXPERIENCES AND NEEDS OF AGEING DRIVERS (PP26, 649-657)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/visual-experiences-and-needs-of-ageing-drivers-pp26-649-657?product_id=2011357
+docidentifier:
+- content: CIE PP26 649-657
+  type: CIE
+  primary: true
+docnumber: PP26 649-657
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Donners
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Stein
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      - language: en
+        script: Latn
+        initial: H
+      - language: en
+        script: Latn
+        initial: F
+      - language: en
+        script: Latn
+        initial: W
+      surname:
+        language: en
+        script: Latn
+        content: van der Heijde
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    With age, the variation in visual and driving performance increases . Decreases in visual performance eventually cause many seniors to change their driving behaviour or even to refrain from driving at night at all. To establish the degradation of which visual functions contributes most, we conducted a literature review and a survey among ageing drivers. From both, an increased sensitivity to glare and a reduced contrast sensitivity and a bility to adapt to darkness, are flagged. All three are aggravated by rain. Factors not recognized by survey participants in all countries are UFOV and the perception of movement . In literature, decreasing reaction time and difficulties estimating time to contact are also identified as major contributors to driving restricting by ageing drivers.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

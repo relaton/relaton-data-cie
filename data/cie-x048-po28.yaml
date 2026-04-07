@@ -1,0 +1,142 @@
+---
+id: CIEx048PO28
+type: standard
+schema_version: v1.5.6
+title:
+- content: GENERIC MODEL FOR GONIOPHOTOMETER GEOMETRIES
+  type: title-main
+- content: GENERIC MODEL FOR GONIOPHOTOMETER GEOMETRIES
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-po28?product_id=2240834
+docidentifier:
+- content: CIE x048-PO28
+  type: CIE
+  primary: true
+docnumber: x048-PO28
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Lerch
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Katona
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Trampert
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: U
+      surname:
+        language: en
+        script: Latn
+        content: Krüger
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Schrader
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Ledig
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: O
+      surname:
+        language: en
+        script: Latn
+        content: Pellegrino
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Neumann
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In this work, we present a method to describe the model of a goniophotometer for uncertainty analysis by state-of-the-art Universal Robotic Description Format (URDF). The parameters of the kinematic chain model are determined by measurements of the geometric properties of the goniophotometer. The uncertainties of the pose are determined using Monte Carlo (MC) simulations of the kinematic chain. The measured geometric uncertainties are input the MC simulations. The proposed framework enables high level description of kinematic chains for MC simulations of measurement systems. Furthermore, the uncertainty of the total system is demonstrated over the MC trials to prove a sufficient amount of MC trials. The results of this generic approach are evaluated against an existing model and the uncertainty determination of the same goniophotometer.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

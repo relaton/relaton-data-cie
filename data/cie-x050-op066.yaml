@@ -1,0 +1,113 @@
+---
+id: CIEx050OP066
+type: standard
+schema_version: v1.5.6
+title:
+- content: IMPACT OF COLOUR TEMPERATURE AND ILLUMINATION LEVEL ON SAFETY PERCEPTION
+    FOR PARKING GARAGE LIGHTING
+  type: title-main
+- content: IMPACT OF COLOUR TEMPERATURE AND ILLUMINATION LEVEL ON SAFETY PERCEPTION
+    FOR PARKING GARAGE LIGHTING
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op066?product_id=2578621
+docidentifier:
+- content: CIE x050-OP066
+  type: CIE
+  primary: true
+docnumber: x050-OP066
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Mentens
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Dotreppe
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Van
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: den Bossche
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Scheir
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      surname:
+        language: en
+        script: Latn
+        content: Jacobs
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Lighting conditions in a parking garage are mainly designed for motorized traffic. However, vulnerable road users are often present, and their perception of safety is currently not considered. While luminaires are often replaced by energy-efficient LEDs, this opens possibilities for adjusting illuminance levels and correlated colour temperatures (CCT). For this reason, this study presents a pairwise experiment held in an underground parking garage to identify combinations of vertical illuminance (Ev,v) and CCT with the highest perception of safety.Preliminary results show that a CCT equal to 3000K and 4000K are preferred over 5000K, with a higher significance at higher Ev,v. This suggests that CCT is less relevant at lower Ev,v. The results also indicate a possible stimulus range bias for Ev,v, and therefore a follow-up study with a different stimulus range is required. Through the observations presented in this study, improved suggestions for parking garages standards can be prepared.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

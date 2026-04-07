@@ -1,0 +1,91 @@
+---
+id: CIEx050PO045
+type: standard
+schema_version: v1.5.6
+title:
+- content: NEW GENERATION OF REFERENCE PHOTOMETERS FOR REDUCED UNCERTAINTY
+  type: title-main
+- content: NEW GENERATION OF REFERENCE PHOTOMETERS FOR REDUCED UNCERTAINTY
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po045?product_id=2579098
+docidentifier:
+- content: CIE x050-PO045
+  type: CIE
+  primary: true
+docnumber: x050-PO045
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Zong
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Teitzel
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Houston
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Miller
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    A new generation of reference illuminance photometers were developed and used for realization of the SI base unit – the candela at the National Institute of Standards and Technology (NIST). The new photometers are designed to have a superior long-term stability and negligible laser interference fringe effects. The new photometers are calibrated for spectral irradiance responsivities against a transfer standard trap detector in the new automated pulsed laser uniform source (APLUS) laboratory at NIST for achieving the smallest uncertainty. The expanded uncertainty of the illuminance responsivity derived from the calibrated spectral irradiance responsivity is 0.20 % (k = 2), a significant reduction compared to the previous uncertainty (approximately 0.40 %, k = 2).
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

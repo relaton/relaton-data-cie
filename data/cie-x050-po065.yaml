@@ -1,0 +1,93 @@
+---
+id: CIEx050PO065
+type: standard
+schema_version: v1.5.6
+title:
+- content: USING A LUMINANCE ANALYSER TO MEASURE THE LUMINANCE OF CELESTIAL BODIES
+    DURING ECLIPSES AND OTHER ASTRONOMICAL MEASUREMENTS
+  type: title-main
+- content: USING A LUMINANCE ANALYSER TO MEASURE THE LUMINANCE OF CELESTIAL BODIES
+    DURING ECLIPSES AND OTHER ASTRONOMICAL MEASUREMENTS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po065?product_id=2579114
+docidentifier:
+- content: CIE x050-PO065
+  type: CIE
+  primary: true
+docnumber: x050-PO065
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Novák
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Baxant
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Škoda
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Motyčka
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The paper describes the possibilities of using a luminance analyser (ILMD) to measure the luminance of the Sun and Moon. Particular attention is then paid to images acquired during the partial eclipses of these celestial bodies during 2022. The images are evaluated in terms of the luminance distribution on these bodies and the temporal changes that occurred during the measured events. The analysis is performed either in the form of simple luminance maps, by means of slices through the regions of interest, or statistically by means of histograms. The possibilities of using the data thus obtained for simple photometric calculations are also demonstrated.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

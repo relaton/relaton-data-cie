@@ -1,0 +1,76 @@
+---
+id: CIEPO18492498
+type: standard
+schema_version: v1.5.6
+title:
+- content: IMPROVEMENT OF THE COLOURFUL UNIFORMITY BY THREE DIFFERENT MEDIUMS OF THE
+    PACKAGING LENS IN THE WHITE LIGHT LED (PO18, 492-498)
+  type: title-main
+- content: IMPROVEMENT OF THE COLOURFUL UNIFORMITY BY THREE DIFFERENT MEDIUMS OF THE
+    PACKAGING LENS IN THE WHITE LIGHT LED (PO18, 492-498)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/improvement-of-the-colourful-uniformity-by-three-different-mediums-of-the-packaging-lens-in-the-white-light-led-po18-492-498?product_id=2016296
+docidentifier:
+- content: CIE PO18 492-498
+  type: CIE
+  primary: true
+docnumber: PO18 492-498
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Wu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Ma
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In this study, the optical design of the packaging lens which has achromatic ability is proposed in the white light LED. In order to protect the LED chip and reduce colour dispersion, the LED chip is bonded on a rectangular reflective cup and embedded in a packaging lens which is composed by three different mediums. The shapes of the interfaces between the mediums are designed accord to the refractive indices of the medium. In order to comprehend the order of the colour dispersion, the range of colour dispersion (RCD) at specific normalized intensity is analysed. According to the analysing results, the design of the achromatic packaging lens can reduce the colour dispersion obviously. In the case of the reflective cup has no reflectivity, the RCD value at zero normalized intensity even achieves one degrees. However, while the reflective cup causes the increasing in RCD value, a considerable improvement still can be achieved by the design of the free-form reflective cup.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

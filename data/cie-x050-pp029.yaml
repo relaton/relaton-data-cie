@@ -1,0 +1,81 @@
+---
+id: CIEx050PP029
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'ENERGY SAVING WITHOUT COMPROMISING HUMAN COMFORT: A FIELD STUDY OF SMART
+    LIGHTING IN OFFICE'
+  type: title-main
+- content: 'ENERGY SAVING WITHOUT COMPROMISING HUMAN COMFORT: A FIELD STUDY OF SMART
+    LIGHTING IN OFFICE'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-pp029?product_id=2579362
+docidentifier:
+- content: CIE x050-PP029
+  type: CIE
+  primary: true
+docnumber: x050-PP029
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Zhang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Su
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Yang
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Intelligent control systems can effectively reduce energy consumption during building operation, but there is a lack of rigorous empirical research of its energy-saving effects and impact on comfort. This study carried out a 129-day four-stage study by intelligently retrofitting the OCC intelligent system in real office spaces, while introducing an initial baseline and a parallel control group into the experimental design. A total of 69 volunteers participated in the empirical experiment. During the demonstration period, the data of environment sensors, human perception sensors and wireless intelligent controllers were collected, and structured questionnaire surveys were carried out for the treated group and the control group in four stages respectively. The comparative analysis results show that the intelligent retrofitting can effectively reduce lighting energy consumption by 11.8% without negatively affecting comfort.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

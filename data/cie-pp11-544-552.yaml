@@ -1,0 +1,78 @@
+---
+id: CIEPP11544552
+type: standard
+schema_version: v1.5.6
+title:
+- content: |-
+    DEFINITION AND DETERMINATION OF THE BEAM AXIS AND BEAM ANGLE OF COMPLEX LUMINOUS INTENSITY DISTRIBUTIONS
+     (PP11, 544-552)
+  type: title-main
+- content: |-
+    DEFINITION AND DETERMINATION OF THE BEAM AXIS AND BEAM ANGLE OF COMPLEX LUMINOUS INTENSITY DISTRIBUTIONS
+     (PP11, 544-552)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/definition-and-determination-of-the-beam-axis-and-beam-angle-of-complex-luminous-intensity-distributions-pp11-544-552?product_id=2011268
+docidentifier:
+- content: CIE PP11 544-552
+  type: CIE
+  primary: true
+docnumber: PP11 544-552
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Bergen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Blattner
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Legal regulations in many countries require the determination of the beam angle of lamps and luminaires and indication of this on product labelling. The value of the beam angle may therefore have a direct impact on whether a product can be put on the market or not. Therefore, a rigorous method of determining the beam angle is required that can be universally applied and which gives representative and reproducible results.
+    While guidelines already exist for determining the optical beam axis and beam angle of products, they are universally impractical to implement on products that are asymmetrical or have complex distributions. This paper discusses and compares different approaches using one already-defined method and introduces three new techniques.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

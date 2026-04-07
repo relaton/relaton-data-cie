@@ -1,0 +1,96 @@
+---
+id: CIEPO9511351139
+type: standard
+schema_version: v1.5.6
+title:
+- content: |-
+    THE POTENTIAL USAGE OF PUBLIC LIGHTING IN THE SMART CITY
+     (PO95, 1135-1139)
+  type: title-main
+- content: |-
+    THE POTENTIAL USAGE OF PUBLIC LIGHTING IN THE SMART CITY
+     (PO95, 1135-1139)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/the-potential-usage-of-public-lighting-in-the-smart-city-po95-1135-1139?product_id=2011229
+docidentifier:
+- content: CIE PO95 1135-1139
+  type: CIE
+  primary: true
+docnumber: PO95 1135-1139
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Novak
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Sokansky
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Koudelka
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Martinek
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Due to new technologies increase the public lighting gets currently into a ground-breaking phase. It is necessary to consider carefully how and where public lighting is heading forward and whether it is necessary to prepare for any changes right now so that we could use a potential of the public lighting, especially in connection to SMART CITIES. Two basic technologies influencing the public lighting are LED technology and its rapid and progressive development of communication technologies, particularly the development of optical fibre networks and mobile networks 5G. By their combination we can achieve not only the visibility increase due to the influence of better primary colour properties of a luminous flux and significantly better possibilities of its directing to the roads, but chiefly the usage of control options of each luminaire, which has already been proved to be crucial. The power system designed that way can be used throughout 24 hours as well as it can charge terminal active elements of technologies falling into the category of SMART CITY (free Wi-Fi for the population, IP camera systems, providing technologies that facilitate car to car and car to infrastructure communication WAVEp, environmental measurement and dynamic traffic management).
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

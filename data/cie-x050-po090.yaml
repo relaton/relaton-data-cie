@@ -1,0 +1,105 @@
+---
+id: CIEx050PO090
+type: standard
+schema_version: v1.5.6
+title:
+- content: CURVE FITTINGS OF SPECTRAL RADIANCES OF R, G, AND B MINI-LED SAMPLES MEASURED
+    BY A 2D-SPECTRORADIOMETER
+  type: title-main
+- content: CURVE FITTINGS OF SPECTRAL RADIANCES OF R, G, AND B MINI-LED SAMPLES MEASURED
+    BY A 2D-SPECTRORADIOMETER
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po090?product_id=2579134
+docidentifier:
+- content: CIE x050-PO090
+  type: CIE
+  primary: true
+docnumber: x050-PO090
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Hsu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Hung
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Yang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Sun
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This work studies the properties of spectral radiances of R, G, and B mini-LED array samples by experiments with a 2D-spectroradiometer and analyzations with curve scaling and modelling methods. The parameters for curve scaling are the peak radiance, frequency at peak, and full widths at half maximum. The following modelling of the scaled curves of different materials are based on an equation with two parameters, which are related to the low- and high-energy values of the LED samples.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

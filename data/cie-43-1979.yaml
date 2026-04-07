@@ -1,0 +1,47 @@
+---
+id: CIE431979
+type: standard
+schema_version: v1.5.6
+title:
+- content: Photometry of floodlights
+  type: title-main
+- content: Photometry of floodlights
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-43-1979?product_id=1209975
+docidentifier:
+- content: CIE 43-1979
+  type: CIE
+  primary: true
+- content: '9783900734824'
+  type: ISBN
+docnumber: 43-1979
+date:
+- type: published
+  at: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This technical report recommends the adoption of test procedures that will provide acceptable results in measuring and reporting the photometric characteristics of floodlights. The recommendations are intended to provide a basis for uniform national standards, and to guide industrial photometric laboratories in the selection of test apparatus, conduct of tests, and presentation of floodlight performance data.
+
+    The publication contains 50 pages, 23 figures and 4 tables.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

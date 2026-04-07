@@ -1,0 +1,49 @@
+---
+id: CIE721987
+type: standard
+schema_version: v1.5.6
+title:
+- content: Guide to the properties and uses of retroreflectors at night
+  type: title-main
+- content: Guide to the properties and uses of retroreflectors at night
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-72-1987?product_id=1210001
+docidentifier:
+- content: CIE 72-1987
+  type: CIE
+  primary: true
+- content: '9783900734084'
+  type: ISBN
+docnumber: 72-1987
+date:
+- type: published
+  at: '1987-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This guide describes the properties, characteristics and uses of retroreflectors at night. It was written in simple language for those who, in one way or another, have to deal with retroreflectors in their professional activity and have a limited knowledge of optics and lighting technology. Sections 2, 3, and 4 introduce the fundamentals of the subject. Section 5 explains the construction and functioning of different optical systems and (prismatic or spherical-lens) retroreflectors. Section 6 and 7 describe the effect of dew, frost, and the deterioration of retroreflectors. Section 8 deals with tests of photometric and colorimetric performance, as well as commonly performed quality tests of the resistance and durability of materials. Section 9 enumerates typical uses of retroreflectors and retroreflecting sheeting for road, railroad, airport, waterway, sea navigation, search and rescue, vehicle, cyclist, pedestrian, and safety signs. Section 10 gives a selected bibliography on retroreflectors.
+
+    The publication includes eight annexes, containing drawings, charts, tables, diagrams, and calculation methods.
+
+    The publication contains 57 pages, 35 figures and 2 tables.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,96 @@
+---
+id: CIEx048OP11
+type: standard
+schema_version: v1.5.6
+title:
+- content: EFFECT OF LIGHT SOURCE DISTANCE ON THE DISCRIMINATION AND GLOSS PERCEPTION
+    OF PAPER
+  type: title-main
+- content: EFFECT OF LIGHT SOURCE DISTANCE ON THE DISCRIMINATION AND GLOSS PERCEPTION
+    OF PAPER
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op11?product_id=2240687
+docidentifier:
+- content: CIE x048-OP11
+  type: CIE
+  primary: true
+docnumber: x048-OP11
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: X
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Zhu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Inoue
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Sato
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Mizokami
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Gloss is an essential visual property of objects. It is still controversial how well gloss constancy works under different light distributions. In this paper, we conducted three experiments of different light distributions to investigate whether the stable discrimination and gloss constancy of paper occurred with different glossiness levels at the different light source distances and illuminances. The results suggest instability of paper discrimination and gloss perception when both light source distance and illuminance change. Then we tested two additional conditions. One is setting the distance the same and manipulating the illumination. The other is setting the illuminance constant and manipulating the distance, respectively. We further verify that illuminance and specular reflection can affect material and gloss perception, regardless of the width of the highlight region changed by light source distance.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

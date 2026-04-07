@@ -1,0 +1,85 @@
+---
+id: CIEx049P13
+type: standard
+schema_version: v1.5.6
+title:
+- content: IMPACT OF SAMPLING RATE ON FLICKER METRIC CALCULATIONS
+  type: title-main
+- content: IMPACT OF SAMPLING RATE ON FLICKER METRIC CALCULATIONS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x049-p13?product_id=2502821
+docidentifier:
+- content: CIE x049-P13
+  type: CIE
+  primary: true
+docnumber: x049-P13
+date:
+- type: published
+  at: '2022-10-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Tan
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Leon
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Miller
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In order to estimate the visibility of temporal light modulation (TLM), also known as "flicker", various metrics are employed in research and commerce. The metrics, however, are not easily calculated, and occasionally the values change depending on sampling rates. This study investigates the complexities involved in processing data from TLM waveform metrics and then calculating metrics. It explores the sensitivity of each metric to sampling rate, and recommendations are then provided for how to increase the accuracy and consistency of the metrics by using appropriate sampling rates. The analyses in this study are based on noise-free and stable ideal waveforms; however, sampling rate effects also exist for real-world waveforms.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

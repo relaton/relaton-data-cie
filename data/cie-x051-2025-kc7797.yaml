@@ -1,0 +1,103 @@
+---
+id: CIEx0512025kc7797
+type: standard
+schema_version: v1.5.6
+title:
+- content: LARGE RESIDENTIAL AREA LIGHT POLLUTION MODELLING
+  type: title-main
+- content: LARGE RESIDENTIAL AREA LIGHT POLLUTION MODELLING
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-kc7797?product_id=3039163
+docidentifier:
+- content: CIE x051:2025/kc7797
+  type: CIE
+  primary: true
+docnumber: x051:2025/kc7797
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Novak
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Valicek
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Gasparovsky
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Raditschova
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Brzobohaty
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    https://doi.org/10.25039/x051.2025/kc7797The article explains approaches to modelling classic outdoor lighting systems, such as road lighting, but also new approaches to implementing the radiating characteristics of vertical light sources such as windows and advertisements. All these lighting systems are subsequently implemented in the residential area model with the specification of individual obstacles and their reflective surfaces. A light-technical model is calculated on the points located on the sphere surface named “virtual” software goniophotometer. The output is a lighting calculating model made from available sources simulating the most faithful copy of the residential area with regarding radiation into the upper hemisphere. All lighting systems that radiate at night into the outdoor space are included in the model (public lighting, windows, advertisements and cars). The performed calculations determine both the direct and total radiation of individual lighting systems into the upper hemisphere and thus enable a comparison of their influence on light pollution.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

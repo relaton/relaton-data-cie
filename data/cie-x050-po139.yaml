@@ -1,0 +1,79 @@
+---
+id: CIEx050PO139
+type: standard
+schema_version: v1.5.6
+title:
+- content: SNAPSHOT AND LINESCAN HYPERSPECTRAL IMAGING FOR VISUAL APPEARANCE MEASUREMENTS
+  type: title-main
+- content: SNAPSHOT AND LINESCAN HYPERSPECTRAL IMAGING FOR VISUAL APPEARANCE MEASUREMENTS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po139?product_id=2579204
+docidentifier:
+- content: CIE x050-PO139
+  type: CIE
+  primary: true
+docnumber: x050-PO139
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Slembrouck
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Audenaert
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Leloup
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Hyperspectral imaging techniques offer interesting new methods of measuring visual appearance. In this paper, two different types of hyperspectral cameras (snapshot vs. linescan) are compared on a theoretical and practical basis, and it is tested if they could be used for visual appearance measurements. The cameras are first characterized and calibrated. A GretagMacbeth ColorChecker® is then used to compare and evaluate the quality of the spectral reflectance measurements of the two cameras. Whilst the data of the snapshot camera better matches the spectral measurements obtained with two spectrophotometers, the spatial performance limits the usability of the device. Based on the findings of this study, further research is discussed in order to improve the measurement accuracy of the snapshot hyperspectral camera.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

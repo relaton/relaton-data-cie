@@ -1,0 +1,70 @@
+---
+id: CIEPP02238246
+type: standard
+schema_version: v1.5.6
+title:
+- content: DEPRECIATION OF ROOM SURFACES REFLECTANCE AND THEIR INFLUENCE ON MAINTENANCE
+    FACTOR OF LIGHTING SYSTEMS (PP02, 238-246)
+  type: title-main
+- content: DEPRECIATION OF ROOM SURFACES REFLECTANCE AND THEIR INFLUENCE ON MAINTENANCE
+    FACTOR OF LIGHTING SYSTEMS (PP02, 238-246)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/depreciation-of-room-surfaces-reflectance-and-their-influence-on-maintenance-factor-of-lighting-systems-pp02-238-246?product_id=2016249
+docidentifier:
+- content: CIE PP02 238-246
+  type: CIE
+  primary: true
+docnumber: PP02 238-246
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Gasparovsky
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Dubnicka
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Aim of this paper is to contribute to improvement of the methodology for determination and application of the maintenance factor of lighting systems. The paper is specifically focused on the room surface maintenance factor (RSMF) in interior lighting. The paper consist of three selfstanding parts. In first part it is proposed to release the current structure of maintenance factor and to split it to luminaire related and surface related degradation factors. To support update of RSMF values for different environmental condition, sample surfaces have been let polluted by dust and dirt and their reflectance have been measured in stated time intervals. Third, model calculations for a mock-up room under different conditions have been evaluated, once using the current approach and alternatively associating the RSMF factor directly with room surface reflectances.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

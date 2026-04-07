@@ -1,0 +1,49 @@
+---
+id: CIE0661984
+type: standard
+schema_version: v1.5.6
+title:
+- content: Road surfaces and lighting (joint technical report CIE/PIARC)
+  type: title-main
+- content: Road surfaces and lighting (joint technical report CIE/PIARC)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-066-1984?product_id=1209998
+docidentifier:
+- content: CIE 066-1984
+  type: CIE
+  primary: true
+- content: '9783901906725'
+  type: ISBN
+docnumber: 066-1984
+date:
+- type: published
+  at: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This technical report deals with the relationship between the photometric characteristics (reflection properties) of road surfaces and their construction (compositions and texture). It was drafted by CIE experts on reflection by road surfaces in collaboration with PIARC experts on road construction, and is intended as a guide for road constructors and for lighting designers.
+
+    The report is a summary of recommendations contained in CIE technical reports, and gives supplementary information not previously published by CIE or PIARC. Some of this information is provisional. It is hoped that the report will stimulate the collection of additional data that lead to more accurate information.
+
+    The publication contains 74 pages, 35 figures and 21 tables.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

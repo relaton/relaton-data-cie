@@ -1,0 +1,93 @@
+---
+id: CIEx05120252qtxjh
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'DAYLIGHT AND VIEW OUT: A COMPARATIVE STUDY BETWEEN BRAZILIAN AND EUROPEAN
+    CONTEXTS'
+  type: title-main
+- content: 'DAYLIGHT AND VIEW OUT: A COMPARATIVE STUDY BETWEEN BRAZILIAN AND EUROPEAN
+    CONTEXTS'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-2qtxjh?product_id=3039583
+docidentifier:
+- content: CIE x051:2025/2qtxjh
+  type: CIE
+  primary: true
+docnumber: x051:2025/2qtxjh
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: "N"
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Amorim
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: TEIXEIRA
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: PINHEIRO
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The evaluation of quality of daylight indoors is a complex matter. Research about quality of view is increasing, with the European and the new Brazilian standard also addressing this aspect. This paper evaluates the quality of view and gather data concerning the Brazilian context, evaluating and comparing users’ satisfaction with some European data. The method involves the creation of a database of Brazilian views and questionnaires to collect occupants’ preferences. 34 representative Brazilian views were listed – within those, 15 views of 7 buildings in Brasilia, all evaluated by an assessment sheet based on approved methods. Users’ perception consists in a in person (429 respondents) and online questionnaires (1301 respondents). There was a clear preference for natural elements, such as sky, water and vegetation, consistent with European results. As for Brazilian specificities, historical architecture is not a unanimous preference and there is a preference for modernist buildings.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

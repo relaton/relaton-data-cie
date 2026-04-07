@@ -1,0 +1,96 @@
+---
+id: CIEx048OP30
+type: standard
+schema_version: v1.5.6
+title:
+- content: A NOVEL METHOD FOR STUDYING THRESHOLD LEVELS FOR POSITIVE PHOTOTAXIS IN
+    INSECTS
+  type: title-main
+- content: A NOVEL METHOD FOR STUDYING THRESHOLD LEVELS FOR POSITIVE PHOTOTAXIS IN
+    INSECTS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op30?product_id=2240780
+docidentifier:
+- content: CIE x048-OP30
+  type: CIE
+  primary: true
+docnumber: x048-OP30
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Nilsson Tengelin
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Jägerbrand
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Andersson
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Källberg
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This paper presents a novel method for studying threshold levels for positive phototaxis of insects and smaller mobile organisms. Outdoor lighting affects light sensitive species and there is a need to evaluate the effect of light levels, spectral composition of the light and light distribution to mitigate the ecological impacts of the artificial light. For this purpose, a test box investigating the effect of light on insects in a controlled manner has been constructed. The box is equipped with a luminance source and the light levels can be varied from a maximum value continuously down to zero. The spectral composition of the light can be varied by changing the lamp or using optical filters. For visibility of the insects the box has infrared light emitting diodes in the ceiling and two wide-angle cameras monitor the light response. The functionality of the box is tested with the species greater wax moth.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

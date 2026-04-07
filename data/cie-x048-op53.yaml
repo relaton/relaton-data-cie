@@ -1,0 +1,89 @@
+---
+id: CIEx048OP53
+type: standard
+schema_version: v1.5.6
+title:
+- content: IMPACT OF QUALITATIVE AND QUANTITATIVE METHODS ON THE EVALUATION OF STREET
+    LIGHTING UNIFORMITY
+  type: title-main
+- content: IMPACT OF QUALITATIVE AND QUANTITATIVE METHODS ON THE EVALUATION OF STREET
+    LIGHTING UNIFORMITY
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op53?product_id=2240805
+docidentifier:
+- content: CIE x048-OP53
+  type: CIE
+  primary: true
+docnumber: x048-OP53
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Ulrika
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Wänström
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Lindh
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Annika
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Jägerbrand
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Uniformity of lighting for pedestrians is often assumed to have been achieved in mixed traffic environments when the lighting uniformity requirements for vehicular traffic have been fulfilled. Uniformity of lighting for drivers is commonly evaluated based on quan-titative data on parameters such as overall luminance uniformity. However, methods for evaluating uniformity from the perspective of other road users are currently somewhat lacking. This study discusses qualitative and quantitative methods of assessing street lighting uniformity, and the potential implications for lighting design and the road us-ers. We used convergence design and imbedded design based on two field studies. The research purpose is twofold: first, to study if, and how, measured lighting uni-formity corresponds with visual perception. Secondly, to identify and explain the addi-tional value that a combined method approach can contribute. The study considers ex-amples of when the measured uniformity corresponds to visually perceived uniformity and when they do not correspond.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

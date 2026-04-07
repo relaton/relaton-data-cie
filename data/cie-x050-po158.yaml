@@ -1,0 +1,84 @@
+---
+id: CIEx050PO158
+type: standard
+schema_version: v1.5.6
+title:
+- content: RESEARCH ON THE DEVELOPMENT PATH OF KEY TECHNOLOGIES BASED ON SMART LIGHT
+    POLE SYSTEM
+  type: title-main
+- content: RESEARCH ON THE DEVELOPMENT PATH OF KEY TECHNOLOGIES BASED ON SMART LIGHT
+    POLE SYSTEM
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po158?product_id=2579218
+docidentifier:
+- content: CIE x050-PO158
+  type: CIE
+  primary: true
+docnumber: x050-PO158
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Zang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Huang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Liu
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This paper starts with the relationship between smart light poles and smart cities, through the analysis of the development characteristics and trends of smart light poles, the system architecture and its key technologies are systematically sorted out, and deeply discusses the development path of key technologies based on smart light pole system, such as functional decentralization to high integration, smart nodes to smart ecology, fixed scenarios to flexible scenarios, software definition of light poles to software definition of the worlds, and data standards to data governance. It aims to provide future oriented suggestions on the construction and development of smart city infrastructure, promote the development of digital economy and the industrial ecological reconstruction of information infrastructure, and comprehensively support the modernization of urban governance system and governance capacity.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

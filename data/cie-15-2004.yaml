@@ -1,0 +1,69 @@
+---
+id: CIE152004
+type: standard
+schema_version: v1.5.6
+title:
+- content: Colorimetry, 3rd Edition
+  type: title-main
+- content: Colorimetry, 3rd Edition
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-15-2004?product_id=1210118
+docidentifier:
+- content: CIE 15:2004
+  type: CIE
+  primary: true
+- content: '3901906339'
+  type: ISBN
+docnumber: 15:2004
+date:
+- type: published
+  at: '2004-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This publication, which replaces CIE Publication 15.2 (and is not to be known as 15.3!), includes details of the CIE DE2000 colour difference equation; spectral power distributions for sets of halophosphate lamps, DeLuxe type lamps, three-band lamps, multi-band lamps, high pressure sodium lamps and high pressure metal halide lamps. The nomenclature for the recommended geometries has changed, and there are even changes to the equations defining the parameters of the CIELAB colour space!
+
+    The publication is accompanied by CD-ROM (for the Print Edition) that contains all the tables of standard and recommended spectral distributions and a program (for Windows operation systems) to perform interpolation of spectra related to reflection or absorption measurements.
+
+    Thus this publication represents the colorimetric state-of-the-art and should find a place on the bookshelf of every colour scientist.
+
+    The report is written in English, with a short summary in French and German. It consists of 79 pages with 17 tables, and is readily available at the CIE National Committees or the CIE Central Bureau in Vienna.
+                  See more
+relation:
+- type: updates
+  bibitem:
+    title:
+    - content: Colorimetry, 4th Edition
+      type: title-main
+    - content: Colorimetry, 4th Edition
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-015-2018?product_id=2025773
+    docidentifier:
+    - content: CIE 015:2018
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '2018-10-01'
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,69 @@
+---
+id: CIEx05120256zzq8k
+type: standard
+schema_version: v1.5.6
+title:
+- content: SHARING POWER BANK—NEW NETWORK FOR BUILDING EVACUATION LIGHTING IN THE
+    MOBILE ERA
+  type: title-main
+- content: SHARING POWER BANK—NEW NETWORK FOR BUILDING EVACUATION LIGHTING IN THE
+    MOBILE ERA
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-6zzq8k?product_id=3039603
+docidentifier:
+- content: CIE x051:2025/6zzq8k
+  type: CIE
+  primary: true
+docnumber: x051:2025/6zzq8k
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Du
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Yan
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In large-area power outages it is difficult to achieve power supply for emergency lighting timely. The independence and redundancy of backup power systems can lead to waste due to extremely low utilization. In the era of mobile electronic devices and the sharing economy, per capita handheld lighting terminals and widely distributed power storage networks provide new possibilities for emergency evacuation lighting in buildings. This article simulates the evacuation scenario under sudden power outage, adopts the strategy of handheld mobile device lighting and temporary rental of sharing power bank, calculates the ratio of the number of power banks that need to be charged under different evacuation durations. The results show that under the shared power bank network in the core area of the city, mobile device lighting can meet the evacuation lighting duration at a certain stage and is helpful for emergency evacuation in the early stages of incident.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

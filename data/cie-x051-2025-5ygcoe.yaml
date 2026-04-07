@@ -1,0 +1,81 @@
+---
+id: CIEx05120255ygcoe
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'ELECTROCHROMIC GLAZING: NON-VISUAL EFFECTS IN HIGHLY GLAZED NON-RESIDENTIAL
+    BUILDINGS IN BRAZIL'
+  type: title-main
+- content: 'ELECTROCHROMIC GLAZING: NON-VISUAL EFFECTS IN HIGHLY GLAZED NON-RESIDENTIAL
+    BUILDINGS IN BRAZIL'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-5ygcoe?product_id=3039599
+docidentifier:
+- content: CIE x051:2025/5ygcoe
+  type: CIE
+  primary: true
+docnumber: x051:2025/5ygcoe
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: F
+      - language: en
+        script: Latn
+        initial: W
+      surname:
+        language: en
+        script: Latn
+        content: Costa
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: "N"
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Amorim
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Technologies of electrochromic glazing have been developed as solutions for issues concerning luminous comfort caused by glazed facades, predominant type in non-residential buildings. The aim of this research is to examine electrochromic glazing for daylighting conditions, including non-visual effects, in a representative non-residential room within Brazilian latitudes. Computer simulations were carried out in ALFA combining 34,560 cases. The variables were: six cities/latitudes (from 3° to 29° south), four window orientations and four glazing materials, including electrochromic glazing, clear, green, and reflective silver glass. Based on the detected cases with a lack of circadian lighting and the distortions detected in the spectral analyses in the darker tint states, recommendations were made to improve the performance of electrochromic glazing regarding the minimum supply of non-visual effects of light in Brazil, by increasing from dark tint state to medium tint state according to the city/latitude, window orientation and time of the year (season).
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

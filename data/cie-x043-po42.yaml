@@ -1,0 +1,80 @@
+---
+id: CIEx043PO42
+type: standard
+schema_version: v1.5.6
+title:
+- content: PESPECTROPHOTOMETRY OF DYNAMIC COLOURS (PO42, Pages 408-416)
+  type: title-main
+- content: PESPECTROPHOTOMETRY OF DYNAMIC COLOURS (PO42, Pages 408-416)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/pespectrophotometry-of-dynamic-colours-po42-pages-408-416?product_id=1941864
+docidentifier:
+- content: CIE x043-PO42
+  type: CIE
+  primary: true
+docnumber: PO42 Pages 408-416
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Vikova
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Vik
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Dynamic colours are sensitive on different stimuli such as UV-VIS radiation,
+    temperature, humidity, etc. Potential application of these systems in industry,
+    fashion and other branches brings problem of its measurement for purpose of control
+    their quality. For example photochromic colours need to be exposed by external
+    light source during measurement.  Based on that the special device was developed
+    allowing such kind of measurement. This unique device allows the measure colorimetric
+    and spectral characteristics of colour changeable materials as photochromic sensors
+    and also the fatigue test for the control of colour change stability. This measurement
+    of colorimetric and spectral parameters in comparison together with intensity
+    of UV irradiation allows finding the dependence of colour change on intensity
+    of irradiation and the development the scale for individual visual observation
+    and to evaluate dangerousness of UV irradiation. In this article is described
+    possibility to use different light sources (Xe 450 W and LED 395-410) for this
+    kind of measurement and also there influence of selected light sources on photochromic
+    effect is discussed. Is evident, there is a problem for future standardization
+    of colour changeable materials measurement. \n\n              See more"
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,61 @@
+---
+id: CIEx043PO37
+type: standard
+schema_version: v1.5.6
+title:
+- content: APPEARANCE RESEARCH BASED ON SPECTRUM TUNEABLE LIGHTING SYSTEMS (PO37,
+    Pages 378-380)
+  type: title-main
+- content: APPEARANCE RESEARCH BASED ON SPECTRUM TUNEABLE LIGHTING SYSTEMS (PO37,
+    Pages 378-380)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/appearance-research-based-on-spectrum-tuneable-lighting-systems-po37-pages-378-380?product_id=1941859
+docidentifier:
+- content: CIE x043-PO37
+  type: CIE
+  primary: true
+docnumber: PO37 Pages 378-380
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Luo
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    With the advance of LED technology, it is envisaged that spectrum tuneable lighting systems (STLS) will be widely spread in the lighting related research environment. The STLS brings a new dimension to the appearance research. This paper introduced a series of research works using these lighting systems, including white light locus, whiteness metrics, colour rendering metrics, metamerism index, preferred skin colours, museum lighting, colour discrimination metric, multispectral imaging system.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

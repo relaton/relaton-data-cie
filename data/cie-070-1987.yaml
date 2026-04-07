@@ -1,0 +1,49 @@
+---
+id: CIE0701987
+type: standard
+schema_version: v1.5.6
+title:
+- content: The measurement of absolute luminous intensity distributions
+  type: title-main
+- content: The measurement of absolute luminous intensity distributions
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-070-1987?product_id=1210143
+docidentifier:
+- content: CIE 070-1987
+  type: CIE
+  primary: true
+- content: '9783900734053'
+  type: ISBN
+docnumber: 070-1987
+date:
+- type: published
+  at: '1987-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This report contains the terminology required for measurements of luminous intensity distributions. It summarizes the principles of luminous intensity measurements and the requirements for the photometer heads employed for such measurements. The coordinates systems used for the measurement and representation of luminous intensity distributions are described. Types of goniophotometers, possibilities for angle encoding, characteristics of the photo-electronic system, and data acquisition and processing for measurements of luminous intensity distributions are discussed in detail.
+
+    Other subjects covered are power supply, measurement conditions and execution, correction, and representation of luminous intensity distribution measurements. The various sections contain sufficient data on the required characterization of goniophotometers. The report is based on, and supplementary to, CIE 53-1982 Methods of Characterizing the Performance of Radiometers and Photometers.
+
+    The publication contains 54 pages, 19 figures and 2 tables.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

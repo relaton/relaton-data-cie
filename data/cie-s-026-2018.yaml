@@ -1,0 +1,65 @@
+---
+id: CIES0262018
+type: standard
+schema_version: v1.5.6
+title:
+- content: CIE System for Metrology of Optical Radiation for ipRGC-Influenced Responses
+    to Light
+  type: title-main
+- content: CIE System for Metrology of Optical Radiation for ipRGC-Influenced Responses
+    to Light
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-s-026-2018?product_id=2030705
+docidentifier:
+- content: CIE S 026:2018
+  type: CIE
+  primary: true
+docnumber: S 026:2018
+date:
+- type: published
+  at: '2018-12-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This International Standard defines spectral sensitivity functions , quantities and metrics to describe the ability of optical radiation to stimulate each of the five photoreceptor types that can contribute, via the melanopsin-containing intrinsically-photosensitive retinal ganglion cells (ipRGCs), to retina-mediated non-visual effects of light in humans. This International Standard is applicable to visible optical radiation in the wavelength range from 380 nm to 780 nm. In addition, this standard includes information concerning the effects of age and field of view (FOV) when quantifying retinal photoreceptor stimulation for ipRGC-influenced responses to light (IIL responses).This International Standard does not give complete information for particular lighting applications, or for the quantitative prediction of IIL responses.This International Standard is not intended for colorimetric contexts, nor does it address health or safety issues such as those resulting from light treatment, flicker or photobiological safety and only relates to retinal photoreception.
+                  See more
+relation:
+- type: updates
+  bibitem:
+    title:
+    - content: CIE System for Metrology of Optical Radiation for ipRGC-Influenced
+        Responses to Light
+      type: title-main
+    - content: CIE System for Metrology of Optical Radiation for ipRGC-Influenced
+        Responses to Light
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-dis-026-e-2018?product_id=2019562
+    docidentifier:
+    - content: CIE DIS 026/E:2018
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '2018-07-01'
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

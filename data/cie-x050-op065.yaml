@@ -1,0 +1,103 @@
+---
+id: CIEx050OP065
+type: standard
+schema_version: v1.5.6
+title:
+- content: A NEW DATABASE OF HUMAN SKIN COLOUR
+  type: title-main
+- content: A NEW DATABASE OF HUMAN SKIN COLOUR
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op065?product_id=2579024
+docidentifier:
+- content: CIE x050-OP065
+  type: CIE
+  primary: true
+docnumber: x050-OP065
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Lu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Xiao
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Pointer
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Sueeprasan
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Li
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Reliable and accurate skin colour measurements are of vital importance in a wide range of applications. This paper presents a comprehensive database of human skin colour and investigates the variations across ethnicities, genders, ages, and body locations. Nine separate data sets of spectrophotometric measurements of skin reflectance were collected from different laboratories around the world with 12 355 skin patches have been measured. Overall, skin colour distributions were found to largely overlap across ethnic groups. Variations in ethnicity were mostly found in the lightness and yellowness of skin, while differences between body locations were primarily found in the redness of skin. The lightness of skin was also consistently influenced by gender and females were found to have a lighter skin colour than males. Meanwhile, the younger subjects had slightly lighter skin than the elderly. The new database is expected to benefit numerous research fields and applications related to human skin.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

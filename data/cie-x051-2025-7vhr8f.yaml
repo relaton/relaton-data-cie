@@ -1,0 +1,99 @@
+---
+id: CIEx05120257vhr8f
+type: standard
+schema_version: v1.5.6
+title:
+- content: TOWARDS AN ISO/CIE STANDARD FOR BSDF CHARACTERIZATION OF SHADING AND DAYLIGHTING
+    SYSTEMS
+  type: title-main
+- content: TOWARDS AN ISO/CIE STANDARD FOR BSDF CHARACTERIZATION OF SHADING AND DAYLIGHTING
+    SYSTEMS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-7vhr8f?product_id=3039151
+docidentifier:
+- content: CIE x051:2025/7vhr8f
+  type: CIE
+  primary: true
+docnumber: x051:2025/7vhr8f
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Geisler-Moroder
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Lee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      - language: en
+        script: Latn
+        initial: O
+      surname:
+        language: en
+        script: Latn
+        content: Grobe
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Ward
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    https://doi.org/10.25039/x051.2025/7vhr8fShading and daylighting systems such as textiles, louvres, and prismatic glazings are used to modulate incident solar radiation. The scattering properties of these “complex fenestration systems” (CFS) determine the temporally-variant, spatial distribution of daylight and solar radiation and thus affect the energy, global warming potential, comfort, health, and qualitative performance of buildings and the urban environment. Angle-dependent, solar-optical properties of CFS (i.e., bidirectional scattering distribution function (BSDF) data), however, are often unavailable or inaccurate, hindering simulated evaluations of environmental performance. New general methods for characterizing BSDF properties have been developed and extensively validated. This article describes the ISO/CIE 25176 initiative (launched in July 2024) that aims to standardize these methods for any arbitrary CFS. Open questions such as the limits of applicability are discussed. Standardization will have immediate implications on building performance analyses, e.g., the recent adoption of ISO/CIE 10916 for lighting energy simulations now requires use of BSDF data.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,55 @@
+---
+id: CIE1912010
+type: standard
+schema_version: v1.5.6
+title:
+- content: Recommended System for Mesopic Photometry Based on Visual Performance
+  type: title-main
+- content: Recommended System for Mesopic Photometry Based on Visual Performance
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-191-2010?product_id=1736466
+docidentifier:
+- content: CIE 191:2010
+  type: CIE
+  primary: true
+- content: '9783901906886'
+  type: ISBN
+docnumber: 191:2010
+date:
+- type: published
+  at: '2010-09-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This report deals with visual task performance based approaches to mesopic
+    photometry, with a major aim to establish appropriate mesopic spectral sensitivity
+    functions to serve as the foundation of a system of mesopic photometry. A review of
+    the most important visual tasks and the range of visual conditions typically
+    encountered in the context of night-time driving is given.
+    The existing visual performance based systems for mesopic photometry were
+    reviewed and tested with new independent data sources. The outcome of the
+    analysis and testing is a recommended system for mesopic photometry based on
+    visual performance. The report summarises the justifications for the recommended
+    system and gives general guidelines for its use and application.
+    The publication is written in English, with a short summary in French and German.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

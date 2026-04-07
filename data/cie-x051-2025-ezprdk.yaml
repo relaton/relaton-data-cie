@@ -1,0 +1,91 @@
+---
+id: CIEx0512025ezprdk
+type: standard
+schema_version: v1.5.6
+title:
+- content: DEVELOPMENT OF A DATABASE FOR FABRIC VISUAL APPEARANCE
+  type: title-main
+- content: DEVELOPMENT OF A DATABASE FOR FABRIC VISUAL APPEARANCE
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-ezprdk?product_id=3039901
+docidentifier:
+- content: CIE x051:2025/ezprdk
+  type: CIE
+  primary: true
+docnumber: x051:2025/ezprdk
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: Q
+      surname:
+        language: en
+        script: Latn
+        content: Li
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Xiao
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Pointer
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Mao
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Fabric products are the must-buy commodities that humans are exposed to. Current fabric image databases were developed mainly for pattern recognition and classification. Despite the large number of fabric images available in other databases, the inaccessible of the real fabrics make them less suitable for studying the differences in tactile perception between images and real fabrics. Our Leeds Fabric Tactile Database includes two parts: (1) 15 real fabrics. Images were captured when fabrics in flat and draped conditions, and then rendered by 16 evenly distributed colours. (2) 118 real fabrics. Images were captured in flat conditions, and videos were captured in rotating conditions where three frames were extracted to represent the draped condition. The visual appearance of fabrics was well captured using a digital image system and reproduced in the database. We demonstrated one of the applications of this database: predicting visual tactile perception through extracting image features.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

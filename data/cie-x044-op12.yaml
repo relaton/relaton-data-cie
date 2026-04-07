@@ -1,0 +1,97 @@
+---
+id: CIEx044OP12
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'DISCOMFORT GLARE FROM DAYLIGHTING: INFLUENCE OF CULTURE ON DISCOMFORT
+    GLARE PERCEPETION (OP12, 83-93)'
+  type: title-main
+- content: 'DISCOMFORT GLARE FROM DAYLIGHTING: INFLUENCE OF CULTURE ON DISCOMFORT
+    GLARE PERCEPETION (OP12, 83-93)'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/discomfort-glare-from-daylighting-influence-of-culture-on-discomfort-glare-percepetion-op12-83-93?product_id=2009529
+docidentifier:
+- content: CIE x044-OP12
+  type: CIE
+  primary: true
+docnumber: OP12 83-93
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Pierson
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Piderit
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Wienold
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Bodart
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This paper summarises the research work by the authors for the evaluation of glare (Yang et al., 2015, 2016a, 2016b 2017). Three experiments were carried out to accumulate glare perception data from luminaires having different uniformities and spectral power distributions. Two generic glare models were developed to fit the visual data in Experiments 1 and 2. Their performance were also tested using Experiment 3 data. They outperformed the UGR and the other state of the art models.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

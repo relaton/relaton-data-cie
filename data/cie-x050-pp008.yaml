@@ -1,0 +1,117 @@
+---
+id: CIEx050PP008
+type: standard
+schema_version: v1.5.6
+title:
+- content: METHOD FOR TRACEABILITY OF MULTISCALE BIDIRECTIONAL REFLECTANCE DISTRIBUTION
+    FUNCTION MEASUREMENTS
+  type: title-main
+- content: METHOD FOR TRACEABILITY OF MULTISCALE BIDIRECTIONAL REFLECTANCE DISTRIBUTION
+    FUNCTION MEASUREMENTS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-pp008?product_id=2579251
+docidentifier:
+- content: CIE x050-PP008
+  type: CIE
+  primary: true
+docnumber: x050-PP008
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Gevaux
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Morvan
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Dupiau
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Saha
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Frisvad
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Obein
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The traceability of instruments measuring reflectance on very small areas (submillimetric scale) cannot be established using conventional diffuse reflectance standards, because their measurement at very small scales is impacted by translucency and surface roughness. To establish the traceability of the bidirectional reflectance distribution function (BRDF) from the micrometric scale to the centimetric scale, we created samples that have invariant reflectance properties at multiple scales. The samples are flat and matte with a regular grid of dots that are small relative to the beam multiscale size and that present a structure that limits issues linked to translucency.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

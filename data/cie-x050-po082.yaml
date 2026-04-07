@@ -1,0 +1,79 @@
+---
+id: CIEx050PO082
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'THE UGR CORRECTION FACTOR: A CASE STUDY'
+  type: title-main
+- content: 'THE UGR CORRECTION FACTOR: A CASE STUDY'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po082?product_id=2579128
+docidentifier:
+- content: CIE x050-PO082
+  type: CIE
+  primary: true
+docnumber: x050-PO082
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Audenaert
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Bauwens
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Leloup
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The Unified Glare Rating (UGR) quantifies the level of discomfort glare of indoor light sources and luminaires. UGR values are calculated based on both the luminous intensity distribution and physical dimensions of the light emitting surface of a light source. While a luminous intensity distribution is strictly defined, a light emitting surface is not and can be quite ambiguous to determine, especially with modern LED based luminaires. In this case study, a typical office luminaire is considered and the effective light emitting surface is determined using a luminance based approach, as proposed in a CIE Technical Report. It was found that the luminance based approach to correct the standard UGR values can effectively identify luminous surface areas contributing to glare, thereby putting a stop to discussions surrounding UGR calculations and the ambiguity of what should be taken into account as the light emitting surface.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,105 @@
+---
+id: CIEx048OP14
+type: standard
+schema_version: v1.5.6
+title:
+- content: DEGREE OF EQUIVALENCE OF TRISTIMULUS VALUES OF LEDS UNDER CONSIDERATION
+    OF MEASUREMENT UNCERTAINTY AND CORRELATION
+  type: title-main
+- content: DEGREE OF EQUIVALENCE OF TRISTIMULUS VALUES OF LEDS UNDER CONSIDERATION
+    OF MEASUREMENT UNCERTAINTY AND CORRELATION
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op14?product_id=2240690
+docidentifier:
+- content: CIE x048-OP14
+  type: CIE
+  primary: true
+docnumber: x048-OP14
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Ruggaber
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Vollrath
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: U
+      surname:
+        language: en
+        script: Latn
+        content: Krüger
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Blattner
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Gerloff
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    There is only little guidance available for the evaluation of the degree of equivalence for higher dimensional measurands, especially in respect to tristimulus values. Currently, the tristimulus values are usually treated as one-dimensional measurand in order to simplify the degree of equivalence evaluation and be able to use the well-known procedures and statistics known from one-dimensional measurands. As the tristimulus values are clearly a high-dimensional measurand, they should be treated in that way. In the following, a procedure for the degree of equivalence evaluation for high-dimensional measurands is presented where the Monte Carlo method is used to support a clear understanding of the procedure. In addition to the procedure, the limitations of this method are discussed in regard to tristimulus values.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

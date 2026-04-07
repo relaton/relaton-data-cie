@@ -1,0 +1,58 @@
+---
+id: CIE1902010
+type: standard
+schema_version: v1.5.6
+title:
+- content: Calculation and Presentation of Unified Glare Rating Tables for Indoor
+    Lighting Luminaires
+  type: title-main
+- content: Calculation and Presentation of Unified Glare Rating Tables for Indoor
+    Lighting Luminaires
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-190-2010?product_id=1724506
+docidentifier:
+- content: CIE 190:2010
+  type: CIE
+  primary: true
+- content: '9783901906879'
+  type: ISBN
+docnumber: 190:2010
+date:
+- type: published
+  at: '2010-07-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This report has been prepared to assist luminaire suppliers and lighting designers in
+    the production of UGR tables for luminaires in preset arrays at 1:1 spacing to height
+    ratio. This data is needed for the verification of conformity to the limiting UGR by the
+    UGR tabular method specified in clause 6.2 of the Standard ISO 8995-1:2002(E)/
+    CIE S 008/E:2001 "Lighting of Workplaces - Part 1: Indoor". The limiting UGR values
+    are recommended in clause 5 of this standard. The report makes use of the basic
+    UGR equation, described in CIE 117-1995, gives tables of preset values for the
+    standard conditions and in step by step describes the calculation process needed to
+    generate the uncorrected UGR table. The process is further demonstrated by a
+    worked example of UGR calculation for a disymmetric distribution luminaire in a room
+    2H x 4H. The report also gives the uncorrected UGR table for this luminaire which
+    can be used to validate software designed for the production of the UGR table.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

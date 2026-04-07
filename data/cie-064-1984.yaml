@@ -1,0 +1,74 @@
+---
+id: CIE0641984
+type: standard
+schema_version: v1.5.6
+title:
+- content: Determination of the spectral responsivity of optical radiation detectors
+  type: title-main
+- content: Determination of the spectral responsivity of optical radiation detectors
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-064-1984?product_id=1209996
+docidentifier:
+- content: CIE 064-1984
+  type: CIE
+  primary: true
+- content: '9789637251245'
+  type: ISBN
+docnumber: 064-1984
+date:
+- type: published
+  at: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Technical Report outlines procedures for determining the spectral responsivity function of photodetectors. It contains two parts:
+
+       1. Determination of the relative spectral responsivity function
+
+          Various methods are presented and instrumental details are discussed. Sources of errors are listed together with diagnostic tests and proposals for remedial action.
+       2. Absolute calibration
+
+          Three different methods are presented for transforming relative spectral data into absolute values.
+
+    The report is intended to serve as a guide in assembling, testing, or modifying new or existing instruments. Its purpose is to describe options in the development of instrumentation, not to present solutions for individual cases.
+
+    The report consists of 73 pages and 10 figures.
+                  See more
+relation:
+- type: updates
+  bibitem:
+    title:
+    - content: Spectral Responsivity Measurement of Detectors, Radiometers and Photometers
+      type: title-main
+    - content: Spectral Responsivity Measurement of Detectors, Radiometers and Photometers
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-202-2011?product_id=1820326
+    docidentifier:
+    - content: CIE 202:2011
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '2011-12-01'
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

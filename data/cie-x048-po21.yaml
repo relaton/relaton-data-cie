@@ -1,0 +1,94 @@
+---
+id: CIEx048PO21
+type: standard
+schema_version: v1.5.6
+title:
+- content: HANDLING OF CORRELATIONS OF SPECTRAL QUANTITIES IN TRACEABILITY CHAIN
+  type: title-intro
+- content: BASICS FOR A PYTHON-BASED ANALYSIS FRAMEWORKE
+  type: title-main
+- content: HANDLING OF CORRELATIONS OF SPECTRAL QUANTITIES IN TRACEABILITY CHAIN -
+    BASICS FOR A PYTHON-BASED ANALYSIS FRAMEWORKE
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-po21?product_id=2240833
+docidentifier:
+- content: CIE x048-PO21
+  type: CIE
+  primary: true
+docnumber: x048-PO21
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Philipp
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Schneider
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Thorsten
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Gerloff
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Armin
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Sperling
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In this contribution a framework is presented that aims to help for handling correlations within measurement uncertainty calculations for spectral quantities. Taking correlations for spectral quantities into account is necessary as they directly influence the measurement uncertainties especially for integral quantities. Therefore, determination of correlations within traceability chains at national metrology institutes (NMIs) and disseminations of correlated data to test laboratory level is encouraged and a major goal of the EMPIR project 19NRM02 Revision and extension of standards for test methods for LED lamps, luminaires and modules (RevStdLED). The presented python-based analysis framework is used in photometry and spectroradiometry at PTB to calculate the results and associated measurement uncertainty for spectral irradiance, spectral irradiance responsivity and luminous responsivity based on spectral calibrations.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

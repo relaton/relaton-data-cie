@@ -1,0 +1,94 @@
+---
+id: CIEPP09284294
+type: standard
+schema_version: v1.5.6
+title:
+- content: MATERIAL APPEARANCE MANAGEMENT TECHNIQUES WITH AFFECTIVE MONITORING (PP09,
+    284-294)
+  type: title-main
+- content: MATERIAL APPEARANCE MANAGEMENT TECHNIQUES WITH AFFECTIVE MONITORING (PP09,
+    284-294)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/material-appearance-management-techniques-with-affective-monitoring-pp09-284-294?product_id=2016256
+docidentifier:
+- content: CIE PP09 284-294
+  type: CIE
+  primary: true
+docnumber: PP09 284-294
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Yoshii
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Ymamoto
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Hirasawa
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Tsumura
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    We evaluated concentration on tasks to build psychophysically-based model of graininess perception for device independent graininess reproduction system. This model is developed by conducting the experiments to explore the relationship between physical parameters of the graininess objects in the subjective evaluation and values of maximum luminance on the display for reproduction. The graininess model obtained by multiple regression analysis for the above values can be used to calculate curved surfaces where the graininess objects are observed as the equal appearance. This surface can be used for device independent graininess reproduction process to match the graininess under the displays with various maximum luminance. On the other hand, we focus on the concentration on the experiment by subject. We measured heart rate variability by the electrocardiogram attached on the arm of the subject. We found that it is necessary to consider the concentration on the task to obtain the appropriate psychophysically based model.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

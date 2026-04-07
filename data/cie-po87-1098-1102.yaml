@@ -1,0 +1,95 @@
+---
+id: CIEPO8710981102
+type: standard
+schema_version: v1.5.6
+title:
+- content: |-
+    MEASUREMENTS OF REFLECTION PROPERTIES OF A WET LED-LIGHTED ROAD
+
+     (PO87, 1098-1102)
+  type: title-main
+- content: |-
+    MEASUREMENTS OF REFLECTION PROPERTIES OF A WET LED-LIGHTED ROAD
+
+     (PO87, 1098-1102)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/measurements-of-reflection-properties-of-a-wet-led-lighted-road-po87-1098-1102?product_id=2011224
+docidentifier:
+- content: CIE PO87 1098-1102
+  type: CIE
+  primary: true
+docnumber: PO87 1098-1102
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: W
+      surname:
+        language: en
+        script: Latn
+        content: Hsu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Hung
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    IWe have developed a method based on on-site measurement of luminance images to study the reflected properties of LED and HPS lighted wet road. The distance of imaging luminance measurement device (ILMD) can be very close to the measured region to have high observation angles. All the measured luminance images were analysed and summarized to a distribution of reflected luminance as a function deviation angle, incidence angle, and observation angle.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

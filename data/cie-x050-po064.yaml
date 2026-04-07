@@ -1,0 +1,81 @@
+---
+id: CIEx050PO064
+type: standard
+schema_version: v1.5.6
+title:
+- content: INFLUENCE OF INDIVIDUAL’S LIGHT ENVIRONMENT EXPERIENCES ON SELECT OF SEAT
+    AND LIGHTING SUITABLE FOR EACH TASK IN ACTIVITY BASED WORKING
+  type: title-main
+- content: INFLUENCE OF INDIVIDUAL’S LIGHT ENVIRONMENT EXPERIENCES ON SELECT OF SEAT
+    AND LIGHTING SUITABLE FOR EACH TASK IN ACTIVITY BASED WORKING
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po064?product_id=2579112
+docidentifier:
+- content: CIE x050-PO064
+  type: CIE
+  primary: true
+docnumber: x050-PO064
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Nomura
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Iwata
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Tsushima
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The individual difference in selecting seat and lighting may be caused by difference in their personality or mood and their experience. The purpose of this study is to identify the influence of their personality and individual’s light environment experiences on the process of selecting seat and lighting for the task in ABW. The light environment experiences survey, and selection of seating and lighting were conducted. There were two type of task, two types of seat and six types of lighting. Most respondents used white light and uniform illuminance distribution for task. There was no difference in illuminance distribution between each task for the light environment experience, but more respondents preferred a brighter illuminance distribution from the centre for thinking task. There was little diversity in light environment experiences, so that no clear relationship was obtained between light environment experiences and lighting preferences.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

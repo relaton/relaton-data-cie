@@ -1,0 +1,121 @@
+---
+id: CIEPO10457460
+type: standard
+schema_version: v1.5.6
+title:
+- content: NON-SUBJECTIVE AND SUBJECTIVE EVALUATIONS OF CONCENTRATION OF OFFICE WORKERS
+    IN LIGHTING CONDITIONS WITH DIFFERENT BLUE LIGHTS (PO10, 457-460)
+  type: title-main
+- content: NON-SUBJECTIVE AND SUBJECTIVE EVALUATIONS OF CONCENTRATION OF OFFICE WORKERS
+    IN LIGHTING CONDITIONS WITH DIFFERENT BLUE LIGHTS (PO10, 457-460)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/non-subjective-and-subjective-evaluations-of-concentration-of-office-workers-in-lighting-conditions-with-different-blue-lights-po10-457-460?product_id=2016288
+docidentifier:
+- content: CIE PO10 457-460
+  type: CIE
+  primary: true
+docnumber: PO10 457-460
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Wu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Tseng
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Luo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Lin
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    To more definitely understand the effect of lighting on humans, the ergonomic study on health lighting has been discussed. Both subjective and non-subjective evaluations were implemented for obtaining the influence of different lighting conditions on human. The correlations between subjective evaluation and non-subjective evaluation is mentioned in this study. The subjective evaluation result revealed that most participants presented concentration and being excited, while the non-subjective evaluation showed that participants were enhanced the sympathetic activity indicator and the indexes of brain waves and reduced the parasympathetic activity indicator. Grey relational analysis is applied to analyse the correlations between subjective evaluation and non-subjective evaluation to control and stabilize the quality of experiment, expecting to reduce the variation between subjective and non-subjective experiment results and enhance the accuracy of experiment through such correlations. Furthermore, it is expected to establish a reliable model for the development of human-centric lighting in the future.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

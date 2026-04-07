@@ -1,0 +1,81 @@
+---
+id: CIEx048OP06
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'CAPTURING THE LUMINOUS ENVIRONMENT IN HOSPITAL ROOMS: AN OVERVIEW OF OCCUPANT-
+    CENTERED METHODS TO INFORM DESIGN PRACTICE'
+  type: title-main
+- content: 'CAPTURING THE LUMINOUS ENVIRONMENT IN HOSPITAL ROOMS: AN OVERVIEW OF OCCUPANT-
+    CENTERED METHODS TO INFORM DESIGN PRACTICE'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op06?product_id=2240680
+docidentifier:
+- content: CIE x048-OP06
+  type: CIE
+  primary: true
+docnumber: x048-OP06
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      surname:
+        language: en
+        script: Latn
+        content: Garcia-Hansen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Rodriguez
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Ong
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Hospitals are complex environments having to balance out contradictory requirements from patients and health workers. Despite evidence demonstrating the critical role of the hospitals luminous environment in responding to occupants requirements and needs, and the importance of engaging with the patient experience to improve the quality of patient care, to date, no studies have articulated approaches to study conflicting occupants needs for lighting in context. This paper presents a semi-systematic literature review of disciplinary approaches to investigate quality lighting conditions in hospitals and subjective impressions of occupants. Research articles from the clinical, built environment, and lighting fields were selected and evaluated. The review outlined appropriate physical (i.e., photometric) and self-report (e.g., preferences) approaches for data collection in context and potential articulations between them. Mixed data collection and data analysis techniques are deemed essential to articulate lighting design strategies engaging with the requirements of hospital occupants on a 24-hour basis.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

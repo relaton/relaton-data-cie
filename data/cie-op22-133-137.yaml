@@ -1,0 +1,94 @@
+---
+id: CIEOP22133137
+type: standard
+schema_version: v1.5.6
+title:
+- content: KANSEI EVALUATION OF COLOUR IMAGES IN VARIOUS COLOUR GAMUTS USING DIFFERENT
+    RED PRIMARIES (OP22, 133-137)
+  type: title-main
+- content: KANSEI EVALUATION OF COLOUR IMAGES IN VARIOUS COLOUR GAMUTS USING DIFFERENT
+    RED PRIMARIES (OP22, 133-137)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/kansei-evaluation-of-colour-images-in-various-colour-gamuts-using-different-red-primaries-op22-133-137?product_id=2016235
+docidentifier:
+- content: CIE OP22 133-137
+  type: CIE
+  primary: true
+docnumber: OP22 133-137
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Ayama
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Inuzuka
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Kageyama
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Ishikawa
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In order to investigate the best red primary for colour display from KANSEI evaluation point of view, evaluation experiment using SD method was conducted using four different red primaries of 610 nm, 620 nm, 630 nm, or 640 nm. The red primaries of 630 nm and 640 nm provides deep colour and impressive feeling, but the most unnatural. On the other hand, the red primary of 610 nm results the higher score for naturalness assessment, while it gives neither deep colour nor impressive feeling. Changing the wavelength of the red primary causes the area of chromaticity distribution of test images. Results of the present study indicate that to investigate the relations among chromaticity distribution of image, colour appearance of main colour(s) of images, and KANSEI evaluation is needed.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

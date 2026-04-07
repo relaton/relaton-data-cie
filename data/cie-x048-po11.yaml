@@ -1,0 +1,115 @@
+---
+id: CIEx048PO11
+type: standard
+schema_version: v1.5.6
+title:
+- content: VISUAL EFFECTS OF OBJECTS UNDER METAMERISM WITH MULTI-SPECTRAL LIGHT SOURCE
+  type: title-main
+- content: VISUAL EFFECTS OF OBJECTS UNDER METAMERISM WITH MULTI-SPECTRAL LIGHT SOURCE
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-po11?product_id=2240825
+docidentifier:
+- content: CIE x048-PO11
+  type: CIE
+  primary: true
+docnumber: x048-PO11
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Li
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Fan
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Lin
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: U
+      surname:
+        language: en
+        script: Latn
+        content: Chong
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      - language: en
+        script: Latn
+        initial: X
+      surname:
+        language: en
+        script: Latn
+        content: Lee
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This study attempts to simulate the metamerism colour, and the guava was used as the target object. We design four sets of metamers with a correlated colour temperature of 4000K and an illuminance of 750lux. The light source was simulated in the LED cube. The subjects with convenience sampling observed the visual effects, including look delicious, colourful, and colour rendering of guava under metamerism, then analysed its relationship with CRI and CQS. The results showed that colour rendering and visual effects are not a positive relationship, and the effect of CQS is closer to the visual effects of the subjects. The results of this study can be used as a reference for light source lighting designers as a basis for improving lighting conditions. In the future, we can collect databases for the different objects with an optimized multi-spectral light source.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

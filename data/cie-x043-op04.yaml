@@ -1,0 +1,94 @@
+---
+id: CIEx043OP04
+type: standard
+schema_version: v1.5.6
+title:
+- content: INTERCOMPARISON OF VISUAL GLOSS PSYCHOMETRIC SCALES (OP04, Pages 25-29)
+  type: title-main
+- content: INTERCOMPARISON OF VISUAL GLOSS PSYCHOMETRIC SCALES (OP04, Pages 25-29)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/intercomparison-of-visual-gloss-psychometric-scales-op04-pages-25-29?product_id=1941809
+docidentifier:
+- content: CIE x043-OP04
+  type: CIE
+  primary: true
+docnumber: OP04 Pages 25-29
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Ged
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Leloup
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: De Wit
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Obein
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The total visual appearance of a surface is of concern in a wide panel of industrial sectors. In many manufacturing processes, more than instruments, the visual system has the last word when the quality of the finished product is at stake. Psychophysical studies aim to produce scales describing our perception of stimuli. In the field of gloss appraisal, psychophysics has been of importance since Hunter's early work, and a variety of scales describing one or more visual aspects of surface gloss have been derived. However, to our knowledge, no metrological assessment of scales constructed from one and the same set of samples through different protocols has ever been carried out. In this study, psychometric functions of a commercially available gloss scale are derived from experiments conducted under different assessment conditions, by two sets of naive observers, and using two distinct protocols. The metrological validity of the results is discussed. The potential output of this work may lead the way towards the definition of a standard gloss observer.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

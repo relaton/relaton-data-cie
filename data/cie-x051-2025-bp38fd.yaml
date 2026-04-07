@@ -1,0 +1,129 @@
+---
+id: CIEx0512025bp38fd
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'EFFECT OF FLUCTUATING EXTERIOR LIGHTING ON IMPRESSION: INFLUENCE OF THE
+    NUMBER OF LUMINAIRES AND INSTALLATION INTERVAL'
+  type: title-main
+- content: 'EFFECT OF FLUCTUATING EXTERIOR LIGHTING ON IMPRESSION: INFLUENCE OF THE
+    NUMBER OF LUMINAIRES AND INSTALLATION INTERVAL'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-bp38fd?product_id=3039883
+docidentifier:
+- content: CIE x051:2025/bp38fd
+  type: CIE
+  primary: true
+docnumber: x051:2025/bp38fd
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Ikebuchi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Takei
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Takase
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Tanaka
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Uchida
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Mukai
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Yoshizawa
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Dynamic changes in light, such as those produced by candles and fireflies, are known to provide a sense of comfort. Some luminaires recreate the changes. However, there are limited researches on the spatial impressions created by the installation of multiple luminaires with light fluctuation. In this study, we recreated the fluctuating light imitating candles and fireflies and evaluated the impressions under varying installation conditions. Results indicated that a smaller number of luminaires with greater interval contributed to a more comfortable atmosphere, while a larger number and shorter interval enhanced vitality. Furthermore, in experimental environment resembling actual usage conditions, we conducted impression evaluations separately during seating and passage. Compared to static lighting, significant differences were observed in “comfort” during seating, and in “visibility” during passage. This suggests that fluctuating light can create a pleasant spatial ambiance, although the evaluation of "vitality" may be influenced by the size of the installation space.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

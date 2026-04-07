@@ -1,0 +1,49 @@
+---
+id: CIE1652005
+type: standard
+schema_version: v1.5.6
+title:
+- content: CIE 10 Degree Photopic Photometric Observer
+  type: title-main
+- content: CIE 10 Degree Photopic Photometric Observer
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-165-2005?product_id=1219225
+docidentifier:
+- content: CIE 165:2005
+  type: CIE
+  primary: true
+- content: '9783901906398'
+  type: ISBN
+docnumber: 165:2005
+date:
+- type: published
+  at: '2005-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The V(Λ) function accepted in 1924 is valid for photopic vision. It was long recognized that for para-foveal vision this function does not describe luminance perception correctly. In 1964 the CIE accepted a large field colorimetric observer, but this system had no photometric counterpart. Subsequent research has shown that y10(Λ) function can be used as the spectral luminous efficiency function of a 10° photometric observer. The present report provides guidance when and how this large field photometric observer could be used, especially if luminance has to be determined para-foveally.
+
+    Based on the detailed evaluation of the available literature data TC 1-59 came to the conclusion that the adoption of a 10° photopic photometric observer [V10(Λ)] can be recommended to the CIE and that this system should be based - according to the original recommendations of the CIE Colorimetric Committee - on the y10(Λ) function of the CIE 1964 standard colorimetric observer.
+
+    The report is written in English, with a short summary in French and German. It consists of 23 pages with 3 tables.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

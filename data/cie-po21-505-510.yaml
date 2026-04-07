@@ -1,0 +1,88 @@
+---
+id: CIEPO21505510
+type: standard
+schema_version: v1.5.6
+title:
+- content: A STUDY ON IDENTIFICATION OF OBJECTS BY INTRODUCING COLOUR CONTRAST BASED
+    ON METAMERISM PHENOMENON (PO21, 505-510)
+  type: title-main
+- content: A STUDY ON IDENTIFICATION OF OBJECTS BY INTRODUCING COLOUR CONTRAST BASED
+    ON METAMERISM PHENOMENON (PO21, 505-510)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/a-study-on-identification-of-objects-by-introducing-colour-contrast-based-on-metamerism-phenomenon-po21-505-510?product_id=2016298
+docidentifier:
+- content: CIE PO21 505-510
+  type: CIE
+  primary: true
+docnumber: PO21 505-510
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Wang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: Q
+      surname:
+        language: en
+        script: Latn
+        content: Yao
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Zhang
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    A suitable light environment is the basis for human activities. With the development of times and the progress of science, people are more and more dependent on artificial light sources. In the past, many applications of metamerism phenomenon have been used in the identification of anti-counterfeiting. However, this phenomenon can be better applied in lighting to improve the visibility of objects. A group of light sources of metamerism has a large or small difference in colour rendering effect of the determined unsaturated colour, which leads to differences in identification effect. After the use of colour R1 to R8 as the colour sample, a group of metamerism light sources as light source, we found that a large chromatic aberration could be produced when a determined colour sample illuminated by a group of metamerism light sources. This phenomenon may be more obvious if the colour samples of lower saturation are used. If  the most favourable light source for target identification was selected in the actual scene, the object would be more easily visible.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

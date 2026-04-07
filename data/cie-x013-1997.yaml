@@ -1,0 +1,61 @@
+---
+id: CIEx0131997
+type: standard
+schema_version: v1.5.6
+title:
+- content: Proceedings of the CIE LED Symposium '97 on Standard Methods for Specifying
+    and Measuring LED Characteristics
+  type: title-main
+- content: Proceedings of the CIE LED Symposium '97 on Standard Methods for Specifying
+    and Measuring LED Characteristics
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x013-1997?product_id=1210097
+docidentifier:
+- content: CIE x013-1997
+  type: CIE
+  primary: true
+- content: '9783900734855'
+  type: ISBN
+docnumber: x013-1997
+date:
+- type: published
+  at: '1997-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Currently there is considerable effort within the LED industry and the community who use LEDs to standardise on LED characterisation and measurement. CIE TC 2-34 LED Measurements completed its report on the subject (published as CIE 127-1997 Measurement of LEDs). The CIE 1997 Workshop and Symposium, held on 22-25 October 1997 at the CIE Central Bureau, Vienna, Austria, introduced the CIE recommendations on LED measurements and dealt with the underlying radiometric, photometric and colorimetric measurements. Health aspects of LED radiation were also discussed. The goals of the meeting were:
+
+    to introduce the recommended CIE method for characterising LEDs, to share information on the technical content and status of projects involving the characterisation of LEDs, to identify areas where existing/proposed industrial methods are divergent and to initiate discussion towards resolution, to identify areas requiring new technology or knowledge and to recommend needed activities of CIE and industry to provide the necessary solutions.
+
+    Papers were read on the following subjects:
+
+    •* New LED technologies
+    •* Industrial measurements
+    •* Safety issues of LEDs and other light sources, eye hazards
+    •LED lighting products, the use of LEDs in modern lighting applications
+    • Measuring new LED products, laboratory and industrial measurements
+    • LED measuring devices.
+
+    The Proceedings contain the text of the 12 papers read as well as a report on the roundtable discussions.
+    The publication consist of 85 pages.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

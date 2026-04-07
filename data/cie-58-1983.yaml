@@ -1,0 +1,47 @@
+---
+id: CIE581983
+type: standard
+schema_version: v1.5.6
+title:
+- content: Lighting for sport halls
+  type: title-main
+- content: Lighting for sport halls
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-58-1983?product_id=1209991
+docidentifier:
+- content: CIE 58-1983
+  type: CIE
+  primary: true
+- content: '9789637251047'
+  type: ISBN
+docnumber: 58-1983
+date:
+- type: published
+  at: '1983-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This report distinguishes between sports halls designed to use artificial lighting at all times and those where daylight provides the required illumination for significant periods of time. It specifies general lighting requirements for specific sports, or combinations of activities, with regard to illuminance, uniformity, glare control and color. It comments on the arrangement, mechanical protection, installation of lighting fixtures, and their maintenance. The wide variety of lighting design techniques employed in sports halls is dictated by the structure of the building. The designer must, in each case, devise his own unique solution to meet the performance requirements which are specified in this report.
+
+    The publication contains 9 pages and 1 table.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

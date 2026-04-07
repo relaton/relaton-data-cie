@@ -1,0 +1,91 @@
+---
+id: CIEx0512025mcw9tr
+type: standard
+schema_version: v1.5.6
+title:
+- content: RESEARCH ON EXTREMELY HIGH-RESOLUTION WIDE-BAND ARRAY SPECTRORADIOMETER
+  type: title-main
+- content: RESEARCH ON EXTREMELY HIGH-RESOLUTION WIDE-BAND ARRAY SPECTRORADIOMETER
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-mcw9tr?product_id=3039924
+docidentifier:
+- content: CIE x051:2025/mcw9tr
+  type: CIE
+  primary: true
+docnumber: x051:2025/mcw9tr
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Pan
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Li
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: Q
+      surname:
+        language: en
+        script: Latn
+        content: Li
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Cao
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This paper introduces an extremely high-resolution wide-band array (EHRA) spectroradiometer that can achieve ultrahigh spectral resolution within a wide wavelength band and has the full-band blazed characteristics. It uses a grating and a prism for cross dispersion, and the obtained spectrograms are no longer simple one-dimensional images, posing new challenges for spectrogram reconstruction and wavelength calibration. A spectrogram-reconstruction algorithm and wavelength-calibration method is further proposed. A theoretical spectrogram model is firstly established based on the crossed-dispersion theories, and the model is then mapped onto an actual reference spectrogram by leveraging the abundant characteristic spectral lines in different orders of a Hg-Ar lamp, further using an intelligent spectrogram-recognition algorithm, a high-precision spectrogram reconstruction was achieved. Experimental results demonstrated that within the wavelength range from 380 nm – 1000 nm, its spectral resolution, spectral accuracy, and wavelength repeatability are better than 0.1 nm, 0.025 nm, and 0.005 nm respectively.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

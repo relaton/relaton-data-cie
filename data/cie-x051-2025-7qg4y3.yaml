@@ -1,0 +1,79 @@
+---
+id: CIEx05120257qg4y3
+type: standard
+schema_version: v1.5.6
+title:
+- content: OPTIMAL ILLUMINANCE FOR PEDESTRIAN REASSURANCE
+  type: title-main
+- content: OPTIMAL ILLUMINANCE FOR PEDESTRIAN REASSURANCE
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-7qg4y3?product_id=3039867
+docidentifier:
+- content: CIE x051:2025/7qg4y3
+  type: CIE
+  primary: true
+docnumber: x051:2025/7qg4y3
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Fotios
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Uttley
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Gorjimahlabani
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The need for revision of CIE115:2010 is widely acknowledged and is currently a focus of activity in CIE Division 4. The first stage of this task is intended to be a rapid revision based on what we already know rather than waiting for new research to be completed. This article concerns lighting for pedestrians, the key road user for P class roads in CIE115. CIE 236:2019 indicates that pedestrian reassurance is a suitable focus for establishing optimal lighting conditions for the P class, and hence this article aims to support rapid revision of the P class through analysis of the results from previous field studies of pedestrian reassurance, these included for their use of the day-dark method proposed by Boyce et al. This analysis suggests an optimal average illuminance of around 7,5 lx: higher illuminance brings negligible increase in reassurance.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

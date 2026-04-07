@@ -1,0 +1,61 @@
+---
+id: CIEPO15483484
+type: standard
+schema_version: v1.5.6
+title:
+- content: WAVELENGTH CALIBRATION OF A SPHERE-SPECTROMETER MEASUREMENT CONFIGURATION
+    (PO15, 483-484)
+  type: title-main
+- content: WAVELENGTH CALIBRATION OF A SPHERE-SPECTROMETER MEASUREMENT CONFIGURATION
+    (PO15, 483-484)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/wavelength-calibration-of-a-sphere-spectrometer-measurement-configuration-po15-483-484?product_id=2016293
+docidentifier:
+- content: CIE PO15 483-484
+  type: CIE
+  primary: true
+docnumber: PO15 483-484
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Mofokeng
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    NMISA's LED measurement facility sphere-spectrometer measurement setup for total flux measurements was recalibrated to achieve lower uncertainties. The wavelength calibration was performed using a partial flux measurement configuration with the integrating sphere - array spectrometer system and pencil style wavelength sources. The calibration was performed on an optical bench to enable easy moving of lamps for better signal.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

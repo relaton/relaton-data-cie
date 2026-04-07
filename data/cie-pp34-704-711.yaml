@@ -1,0 +1,86 @@
+---
+id: CIEPP34704711
+type: standard
+schema_version: v1.5.6
+title:
+- content: |-
+    NOVEL METHOD FOR ANGULAR CHARACTERISATION OF GONIOPHOTOMETERS WITH A PATTERN GENERATING ARTEFACT
+
+     (PP34, 704-711)
+  type: title-main
+- content: |-
+    NOVEL METHOD FOR ANGULAR CHARACTERISATION OF GONIOPHOTOMETERS WITH A PATTERN GENERATING ARTEFACT
+
+     (PP34, 704-711)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/novel-method-for-angular-characterisation-of-goniophotometers-with-a-pattern-generating-artefact-pp34-704-711?product_id=2011365
+docidentifier:
+- content: CIE PP34 704-711
+  type: CIE
+  primary: true
+docnumber: PP34 704-711
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Stuker
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Rinderer
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Blattner
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    According to the international standard CIE S025 describing the test method for solid state lamps, luminaires and modules, it is mandatory to determine the angular resolution and adjustments of the measurement device. To address this aspect a novel procedure for characterizing the angles of goniophotometer measurements was demonstrated by a simply designed setup. It consists of a single white light LED mounted on a heat sink covered with a sliced 3D-printed half sphere. By illuminating the structured object a shadow/light pattern was generated and measured by means of two goniophotometers. The analysis of the geometrical structure in the light distribution curve with a custom-built algorithm showed that the angular
+    precision depends on the moving velocities of the measurement axis. Furthermore, the angular discrepancy compared to the reference movement was gradually increasing with increased axis speeds. This novel technique represents an effective approach defining the angular properties in goniophotometry measurements.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

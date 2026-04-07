@@ -1,0 +1,105 @@
+---
+id: CIEx050OP086
+type: standard
+schema_version: v1.5.6
+title:
+- content: EVALUATION OF LIGHTING ENVIRONMENT IN A GYMNASIUM FOR VARIOUS ACTIVITIES
+    DURING USE OF AN EVACUATION CENTER
+  type: title-main
+- content: EVALUATION OF LIGHTING ENVIRONMENT IN A GYMNASIUM FOR VARIOUS ACTIVITIES
+    DURING USE OF AN EVACUATION CENTER
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op086?product_id=2579037
+docidentifier:
+- content: CIE x050-OP086
+  type: CIE
+  primary: true
+docnumber: x050-OP086
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Yamaguchi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Oe
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Kurobe
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Akizuki
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Yoshizawa
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Japan is one of the most disaster-prone countries in the world, and in the event of a large-scale disaster such as a great earthquake, many evacuees are forced to live in evacuation centers for extended periods of time. However, gymnasiums, which are often used as evacuation centers in Japan, are not designed primarily for evacuation, and are not necessarily well equipped as living spaces during disasters. In this study, from the viewpoint of providing basic data for lighting design in evacuation centers, the relationship between the spatial brightness evaluation of evacuation center and the impression evaluation by assumed several activities in various lighting levels and lighting patterns was summarized.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

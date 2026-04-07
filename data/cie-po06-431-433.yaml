@@ -1,0 +1,91 @@
+---
+id: CIEPO06431433
+type: standard
+schema_version: v1.5.6
+title:
+- content: OPTIMIZATION METHOD FOR LED LIGHTINGS CONSIDERING CCT, LUMINANCE, AND CRI
+    (PO06, 431-433)
+  type: title-main
+- content: OPTIMIZATION METHOD FOR LED LIGHTINGS CONSIDERING CCT, LUMINANCE, AND CRI
+    (PO06, 431-433)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/optimization-method-for-led-lightings-considering-cct-luminance-and-cri-po06-431-433?product_id=2016284
+docidentifier:
+- content: CIE PO06 431-433
+  type: CIE
+  primary: true
+docnumber: PO06 431-433
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Kim
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Kim
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Lee
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Colour temperature is one of the most important parameters to control lighting according to human activities and required mood. In addition, multi-chip LED packages with three or four different colours in a single package are commercially available from many LED suppliers. To find control parameters with required lighting characteristics, we first optimized CCT by minimizing distance to the target black body locus in CIE1931 colour space. Optimization is proceeded in the XYZ coordinate. We applied the optimization method to two different colour LED combinations. This optimization method provides given target CCT and luminance with high CRI.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

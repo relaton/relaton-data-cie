@@ -1,0 +1,81 @@
+---
+id: CIEx05120252un6vp
+type: standard
+schema_version: v1.5.6
+title:
+- content: EXAMINATION OF THE ERROR DUE TO THE POSITION OF THE BAFFLE ON THE INTEGRATING
+    SPHERE PHOTOMETER
+  type: title-main
+- content: EXAMINATION OF THE ERROR DUE TO THE POSITION OF THE BAFFLE ON THE INTEGRATING
+    SPHERE PHOTOMETER
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-2un6vp?product_id=3039584
+docidentifier:
+- content: CIE x051:2025/2un6vp
+  type: CIE
+  primary: true
+docnumber: x051:2025/2un6vp
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Aoyagi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Ohkubo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Yamauchi
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The position and size of the baffle, which cause the non-uniformity of the spatial response distribution function (SRDF) in sphere photometer, were determined by optical simulation using the luminous intensity distribution of the test light sources and self-absorption coefficient in the integrating sphere as parameters to determine the measurement error. The position of the baffle was defined as the relative distance r between the baffle and the photodetector with respect to the radius of the sphere. It was found that the areas of large SRDF inhomogeneity of the integrating sphere, the area in the shadow of the baffle and the area blocked by the baffle, caused errors due to the self-absorption correction of the light source. It was also found that the position of the baffle reduces the measurement error, including the error due to self-absorption correction, in the range of r from 0,2 to 0,32.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,91 @@
+---
+id: CIEx0512025q9tjg8
+type: standard
+schema_version: v1.5.6
+title:
+- content: INTRA-LENS-SPECTROMETER FOR A NEAR-EYE DISPLAY MEASUREMENT APPLICATION
+  type: title-main
+- content: INTRA-LENS-SPECTROMETER FOR A NEAR-EYE DISPLAY MEASUREMENT APPLICATION
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-q9tjg8?product_id=3039357
+docidentifier:
+- content: CIE x051:2025/q9tjg8
+  type: CIE
+  primary: true
+docnumber: x051:2025/q9tjg8
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Schramm
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: U
+      surname:
+        language: en
+        script: Latn
+        content: Krüger
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Görlich
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Mende
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    https://doi.org/10.25039/x051.2025/q9tjg8A spectroscopic measurement should reference color measurement parameters for high-precision color measurements using an imaging color measuring device (ICMD). Within an augmented and virtual reality (AR/VR, in general, called near-eye displays - NED) measurement application, the spectral distribution of the device under test (DUT) should be measured within a 2° field of view according to the standard observer. The measuring spot should be on the optical axis of the imaging device. Integrating the spectrometer coupling in an AR/VR measuring lens can guarantee those fundamental criteria by optical design and adjustment. We present a lens design that meets these requirements and thus combines other various advantages of the elemental lens design.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

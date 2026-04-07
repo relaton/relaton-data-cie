@@ -1,0 +1,79 @@
+---
+id: CIEx050PO093
+type: standard
+schema_version: v1.5.6
+title:
+- content: "(DAY)LIGHTING CONDITIONS IN DUTCH HOME OFFICE SPACES – A FIRST INVENTORY"
+  type: title-main
+- content: "(DAY)LIGHTING CONDITIONS IN DUTCH HOME OFFICE SPACES – A FIRST INVENTORY"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po093?product_id=2578634
+docidentifier:
+- content: CIE x050-PO093
+  type: CIE
+  primary: true
+docnumber: x050-PO093
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      surname:
+        language: en
+        script: Latn
+        content: De Kok
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Christoffersen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Van Duijnhoven
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In recent years, a shift towards working from home has taken place. For conventional offices in Europe, the lighting is designed complying to standards such as the EN 12464-1 and the EN 17037, and recommendations regarding non-image forming effects are available. However, for the home office, the aforementioned standards do not yet exist, although some guidelines are available. Hence, it is unknown whether the (day)lighting conditions in home office spaces suffice for office tasks. This study aimed to make a first inventory of daylighting conditions in Dutch home offices by conducting an online questionnaire study. The results of the study showed that many differences exist between home office configurations, and that the needs of each individual home worker with regards to daylighting differ. This stresses the need to develop personal recommendations for daylight in the home office.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

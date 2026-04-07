@@ -1,0 +1,100 @@
+---
+id: CIEx043OP03
+type: standard
+schema_version: v1.5.6
+title:
+- content: INVESTIGATING CHROMATIC ADAPTATION USING MEMORY COLOURS (OP03, Pages 16-24)
+  type: title-main
+- content: INVESTIGATING CHROMATIC ADAPTATION USING MEMORY COLOURS (OP03, Pages 16-24)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/investigating-chromatic-adaptation-using-memory-colours-op03-pages-16-24?product_id=1941807
+docidentifier:
+- content: CIE x043-OP03
+  type: CIE
+  primary: true
+docnumber: OP03 Pages 16-24
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Smet
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: Q
+      surname:
+        language: en
+        script: Latn
+        content: Zhai
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Luo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Hanselaer
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Using the long-term memory colours of familiar objects as target stimuli an extensive set of corresponding colours was derived in a series of memory colour matching experiments. Data was collected for five familiar objects with neutral, red, yellow, green and blue hues under thirteen illumination conditions. Eight of them had chromaticity coordinates on or near the blackbody locus and 5 were high chroma illuminations. The data was used to test various versions of a one-step and two-step von Kries chromatic adaptation transform (CAT) with CAT02 sensor primaries. It was found that the corresponding memory colour data could be predicted most accurately by the two-step CAT02 with optimized D. Setting the degree of adaptation to one or predicting it based solely on the luminance of the adapting field as specified I the CAT02 model resulted in large prediction errors for corresponding colour subsets that contained non-neutral adaptive conditions. The effective degree of adaptation for the thirteen illumination conditions was modelled using a bivariate Gaussian in a Macleod-Boyton like chromaticity diagram. Prediction error for the memory colour sets of a CAT02 transform incorporating the Gaussian model was slightly worse than with a free D, but was still substantially lower than errors obtained for the other models. Finally, a directional chromatic dependence of the degree of adaptation was found, with neutral to bluish iiluminants providing better adaptation than yellowish, greenish or reddish illuminations.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

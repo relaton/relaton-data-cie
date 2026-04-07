@@ -1,0 +1,51 @@
+---
+id: CIE2142014
+type: standard
+schema_version: v1.5.6
+title:
+- content: Effect of Instrumental Bandpass Function and Measurement Interval on Spectral
+    Quantities
+  type: title-main
+- content: Effect of Instrumental Bandpass Function and Measurement Interval on Spectral
+    Quantities
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-214-2014?product_id=1886713
+docidentifier:
+- content: CIE 214:2014
+  type: CIE
+  primary: true
+- content: '9783902842534'
+  type: ISBN
+docnumber: 214:2014
+date:
+- type: published
+  at: '2014-11-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This report presents a detailed study of bandwidth correction applied to spectra encountered in radiometric, photometric and spectrophotometric measurements. The mechanism of broadening of data recorded by both scanning and array spectrometers, due to bandpass function effects, is discussed in detail, along with an historical study of methods currently applied. The report presents a bandwidth correction algorithm that can be used for any real bandpass function and provides both a step-by-step guide on how to apply that correction, and a discussion of the theoretical and experimental limits to its applicability.
+
+    The effect of noise and measurement interval in measurement of both the spectrum and the bandpass function is discussed and methods for identifying the significance of noise effects in the corrected spectrum are presented. The reduced effect of noise when calculating spectrally integrated quantities (such as photometric or colorimetric values) is also examined. Practical guidelines are given for the application of bandwidth correction, both for the determination of the bandpass function and for estimating whether the correction may lead to an improvement in spectral accuracy.
+
+    The publication is written in English, with a short summary in French and German.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,135 @@
+---
+id: CIEPP27658666
+type: standard
+schema_version: v1.5.6
+title:
+- content: CHANGES IN ROAD SURFACES AND WALLS INSIDE TUNNELS OVER TIME (PP27, 658-666)
+  type: title-main
+- content: CHANGES IN ROAD SURFACES AND WALLS INSIDE TUNNELS OVER TIME (PP27, 658-666)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/changes-in-road-surfaces-and-walls-inside-tunnels-over-time-pp27-658-666?product_id=2011358
+docidentifier:
+- content: CIE PP27 658-666
+  type: CIE
+  primary: true
+docnumber: PP27 658-666
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: W
+      surname:
+        language: en
+        script: Latn
+        content: Lee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Yoo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Han
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Lim
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Chae
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Kim
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Hoon
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The road surface and the walls of a tunnel are crucial elements that determine the luminance caused by the lighting inside a tunnel. The reflectance of these surfaces undergo changes once the tunnel is opened to traffic and as cars are driven through the tunnel. Such change in reflectivity depends on tunnel?s structure, surface material, and amount of traffic. Considering these changes during the designing stage of tunnel lighting to predetermine the appropriate reflectivity level, ensures that the design is accurate, while guaranteeing safety for drivers as well as economic feasibility of the tunnel lighting. Our research team measured reflectance of road surfaces and walls from 99 of 499 tunnels located throughout local highways in Korea. These measurements were then analysed with respect to the total number of automobiles that had driven through each tunnel since their openings, thus enabling us to predict the changes that take place. Further analysis were made to determine which value, among those changes, would be most economical as far as installation and operation of the tunnel lighting is concerned.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,103 @@
+---
+id: CIEx050PP009
+type: standard
+schema_version: v1.5.6
+title:
+- content: VISUAL COLOUR-DIFFERENCE ASSESSMENT OF 3D PRINTED SAMPLES
+  type: title-main
+- content: VISUAL COLOUR-DIFFERENCE ASSESSMENT OF 3D PRINTED SAMPLES
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-pp009?product_id=2578645
+docidentifier:
+- content: CIE x050-PP009
+  type: CIE
+  primary: true
+docnumber: x050-PP009
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: He
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Xiao
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Pointer
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Melgosa
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Bressler
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    With the rapid development of colour 3D printing technologies, colour-difference evaluation of 3D printed objects requires further studies to achieve faithful colour reproduction in 3D printing. The aim of this study is to collect visual colour-difference data of 3D printed objects in static and rotating conditions. The X-Rite virtual light booth with a rotating stage was used to conduct psychophysical experiments for 82 pairs of 3D printed samples with the grey-scale method. Five human observers with normal colour vision participated in the visual colour-difference assessments, and the collected experimental data were compared with the measurement data. The results showed that the perceptual colour differences of 3D samples in two conditions were similar, but the visual data of rotating samples have a poorer relationship (STRESS=39.38) with the measurement data, compared to the results of the static samples (STRESS=36.62). By using the optimised CIELAB colour-difference formulae in the previous study, the STRESS values decreased by 7 units.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

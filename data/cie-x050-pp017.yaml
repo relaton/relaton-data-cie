@@ -1,0 +1,115 @@
+---
+id: CIEx050PP017
+type: standard
+schema_version: v1.5.6
+title:
+- content: EVALUATION STRUCTURE ON PREFERENCE OF PAINTING’S APPEARANCE IN MUSEUM LIGHTING
+  type: title-main
+- content: EVALUATION STRUCTURE ON PREFERENCE OF PAINTING’S APPEARANCE IN MUSEUM LIGHTING
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-pp017?product_id=2579353
+docidentifier:
+- content: CIE x050-PP017
+  type: CIE
+  primary: true
+docnumber: x050-PP017
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Oe
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Maeda
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Nagakoshi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Takashima
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Mizokami
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Yoshizawa
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This study seeks to clarify an evaluation structure in relation to preference concerning the appearance of the painting with a view to creating new lighting standards in museums that consider the luminance ratio. We analysed the experimental results together with the results of previous studies and found that 'appropriateness of brightness for the painting' and 'appropriateness of brightness contrast between the painting and the background surfaces' tended to have a stronger correlation with preference than 'brightness of the painting surface' item; therefore, we examined an evaluation structure using the above assessment items as variables. Consequently, we were able to construct a model that could be applied to all paintings under consideration - which starts with 'appropriateness of brightness for the painting' and ends with 'preference for the appearance of the painting.'
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,93 @@
+---
+id: CIEx050PO108
+type: standard
+schema_version: v1.5.6
+title:
+- content: LIGHTING CONDITIONS FOR THE VISIBILITY OF OBJECTS ON THE ROAD SURFACE DURING
+    TUNNEL DRIVING
+  type: title-main
+- content: LIGHTING CONDITIONS FOR THE VISIBILITY OF OBJECTS ON THE ROAD SURFACE DURING
+    TUNNEL DRIVING
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po108?product_id=2578638
+docidentifier:
+- content: CIE x050-PO108
+  type: CIE
+  primary: true
+docnumber: x050-PO108
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Ikeda
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Kunitomi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Ikuta
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Jinno
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In this study, we investigated a method to evaluate the visibility of fallen objects on the road by viewing a virtual driving video in a simulated tunnel model captured by a VR180 camera with an HMD. As the results, when the subject was stationary, the subject's sensory evaluation results confirmed that the visibility was almost the same for both the direct view and the HMD. Since the effectiveness of the visibility evaluation with the HMD was confirmed, the visibility of fallen objects on the road was evaluated using a video image of driving in the model tunnel at a converted speed of 80 km/h. When subjects were in a dynamic state, visibility was concentrated around one point, the 'SLIGHTLY LOW' score. This means that subjects recognise before they can see better. Instead of visibility, the distance between the subject and the fallen object is changed at recognition time.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

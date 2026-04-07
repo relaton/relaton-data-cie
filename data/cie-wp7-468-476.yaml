@@ -1,0 +1,86 @@
+---
+id: CIEWP7468476
+type: standard
+schema_version: v1.5.6
+title:
+- content: |-
+    EFFECTS OF NON-VISUAL OPTICAL FLICKER IN AN OFFICE WITH TWO DIFFERENT LIGHT SOURCES
+
+     (WP7, 468-476)
+  type: title-main
+- content: |-
+    EFFECTS OF NON-VISUAL OPTICAL FLICKER IN AN OFFICE WITH TWO DIFFERENT LIGHT SOURCES
+
+     (WP7, 468-476)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/effects-of-non-visual-optical-flicker-in-an-office-with-two-different-light-sources-wp7-468-476?product_id=2011384
+docidentifier:
+- content: CIE WP7 468-476
+  type: CIE
+  primary: true
+docnumber: WP7 468-476
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Nilsson Tengelin
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Kallberg
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Jarlemark
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    LED lighting solutions sometimes give rise to optical flicker. In most cases, the temporal modulations are too fast to be perceived directly, but may still be noticed through stroboscopic effects. We report on an investigation on how people experience the lighting in an office where two LED lamps are modulated separately with different frequencies. The test subjects performed tasks for evaluation of perception, attention and reaction time. The subjects are found to be affected by the modulated light as the reaction times are shorter and the attention test scores are higher in modulated lighting compared to constant lighting. Furthermore, the study confirms that the stroboscopic effect depends on the nature of the tasks and that it is more easily perceived at lower frequencies but noticed up to at least 400 Hz.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

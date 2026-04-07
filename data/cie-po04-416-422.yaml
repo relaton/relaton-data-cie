@@ -1,0 +1,71 @@
+---
+id: CIEPO04416422
+type: standard
+schema_version: v1.5.6
+title:
+- content: PARAMETRIC DESIGN APPLICATION IN INTELLIGENT LIGHTING (PO04, 416-422)
+  type: title-main
+- content: PARAMETRIC DESIGN APPLICATION IN INTELLIGENT LIGHTING (PO04, 416-422)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/parametric-design-application-in-intelligent-lighting-po04-416-422?product_id=2016282
+docidentifier:
+- content: CIE PO04 416-422
+  type: CIE
+  primary: true
+docnumber: PO04 416-422
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Zhao
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: Q
+      surname:
+        language: en
+        script: Latn
+        content: Yao
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Parametric design is widely used in architectural design, mainly in appearance design, and the lack of performance optimization and data introduction. Introducing the parametric design concept into lighting design. On the one hand, it achieves the purpose of beautiful appearance by combining with architecture, and on the other hand, it establishes the one-toone correspondence between lighting parameters and graphics software and realizes the control of lighting parameters on the graphical interface. Visualize lighting options on the graphical interface. And optimize lighting design.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

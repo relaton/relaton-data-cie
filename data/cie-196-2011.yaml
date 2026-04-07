@@ -1,0 +1,47 @@
+---
+id: CIE1962011
+type: standard
+schema_version: v1.5.6
+title:
+- content: CIE Guide to Increasing Accessibility in Light and Lighting
+  type: title-main
+- content: CIE Guide to Increasing Accessibility in Light and Lighting
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-196-2011?product_id=1780686
+docidentifier:
+- content: CIE 196:2011
+  type: CIE
+  primary: true
+- content: '9783901906947'
+  type: ISBN
+docnumber: 196:2011
+date:
+- type: published
+  at: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This CIE Guide provides fundamental knowledge and data on vision of older people and people with disabilities, as well as design considerations based on that data, in order to facilitate consideration of the needs of older people and people with disabilities.
+
+    While there is no clear definition for "older people", this Guide presents data that include samples taken mainly from people over 60 years old. In addition, the visual disabilities addressed are low vision and colour vision defects. Care for totally blind people is not considered as light and lighting issues have no relevance for them, although non-visual issues such as tactile or auditory information for increasing accessibility are vitally important.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

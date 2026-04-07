@@ -1,0 +1,56 @@
+---
+id: CIEx0222001
+type: standard
+schema_version: v1.5.6
+title:
+- content: Proceedings of the 2nd CIE Expert Symposium on LED Measurement "Standard
+    methods for specifying and measuring LED and LED cluster characteristics"
+  type: title-main
+- content: Proceedings of the 2nd CIE Expert Symposium on LED Measurement "Standard
+    methods for specifying and measuring LED and LED cluster characteristics"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x022-2001?product_id=1210105
+docidentifier:
+- content: CIE x022:2001
+  type: CIE
+  primary: true
+- content: '9783901906114'
+  type: ISBN
+docnumber: x022:2001
+date:
+- type: published
+  at: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The Proceedings of the Symposium contains on approximately 100 pages the text (partly only abstracts) of 23 papers read at the symposium. Questions dealt with encompassed items as fundamentals of LED technology, dealing also with problems of OLEDs, spectral and spatial characteristics of LEDs, their use in traffic lights and other applications.
+
+    Several papers addressed the problem of colorimetric measurement: not every spectroradiometer is capable of accurately determine the spectral and colorimetric properties of LEDs. Methods of spectral correction, deconvolution of measured spectra have been discussed.
+
+    With the continuous increase of LED luminance and radiance the question of eye hazard becomes again acute. Papers discussed the question both from the point of view of coherent and incoherent radiation sources.
+
+    Among the LED applications the most important one is for the time being the use in traffic lights. This question was thoroughly discussed and both the American and Australian situation delivered. LEDs become applicable also in indoor lighting, and there the colour rendering is an important parameter. A visual experiment has shown that the results of the CIE colour rendering test method do not correlate well with visual observations.
+    In many applications more than one LED has to be used, the testing of such LED clusters is a still unsolved problem, which was also addressed at the symposium.
+
+    These Proceedings include the papers provided by the speakers and a transcript of the open discussion. The publication consists 112 pages.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

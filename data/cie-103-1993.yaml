@@ -1,0 +1,59 @@
+---
+id: CIE1031993
+type: standard
+schema_version: v1.5.6
+title:
+- content: Technical Collection 1993
+  type: title-main
+- content: Technical Collection 1993
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-103-1993?product_id=1210025
+docidentifier:
+- content: CIE 103-1993
+  type: CIE
+  primary: true
+- content: '9783900734428'
+  type: ISBN
+docnumber: 103-1993
+date:
+- type: published
+  at: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This volume contains short Technical Reports, Research Notes and Reporters' Reports prepared by our Divisions, Technical Committees and Reporters in 1992/1993:
+
+    103/1 Colour Appearance Analysis
+
+    Traditional colorimetry in itself is unable to define the appearance of a colour. What are required are measures that accurately correlate with the perceived hue, saturation, chroma, colourfulness, lightness and brightness of the coloured samples when seen under specified viewing conditions.
+
+    The Committee has selected two models that adequately predict the appearance of simple coloured stimuli under a light source whose chromaticity is not far from the Planckian locus and with a colour temperature between those of typical daylight and tungsten light.
+
+    Four newly formed Technical Committees will follow up the present work:
+
+        * TC 1-27: Specification of Colour Appearance for Reflective Media and Self Luminous Display Comparisons
+        * TC 1-32: Prediction of Corresponding Colours
+        * TC 1-33: Colour Rendering
+        * TC 1-34: Testing of Colour Appearance Models
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

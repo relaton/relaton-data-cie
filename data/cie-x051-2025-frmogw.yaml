@@ -1,0 +1,135 @@
+---
+id: CIEx0512025frmogw
+type: standard
+schema_version: v1.5.6
+title:
+- content: A RESEARCH ON WORK PRODUCTIVITY AND VISUAL ATTENTION UNDER HUMAN CENTRIC
+    LIGHTING SYSTEM
+  type: title-main
+- content: A RESEARCH ON WORK PRODUCTIVITY AND VISUAL ATTENTION UNDER HUMAN CENTRIC
+    LIGHTING SYSTEM
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-frmogw?product_id=3039904
+docidentifier:
+- content: CIE x051:2025/frmogw
+  type: CIE
+  primary: true
+docnumber: x051:2025/frmogw
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Manav
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: I
+      surname:
+        language: en
+        script: Latn
+        content: Velioğlu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Zohaib
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Yilmaz
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Kaymaz
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Saribay
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Aydemir
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Human-centric lighting has gained attention for its potential to enhance mood, cognitive performance, and productivity in work environments. This research investigates how LED-based dynamic lighting (with tunable CT ranges from 2700K to 6500K and adjustable illuminance control) operates relative to reference office lighting (static scenario) under laboratory environment. Repeated measures were obtained to achieve reliable time-based data. Momentary Affect Scale for mood evaluations, Digit Span Test for measuring short-term memory, Spatial Cueing Task for assessing visual attention were used. The findings highlight the interplay between lighting conditions, task type, and cognitive performance, particularly focusing on reaction times and accuracy in the context of the digit span task. Specifically, participants responded about 3.13 seconds faster in the backward digit span task when exposed to static lighting compared to human-centric lighting. Similar patterns were observed for the forward task, underscoring the impact of task complexity on cognitive processing speeds.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,91 @@
+---
+id: CIEx050PO085
+type: standard
+schema_version: v1.5.6
+title:
+- content: HEADLAMPS FOR WORKING OUTDOORS IN THE DARK
+  type: title-main
+- content: HEADLAMPS FOR WORKING OUTDOORS IN THE DARK
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po085?product_id=2578633
+docidentifier:
+- content: CIE x050-PO085
+  type: CIE
+  primary: true
+docnumber: x050-PO085
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Bieske
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Vandahl
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Hubalek
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Schierz
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The lighting requirements for headlamps should be ideally defined, to ensure good vision and to avoid accidents in the dark: (1) Headlamps should have several different lighting modes for allowing to adapt the light output and the light distribution according to different visual tasks and operation purposes. (2) Vision within the entire visual field can be achieved with a “low gradient” effect from the light cone towards the dark surrounding. (3) Headlamps have to be flicker-free. (4) The risk of direct and indirect glare must be reduced.Therefore, when designing a headlamp, a compromise has to be found between the requirements for luminous flux, luminous intensity distribution and handling, whereas glare and disturbances of dark adaptation need to be avoided.We would like to suggest additional standardization on top of the existing ANSI standard. This should also be beneficial when using headlamps in brighter environments and for the use of pocket lamps.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

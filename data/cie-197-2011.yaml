@@ -1,0 +1,47 @@
+---
+id: CIE1972011
+type: standard
+schema_version: v1.5.6
+title:
+- content: Proceedings of the 27th Session of the CIE -- Sun City, South Africa, 9-16
+    July 2011, Volume I, Parts 1 & 2
+  type: title-main
+- content: Proceedings of the 27th Session of the CIE -- Sun City, South Africa, 9-16
+    July 2011, Volume I, Parts 1 & 2
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-197-2011?product_id=1814827
+docidentifier:
+- content: CIE 197:2011
+  type: CIE
+  primary: true
+- content: '9783901906992'
+  type: ISBN
+docnumber: 197:2011
+date:
+- type: published
+  at: '2011-07-10'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The Proceedings of the 27th Session of the CIE comprise two volumes.Volume 1, subdivided into two parts, contains on 1230 pages the texts of the Invited Papers, Presented Papers and Posters presented at the Session as well as the Introductions to the Workshops.Volume 2 contains the official reports of the administrative and technical meetings of the Session, thus presenting an overview on the technical work in CIE achieved during the quadrennium.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,103 @@
+---
+id: CIEx050PO114
+type: standard
+schema_version: v1.5.6
+title:
+- content: PHANTOM ARRAY VISIBILITY ACCORDING TO SPECTRAL DISTRIBUTION
+  type: title-main
+- content: PHANTOM ARRAY VISIBILITY ACCORDING TO SPECTRAL DISTRIBUTION
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po114?product_id=2579148
+docidentifier:
+- content: CIE x050-PO114
+  type: CIE
+  primary: true
+docnumber: x050-PO114
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Kang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Park
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Lee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Kim
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Lee
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The phantom array effect is a type of temporal light artefacts (TLA) caused by fluctuations in luminance or spectral distribution, resulting in perceived changes in the spatial position or shape of objects. These temporal light artefacts (TLAs) not only impact visual task performance but also can cause health issues. With the increasing use of LEDs that can change chromaticity and colour temperature, it is important to understand the effect of the spectral distribution of the light source on the phantom array effect. Previous studies have focused on non-overlapping spectral distributions such as red, green, and blue. This study evaluates the threshold frequency of the phantom array effect using LEDs with nine different wavelengths, including amber, royal blue, and violet. The experiment results show a phantom array visibility according to wavelength. In developing the phantom array visibility model, the spectral characteristics of the visibility need to be counted.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

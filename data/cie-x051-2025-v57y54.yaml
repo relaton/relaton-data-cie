@@ -1,0 +1,99 @@
+---
+id: CIEx0512025v57y54
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'LIGHT EXPOSURE OF OLDER ADULTS LIVING ALONE: A PILOT STUDY'
+  type: title-main
+- content: 'LIGHT EXPOSURE OF OLDER ADULTS LIVING ALONE: A PILOT STUDY'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-v57y54?product_id=3039173
+docidentifier:
+- content: CIE x051:2025/v57y54
+  type: CIE
+  primary: true
+docnumber: x051:2025/v57y54
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Vali
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Au-Yeung
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: W-T.
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Kaye
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Pierson
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    https://doi.org/10.25039/x051.2025/v57y54Ocular light exposure is essential for regulating circadian rhythms, influencing sleep‐wake cycles and several physiological and psychological processes. Inappropriate light exposure can impair sleep, mood, cognition, and overall well‐being, posing particular risks for older adults experiencing age‐related sleep disturbances and cognitive decline. However, objective data on the light exposure of older adults remain limited. In this observational study, we monitored the winter and summer light exposure of 16 older adults living alone using wearable spectral sensors. We derived the Circadian Stimulus and Melanopic Equivalent Daylight Illuminance (mEDI) for each data point and analyzed their light exposure during the daytime, evening, and nighttime. Our results indicate that older adults tend to have relatively low daytime exposure, with a median daytime mEDI of 31,2 lux, but did not experience light pollution at night. Furthermore, an analysis of building characteristics revealed only a modest association between light exposure and the window‐to‐wall ratio.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

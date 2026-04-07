@@ -1,0 +1,106 @@
+---
+id: CIEPO28552555
+type: standard
+schema_version: v1.5.6
+title:
+- content: PSYCHOLOGICAL INFLUENCE OF COLOURFUL LIGHT-EMITTING DIODE LUMINAIRE (PO28,
+    552-555)
+  type: title-main
+- content: PSYCHOLOGICAL INFLUENCE OF COLOURFUL LIGHT-EMITTING DIODE LUMINAIRE (PO28,
+    552-555)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/psychological-influence-of-colourful-light-emitting-diode-luminaire-po28-552-555?product_id=2016304
+docidentifier:
+- content: CIE PO28 552-555
+  type: CIE
+  primary: true
+docnumber: PO28 552-555
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Su
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Yang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Fu
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Light-emitting diode (LED) lighting becomes the mainstream of lighting products. The construction of colourful LED lighting system can be based on human factor, well-being, and human health including physiological and psychological effects. Automatic change and peopleoriented intelligent lighting system achieve the smart life environment. Under normal physiological conditions, the most important factors affecting the physiological clock (circadian rhythm) are the coordination of light and dark changes, movement, diet, and physiological clocks of whole cells. The response curve of circadian stimulus / photometry (CSP) is the definition of circadian action factor (CAF) which is an indicator of physiological light stimulus. However, the psychological influence of colourful LED luminaire is a complex and important issue to study the mental effect of integrative lighting.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,88 @@
+---
+id: CIEPP21378383
+type: standard
+schema_version: v1.5.6
+title:
+- content: PILOT STUDY ON THE IMPACT OF MESOPIC VISION ON THE PURITY PERCEIVED BY
+    HUMAN EYES (PP21, 378-383)
+  type: title-main
+- content: PILOT STUDY ON THE IMPACT OF MESOPIC VISION ON THE PURITY PERCEIVED BY
+    HUMAN EYES (PP21, 378-383)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/pilot-study-on-the-impact-of-mesopic-vision-on-the-purity-perceived-by-human-eyes-pp21-378-383?product_id=2016276
+docidentifier:
+- content: CIE PP21 378-383
+  type: CIE
+  primary: true
+docnumber: PP21 378-383
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Zhang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: Q
+      surname:
+        language: en
+        script: Latn
+        content: Yao
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Wang
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Mesopic vision is an important vision state that needs to be studied, a number of scenes, such as roads in the night, tunnels, are in the mesopic vision luminance range. Although a lot of studies have been conducted under mesopic vision in recent years, most studies are  about photometric performance, which means only a few studies are concerned with colorimetric performance under mesopic vision. Both photometric and colorimetric performance are important and interrelated for light sources, and their performance under mesopic vision would be different. However, it remains uncertain to what extend the colorimetric performance was influenced under the mesopic vison state. In this study, we try to find out how the purity feeling of colours changes with varying luminance under mesopic vision. Moreover, this study could provide some guidance on colour perception trend in the mesopic vision.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

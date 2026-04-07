@@ -1,0 +1,95 @@
+---
+id: CIEPP30677680
+type: standard
+schema_version: v1.5.6
+title:
+- content: |-
+    LIGHTING EFFECT HEALTH TEST AND EVALUATION METHOD BASED ON PHYSIOLOGICAL INDEX OF HUMAN VISUAL SYSTEM
+
+     (PP30, 677-680)
+  type: title-main
+- content: |-
+    LIGHTING EFFECT HEALTH TEST AND EVALUATION METHOD BASED ON PHYSIOLOGICAL INDEX OF HUMAN VISUAL SYSTEM
+
+     (PP30, 677-680)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/lighting-effect-health-test-and-evaluation-method-based-on-physiological-index-of-human-visual-system-pp30-677-680?product_id=2011361
+docidentifier:
+- content: CIE PP30 677-680
+  type: CIE
+  primary: true
+docnumber: PP30 677-680
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: W
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Hao
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: Q
+      surname:
+        language: en
+        script: Latn
+        content: Cai
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Wen
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Study of Light Emitting Diode (LED) health lighting has been the key point of the development of LED industry. It is important to assess the visual fatigue of users in the LED lighting environment. Previous researchers tend to assess the visual fatigue degree of products based on subjective perceptions of the product users. Few credible indices are provided for quantification, making their results controversial in stability and accuracy. Consequently, these researching results can hardly meet the "human-centric" aim of lighting products design. In the present study, we showed an introduction to the system frame and researching progress of LED health lighting study based on visual physiological parameters.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

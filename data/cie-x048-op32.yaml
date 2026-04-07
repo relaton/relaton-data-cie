@@ -1,0 +1,94 @@
+---
+id: CIEx048OP32
+type: standard
+schema_version: v1.5.6
+title:
+- content: OPTIMISING ROAD LIGHTING TO REDUCE ROAD TRAFFIC CRASHES
+  type: title-main
+- content: OPTIMISING ROAD LIGHTING TO REDUCE ROAD TRAFFIC CRASHES
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op32?product_id=2240782
+docidentifier:
+- content: CIE x048-OP32
+  type: CIE
+  primary: true
+docnumber: x048-OP32
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Robbins
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Fotios
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Uttley
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Rowe
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Pedestrians and motorcyclists are vulnerable road users, being over represented in road traffic collisions (RTCs). One assumed benefit of road lighting is a reduction in RTCs after dark by countering the impairment to the visual detection of hazards that occur after dark. One way to optimise the use of road lighting is to light only those sections of road where light level, and hence visibility, is an important factor. The current study used change in ambient light level on RTCs to investigate those situations where improved vision is likely to have significant impact, and therefore the situations where road lighting is of better cost-benefit effectiveness. For both motorcyclist and pedestrian RTCs there was a significant increase in overall RTC risk in darkness compared to daylight, indicating that there may be an overall benefit of road lighting. While darkness was a particular detriment at junctions for motorcyclists and on high-speed roads for pedestrians, road lighting may not be effective mitigation in either case and therefore alternative ways of increasing conspicuity should be considered. 
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

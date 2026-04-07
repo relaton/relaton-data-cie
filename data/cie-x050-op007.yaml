@@ -1,0 +1,93 @@
+---
+id: CIEx050OP007
+type: standard
+schema_version: v1.5.6
+title:
+- content: DO FEMALE PEDESTRIANS EXPRESS A LOWER DEGREE OF REASSURANCE THAN MALE PEDESTRIANS?
+    AND DOES ROAD LIGHTING HELP?
+  type: title-main
+- content: DO FEMALE PEDESTRIANS EXPRESS A LOWER DEGREE OF REASSURANCE THAN MALE PEDESTRIANS?
+    AND DOES ROAD LIGHTING HELP?
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op007?product_id=2578652
+docidentifier:
+- content: CIE x050-OP007
+  type: CIE
+  primary: true
+docnumber: x050-OP007
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Mao
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Fotios
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Uttley
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Gorjimahlabani
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Female pedestrians tend to report feeling less safe than do male pedestrians, and this difference is greater after dark than in daylight. A field study of pedestrian reassurance was conducted to test whether this was affected by the illuminance offered by road lighting. The results suggest that the male-female difference in reassurance ratings decreases at high illuminance, and hence that higher illuminances might be useful support for female pedestrians. It is also noted, however, that self-report of reassurance may not be representative of the influence of light on walking behaviour and crime.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

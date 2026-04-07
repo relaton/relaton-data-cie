@@ -1,0 +1,67 @@
+---
+id: CIEx050OP074
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'BIODYNAMIC LIGHTING IN PRACTICE: PILOT STUDY IN A GOVERNMENT OFFICE'
+  type: title-main
+- content: 'BIODYNAMIC LIGHTING IN PRACTICE: PILOT STUDY IN A GOVERNMENT OFFICE'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op074?product_id=2579030
+docidentifier:
+- content: CIE x050-OP074
+  type: CIE
+  primary: true
+docnumber: x050-OP074
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Raue
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Te Kulve
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Biodynamic lighting was installed as a pilot on one floor of an existing government office. Occupant satisfaction, work performance effects and energy effects on this floor were systematically evaluated against the default situation on other floors. Apart from these themes, some unexpected lessons were learned about the implementation of biodynamic lighting in practice. Most noticeable, expectation management to the occupants and - for better acceptance - the importance of gradually increasing the control dynamics rather than starting with an extreme algorithm and slowly decreasing it. Considering that the whole aim of biodynamic lighting is to increase occupant wellbeing, these unexpected lessons will be valuable for further implementations of biodynamic lighting in practice.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,55 @@
+---
+id: CIE751988
+type: standard
+schema_version: v1.5.6
+title:
+- content: Spectral luminous efficiency functions based upon brightness matching for
+    monochromatic point sources, 2° and 10° fields
+  type: title-main
+- content: Spectral luminous efficiency functions based upon brightness matching for
+    monochromatic point sources, 2° and 10° fields
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-75-1988?product_id=1210003
+docidentifier:
+- content: CIE 75-1988
+  type: CIE
+  primary: true
+- content: '9783900734114'
+  type: ISBN
+docnumber: 75-1988
+date:
+- type: published
+  at: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In CIE 41-1978 a difference was clearly shown to exist between the luminous efficiency function of the CIE, V(lambda), and the function obtained by the direct heterochromatic brightness matching method, the efficiency of the latter being much higher than that of the former at both long and short wavelengths when both functions were normalized at 570 nm.
+
+    This Technical Report summarizes spectral luminous efficiency functions based on heterochromatic brightness matching for point sources, 2° and 10° fields. Their averaged functions are derived with the intention that they be used to evaluate the luminous efficiency for the brightness of monochromatic lights. These functions could be used as the basis for further work to evaluate light sources with compound spectra.
+
+    The spectral luminous efficiency function for a point source may be adequately represented by the Judd modified V(lambda) function.
+
+    The spectral luminous efficiency functions for the brightness of a 2° field and a 10° field at photopic levels are different from the CIE V(lambda) function and are tabulated in the Technical Report. These functions should be used only to evaluate the luminous efficiencies of monochromatic light sources in terms of their brightnesses. Further work utilizing these functions is required to evaluate lights with compound spectra with allowance for additivity failure.
+
+    CIE 75-1988 is a Technical Report written in Englishi with a short summary in English, French and German. It consists of 20 pages with 6 figures and 8 tables.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

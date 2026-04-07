@@ -1,0 +1,73 @@
+---
+id: CIEx044OP05
+type: standard
+schema_version: v1.5.6
+title:
+- content: COLOUR QUALITY ASSESSMENT UNDER LED TUNEABLE SOURCES WITH VARYING GAMUT
+    SIZES AND SHAPES (OP05, 47-52)
+  type: title-main
+- content: COLOUR QUALITY ASSESSMENT UNDER LED TUNEABLE SOURCES WITH VARYING GAMUT
+    SIZES AND SHAPES (OP05, 47-52)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/colour-quality-assessment-under-led-tuneable-sources-with-varying-gamut-sizes-and-shapes-op05-47-52?product_id=2009483
+docidentifier:
+- content: CIE x044-OP05
+  type: CIE
+  primary: true
+docnumber: OP05 47-52
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: Q
+      surname:
+        language: en
+        script: Latn
+        content: Zhai
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Luo
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This research aimed to study the colour quality of LED lightings without confused attributions caused by the interactions of physical quantities. An experiment was designed to assess the naturalness, colourfulness and preference of lightings using tuneable multi-channel LED system to render different gamut sizes as well as gamut shapes under well controlled of other lighting parameters. The most natural and preferred gamut sizes are around 100-105 Rg (IES) values and 105-110 Rg values respectively. The lightings with red-green gamut shapes are judged more colourful than those with yellow-blue shapes while the gamut sizes are similar. Rg and ΔC* both have problem evaluating colourfulness under low CCT lightings. Only a single gamut size index, such as Rg or ΔC* cannot predict the colourfulness well.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

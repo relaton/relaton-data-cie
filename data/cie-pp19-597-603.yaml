@@ -1,0 +1,124 @@
+---
+id: CIEPP19597603
+type: standard
+schema_version: v1.5.6
+title:
+- content: |-
+    FIELD MEASUREMENT OF NET-ZERO ENERGY RENOVATION BUILDING
+
+
+     (PP19, 597-603)
+  type: title-main
+- content: |-
+    FIELD MEASUREMENT OF NET-ZERO ENERGY RENOVATION BUILDING
+
+
+     (PP19, 597-603)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/field-measurement-of-net-zero-energy-renovation-building-pp19-597-603?product_id=2011274
+docidentifier:
+- content: CIE PP19 597-603
+  type: CIE
+  primary: true
+docnumber: PP19 597-603
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Sakuma
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Iwata
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Takai
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Tanaka
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Kikuchi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Kawakami
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In this paper, a field survey and subjective assessment of the visual environment of an NZEB (Net-Zero Energy Building) renovation were carried out. In the subject building , LED taskambient lighting and venetian blinds were automatically controlled. When daylight provided enough light, areas near the facades showed higher desk illuminance than that at the centre. Generally, 300 lx of desk illuminance was kept on both the sunny measurement days and the cloudy measurement day. In the absence of direct sunlight, the fully-up blinds increased the luminance of the ceiling and saved energy for lighting while only slightly increasing glare. The
+    subjective assessment showed that subjects? evaluations about room and desktop brightness were neutral (neither bright nor dark), when the northwest blinds were both fully-up and fullydown with slats at a 0 degrees angle.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

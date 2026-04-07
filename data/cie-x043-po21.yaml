@@ -1,0 +1,85 @@
+---
+id: CIEx043PO21
+type: standard
+schema_version: v1.5.6
+title:
+- content: PROBLEMS IN KINETIC MEASUREMENT OF MASS DYED PHOTOCHROMIC POLYPROPYLENE
+    FILAMENTS WITH RESPECT TO DIFFERENT COLOUR SPACE SYSTEMS (PO21, Pages 325-333)
+  type: title-main
+- content: PROBLEMS IN KINETIC MEASUREMENT OF MASS DYED PHOTOCHROMIC POLYPROPYLENE
+    FILAMENTS WITH RESPECT TO DIFFERENT COLOUR SPACE SYSTEMS (PO21, Pages 325-333)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/problems-in-kinetic-measurement-of-mass-dyed-photochromic-polypropylene-filaments-with-respect-to-different-colour-space-systems-po21-pages-325-333?product_id=1941852
+docidentifier:
+- content: CIE x043-PO21
+  type: CIE
+  primary: true
+docnumber: PO21 Pages 325-333
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Periyasamy
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Vikova
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Vik
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Textile materials are one of the basic needs of the human life after food and shelter. It can be applied in various forms from clothing to high tech applications such as protective textiles, medical textiles, geo textiles and sport textiles. Consequently, it gives immense inspiration to prepare photochromic textile materials, in this regards we take more attention to prepare the mass dyed polypropylene filaments with photochromic pigments. Also the commercial spectrophotometer cannot measure the whole colour change during the UV exposure without interruption of illumination of the samples. To solve this issue it is required to integrating the sphere of spectrophotometer, which modifies to add the additional aperture for the UV irradiation. In this study, we carried out the kinetic measurement of produced photochromic pigment incorporated polypropylene filaments in the LCAM developed FOTOCHROM spectrophotometer, and analysed the problems occur in the colour strength values (K/S) were analysed with respect to the L,a,b colour space and CIE X,Y,Z colour space.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

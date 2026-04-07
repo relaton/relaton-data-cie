@@ -1,0 +1,67 @@
+---
+id: CIE1582004
+type: standard
+schema_version: v1.5.6
+title:
+- content: Ocular lighting effects on human physiology and behaviour
+  type: title-main
+- content: Ocular lighting effects on human physiology and behaviour
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-158-2004?product_id=1210074
+docidentifier:
+- content: CIE 158:2004
+  type: CIE
+  primary: true
+- content: '9783901906282'
+  type: ISBN
+docnumber: 158:2004
+date:
+- type: published
+  at: '2004-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The nonvisual biological and behavioural effects of light in animals and humans are mediated by specific neuroanatomical pathways. Controlled empirical studies have shown that light can be used to treat some clinical disorders and may have broader, nonclinical applications for problems of shift work and jet lag. Studies are testing how lighting may be incorporated into architectural designs that are optimal for vision as well as physiological and behavioural stimulation.
+
+    The Report is written in English, with a short summary in French and German. It consists of 59 pages with 9 figures.
+                  See more
+relation:
+- type: updates
+  bibitem:
+    title:
+    - content: Ocular lighting effects on human physiology and behaviour (including
+        erratum 1)
+      type: title-main
+    - content: Ocular lighting effects on human physiology and behaviour (including
+        erratum 1)
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-158-2009?product_id=1630026
+    docidentifier:
+    - content: CIE 158:2009
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '2009-01-01'
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

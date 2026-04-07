@@ -1,0 +1,81 @@
+---
+id: CIEx050PO138
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'A DEVELOPMENT OF MICRO-PRISM ARRAYS ACHIEVING IMAGE PROJECTION BY PRINCIPLE
+    OF LIGHTING: OPTICAL DESIGN AND NUMERICAL ESTIMATION OF LIGHTING PERFORMANCE'
+  type: title-main
+- content: 'A DEVELOPMENT OF MICRO-PRISM ARRAYS ACHIEVING IMAGE PROJECTION BY PRINCIPLE
+    OF LIGHTING: OPTICAL DESIGN AND NUMERICAL ESTIMATION OF LIGHTING PERFORMANCE'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po138?product_id=2578639
+docidentifier:
+- content: CIE x050-PO138
+  type: CIE
+  primary: true
+docnumber: x050-PO138
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: W
+      surname:
+        language: en
+        script: Latn
+        content: Shichi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Nakano
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Toyota
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    A unique lighting system capable of projecting a pictogram image was designed using a micro-prism array (MPA) comprising 0,08 mm square prism cells. The quality of the pictogram image projected by the lighting system with the MPA was evaluated using a computer simulation. The evaluation clarified the number of prism cells necessary to achieve the required illuminance uniformity of the projected pictogram image, the dependence of the blur width of the projected image at a distance from the light source to the MPA, and the effect of the diffracted light of the prism cells on the projected image. By addressing these key aspects, we can make the design of a pictogram image projection lighting system with the MPA more efficient.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

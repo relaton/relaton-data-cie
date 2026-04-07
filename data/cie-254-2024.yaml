@@ -1,0 +1,52 @@
+---
+id: CIE2542024
+type: standard
+schema_version: v1.5.6
+title:
+- content: A roadmap toward basing CIE colorimetry on cone fundamentals
+  type: title-main
+- content: A roadmap toward basing CIE colorimetry on cone fundamentals
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-254-2024?product_id=2912447
+docidentifier:
+- content: CIE 254:2024
+  type: CIE
+  primary: true
+- content: '9783902842732'
+  type: ISBN
+docnumber: 254:2024
+date:
+- type: published
+  at: '2024-07-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Technical Report presents a roadmap for the CIE, to help guide its development of a new, complete, self-consistent system of CIE colorimetric measures, based directly on cone fundamentals, with explicit consideration of the impacts of normal variations of the cone fundamentals due to age, field of view, and individual diversity.
+    The report provides the necessary background information, with detailed supporting references, to support the reasoning behind the new specific proposals that are presented. It recommends that the CIE form several new Technical Committees to help address these conclusions.
+    The five proposed new CIE Technical Committees can be tentatively described with the following titles:
+    (i) Creation of LMS-based measures similar to some measures within the XYZ system;
+    (ii) Expansion of the cone fundamental wavelength range;
+    (iii) LMS-based approximately uniform colour space;
+    (iv) Recommendations for a global study of cone fundamental diversity;
+    (v) Colorimetric effects of cone fundamental diversity.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

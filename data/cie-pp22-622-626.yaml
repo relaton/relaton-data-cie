@@ -1,0 +1,74 @@
+---
+id: CIEPP22622626
+type: standard
+schema_version: v1.5.6
+title:
+- content: |-
+    THE USE OF COLOR-TUNEABLE LED LIGHTING FOR RESIDENTIAL APPLICATIONS
+
+     (PP22, 622-626)
+  type: title-main
+- content: |-
+    THE USE OF COLOR-TUNEABLE LED LIGHTING FOR RESIDENTIAL APPLICATIONS
+
+     (PP22, 622-626)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/the-use-of-color-tuneable-led-lighting-for-residential-applications-pp22-622-626?product_id=2011353
+docidentifier:
+- content: CIE PP22 622-626
+  type: CIE
+  primary: true
+docnumber: PP22 622-626
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Hou
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Lin
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    An experiment was conducted to investigate how colour tunable LED lighting can be used for residential applications with different scenes. Thirty-one young and 15 senior participants adjusted the colour and intensity of a colour tunable LED luminaire for four different scenes?reading, relaxing, atmosphere, and wake up?in a residential space. The participants generally required white light between 3000 K and 6000 K and the highest light level for performing the reading task. No correlation can be found between CCT and light level. For the other three scenes, the young participants tended to make full use of the colour tunable
+    function and preferred to have chromatic lighting with higher saturation. Further studies are necessary to compare the results form a laboratory and from a field study.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

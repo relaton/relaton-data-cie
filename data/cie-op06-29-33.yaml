@@ -1,0 +1,70 @@
+---
+id: CIEOP062933
+type: standard
+schema_version: v1.5.6
+title:
+- content: ENHANCING COMFORT, ALERTNESS AND PRODUCTIVITY IN INDOOR WORKING ENVIRONMENTS
+    USING DYNAMIC MULTI-CHANNEL LED LIGHTING SYSTEMS THAT MIMIC DAYLIGHT (OP06, 29-33)
+  type: title-main
+- content: ENHANCING COMFORT, ALERTNESS AND PRODUCTIVITY IN INDOOR WORKING ENVIRONMENTS
+    USING DYNAMIC MULTI-CHANNEL LED LIGHTING SYSTEMS THAT MIMIC DAYLIGHT (OP06, 29-33)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/enhancing-comfort-alertness-and-productivity-in-indoor-working-environments-using-dynamic-multi-channel-led-lighting-systems-that-mimic-daylight-op06-29-33?product_id=2016201
+docidentifier:
+- content: CIE OP06 29-33
+  type: CIE
+  primary: true
+docnumber: OP06 29-33
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Llenas
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Carreras
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In this work, a dynamic multi-channel LED lighting system is used to mimic natural light very precisely. First, we propose a closed-loop feedback control using a colour sensor to compensate for spectral shifts due to temperature changes or wear out of the LEDs. Second, we test the lighting system in a 24/7 working room over 1 year with a CCT-changing sequence designed for critical-task performing. Our results show that a precise control over the emitted spectrum can be achieved providing an unprecedented colour quality and enhancing people's level of satisfaction, comfort and alertness in indoor working environments.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,84 @@
+---
+id: CIEx048PO04
+type: standard
+schema_version: v1.5.6
+title:
+- content: ARE THE DEMANDS IN ENTERTAINMENT LIGHTING TOO HIGH FOR WHITE LIGHT EMITTING
+    DIODES?
+  type: title-main
+- content: ARE THE DEMANDS IN ENTERTAINMENT LIGHTING TOO HIGH FOR WHITE LIGHT EMITTING
+    DIODES?
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-po04?product_id=2240821
+docidentifier:
+- content: CIE x048-PO04
+  type: CIE
+  primary: true
+docnumber: x048-PO04
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Nilsson Tengelin
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Mylly
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      - language: en
+        script: Latn
+        initial: O
+      surname:
+        language: en
+        script: Latn
+        content: Hedekvist
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This paper reports the result of a survey on entertainment lighting distributed to 246 museums and 56 theatres in Sweden. The questions concerned the lighting technology used, experience from changing lighting systems, plans, problems, apprehensions and expectations. The replies showed that the transition to LED has been much faster in museums than in theaters and 35% of the theatres do not plan for a transition to LED. Reasons given are economy, light quality, and dimming functionality. Lighting professionals are generally sceptical in exchanging halogen lights. The artistic expression in lighting design goes beyond the specifications and what is promised in the data sheet. To facilitate a smoother transition to modern lighting technologies, the quality of the white light and proper function of the luminaires must be ensured and the communication between the manufacturers, retailers, lighting professionals and other artistic functions must be improved.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

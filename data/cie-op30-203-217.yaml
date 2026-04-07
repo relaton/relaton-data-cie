@@ -1,0 +1,95 @@
+---
+id: CIEOP30203217
+type: standard
+schema_version: v1.5.6
+title:
+- content: DETERMINATION OF STRAY-LIGHT AND INTERREFLECTION  AT A TABLE-TOP NEAR-FIELD
+    GONIOPHOTOMETER (OP30, 203-217)
+  type: title-main
+- content: DETERMINATION OF STRAY-LIGHT AND INTERREFLECTION  AT A TABLE-TOP NEAR-FIELD
+    GONIOPHOTOMETER (OP30, 203-217)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/determination-of-stray-light-and-interreflection-at-a-table-top-near-field-goniophotometer-op30-203-217?product_id=2010471
+docidentifier:
+- content: CIE OP30 203-217
+  type: CIE
+  primary: true
+docnumber: OP30 203-217
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Ledig
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Bizjak
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Gerloff
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Sperling
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The stray-light characteristic of a near-field goniophotometer with respect to the integral luminous flux obtained from photometer measurements is evaluated by comparing the measurements of lamps with different emission directionality (luminous intensity distribution, LID), e.g. by means of a wide or narrow beam. The asymmetry of measurement setup related stray-light is discussed in detail by measurements of a narrow LID with non-rotational symmetry and demonstrates the impact of the scanning mode. We present a proposal how to estimate and experimentally determine the impact of stray-light onto the photometer and
+    interreflection between the environment and the lamp. For comparison, a ray-tracing simulation is performed verifying the indirect reflection attributed to the setup and enclosure.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

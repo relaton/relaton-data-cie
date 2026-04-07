@@ -1,0 +1,71 @@
+---
+id: CIEx043OP15
+type: standard
+schema_version: v1.5.6
+title:
+- content: COLOUR CONSPICUITY IN A COMPLEX LAYOUT (OP15, Pages 90-95)
+  type: title-main
+- content: COLOUR CONSPICUITY IN A COMPLEX LAYOUT (OP15, Pages 90-95)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/colour-conspicuity-in-a-complex-layout-op15-pages-90-95?product_id=1941817
+docidentifier:
+- content: CIE x043-OP15
+  type: CIE
+  primary: true
+docnumber: OP15 Pages 90-95
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Ou
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Liu
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    A visual search experiment was carried out using reaction time technique to investigate the influence of colour on visual conspicuity.  A total of 30 colour-normal Taiwanese observers took part in the study.  The experiment consisted of 264 trials, in which each observer was asked to locate a target among 24 coloured circles shown on a computer display as fast as possible.  The experimental results indicate that the reaction time for locating the target was influenced mainly by mean CIELAB chroma difference between the target and the 23 distractors; the larger chroma difference, the shorter reaction time.  The reciprocal of reaction time, a measure of visual conspicuity in this study, had a correlation coefficient of 0.84 when compared with mean chroma difference.  The findings may help develop guidelines in visual communication design to enhance visual conspicuity for data visualisation in a complex layout.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

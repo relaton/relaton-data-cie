@@ -1,0 +1,69 @@
+---
+id: CIEx049P10
+type: standard
+schema_version: v1.5.6
+title:
+- content: ANTI-ALIASING FILTER EFFECTS ON SAMPLING FREQUENCY AND EFFECTS OF MATHEMATICAL
+    IMPLEMENTATION
+  type: title-main
+- content: ANTI-ALIASING FILTER EFFECTS ON SAMPLING FREQUENCY AND EFFECTS OF MATHEMATICAL
+    IMPLEMENTATION
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x049-p10?product_id=2502824
+docidentifier:
+- content: CIE x049-P10
+  type: CIE
+  primary: true
+docnumber: x049-P10
+date:
+- type: published
+  at: '2022-10-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Koch
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Zuber
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The requirements for a measurement device regarding the detection of temporal light artefacts are complex in many ways. In this work, we investigated the effect of aliasing and its impact on SVM and Pst. For a suitable measurement device, an anti-aliasing filter is essential, but the right choice of such a filter involves the consideration of many factors. Very important is the correct adjustment of the sampling frequency with respect to the transmission of the anti-aliasing filter. Filter type, filter order and cut-off frequency in combination with the chosen sampling frequency are directly related to measurement errors. In addition, not only the measurement itself, but also the calculation of quantities like SVM and Pst can introduce errors to TLA results. For the evaluation of SVM for instance, a Fourier transformation of the signal is necessary. To avoid or minimize errors in the frequency detection, common signal processing techniques can be applied. We examine the use of zero-padding (nulling) and windowing on the input signal before an FFT is performed. With the right choice of these techniques, we increase the reliability of the results. These techniques cannot be applied directly to the evaluation of Pst, since this calculation is done in the time domain. Nevertheless, we show that advantages in terms of reliability and measurement duration can be achieved by moving to the frequency domain (Fourier transformation).
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

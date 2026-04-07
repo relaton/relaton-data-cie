@@ -1,0 +1,117 @@
+---
+id: CIEx050PO136
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'REFLECTED GLARE ON MUSEUM EXHIBITS WITH DISPLAY CASES: AN EXAMINATION
+    OF A GLARE PREDICTION METHOD BASED ON LUMINANCE DISTRIBUTION'
+  type: title-main
+- content: 'REFLECTED GLARE ON MUSEUM EXHIBITS WITH DISPLAY CASES: AN EXAMINATION
+    OF A GLARE PREDICTION METHOD BASED ON LUMINANCE DISTRIBUTION'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po136?product_id=2579202
+docidentifier:
+- content: CIE x050-PO136
+  type: CIE
+  primary: true
+docnumber: x050-PO136
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Sagawa
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Maeda
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Mizokami
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Takashima
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Oe
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Yoshizawa
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The ultimate purpose of this study is to elucidate the occurrence conditions of reflected glare and to utilize this knowledge for museum lighting. In this study, subjects evaluated the reflected glare on replica paintings in an experimental room and the occurrence mechanism of reflected glare under conditions with and without acrylic display cases were compared. We examined whether the degree of glare could be predicted from three physical quantities–luminance contrast, reflectance, and glossiness of the painting surface–under the two conditions. It was found out that predicting the reflected glare from these physical quantities under a display case was difficult, and the prediction method with or without the display case should be reconsidered, because the spread of high-luminance areas that cause glare was different in the two conditions.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

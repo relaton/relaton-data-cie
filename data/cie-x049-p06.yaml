@@ -1,0 +1,69 @@
+---
+id: CIEx049P06
+type: standard
+schema_version: v1.5.6
+title:
+- content: IEA 4E SSL ANNEX INTERLABORATORY COMPARISON OF MEASUREMENTS OF TEMPORAL
+    LIGHT MODULATION – PLAN
+  type: title-main
+- content: IEA 4E SSL ANNEX INTERLABORATORY COMPARISON OF MEASUREMENTS OF TEMPORAL
+    LIGHT MODULATION – PLAN
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x049-p06?product_id=2502828
+docidentifier:
+- content: CIE x049-P06
+  type: CIE
+  primary: true
+docnumber: x049-P06
+date:
+- type: published
+  at: '2022-10-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Coyne
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Ohno
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The International Energy Agency (IEA) 4E Solid State Lighting Annex is planning on conducting an Interlaboratory Comparison (IC 2022) for the measurement of temporal light modulation (TLM) from solid state lighting (SSL) products. This work builds on the SSL Annex’s experience from its previous two interlaboratory comparisons (IC 2013, IC 2017) for measurement of SSL products. IC 2022 is organised to compare measured TLM waveform data and calculated short term flicker index (PstLM) in IEC TR 61547-1 and stroboscopic effect visibility measure (SVM, MVS) in IEC TR 63158, of the comparison artefacts. Four LED lamps with different TLM characteristics and one TLM generator source will be used as the comparison artefacts. IC 2022 is planned as a technical study but is designed to serve as a proficiency test for SSL testing accreditation programmes. Early interest has been received from over 20 organisations, including test laboratories, instrument manufacturers, lighting manufacturers, universities and research institutes. The technical protocol is currently being developed.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

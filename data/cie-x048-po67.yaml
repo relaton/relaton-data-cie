@@ -1,0 +1,67 @@
+---
+id: CIEx048PO67
+type: standard
+schema_version: v1.5.6
+title:
+- content: LIGHT EXPOSURE OF WORKERS IN DIFFERENT OCCUPATIONS
+  type: title-main
+- content: LIGHT EXPOSURE OF WORKERS IN DIFFERENT OCCUPATIONS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-po67?product_id=2240868
+docidentifier:
+- content: CIE x048-PO67
+  type: CIE
+  primary: true
+docnumber: x048-PO67
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Udovicic
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Varga
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Twenty-four hours light exposure of employees in three different occupations was assessed for a working week during both summer and winter. Occupations being exposed to light at night and those exposed to low daytime light levels were represented by night shift working geriatric nurses and daytime working hotel staff, respectively. Their light exposure was compared to the light exposure of outdoor workers represented by refuse collectors. In winter, luminous exposure of night shift working geriatric nurses and daytime working hotel staff amounts to only 2 % and 12 % of the luminous exposure of outdoor workers, respectively. In summer, the respective values are 6 % and 21 %. This could lead to a desynchronization of circadian physiological processes in the human body.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

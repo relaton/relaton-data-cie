@@ -1,0 +1,105 @@
+---
+id: CIEx050OP040
+type: standard
+schema_version: v1.5.6
+title:
+- content: RECONSTRUCTION OF CAMERA SPECTRAL RESPONSIVITY USING MULTIPLE NARROW-BAND
+    LED RADIANCE SOURCES
+  type: title-main
+- content: RECONSTRUCTION OF CAMERA SPECTRAL RESPONSIVITY USING MULTIPLE NARROW-BAND
+    LED RADIANCE SOURCES
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op040?product_id=2579008
+docidentifier:
+- content: CIE x050-OP040
+  type: CIE
+  primary: true
+docnumber: x050-OP040
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Bouroussis
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Florian
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Nina
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Reto
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Peter
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This paper presents methods for the characterization of monochrome or colour imaging sensors using multiple narrowband colour LED as radiance sources and optimization algorithms in order to estimate their spectral responsivity. This method can be used in cases where a monochromator setup is not available or a fast estimate is needed. In addition, XYZ coordinates for various radiance sources are estimated using the camera counts from the three colour channels (RGB). For this purpose, various linear and non-linear models of RGB values are tested. The RGB models are trained using different groups of reference sources under various sets of weighting factors per source and the corresponding coefficients are calculated via optimization algorithms. The models output and the optimization results were compared to ground truth and expected errors for each of the proposed methods were calculated. This research showed that there could be a good estimate of a camera's spectral responsivity using Legendre polynomials of around 6-8th order and given a multiple LED radiance source. In addition, the estimate of XYZ coordinates using RGB counts can be optimized for specific groups of sources with an expected error even below 1%.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,56 @@
+---
+id: CIE1842009
+type: standard
+schema_version: v1.5.6
+title:
+- content: Indoor Daylight Illuminants
+  type: title-main
+- content: Indoor Daylight Illuminants
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-184-2009?product_id=1601628
+docidentifier:
+- content: CIE 184:2009
+  type: CIE
+  primary: true
+- content: '9783901906749'
+  type: ISBN
+docnumber: 184:2009
+date:
+- type: published
+  at: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The CIE recommended daylight illuminants in 1967. These daylight illuminants
+    contained ultraviolet radiation in proportions as found in natural outdoor daylight.
+    Indoors this daylight is filtered by the transmission of the window glass; therefore it
+    became necessary to define spectral power distributions also for the indoor daylight
+    phases. The TC recommends adoption of two indoor daylight illuminants ID50 and
+    ID65, that correspond to the phases of daylight of about 5000 K and 6500 K
+    The publication is written in English, with a short summary in French and
+    German. It consists of 22 pages with 5 figures and 2 tables.
+    correlated colour temperature. Tables of the spectra are provided at 5 nm intervals
+    from 300 nm to 780 nm, along with the rationale for their development and detailed
+    comparison with existing daylight illuminants.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

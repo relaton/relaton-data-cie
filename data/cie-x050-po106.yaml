@@ -1,0 +1,93 @@
+---
+id: CIEx050PO106
+type: standard
+schema_version: v1.5.6
+title:
+- content: VALIDATION OF DIURNAL CIRCADIAN LIGHTING ACCUMULATION MODEL BASED ON A
+    LIGHT HABIT SURVEY OF 448 CHINESE PARTICIPANTS
+  type: title-main
+- content: VALIDATION OF DIURNAL CIRCADIAN LIGHTING ACCUMULATION MODEL BASED ON A
+    LIGHT HABIT SURVEY OF 448 CHINESE PARTICIPANTS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po106?product_id=2579143
+docidentifier:
+- content: CIE x050-PO106
+  type: CIE
+  primary: true
+docnumber: x050-PO106
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Hou
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Lin
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Wang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Lin
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The quantification of the impact of light on the human circadian phase is currently a bottleneck in achieving precise regulation of circadian rhythm through light. The Diurnal Circadian Lighting Accumulation (DCLA) model is a novel predictor of human circadian phase shift (CPS), developed based on diurnal light exposure characteristics such as timing, duration, and the ipRGC-based light dose. In this study, the DCLA-CPS model is validated through an online light habits survey involving 448 Chinese participants. The survey includes subjective CPS assessment and inquiries about daylight exposure, artificial lighting, and visual display terminal usage. The light habits are quantitatively translated into corresponding spectra and intensities, which are then inputted into the DCLA-CPS model to calculate the predicted CPS. The results indicate that the model accurately predicts the CPS direction, and there is a significant correlation between the predicted vector CPS and subjective CPS with R2 = 0.7884 (p < 0.05).
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

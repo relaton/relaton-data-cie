@@ -1,0 +1,102 @@
+---
+id: CIEx0512025ne9arm
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'DAYLIGHT REQUIREMENTS AND METRICS IN PRACTICE: A CLIMATIC ANALYSIS OF
+    CURRENT CRITERIA'
+  type: title-main
+- content: 'DAYLIGHT REQUIREMENTS AND METRICS IN PRACTICE: A CLIMATIC ANALYSIS OF
+    CURRENT CRITERIA'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-ne9arm?product_id=3039925
+docidentifier:
+- content: CIE x051:2025/ne9arm
+  type: CIE
+  primary: true
+docnumber: x051:2025/ne9arm
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Pinheiro
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: "N"
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Amorim
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Sokół
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Martyniuk-Pęczek
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Daylight is vital to human life. However, architectural reference documents often lack clear daylighting goals. This article investigates daylight requirements and metrics in such documents, focusing on a climatic approach. The methodology involved systematizing documents collected, classifying climate criteria, mapping daylight recommendations by climate zones, and analysing metric types and their applications. Findings show that 60% of the metrics are geometric and 37% are non-geometric. In this sample, most documents (72%) are from temperate climates, followed by 18% from tropical, and 5% each from dry/arid and continental; none were from polar regions. Similarly, 65% of daylight metrics apply to temperate climates, 16% to tropical, 10% to dry/arid, and 9% to continental. While geometric metrics are more commonly used in daily practice, those do not ensure proper daylighting indoors. Non-geometric metrics, though less applied in practice, are more closely linked to higher building performance.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

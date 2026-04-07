@@ -1,0 +1,105 @@
+---
+id: CIEx048OP48
+type: standard
+schema_version: v1.5.6
+title:
+- content: QUANTIFICATION OF THE EFFECT OF LIGHTING ENVIRONMENT ON SPACIOUSNESS OF
+    INTERIOR SPACE
+  type: title-main
+- content: QUANTIFICATION OF THE EFFECT OF LIGHTING ENVIRONMENT ON SPACIOUSNESS OF
+    INTERIOR SPACE
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op48?product_id=2240800
+docidentifier:
+- content: CIE x048-OP48
+  type: CIE
+  primary: true
+docnumber: x048-OP48
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Miyake
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Okada
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Yamamoto
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Yamaguchi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Yoshizawa
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Spaciousness is an important quality of space which is affected by both the volume of space and the lighting environment. This studys aim is to create the calculation model to quantify the effect of lighting environment on spaciousness. 3D luminance mapping, which is the combined data of luminance of surface and its distance to the observer, is used for the analysis of lighting environment, because we hypothesized that the three-dimensional localization of light affects the spaciousness. From the result of a subjective experiment to evaluate spaciousness with different lighting environment, it is revealed that spaciousness can be quantified from average luminance and Dark-part-reduced visible volume which is the reduced visible volume according to the distribution of dark pixels in the 3D luminance mapping. We also compared average illuminance of whole image and of ceiling, walls, floor, and concluded that the whole average illuminance best describes the effect.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

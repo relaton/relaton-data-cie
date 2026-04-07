@@ -1,0 +1,45 @@
+---
+id: CIEx0332008
+type: standard
+schema_version: v1.5.6
+title:
+- content: Proceedings of the CIE Expert Symposium on Advances in Photometry and Colorimetry
+  type: title-main
+- content: Proceedings of the CIE Expert Symposium on Advances in Photometry and Colorimetry
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x033-2008?product_id=1593926
+docidentifier:
+- content: CIE x033:2008
+  type: CIE
+  primary: true
+- content: '9783901906732'
+  type: ISBN
+docnumber: x033:2008
+date:
+- type: published
+  at: '2008-10-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    7-8 July 2008, Turin, ItalyThe CIE Expert Symposium, organized by CIE Division 2 and hosted by INRIM (Istituto Nazionale di Ricerca Metrologica) in Turin, Italy, covered the following areas:Imaging Photometers and ColorimetersSpectral Responsivity Measurement and f1 of PhotometersLED Measurement and CharacterizationGoniophotometers and other developmentsA Keynote paper on "Goniophotometry: New Challenges and Novel Solutions" was given by Georg Sauter of PTB (DE). The outcomes of the symposium will be utilized as recommendations for future work in Division 2.The Proceedings include the Keynote paper, 29 papers and 13 posters presented during the Symposium. The publication consists of 228 pages with 318 figures and 49 tables.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,129 @@
+---
+id: CIEx050OP082
+type: standard
+schema_version: v1.5.6
+title:
+- content: EFFECTS OF FULL-DAY DYNAMIC LIGHTING PATTERNS ON HORMONE CONCENTRATION,
+    CORE BODY TEMPERATURE AND SUBJECTIVE ALERTNESS AT BEDTIME IN CONFINED SPACES
+  type: title-main
+- content: EFFECTS OF FULL-DAY DYNAMIC LIGHTING PATTERNS ON HORMONE CONCENTRATION,
+    CORE BODY TEMPERATURE AND SUBJECTIVE ALERTNESS AT BEDTIME IN CONFINED SPACES
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op082?product_id=2579035
+docidentifier:
+- content: CIE x050-OP082
+  type: CIE
+  primary: true
+docnumber: x050-OP082
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Wang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Shao
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Li
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Wang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Dai
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Yu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Hao
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Confined Spaces is short of lighting and is difficult to perceive time changes, which is easy to lead to rhythm disorders and sleep disorders. It is urgent to introduce dynamic lighting mode. In this study, 20 male subjects were subjected to 4 consecutive weeks of closed experiments in an underground confined space, using 1 light mode per week (constant light mode and 2 dynamic light modes that induced the rhythm phase to move forward or backward). Melatonin and cortisol concentrations, core body temperature, and subjective sleepiness (Karolinska scale score) were collected daily at bedtime. The results showed that the bedtime melatonin concentration and subjective sleepiness score decreased day by day in week 1, and the change trend was opposite in week 2 and 4. At the 3rd week, the melatonin concentration and KSS score before bedtime were significantly decreased, and the core body temperature was significantly increased (p < 0.05). There was a cumulative effect of light on hormone concentration, core body temperature and subjective alertness. The dynamic light mode can effectively induce the shift of rhythm phase. The appropriate dynamic light mode can be customized according to the individual's "social jet lag."
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

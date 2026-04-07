@@ -1,0 +1,91 @@
+---
+id: CIEx050OP023
+type: standard
+schema_version: v1.5.6
+title:
+- content: STUDY ON LIGHTING PLANNING FOR ACTIVE EVACUATION GUIDANCE DESIGN
+  type: title-main
+- content: STUDY ON LIGHTING PLANNING FOR ACTIVE EVACUATION GUIDANCE DESIGN
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op023?product_id=2578994
+docidentifier:
+- content: CIE x050-OP023
+  type: CIE
+  primary: true
+docnumber: x050-OP023
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Akizuki
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Nagaya
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Yamaguchi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Hori
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This study examined the effects of the visual environment conditions of evacuation routes on walking time and psychology, understand the lighting requirements for effective evacuation guidance in smoke environments. The results of this study indicate that smoke density has a significant effect on evacuation behaviour, and that the thicker the smoke density, the slower the walking speed and the greater the psychological burden. However, the use of high luminance of light source and continuous installation of lighting for active evacuation guidance can support evacuation behaviour even in a high smoke density environment. In addition to conventional guide lights and emergency lighting, lighting design of evacuation routes based on the luminance distribution of the evacuees' field of view is necessary to properly and actively "guide" evacuees to exits and "eliminate their sense of uneasiness" and will be further studied.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

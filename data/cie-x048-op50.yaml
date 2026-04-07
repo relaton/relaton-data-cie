@@ -1,0 +1,67 @@
+---
+id: CIEx048OP50
+type: standard
+schema_version: v1.5.6
+title:
+- content: EFFECTS OF LUMINOUS COLOUR SHIFT Duv ON COLOUR PREFERENCE
+  type: title-main
+- content: EFFECTS OF LUMINOUS COLOUR SHIFT Duv ON COLOUR PREFERENCE
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op50?product_id=2240802
+docidentifier:
+- content: CIE x048-OP50
+  type: CIE
+  primary: true
+docnumber: x048-OP50
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Koyama
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Mochizuki
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Subjective experiment was carried out to investigate the combined effect on the colour preference of the interior style, correlated colour temperature (CCT) and duv. Twenty university age subjects evaluated all 28 conditions with 2 types of the interior style, 2 levels of the CCT and 7 levels of the duv. This paper reports the measured results of the chromaticity shift of the interior surface due to duv and the perception of the colour difference between the condition with any other duv and that with duv0. Subjective evaluation on the colour preference of the entire space related to the interior style, CCT and duv is also summarized. It is concluded that the acceptable range of duv to be classified as the same CCT should be reconsidered, considering colour preference.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

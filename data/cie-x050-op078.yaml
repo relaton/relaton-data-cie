@@ -1,0 +1,57 @@
+---
+id: CIEx050OP078
+type: standard
+schema_version: v1.5.6
+title:
+- content: CALCULATION METHOD AND EVALUATION OF POSSIBLE EFFECT ON CIRCADIAN SYSTEM
+    OF DRIVERS UNDER TYPICAL STREETLIGHTING CONDITIONS
+  type: title-main
+- content: CALCULATION METHOD AND EVALUATION OF POSSIBLE EFFECT ON CIRCADIAN SYSTEM
+    OF DRIVERS UNDER TYPICAL STREETLIGHTING CONDITIONS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op078?product_id=2579032
+docidentifier:
+- content: CIE x050-OP078
+  type: CIE
+  primary: true
+docnumber: x050-OP078
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Schwarcz
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The circadian response is sensitive to visible short wavelengths. With the conversion of streetlighting to LEDs that have a greater short wavelength spectrum than traditional sources, there could be a potential negative health impact through influencing the biological clock of drivers. This paper provides maximum values of melanopic EDI (Equivalent Daylight Illuminance) of drivers using standard streetlighting calculation tools. It also evaluates the circadian impact on drivers under typical usage pattern using thresholds from a comprehensive consensus view which has been published recently about “Recommendations for daytime, evening, and nighttime light exposure to best support physiology, sleep, and wakefulness in healthy adults” (Brown, T.M. et al., 2022). Results show: If a streetlighting respects recommendations of relevant CIE publications about visual performance, especially glare restrictions, the light exposure provided by streetlighting has no significant negative effect on circadian behaviour of drivers. This statement is in line with field measurements by others.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

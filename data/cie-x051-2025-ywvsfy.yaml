@@ -1,0 +1,87 @@
+---
+id: CIEx0512025ywvsfy
+type: standard
+schema_version: v1.5.6
+title:
+- content: ABILITY OF COMMON GLARE INDICES TO EVALUATE DISCOMFORT GLARE IN THE PRESENCE
+    OF MULTIPLE ELECTRIC LIGHT SOURCES
+  type: title-main
+- content: ABILITY OF COMMON GLARE INDICES TO EVALUATE DISCOMFORT GLARE IN THE PRESENCE
+    OF MULTIPLE ELECTRIC LIGHT SOURCES
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-ywvsfy?product_id=3040045
+docidentifier:
+- content: CIE x051:2025/ywvsfy
+  type: CIE
+  primary: true
+docnumber: x051:2025/ywvsfy
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Yuen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Wienold
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Andersen
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The Unified Glare Rating (UGR) was introduced by the CIE as a simpler alternative to the CIE Glare Index (CGI) for predicting discomfort glare from electric lighting, using background luminance (Lb) instead of vertical illuminance (Ev) for adaptation. With the rise of image-based luminance measurements, CGI’s complexity is no longer a limitation, prompting renewed comparison between the two models. This study evaluated UGR and CGI under controlled electric lighting with multiple glare sources, building on findings that CGI outperforms UGR in daylight. A controlled experiment with 34 participants showed both models aligned similarly with subjective discomfort ratings. Notably, adding a second glare source did not consistently increase perceived glare, revealing limitations in the assumption of glare additivity. These findings highlight the need for further research into how the number and type of glare sources—particularly the interaction between electric and daylight—affect glare perception to improve prediction models for more realistic lighting environments.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

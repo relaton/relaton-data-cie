@@ -1,0 +1,75 @@
+---
+id: CIEx048PO17
+type: standard
+schema_version: v1.5.6
+title:
+- content: ILLUMINANCE DISTRIBUTION MEASUREMENT OF MUSEUM EXHIBITS USING DIGITAL IMAGING
+    LUMINANCE METER
+  type: title-main
+- content: ILLUMINANCE DISTRIBUTION MEASUREMENT OF MUSEUM EXHIBITS USING DIGITAL IMAGING
+    LUMINANCE METER
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-po17?product_id=2240830
+docidentifier:
+- content: CIE x048-PO17
+  type: CIE
+  primary: true
+docnumber: x048-PO17
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Bartsev
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Bartseva
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The method for estimating the illuminance distribution in the vertical plane of museum objects (paintings) using a digital imaging luminance meters (ILMD) is considered. In order to pass from the luminance distribution to the illuminance distribution, a screen with reflective properties close to diffuse (Lambert) reflection is used. The theoretical and experimental uncertainty estimation of the measurement method done.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,79 @@
+---
+id: CIEx048PO19
+type: standard
+schema_version: v1.5.6
+title:
+- content: UNFILTERED TRAP-BASED PHOTOMETER CALIBRATION
+  type: title-main
+- content: UNFILTERED TRAP-BASED PHOTOMETER CALIBRATION
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-po19?product_id=2240831
+docidentifier:
+- content: CIE x048-PO19
+  type: CIE
+  primary: true
+docnumber: x048-PO19
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Kliment
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Smid
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Porrovecchio
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    LED-based light sources have replaced massively traditional sources. The metrology traceability chains realised in leading European NMIs utilise the absolutely calibrated broadband radiometers (three-element silicon trap detectors) for calibrating primary photometers. Specific spectral properties of white LED allow to apply the trap detectors directly as new primary photometers. The unfiltered technique (Donsberg at al., 2014) is used and the calibration of spectral irradiance responsivity is needed. We have a long experience in detector-based spectral irradiance responsivity calibrations declared by particular CMCs published in BIPM KCDB. The aim of this work was to revise the uncertainty budget in order to reduce the measurement uncertainties for specific application of calibration of the trap-based unfiltered primary photometers UPP. The two calibration methods were used to analyse the occasional back-reflection effect of the UPP front aperture. The measurement was performed using our reference spectral responsivity facility in spectral range 350 nm - 900 nm.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

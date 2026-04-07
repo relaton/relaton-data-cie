@@ -1,0 +1,73 @@
+---
+id: CIEx048OP27
+type: standard
+schema_version: v1.5.6
+title:
+- content: FACILITY FOR CALIBRATION OF PHOTOMETERS FOR TEMPORAL LIGHT MODULATION
+  type: title-main
+- content: FACILITY FOR CALIBRATION OF PHOTOMETERS FOR TEMPORAL LIGHT MODULATION
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op27?product_id=2240717
+docidentifier:
+- content: CIE x048-OP27
+  type: CIE
+  primary: true
+docnumber: x048-OP27
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Dekker
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: van Bloois
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    We developed a facility for calibration of TLM (temporal light modulation) photometers. The facility is based on a laser-fed reference source, of which the radiance can be modulated with an acousto-optic modulator (AOM). A system of photodiodes, amplifiers, and an analog-to-digital converter (ADC) is used to sample the temporally modulated radiance of the source. With the facility a TLM photometer was calibrated for display contrast ratio RMS (root mean square) with an absolute combined standard uncertainty of 0,037 %. In addition, the facility has been characterised with the aim of measuring flicker and stroboscopic effect, considering the Ecodesign Single Lighting Regulation. The frequency response of the facility shows to be sufficient to accommodate measurements of flicker and the stroboscopic effect.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

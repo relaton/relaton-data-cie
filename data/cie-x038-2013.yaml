@@ -1,0 +1,81 @@
+---
+id: CIEx0382013
+type: standard
+schema_version: v1.5.6
+title:
+- content: Proceedings of CIE Centenary Conference "Towards a New Century of Light",
+    April 15/16, 2013, Paris, France
+  type: title-main
+- content: Proceedings of CIE Centenary Conference "Towards a New Century of Light",
+    April 15/16, 2013, Paris, France
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x038-2013?product_id=1857434
+docidentifier:
+- content: CIE x038:2013
+  type: CIE
+  primary: true
+- content: '9783902842442'
+  type: ISBN
+docnumber: x038:2013
+date:
+- type: published
+  at: '2013-04-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In April 2013 CIE celebrated its 100th birthday in the course of its Midterm Meeting in
+    Paris, France. The meeting was accompanied by a 2-days conference on the subject
+    "Towards a New Century of Light". In 2 keynote speeches, 60 oral presentations and
+    134 posters experts from all over the world presented latest research results and
+    survey lectures on various subjects related to light and lighting, e.g. "History of
+    Lighting and Art", "Hot Topics in Outdoor Lighting", "Colour Quality Assessment",
+    "Health and Wellbeing", "Workplace Lighting Concepts", "Hot Topics in Interior
+    Lighting", "Advanced Correction Methods for Spectroradiometry", "Lighting the City "
+    Applications and Economics", "Integrating Daylight and Electric Lighting", "LED
+    Photometry and Performance of Photometers", "Lighting the City " Luminaires and
+    Design", "Concepts in Lighting Quality", "Brightness and Colour, Individual or Shared
+    Percepts", "Lighting the City " Spaces", "Wellbeing, Glare and Comfort".
+
+    The Proceedings of this Conference consist of 1261 pages including 173 papers of
+    oral and poster presentations with some 1200 figures and some 300 tables.
+                  See more
+relation:
+- type: updates
+  bibitem:
+    title:
+    - content: Proceedings of CIE Centenary Conference "Towards a New Century of Light",
+        April 15/16, 2013, Paris, France (including Addendum 1)
+      type: title-main
+    - content: Proceedings of CIE Centenary Conference "Towards a New Century of Light",
+        April 15/16, 2013, Paris, France (including Addendum 1)
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-x038-2013?product_id=1860287
+    docidentifier:
+    - content: CIE x038:2013
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '2013-06-01'
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

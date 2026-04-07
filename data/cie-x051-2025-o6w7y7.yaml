@@ -1,0 +1,100 @@
+---
+id: CIEx0512025o6w7y7
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'DAYLIGHT PERFORMANCE OF PERFORATED SOLAR SCREEN FACADES IN OFFICES: A
+    CASE STUDY'
+  type: title-main
+- content: 'DAYLIGHT PERFORMANCE OF PERFORATED SOLAR SCREEN FACADES IN OFFICES: A
+    CASE STUDY'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-o6w7y7?product_id=3039928
+docidentifier:
+- content: CIE x051:2025/o6w7y7
+  type: CIE
+  primary: true
+docnumber: x051:2025/o6w7y7
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Ranaer
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Harputluoğlu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: Z
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Kılıç
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Şener
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Yılmaz
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The use of a Perforated Solar Screen (PSS), as a second layer of Double Skin Façades, is an effective strategy for controlling excessive sunlight, particularly in fully-glazed buildings, while also enhancing the aesthetic appeal of the facades. PSS systems are also a key factor for optimizing daylight conditions that affect occupants’ visual comfort. However, there is a notable lack of studies focusing on the daylight performance of PSS facades in offices. For this reason, this study investigates the impact of daylighting on visual comfort conditions in offices with the use of PSS facades. This research evaluates the effects of various PSS design alternatives on visual comfort conditions in terms of daylight provision, glare, and view out as described in the EN 17037 standard. The results demonstrate the daylight performance of PSS systems regarding design alternatives that involve different PSS materials and positions in offices.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

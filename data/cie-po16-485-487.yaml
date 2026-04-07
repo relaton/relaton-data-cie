@@ -1,0 +1,91 @@
+---
+id: CIEPO16485487
+type: standard
+schema_version: v1.5.6
+title:
+- content: WHITE LIGHT LED SPECTRAL OPTIMIZATION IN UNDERWATER ILLUMINATION (PO16,
+    485-487)
+  type: title-main
+- content: WHITE LIGHT LED SPECTRAL OPTIMIZATION IN UNDERWATER ILLUMINATION (PO16,
+    485-487)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/white-light-led-spectral-optimization-in-underwater-illumination-po16-485-487?product_id=2016294
+docidentifier:
+- content: CIE PO16 485-487
+  type: CIE
+  primary: true
+docnumber: PO16 485-487
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Shen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      - language: en
+        script: Latn
+        initial: X
+      surname:
+        language: en
+        script: Latn
+        content: Lee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Tsuei
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    According to the experience, the spectral energy of lights that transmitted under the seawater was decayed at different depths, as well as the spectrum absorption issue of underwater illumination is discussed and a wide range of topics are covered in the marine field. Therefore, colour compensation of white light LEDs for reducing the true colour of underwater illumination is necessary. In this paper, we consider common parameters of seawater, such as salinity, concentration, temperature, refractive index and so on, a seawater model can be established, and the spectral energy change of LEDs can be also simulated and analysed. The simulation results showed the highly positive relationship between spectral energy decay, extinction coefficient and Mie scattering of sea water.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,91 @@
+---
+id: CIEx048PO15
+type: standard
+schema_version: v1.5.6
+title:
+- content: EVALUATION OF IMPEDANCE OF CABLES IN GONIOPHOTOMETRY
+  type: title-main
+- content: EVALUATION OF IMPEDANCE OF CABLES IN GONIOPHOTOMETRY
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-po15?product_id=2240829
+docidentifier:
+- content: CIE x048-PO15
+  type: CIE
+  primary: true
+docnumber: x048-PO15
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Pan
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Jiangen
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Li
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Qian
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Li
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Xiaoni
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In a goniophotometer system, it is often unavoidable to use long cables to connect power supply, electrical measuring instrument, and the device under test (DUT). The measurement errors caused by cable impedance should not be ignored. An equivalent electrical circuit model considering the cable impedance of a typical goniophotometer is established in this paper. The measurement errors caused by the cable impedance are analysed by simulation. In DC and low frequency circuits, the cable impedance is almost resistive, while the inductive impedance of cables is significant and may lead to considerable errors when frequency is above 1 kHz in the circuits. Cable solutions in goniophotometry are introduced and recommended.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

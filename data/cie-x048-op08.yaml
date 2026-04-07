@@ -1,0 +1,81 @@
+---
+id: CIEx048OP08
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'DESIGN FRAMEWORK FOR LIGHTING AND OCCUPATIONAL WELL-BEING IN UNDERGROUND
+    SPACES: CASE STUDY IN PYHÄSALMI MINE'
+  type: title-main
+- content: 'DESIGN FRAMEWORK FOR LIGHTING AND OCCUPATIONAL WELL-BEING IN UNDERGROUND
+    SPACES: CASE STUDY IN PYHÄSALMI MINE'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op08?product_id=2240685
+docidentifier:
+- content: CIE x048-OP08
+  type: CIE
+  primary: true
+docnumber: x048-OP08
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Pihlajaniemi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Pujol
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Liikkanen
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In underground spaces, lack of daylight may produce disorders in the biological clock of workers and have many negative physiological and psychological effects. Besides the traditional means of illumination, new LED lighting technologies, which allow the dynamic changes of the lighting intensity and spectral composition of white light, provide means to support workers daily rhythm with circadian lighting. The effects of lighting, however, are not only physiological, and there are several other factors related to lighting as a design task while the human experience of light is multifaceted. This paper illustrates the design problematics of lighting environment of underground workspaces through a case study project in Pyhasalmi mine, Finland. The paper proposes a holistic design framework for lighting, which supports occupational well-being in underground spaces, based on the results from the case study with realized intelligent lighting pilot environment where user experiences were evaluated with semi-structural interviews.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

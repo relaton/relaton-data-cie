@@ -1,0 +1,93 @@
+---
+id: CIEx050PO002
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'THE EFFECT OF VARIOUS LED LIGHT HUES AND COLOR SATURATION ON STRESS MITIGATION
+    FOR OFFICE WORKERS: AN EXPERIMENTAL STUDY'
+  type: title-main
+- content: 'THE EFFECT OF VARIOUS LED LIGHT HUES AND COLOR SATURATION ON STRESS MITIGATION
+    FOR OFFICE WORKERS: AN EXPERIMENTAL STUDY'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po002?product_id=2579040
+docidentifier:
+- content: CIE x050-PO002
+  type: CIE
+  primary: true
+docnumber: x050-PO002
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Asarasri
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Suprabha
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Ounjai
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Bstieler
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Currently, office workers encounter various stress issues, especially in the workplace. Thus, more design research for stress relief is crucial. Previous research proposed that the colour light can influence human emotion, especially blue and green light, which showed the effect of stress mitigation. Therefore, this study examines how characteristics of coloured lighting design in the resting area of modern workplaces affect stress reduction for office workers. In this within-subjects experiment, fifty volunteers in the early career age range were asked to wear GSR sensors on their index and middle fingers to measure skin conductance during the experiment. Participants performed n-back tasks to induce stress; subsequently, rest under one of the five pre-set ambient lighting scenes. The results indicated that both hues and saturation of colour lighting impacted stress recovery differently. A low-saturated blue light appeared to reduce stress better than other lighting scenes. Interestingly, the skin conductance results also aligned with self-assessed stress levels. Also, the questionnaire about the most and least relaxing lighting scenes showed the influence of individual preferences or familiarities, contrasting with the self-assessed stress levels. This research shows the potential of colour lighting applications to optimize the benefit of relaxing areas in modern workplaces and enhance office workers' quality of life.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

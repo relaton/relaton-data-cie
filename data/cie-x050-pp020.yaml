@@ -1,0 +1,93 @@
+---
+id: CIEx050PP020
+type: standard
+schema_version: v1.5.6
+title:
+- content: INVESTIGATING THE EVOLUTION OF ROAD SURFACE DESCRIPTORS ACCORDING TO OBSERVATION
+    ANGLES USING A DATABASE OF THE REFLECTION PROPERTIES OF URBAN MATERIALS
+  type: title-main
+- content: INVESTIGATING THE EVOLUTION OF ROAD SURFACE DESCRIPTORS ACCORDING TO OBSERVATION
+    ANGLES USING A DATABASE OF THE REFLECTION PROPERTIES OF URBAN MATERIALS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-pp020?product_id=2578646
+docidentifier:
+- content: CIE x050-PP020
+  type: CIE
+  primary: true
+docnumber: x050-PP020
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Saint-Jacques
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Bremond
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Eymond
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Morvan
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    For road lighting design, road surface descriptors like the degree of lightness Q0 and specularity S1 are derived from reflection properties (or BRDF) of road surfaces. However, these BRDF are based on outdated road surface characteristics, and are also partial (they are called r-tables) because only the motorist’s 1° observation angle is considered. Thus, the need to have full BRDF measurements of current road surfaces available. This paper proposes to use a recently released open source database of measured whole BRDF by means of our in-lab gonioreflectometer to investigate the performance of Q0 and S1. We first compare descriptors obtained from measured and interpolated r-tables and find a good accuracy, especially for Q0. Then we propose a tentative model for these descriptors function of observation angle, and find quite an accurate fitting. Finally, we suggest a methodology for the classification of road surface materials in terms of Q0 and S1.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

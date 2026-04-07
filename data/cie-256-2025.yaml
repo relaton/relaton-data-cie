@@ -1,0 +1,45 @@
+---
+id: CIE2562025
+type: standard
+schema_version: v1.5.6
+title:
+- content: Measurement of Human Skin Colour
+  type: title-main
+- content: Measurement of Human Skin Colour
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-256-2025?product_id=3036505
+docidentifier:
+- content: CIE 256:2025
+  type: CIE
+  primary: true
+- content: '9783902842671'
+  type: ISBN
+docnumber: 256:2025
+date:
+- type: published
+  at: '2025'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Human skin colour is one of the most familiar colours that humans are exposed to, and this familiarity necessitates a strict measurement protocol and accurate colour reproduction in a wide range of applications. The measurement of human skin colour, however, can be problematic due to the structure of the human skin, and measurements made using different techniques can show some variations. In this report, the variability in human skin colour measurement is described and protocols are recommended for good measurement practice. Measurements that were derived using different instruments and different instrument settings, are compared and presented as examples of the measurement variability. To support this work, a human skin colour database has been established that includes nine sets of measurements, covering subjects from different national or ethnic groups, genders, ages, and measurements from different body locations, as well as the use of different instruments. This database represents over 10 000 sets of spectral measurements. Finally, a set of recommendations is presented to aid the decision as to how to best measure the colour of human skin.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

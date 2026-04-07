@@ -1,0 +1,106 @@
+---
+id: CIEx0512025g3akta
+type: standard
+schema_version: v1.5.6
+title:
+- content: THE PHANTOM ARRAY EFFECT EXPLAINED USING SIMPLE FORMULAS
+  type: title-main
+- content: THE PHANTOM ARRAY EFFECT EXPLAINED USING SIMPLE FORMULAS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-g3akta?product_id=3039161
+docidentifier:
+- content: CIE x051:2025/g3akta
+  type: CIE
+  primary: true
+docnumber: x051:2025/g3akta
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Martinsons
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: X
+      surname:
+        language: en
+        script: Latn
+        content: Kong
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: I
+      surname:
+        language: en
+        script: Latn
+        content: Heynderickx
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Tengelin
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Kallberg
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    https://doi.org/10.25039/x051.2025/g3aktaThe phantom array effect is a visual effect perceived by a human observer when making rapid eye movements across a light source exhibiting temporal light modulation at frequencies between about one hundred Hz and a few kHz: a series of multiple spurious images of the light source is seen in the direction of the eye saccade. This phenomenon may create discomfort when accomplishing visual tasks involving eye movements, such as driving or walking. In this paper, we provide a simple description of the phantom array effect by deriving formulas predicting its spatial and temporal features perceived in the field of view. This approach provides a framework to study how the visibility of the phantom array effect is influenced by the shape of the source, its luminance, the surrounding and background luminance, the modulation frequency and waveform, and the individual visual acuity.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

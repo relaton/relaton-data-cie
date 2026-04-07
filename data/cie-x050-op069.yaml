@@ -1,0 +1,81 @@
+---
+id: CIEx050OP069
+type: standard
+schema_version: v1.5.6
+title:
+- content: A NOVEL METHOD FOR FIELD MEASUREMENTS OF LIGHT DISTRIBUTION OF MODERN VEHICLE
+    HEADLAMPS
+  type: title-main
+- content: A NOVEL METHOD FOR FIELD MEASUREMENTS OF LIGHT DISTRIBUTION OF MODERN VEHICLE
+    HEADLAMPS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op069?product_id=2578622
+docidentifier:
+- content: CIE x050-OP069
+  type: CIE
+  primary: true
+docnumber: x050-OP069
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Nilsson Tengelin
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Källberg
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Lindgren
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This paper presents a novel method for measuring the light distribution of vehicle headlamps. The measurements are performed in the field and does not require access to the lamp control system. An imaging luminance measuring device (ILMD) is used to capture the luminance distribution from the headlamps when projected onto a light grey façade at a distance of 25 m. After alignment, background correction and removal of artefacts (due to lens distortions and façade construction), the luminance images are transformed into high-resolution luminous intensity distributions for the car headlamps. Fifteen modern cars with different headlamp types were evaluated using this method. The measurements revealed significant variations in both intensity and distribution among different lamps and car models. The measured light distributions were used to assess glare situations and evaluate the legibility and visibility of road signs.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

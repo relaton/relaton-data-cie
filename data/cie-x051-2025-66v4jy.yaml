@@ -1,0 +1,95 @@
+---
+id: CIEx051202566v4jy
+type: standard
+schema_version: v1.5.6
+title:
+- content: ASSESSMENT OF THE VALIDITY OF THE CURRENT MINIMAL TEST DISTANCES OF (O)LED
+    LUMINAIRES
+  type: title-main
+- content: ASSESSMENT OF THE VALIDITY OF THE CURRENT MINIMAL TEST DISTANCES OF (O)LED
+    LUMINAIRES
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-66v4jy?product_id=3039147
+docidentifier:
+- content: CIE x051:2025/66v4jy
+  type: CIE
+  primary: true
+docnumber: x051:2025/66v4jy
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Dotreppe
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Van
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: den Bossche
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Jacobs
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    https://doi.org/10.25039/x051.2025/66v4jyStandardisation bodies including the CIE and IESNA propose several test distances for far-field photometry based on the applicability of the inverse square law. Depending on the beam width, luminaire size and configuration, various guidelines regarding the minimal test distance are proposed. Recent literature suggests some norms are overoptimistic and larger far-field distances are required. Furthermore, the proposed test distances are only based on observations along the optical axis, whereas a strong angular variation of the limiting photometric distance was recently demonstrated. Therefore, this work presents a comparison between the regulations and the observations made in recent literature, assessing the application region of the standardised test distances as a function of the luminaire characteristics and the location of the measurement equipment.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

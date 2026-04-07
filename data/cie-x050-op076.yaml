@@ -1,0 +1,81 @@
+---
+id: CIEx050OP076
+type: standard
+schema_version: v1.5.6
+title:
+- content: TOWARDS A GENERALIZED MODEL FOR THE DETECTION OF NON-UNIFORMITIES IN LUMINANCE
+    DISTRIBUTIONS
+  type: title-main
+- content: TOWARDS A GENERALIZED MODEL FOR THE DETECTION OF NON-UNIFORMITIES IN LUMINANCE
+    DISTRIBUTIONS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op076?product_id=2578624
+docidentifier:
+- content: CIE x050-OP076
+  type: CIE
+  primary: true
+docnumber: x050-OP076
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Schier
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Niedling
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Schierz
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    An objective evaluation of the uniformity of luminance distributions has been of strong interest in recent years. While it takes no effort for humans to detect profound non-uniformities, the development of an objective measurement method independent of application has posed to be a great challenge.Recently the authors proposed a functional model that mimics the first contrast processing steps of the human visual system to predict the visibility of non-uniformities. However, this model does not regard stimulus area dependent effects which are known to significantly influence the contrast threshold. A divisive normalization stage is added to overcome this problem.The simulated model results are in accordance with psychophysical measurements of periodical stimuli but show differences to measured data for stimuli with a sharp and closed contour. A change in model structure as well as further enhancement is needed for the goal of evaluating luminance distributions of arbitrary shape.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

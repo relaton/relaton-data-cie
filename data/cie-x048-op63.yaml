@@ -1,0 +1,79 @@
+---
+id: CIEx048OP63
+type: standard
+schema_version: v1.5.6
+title:
+- content: CONCEPTUAL FRAMEWORK OF CULTURAL BACKGROUND IN THE LIT ENVIRONMENT
+  type: title-main
+- content: CONCEPTUAL FRAMEWORK OF CULTURAL BACKGROUND IN THE LIT ENVIRONMENT
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op63?product_id=2240816
+docidentifier:
+- content: CIE x048-OP63
+  type: CIE
+  primary: true
+docnumber: x048-OP63
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Izmir Tunahan
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Altamirano
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Unwin Teji
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In environmental terms, culture represents the climatic and indoor conditions people have experienced during a significant part of their life. Consequently, people exposed to different cultures might have different expectations of the lighting environment. Knowing the lighting expectations due to cultural experiences have numerous advantages; it could help meet the occupants needs and preferences and provide occupant satisfaction, reducing unnecessary energy consumption in the built environment. This paper aims to summarise a systematic review to create a conceptual framework of cultural background in the lit environment, which could help understand the impact of cultural background on daylight perception and expectation. This review highlighted that cultural background in lighting environment should be evaluated considering (1) the ethnicity and/or physiological characteristics of the individual eyes, (2) the area (luminance environment) where people used to live (3) the luminance environment they were recently exposed to and (4) the socio-cultural background of individuals. Future research should further test these components together and separately to investigate which component or combination is more influential on daylight perception.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

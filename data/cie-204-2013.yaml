@@ -1,0 +1,65 @@
+---
+id: CIE2042013
+type: standard
+schema_version: v1.5.6
+title:
+- content: Methods for Re-defining CIE D Illuminants
+  type: title-main
+- content: Methods for Re-defining CIE D Illuminants
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-204-2013?product_id=1858805
+docidentifier:
+- content: CIE 204:2013
+  type: CIE
+  primary: true
+- content: '9783902842459'
+  type: ISBN
+docnumber: 204:2013
+date:
+- type: published
+  at: '2013-05-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This Technical Report gives an overview of the construction of the tables describing
+    CIE D illuminants, and proposes two methods to smooth the daylight illuminant
+    spectral power distributions. The first method keeps the values originally determined
+    at the integer 10 nm intervals unchanged and interpolates between these fixed points
+    to get smooth (twice differentiable) curves (minimal smoothing method). A second
+    alternative method smoothes more strongly, cutting fine structure maxima and minima
+    of the spectrum (highly smoothing method).
+
+    Examples show the consequences of both methods, pointing out that smoothing has
+    little influence on colorimetric accuracy.
+
+    The Technical Committee recommends testing the provided tables based on the two
+    smoothing algorithms in practice and to urge users to test data of Table 4 which are
+    based on the highly smoothing method, and ask instrument constructors to test the
+    method for building D illuminant simulators with the eventual outcome of defining a
+    CIE D50 and D65 standard source.
+
+    The publication provides a link to two Excel files: one for calculation of the SPD of a
+    daylight illuminant for the different interpolation methods described in this report after
+    input of a required CCT and another one providing the tables of the report .
+    The publication is written in English, with a short summary in French and German.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

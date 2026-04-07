@@ -1,0 +1,94 @@
+---
+id: CIEPO9411221134
+type: standard
+schema_version: v1.5.6
+title:
+- content: INFLUENCE FACTORS FOR DISCOMFORT GLARE OF HEADLAMPS AND A NEW MODEL FOR
+    ITS ESTIMATION (PO94, 1122-1134)
+  type: title-main
+- content: INFLUENCE FACTORS FOR DISCOMFORT GLARE OF HEADLAMPS AND A NEW MODEL FOR
+    ITS ESTIMATION (PO94, 1122-1134)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/influence-factors-for-discomfort-glare-of-headlamps-and-a-new-model-for-its-estimation-po94-1122-1134?product_id=2011228
+docidentifier:
+- content: CIE PO94 1122-1134
+  type: CIE
+  primary: true
+docnumber: PO94 1122-1134
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Voelker
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Freyer
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Raphael
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Meyborg
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The first part of this paper focuses on the analysis of influence factors of discomfort glare. The analysis is based on a literature review by the author and numerous studies carried out from the mentioned students until 2006. Most of the results are unpublished. The analysis shows that the illuminance at the eye strongly influences glare perception. The luminance of the glare source has a high significant effect as well. Some more recent studies findings describe the impact of spectral power distribution. Additionally, the influence of lamp type, luminance distribution of glare source, age and experience of the driver, as well as used methods and test stimuli are considered. After the review and analysis, a new model for the estimation of discomfort glare of headlamps is discussed.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

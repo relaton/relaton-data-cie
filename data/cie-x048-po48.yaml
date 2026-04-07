@@ -1,0 +1,115 @@
+---
+id: CIEx048PO48
+type: standard
+schema_version: v1.5.6
+title:
+- content: DEVELOPMENT OF NEW STANDARDS FOR MUSEUM LIGHTING
+  type: title-main
+- content: DEVELOPMENT OF NEW STANDARDS FOR MUSEUM LIGHTING
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-po48?product_id=2240855
+docidentifier:
+- content: CIE x048-PO48
+  type: CIE
+  primary: true
+docnumber: x048-PO48
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Bartseva
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Shakhparunyants
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Chernyak
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      - language: en
+        script: Latn
+        initial: I
+      surname:
+        language: en
+        script: Latn
+        content: Sh. Stolyarevskaya
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      - language: en
+        script: Latn
+        initial: I
+      surname:
+        language: en
+        script: Latn
+        content: Rozovskiy
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The new standards for museum lighting development was based on data collection by means of questionnaires, processing and analysis of subjective assessments of art historians, museum workers, research results of restorers and expert visitors, along with objective, physical measurements of photometric parameters of lighting installations in selected exhibition halls of the most famous museums in Russia.Based on the studies performed, national standards of both permanent and preliminary nature were prepared and introduced in 2020 by institute VNISI named after S.I. Vavilov.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

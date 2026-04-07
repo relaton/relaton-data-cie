@@ -1,0 +1,77 @@
+---
+id: CIEOP52385395
+type: standard
+schema_version: v1.5.6
+title:
+- content: |-
+    REFINING THE EFFECTIVE INTENSITY MODEL AT THRESHOLD AND SUPRA-THRESHOLD FOR USE IN MARINE VISUAL SIGNALS
+
+      (OP52, 385-395)
+  type: title-main
+- content: |-
+    REFINING THE EFFECTIVE INTENSITY MODEL AT THRESHOLD AND SUPRA-THRESHOLD FOR USE IN MARINE VISUAL SIGNALS
+
+      (OP52, 385-395)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/refining-the-effective-intensity-model-at-threshold-and-supra-threshold-for-use-in-marine-visual-signals-op52-385-395?product_id=2010524
+docidentifier:
+- content: CIE OP52 385-395
+  type: CIE
+  primary: true
+docnumber: OP52 385-395
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: I
+      surname:
+        language: en
+        script: Latn
+        content: Williams
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: I
+      surname:
+        language: en
+        script: Latn
+        content: Tutt
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Ground-breaking experiments have been conducted over the last few years in order to refine the effective and apparent intensity models that are key to understanding how flashing visual signals are perceived by mariners. Such refinement means that a visual signalling service can potentially be provided in a more efficient manner without unduly underestimating its performance. This paper summarises the method, results and discussion of three separate experiments conducted recently by Research and Radionavigation (R&RNAV) to refine the models used by maritime users, authorities and industry. Note that the term 'effective intensity' is only valid at the threshold of perception. Whilst the term is also used in the marine aids-to-navigation industry, it should be noted that the definitions differ due to the higher illuminance threshold at the eye when calculating the luminous range of a light for marine use. Therefore, the term 'apparent intensity' is used in this paper to quantify supra-threshold conspicuity applicable to marine aids-to-navigation usage.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

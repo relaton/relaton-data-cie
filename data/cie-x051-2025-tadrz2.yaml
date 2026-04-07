@@ -1,0 +1,105 @@
+---
+id: CIEx0512025tadrz2
+type: standard
+schema_version: v1.5.6
+title:
+- content: THE EFFECTS OF THE INTERIOR SURFACE REFLECTANCE AND COLOUR ON THE RELATIONSHIP
+    BETWEEN MEAN ROOM SURFACE EXITANCE AND SPATIAL BRIGHTNESS
+  type: title-main
+- content: THE EFFECTS OF THE INTERIOR SURFACE REFLECTANCE AND COLOUR ON THE RELATIONSHIP
+    BETWEEN MEAN ROOM SURFACE EXITANCE AND SPATIAL BRIGHTNESS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-tadrz2?product_id=3040028
+docidentifier:
+- content: CIE x051:2025/tadrz2
+  type: CIE
+  primary: true
+docnumber: x051:2025/tadrz2
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Tsushima
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Masuzawa
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Yamato
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Nomura
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Iwata
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This study investigated the effect of the interior surface reflectance and wall colour on the relationship between mean room surface exitance (MRSE) and the spatial brightness, which has been excluded from published studies. Ten participants rated a total of thirteen light scenes, each delivered with seven different wall colours; four chromatic interior colours that are commonly used in offices and three achromatic interior colours with the same reflectance, and two levels of MRSE, using a scale model. The wall illuminance was controlled so that the MRSE was constant regardless of the surface reflectance. As a result of this experiment in the realistic range of MRSE and horizontal illuminance, it was shown that the relationship between MRSE and spatial brightness were influenced by both the interior surface reflectance and the interior colour.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

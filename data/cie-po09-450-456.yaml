@@ -1,0 +1,92 @@
+---
+id: CIEPO09450456
+type: standard
+schema_version: v1.5.6
+title:
+- content: USING MULTI-LED SYSTEM TO INCREASE VIVIDNESS OF TEXTILES (PO09, 450-456)
+  type: title-main
+- content: USING MULTI-LED SYSTEM TO INCREASE VIVIDNESS OF TEXTILES (PO09, 450-456)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/using-multi-led-system-to-increase-vividness-of-textiles-po09-450-456?product_id=2016287
+docidentifier:
+- content: CIE PO09 450-456
+  type: CIE
+  primary: true
+docnumber: PO09 450-456
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Su
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Wei-Chih
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Chou
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Ching-Ju
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Hung-Shing
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The aim of this study is to develop an intelligent lighting system applying in museums. A multi-LED system is used to produce reference source and test sources. Four factors in the multi-LED system were manipulated, which were predominant-hue emphasizing spectrum, vividnesseffect spectrum, sample pattern, and sample colour combination. The results indicated when the illuminants with the special SPDs illuminate on textile samples, the colour-vividness effect of the textiles can be emphasized. It is concluded when an observer watches the textile samples under the illuminant with colour-vividness effect, then subjects can feel vivid, pleasant, as well as clear simultaneously.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

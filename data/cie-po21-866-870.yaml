@@ -1,0 +1,74 @@
+---
+id: CIEPO21866870
+type: standard
+schema_version: v1.5.6
+title:
+- content: INFLUENCE OF A GLARE SOURCES SPECTRUM ON DISCOMFORT GLARE
+  type: title-intro
+- content: |-
+    A PHYSIOLOGICAL EXPLANATION FOR A PSYCHOLOGICAL PHENOMENON
+     (PO21, 866-870)
+  type: title-main
+- content: |-
+    INFLUENCE OF A GLARE SOURCES SPECTRUM ON DISCOMFORT GLARE - A PHYSIOLOGICAL EXPLANATION FOR A PSYCHOLOGICAL PHENOMENON
+     (PO21, 866-870)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/influence-of-a-glare-sources-spectrum-on-discomfort-glare-a-physiological-explanation-for-a-psychological-phenomenon-po21-866-870?product_id=2011161
+docidentifier:
+- content: CIE PO21 866-870
+  type: CIE
+  primary: true
+docnumber: PO21 866-870
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Niedling
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Volker
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    A laboratory study was conducted to determine the physiological mechanism for increased discomfort glare caused by increased short wavelength radiance. For this, a spectrally free adjustable light source was used as glare source. Thus, an specific stimulation of different receptors with, for this purpose specially generated, synthetic spectral power distributions was possible. In this study, the SWS-cones and rods were determined as potential candidates for the absorption of the short wavelength radiance and therefore possibly related to an intensified glare sensitivity for increased short wavelength radiance . To transfer the results in reality, realistic light sources were shown additionally. The subject?s task was to rate discomfort glare on a 9-point-scale. The experiment was run under mesopic conditions. The results of the synthetic spectra show no difference for the specific stimulation of both receptor-types. The results of the realistic light sources indicate that the SWS-cones play a role in the physiological mechanism for the studied / mentioned phenomenon.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

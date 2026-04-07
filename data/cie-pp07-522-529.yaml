@@ -1,0 +1,82 @@
+---
+id: CIEPP07522529
+type: standard
+schema_version: v1.5.6
+title:
+- content: VISION EXPERIMENT ON CHROMA SATURATION PREFERENCE IN DIFFERENT HUES (PP07,
+    522-529)
+  type: title-main
+- content: VISION EXPERIMENT ON CHROMA SATURATION PREFERENCE IN DIFFERENT HUES (PP07,
+    522-529)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/vision-experiment-on-chroma-saturation-preference-in-different-hues-pp07-522-529?product_id=2011265
+docidentifier:
+- content: CIE PP07 522-529
+  type: CIE
+  primary: true
+docnumber: PP07 522-529
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Ohno
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Oh
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Kwak
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Increase of chroma is known to be a major factor for colour quality preference in lighting, and gamut area measures are often used to evaluate preference aspects. However, gamut area accounts for chroma differences equally for all hue directions. Experiences in lighting indicates that red is most dominant in such colour quality preference but experimental data has not been available. Vision experiments were conducted to evaluate different effects of chroma shifts in different hue directions on colour quality preference, using NIST Spectrally Tunable Lighting Facility simulating an interior room. 19 subjects viewed various fruits, vegetables, and their skin tones, under illumination of 11 different spectra of different gamut shapes. The 11 spectra were presented as pairs in all combinations, at correlated colour temperatures (CCT) of 2700 K, 3500 K, 5000 K, (Duv= 0) and 3500 K (Duv= -0.015). The average results show that chroma increases of red ('C*ab ≈ 5 to 15) has the largest effect, green ('C*ab ≈ 15) has the second effect, and yellow's effect is insignificant, in subjects' preference. The results will be useful to develop colour preference metrics that correlates well with perceived colour quality.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,79 @@
+---
+id: CIEx0512025ak4frj
+type: standard
+schema_version: v1.5.6
+title:
+- content: DIAGNOSING HUMAN-LIGHT INTERACTIONS WITH THE AID OF 360° HDR IMAGING
+  type: title-main
+- content: DIAGNOSING HUMAN-LIGHT INTERACTIONS WITH THE AID OF 360° HDR IMAGING
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-ak4frj?product_id=3039876
+docidentifier:
+- content: CIE x051:2025/ak4frj
+  type: CIE
+  primary: true
+docnumber: x051:2025/ak4frj
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: He
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Yan
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Cai
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This study presents a 360° field of view high dynamic range (HDR) lighting measurement method using a panoramic camera to assess human-light interactions in both field and computer-simulated environments. A technical workflow was developed to measure lighting at eye level, enabling multi-metric analysis for diagnosing visual exposure. Validation in an office setting showed high consistency between measured and simulated data (r = 0.976, mean bias error = 0.33%, RMSE = 7.69%), with only a 0.69% difference in total light exposure dose. Outdoor scenarios further illustrated the method's ability to assess lighting quality. This technique provides a practical tool for monitoring light exposure to human eyes.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

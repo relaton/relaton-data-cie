@@ -1,0 +1,77 @@
+---
+id: CIEx0512025a45ehp
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'VISUAL PREFERENCE EVALUATION FOR LUMINA NIGHT WALK APPLICATION OF LIGHTING
+    PROJECTION IN VEGETATED ENVIRONMENT: A PLEASURE-AROUSAL-DOMINANCE (PAD) MODEL
+    PERSPECTIVE'
+  type: title-main
+- content: 'VISUAL PREFERENCE EVALUATION FOR LUMINA NIGHT WALK APPLICATION OF LIGHTING
+    PROJECTION IN VEGETATED ENVIRONMENT: A PLEASURE-AROUSAL-DOMINANCE (PAD) MODEL
+    PERSPECTIVE'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-a45ehp?product_id=3039875
+docidentifier:
+- content: CIE x051:2025/a45ehp
+  type: CIE
+  primary: true
+docnumber: x051:2025/a45ehp
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Hao
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Jiang
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Emotional responses to vegetation-based nighttime lighting remain poorly understood beyond basic colour–emotion associations. This study develops a spatialized PAD framework integrating hue composition, foliage chromaticity, and center–periphery colour placement. A pre-survey and laboratory experiment examined 32 lighting projection scenarios across green and yellow foliage substrates. Regression and affective typology analyses revealed that yellow and white lighting, especially when centrally projected onto yellow foliage, consistently enhanced Pleasure, Arousal, and Dominance. In contrast, cool-toned projections (blue, purple) suppressed affective scores, particularly under green foliage. Spatial asymmetry moderated these effects, with center–dominant warm hues amplifying engagement and peripheral cold tones dampening it. The findings establish a multidimensional model of affective lighting perception and offer design-level strategies for emotionally attuned nightscape environments.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

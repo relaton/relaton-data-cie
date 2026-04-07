@@ -1,0 +1,73 @@
+---
+id: CIEx048OP29
+type: standard
+schema_version: v1.5.6
+title:
+- content: DEFINITION MODIFICATIONS FOR TEMPORAL LIGHT MODULATION (FLICKER)
+  type: title-main
+- content: DEFINITION MODIFICATIONS FOR TEMPORAL LIGHT MODULATION (FLICKER)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op29?product_id=2240719
+docidentifier:
+- content: CIE x048-OP29
+  type: CIE
+  primary: true
+docnumber: x048-OP29
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Miller
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Veitch
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Terminology and concepts for temporal light modulation (TLM), commonly known as flicker, are defined and used inconsistently, even among researchers. A literature review by the authors has identified multiple meanings for multiple terms, so it is critical that a reader be able to translate from a single articles definitions to a more universal set. A simple example is that flicker is used interchangeably as the stimulus as well as the response to the stimulus, as well as the direct visual response for a specific range of modulation frequencies. This paper endeavours to clarify communication among stakeholders so that effective metrics can be developed to limit unwanted physiological, psychological, behavioural, and cognitive responses to TLM. Changes to the CIE International Lighting Vocabulary are recommended.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

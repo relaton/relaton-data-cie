@@ -1,0 +1,89 @@
+---
+id: CIEPO32579583
+type: standard
+schema_version: v1.5.6
+title:
+- content: INNOVATIVE PUPIL DETECTOR EQUIPMENT (PO32, 579-583)
+  type: title-main
+- content: INNOVATIVE PUPIL DETECTOR EQUIPMENT (PO32, 579-583)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/innovative-pupil-detector-equipment-po32-579-583?product_id=2016308
+docidentifier:
+- content: CIE PO32 579-583
+  type: CIE
+  primary: true
+docnumber: PO32 579-583
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: Z
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Lian
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: W
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Tseng
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: W
+      surname:
+        language: en
+        script: Latn
+        content: Whang
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The handheld pupil detector equipment provides medical personnel with a first step assessment of the condition of the patient. It can quickly determine the size of the pupil and provide accurate quantitative values for medical personnel. Initially evaluate the patient's central nervous system or drug reaction. It will increase the convenience of frontline medical staff and nurses in the future. We simulate the light source of the detector equipment using non-sequential ray tracing with eye model. The evaluation light source has enough intensity for the human eye to stimulate and observe the national standard of Photobiological safety and increase the contrast in image processing. The results confirm that the hardware device has the desired effect of detecting the pupil of the human eyes.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,47 @@
+---
+id: CIE2122014
+type: standard
+schema_version: v1.5.6
+title:
+- content: Guidance towards Best Practice in Psychophysical Procedures Used when Measuring
+    Relative Spatial Brightness
+  type: title-main
+- content: Guidance towards Best Practice in Psychophysical Procedures Used when Measuring
+    Relative Spatial Brightness
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-212-2014?product_id=1880890
+docidentifier:
+- content: CIE 212:2014
+  type: CIE
+  primary: true
+- content: '9783902842510'
+  type: ISBN
+docnumber: 212:2014
+date:
+- type: published
+  at: '2014-07-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This report reviews evidence for the procedures and other factors of experiments carried out to investigate relative spatial brightness, making recommendations of those aspects that ought to be considered as essential, or at least desirable, for best practice. These factors include the size and complexity of the visual field employed in trials, evaluation mode (separate, simultaneous, sequential or successive) and experimental biases associated with selection of stimulus range and response mode. Some of the issues raised will be considered, by some, to be obvious and already standard practice: unfortunately such awareness is not widespread. This report hence serves as a guide for those planning experiments to investigate spatial brightness. The proposals are presented as recommendations and not as compulsory. The report identifies those issues for which further research is desirable.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,79 @@
+---
+id: CIEx043OP01
+type: standard
+schema_version: v1.5.6
+title:
+- content: PERCEPTION OF ILLUMINATION WHITENESS (OP01, Pages 1-7)
+  type: title-main
+- content: PERCEPTION OF ILLUMINATION WHITENESS (OP01, Pages 1-7)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/perception-of-illumination-whiteness-op01-pages-1-7?product_id=1941802
+docidentifier:
+- content: CIE x043-OP01
+  type: CIE
+  primary: true
+docnumber: OP01 Pages 1-7
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Perz
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Baselmans
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Sekulovski
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Two perception experiments exploring the relation between chromaticity of illumination and perceived whiteness are presented. Relative whiteness was measured using a two alternative forced choice methodology with constant points. Adaptation to a point in between the forced choice stimuli was used. In the experiments, carried out with both expert and naive participants, it is demonstrated that the points that are perceived to be the whitest for CCTs of 2700 K, 4100 K, and 5000 K, are located 0.003 to 0.008 µ v below the BBL. Thus, there is a possibility of specifying a white body line to characterize light sources. However, a comparison of the results with the previously reported studies: Ohno (2014) and Rea (2011), points towards the need of more extensive discussions on basic questions and methodologies used.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

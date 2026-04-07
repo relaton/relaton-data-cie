@@ -1,0 +1,93 @@
+---
+id: CIEx0512025e7t6e3
+type: standard
+schema_version: v1.5.6
+title:
+- content: EFFECTIVENESS OF LIGHT IN ENHANCING WORKING MEMORY THROUGH MELANOPSIN STIMULATION
+    VARIES WITH AGING
+  type: title-main
+- content: EFFECTIVENESS OF LIGHT IN ENHANCING WORKING MEMORY THROUGH MELANOPSIN STIMULATION
+    VARIES WITH AGING
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-e7t6e3?product_id=3039158
+docidentifier:
+- content: CIE x051:2025/e7t6e3
+  type: CIE
+  primary: true
+docnumber: x051:2025/e7t6e3
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Lassalle
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Dubail
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Giuliani
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Arleo
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    https://doi.org/10.25039/x051.2025/e7t6e3Light is essential for vision but also regulates functions unrelated to image formation such as circadian rhythm, mood but also cognition. Short wavelengths of visible light have been shown to modulate alertness and working memory by activating intrinsically photosensitive retinal ganglion cells through a photopigment called melanopsin. Here, we investigated how this memory-enhancing effect of light varies with aging. We compared short wavelengths of visible light (blue) exposition and long wavelengths of visible light (red) exposition impact on short term and working memory and found that the most effective exposition light in enhancing working memory depended on aging (blue light for young individuals and red light for older individuals). In addition, electrodermal activity was found to be a possible good indicator of the amount of light perceived and received on the retina.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,89 @@
+---
+id: CIEPO13472476
+type: standard
+schema_version: v1.5.6
+title:
+- content: VISIBILITY OF ROAD MARKINGS ON A LED-LIGHTED FOGGY ROAD (PO13, 472-476)
+  type: title-main
+- content: VISIBILITY OF ROAD MARKINGS ON A LED-LIGHTED FOGGY ROAD (PO13, 472-476)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/visibility-of-road-markings-on-a-led-lighted-foggy-road-po13-472-476?product_id=2016291
+docidentifier:
+- content: CIE PO13 472-476
+  type: CIE
+  primary: true
+docnumber: PO13 472-476
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: W
+      surname:
+        language: en
+        script: Latn
+        content: Hsu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Hung
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    We have quantitatively studied the visibility of a man-made foggy road based on the on-site measurements of luminance images. The statistical distribution of effective sky luminance and effective extinction coefficient are used to study the performance of the foggy road lighted with various types of luminaire. The comparison results show that the visibility of the road with LED luminaires is somewhat better than those by HPS and MH lightings.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

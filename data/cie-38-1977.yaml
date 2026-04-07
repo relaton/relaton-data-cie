@@ -1,0 +1,45 @@
+---
+id: CIE381977
+type: standard
+schema_version: v1.5.6
+title:
+- content: Radiometric and photometric characteristics of materials and their measurement
+  type: title-main
+- content: Radiometric and photometric characteristics of materials and their measurement
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-38-1977?product_id=1209971
+docidentifier:
+- content: CIE 38-1977
+  type: CIE
+  primary: true
+- content: '9783901906695'
+  type: ISBN
+docnumber: 38-1977
+date:
+- type: published
+  at: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    If a material is irradiated, some portion of the incident optical radiation is reflected, another portion absorbed, and a third portion transmitted. This action of a material can be described by the physical, radiant, luminous or spectral characteristics of the material. Fluorescent materials can be described in the same manner but behave as sources for the portion of the radiation which is re-emitted as fluorescence. The terms reflected, transmitted, fluorescent, and total radiance or luminance can be used to describe fluorescent materials. The adjective spectral is used to distinguish spectral properties from radiant or luminous properties.The report is a survey of the processes which occur if a material is irradiated, and of the characteristics of the material which are important in determining its behavior in general and in a few special cases. The report also clarifies the definitions of characteristics and processes.The report is in English, German, and French. Photocopy Edition 1990.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

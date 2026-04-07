@@ -1,0 +1,91 @@
+---
+id: CIEOP169399
+type: standard
+schema_version: v1.5.6
+title:
+- content: CONTRAST RATIO STUDIES OF A LED-FLASHED TRAFFIC SIGN AT A FOGGY ROAD (OP16,
+    93-99)
+  type: title-main
+- content: CONTRAST RATIO STUDIES OF A LED-FLASHED TRAFFIC SIGN AT A FOGGY ROAD (OP16,
+    93-99)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/contrast-ratio-studies-of-a-led-flashed-traffic-sign-at-a-foggy-road-op16-93-99?product_id=2016210
+docidentifier:
+- content: CIE OP16 93-99
+  type: CIE
+  primary: true
+docnumber: OP16 93-99
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: W
+      surname:
+        language: en
+        script: Latn
+        content: Hsu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Hung
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Systematic studies on the visibility of a traffic sign on an experimental road in a foggy environment were performed. We defined contrast ratios Cpb and Cps as the level of fog and index of visibility of the traffic sign, respectively. The analysis of the experimental results show that Cps of passive state of the traffic sign is proportional to Cpb for all varieties of luminaire and headlights. While Cps of active state is linear with Cpb and the intercept and slope are fairly dependent on position and type of luminaire.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

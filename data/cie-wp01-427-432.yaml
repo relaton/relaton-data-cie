@@ -1,0 +1,130 @@
+---
+id: CIEWP01427432
+type: standard
+schema_version: v1.5.6
+title:
+- content: DETERMINATION OF ILLUMINANTS REPRESENTING TYPICAL WHITE LIGHT EMITTING
+    DIODES SOURCES (WP01, 427-432)
+  type: title-main
+- content: DETERMINATION OF ILLUMINANTS REPRESENTING TYPICAL WHITE LIGHT EMITTING
+    DIODES SOURCES (WP01, 427-432)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/determination-of-illuminants-representing-typical-white-light-emitting-diodes-sources-wp01-427-432?product_id=2011379
+docidentifier:
+- content: CIE WP01 427-432
+  type: CIE
+  primary: true
+docnumber: WP01 427-432
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Jost
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Ngo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Ferrero
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Poikonen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Pulli
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Thorseth
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Blattner
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Solid-state lighting (SSL) products are already in use by consumers and are rapidly gaining the lighting market. Especially, white Light Emitting Diode (LED) sources are replacing banned incandescent lamps and other lighting technologies in most general lighting applications. The aim of this work is to develop LED-based illuminants that describe typical white LED products based on their Spectral Power Distributions (SPDs). Some of these new illuminants will be recommended in the update of the CIE publication 15 on colorimetry with the other typical illuminants, and among them, some could be used to complement the CIE standard illuminant A for calibration use in photometry.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

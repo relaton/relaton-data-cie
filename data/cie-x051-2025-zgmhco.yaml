@@ -1,0 +1,70 @@
+---
+id: CIEx0512025zgmhco
+type: standard
+schema_version: v1.5.6
+title:
+- content: SPATIO-TEMPORAL DYNAMICS OF KOMOREBI LIGHT PATTERNS
+  type: title-main
+- content: SPATIO-TEMPORAL DYNAMICS OF KOMOREBI LIGHT PATTERNS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-zgmhco?product_id=3040047
+docidentifier:
+- content: CIE x051:2025/zgmhco
+  type: CIE
+  primary: true
+docnumber: x051:2025/zgmhco
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: Z
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Zhang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Andersen
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Komorebi, the dappled sunlight filtering through trees, offers restorative benefits in outdoor and indoor environments. While studies have examined its presence, movement, and changes in illuminance, a comprehensive understanding of its dynamic properties remains largely unexplored. This study develops a framework to quantify the spatial and temporal characteristics of Komorebi patterns. The methodology involves collecting Komorebi scenes, extracting their temporal and spatial features, and creating a multidimensional representation to capture these features effectively. The spatial feature analysis focuses on light pattern dispersion, intensity correlations, and spectral analysis of two-dimensional patterns; the temporal analysis, on the other hand, examines movement, directional changes, and brightness fluctuations. This study introduces a novel approach for categorizing and representing different typologies of Komorebi, and establishes a basis for examining people's responses to Komorebi patterns.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

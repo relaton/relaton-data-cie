@@ -1,0 +1,84 @@
+---
+id: CIEx050PO047
+type: standard
+schema_version: v1.5.6
+title:
+- content: DYNAMIC LIGHTING CONTROL FOR ENERGY SAVINGS BASED ON JUST NOTICEABLE DIFFERENCE
+    EXPERIMENT FOR MUSEUMS AND RETAIL
+  type: title-main
+- content: DYNAMIC LIGHTING CONTROL FOR ENERGY SAVINGS BASED ON JUST NOTICEABLE DIFFERENCE
+    EXPERIMENT FOR MUSEUMS AND RETAIL
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po047?product_id=2579100
+docidentifier:
+- content: CIE x050-PO047
+  type: CIE
+  primary: true
+docnumber: x050-PO047
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Araiza
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Siminovitch
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Suk
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The U.S. Department of Energy estimates that commercial buildings account for 18% of total U.S. energy consumption; of these commercial buildings, retail stores and museums have visitors who occupy the spaces only for short periods.This presents an opportunity for lighting design protocols to reduce energy consumption in museums and retail stores with dynamic controls that adjust the interior lights during periods of vacancy, thereby maximizing energy savings. The objective of this research was to identify possibilities where dimming lights are not noticeable to the eye through a full-scale human subject study based on Just Noticeable Difference (JND). By conducting a human subject study at full scale, this study found that dimming lights gradually with the implementation of ramp rates can significantly decrease human perception. Participants' ability to detect changes when dimming light levels up to 20% using ramp rates tested was 25% compared to 92% by switching.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

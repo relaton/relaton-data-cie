@@ -1,0 +1,63 @@
+---
+id: CIEx0202001
+type: standard
+schema_version: v1.5.6
+title:
+- content: Proceedings of the CIE Expert Symposium 2001 on Uncertainty Evaluation
+    Methods for Analysis of Uncertainties in Optical Radiation Measurement
+  type: title-main
+- content: Proceedings of the CIE Expert Symposium 2001 on Uncertainty Evaluation
+    Methods for Analysis of Uncertainties in Optical Radiation Measurement
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x020-2001?product_id=1210103
+docidentifier:
+- content: CIE x020-2001
+  type: CIE
+  primary: true
+- content: '9783901906060'
+  type: ISBN
+docnumber: x020-2001
+date:
+- type: published
+  at: '2001-01-23'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Since the appearance of the ISO publication \"Guide to the expression
+    of uncertainties in measurement\" (GUM), in 1993, many practitioners in metrology
+    have realised its limitations already indicated in the guide. The guide was intended
+    for general use, special requirements like that of radiometry, propagation of
+    distributions, multiple output, etc. are not met by it. Therefore, CIE dedicated
+    its 2001 Symposium to this hot topic and held a symposium at the CIE Central Bureau,
+    Vienna, Austria, on the 23 and 24 January 2001.\n\nTwo sections were organized:\n\n\n•Advances
+    in Uncertainty Evaluation\n•Key Comparisons and the Mutual Recognition Arrangement.
+    \n\nPapers in the first section used mainly theoretical approach to uncertainty
+    and among others dealt with uncertainties of quantities derived from spectral
+    sums, with numerical methods in colorimetry, with uncertainties in models having
+    more than one output quantity, with correlations in photometric measurements and
+    with GUM supplements. The second section was based on the practical implementation
+    of photometric and radiometric measurements mainly in the frame of key comparisons.
+    Papers were read on the BIPM key comparison database, on the objectivity of key
+    comparison reference values, on heuristic and optimal estimators in photon counting
+    and on the evaluation of photometric measurements in different national measurement
+    laboratories.\n\nThe Proceedings contain on 83 pages the text of the nine papers
+    read as well as reports on the discussions.\n              See more"
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

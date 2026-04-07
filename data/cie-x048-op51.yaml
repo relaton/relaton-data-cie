@@ -1,0 +1,81 @@
+---
+id: CIEx048OP51
+type: standard
+schema_version: v1.5.6
+title:
+- content: THE EFFECT OF LIGHTING ENVIRONMENT ON FACIAL EXPRESSION PERCEPTION IN VIDEO
+    TELECONFERENCING
+  type: title-main
+- content: THE EFFECT OF LIGHTING ENVIRONMENT ON FACIAL EXPRESSION PERCEPTION IN VIDEO
+    TELECONFERENCING
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op51?product_id=2240803
+docidentifier:
+- content: CIE x048-OP51
+  type: CIE
+  primary: true
+docnumber: x048-OP51
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Suzuki
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Takeuchi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Heo
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In this study, we investigated whether manipulating the lighting environment in videoconferencing changes the readability of facial expressions. In the experiment, the participants were asked to evaluate their impressions of a video that simulated the situation in a videoconference. A total of 12 lighting conditions were used, including three colour temperature conditions and four lighting directions conditions. As a result of the factor analysis, four factors were identified: "Clarity," "Dynamism," "Naturalness," and "Healthiness." The results of ANOVA showed that placing the lighting in front was effective for all factors. And in all of the factors, it showed that lighting from the front was effective for the participants. In addition, while lower colour temperature decreased clarity, it improved naturalness and healthiness and was particularly effective when the lighting was placed in front of the subject.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

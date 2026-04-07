@@ -1,0 +1,78 @@
+---
+id: CIEPP29673676
+type: standard
+schema_version: v1.5.6
+title:
+- content: |-
+    POSSIBLE HEALTH IMPLICATIONS OF LOW INFRARED LEVELS IN INDOOR ILLUMINATION
+     (PP29, 673-676)
+  type: title-main
+- content: |-
+    POSSIBLE HEALTH IMPLICATIONS OF LOW INFRARED LEVELS IN INDOOR ILLUMINATION
+     (PP29, 673-676)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/possible-health-implications-of-low-infrared-levels-in-indoor-illumination-pp29-673-676?product_id=2011360
+docidentifier:
+- content: CIE PP29 673-676
+  type: CIE
+  primary: true
+docnumber: PP29 673-676
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Whitehead
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Osborne
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    For a long time, near-infrared radiation (NIR) has seemed, from the perspective of illuminating engineering, to be both useless and harmless. For this reason, it has been largely ignored, and considered to be merely a wasteful by-product produced by some light sources. Two recent developments suggest it may be time to reconsider this. First, medical researchers have determined that NIR can be effective in treating certain diseases, primarily through absorption by the important metabolic enzyme cytochrome c oxidase. This raises the possibility that NIR, which is abundant in natural light, may be actually be healthful. The second development is that the average exposure of people to NIR is dropping through ongoing replacement of NIR-rich incandescent lamps by LED lamps that have been carefully engineered to emit very little NIR light. Here we argue that there is a need for careful studies to check whether NIR can and should beneficially contribute to health.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

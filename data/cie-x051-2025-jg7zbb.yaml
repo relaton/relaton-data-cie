@@ -1,0 +1,105 @@
+---
+id: CIEx0512025jg7zbb
+type: standard
+schema_version: v1.5.6
+title:
+- content: MODELLING CHANGES OVER TIME IN THE REFLECTIVE PROPERTIES OF DIFFERENT TYPES
+    OF ROAD SURFACES
+  type: title-main
+- content: MODELLING CHANGES OVER TIME IN THE REFLECTIVE PROPERTIES OF DIFFERENT TYPES
+    OF ROAD SURFACES
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-jg7zbb?product_id=3039918
+docidentifier:
+- content: CIE x051:2025/jg7zbb
+  type: CIE
+  primary: true
+docnumber: x051:2025/jg7zbb
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Mrad
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      surname:
+        language: en
+        script: Latn
+        content: Muzet
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Greffier
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Saint-Jacques
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Brémond
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The reflection properties of road surfaces depend on both the type of pavement and its age, but this dependence is not well known. This paper proposes a deterministic nonlinear model to predict the evolution of reflection properties of road surfaces up to 36 months, focusing on the macroscopic CIE descriptors Q0 and S1. Based on French experimental data, the model takes the age, the aggregate size and the colour of the road surface into account. Internal and external validations show that the model quite satisfactorily captures the overall trends in the evolution of Q0 and S1. These results provide a solid basis for improving the prediction of reflection properties of road surfaces, guiding future applications.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

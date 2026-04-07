@@ -1,0 +1,81 @@
+---
+id: CIEx050PO079
+type: standard
+schema_version: v1.5.6
+title:
+- content: A FIRST APPROACH TO A PREDICTIVE MODEL OF THE SKY SPECTRAL POWER DISTRIBUTION
+    IN THE MEDITERRANEAN AREA
+  type: title-main
+- content: A FIRST APPROACH TO A PREDICTIVE MODEL OF THE SKY SPECTRAL POWER DISTRIBUTION
+    IN THE MEDITERRANEAN AREA
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po079?product_id=2579123
+docidentifier:
+- content: CIE x050-PO079
+  type: CIE
+  primary: true
+docnumber: x050-PO079
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Aguilar-Carrasco
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: I
+      surname:
+        language: en
+        script: Latn
+        content: Acosta
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Domínguez-Amarillo
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The use of daylight inside buildings has always been a concern due to its impact on the users’ health and comfort. Thus, the definition of the sky luminance distribution under different situations becomes crucial and the International Commission on Illumination (CIE) establishes 15 different sky luminance distribution models. However, it allows the calculation of metrics related to visual comfort, but it is not enough to assess the impact of light on circadian rhythms, for which it is necessary to know the spectrum of the light source. The CIE establishes the standard illuminant series D, theoretical sources which represent the daylight spectra, but under the same sky conditions, different spectrum can be obtained depending on the location, solar position or orientation. This paper presents a first approach for defining a predictive model of the sky spectrum to determine it as a function of the sky type, solar position, location and orientation.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

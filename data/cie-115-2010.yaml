@@ -1,0 +1,96 @@
+---
+id: CIE1152010
+type: standard
+schema_version: v1.5.6
+title:
+- content: Lighting of Roads for Motor and Pedestrian Traffic
+  type: title-main
+- content: Lighting of Roads for Motor and Pedestrian Traffic
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-115-2010?product_id=1724306
+docidentifier:
+- content: CIE 115:2010
+  type: CIE
+  primary: true
+- content: '9783901906862'
+  type: ISBN
+docnumber: 115:2010
+date:
+- type: published
+  at: '2010-07-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+edition:
+  content: '2'
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This report is a revision and update of CIE 115-1995 "Recommendations for the
+    Lighting of Roads for Motor and Pedestrian Traffic". Since it was issued in 1995
+    power consumption and environmental aspects have become more important and at
+    the same time, the improved performance of luminaires and lamps, and especially
+    the introduction of electronic control gear, has made it possible to introduce adaptive
+    lighting for roads for motorised traffic, conflict areas and areas for pedestrians. A
+    structured model has been developed for the selection of the appropriate lighting
+    classes (M, C, or P), based on the luminance or illuminance concept, taking into
+    account the different parameters relevant for the given visual tasks. Applying for
+    example time dependent variables like traffic volume or weather conditions, the
+    model offers the possibility to use adaptive lighting systems.
+    The publication replaces CIE 115-1995 "Recommendations for the Lighting of Roads
+    for Motor and Pedestrian Traffic".
+                  See more
+relation:
+- type: updates
+  bibitem:
+    title:
+    - content: Recommendations for the lighting of roads for motor and pedestrian
+        traffic
+      type: title-main
+    - content: Recommendations for the lighting of roads for motor and pedestrian
+        traffic
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-115-1995?product_id=1210038
+    docidentifier:
+    - content: CIE 115-1995
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '1995-01-01'
+- type: updates
+  bibitem:
+    title:
+    - content: International recommendations for motorway lighting
+      type: title-main
+    - content: International recommendations for motorway lighting
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-023-1973?product_id=1210137
+    docidentifier:
+    - content: CIE 023-1973
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '1973-01-01'
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

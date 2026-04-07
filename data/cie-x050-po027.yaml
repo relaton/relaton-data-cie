@@ -1,0 +1,57 @@
+---
+id: CIEx050PO027
+type: standard
+schema_version: v1.5.6
+title:
+- content: 'TEMPORAL LIGHT MODULATION (“FLICKER”): A SET OF WAVEFORM AND METRIC TARGETS
+    FOR INDUSTRY DISCUSSION'
+  type: title-main
+- content: 'TEMPORAL LIGHT MODULATION (“FLICKER”): A SET OF WAVEFORM AND METRIC TARGETS
+    FOR INDUSTRY DISCUSSION'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po027?product_id=2579077
+docidentifier:
+- content: CIE x050-PO027
+  type: CIE
+  primary: true
+docnumber: x050-PO027
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Miller
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    Temporal light modulation (TLM) is once again a consideration in almost all lighting applications, due to widespread adoption of LED sources and their driving electronics. A subset of LED lighting systems delivers problematic TLM, often in specific types of residential, commercial, outdoor, and vehicular luminaires. Certain TLM waveforms and viewing conditions can result in distraction and disorientation, cognitive effects, and serious health consequences in some populations. These may occur with or without conscious TLM visibility.Existing metrics for the three visual responses to TLM have limitations. PstLM calculations for 3 Hz to 80 Hz produce inconsistent results; the stroboscopic visibility measure (SVM) extends only from 80 Hz to 2000 Hz and may overpredict the stroboscopic effect visibility at frequencies ≥ 500 Hz; and no phantom array visibility measure exists for regions ≥ 500 Hz where its visibility may exceed that of the stroboscopic effect. Guidelines are needed now to protect health and comfort: this paper proposes a provisional set for industry discussion.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

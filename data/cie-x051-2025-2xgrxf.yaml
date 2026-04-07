@@ -1,0 +1,81 @@
+---
+id: CIEx05120252xgrxf
+type: standard
+schema_version: v1.5.6
+title:
+- content: INVESTIGATION OF THE MEASUREMENT ERROR DUE TO THE POSITION OF THE BAFFLE
+    ON THE 2Π GEOMETRY INTEGRATING SPHERE PHOTOMETER
+  type: title-main
+- content: INVESTIGATION OF THE MEASUREMENT ERROR DUE TO THE POSITION OF THE BAFFLE
+    ON THE 2Π GEOMETRY INTEGRATING SPHERE PHOTOMETER
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-2xgrxf?product_id=3039585
+docidentifier:
+- content: CIE x051:2025/2xgrxf
+  type: CIE
+  primary: true
+docnumber: x051:2025/2xgrxf
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Aoyagi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Ohkubo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Yamauchi
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The integrating sphere has been used to measure the total flux of various types of light sources, but the measurement error caused by the optical design was not negligible. In this study, the measurement error with respect to the lamp beam angle was investigated based on a 2π geometric integrating sphere photometer model with the spatial response distribution function (SRDF) in the sphere was calculated by optical simulation. This study investigates two distinct types of sphere model (A and B), and the SRDF exhibited unique behaviours depending on each model. Moreover, the evaluation of each sphere utilising a variety of light distribution sources indicated that sphere type should be employed depending on purpose. Type A demonstrated the capacity to measure overall beam angle with decent accuracy. In contrast, Type B showed to achieve near-perfect accuracy for angle exceeding 50°, but their performance deteriorates significantly for angle narrower than this angle.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,107 @@
+---
+id: CIEPO10311631167
+type: standard
+schema_version: v1.5.6
+title:
+- content: |-
+    THE EFFECT OF SPECTRUM TUNABLE LIGHTING ON THE ELDERLY PATIENTS' SLEEP QUALITY AND DAYTIME ALERTNESS
+
+     (PO103,1163-1167)
+  type: title-main
+- content: |-
+    THE EFFECT OF SPECTRUM TUNABLE LIGHTING ON THE ELDERLY PATIENTS' SLEEP QUALITY AND DAYTIME ALERTNESS
+
+     (PO103,1163-1167)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/the-effect-of-spectrum-tunable-lighting-on-the-elderly-patients-sleep-quality-and-daytime-alertness-po103-1163-1167?product_id=2011253
+docidentifier:
+- content: CIE PO103 1163-1167
+  type: CIE
+  primary: true
+docnumber: PO103 1163-1167
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Pak
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: W
+      surname:
+        language: en
+        script: Latn
+        content: Park
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      - language: en
+        script: Latn
+        initial: O
+      surname:
+        language: en
+        script: Latn
+        content: Doh
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Lee
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    An experiment was carried out at the elderly patients wards to investigate the effect of the spectrum tunable lighting and its' dynamic scheme on their sleep quality and daytime alertness. Twenty-one elderly patients randomly assigned to the experimental and control groups, and they were exposed to the different lighting environments for 6 days. To measure the parameters of sleep quality and alertness level, a smart band, saliva melatonin and cortisol samples, some questionnaires were used. Although the melatonin and cortisol levels fell within a certain range of concentration, but there was no significant difference between two groups and during the period. Also, the sleep quality results based on the wearable device were similar. However, some sleep satisfaction questions showed a marginally significant difference between groups. The partially confirmed results were discussed in terms of small sample size and large individual difference and a persistent measurement and additional methods were suggested.
+
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

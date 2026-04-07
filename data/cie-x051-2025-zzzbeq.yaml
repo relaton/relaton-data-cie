@@ -1,0 +1,103 @@
+---
+id: CIEx0512025zzzbeq
+type: standard
+schema_version: v1.5.6
+title:
+- content: LED PHOTOMETRIC MEASUREMENT BASED ON LED STANDARD LAMPS
+  type: title-main
+- content: LED PHOTOMETRIC MEASUREMENT BASED ON LED STANDARD LAMPS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-zzzbeq?product_id=3040048
+docidentifier:
+- content: CIE x051:2025/zzzbeq
+  type: CIE
+  primary: true
+docnumber: x051:2025/zzzbeq
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: W
+      surname:
+        language: en
+        script: Latn
+        content: Zhao
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Yan
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Tang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Liu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Su
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The study of LED photometric measurement, which utilizes LED standard lamps as a complement to traditional incandescent standard lamps, has been undertaken. As a means to transition the photometric scale, LED transfer standards are crucial for LED photometry. This research investigates the development of LED lamps designed for luminous intensity and total luminous flux, which are intended to emulate their traditional counterparts and maintain compatibility with existing methods of lamp alignment and mounting. The characteristics of these LED lamps, including spectrum, warm-up duration, short-term stability, long-term stability, on-shelf effects, angular intensity distribution, the inverse square law performance, and temperature dependency, have been thoroughly examined. The LED lamps have demonstrated significant potential for photometric applications. Efforts are currently underway to employ LED transfer standards in LED photometric measurements to build traceability to the national primary scales at the author's institute.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,47 @@
+---
+id: CIE651985
+type: standard
+schema_version: v1.5.6
+title:
+- content: Electrically calibrated detectors of optical radiation (absolute radiometers)
+  type: title-main
+- content: Electrically calibrated detectors of optical radiation (absolute radiometers)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-65-1985?product_id=1209997
+docidentifier:
+- content: CIE 65-1985
+  type: CIE
+  primary: true
+- content: '9789637251399'
+  type: ISBN
+docnumber: 65-1985
+date:
+- type: published
+  at: '1985-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The report summarizes the operating principle of electrically calibrated thermal detectors of optical radiation. It describes their main components, lists their sources of error, suggests experimental procedures to determine their systematic errors and discusses their main applications. An extensive list of references enables the reader to refer to the specialist literature for more detailed information. The report is intended as a guide for nonspecialists, giving them the background required for using absolute radiometers and objective means for assessing their performance.
+
+    The publication contains 38 pages, 8 figures and 1 table.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

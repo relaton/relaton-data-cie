@@ -1,0 +1,65 @@
+---
+id: CIE0182019
+type: standard
+schema_version: v1.5.6
+title:
+- content: The Basis of Physical Photometry, 3rd Edition
+  type: title-main
+- content: The Basis of Physical Photometry, 3rd Edition
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-018-2019?product_id=2045732
+docidentifier:
+- content: CIE 018:2019
+  type: CIE
+  primary: true
+- content: '9783902842244'
+  type: ISBN
+docnumber: '018:2019'
+date:
+- type: published
+  at: '2019-05-20'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+edition:
+  content: '3'
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    CIE 018:2019 presents the basic conventions and principles of physical photometry, with the definitions of the photometric units as reformulated in the International System of Units (SI) 2019 and the photometric quantities and spectral luminous efficiency functions for photopic, mesopic and scotopic vision, including 10° photopic vision. The relationships between the photometric quantities and the radiometric quantities based on the constant Kcd are described, as well as the relationships between photochemical and photobiological quantities and photometric quantities. The conventions of colorimetry are presented, with the definitions of the colour-matching functions for the 2° and 10° field of view, tristimulus values, and chromaticity coordinates.
+                  See more
+relation:
+- type: updates
+  bibitem:
+    title:
+    - content: The Basis of Physical Photometry, 2nd ed. (reprinted 1996)
+      type: title-main
+    - content: The Basis of Physical Photometry, 2nd ed. (reprinted 1996)
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-018-2-1983?product_id=1209967
+    docidentifier:
+    - content: CIE 018.2-1983
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '1983-01-01'
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

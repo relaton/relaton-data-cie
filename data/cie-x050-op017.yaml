@@ -1,0 +1,67 @@
+---
+id: CIEx050OP017
+type: standard
+schema_version: v1.5.6
+title:
+- content: LIGHTING HYGIENE, MELANOPIC DAYLIGHT EFFICACY RATIOS AND ENERGY EFFICIENCY
+  type: title-main
+- content: LIGHTING HYGIENE, MELANOPIC DAYLIGHT EFFICACY RATIOS AND ENERGY EFFICIENCY
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op017?product_id=2578610
+docidentifier:
+- content: CIE x050-OP017
+  type: CIE
+  primary: true
+docnumber: x050-OP017
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Price
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Schlangen
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    The second Manchester Workshop recommended minimum daytime eye-level exposures to light, and evening and night-time maximums, in terms melanopic equivalent daylight illuminance (melanopic EDI). In integrative lighting and healthy light hygiene regimes, the evening calls for lights with low melanopic daylight efficacy ratios (melanopic DERs) to realize sufficient illuminance for visual function whilst limiting melanopic EDI. In the daytime, where electric lighting is needed, a higher melanopic DER is desirable. Night-time may be considered an extreme version of evening, with a need for light by exception. It is a matter of social and economic importance that daytime, evening and night-time spectral objectives can each strongly conflict with the use of luminous efficacy to determine how much net positive utility derives from electrical energy and its CO2 footprint. This paper compares LED products, including melanopic engineered lighting systems, it discusses electrical energy efficiency implications and introduces the concept of “melanopic efficacy.”
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

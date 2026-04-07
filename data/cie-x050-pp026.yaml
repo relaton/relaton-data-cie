@@ -1,0 +1,81 @@
+---
+id: CIEx050PP026
+type: standard
+schema_version: v1.5.6
+title:
+- content: THE INFLUENCE OF THE CONTENTS OF DYNAMIC WINDOW VIEW ON THE HEALING EFFECT
+    OF PEOPLE IN ISOLATED, CONFINED AND EXTREME ENVIRONMENT
+  type: title-main
+- content: THE INFLUENCE OF THE CONTENTS OF DYNAMIC WINDOW VIEW ON THE HEALING EFFECT
+    OF PEOPLE IN ISOLATED, CONFINED AND EXTREME ENVIRONMENT
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-pp026?product_id=2579361
+docidentifier:
+- content: CIE x050-PP026
+  type: CIE
+  primary: true
+docnumber: x050-PP026
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Tang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Shi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: X
+      surname:
+        language: en
+        script: Latn
+        content: Zhang
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language: en
+script: Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    People working in isolated, confined, and extreme environments, such as aerospace, underwater, underground, and polar environments, face physical and psychological challenges with the lack of relations with the outside world. As a suitable healing method, a window view system can provide contact with the outside world and improve physiology and psychological condition. This study aims at the healing effect of different contents of dynamic window view on people in ICE environment. Thirteen window view contents were analysed and evaluated to explore the factors influencing the healing effects. The conclusions from different perspectives of physiology, mood, perceptual recovery, and alertness were only partially consistent. There was no significant difference in labels on physiological indicators. The view contents with labels of aesthetics and rendering had better mood improvement and recovery effect on attention. These results can provide references for optimizing the window view for better healing in ICE environment.
+                  See more
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie
