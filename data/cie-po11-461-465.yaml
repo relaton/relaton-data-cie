@@ -1,7 +1,7 @@
 ---
 id: CIEPO11461465
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: OPTICAL DESIGN OF THE NON-BILATERAL SYMMETRICAL ELLIPTICAL REFLECTOR WITH
     NEAR INFRARED LED APPLIED IN NON-INVASIVE BLOOD GLUCOSE MEASUREMENT (PO11, 461-465)
@@ -90,8 +90,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

@@ -1,7 +1,7 @@
 ---
 id: CIEx050PO079
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A FIRST APPROACH TO A PREDICTIVE MODEL OF THE SKY SPECTRAL POWER DISTRIBUTION
     IN THE MEDITERRANEAN AREA
@@ -66,8 +66,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

@@ -1,7 +1,7 @@
 ---
 id: CIEx043PO11
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: STUDY OF VISIBILITY UNDER COMPLEX LUMINANCE CONDITIONS FOR THE VISUALLY
     CHALLENGED PEOPLE USING LUMINANCE-IMAGE FILTERING (PO11, Pages 262-268)
@@ -66,8 +66,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

@@ -1,7 +1,7 @@
 ---
 id: CIEx0512025bp38fd
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'EFFECT OF FLUCTUATING EXTERIOR LIGHTING ON IMPRESSION: INFLUENCE OF THE
     NUMBER OF LUMINAIRES AND INSTALLATION INTERVAL'
@@ -114,8 +114,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

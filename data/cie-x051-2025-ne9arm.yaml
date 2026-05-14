@@ -1,7 +1,7 @@
 ---
 id: CIEx0512025ne9arm
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'DAYLIGHT REQUIREMENTS AND METRICS IN PRACTICE: A CLIMATIC ANALYSIS OF
     CURRENT CRITERIA'
@@ -87,8 +87,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

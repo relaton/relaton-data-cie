@@ -1,7 +1,7 @@
 ---
 id: CIEx050PO138
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'A DEVELOPMENT OF MICRO-PRISM ARRAYS ACHIEVING IMAGE PROJECTION BY PRINCIPLE
     OF LIGHTING: OPTICAL DESIGN AND NUMERICAL ESTIMATION OF LIGHTING PERFORMANCE'
@@ -66,8 +66,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

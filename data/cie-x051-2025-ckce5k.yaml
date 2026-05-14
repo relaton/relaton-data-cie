@@ -1,7 +1,7 @@
 ---
 id: CIEx0512025ckce5k
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'WEARABLE DEVICE FOR PERSONAL LIGHT MONITORING: ASSESSING VISUAL AND NON-VISUAL
     RESPONSES WITH SPECTRALLY-RESOLVED SENSOR'
@@ -78,8 +78,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

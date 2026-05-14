@@ -1,7 +1,7 @@
 ---
 id: CIEx050OP016
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'INTEGRATIVE LIGHTING IN OFFICES: RESULTS FROM FIELD MEASUREMENTS AND ANNUAL
     DAYLIGHT SIMULATIONS'
@@ -90,8 +90,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

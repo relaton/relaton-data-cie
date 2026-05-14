@@ -1,7 +1,7 @@
 ---
 id: CIEx050OP064
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: CHARACTERISING CIECAM02 PREDICTIONS OF PERCEIVED COLOURFULNESS AND HUE
     CHANGES AT DIFFERENT LIGHT LEVELS DUE TO HUNT EFFECT
@@ -54,8 +54,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

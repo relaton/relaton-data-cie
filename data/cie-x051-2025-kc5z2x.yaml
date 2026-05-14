@@ -1,7 +1,7 @@
 ---
 id: CIEx0512025kc5z2x
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: DETERMINATION OF NATURAL REFERENCE LEVELS OF ILLUMINANCE AND EXPOSURE IN
     THE NIGHT ENVIRONMENT FOR THE ASSESSMENT OF LIGHT POLLUTION LEVELS
@@ -78,8 +78,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

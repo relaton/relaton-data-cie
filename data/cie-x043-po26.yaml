@@ -1,7 +1,7 @@
 ---
 id: CIEx043PO26
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: THE COMPARISON STUDY OF INSTRUMENTAL COLOUR MEASUREMENT AND VISUAL GRADING
     OF COTTON FIBER (PO26, Pages 493-500)
@@ -66,8 +66,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

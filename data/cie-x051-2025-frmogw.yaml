@@ -1,7 +1,7 @@
 ---
 id: CIEx0512025frmogw
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A RESEARCH ON WORK PRODUCTIVITY AND VISUAL ATTENTION UNDER HUMAN CENTRIC
     LIGHTING SYSTEM
@@ -120,8 +120,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

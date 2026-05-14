@@ -1,7 +1,7 @@
 ---
 id: CIEx0512025hh3bcu
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'EXPLORING DAILY LIGHT EXPOSURE: DOCUMENTING REAL-LIFE DATA WITH PERSONAL
     LIGHTLOGGERS IN SPAIN'
@@ -96,8 +96,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

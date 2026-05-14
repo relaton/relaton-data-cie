@@ -1,7 +1,7 @@
 ---
 id: CIEPO7310771080
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A STUDY ON QUANTITATIVE EFFECTS ON THE ENERGY SAVINGS OF DAYLIGHTING HARVESTING
     SYSTEMS IN NON-RESIDENTIAL BUILDINGS IN JAPAN (PO73, 1077-1080)
@@ -78,8 +78,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

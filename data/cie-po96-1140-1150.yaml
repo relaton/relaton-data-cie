@@ -1,7 +1,7 @@
 ---
 id: CIEPO9611401150
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: INVESTIGATION OF LIGHT POLLUTION IMPACTS ON SUBJECTIVE PERCEPTION OF FLICKER
     IN TAIWAN (PO96, 1140-1150)
@@ -105,8 +105,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

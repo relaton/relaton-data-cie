@@ -1,7 +1,7 @@
 ---
 id: CIEx0512025rjdv5n
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: PSYCHOPHYSICAL EXPERIMENT TOWARDS A MEASUREMENT SCALE OF SPARKLE
   type: title-main
@@ -103,8 +103,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

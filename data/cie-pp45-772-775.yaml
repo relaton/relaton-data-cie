@@ -1,7 +1,7 @@
 ---
 id: CIEPP45772775
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'VISUAL CLARITY AND BRIGHTNESS IN INDOOR AND OUTDOOR LIGHTING: EXPERIMENTS
     AND MODELLING (PP45, 772-775)'
@@ -57,8 +57,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

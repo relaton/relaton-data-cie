@@ -1,7 +1,7 @@
 ---
 id: CIEx050PO065
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: USING A LUMINANCE ANALYSER TO MEASURE THE LUMINANCE OF CELESTIAL BODIES
     DURING ECLIPSES AND OTHER ASTRONOMICAL MEASUREMENTS
@@ -78,8 +78,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

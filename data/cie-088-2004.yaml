@@ -1,7 +1,7 @@
 ---
 id: CIE0882004
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Guide for the lighting of road tunnels and underpasses
   type: title-main
@@ -32,8 +32,10 @@ contributor:
       content: CIE
 edition:
   content: '2'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

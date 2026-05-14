@@ -1,7 +1,7 @@
 ---
 id: CIEPO08847855
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: STUDY ON SPECTRAL COMPOSITION OF WHITE LIGHT-EMITTING-DIODE FOR CHINESE
     TRADITIONAL PAINTING (PO08, 847-855)
@@ -90,8 +90,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

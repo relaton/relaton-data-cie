@@ -1,7 +1,7 @@
 ---
 id: CIEPP20374377
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: SPECTRALLY VARIABLE SOURCE BASED ON SPATIAL CONTROL OF WHITE-LIGHT BEAM
     (PP20, 374-377)
@@ -84,8 +84,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

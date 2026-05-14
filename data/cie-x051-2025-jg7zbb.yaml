@@ -1,7 +1,7 @@
 ---
 id: CIEx0512025jg7zbb
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: MODELLING CHANGES OVER TIME IN THE REFLECTIVE PROPERTIES OF DIFFERENT TYPES
     OF ROAD SURFACES
@@ -90,8 +90,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

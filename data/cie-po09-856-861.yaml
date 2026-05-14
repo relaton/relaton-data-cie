@@ -1,7 +1,7 @@
 ---
 id: CIEPO09856861
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'TRADE-OFF BETWEEN COLOR FIDELITY AND COLOR GAMUT: A CASE STUDY (PO09,
     856-861)'
@@ -54,8 +54,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

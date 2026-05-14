@@ -1,7 +1,7 @@
 ---
 id: CIE1331999
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Proceedings of the 24th Session of the CIE, Warsaw, Poland, 24-30 June
     1999, Vol. I (Part 1 and 2) and Vol. II
@@ -32,8 +32,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

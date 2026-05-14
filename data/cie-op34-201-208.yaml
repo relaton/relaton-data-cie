@@ -1,7 +1,7 @@
 ---
 id: CIEOP34201208
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: EXPERIMENTAL EVALUATION OF DIFFERENT BRIGHTNESS PERCEPTION MODELS BASED
     ON HUMAN PUPIL LIGHT RESPONSES (OP34, 201-208)
@@ -81,8 +81,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

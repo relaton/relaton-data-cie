@@ -1,7 +1,7 @@
 ---
 id: CIEx050OP088
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'DISCOMFORT FROM GLARE: WHY WE NEED A CIE TECHNICAL COMMITTEE TO REPORT
     ON BEST PRACTISE FOR COMMONLY USED METHODS AND TO PROPOSE NEW METHODS'
@@ -42,8 +42,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

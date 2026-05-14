@@ -1,7 +1,7 @@
 ---
 id: CIEx0512025g3akta
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: THE PHANTOM ARRAY EFFECT EXPLAINED USING SIMPLE FORMULAS
   type: title-main
@@ -91,8 +91,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

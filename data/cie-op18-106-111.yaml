@@ -1,7 +1,7 @@
 ---
 id: CIEOP18106111
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: NEW EMPIRICAL DATA FOR PEDESTRIAN LIGHTING EFFECT ON RECOGNITION ABILITY
     ON REAL 3D FACIAL EXPRESSION (OP18, 106-111)
@@ -62,8 +62,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

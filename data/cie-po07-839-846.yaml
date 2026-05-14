@@ -1,7 +1,7 @@
 ---
 id: CIEPO07839846
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: PROPOSAL OF THE METHODS TO CONTROL ILLUMINANCE AND CHROMATICITY AT THE
     SAME TIME IN THE FULL-COLOR ILLUMINATON LABORATORY (PO07, 839-846)
@@ -102,8 +102,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

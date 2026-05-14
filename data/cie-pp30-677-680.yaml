@@ -1,7 +1,7 @@
 ---
 id: CIEPP30677680
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: |-
     LIGHTING EFFECT HEALTH TEST AND EVALUATION METHOD BASED ON PHYSIOLOGICAL INDEX OF HUMAN VISUAL SYSTEM
@@ -79,8 +79,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

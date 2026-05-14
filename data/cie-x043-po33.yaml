@@ -1,7 +1,7 @@
 ---
 id: CIEx043PO33
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: ANALYSIS OF THE INTERPLAY OF THE PIGMENT SHAPE AND SIZE ON SPARKLE DETECTION
     DISTANCE BY DESIGN OF EXPERIMENTS (PO33, Pages 345-350)
@@ -105,8 +105,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

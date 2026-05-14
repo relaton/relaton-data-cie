@@ -1,7 +1,7 @@
 ---
 id: CIEPO23877880
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: |-
     VISUAL EVALUATION RESULTS OF PERCEIVED WHITENESS UNDER THE ILLUMINANT D50 CONDITION AND THEIR PREDICTIONS
@@ -58,8 +58,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

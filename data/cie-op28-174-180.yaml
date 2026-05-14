@@ -1,7 +1,7 @@
 ---
 id: CIEOP28174180
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'EFFECTS OF COLOUR TEMPERATURE IN RESTING STATE: ANALYSIS OF HEART RATE,
     BLOOD PRESSURE, AND ELECTROENCEPHALOGRAPH (OP28, 174-180)'
@@ -60,8 +60,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

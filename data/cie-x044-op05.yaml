@@ -1,7 +1,7 @@
 ---
 id: CIEx044OP05
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: COLOUR QUALITY ASSESSMENT UNDER LED TUNEABLE SOURCES WITH VARYING GAMUT
     SIZES AND SHAPES (OP05, 47-52)
@@ -57,8 +57,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

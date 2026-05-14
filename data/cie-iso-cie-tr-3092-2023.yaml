@@ -1,7 +1,7 @@
 ---
 id: CIEISOCIETR30922023
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Light and lighting -- Energy performance of lighting in buildings -- Explanation
     and justification of ISO/CIE 20086
@@ -30,8 +30,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

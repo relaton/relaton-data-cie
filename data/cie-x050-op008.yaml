@@ -1,7 +1,7 @@
 ---
 id: CIEx050OP008
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Qd VS Q0 FOR SCALING OF STANDARD R-TABLES IN ROAD LIGHTING DESIGN: THE
     QUESTION IS WORTH ASKING'
@@ -90,8 +90,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

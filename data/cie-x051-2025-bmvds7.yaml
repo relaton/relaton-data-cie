@@ -1,7 +1,7 @@
 ---
 id: CIEx0512025bmvds7
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: APPLICABILITY OF THE CALCULATION MODEL FOR SPACIOUSNESS IN RESIDENTIAL
     SPACES WITH WINDOWS
@@ -102,8 +102,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

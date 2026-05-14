@@ -1,7 +1,7 @@
 ---
 id: CIEWP01427432
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: DETERMINATION OF ILLUMINANTS REPRESENTING TYPICAL WHITE LIGHT EMITTING
     DIODES SOURCES (WP01, 427-432)
@@ -114,8 +114,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

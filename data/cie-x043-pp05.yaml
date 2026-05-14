@@ -1,7 +1,7 @@
 ---
 id: CIEx043PP05
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: STUDY ON SPECTRAL CHARACTERISTICS FOR IDENTIFICATION OF SKIN COLOUR OF
     INJURED JAPANESE PERSONS AT DISASTER SITES (PP05, Pages 179-189)
@@ -54,8 +54,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

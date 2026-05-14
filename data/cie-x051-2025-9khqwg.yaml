@@ -1,7 +1,7 @@
 ---
 id: CIEx05120259khqwg
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RESULTS OF THE JOINT LED AGING EXPERIMENT OF THREE UNIVERSITY LABORATORIES
     WITHIN THE AI-TWILIGHT PROJECT
@@ -150,8 +150,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

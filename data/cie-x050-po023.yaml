@@ -1,7 +1,7 @@
 ---
 id: CIEx050PO023
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'THE EFFECT OF INDOOR LIGHTING ON HUMAN PSYCHOLOGY AND PHYSICAL ACTIVITY
     DURING COVID-19 LOCKDOWN: A SURVEY'
@@ -54,8 +54,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

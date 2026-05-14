@@ -1,7 +1,7 @@
 ---
 id: CIE0832019
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Guide for the Lighting of Sports Events for Colour Television and Film
     Systems, 3rd Edition
@@ -34,8 +34,10 @@ contributor:
       content: CIE
 edition:
   content: '3'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

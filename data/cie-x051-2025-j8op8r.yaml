@@ -1,7 +1,7 @@
 ---
 id: CIEx0512025j8op8r
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: DEVELOPMENT OF PHOTON FLOW THROUGH PRACTITIONER DIALOGUES – DESIGNING EXHIBITION
     SPACES ENVELOPED IN DIFFUSE LIGHT
@@ -126,8 +126,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

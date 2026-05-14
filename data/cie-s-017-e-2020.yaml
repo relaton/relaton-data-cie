@@ -1,7 +1,7 @@
 ---
 id: CIES017E2020
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'ILV: International Lighting Vocabulary, 2nd Edition'
   type: title-main
@@ -30,8 +30,10 @@ contributor:
       content: CIE
 edition:
   content: '2'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn
@@ -78,10 +80,10 @@ relation:
 - type: updates
   bibitem:
     title:
-    - content: International lighting vocabulary, 4th ed. ***CONTACT [email protected]
+    - content: International lighting vocabulary, 4th ed. ***CONTACT ciecb@cie.co.at
         TO OBTAIN THIS PUBLICATION
       type: title-main
-    - content: International lighting vocabulary, 4th ed. ***CONTACT [email protected]
+    - content: International lighting vocabulary, 4th ed. ***CONTACT ciecb@cie.co.at
         TO OBTAIN THIS PUBLICATION
       type: main
     source:

@@ -1,7 +1,7 @@
 ---
 id: CIEx050OP050
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: A STUDY OF THE PSYCHOLOGICAL GAIN OF ARTIFICIAL VIEW WINDOWS IN A WINDOWLESS
     SPACE
@@ -78,8 +78,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

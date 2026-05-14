@@ -1,7 +1,7 @@
 ---
 id: CIEx048PO64
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: MODELLING OF VERTICAL SURFACES RADIATION IN CONNECTION WITH THE EVALUATION
     OF THE OBTRUSIVE LIGHT
@@ -70,8 +70,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

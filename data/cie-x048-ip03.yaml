@@ -1,7 +1,7 @@
 ---
 id: CIEx048IP03
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'MEASURES FOR REDUCING THE ADVERSE EFFECTS OF ARTIFICIAL LIGHT AT NIGHT:
     INTER-DISCIPLINARY DEVELOPMENT AND PROGRESS'
@@ -60,8 +60,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

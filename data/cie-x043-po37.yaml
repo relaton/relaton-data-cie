@@ -1,7 +1,7 @@
 ---
 id: CIEx043PO37
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: APPEARANCE RESEARCH BASED ON SPECTRUM TUNEABLE LIGHTING SYSTEMS (PO37,
     Pages 378-380)
@@ -45,8 +45,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

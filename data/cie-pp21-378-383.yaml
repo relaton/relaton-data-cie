@@ -1,7 +1,7 @@
 ---
 id: CIEPP21378383
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: PILOT STUDY ON THE IMPACT OF MESOPIC VISION ON THE PURITY PERCEIVED BY
     HUMAN EYES (PP21, 378-383)
@@ -72,8 +72,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

@@ -1,7 +1,7 @@
 ---
 id: CIEx0512025cnzs3o
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'DEVELOPMENT OF AN APPROXIMATE FORMULA FOR ESTIMATING SPATIAL BRIGHTNESS
     FOR PLANNING AND EVALUATING THE LIGHTING ENVIRONMENT WITH WINDOWS: APPLICATIONS
@@ -104,8 +104,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

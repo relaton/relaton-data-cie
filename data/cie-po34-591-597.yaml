@@ -1,7 +1,7 @@
 ---
 id: CIEPO34591597
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: COLOUR FADING MODEL OF LEDS FOR CONTEMPORARY PHOTOGRAPHIC MATERIALS (PO34,
     591-597)
@@ -90,8 +90,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

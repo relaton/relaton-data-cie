@@ -1,7 +1,7 @@
 ---
 id: CIEPO37612615
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: EFFECTS OF AGE AND GENDER ON VISUAL PERCEPTION OF COMMODITY WITH DIFFERENT
     MATERIALS IN COMMERCIAL REFRIGERATOR (PO37, 612-615)
@@ -75,8 +75,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

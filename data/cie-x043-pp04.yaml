@@ -1,7 +1,7 @@
 ---
 id: CIEx043PP04
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: EFFICIENT MEASUREMENT OF ANGLE-RESOLVED LUMINANCE DISTRIBUTION WITH IMAGING
     SENSOR (PP04, Pages 175-178)
@@ -132,8 +132,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

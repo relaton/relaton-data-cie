@@ -1,7 +1,7 @@
 ---
 id: CIEPP28667672
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: METHODS TO CONTROL OBSTRUSIVE LIGHT IN CONSIDERATION OF URBAN STRUCTURE
     AND OUTDOOR LIGHTING USAGE IN ASIA (PP28, 667-672)
@@ -76,8 +76,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

@@ -1,7 +1,7 @@
 ---
 id: CIEx051202562xbgg
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'CHARACTERISING INTER-INDIVIDUAL VARIABILITY IN SIMULATED PERSONAL LIGHT
     EXPOSURE: IMPACT OF BODY MORPHOLOGY ON LIGHT-DOSIMETRY'
@@ -69,8 +69,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

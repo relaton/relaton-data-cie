@@ -1,7 +1,7 @@
 ---
 id: CIEx043PO19
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: METHOD FOR THE TREATMENT OF WAVELENGTH-DEPENDENT VOLUME SCATTERING IN A
     HOMOGENEOUS, ABSORPTIVE MEDIUM (PO19, Pages 319-324)
@@ -66,8 +66,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

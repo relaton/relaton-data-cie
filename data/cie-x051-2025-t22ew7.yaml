@@ -1,7 +1,7 @@
 ---
 id: CIEx0512025t22ew7
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'ENERGY-EFFICIENT LIGHTING DESIGN FOR HAGIA EIRENE: TAILORED SOLUTIONS
     FOR WORSHIP, CONCERT AND MUSEUM SETTINGS'
@@ -65,8 +65,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

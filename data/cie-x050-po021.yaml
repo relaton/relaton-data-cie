@@ -1,7 +1,7 @@
 ---
 id: CIEx050PO021
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: ASSESSING THE USE OF ENVIRONMENTAL LIGHTING ZONES FOR THE PROTECTION OF
     AQUATIC NATURE CONSERVATION AREAS
@@ -66,8 +66,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

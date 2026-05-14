@@ -1,27 +1,27 @@
 ---
 id: CIE2322019
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
-- content: Discomfort Caused by Glare from Luminaires with a Non-Uniform Source Luminance
-    (Includes Corrigendum 1)
+- content: Psychologische Blendung von Leuchten mit inhomogener Leuchtdichtestruktur
+    der Lichtaustrittsfläche
   type: title-main
-- content: Discomfort Caused by Glare from Luminaires with a Non-Uniform Source Luminance
-    (Includes Corrigendum 1)
+- content: Psychologische Blendung von Leuchten mit inhomogener Leuchtdichtestruktur
+    der Lichtaustrittsfläche
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-232-2019?product_id=2074145
+  content: https://store.accuristech.com/standards/cie-232-2019-de?product_id=2247892
 docidentifier:
 - content: CIE 232:2019
   type: CIE
   primary: true
-- content: '9783902842152'
+- content: '9783902842886'
   type: ISBN
 docnumber: 232:2019
 date:
 - type: published
-  at: '2019-06-01'
+  at: '2022-02-01'
 contributor:
 - role:
   - type: publisher
@@ -32,14 +32,15 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn
   content: |-
-    In 1995 the CIE Technical Committee 3-13 developed the Unified Glare Rating (UGR) to predict discomfort glare for indoor lighting systems. For practical reasons, the UGR is based on the average source luminance. The introduction of LEDs in general lighting enabled many new luminaire designs, sometimes with unprecedented high luminance contrasts. The literature review presented in this report shows that UGR tends to underestimate the discomfort provoked by such luminaires with highly non-uniform source luminance. Several UGR correction methods are evaluated by comparison to experimental data on experienced discomfort from uniform and non-uniform light sources. The preferred method involves a precise definition of the glare source area based on a luminance image of the source. This method solves the discrepancies between UGR and perceived glare from non-uniform light sources. To guide future work on glare prediction methods, the remaining shortcomings of UGR are briefly reviewed.
-    The publication is written in English, with a short summary in French and German. It consists of 41 pages with 12 figures and 1 table and is readily available from the CIE Webshop or from the National Committees of the CIE.
+    Im Jahre 1995 entwickelte das Technische Komitee 3-13 der CIE das Unified Glare Rating (UGR) zur Vorhersage der psychologischen Blendung in Innenräumen. Aus praktischen Gründen basiert das UGR-Verfahren auf einer mittleren Leuchtdichte der Blendquelle. Die Einführung von LEDs in der Allgemeinbeleuchtung ermöglichte viele neue Leuchtendesigns, die teilweise zu unvorhergesehen hohen Leuchtdichtekontrasten innerhalb der Leuchte führten. Die in diesem Report vorgestellte Literaturrecherche zeigt, dass UGR zu einer Unterschätzung des durch die Blendung hervorgerufenen Unbehagens tendiert, die von solchen Leuchten mit stark inhomogener Leucht-dichtestruktur hervorgerufen wird. Mehrere Methoden zur Korrektur des UGR-Verfahrens werden mittels experimenteller Daten bewertet, indem die Werte aus den Korrekturmethoden mit dem wahrgenommenen Unbehagen aufgrund der Blendung von homogenen und inhomogenen Lichtquellen verglichen werden. Die bevorzugte Methode enthält eine präzise Definition der Blendquellenfläche, basierend auf einem Leuchtdichtebild der Blendquelle. Diese Methode behebt die Diskrepanzen zwischen UGR und der wahrgenommenen Blendung von inhomogenen Lichtquellen. Als Ausblick und Hilfestellung für zukünftige Arbeiten zu Blendungsvorhersagemethoden werden die verbleibenden Schwächen von UGR kurz dargestellt.
                   See more
 ext:
   schema_version: v1.0.0

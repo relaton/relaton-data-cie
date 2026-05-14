@@ -1,7 +1,7 @@
 ---
 id: CIEx043PO16
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: INVESTIGATION AND MEASUREMENT OF UNCERTAINTY CONTRIBUTORS FOR COLORIMETRIC
     CALIBRATIONS (PO16, Pages 303-311)
@@ -57,8 +57,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

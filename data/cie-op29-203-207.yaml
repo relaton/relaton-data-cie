@@ -1,7 +1,7 @@
 ---
 id: CIEOP29203207
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: FISHEYE CAMERA SYSTEM FOR DETERMINING SPATIAL CORRECTIONS IN LUMINOUS EFFICACY
     MEASUREMENTS WITH INTEGRATING SPHERES (OP29, 203-207)
@@ -90,8 +90,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

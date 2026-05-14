@@ -1,7 +1,7 @@
 ---
 id: CIEPP17580588
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: |-
     RESEARCH ON THE INFLUENCE MECHANISM OF THE ARTIFICIAL LIGHT ENVIRONMENT EVALUATION INDEX ON OFFICE LIGHTING COMFORT
@@ -87,8 +87,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

@@ -1,7 +1,7 @@
 ---
 id: CIEx0512025kprwf9
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RESULTS OF IEA 4E SSL ANNEX INTERLABORATORY COMPARISON ON TEMPORAL LIGHT
     MODULATION MEASUREMENT
@@ -110,8 +110,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

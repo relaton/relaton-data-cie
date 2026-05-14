@@ -1,7 +1,7 @@
 ---
 id: CIEISO109162024
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Light and lighting
   type: title-intro
@@ -35,8 +35,10 @@ contributor:
       content: CIE
 edition:
   content: '1'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

@@ -1,7 +1,7 @@
 ---
 id: CIEx051202566v4jy
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: ASSESSMENT OF THE VALIDITY OF THE CURRENT MINIMAL TEST DISTANCES OF (O)LED
     LUMINAIRES
@@ -80,8 +80,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

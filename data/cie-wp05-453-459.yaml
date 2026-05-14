@@ -1,7 +1,7 @@
 ---
 id: CIEWP05453459
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: |-
     ACCEPTABILITY CRITERIA FOR THE STROBOSCOPIC EFFECT VISIBILITY MEASURE
@@ -70,8 +70,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

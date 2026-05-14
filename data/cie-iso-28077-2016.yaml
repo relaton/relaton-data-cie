@@ -1,7 +1,7 @@
 ---
 id: CIEISO280772016
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Photocarcinogenesis action spectrum (non-melanoma skin cancers)
   type: title-main
@@ -30,8 +30,10 @@ contributor:
       content: CIE
 edition:
   content: '2'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

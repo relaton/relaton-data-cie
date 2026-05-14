@@ -1,7 +1,7 @@
 ---
 id: CIEx043PO43
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'A CORRECTION METHOD FOR SKIN REFLECTANCE OBTAINED WITH DIFFERENT SPECTROPHOTOMETERS
     AND ITS APPLICATION: LONG-TERM CHANGES IN THE SKIN COLOUR OF JAPANESE FEMALES
@@ -92,8 +92,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

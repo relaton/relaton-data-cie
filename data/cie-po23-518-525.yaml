@@ -1,7 +1,7 @@
 ---
 id: CIEPO23518525
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: PROPOSAL FOR THE NEW FORMULA OF COLOUR RENDERING PROPERTIES TAKING ACCOUNT
     OF ILLUMINANCE-EFFECTS AND GAMUT-SHAPE-EFFECTS  (PO23, 518-525)
@@ -54,8 +54,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

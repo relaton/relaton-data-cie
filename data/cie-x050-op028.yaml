@@ -1,7 +1,7 @@
 ---
 id: CIEx050OP028
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: EFFECT OF SURFACE CURVATURE ON SPECULAR GLOSS EVALUATIONS
   type: title-main
@@ -88,8 +88,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

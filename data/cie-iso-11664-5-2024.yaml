@@ -1,7 +1,7 @@
 ---
 id: CIEISO1166452024
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Colorimetry — Part 5: CIE 1976 L*u*v* colour space and u'', v'' uniform
     chromaticity scale diagram'
@@ -32,8 +32,10 @@ contributor:
       content: CIE
 edition:
   content: '2'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

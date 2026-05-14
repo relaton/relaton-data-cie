@@ -1,7 +1,7 @@
 ---
 id: CIEx0512025b5xzq6
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: SUPPORT AND SUPPRESSION OF ANALOGUE NIGHT VISION DEVICES USING IR LEDS
   type: title-main
@@ -64,8 +64,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

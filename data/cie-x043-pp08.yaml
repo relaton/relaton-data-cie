@@ -1,7 +1,7 @@
 ---
 id: CIEx043PP08
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: COLOUR VISUAL EFFECTS OF STEADY STATE EXPERIMENTS IN DIFFERENT THERMAL
     ENVIRONMENTS AT AN OFFICE TEST SITE (PP08, Pages 208-217)
@@ -126,8 +126,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

@@ -1,7 +1,7 @@
 ---
 id: CIEx043PO45
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: ENTROPY VERSUS FRACTAL COMPLEXITY FOR COMPUTER-GENERATED COLOUR FRACTAL
     IMAGES (PO45, Pages 432-437)
@@ -54,8 +54,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

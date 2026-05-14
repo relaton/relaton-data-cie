@@ -1,7 +1,7 @@
 ---
 id: CIEPP05256264
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: RESEARCH ON THE APPLICATION BENEFITS OF THE LED LIGHT SOURCE BASED ON THE
     ROAD LIGHTING SYSTEM FOR THE SMART CITY
@@ -113,8 +113,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

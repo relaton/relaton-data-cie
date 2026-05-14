@@ -1,7 +1,7 @@
 ---
 id: CIEx050PO002
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'THE EFFECT OF VARIOUS LED LIGHT HUES AND COLOR SATURATION ON STRESS MITIGATION
     FOR OFFICE WORKERS: AN EXPERIMENTAL STUDY'
@@ -78,8 +78,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

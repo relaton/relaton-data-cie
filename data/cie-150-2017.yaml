@@ -1,7 +1,7 @@
 ---
 id: CIE1502017
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: Guide on the limitation of the effects of obtrusive light from outdoor
     lighting installations
@@ -34,8 +34,10 @@ contributor:
       content: CIE
 edition:
   content: '2'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

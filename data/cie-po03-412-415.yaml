@@ -1,7 +1,7 @@
 ---
 id: CIEPO03412415
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: THE GREY RELATIONAL ANALYSIS OF PSYCHOLOGICAL AND PHYSIOLOGICAL EVALUATIONS
     FOR VISUAL FATIGUE IN THE OFFICE LIGHTING (PO03, 412-415)
@@ -105,8 +105,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

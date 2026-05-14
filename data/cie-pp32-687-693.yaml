@@ -1,7 +1,7 @@
 ---
 id: CIEPP32687693
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: |-
     LIGHT EVALUATION IN HIGH AND LOW MOOD STATES
@@ -58,8 +58,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

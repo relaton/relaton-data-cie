@@ -1,7 +1,7 @@
 ---
 id: CIEx043OP13
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: VISUAL EXPERIMENTS ON THE STROBOSCOPIC EFFECTS OF PWM-MODULATED WHITE LED
     INDOOR ILLUMINATIONS AND THEIR CONSEQUENCES (OP13, Pages 69-79)
@@ -57,8 +57,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

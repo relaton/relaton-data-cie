@@ -1,7 +1,7 @@
 ---
 id: CIEx043PO34
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: CORRELATIONS BETWEEN CONCENTRATION OF EFFECT PIGMENTS, OPTICAL MEASUREMENTS
     AND VISUAL ASSESSMENT OF SPARKLE (PO34, Pages 351-356)
@@ -117,8 +117,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

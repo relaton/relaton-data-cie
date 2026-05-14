@@ -1,7 +1,7 @@
 ---
 id: CIEx043PP07
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'COLOUR SURFACE RENDERING: A NEW ASPECT OF LIGHT SOURCE COLOUR QUALITY
     FOR MUSEUM LIGHTING (PP07, Pages 198-207)'
@@ -69,8 +69,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

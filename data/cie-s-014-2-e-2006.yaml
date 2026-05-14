@@ -1,25 +1,27 @@
 ---
 id: CIES0142E2006
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
-- content: CIE standard illuminants for colorimetry
+- content: Colorimetry
   type: title-main
-- content: CIE standard illuminants for colorimetry
+- content: 'Part 2: CIE standard illuminants'
+  type: title-part
+- content: 'Colorimetry - Part 2: CIE standard illuminants'
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-s-014-2-e-2006-iso-10526-2007-e?product_id=1529665
+  content: https://store.accuristech.com/standards/cie-s-014-2-e-2006-iso-11664-2-2007-e?product_id=1601626
 docidentifier:
 - content: CIE S 014-2/E:2006
   type: CIE
   primary: true
-- content: ISO 10526:2007
+- content: ISO 11664-2:2007
   type: ISO
 docnumber: S 014-2/E:2006
 date:
 - type: published
-  at: '2007-10-15'
+  at: '2008-11-01'
 contributor:
 - role:
   - type: publisher
@@ -30,8 +32,22 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This CIE Standard replaces ISO 10526:1999/CIE S005:1998. It contains only minor changes from the previous standard, mainly concerning the wavelengths that are to be taken as being in standard air, to make the Standard conform to other CIE photometric and colorimetric data.
+    CIE standard illuminants are used in colorimetry to compute the tristimulus values of reflected or transmitted object colours under specified conditions of illumination. This International Standard specifies two illuminants for use in colorimetry:
+    CIE standard illuminant A
+    This is intended to represent typical, domestic, tungsten-filament lighting. CIE standard illuminant A should be used in all applications of colorimetry involving the use of incandescent lighting, unless there are specific reasons for using a different illuminant.
+    CIE standard illuminant D65
+    This is intended to represent average daylight. CIE standard illuminant D65 should be used in all colorimetric calculations requiring representative daylight, unless there are specific reasons for using a different illuminant. Variations in the relative spectral power distribution of daylight are known to occur, particularly in the ultraviolet spectral region, as a function of season, time of day, and geographic location. However, CIE standard illuminant D65 should be used pending the availability of additional information on these variations.
+    The numerical values of the relative spectral distributions of standard illuminants A and D65 defined by this Standard are the same, within an accuracy of six significant digits, as those defined in earlier versions of these illuminants.
+                  See more
 relation:
 - type: updates
   bibitem:
@@ -74,22 +90,20 @@ relation:
 - type: updates
   bibitem:
     title:
-    - content: Colorimetry
+    - content: CIE standard illuminants for colorimetry
       type: title-main
-    - content: 'Part 2: CIE standard illuminants'
-      type: title-part
-    - content: 'Colorimetry - Part 2: CIE standard illuminants'
+    - content: CIE standard illuminants for colorimetry
       type: main
     source:
     - type: src
-      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-014-2-e-2006-iso-11664-2-2007-e?product_id=1601626
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-014-2-e-2006-iso-10526-2007-e?product_id=1529665
     docidentifier:
-    - content: CIE S 014-2/E:2006 (ISO 11664-2:2007(E))
+    - content: CIE S 014-2/E:2006 (ISO 10526:2007(E))
       type: CIE
       primary: true
     date:
     - type: published
-      at: '2008-11-01'
+      at: '2007-10-15'
 ext:
   schema_version: v1.0.0
   doctype:

@@ -1,7 +1,7 @@
 ---
 id: CIEx05120255xrjhv
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'DAYLIGHT – VISUAL AND NON-VISUAL EFFECTS IN THE CONTEXT OF NEARLY ZERO
     ENERGY BUILDING: THE LABZERO CASE'
@@ -114,8 +114,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn

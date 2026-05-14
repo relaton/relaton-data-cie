@@ -1,7 +1,7 @@
 ---
 id: CIE2192016
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - content: 'Maintaining Summer Levels of 25(OH)D during Winter by Minimal Exposure
     to Sunbeds: Requirements and Weighing the Advantages and Disadvantages'
@@ -32,8 +32,10 @@ contributor:
     - content: Commission Internationale de L'Eclairage
     abbreviation:
       content: CIE
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - language: en
   script: Latn
