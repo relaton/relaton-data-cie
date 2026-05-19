@@ -2,13 +2,6 @@
 id: CIE2172016
 schema_version: v1.5.6
 type: standard
-title:
-- content: Recommended Method for Evaluating the Performance of Colour-Difference
-    Formulae
-  type: title-main
-- content: Recommended Method for Evaluating the Performance of Colour-Difference
-    Formulae
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-217-2016?product_id=1910861
@@ -16,12 +9,7 @@ docidentifier:
 - content: CIE 217:2016
   type: CIE
   primary: true
-- content: '9783902842572'
-  type: ISBN
 docnumber: 217:2016
-date:
-- type: published
-  at: '2016-02-01'
 contributor:
 - role:
   - type: publisher
@@ -36,12 +24,6 @@ language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: |-
-    A method is recommended to evaluate the strength of the relationship between visually-perceived colour differences in a given set of colour pairs and their corresponding predictions made by a colour-difference formula. This method is based on the Standardized Residual Sum of Squares (STRESS) index used in multidimensional scaling, and tests if two colour-difference formulae are or are not statistically significantly different. The same index can be also used to compute intra- and inter-observer variability in visual experiments. Beside important advances made in the field of colour-difference evaluation using reliable visual datasets currently available, the results achieved from the STRESS index indicate that it is not possible to recommend a more uniform colour space with a Euclidean colour-difference formula that is statistically significantly better than CIEDE2000.
-                  See more
 ext:
   schema_version: v1.0.0
   doctype:
