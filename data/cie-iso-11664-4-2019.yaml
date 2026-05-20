@@ -2,13 +2,6 @@
 id: CIEISO1166442019
 schema_version: v1.5.6
 type: standard
-title:
-- content: Colorimetry
-  type: title-main
-- content: 'Part 4: CIE 1976 L*a*b* colour space'
-  type: title-part
-- content: 'Colorimetry - Part 4: CIE 1976 L*a*b* colour space'
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-iso-11664-4-2019?product_id=2078733
@@ -17,9 +10,6 @@ docidentifier:
   type: CIE
   primary: true
 docnumber: 11664-4:2019
-date:
-- type: published
-  at: '2019-06-01'
 contributor:
 - role:
   - type: publisher
@@ -34,63 +24,6 @@ language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: |-
-    This document was prepared by the International Commission on Illumination (CIE) in cooperation with Technical Committee ISO/TC 274, Light and lighting.
-
-    This first edition of ISO/CIE 11664-4 cancels and replaces ISO 11664-4:2008 | CIE S 014-4:2007, of which it constitutes a minor revision. The document has been editorially revised as per current ISO and CIE rules and the references have been updated.
-
-    The document specifies a method of calculating the coordinates of the CIE 1976 L*a*b* colour space, including correlates of lightness, chroma and hue. It includes two methods for calculating Euclidean distances in this space to represent the perceived magnitude of colour differences.
-
-    The document is applicable to tristimulus values calculated using colour-matching functions of the CIE 1931 standard colorimetric system or the CIE 1964 standard colorimetric system. This document can be used for the specification of colour stimuli perceived as belonging to a reflecting or transmitting object, where a three-dimensional space more uniform than tristimulus space is required.
-
-    The document does not apply to colour stimuli perceived as belonging to an area that appears to be emitting light as a primary light source, or that appears to be specularly reflecting such light.
-
-    The document is applicable to self-luminous displays, such as cathode ray tubes, if they are being used to simulate reflecting or transmitting objects and if the stimuli are appropriately normalized.
-
-    Calculating the reverse transformation is shown in Annex A.
-                  See more
-relation:
-- type: updates
-  bibitem:
-    title:
-    - content: Colorimetry
-      type: title-main
-    - content: 'Part 4: CIE 1976 L*a*b* Colour Spaces'
-      type: title-part
-    - content: 'Colorimetry - Part 4: CIE 1976 L*a*b* Colour Spaces'
-      type: main
-    source:
-    - type: src
-      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-014-4-e-2007-iso-11664-4-2008?product_id=1601627
-    docidentifier:
-    - content: CIE S 014-4/E:2007 (ISO 11664-4:2008)
-      type: CIE
-      primary: true
-    date:
-    - type: published
-      at: '2008-12-01'
-- type: updates
-  bibitem:
-    title:
-    - content: Colorimetry
-      type: title-main
-    - content: 'Part 4: CIE 1976 L*a*b* Colour Spaces'
-      type: title-part
-    - content: 'Colorimetry - Part 4: CIE 1976 L*a*b* Colour Spaces'
-      type: main
-    source:
-    - type: src
-      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-014-4-e2007?product_id=1520488
-    docidentifier:
-    - content: CIE S 014-4/E2007
-      type: CIE
-      primary: true
-    date:
-    - type: published
-      at: '2007-09-01'
 ext:
   schema_version: v1.0.0
   doctype:

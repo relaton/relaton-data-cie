@@ -2,6 +2,11 @@
 id: CIE2442021
 schema_version: v1.5.6
 type: standard
+title:
+- content: Characterization of Imaging Luminance Measurement Devices (ILMDs)
+  type: title-main
+- content: Characterization of Imaging Luminance Measurement Devices (ILMDs)
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-244-2021?product_id=2222951
@@ -9,7 +14,12 @@ docidentifier:
 - content: CIE 244:2021
   type: CIE
   primary: true
+- content: '9783902842930'
+  type: ISBN
 docnumber: 244:2021
+date:
+- type: published
+  at: '2021-04-30'
 contributor:
 - role:
   - type: publisher
@@ -24,6 +34,12 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    This document describes the elements, function and characterization of imaging luminance measuring devices (ILMDs). Furthermore, the calibration of ILMDs is described and some guidelines for their use are provided.Using ILMDs the projection of the luminance distribution of a scene can be recorded and made available for further evaluation. In addition to a simple documentation of measurements, the geometrical assignment of the image points into the object coordinate system often allows more complex calculations by combining luminance, directional and, if necessary, solid angle information (e.g. for glare evaluation). In addition to the flexible evaluation option, it is possible to acquire a large number of measured values quickly and, if necessary, even synchronously. Furthermore, the type of evaluation can also be coupled to the image content, i.e. the image areas to be evaluated can be determined in the image either by their position within the image or by their luminance value.
+                  See more
 ext:
   schema_version: v1.0.0
   doctype:

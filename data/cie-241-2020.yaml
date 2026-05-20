@@ -2,6 +2,11 @@
 id: CIE2412020
 schema_version: v1.5.6
 type: standard
+title:
+- content: Recommended Reference Solar Spectra for Industrial Applications
+  type: title-main
+- content: Recommended Reference Solar Spectra for Industrial Applications
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-241-2020?product_id=2187453
@@ -9,7 +14,12 @@ docidentifier:
 - content: CIE 241:2020
   type: CIE
   primary: true
+- content: '9783902842909'
+  type: ISBN
 docnumber: 241:2020
+date:
+- type: published
+  at: '2020-09-01'
 contributor:
 - role:
   - type: publisher
@@ -24,6 +34,30 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    CIE 241:2020 provides CIE recommended reference solar spectra for industrial applications. It contains a large selection of simulation benchmarks for total, direct and diffuse components of solar spectra under various atmospheric conditions and solar geometries (defined by the air mass). For this purpose a freely available solar spectral irradiance model has been used to generate tables and figures of solar spectral irradiance under a number of different atmospheric conditions, in the form of explicit meteorological input parameters. The data as provided in this document are to a large extent comparable to those in CIE 085-1989, but they are presented with a higher spectral sampling. The respective solar spectra are the basis for national and international standard reference spectra for various applications. They have been extensively validated against measured spectra.
+                  See more
+relation:
+- type: updates
+  bibitem:
+    title:
+    - content: Solar spectral irradiance
+      type: title-main
+    - content: Solar spectral irradiance
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-85-1989?product_id=1210012
+    docidentifier:
+    - content: CIE 85-1989
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '1989-01-01'
 ext:
   schema_version: v1.0.0
   doctype:

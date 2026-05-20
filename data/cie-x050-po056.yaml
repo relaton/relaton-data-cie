@@ -2,11 +2,6 @@
 id: CIEx050PO056
 schema_version: v1.5.6
 type: standard
-title:
-- content: REDUCING STRAY LIGHT IN OUTDOOR LUMINAIRES
-  type: title-main
-- content: REDUCING STRAY LIGHT IN OUTDOOR LUMINAIRES
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-po056?product_id=2578632
@@ -15,70 +10,7 @@ docidentifier:
   type: CIE
   primary: true
 docnumber: x050-PO056
-date:
-- type: published
-  at: '2023-12-29'
 contributor:
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: W
-      surname:
-        language: en
-        script: Latn
-        content: Green
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: B
-      surname:
-        language: en
-        script: Latn
-        content: Kerff
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: D
-      surname:
-        language: en
-        script: Latn
-        content: Dohogne
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: F
-      surname:
-        language: en
-        script: Latn
-        content: Duerr
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: V
-      surname:
-        language: en
-        script: Latn
-        content: Jacobs
 - role:
   - type: publisher
   organization:
@@ -92,12 +24,6 @@ language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: |-
-    Light pollution is increasing at a rate between 6-10% each year worldwide, faster than population growth or GDP increase. This suggests that the growing market for decorative outdoor luminaires contributes to the problem. Stray light in outdoor LED luminaires is analysed using the FRED raytracing software. Fresnel reflections are shown to be a large contributor to upward light, especially from protective plastic covers. Additionally, up to 0.5% of the lamp flux may be scattered due to these covers. This study shows how this light escapes as ULOR, how to look for it in a luminaire design, and proposes decorative design forms that overcome this challenge. The “Full-Cutoff Fixture” design remains the most effective method for conforming to dark sky standards.
-                  See more
 ext:
   schema_version: v1.0.0
   doctype:
