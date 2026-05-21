@@ -2,6 +2,13 @@
 id: CIEx050PO051
 schema_version: v1.5.6
 type: standard
+title:
+- content: A PROPOSAL OF EXTENSION OF DYNAMIC ADAPTIVE ROAD LIGHTING CONCEPT THROUGH
+    A REAL CASE STUDY
+  type: title-main
+- content: A PROPOSAL OF EXTENSION OF DYNAMIC ADAPTIVE ROAD LIGHTING CONCEPT THROUGH
+    A REAL CASE STUDY
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-po051?product_id=2579104
@@ -10,7 +17,46 @@ docidentifier:
   type: CIE
   primary: true
 docnumber: x050-PO051
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Di Lecce
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Giansante
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Baenziger
 - role:
   - type: publisher
   organization:
@@ -24,6 +70,12 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    In the world of Smart Cities and Internet of Things (IoT), traditional pre-programmed street lighting dimming systems are obsolete. Capable of measuring three essential parameters for outdoor street lighting control (traffic volume, weather conditions and average road surface luminance), a new generation of sensors is providing, at reasonable costs, opportunities for new approaches in design, maintenance and operation of road lighting installations. Therefore, new possibilities for Adaptive Road Lighting (ARL) are possible. A project in Agrate Brianza (Italy) allowed to test new approaches in order to extend the application of ARL to all the municipality area.
+                  See more
 ext:
   schema_version: v1.0.0
   doctype:

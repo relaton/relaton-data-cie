@@ -2,6 +2,11 @@
 id: CIEx050PP005
 schema_version: v1.5.6
 type: standard
+title:
+- content: PRELIMINARY STUDY FOR TRACEABILITY ON SPECULAR GLOSS
+  type: title-main
+- content: PRELIMINARY STUDY FOR TRACEABILITY ON SPECULAR GLOSS
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-pp005?product_id=2578644
@@ -10,7 +15,130 @@ docidentifier:
   type: CIE
   primary: true
 docnumber: x050-PP005
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Ferrero
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Gevaux
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Rastgou
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Jaanimets
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: I
+      surname:
+        language: en
+        script: Latn
+        content: Jurgo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Manoocheri
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Kübarsepp
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Nilsson
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Szajna
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Obein
 - role:
   - type: publisher
   organization:
@@ -24,6 +152,12 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    According to the definition, the gloss value can be obtained from reflectance measurements with the geometries specified by the standards, or by measuring the bidirectional reflectance around the specular direction. We think that both approaches would allow National Metrology Institutes (NMIs) and Designated Institutes (DIs) to provide traceability of the measurement of specular gloss without the need of using the external reference glass plate required by the standards and specified in the definition. An expression for the calculation of the gloss value according to the definition and the standards is given in this work, which allows this value to be obtained from measurements of bidirectional reflectance. Gloss measurements of four samples provided by NCS were performed with different measuring systems and procedures, including commercial instruments and alternative methods based on measuring systems developed for measuring bidirectional reflectance at NMIs and DIs. A consistency analysis of the measurements is presented.
+                  See more
 ext:
   schema_version: v1.0.0
   doctype:
