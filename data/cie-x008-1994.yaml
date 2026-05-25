@@ -2,11 +2,6 @@
 id: CIEx0081994
 schema_version: v1.5.6
 type: standard
-title:
-- content: Urban Sky Glow, A Worry for Astronomy
-  type: title-main
-- content: Urban Sky Glow, A Worry for Astronomy
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x008-1994?product_id=1210092
@@ -14,12 +9,7 @@ docidentifier:
 - content: CIE x008-1994
   type: CIE
   primary: true
-- content: '9783900734534'
-  type: ISBN
 docnumber: x008-1994
-date:
-- type: published
-  at: '1994'
 contributor:
 - role:
   - type: publisher
@@ -34,12 +24,6 @@ language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: |-
-    On Saturday 3 April 1993, a symposium was held under the title of “Urban sky glow, a worry for astronomy.” The organizer of the symposium was the Technical Committee TC 4.21 on “Interference by Light of Astronomical Observations.” This TC works under Division 4 (Lighting and signalling for transport) of the Commission Internationale de l'Eclairage CIE. The symposium was held at the Royal Observatory, Blackford Hill, Edinburgh, Scotland, in conjunction with a meeting of CIE Division 5 and with the LuxEuropa Conference. The programme included five presentations by international experts on astronomy, lighting architecture, lighting engineering and instrumentation.The text of the presentations is given in these proceedings. Two communications that are strictly not a part of the symposium are included: an earlier presentation by Schreuder in order to set the stage, and a communication of Castro that was presented to the TC meeting that preceded the symposium.
-                  See more
 ext:
   schema_version: v1.0.0
   doctype:

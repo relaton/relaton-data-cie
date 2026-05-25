@@ -2,11 +2,6 @@
 id: CIEx0512025ot5oru
 schema_version: v1.5.6
 type: standard
-title:
-- content: BIDIMENSIONAL SPECTRAL DIFFERENCE MEASUREMENT FOR SCENE COMPLEXITY ASSESSMENT
-  type: title-main
-- content: BIDIMENSIONAL SPECTRAL DIFFERENCE MEASUREMENT FOR SCENE COMPLEXITY ASSESSMENT
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x051-2025-ot5oru?product_id=3039930
@@ -15,58 +10,7 @@ docidentifier:
   type: CIE
   primary: true
 docnumber: x051:2025/ot5oru
-date:
-- type: published
-  at: '2025-11-01'
 contributor:
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: "N"
-      surname:
-        language: en
-        script: Latn
-        content: Richard
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: R
-      surname:
-        language: en
-        script: Latn
-        content: Jaber
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: L
-      surname:
-        language: en
-        script: Latn
-        content: Lepage
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: C
-      surname:
-        language: en
-        script: Latn
-        content: Fernandez
 - role:
   - type: publisher
   organization:
@@ -80,12 +24,6 @@ language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: |-
-    This study is a part of an evaluation of the impact of light quality on the perceived complexity of a scene for live entertainment. In this subpart of the study, we are wondering about the choice of the spectral difference calculation approach. The proposed experiment is first based on the comparison of an LED spotlight and its light when several filters are applied to it. Subsequently, a halogen light is compared against the same LED light under the same filters. A metrologically valid spectral difference metric (KLPD) is compared with an empirical construction based on L2 metrics and Spectral Angle Mapper differences. To establish a relationship between the physical stimuli (light spectra) to one aspect of its perceptual impact, the spectral differences were correlated with the Duv. The results show a good correlation between the KLPD and the Duv calculated using the TM30-20’s method for Duv calculation (Ohno, 2013).
-                  See more
 ext:
   schema_version: v1.0.0
   doctype:
