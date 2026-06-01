@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In a pilot intervention study with integrative LED lighting (white tunable lighting during the day and blue-free amber at night) at a hospital ward, a problem arose. Some of the night staff complained about eyestrain, and other visual problems when working in amber lighting, that might have been caused by incorrect power in their spectacles. An optometrist performed visual examinations and distributed new updated spectacles. The participants rated eyestrain, visual ability, headache and if the lighting was sufficient for their work tasks. The visual acuity and visual ability improved, and the eyestrain was reduced. The amber lighting was regarded as insufficient to perform any work tasks.The study shows a potential problem working in amber lighting with wrong power in spectacles. Amber lighting can reduce the ability to focus and therefore it might be necessary to recommend visual examinations to ensure accurate spectacles when working in amber lighting.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

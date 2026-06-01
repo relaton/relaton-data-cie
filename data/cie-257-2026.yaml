@@ -39,9 +39,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This report gives essential information necessary for consistent implementation of the CIE system for mesopic photometry (CIE 191:2010) in practical outdoor lighting applications. It describes how to calculate mesopic quantities according to the CIE system for mesopic photometry, including the method for calculating the adaptation coefficient, m. The adaptation field that should be used in these calculations is defined and background information to support this choice of adaptation field is presented. Visual tasks associated with outdoor lighting for drivers and pedestrians at night time are discussed and recommendations for those tasks for which the system is, and is not, applicable are presented.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

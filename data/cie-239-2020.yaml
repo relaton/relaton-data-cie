@@ -37,9 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    CIE 239:2020 provides basic measurement principles and practical guidance in goniospectroradiometry of optical radiation sources (i.e. measurement of the spectral distribution as a function of the emission angle of the source). Specifically, it includes measurement principles of the angular distribution of spectral, radiometric, photometric and colorimetric quantities of optical radiation sources, the related scanning method and a practical guide to determine sampling interval, uncertainty aspects and calibration.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

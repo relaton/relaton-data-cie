@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Encouraging people to cycle more has a range of individual and societal benefits. Previous studies using cycle count data have shown that darkness reduces the number of people cycling. This study extends previous work by establishing a model for the impact of road lighting on cycling after dark. Analysis of data from 117 cycle counters in five cities using a pooled odds ratio, incorporating all possible combinations of case and control hours to improve accuracy, confirmed that darkness reduces cycling numbers. This deterrent effect of darkness was reduced by the presence of road lighting. Specifically, a linear regression model suggests the presence of lighting reduces the odds ratio from 2.51 to 1.31, showing that road lighting is of critical value to support cycling after dark. This research contributes to the development of evidence-informed lighting design guidance, aiming to encourage active travel and improve cyclist safety.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

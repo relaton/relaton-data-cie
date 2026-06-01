@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The purpose of this study is to clarify the physiological and psychological effects of chromatic lighting through the subjective experiments. In this paper, we first compared the psychological effects of various illuminance and chromatic lights and confirmed the main effect of light colour on psychological stress. In the monochromatic lights, the green lights were stressless and the red lights were stressful. Among the mixed lights made of two kinds of monochromatic lights, the yellow lights tended to be stressless. We also examined the additivity of psychological stress from the viewpoint of irradiance. The result shows that the additivity could be assumed among blue, red, and their mixed light magenta at the conditions of 53 lx in front of the eyes, however, the additivity of other mixed colour lights needs to be investigated in the future with more experimental data.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

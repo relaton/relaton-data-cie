@@ -59,9 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Over the last 60 years of research and development in the field of texture assessment or discrimination, no standard or recommended definition has been adopted. This study proposes to extract from the state of the art the existing definitions and the important elements to be retained. A proposed definition and two required properties are suggested. They constitute the first step in an international discussion on the definition of non-uniform surface metrology.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

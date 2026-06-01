@@ -39,9 +39,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In recent years, the study of the psychobiological effects of light has come forth as an important subfield of lighting research. This final report of TC 6-16 consists of an alphabetically ordered bibliography with 1100 entries and a basic list of 120 key words. The bibliography deals with the impact of light, both natural and artificial, upon the biological clock. The effects cited include physiological variations between day and night, during the menstrual cycle, and during the different seasons of the year. Also included are psychological variations in emotional tone and alertness, as well as pre-menstrual tension and seasonal affective disorder.The selection of references has been restricted almost exclusively to research on humans. The bibliography covers the following topics: * The Biological Clock * Melatonin and Cortisol * Shift Work and Jet Lag * Seasonality in Hormones * Seasonal Affective Disorder * Light Therapy * Other Kinds of Seasonality * Premenstrual Syndrome * Windowless Environments * Lighting Characteristics * Individual and Group Differences * Confounding Factors
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

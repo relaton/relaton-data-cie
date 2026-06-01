@@ -127,9 +127,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/v6umqqMany people in industrialized countries would prefer to remain in their own homes for as long as possible. Remaining healthy while aging in place will depend on maintaining suitable indoor environmental quality. This paper reports preliminary online survey results concerning lighting conditions in the homes of older Canadian adults. Older adults who spend close to 24 hours daily in their homes might not receive the recommended daily light exposure of minimum 250 lx melanopic equivalent daylight illuminance from morning until three hours before bed. Those who spend time outdoors might receive an adequate total exposure if shorter or intermittent very high illuminance exposures are equivalent to long periods at a lower level. Survey participants were generally satisfied with their lighting. Regression analyses revealed small but statistically significant effects of light exposures and satisfaction with lighting on sleep and quality of life, which require validation with light logger data.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

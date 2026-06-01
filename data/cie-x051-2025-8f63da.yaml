@@ -95,9 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Imaging Luminance Measurement Devices (ILMDs) are increasingly used for optical measurements in applications like glare analysis and obtrusive light evaluation. However, the dynamic range of digital imaging sensors is often insufficient for typical scenes in these applications, requiring high dynamic range (HDR) imaging methods. HDR imaging typically involves capturing multiple low dynamic range (LDR) images at different exposures and combining them using an HDR merging algorithm. Most HDR imaging methods were established with the objective to produce aesthetic images, however, our objective is to understand how to best apply the methods to produce accurate and traceable measurements. This study reviews suitable HDR merging algorithms, considering the effects of the instrument, image acquisition method, and processing parameters, with the aim to draw attention to the parameters with the most impact on measurement quality.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

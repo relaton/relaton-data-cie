@@ -39,9 +39,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    CIE 018:2019 presents the basic conventions and principles of physical photometry, with the definitions of the photometric units as reformulated in the International System of Units (SI) 2019 and the photometric quantities and spectral luminous efficiency functions for photopic, mesopic and scotopic vision, including 10° photopic vision. The relationships between the photometric quantities and the radiometric quantities based on the constant Kcd are described, as well as the relationships between photochemical and photobiological quantities and photometric quantities. The conventions of colorimetry are presented, with the definitions of the colour-matching functions for the 2° and 10° field of view, tristimulus values, and chromaticity coordinates.
-                  See more
+  content: This document is a set or collection of related documents
 relation:
 - type: updates
   bibitem:

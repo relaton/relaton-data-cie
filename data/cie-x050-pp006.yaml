@@ -145,9 +145,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The use of multichannel LEDs is crucial in museum applications to design ad-hoc spectra able to combine fruition and protection needs, i.e., maximizing Colour Rendering Index and controlling energy content in risk wavelengths responsible for the photochemical degradation of the exposed objects. A similar approach could be applied also to prevent the biological risk, such as the fungi growth on artifacts, studying the microorganisms’ sensitivity to different wavelengths. The paper investigates the growth rate and the proteins and carbohydrates content of five different fungal strains cultivated inside experimental boxes equipped with four different monochromatic LEDs. It has been demonstrated that, even if fungi are heterotrophic organisms and do not need light to grow and develop, their growth rate, and their proteins and carbohydrates content change when exposed to different irradiance conditions. The acquired information is useful for a future design of ad-hoc SPDs to be implemented in museum applications.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

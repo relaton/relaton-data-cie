@@ -109,9 +109,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Currently, there is renewed focus on the importance of views in evaluating window performance. In addition, previous studies have shown that the amount of daylight perceived by people may be influenced by the view rather than the actual amount of light, however, the relationship between them has not yet been clarified and needs to be examined. In this study, evaluations on window view and daylight were extracted from a questionnaire survey on environmental adjustment behaviour in housing, which was conducted in the Kanto region of Japan, and their psychological relationships were examined. The results of the analysis showed that the evaluation of daylighting was infected to some extent by evaluating the view at the window. This indicated that the evaluation of the view at the window can serve as a basis for evaluating the visual environment through windows.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

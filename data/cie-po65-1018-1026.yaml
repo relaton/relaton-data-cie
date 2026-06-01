@@ -77,10 +77,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This research aims to find the range of pleasantness, darkness and brightness in a lighting environment in a restaurant, using three lighting methods and assuming four behaviours with different visual focuses. Adjustment method was used to derive the threshold value. Experimental results showed that a range of pleasant darkness exists, and also that there is a possibility of a range of unpleasant brightness. Pleasantness, darkness and brightness judgements were affected by types of behaviour, lighting methods and subjects. Instead of calculating the average, logistic analysis was conducted to derive positive response rate of 50% as a threshold value. Lighting environmental indexes are also considered with each behaviour. Use of luminance values may compromise the differences caused by the lighting method. Experimental results were compared with the standard values and indicated that pleasantness may also be found in darker environments.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

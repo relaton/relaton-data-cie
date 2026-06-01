@@ -37,9 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    If a material is irradiated, some portion of the incident optical radiation is reflected, another portion absorbed, and a third portion transmitted. This action of a material can be described by the physical, radiant, luminous or spectral characteristics of the material. Fluorescent materials can be described in the same manner but behave as sources for the portion of the radiation which is re-emitted as fluorescence. The terms reflected, transmitted, fluorescent, and total radiance or luminance can be used to describe fluorescent materials. The adjective spectral is used to distinguish spectral properties from radiant or luminous properties.The report is a survey of the processes which occur if a material is irradiated, and of the characteristics of the material which are important in determining its behavior in general and in a few special cases. The report also clarifies the definitions of characteristics and processes.The report is in English, German, and French. Photocopy Edition 1990.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

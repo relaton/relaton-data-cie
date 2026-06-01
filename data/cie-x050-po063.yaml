@@ -109,9 +109,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In Japan expressways, newly developed permeable pavement (hereinafter referred to as "permeable pavement") is adopted as standard for expressway tunnels. In order to investigate the reflective characteristics of permeable pavement, the authors constructed a measurement facility to derive reduced luminance coefficient in Japan. Reduced luminance coefficient for permeable pavements with different elapsed years were derived according to the measurement facility, and the aging changes of overall uniformity (Uo) and longitudinal uniformity (Ul) were predicted. As a result, Uo decreased by up to 15 % and Ul showed no significant decline. Therefore, at a tunnel where permeable pavement is adopted, appropriate lighting design can be performed by selecting a reduced luminance coefficient table (r-table) to be applied to the tunnel lighting design in consideration of the progress change of the pavement.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

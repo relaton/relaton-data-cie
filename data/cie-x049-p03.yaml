@@ -64,9 +64,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    We evaluated several data acquisition systems for measurement of temporal light modulations. A waveform generator was used to simulate temporal light modulation waveforms for this evaluation. The generated waveform was used as the waveform reference and was measured using three representative data acquisition systems with resolutions of 24 bits, 16 bits, and 8 bits. The temporal light artefacts quantities, the short-term flicker index, PstLM, perception modulation, Mp, and stroboscopic effect visibility measure, SVM, of the reference waveform and three measured waveforms were calculated and compared.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

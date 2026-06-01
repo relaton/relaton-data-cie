@@ -121,9 +121,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Integrating spectral data (spectral responsivities of photometers or spectral distributions of light sources) to calculate quantities such as tristimulus values is straightforward at first sight. However, estimating the measurement uncertainty of these integrated quantities is challenging. When calculating integral photometric quantities, some uncertainty contributions from the spectral data transfer to the final results, some "cancel out," some "average out" and others increase or decrease their weight by correlation.The spectral quantities are usually assumed to be uncorrelated when deriving other quantities by integration, which is typically not justified. Using Monte Carlo simulations (MCS) and orthogonal functions, this paper shows that the neglection of partial spectral correlations may lead to a significant underestimation of the measurement uncertainty of these integral quantities and how to use this information for better estimation.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

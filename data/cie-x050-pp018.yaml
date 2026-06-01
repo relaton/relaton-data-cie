@@ -49,9 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Sparkle and graininess measurement problems of metallic coated panel with matte coating were verified. Metallic coating panel combining aluminium flake and matting agents were prepared and observed by several types of microscopes. The three-dimensional microstructure was measured using a digital optical microscope and a laser confocal microscope for surface observation, and also high magnification observation by SEM. Using a portable gonio-spectrophotometer BYK mac I capable of measuring multi-angle reflectance, Sparkle and Graininess Index. And a surface property such as gloss, image clarity was measured by surface analyser, and clarified the relationship between the light diffusion effect of the matting agent. Spectroscopic imaging measurements were performed with 3-angle directional illumination. Among them, the diffusion effect of illumination light at 75 degrees illumination was characteristic. Spectroscopic imaging measurements were performed with three types of integrating sphere illumination. Among them, SCI was significantly affected by matting agents.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

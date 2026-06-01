@@ -74,9 +74,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This article aims to compare the energy consumption of various methods used for the design of road tunnel reinforcement lighting. The Belgian, French, and Italian methods, as well as those presented in the appendices of CIE 88 2004 and the latest version of CEN 14380 (16 October 2024), are studied. The French and Italian methods, along with the simplified traffic-weighted L20 method, achieve the most energy-efficient road luminance profiles (with consumption between 51% and 56% less than for the most energy-intensive method). It is important to note that the results do not account for the safety aspects of the methods and to a large extent depend on the design hypotheses.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

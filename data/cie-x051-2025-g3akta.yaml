@@ -98,9 +98,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/g3aktaThe phantom array effect is a visual effect perceived by a human observer when making rapid eye movements across a light source exhibiting temporal light modulation at frequencies between about one hundred Hz and a few kHz: a series of multiple spurious images of the light source is seen in the direction of the eye saccade. This phenomenon may create discomfort when accomplishing visual tasks involving eye movements, such as driving or walking. In this paper, we provide a simple description of the phantom array effect by deriving formulas predicting its spatial and temporal features perceived in the field of view. This approach provides a framework to study how the visibility of the phantom array effect is influenced by the shape of the source, its luminance, the surrounding and background luminance, the modulation frequency and waveform, and the individual visual acuity.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

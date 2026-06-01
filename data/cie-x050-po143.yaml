@@ -121,9 +121,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In recent years, light-emitting diode (LED) lamps have become the mainstream light source for road lighting because of their high efficiency and long life. Unlike high-intensity discharge lamps, LEDs do not stop lighting at the end of their service life but continue emitting light with a decreased luminous flux. For this reason, it is important for road lighting that uses LEDs to regularly check if the road surface luminance is maintained according to the relevant performance index. If measurement of road surface illuminance using an unmanned aerial vehicle (UAV) is realized, the time required for illuminance measurement can be reduced, which may reduce the traffic control hours and the burden on road users, such as detours and traffic congestion caused by traffic control. This study examined whether road surface illuminance photometry using UAVs can be used for maintenance and management of road lighting facilities.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

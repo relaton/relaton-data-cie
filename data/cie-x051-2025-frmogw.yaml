@@ -127,9 +127,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Human-centric lighting has gained attention for its potential to enhance mood, cognitive performance, and productivity in work environments. This research investigates how LED-based dynamic lighting (with tunable CT ranges from 2700K to 6500K and adjustable illuminance control) operates relative to reference office lighting (static scenario) under laboratory environment. Repeated measures were obtained to achieve reliable time-based data. Momentary Affect Scale for mood evaluations, Digit Span Test for measuring short-term memory, Spatial Cueing Task for assessing visual attention were used. The findings highlight the interplay between lighting conditions, task type, and cognitive performance, particularly focusing on reaction times and accuracy in the context of the digit span task. Specifically, participants responded about 3.13 seconds faster in the backward digit span task when exposed to static lighting compared to human-centric lighting. Similar patterns were observed for the forward task, underscoring the impact of task complexity on cognitive processing speeds.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

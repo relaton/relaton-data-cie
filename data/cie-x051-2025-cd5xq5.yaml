@@ -52,9 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Environmental lighting zones (E0-E4) in CIE 150:2017 were developed primarily to address human needs and gave limited consideration to ecological impacts. This study analysed light pollution patterns in relation to protected areas across Sweden using satellite-derived metrics. Analysis of 55 roadside sites revealed that the ratio of artificial brightness to natural background brightness is the most ecological relevant parameter. A new multi-criteria classification system for ecological environmental lighting zones (EcoLZ) is proposed, integrating ratio classes with ecosystem light sensitivity, topographical features, and temporal variations. The framework includes a matrix approach combining biotope and species sensitivity to determine appropriate lighting restrictions. Implementation guidelines outline a step-by-step process for applying these ecological lighting zones in practical roadside management. This preliminary framework requires further field testing and case studies to refine zone-specific lighting specifications.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

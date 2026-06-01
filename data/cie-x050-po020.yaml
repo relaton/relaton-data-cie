@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Since discomfort glare may occur when window luminance increases during daylight use, it is necessary to consider that workers in offices do not perceive discomfort glare. There are two types of discomfort glare for daylight: contrast glare and saturation glare. The saturation glare can be evaluated by vertical illuminance, which is easy to measure, while the contrast glare requires the luminance of the light source and the luminance of background for evaluation. However, measuring luminance is difficult for the typical practitioner. The purpose of this study is to develop a practical method in which vertical illuminance at the eye is mainly used to predict both contrast glare and saturation glare. By using the proposed equation, it is now possible to evaluate the contrast glare and saturation glare in daylit interiors according to the vertical illuminance at the eye.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

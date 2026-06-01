@@ -76,9 +76,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study investigates visual attentiveness in retail environments using a developed human-subject testing protocol. Building on previous research into energy-saving lighting strategies for commercial spaces, this project explores whether dynamic lighting controls can enhance customer alertness while reducing energy consumption. The research focuses on the perceptibility of lighting changes, particularly in terms of dimming and ramping rates, by examining central and peripheral vision responses. A controlled laboratory experiment with 70 participants tested various light intensity adjustments under different ramp rates. The findings aim to inform lighting design protocols that minimize energy waste without compromising customer experience or visual attention. By developing a new experimental methodology for assessing alertness through lighting, this work contributes to sustainable retail lighting design practices and offers insights into how lighting systems can be optimized to boost customer engagement while lowering energy use.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

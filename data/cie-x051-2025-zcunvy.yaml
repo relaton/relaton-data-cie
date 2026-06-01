@@ -95,9 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study investigates how LED lighting conditions affect circadian health using wearable sensors to monitor office workers’ light exposure, salivary melatonin, and skin temperature over five days. As LED lighting offers spectrally tunable options, understanding its non-image-forming (NIF) effects is critical for health optimization. Results show cool white light exposure over consecutive days reduced morning melatonin levels, while warm white light stabilized or increased them, emphasizing spectral sensitivity. Most participants failed to meet recommended light exposure thresholds, with declining morning melatonin suggesting insufficient circadian-effective office lighting. Nocturnal skin temperature remained unaffected by lighting changes, indicating it is less responsive to short-term spectral variation. These findings highlight the need for dynamic, circadian-supportive workplace lighting strategies to mitigate circadian disruption risks. By integrating wearable sensor data with melatonin biomarkers, this work advances evidence-based lighting design to harmonize spectral composition, visual comfort, and physiological health in real-world settings.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

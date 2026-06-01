@@ -101,10 +101,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This paper deals with investigation of the measurement various methods in goniophotometric measurements using various OLEDs samples with different goniophotometers i.e. light source rotating goniophotometer, mirror goniophotometer, near-field goniophotometer with imaging photometer, goniophotometer with rotating arm with photometer and rotating light source around of OLED's axis. Cooperation between testing laboratories having these types of goniophotometers is presented.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

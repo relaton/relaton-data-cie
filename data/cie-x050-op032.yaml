@@ -59,9 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The perceived chroma of objects decreases at lower light levels, which is known as Hunt Effect. Several recent studies demonstrated that Hunt Effect is effective and significant at the normal indoor light levels, indicating that objects under typical indoor lighting environment are appearing less saturated compared to that under outdoor daylight. According to this principle, the preference for chroma-enhancing lights in indoor lighting may be explained as an effect of colour fidelity under different light levels. To investigate this further, a dynamic colour fidelity model was developed based on a series of vision experiments conducted recently at NIST to quantify the perceived chroma changes by Hunt Effect. The model was evaluated using the spectra of lights used in the past preference experiments, comparing its output with the visual evaluation results. The results showed that the relative colour fidelity curves for light sources of varied chroma increase levels, calculated by the model, agreed well with the visual evaluation on these lights in the experiments.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

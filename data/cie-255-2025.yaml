@@ -37,9 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The visual field of human vision has been studied for a long time and many scientific papers have been published on this topic. This report reviews a number of studies on the human visual field, though not exhaustive, in order to allow a better understanding of the role of the visual field by providing a way of classification with regard to its sensory functions and visual tasks. Two major categories are addressed: one for finding and obtaining information including detection, discrimination, resolution, identification, motion detection, etc., and the other one for integration of information to do a vision-related task, such as reading, eye-and-motion coordination, etc. For each category, relevant studies and some of their typical data are presented. Examples of applications relying on the knowledge of the functional visual field are also presented.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -37,13 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This technical report supplements CIE 12.2-1977 Recommendations for the Lighting of Roads for Motorized Traffic. It describes details of technologies and work processes which are required to achieve the objectives put forward in CIE 12.2-1977.
-
-    It treats lighting problems which arise form certain discontinuities not mentioned in CIE 12.2-1977 (e.g. humps or multi-level works). It also takes into account the evolution of newer techniques (e.g. new sources, high masts, or catenary lighting).
-
-    The publication contains 33 pages, 25 figures and 1 table.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

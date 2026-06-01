@@ -95,9 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The study of LED photometric measurement, which utilizes LED standard lamps as a complement to traditional incandescent standard lamps, has been undertaken. As a means to transition the photometric scale, LED transfer standards are crucial for LED photometry. This research investigates the development of LED lamps designed for luminous intensity and total luminous flux, which are intended to emulate their traditional counterparts and maintain compatibility with existing methods of lamp alignment and mounting. The characteristics of these LED lamps, including spectrum, warm-up duration, short-term stability, long-term stability, on-shelf effects, angular intensity distribution, the inverse square law performance, and temperature dependency, have been thoroughly examined. The LED lamps have demonstrated significant potential for photometric applications. Efforts are currently underway to employ LED transfer standards in LED photometric measurements to build traceability to the national primary scales at the author's institute.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

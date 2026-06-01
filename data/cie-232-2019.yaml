@@ -39,9 +39,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Im Jahre 1995 entwickelte das Technische Komitee 3-13 der CIE das Unified Glare Rating (UGR) zur Vorhersage der psychologischen Blendung in Innenräumen. Aus praktischen Gründen basiert das UGR-Verfahren auf einer mittleren Leuchtdichte der Blendquelle. Die Einführung von LEDs in der Allgemeinbeleuchtung ermöglichte viele neue Leuchtendesigns, die teilweise zu unvorhergesehen hohen Leuchtdichtekontrasten innerhalb der Leuchte führten. Die in diesem Report vorgestellte Literaturrecherche zeigt, dass UGR zu einer Unterschätzung des durch die Blendung hervorgerufenen Unbehagens tendiert, die von solchen Leuchten mit stark inhomogener Leucht-dichtestruktur hervorgerufen wird. Mehrere Methoden zur Korrektur des UGR-Verfahrens werden mittels experimenteller Daten bewertet, indem die Werte aus den Korrekturmethoden mit dem wahrgenommenen Unbehagen aufgrund der Blendung von homogenen und inhomogenen Lichtquellen verglichen werden. Die bevorzugte Methode enthält eine präzise Definition der Blendquellenfläche, basierend auf einem Leuchtdichtebild der Blendquelle. Diese Methode behebt die Diskrepanzen zwischen UGR und der wahrgenommenen Blendung von inhomogenen Lichtquellen. Als Ausblick und Hilfestellung für zukünftige Arbeiten zu Blendungsvorhersagemethoden werden die verbleibenden Schwächen von UGR kurz dargestellt.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

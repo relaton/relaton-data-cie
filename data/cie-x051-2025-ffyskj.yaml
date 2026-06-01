@@ -119,9 +119,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Knowing the reflective properties of road surfaces is an important lever for optimizing the performance of lighting installations. Nevertheless, measuring these properties is still a confidential exercise, and the uncertainties associated with r-table measurements are rarely evaluated. Based on a cross-test campaign between 3 laboratory gonioreflectometers, we investigated the effect of the dispersion of r-table measurements on the quality criteria of a lighting installation. We were able to show that these dispersions were still acceptable, and that characterizing the optical properties of a pavement is an advantage over the traditional use of CIE standard r-tables. By carrying out these measurements in different observation geometries, we also showed that reconsidering the standard 1° geometry would offer the possibility of reducing measurement uncertainties. This contributes to current research aimed at better integrating different types of night-time mobility into urban lighting practices.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

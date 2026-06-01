@@ -76,9 +76,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The U.S. Department of Energy estimates that commercial buildings account for 18% of total U.S. energy consumption; of these commercial buildings, retail stores and museums have visitors who occupy the spaces only for short periods.This presents an opportunity for lighting design protocols to reduce energy consumption in museums and retail stores with dynamic controls that adjust the interior lights during periods of vacancy, thereby maximizing energy savings. The objective of this research was to identify possibilities where dimming lights are not noticeable to the eye through a full-scale human subject study based on Just Noticeable Difference (JND). By conducting a human subject study at full scale, this study found that dimming lights gradually with the implementation of ramp rates can significantly decrease human perception. Participants' ability to detect changes when dimming light levels up to 20% using ramp rates tested was 25% compared to 92% by switching.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

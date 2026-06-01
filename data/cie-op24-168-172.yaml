@@ -61,10 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This experiment is to explore the relationship between the screen brightness and ambient brightness, and extend the difference between the screen to adjust the brightness sensor. In this study, four sets of ambient lighting were used in a room where the observer was asked to evaluate the readability and visual comfort read on the laptop screen and to look for 30 men and women who were half of the test. The results show that the current brightness sensor is not just a positive reception light source can be more in-depth discussion to detect different directions of light to adjust the screen brightness.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

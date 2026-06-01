@@ -71,11 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    There is a significant disagreement amongst the studies on the effects of light distribution on spatial brightness. Some studies indicate that more uniformly lit spaces should appear brighter, while other suggest that non-uniform spaces should appear brighter. A recent pilot study (that found non-uniform spaces to be brighter) suggested the possibility that this disagreement was due to the different methodologies used in the literature, with some studies using brightness matching tasks, and others using subjective rating scales. We test that
-    hypothesis by assessing the brightness of 8 different light distributions using both brightness matching and magnitude estimation. We find the same results with both methods, indicating that methodology is not the cause of the discrepancies in the literature. We suggest that the issues may be due to flaws in the measurement of uniformity, and discuss the theoretical challenges faced by common uniformity metrics in order to inform future research.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

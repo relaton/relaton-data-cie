@@ -91,10 +91,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In the CAT02 chromatic adaptation transform, adopted in the CIECAM02 colour appearance model, the degree of adaptation D is only related to the luminance of the surrounding field. Research has already shown that the chromaticity of the adapting illumination has a significant impact on D. In this pilot study, the impact of adapting field size on the D factor was investigated for three field sizes: 0° (no adapting field), 20o and 80o. A memory colour matching approach was used to obtain corresponding colours under 13 different surround illumination chromaticities by making a grey cube appear achromatic. The results showed that chromatic adaptation for the largest surrounding field is more complete than for the smaller surrounding fields.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Photoluminescent paints for road marking have been evaluated through laboratory measurements and visibility computations. The luminance decay in the dark was measured after constant excitation during at least six hours. To study the effect of night-time lighting conditions, luminance was also measured under a constant low illumination simulating moon and light pollution, and a periodic lighting simulating automotive traffic. Measurements were also carried out on luminescent road markings applied in a full scale mock up. Then, possible uses and limits of photoluminescent road markings were investigated through visibility computations based on the COST 331 model. Findings suggest that luminescent road markings could strengthen the visual guidance of drivers on the road with traffic by increasing the visibility distance beyond the range of the headlamps during the first few hours of the night, but it depends on the night-time illumination level.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -37,16 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Technical Report presents a roadmap for the CIE, to help guide its development of a new, complete, self-consistent system of CIE colorimetric measures, based directly on cone fundamentals, with explicit consideration of the impacts of normal variations of the cone fundamentals due to age, field of view, and individual diversity.
-    The report provides the necessary background information, with detailed supporting references, to support the reasoning behind the new specific proposals that are presented. It recommends that the CIE form several new Technical Committees to help address these conclusions.
-    The five proposed new CIE Technical Committees can be tentatively described with the following titles:
-    (i) Creation of LMS-based measures similar to some measures within the XYZ system;
-    (ii) Expansion of the cone fundamental wavelength range;
-    (iii) LMS-based approximately uniform colour space;
-    (iv) Recommendations for a global study of cone fundamental diversity;
-    (v) Colorimetric effects of cone fundamental diversity.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

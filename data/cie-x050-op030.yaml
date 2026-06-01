@@ -97,9 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This article focuses on the visibility of road users in urban environment. First, we carried out a virtual reality experiment to find out where we look on the ground when we travel in city. This enabled us to deduce observation angles for each type of user. Measurements on an experimental site and simulations were carried out with these new observation angles. This enabled us to assess the impact of changing the observation geometry on the quality criteria of a lighting installation and on the visibility criterion. We have shown that increasing the observation angle leads to a reduction in the mean luminance but, despite this, visibility is not affected. This led us to propose adaptations to the current recommendations: using a mobile observer for an observation angle greater than 1° and downgrading by one class when dimensioning a lighting installation in the city in the standard way.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

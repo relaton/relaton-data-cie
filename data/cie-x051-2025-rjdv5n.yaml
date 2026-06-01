@@ -110,9 +110,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/rjdv5nThe visual appearance effect known as sparkle, defined as observed bright points of light contrasted with a darker surround, is frequently used to enhance modern product finishes. Existing commercial instruments measure sparkle using proprietary methods, lacking standardisation. To address this issue, CIE is working on the recommendation of a sparkle measurement scale based on luminance factor images. This paper presents the results of a study on the correlation between sparkle as optically quantified through luminance factor images and as visually assessed through a magnitude estimation experiment. To this end, 66 samples were selected, obtained from different manufactures and exhibiting different sparkle effects. The study demonstrates that the degree of correlation is strongly dependant on the sample type. This result illustrates that more research is needed for defining a general measurement and or processing procedure that is applicable to a wide variety of sample types.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

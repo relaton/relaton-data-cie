@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In order to quantitatively evaluate the impact of display screens on residents living near commercial streets more effectively, this study focuses on two key parameters: the brightness of the display screen and the illuminance at the residents' windows. Theoretical derivations were conducted to establish the mathematical relationship between brightness and illuminance under different positions and angles. The derived formulas were validated through three sets of experiments, and the results indicated that the accuracy of the theoretical derivations increases as the distance (r) between the display screen and the window location increases; The accuracy of the theoretical derivations decreases as the angle (α) between the line (d) connecting the window and the display screen and the normal vector of the screen increases, with α<52° considered to yield relatively accurate results. The angle (β) between the normal vector of the window and the display screen had minimal impact on the results.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

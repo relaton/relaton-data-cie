@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Due to the wide range of applications of LEDs, people are exposed to various forms of temporal light artefacts (TLAs) in many everyday situations. It is important to define and evaluate TLAs in order to raise public awareness of this issue one approach is by using imaging. In this work, established metrics for TLM and TLA are discussed regarding systematic errors and uncertainty contributions related to the sampling duration with respect to the periodicity of the waveform are to be shown and estimated.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

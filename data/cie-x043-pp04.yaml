@@ -139,10 +139,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In this work, one efficient measuring scheme is proposed for the measurement of angle-resolved luminance with imaging sensors. Mainly, a Lambertian diffuser transmitting screen is introduced to highly reduce the measuring time. In addition to the light sources, the measuring scheme can be also easily expanded for the measurement on the BRDF and the BTDF of the diffuse surface materials. Finally, some testing examples are also presented in our experiments.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

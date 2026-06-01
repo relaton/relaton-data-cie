@@ -71,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Besides the many positive values relating to lighting, a wider international understanding is emerging that the amount of lighting and energy consumed must be reduced. In this paper, a case study results of developing a luminance-based method for measuring and analysing the visual-spatial light appearance of scarcely lit urban environments are presented and discussed. In the process, nocturnal urban views were analysed with observations and luminance camera measurements, and essential features for visual-spatial experiences were identified. According to the preliminary results, the chosen visual-spatial concepts – enclosure, open view, interspaces, framing, scale, detailing and user relation – that were tested in creating the analysis images, seem to be useful conceptual tools for framing quantitative analysis of complex luminance images of urban darkness. The results of this study help to develop sustainable and energy-efficient solution models and season dependent lighting design strategies for northern urban environments, respecting the values of darkness.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

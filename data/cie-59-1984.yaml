@@ -37,13 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This report reviews the effects of polarization on photometric and other measurements which are of particular relevance to photometry. It should not be regarded as comprehensive with regard to all aspects of polarization. The degree of polarization introduced by an optical system into a beam of light varies with the complexity of the instrument. In general, it is wavelength dependent in a given system. Furthermore, the effect of any polarization on the determination of photometric properties will depend on the actual measurement being undertaken. Thus, although polarization can have a very significant effect on many photometric measurements, it is difficult to quantify this in a generalized way. The report discusses polarization effects in the individual optical components which comprises a complete instrument, including the source and detector.
-
-    Additional information is given on the main properties of polarizers, particularly those relevant to photometry.
-
-    The publication contains 31 pages and 4 tables.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

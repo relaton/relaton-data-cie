@@ -86,10 +86,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Study of Light Emitting Diode (LED) health lighting has been the key point of the development of LED industry. It is important to assess the visual fatigue of users in the LED lighting environment. Previous researchers tend to assess the visual fatigue degree of products based on subjective perceptions of the product users. Few credible indices are provided for quantification, making their results controversial in stability and accuracy. Consequently, these researching results can hardly meet the "human-centric" aim of lighting products design. In the present study, we showed an introduction to the system frame and researching progress of LED health lighting study based on visual physiological parameters.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

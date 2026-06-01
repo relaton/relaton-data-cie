@@ -116,9 +116,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/kr3d33This study presents a machine learning-based framework for real-time prediction of road lighting classes in adaptive lighting systems. A pilot implementation was conducted on Büyükdere Street in Istanbul using two years of traffic and meteorological data. Lighting scenarios were developed in line with EN 13201 standards, and simulations with dimmable LED luminaires ensured compliance with lighting quality requirements. Hourly traffic flow and vehicle speed were predicted using Extreme Gradient Boosting and mapped to appropriate lighting classes via a rule-based matrix. The system was validated over six months, capturing seasonal and daily variations. The models achieved R² scores of 0.864 and 0.822 for flow and speed predictions, respectively. Predicted lighting classes reached 92.1% and 89.7% agreement with actual classes in two directions. Compared to non-adaptive M2-level lighting, the proposed system provided up to 32.1% energy savings. Results confirm the feasibility of data-driven adaptive lighting for energy-efficient and safe urban road environments.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

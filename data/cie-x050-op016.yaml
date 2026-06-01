@@ -97,9 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Integrative lighting conditions in four offices of the university ‘Politecnico di Torino’ (Turin, Italy) were investigated, in terms of combination of daylighting and electric lighting. The research addressed two objectives: i) to verify if the lighting conditions could meet the recommendations proposed in recent literature (CIE or WELL protocol) concerning light exposure for appropriate non-visual responses (melanopic equivalent daylight illuminance m-EDI); ii) to assess the influence on integrative lighting (photopic and melanopic illuminances) played by daylighting as a function of different room depth and orientation, by electric lighting, as a function of different lighting systems and by the combination of both. Electric lighting was assessed through field measurements, while daylighting through annual simulations using LARK v2. Results showed that CIE requirements were not met in any office, while WELL recommendations were met only for the positions closest to the window (within 1.87 m).
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

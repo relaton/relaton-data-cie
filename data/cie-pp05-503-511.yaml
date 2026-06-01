@@ -63,10 +63,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The performance of the CIE whiteness formula is focused on D65 illuminant and narrow region of colour space correlate not well under other conditions. In this study, the new whiteness formula based on CIECAM02 colour appearance model is discussed. The perceived whiteness of white textile samples was evaluated under three different illumination conditions. Several samples were found to be outside the region of validity of the CIE whiteness although they were perceived as acceptably white by most observers. The results showed that the new whiteness formula outperform other whiteness formulae.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

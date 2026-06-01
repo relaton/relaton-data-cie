@@ -59,9 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/v64zfxA study deals with the stroboscopic effect that occurs during the perception of pulse width modulated light. The aim was to investigate whether and how illuminance influences the stroboscopic effect. The study was based on a test setup with a rotating black circle as a visual object on a bright background. The test field was illuminated with different illumination levels (1000 lx, 250 lx, 63 lx). The LED illumination varied in frequency, duty cycle and modulation depth. 12 test subjects took part. The hypothesis that the perception of the stroboscopic effect depends on the illuminance could not be confirmed.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

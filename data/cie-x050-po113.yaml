@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    We investigated the feasibility and the limitations of using a UAV-borne (Unmanned Aerial Vehicle, or drone) light source for calibrating a starphotometer (essentially a telescope mounted spectroradiometer). This is a proof-of-concept experiment for future use of satellite- and balloon-borne calibration light sources. We measured a narrow-band, three-colour LED source at three fixed UAV positions between 700 and 1500 m distance and at 115 m elevation over a 5–10° elevation angle range above the horizon (equivalent to a 0,09–0,19 airmass range). While the calibration was deemed to show good potential, it was limited by the use of a narrow-band light source. Line-of-sight extinction profiling is a very interesting product that can be extracted from these types of measurements.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

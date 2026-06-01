@@ -37,12 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In September 2012 the Lighting Quality & Energy Efficiency Conference took place in Hangzhou, China. The event gave academics, lighting industry professionals, designers, researchers and representatives of regulatory authorities the opportunity to discuss best practice and the latest developments in the field of light and illumination. Recommendations were also made for reducing the amount of energy used for lighting. One of the hottest topics at the conference was light emitting diodes (LEDs), which offer significant environmental and energy-efficiency benefits compared with conventional light bulbs and energy-saving lamps.
-    The Proceedings of this Conference include invited papers, papers of the oral and poster presentations as well as introducing summaries of the Workshops.
-
-    The publication consists of 799 pages including 123 contributions with more than 500 figures and some 200 tables.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

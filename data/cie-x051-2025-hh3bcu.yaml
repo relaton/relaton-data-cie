@@ -103,9 +103,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The European Partnership of Metrology, on behalf of EURAMET, is conducting a global field campaign to quantify human exposure to visible and ultraviolet (UV) light, thereby supporting the future development of improved personal light dosimeters and guiding evidence-based luminaire design. This initiative leverages personal daily-light measurements collected both indoors and outdoors across six geographically diverse sites on multiple continents. By systematically capturing how much light reaches the human eye and identifying key spectral components necessary for optimal illumination, these data will inform refined practical recommendations for advanced indoor lighting solutions. Through ongoing field data collection, the project aims to raise awareness among manufacturers, designers, and end-users, ensuring the widespread adoption of adequate, well-balanced light environments. This paper presents the Spanish contribution to the consortium’s overall goals, highlighting the methodology employed, preliminary insights, and the potential impact on future lighting practices.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -39,9 +39,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This CIE Expert Symposium was organized by CIE Division 2 in cooperation with the Physikalisch-Technische Bundesanstalt PTB and CIE Central Bureau, and was hosted by the PTB at their laboratories in Braunschweig, Germany. The Symposium featured contributed papers of leading experts in photometry and radiometry presenting facts and recent research related to the CIE International Standard S 025 Test Method for LED Lamps, LED Luminaires and LED Modules.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

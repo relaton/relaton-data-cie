@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Outdoor lighting is an essential service and offers many benefits to users; however, excessive exposure to ALAN may have adverse effects on human health and well-being. Studies on light pollution are mainly based on the evaluation of the phenomenon on the horizontal plane, through nighttime satellite imagery. However, the assessment of the quantity and the spectrum of light on vertical planes is more relevant when the influence on human health is considered. In this paper, a methodological approach for the assessment of ALAN in a city context is presented. The study involved the assessment of light pollution through in-field measurements (photometric and spectral measurement campaign), to evaluate the phenomena considering the impact of light on buildings and on the human visual system. Some preliminary results and data elaborations referred to the application of the research methodology to a case study are presented.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

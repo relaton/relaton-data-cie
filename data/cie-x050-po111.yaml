@@ -109,9 +109,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    An experiment was conducted in a dark room to clarify the evaluation method for suppressing discomfort glare for fixed low mounting height luminaires lighting system (LMHL) in road lighting. Experiments were performed by a method of adjustment that set the output of the glare source to acceptable discomfort and a method of constant stimuli using a deBoer rating. As an evaluation index of discomfort glare, vertical illuminance (Evg) at a height of 1,2 m above the road at the boundary between the lane and shoulder was defined. Experimental results show that Evg correlates with deBoer rating. Also, the Evg (relative value) for suppressing the discomfort glare to an acceptable level for the observer's adaptation luminance and the acceptable Evg (absolute value) at an adaptation luminance of 0,5 cd·m-2 were obtained from the experiment. Using these, we propose to set the acceptable Evg according to the condition of the average road luminance in the design of road lighting.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

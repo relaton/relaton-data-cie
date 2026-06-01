@@ -59,9 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This paper concerns the inclusion of cyclists in recommendations and standards for road lighting design. We use the results from eye tracking experiments to discuss cyclists’ gaze behaviour after dark to question the assumption that the needs of cyclists are co-incident with the needs of pedestrians. There is some suggestion that the greater proportion of cyclists’ fixations are towards the road ahead than to the wider environment, and thus resemble drivers more than pedestrians, but the data available are limited by lighting condition (daylight only), route (only short sections analysed), age (only young cyclists) and travel mode (no e-bikes). Improving the guidance used when designing road lighting will enable lighting designers to better meet cyclists’ needs for safe travel.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

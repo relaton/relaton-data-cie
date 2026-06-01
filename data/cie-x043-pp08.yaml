@@ -133,9 +133,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Light-emitting-diode lighting can be used for spectral control. With this technology, it is possible to change the illuminance and colour temperature of the lit environment in real time. However, the comfortable range of the illuminance zone is influenced not only by the illuminance and colour temperature, but also by the thermal environment. In this study, steady state experiments are conducted examining the changes in the "hot-cold", "warm-cool", and "comfortable-uncomfortable" perceptions of experimental subjects corresponding to the hue-heat effect, which are based on the colour temperature. Variations are particularly observed for tests conducted in changeable transition periods such as Autumn and Spring.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

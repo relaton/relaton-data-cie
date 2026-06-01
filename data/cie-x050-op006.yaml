@@ -71,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    A large proportion of the sensory input to decision making is visual, suggested being more than 80% for driving. Risks associated with driving increases in the hours of darkness due to decreased visibility, and poor detectability of vulnerable road users especially in dark clothing. Combining this with driver distraction (engagement in activities not critical for safe driving) increases the risk of a collision even further. Aids to vision (e.g., road lighting, high visibility clothing) potentially can mitigate these challenges. This paper present a laboratory experiment measuring detection of hazards while distracted and highlights the extent of which aids to vision could improve the detection of pedestrians after dark. The result suggests a reduction of 1.5 second on reaction time which could significantly offset the stopping distance when responding to an emergency.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

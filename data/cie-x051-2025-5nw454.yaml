@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The recent development of renewable energies leads to an increasing number of photovoltaic panels (PVPs) deployed worldwide, including around airports. However, solar ray reflections on PVPs may produce glare, both for pilots on approach and for air traffic controllers (ATCs), impairing their visibility of, respectively the runway threshold and objects along the runway. Regulation standards on PVPs around airports vary across countries but unexpectedly, the visibility of relevant targets has not been considered so far as a rationale in order to control the glare from PVPs in airports. In this paper, we compute the visibility of targets we defined for pilots and ATCs in a few reference scenarios, using Adrian’s formula and a Contrast Sensitivity Function. Then, we assess, from the CIE formula of the equivalent veiling luminance, the impairment of the visibility in presence of disability glare, as a first tentative step towards regulating PVPs around airports regarding disability glare.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

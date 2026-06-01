@@ -118,9 +118,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The CIE’s 2024 Position Statement centres around the ipRGC’s requirements for lighting. It also states how these requirements are tailored towards healthy middle-aged adults but does not consider ageing populations with diverse needs. People living with dementia experience cognitive decline, difficulty with everyday tasks, mood changes and disruptive sleep which negatively impact their wellbeing. Their lighting requirements must therefore be considered carefully, but often they are excluded from these conversations. This paper presents findings from 8 workshops on integrative lighting preferences for this cohort. A total of 46 persons participated in interviews about their interactions with light. A luminaire with tuneable white, dimmable LEDs allowed for participants to choose their preferred illuminance and CCT at a specific time of day in order to produce inter-individual comparisons. Group comparisons with integrative lighting for healthy middle-aged adults are also conducted to assess how well current guidelines can be extrapolated for this cohort.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -71,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The study examines the number of crimes that take place in daylight and after dark and what types of crimes are more common after dark. The methodology relies on the calculation of the solar altitude at the time the crime took place. The study looked at the weeks on either side of the clock change associated with the change to summer time and back again. The results show that whilst there is a small overall change in crime rate after dark, there is a significant change for some types of crime. Moreover, the nominal reduction in some types of crime may be associated with the fact that the crime is harder for the police to spot in the dark, for example, drug offences.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

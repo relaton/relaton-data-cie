@@ -95,9 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    CIELAB was recommended by CIE in 1976 as an approximately uniform colour space and colour-difference formula based on CIE X Y Z tristimulus values. In this paper, analogous to CIELAB were evaluated using L M S and XF YF ZF colour spaces in place of X Y Z. From COM-corrected visual dataset employed at CIEDE2000 development, using the Standardized Residual Sum of Squares, we found that CIELAB and its analogous in XF YF ZF space performed similarly, but the analogous to CIELAB in L M S colour space performed worse. Anyway, CIELAB structure can be optimized by fitted values of parameters in L M S or XF YF ZF spaces proposed in this work. The improved CIELAB in XF YF ZF space can be used as an approximately uniform colour space and colour-difference formula, following research proposed by CIE TC 1-98.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/ov45ruAs interest in the physiological impacts of indoor environments grows, increasing attention is oriented toward how lighting conditions shape gaze and internal states. While broader and more flexible gaze patterns have been linked to improved physiological regulation, particularly in clinical contexts, the specific influence of dynamic lighting conditions on gaze behaviour in everyday interior environments remains underexplored. As a result, design strategies often rely on static assumptions about visual engagement, overlooking the potential of dynamic stimuli to support well-being. This study presents a narrative review synthesising recent findings on how dynamic environmental stimuli, including lighting variation and visual saliency, mediate gaze behaviour and influence cognitive and emotional outcomes. The review integrates evidence from vision science, environmental psychology, and lighting research to highlight emerging relationships between dynamic conditions, attention, mood, and recovery. The findings aim to inform adaptive lighting strategies that enhance occupant well-being and attentional engagement in interior environments.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

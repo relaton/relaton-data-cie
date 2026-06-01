@@ -59,9 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study assesses optical measurement methods for the characterization of transmission haze in correlation with its visual perception. For this, seven silica-filled amorphous polymer test samples were selected from a developed sample set. Commercial haze meters and alternative measuring techniques were used to quantify the haze of the test sample set optically. Visual scales were derived using the maximum likelihood difference scaling procedure, from multiple psychophysical tests in which the test samples were presented under different assessment conditions. More specifically, the test samples were backlit through a pattern mask, with 3 different, predetermined air gap distances between the specimen and the viewed contrast pattern. From the results a clear correlation between the visual and optical haze scales is demonstrated. The best correlation seems to be obtained when samples are presented with a 4 mm air gap.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

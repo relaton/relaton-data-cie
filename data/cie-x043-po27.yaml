@@ -82,10 +82,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The aim of this study is to optimize white LED spectrum based on 3D colour gamut under mesopic viewing conditions. Theoretical simulations show that the the spectrum power distribution (SPD) and luminance level obviously affect the luminous efficiency and the range of 3D colour gamut. Some optimal white LED spectra with higher mesopic luminance and wider colour gamut were tested psychophysically and the results confirm that the optimal white LED spectra could enhance visual brightness and colourfulness compared to typical cool and warm white LEDs at lower luminance levels.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

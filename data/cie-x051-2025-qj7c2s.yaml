@@ -49,9 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Advancements in LED technology and smart controls have increased lighting efficiency significantly. However, the International Energy Agency reports that global electricity consumption for lighting has remained stable over the past decade. Despite efforts to reduce energy use to combat global warming, expectations are not met. Governments, companies, and individuals must understand the principles behind their investments in modern lighting installations. The reviewed and suggested indicators may help identify possible causes of these shortcomings.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -109,9 +109,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The European research project EnlightneME is intended to collect evidence about indoor and outdoor lighting impacts on human health and wellbeing, particularly for people over the age of 65 and other vulnerable groups. Within the project, outdoor lighting and its impact on people's well-being was studied through a participatory process and social research, considering 3 case studies in Europe. The research was supported by a measurement campaign conducted before and after the implementation of the new LED lighting installation. The measurement campaign was conceived to assess the impact of lighting for both visual and non-visual effects. Photopic and melanopic quantities were measured, as well as luminance distributions. Results from the experimental campaign showed a general improvement in lighting conditions, both in terms of quantity and quality. Considering the circadian impact, an increase in mel-EDI and CS values was observed, although the measured values remained below the recommended nighttime limits.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

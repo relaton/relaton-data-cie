@@ -107,9 +107,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Lifetime testing and modelling studies of LEDs play an increasingly important role in the implementation of design solutions with an Industry 4.0 approach. This article presents the work carried out in two departments of the Budapest University of Technology and Economics, during which the frequency-dependent aging of high-power LEDs in pulsed mode (at the Department of Electron Devices) and the temperature- and relative humidity-dependent aging of low-power LEDs (at the Department of Electronics Technology) were investigated.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

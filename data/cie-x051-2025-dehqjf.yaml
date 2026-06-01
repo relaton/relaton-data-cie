@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/dehqjfThe phantom array effect (PAE) has been extensively studied, but data on its visibility in well-illuminated environments, such as offices, remain insufficient for designing an appropriate visibility measure. According to CIE 249:2022, two essential sets of parameters are needed to develop such a measure: the temporal contrast threshold function and the Minkowski norm (i.e., the frequency summation exponent). Therefore, we designed an experiment to measure the visibility threshold of the PAE under the circumstances of a vertical illuminance of ~75 lx at eye level. In the experiment, we used sinusoidal waveforms at different frequencies, as well as complex waveforms, consisting of combinations of two or three sinusoids.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

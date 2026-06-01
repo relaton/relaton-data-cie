@@ -157,9 +157,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In this paper, a detailed description of the mid-power LED aging experiment carried out within the AI-TWILIGHT H2020 ECSEL project shall be provided. This was a mitigation action, called the JointLab project to provide detailed LED aging data to allow the creation of even LED-age dependent multi-domain models with the timeframe of the 3 years of AI-TWILIGHT. This was an extended LM-80 test with the collaboration of the laboratories of three academic partners, during which a large space of stress conditions applied during the aging process was covered and a set of measurements more detailed than usual in a standard LM-80 lifetime test had been performed at the predetermined intervals, more frequently than in most LM-80 tests. The goal was to create a so-called multi-domain circuit simulation model that could also describe the effect of LED aging as a function of the elapsed operating time and operating conditions.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

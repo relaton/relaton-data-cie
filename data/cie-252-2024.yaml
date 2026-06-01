@@ -37,9 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Glare models developed for electric lighting conditions are not applicable to daylight situations. This report summarizes the daylight glare prediction models which were confirmed by independent studies.The cause of the sensation of discomfort glare appears to be a compound of two effects: contrast effect and total-amount effect. Total-amount glare is caused by the total amount of light reaching the eye, whereas contrast glare is caused by extreme luminance contrasts in the field of view. The glare prediction models are divided into three types: contrast-based, total-amount-based and hybrid models. The practical problems of the models, e.g. definition of the glare source, subjective rating scale, and applicability and limitation of the models are discussed. Moreover, factors other than the four main variables to consider (glare source luminance, background luminance, solid angle of the glare source, position index) are summarized. It is important to consider the limitations and conditions for which each of the prediction models is valid to select the most appropriate one based on the specific situation.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

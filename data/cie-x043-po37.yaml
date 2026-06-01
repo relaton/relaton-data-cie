@@ -52,10 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    With the advance of LED technology, it is envisaged that spectrum tuneable lighting systems (STLS) will be widely spread in the lighting related research environment. The STLS brings a new dimension to the appearance research. This paper introduced a series of research works using these lighting systems, including white light locus, whiteness metrics, colour rendering metrics, metamerism index, preferred skin colours, museum lighting, colour discrimination metric, multispectral imaging system.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

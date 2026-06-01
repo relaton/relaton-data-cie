@@ -37,11 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The purpose of this guide is to aid architects, civil engineers, building inspectors, and others concerned with the natural lighting of buildings. The guide specifies a simple but accurate method of computing and checking interior daylight levels. It contains a comprehensive list of other methods for predicting daylight levels in buildings. From this list, designers specializing in daylighting can select methods that are best suited for any one case.
-
-    This publication contains 87 pages, 32 figures and 4 tables.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

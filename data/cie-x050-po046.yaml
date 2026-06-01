@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study examined the lighting requirements for night-time evacuation routes in disaster, based on a measured survey and psychometric evaluation of the current lighting conditions using the night-time landscape lighting system at Nagato-Yumoto hot springs area. As the results, it was found that the standards for emergency lighting in buildings may not satisfy outdoor visibility of evacuation road surfaces, that an average luminance of 2 cd/m2 is necessary to ensure visibility of stair surfaces and vertical movement in outdoor stairs, that illumination of vertical surfaces can eliminate a sense of uneasiness, and that continuity from the evacuation point to the evacuation area is more important than partial illumination of the evacuation route.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

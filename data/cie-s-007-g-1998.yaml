@@ -35,9 +35,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Diese Norm beschreibt die erythemale Referenzwirkungsfunktion (ser(λ)) und die standardisierte Erythemdosis (SED).
-                  See more
+  content: This document is a set or collection of related documents
 relation:
 - type: updates
   bibitem:

@@ -71,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    For further efforts in saving energy in lighting installations, intelligent sensors are indispensable. Despite the fact such sensors are available precise and reproducible measurements of the coverage areas are missing. Therefore, METAS decided in 2020 to install the world's first manufacturer-independent fully automated measurement system to test passive infrared motion and presence sensors according to the recently published standard IEC 63180:2020. The test facility allows reproducible measurements of radial and tangential movements by moving different scaled and heated dummies on linear tracks. Furthermore, the presence detection can be measured with an automated robot arm. The test results are provided in a digital test report and the data is available in a machine-readable format to be further processed in designing and planning softwares.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

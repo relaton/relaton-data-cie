@@ -64,9 +64,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The presence of mixed display setups like OLEDs with LCDs in the same scene has become very common nowadays. Mixed technology setups can be found in the living room between televisions, laptops, monitors, smartwatches and smartphones or outside in automotive cockpits. The requirement to have color matches between OLED and LCD displays has thus become very important. Based on a color matching experiment conducted between an OLED and LCD, this study evaluates the performance of various CIE color matching functions in successfully predicting color matches between these two display technologies and observers’ variability. The results show that CIE 1964 10-degree and CIE 2006 10-degree observers minimizes observer variability towards color matches between OLED-LCD and were also found to be the best in predicting color matches between them. The CIE 1932 2-degree observer performed the worst in terms of inter-observer variability and in predicting color matches between the two display technologies.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

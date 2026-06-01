@@ -61,10 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study aims at finding which combinations of the light colour and the type of make-up are preferred on the appearance of woman's facial skin. We conducted an experiment on the appearance of woman's face with four types of make-up 'Natural', 'Cute', 'Elegant' and 'Cool', under some lighting conditions. Forty digital images of female face with make-up under a variety of lighting conditions were evaluated in terms of 'naturalness,' 'activity', 'sophistication' and 'preference'. In conclusion, the face with 'Natural' make-up (in orange colour) looks good under 5000K in positive duv. On the other hand, the face with 'Cool' (in beige colour) make-up looks better under 4000K. Therefore, the preferred light colour depends on the type of make-up.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

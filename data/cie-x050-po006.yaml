@@ -121,9 +121,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Myopia is on the rise worldwide and its onset can be triggered by environmental factors, including light exposure. Guaranteeing an adequate exposure to daylight is particularly important for young children, whose eyes need the best conditions for a healthy development. Monitoring and assessing light levels in school buildings is therefore paramount for studies on myopia but it can prove challenging. This paper paves the way for the use of climate-based daylight simulation as a tool to complement field studies on myopia. Existing simulation tools were found to characterise vertical spot illuminance with an acceptable error range (rMBE=8,7%; rMAE=35,4%), as well as cumulative daily illuminance (rMBE=-10%; rMAE=12,6%). Spectral simulation resulted instead in larger errors, mostly for wavelengths at the edges of the visible range, previously found to be important factors in the onset of myopia. Despite current limitations, simulation tools could become an essential support for future research on myopia.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

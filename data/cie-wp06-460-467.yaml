@@ -59,10 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    With the attention currently on Temporal Light Artefacts (TLAs), another mechanism for the health effects of flicker above visually perceptible frequencies has been put forward. Non-visual and visual markers of performance have been shown to be affected above the Critical Fusion Frequency (CFF) for visibility of flicker. Nevertheless, attempts to explore this have almost exclusively focused on TLAs, i.e. solely on visual effects. After considering the transduction mechanisms whereby flicker signals meaningfully enters the human body, and showing that this must logically occur above the CFF and does not rely on TLAs, a protection regime is proposed based on the percent flicker of the raw modulation after appropriate smoothing to allow for the Impulse Response Function (IRF) of the cones. Following established optical radiation protection practice, a reasonable margin for uncertainty is included in the final metric. The quantitative impact on applications is illustrated and discussed.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

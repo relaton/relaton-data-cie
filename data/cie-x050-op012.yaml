@@ -47,9 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Artificial light sources, including displays and luminaires, often exhibit rapid light fluctuations called temporal light modulation (TLM). TLM can be seen as their electrical footprint. This work demonstrates that TLM can be remotely detected and used to perform in situ photometric and spectroradiometric measurements of very low light levels superimposed to intense backgrounds. Illuminance levels about 500 000 times smaller than the background were reliably measured by lock-in detection, allowing photometric measurements to be performed during daytime, even with sunny conditions. Using a new type of optical lock-in spectrometer, it becomes possible to retrieve the spectral distribution of light, based on the TLM of the light source. Spectral irradiance was measured against a background 100 times more intense. Lock-in detection is an excellent technique to perform in situ measurements of artificial light, even at very low level, in the presence of daylight and other background lights.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

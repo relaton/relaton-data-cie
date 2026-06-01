@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Discomfort glare metrics typically consider at least one of the two effects of discomfort glare - saturation and contrast - in their equation. The former occurs when there is an excessively bright glare source in the field of view, while the latter occurs when there is a high luminance ratio between the glare source and the adaptation level of the eye. We hypothesize that the contrast effect may dominate in low-light scenarios such as those commonly found in open-plan offices. Thus, we designed and carried out a user study in controlled laboratory conditions with 63 participants with a total of 252 scenes to investigate discomfort glare evaluations in dim daylight office environments with low adaptation levels. Our preliminary findings support our hypothesis that contrast-driven metrics predict glare responses in a more reliable way than hybrid metrics at low adaptation levels where the contrast effect dominates, which underlines the need for refining glare metrics in low brightness conditions.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

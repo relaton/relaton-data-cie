@@ -95,9 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/g3u6hjThis paper examines different approaches used to specify the cutoff, or shielding, properties of luminaires in light pollution regulations, with a focus on the G* classification defined in the European road lighting standard, and the CIE flux code FC3, used in the French regulation. To compare the G* and FC3 rating schemes, a simple parametric model is introduced to generate typical luminous intensity distributions used in road lighting. In addition, these rating schemes are applied to a dataset of 145 measured luminous intensity distributions of outdoor luminaires with different characteristics. The results show that the G* classification yields more robust ratings than requirements based on FC3. However, neither FC3 nor G* can correctly predict the cutoff angle of the luminous intensity distributions, a parameter linked to the visibility of a luminaire at long distance.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

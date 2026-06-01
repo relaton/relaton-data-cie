@@ -39,9 +39,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Proceedings of the CIE Symposium on Advances on the Measurement of Temporal Light Modulation, Athens, Greece, October 11, 2022
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -37,11 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    LED modules and light engines represent a wide range of very different products with unique physical properties. Thus, they can neither be treated as single LED packages (where measurements refer to a specific junction temperature of a single LED or the average of a single die, multiple-junction LED) nor as complete lamps or luminaires (where measurements refer to the ambient temperature).
-    CIE 235:2019 describes the methods for the measurement of photometric, radiometric, and colorimetric quantities of LED modules (with or without integrated control gear) and light engines that are connected to DC or AC power supplies. The report specifies the test-point temperature as a temperature reference when taking measurements.
-    The publication is written in English, with a short summary in French and German.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

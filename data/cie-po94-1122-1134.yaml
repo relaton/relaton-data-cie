@@ -85,10 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The first part of this paper focuses on the analysis of influence factors of discomfort glare. The analysis is based on a literature review by the author and numerous studies carried out from the mentioned students until 2006. Most of the results are unpublished. The analysis shows that the illuminance at the eye strongly influences glare perception. The luminance of the glare source has a high significant effect as well. Some more recent studies findings describe the impact of spectral power distribution. Additionally, the influence of lamp type, luminance distribution of glare source, age and experience of the driver, as well as used methods and test stimuli are considered. After the review and analysis, a new model for the estimation of discomfort glare of headlamps is discussed.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

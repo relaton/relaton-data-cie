@@ -69,10 +69,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Legal regulations in many countries require the determination of the beam angle of lamps and luminaires and indication of this on product labelling. The value of the beam angle may therefore have a direct impact on whether a product can be put on the market or not. Therefore, a rigorous method of determining the beam angle is required that can be universally applied and which gives representative and reproducible results.
-    While guidelines already exist for determining the optical beam axis and beam angle of products, they are universally impractical to implement on products that are asymmetrical or have complex distributions. This paper discusses and compares different approaches using one already-defined method and introduces three new techniques.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

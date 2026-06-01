@@ -88,9 +88,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Recent research has shown that Near-infrared (NIR) radiation within certain ranges is likely to have a positive effect on health and well-being, whether it is transmitted via the eyes or skin. Yet, its transmission through fabrics used in everyday clothing is frequently overlooked. This study quantifies NIR transmittance through different fabric types by measuring NIR penetration through clothing samples in a controlled laboratory setting. Our findings indicate that lighter fabrics permit greater NIR penetration.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

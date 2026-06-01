@@ -117,10 +117,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The loss of visual attention is one important reason of traffic accidents during the night. This paper explores the variations of brain activity as subjects recognizing different visual targets in mesopic vision. The impact of contrast and eccentricity of visual target on ERP signal, detection rate and reaction time is investigated. Results indicate that the influence of contrast on amplitude and latency of P300 component is significant, as well as the detection rate and reaction time. The peak amplitude of P300 component increases and latency of P300 component shortens when contrast increases. The detection rate increases, and reaction time decreases when contrast increases. The influence of eccentricity within 4° visual angle is not significant on all the items.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

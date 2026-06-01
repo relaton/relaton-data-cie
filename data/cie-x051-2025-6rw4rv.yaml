@@ -113,9 +113,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Colour difference is widely applied in various industries. Currently, the CMC colour-difference formula is well liked by the textile industry though CIEDE2000 is the latest recommendation from CIE/ISO. In this paper, a modified and a symmetric-modified CMC formula (MCMC and SMCMC respectively) are developed by optimizing both the original CIELAB and CMC colour-difference formulas together using the corrected combined colour-difference dataset (COM-corrected) used to develop CIEDE2000 (DE00). Performance tests show CMC(1:1), MCMC(1:1), SMCMC(1:1) and DE00(1:1:1) have STRESS values of 30.5, 26.9, 26.9, and 27.5 tested using the COM-corrected dataset, and 30.6, 27.7, 27.8, and 29.6 tested using the BFD-P dataset. Both MCMC and SMCMC are statistically significantly better than the CMC colour-difference formula and DE00(1:1:1) tested using the COM-corrected and BFD-P datasets. Furthermore, the BFD-P dataset consists of textile samples. Hence, it is to be expected that both the MCMC and SMCMC formulas can find applications in the textile industry.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

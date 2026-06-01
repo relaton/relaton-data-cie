@@ -69,10 +69,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The colour quality of solid state lighting is an essential theme for research and development. Light sources that are optimized on colour fidelity can be not good enough to achieve a visual acceptance of users of lighting systems. As well, LED - luminaires and - lamps that are optimized only on colour saturation enhancement should evoke an appearance of vividness, but for long-term use of lighting systems in professional and private areas, the judgments of colour preference factors with an appropriate combination of both colour fidelity and other colour metrics should be the correct optimization criteria of the colour quality. In addition, the hardware factors of LED - combination and their properties should correlate with the optimization process. The last phase of the optimization should be verified by an available visual investigation. Therefore, in this paper the discussed items include understanding about full optimization, optimization criteria and an available structure of LEDs for a solid state lighting system. Consequently, an example of the full optimization for a solid state lighting system in the case of human skins is used to demonstrate experimentally.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

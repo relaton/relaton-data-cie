@@ -77,9 +77,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Magnitude estimation experiments were performed to investigate the brightness perception of related self-luminous stimuli. Twenty two observers assessed the brightness of 30 coloured self-luminous stimuli presented on a 28 cd/m² self-luminous background. All stimuli had the same luminance level of 50 cd/m2. The brightness scaling show a clear and prominent Helmholtz-Kohlrausch effect (in which saturation changes affect brightness changes), The brightness ratings for these 30 positive contrast self-luminous stimuli were found to be well predicted (R² = 0,743, ρ = 0,862 and ρs = 0,897) by CAM15u, a model recently developed to predict the colour appearance of unrelated stimuli.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -35,20 +35,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This document is a Technical Specification outlining a way of working to determine the maintenance factor for both outdoor and indoor lighting installations using the methodology as described in CIE 154:2003 and CIE 097:2005.
-
-    The methodology of determining the maintenance factor has been extensively documented by CIE. However, as the focus of these technical reports was predominantly on incandescent and gas discharge light sources, more clarity is needed to ensure the proper use/translation of the existing methodology towards technologies such as light emitting diodes (LED).
-
-    Technologies such as LED distinguish themselves from other technologies by their long lifetime, low failure rate and their integration of components which were previously seen as separate components. As such the previous methods used to determine the depreciation and survival of luminaires might seem unusable and cause uncertainty. However, based on work by IEC the luminous flux depreciation and light source failure parameters have now been (re)established for LED-based light sources and allow for translation into an updated way of working to determine the maintenance factor using the existing CIE methodology and data for luminaire and surface dirt depreciation.
-
-    The document combines insights from IEC standards with regard to product performance of luminaires and light sources currently in the market with the existing determination methodology from CIE Technical Reports. Furthermore, it references the data in the CIE Technical Reports with regard to the impact of the environment on luminaires (accumulation of dirt on surfaces and luminaires).
-
-    The document provides the following:
-    background information with respect to the principles of the maintenance factor and the relevant parameters for indoor and outdoor applications;
-    a detailed way of working on how to apply the maintenance factor determination method (as described in CIE 154:2003 and CIE 097:2005) for outdoor and indoor lighting designs using the technologies available in the market;
-    explanation and examples on how to apply the maintenance factor and how to ensure proper operation over time corresponding to the determined values.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

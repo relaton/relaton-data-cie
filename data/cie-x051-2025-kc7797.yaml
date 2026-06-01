@@ -95,9 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/kc7797The article explains approaches to modelling classic outdoor lighting systems, such as road lighting, but also new approaches to implementing the radiating characteristics of vertical light sources such as windows and advertisements. All these lighting systems are subsequently implemented in the residential area model with the specification of individual obstacles and their reflective surfaces. A light-technical model is calculated on the points located on the sphere surface named “virtual” software goniophotometer. The output is a lighting calculating model made from available sources simulating the most faithful copy of the residential area with regarding radiation into the upper hemisphere. All lighting systems that radiate at night into the outdoor space are included in the model (public lighting, windows, advertisements and cars). The performed calculations determine both the direct and total radiation of individual lighting systems into the upper hemisphere and thus enable a comparison of their influence on light pollution.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

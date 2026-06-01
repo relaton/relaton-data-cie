@@ -80,9 +80,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/w53ranMeasuring discomfort glare is a notoriously difficult task. Many physiological measures (like pupil response) and psychophysical measures (like subjective rating scales) have been proposed. Two important complicating factors are the large individual variability in glare sensitivity and the strong influence of the observer’s gaze direction. Instead of attempting to fixate the gaze direction, we propose a method where respondents are free to determine the range of comfortable viewing directions: the “comfort view zone”. This range is individual and depends on the context of the experiment. Variations in lighting conditions will then lead to relative individual variations in the comfort view zone, which is used as a measure of discomfort glare. Pilot tests in outdoor and indoor lighting setups shows promising results: the measure is sensitive to modest variations in light output, and to variations in luminance distribution of the glare source.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

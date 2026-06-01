@@ -121,9 +121,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Lighting impacts mammalian physiology through wavelength and time-of-day dependent pathways mediated by nonvisual opsins. Some of these pathways affect processes crucial to the outcomes of the neonatal intensive care unit (NICU) patient population, such as growth, metabolism, and retinal vascular development. A lighting system emulating daylight characteristics may benefit this population and facilitate future clinical studies. We introduce the use of a spectrally tunable lighting system (Spectral Lighting) to emulate daylight within the NICU of a paediatric hospital. Six months of sunlight irradiance data were collected onsite to inform the development of a custom NICU lighting plan. We analysed wavelength composition of this data throughout the day by assessing photon flux (photons/cm2/s) across three wavelength ranges: (1) 380 – 430 nm (violet, opsin 5 absorption), (2) 430 – 530 nm (blue, opsin 3 and 4 absorption), and (3) 630 – 730 nm (red, for spectral balance). Here, we introduce our NICU lighting plan that emulates daylight’s composition and adheres to colour rendering metrics.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -71,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This paper provides an overview of active areas of research into CIECAM16, the CIE colour appearance model. Recent research suggests that the degree of chromatic adaptation as calculated by the model should depend on the colour of the adapting illumination. Additional alterations to the current von Kries model of chromatic adaptation would allow for different reference white points and path of partial adaptation. Novel to this paper is an analysis of potential structural faults in how CIECAM16 accounts for the adapting luminance and the overall scene luminance. There are also potential weaknesses in the formulas for perceptual attributes, such as brightness, lightness, colourfulness, and chroma, and recently published revisions to these formulas are presented. Finally, we discuss the contribution of chromatic intensity to our perception of brightness (the Helmholtz-Kohlrausch effect) and how a model of this effect might be incorporated into CIECAM16.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

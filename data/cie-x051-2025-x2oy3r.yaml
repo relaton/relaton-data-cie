@@ -97,9 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    During the Antarctic overwintering mission, the expedition encounters various challenges, such as environmental adaptation and seasonal changes, leading to fluctuations in their psychological and physiological states. The expedition at Zhongshan Station underwent continuous health monitoring across five phases: initial arrival (January to March), pre-polar night (March to May), polar night (May to July), post-polar night (July to September), and pre-task completion (September to November). A comparative analysis was performed on sleep, mood and life quality indicators during these phases. The results demonstrated that sleep quality decreased upon initial arrival at Antarctica, during the polar night, and before the end of the mission. Emotional well-being significantly declined upon first arriving and following the polar night. Quality of life initially deteriorated upon arrival but subsequently improved and stabilized over time. This continuous monitoring underscores the critical importance of developing personalized support strategies in extreme environments to ensure optimal health and performance.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

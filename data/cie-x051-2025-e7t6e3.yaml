@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/e7t6e3Light is essential for vision but also regulates functions unrelated to image formation such as circadian rhythm, mood but also cognition. Short wavelengths of visible light have been shown to modulate alertness and working memory by activating intrinsically photosensitive retinal ganglion cells through a photopigment called melanopsin. Here, we investigated how this memory-enhancing effect of light varies with aging. We compared short wavelengths of visible light (blue) exposition and long wavelengths of visible light (red) exposition impact on short term and working memory and found that the most effective exposition light in enhancing working memory depended on aging (blue light for young individuals and red light for older individuals). In addition, electrodermal activity was found to be a possible good indicator of the amount of light perceived and received on the retina.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -76,9 +76,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/n3cuc4New and convenient devices for continuously monitoring eye light exposure levels in real life are needed to address current knowledge gaps. This two-week study, involving 10 participants, assessed the real-life reliability and usability of a device developed to meet this need: newly instrumented eyewear containing four calibrated sensors (an illuminance ambient light sensor, an irradiance spectrometer with eight channels, and two proximity sensors). The eyewear provided reliable, objective data on light dose and spectral composition, and enabled analyses according to time of day, light environment (indoor/outdoor; different light sources), and weather conditions. Feedback on aesthetics, comfort, and usability was positive. These data support the larger-scale use of this new instrumented eyewear in future studies involving real-life characterization.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Four CIE spectral luminous efficiency functions for photopic vision—CIE 1924 2° V(λ), 1964 10° V10(λ), and the 2015 cone-fundamental-based 2° VF2(λ) and 10° VF10(λ)—were assessed using data from a side-by-side colour and brightness matching experiment. The study involved 22 observers who completed achromatic matching tasks with six RGB primary sets, each consisting of one red, one green, and one blue primary selected from eight LED primaries with distinct peak wavelengths. The stimuli were viewed on non-fluorescent white sheets in a double booth setup. Results showed that the 10° V(λ) functions outperformed the 2° V(λ) functions, particularly the 1924 2° V(λ), with accuracy in brightness prediction improvements of up to 13%, especially around 500 nm. Older observers exhibited brightness prediction trends similar to younger observers but had a higher (~5.6%) brightness discrimination threshold. These findings align with our prior results from a different experiment, supporting the robustness of the conclusions.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

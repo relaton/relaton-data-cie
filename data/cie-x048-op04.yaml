@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Optimising lighting installations reduces energy consumption and stray light while providing optimal visibility conditions for road users. However, the origin of the large discrepancies often observed between the design of lighting installations and their actual performance remains poorly explained. For the design stage, it is assumed that the road has homogeneous photometric characteristics. To examine the impact of pavement heterogeneity on these differences, numerous measurements of pavement reflection properties were carried out on an experimental site with a portable device. A homemade software was used to perform several road lighting calculations by integrating the measured r-tables in different ways. New metrics based on lighting performance criteria deviation and pavement reflection properties deviation are used to compare the calculations. The results highlight the importance of measuring the optical properties of pavements and confirm methodological guidelines for making representative on-site measurements.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

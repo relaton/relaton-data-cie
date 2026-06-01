@@ -116,10 +116,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Two psychophysical experiments were carried out in this study. The first experiment was conducted in a real road where an LED road sign was set up under two types of street lamps. Observers were asked to assess the visibility of an LED road direction sign placed on the road. And the second experiment was a computer simulation experiment, conducted using 130 simulated images as the stimuli presented on computer monitor situated in a darkened room. The experimental results show that the closer the sign was to the observers, the more visible the sign tended to appear. In addition, the higher the luminance contrast was for the sign, the more visible the sign tended to appear.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

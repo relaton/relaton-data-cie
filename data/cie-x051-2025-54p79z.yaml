@@ -62,9 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/54p79zThe Helmholtz–Kohlrausch effect is a well-known phenomenon where a colour with constant luminance in the photopic vision range is perceived as having a different brightness if its purity is increased. An increase in colourfulness is often accompanied by an increase in perceived brightness. Some hues display the effect more than others, such as red and magenta as compared to yellow. Many studies on the Helmholtz–Kohlrausch effect have been performed on conventional displays, but the advent of Virtual Reality provides new opportunities to explore the effect in head mounted displays. In this paper, the Helmholtz–Kohlrausch effect is analysed for a commercially available head mounted display, the Meta Quest 2. To this end, a dataset was collected from an experiment with 20 observers and the development of a lightness function for head mounted displays is discussed, based on established models in the literature.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

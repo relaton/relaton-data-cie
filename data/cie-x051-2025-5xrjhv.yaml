@@ -121,9 +121,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Daylighting architecture enhances user well-being and contributes to energy efficiency in buildings. The LabZero (207.00m²), a demonstrative building at the University of Brasília, is designed to achieve a nearly Zero Energy Balance (nZEB). This article presents the results of daylight simulations (visual and non-visual effects), to evaluate its performance in a nZEB design (LabZero). The methodology included theoretical research and simulations daylighting regarding visual effects (ClimateStudio), and non-visual effects (ALFA), simulated energy demand (DesignBuilder), estimated photovoltaic generation (SAM). The results show that daylighting strategies meets Brazilian standards for visual effects and fulfills non-visual effects requirements, with Melanopic Equivalent Daylight Illuminance (mel-EDI) above 250. The energy demand and photovoltaic generation results confirm the building meets nZEB criteria through its lighting solutions. The elongated form, North-South orientation, solar protection, and 35% wall-window ratio, besides the efficient electric lighting system contributed to this outcome. Future studies will explore day and artificial lighting integration.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

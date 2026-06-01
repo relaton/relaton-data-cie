@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    It has been proven that the use of CIE standard r-tables, instead of in-place stabilised pavement photometry, almost systematically leads to non-compliance with EN 13201 standard, particularly in terms of uniformities. Furthermore, the conventional observation geometry of 1° does not represent the preferred observation geometries of different urban road users in cities. In this paper, we present the device COLUROUTE2 that can be used to measure the road surface r-table on site for observation angles between 1° and 10°. Our first experimental campaigns on 10 different pavements confirm that the CIE road photometric indicators S1, Q0 and Qd generally decrease as the observation angle increases. Our results show that the assumption of equivalence of Q0 and Qd measurements between 1° and 2,29° in the CIE144 report is not valid, but that there are strong correlations between the different observation angles.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

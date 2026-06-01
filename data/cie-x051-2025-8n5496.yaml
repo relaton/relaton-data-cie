@@ -95,9 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/8n5496Buildings can be assessed during concept design to identify potential for sunlight to reflect from exterior cladding surfaces and create traffic disability glare onto surrounding roadways. Historically most assessment methodologies calculate veiling luminance hazard at roadway receiver locations assuming specular type solar reflections from glazing. A population dosage of veiling luminance is proposed in this study as a limiting measure of solar disability glare exposure to passing traffic. Modern facades are increasingly adopting metal sheet cladding products displaying both specular and highly diffuse reflective surface properties. In-house software has been developed to perform solar reflection calculations for these products. The program generates view-based luminance renderings at traffic receiver locations which are evaluated using a custom script to determine annual disability glare metrics for comparison with disability glare criteria. Threshold increment is also calculated as a measure of reduction in contrast due to disability glare. Case studies and mitigation strategies are reviewed.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

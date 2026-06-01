@@ -47,9 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This paper reports on two studies that extend the work of John Flynn and a CIE Study Group, Study Group A, from the 1970’s, exploring the influence of light on subjective impressions of an environment. In particular, the study focuses on chromaticity, i.e., colour temperature, and light level, illuminance, as two of the parameters that might influence these subjective impressions. In the first study, twenty-eight subjects rated their impressions on a series of semantic-differential rating scales relative to six colour temperatures delivered in a classroom-like environment. In the second study, thirty-two subjects rated their impressions on a series of semantic-differential rating scales relative to six colour temperatures and three illuminance levels delivered in the same classroom-like setting. The results suggest chromaticity has a stronger influence on subjective impressions than could be determined by Flynn, but with trends that differ somewhat with respect to illuminance level.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

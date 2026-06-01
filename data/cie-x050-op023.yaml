@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study examined the effects of the visual environment conditions of evacuation routes on walking time and psychology, understand the lighting requirements for effective evacuation guidance in smoke environments. The results of this study indicate that smoke density has a significant effect on evacuation behaviour, and that the thicker the smoke density, the slower the walking speed and the greater the psychological burden. However, the use of high luminance of light source and continuous installation of lighting for active evacuation guidance can support evacuation behaviour even in a high smoke density environment. In addition to conventional guide lights and emergency lighting, lighting design of evacuation routes based on the luminance distribution of the evacuees' field of view is necessary to properly and actively "guide" evacuees to exits and "eliminate their sense of uneasiness" and will be further studied.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

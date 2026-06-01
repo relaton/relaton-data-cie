@@ -95,10 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    With the popularity of LEDs in traffic signal and sign application, it is important to ensure that driver can adequately identify these signals, especially in the changing weather and the complex ambient light level conditions. Due to the characteristics of small light-emitting area and high directivity, LEDs are considered more probable to induce glare that disturbs human's visual sensation. To investigate the visibility and visual comfort of LED traffic signs, a psychophysical experiment is designed and performed. Ultimately, we hope it can be able to extend to a variety of research of LED traffic signal and sign devices, and be a reference for the future smart traffic systems, to provide an effective, safe and comfortable transport lighting environment.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

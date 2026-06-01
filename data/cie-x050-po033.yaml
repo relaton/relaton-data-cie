@@ -151,9 +151,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Luminance distribution measurements with high dynamic range (HDR) are required for various applications (e.g., measurement of new LED- or laser-based car headlights, obtrusive light and glare evaluation of indoor and outdoor scenes) where high contrast levels exist simultaneously in one scene. The overall goal of this work is to develop a methodology to evaluate by simulation the performance of different HDR image algorithms to provide accurate luminance measurements of those high-contrast scenes, when applied to luminance measurements from different cameras.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -71,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The white point, representing neutral white on the chromaticity diagram and crucial for display colour calibration, is typically set to D65. However, its suitability for wide colour gamut (WCG) displays with narrowband spectral characteristics remains underexplored. This study examined three different primary spectra WCG displays and one sRGB reference display. Using individual colour matching functions (CMFs), we estimated the spectra of visual matches on the WCG display to reference points with varying correlated colour temperatures (CCT) and Duv values. The results revealed chromaticity mismatch in white points between the reference and WCG displays, characterized by shift of the matched colour from the reference in the +u'-v' direction, which became increasingly pronounced as the display’s colour gamut widened and the primary spectra narrowed. Additionally, it is found that the CIE 2006 CMFs outperformed the CIE1931 2° and CIE1964 10°CMFs in reducing chromaticity mismatches, demonstrating their superior applicability for WCG displays.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

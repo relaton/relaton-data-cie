@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The evaluation of quality of daylight indoors is a complex matter. Research about quality of view is increasing, with the European and the new Brazilian standard also addressing this aspect. This paper evaluates the quality of view and gather data concerning the Brazilian context, evaluating and comparing users’ satisfaction with some European data. The method involves the creation of a database of Brazilian views and questionnaires to collect occupants’ preferences. 34 representative Brazilian views were listed – within those, 15 views of 7 buildings in Brasilia, all evaluated by an assessment sheet based on approved methods. Users’ perception consists in a in person (429 respondents) and online questionnaires (1301 respondents). There was a clear preference for natural elements, such as sky, water and vegetation, consistent with European results. As for Brazilian specificities, historical architecture is not a unanimous preference and there is a preference for modernist buildings.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

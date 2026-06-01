@@ -79,9 +79,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The road lighting installation design requires a combination of the photometric luminaire information and the road surface reflection properties. Only a thorough knowledge of both terms can guarantee a design that ensures driver visual comfort, road safety and minimal energy consumption.The replacement of discharge lamps with high-efficiency LED sources has led to a massive conversion of road lighting installations. At list in our region, designs are strongly directed by the advantages of the new technology and the commercial momentum, accentuated the lack of incentives to research the reflective properties of the new pavements.The paper describes a case observed on an Argentinian highway. The evaluation of a new installation design based on a standard CIE table resulted in inadequate quality parameters and an oversized appreciation of energy efficiency. The subsequent introduction of a new measured r-table made it possible to adjust the luminaire and correct the quality parameters.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

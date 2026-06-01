@@ -156,9 +156,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The global interlaboratory comparison (IC 2017) on measurements of solid-state lighting (SSL) products with goniophotometers was conducted under the International Energy Agency 4E Solid State Lighting Annex with 36 participating laboratories from 19 countries with a total of 42 goniophotometric instruments including mirror-type, near-field type and source-rotating type goniophotometers. A narrow-beam LED lamp and three different types of LED luminaires, including a street lighting luminaire, were used as comparison artefacts for measurements of 16 different quantities. These included electrical, photometric, and colorimetric quantities, and goniophotometric quantities such as centre beam intensity, beam angle, partial flux (15° cone angle), and angular colour uniformity.  CIE S 025 was used as the test method. The results demonstrated overall good agreement on luminous flux and colour quantities, however, larger variations and various problems were identified in goniophotometric quantity results. Near-field type and source-rotating type goniophotometers showed equivalent accuracies overall to those of far-field mirror type goniophotometers.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

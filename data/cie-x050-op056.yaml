@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Discomfort glare from daylight can lower productivity and hinder effective use of daylight in buildings. Existing glare prediction models have limitations in accounting for the large inter-individual differences, mainly due to unknown physiological factors underlying discomfort glare. Our study aims to determine whether macular pigment optical density (MPOD) in the human retina influences individual glare sensitivity in indoor daylit environments. We conducted user studies involving 149 participants in office-like settings, and evaluated their glare sensitivity to visible sun-disc behind either colour-neutral glazing or saturated blue-coloured glazing, both with very low visual transmittances. Findings revealed that in neutral daylit conditions, participants’ measured MPOD did not have any significant influence on their glare sensitivity. However, in conditions where the sun was visible through blue-coloured glazing, participants with higher MPOD demonstrated lower sensitivity to glare. These findings elucidate the role of macular pigments on individual glare sensitivity and provide insights for future research.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -97,9 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study investigated the effect of the interior surface reflectance and wall colour on the relationship between mean room surface exitance (MRSE) and the spatial brightness, which has been excluded from published studies. Ten participants rated a total of thirteen light scenes, each delivered with seven different wall colours; four chromatic interior colours that are commonly used in offices and three achromatic interior colours with the same reflectance, and two levels of MRSE, using a scale model. The wall illuminance was controlled so that the MRSE was constant regardless of the surface reflectance. As a result of this experiment in the realistic range of MRSE and horizontal illuminance, it was shown that the relationship between MRSE and spatial brightness were influenced by both the interior surface reflectance and the interior colour.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

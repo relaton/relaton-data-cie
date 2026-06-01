@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    An objective evaluation of the uniformity of luminance distributions has been of strong interest in recent years. While it takes no effort for humans to detect profound non-uniformities, the development of an objective measurement method independent of application has posed to be a great challenge.Recently the authors proposed a functional model that mimics the first contrast processing steps of the human visual system to predict the visibility of non-uniformities. However, this model does not regard stimulus area dependent effects which are known to significantly influence the contrast threshold. A divisive normalization stage is added to overcome this problem.The simulated model results are in accordance with psychophysical measurements of periodical stimuli but show differences to measured data for stimuli with a sharp and closed contour. A change in model structure as well as further enhancement is needed for the goal of evaluating luminance distributions of arbitrary shape.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

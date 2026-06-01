@@ -77,9 +77,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The human eye adapts to low light conditions based on photoreceptor sensitivity and adjustment ability. Low light situations on a daily basis may include driving in the dark or the illumination of various public spaces; therefore, getting to understand the adaptation process and the photopic, mesopic and scotopic functionalities of visual adaptation is of great significance. In this study psychophysical dark-adaptometry (DA) measurement was used to determine the photoreceptor thresholds after an initial full field bleaching (7000 cd/m2). Our aim was to determine the specific DA parameters such as the cone-rod break and the cone and rod thresholds. We used different mathematical filters and models to approximate the measured DA progress and analytically find the desired parameters. Each model was verified with the least square method to compare the different approximations. The final algorithm was tested on both healthy subjects and in the case of patients with various clinical diseases. The results show that our model is capable of accurately describing the measured DA curves and can be used to calculate the cone-rod break and photoreceptor thresholds. It may further be used by calculations for low level or dynamically changing illumination.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

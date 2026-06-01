@@ -64,10 +64,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study focused on the neutral white of chromatic adaptation in colour science. Using both surface colours and self-luminous colours, an experiment was conducted to collected visual results of the neutral white under white illuminants. The result proves the previous study about the chromatic adaptation. The baseline illuminants of the 2-step CAT was found with different CCTs for the surface colours and self-luminous colours respectively. Models of effective degree of chromatic adaptation were tested and compared with that found in the previous study, which was found highly associated with the viewing media.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

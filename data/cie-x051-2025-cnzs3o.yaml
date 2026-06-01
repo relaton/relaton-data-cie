@@ -111,9 +111,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Spatial brightness is a crucial factor in designing lighting environments; however, few methods exist for evaluating spatial brightness during the planning stage. Additionally, the estimation of spatial brightness in spaces with windows has not been sufficiently validated. This study aims to develop an estimation formula for the spatial brightness of spaces with windows, applicable during both the planning stage and after construction. A large LED display was used to replicate the size and luminance of real spaces during the planning phase. Participants evaluated the lighting environment in the real spaces and the corresponding LED display images. The proposed estimation formula considers the window surface and the 180° field of view, excluding the window. The product of average luminance and solid angle was used as the explanatory variable.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

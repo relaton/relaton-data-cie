@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/fmj9a9With the rapid development of smart transportation and autonomous driving technologies, creating realistic and immersive lighting conditions in vehicular research and development laboratories has become crucial for understanding the effects of in-vehicle lighting on visual and non-visual perceptions, comfort, health and overall experience. However, current experimental setups either lack immersion or fail to reproduce high-intensity dynamic light sources such as sunlight and headlights. To address this, field measurements of luminance distributions in urban driving scenarios were conducted, and key characteristics of in-vehicle lighting were identified, including variations influenced by natural and artificial light, vehicle directions, times of day, and obstructions such as buildings. Based on these findings, the paper proposes a novel laboratory design to better reproduce real-world lighting while ensuring essential immersion. The laboratory setup will support more precise investigations into in-vehicle lighting, providing technical support for optimising future smart transportation systems and improving driving and riding experience.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

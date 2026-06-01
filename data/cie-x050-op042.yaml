@@ -109,9 +109,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Health requirements for lighting in buildings are becoming increasingly important in building standards. Yet, there is a lack of concrete data on the lighting conditions that prevail in our workplaces, in terms of their spectral characteristics, their seasonal variation, the influence of orientation or the chosen blind control strategy, and how they might impact occupants’ well-being. The objective of this study is to start addressing this gap by offering insights into the kind of lighting environments that typical Swiss open-plan offices provide to their occupants regarding non-image forming (NIF) effects of light. Towards this end, we conducted on-site continuous measurements of spectral irradiance and photopic illuminance in two open-space offices presenting some common characteristics (e.g., WWR, artificial lighting strategy, climate) and some differences (e.g., orientation, floor to ceiling height, venetian blind control system). On average, we recorded three times more light, both photopic and melanopic, in office A compared to office B. Our hypothesis to explain such a large difference is that the blinds, which were exclusively manually controlled in office B, were kept mostly closed independently of the outside conditions. Automated blinds seem like a more suitable option to optimize daylight penetration and NIF effects of light, though it must be associated with a manual override option to avoid negatively impacting the occupant’s perceived comfort.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -117,9 +117,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/kprwf9The International Energy Agency (IEA) 4E SSL Annex has conducted an Interlaboratory Comparison (IC 2023) of the measurement of temporal light modulation (TLM) of solid-state lighting (SSL) products. Designed to meet proficiency test requirements, IC 2023 compared measured TLM quantities including short-term flicker indicator (PstLM) and stroboscopic effect visibility measure (SVM, MVS), as well as three other TLM quantities, on four LED lamp artefacts and on five waveforms produced by a TLM generator source as a technical study. IC 2023 was prepared by five Nucleus and Link Laboratories and had 19 participating laboratories worldwide. The results showed larger variations than expected, especially in PstLM measurements. The causes of these variations were investigated and are discussed. The analytical results of IC2023 identified the need for more robust test methods, an improvement in performance specifications for TLM instruments, and clearer guidance on determining measurement uncertainties.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

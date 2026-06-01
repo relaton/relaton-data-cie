@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In recent years, a growing body of research has shown that different parts of the visible spectrum produce visual and non-visual effects in humans, highlighting that full spectral information is necessary for accurate quantification. Therefore, new simulation tools that allow for fast and efficient annual spectral simulations are necessary to support decision-making processes in planning. The described annual spectral matrix simulation method, which focuses on spectral resolution, was used to evaluate the impact of luminaires and switchable glazing on visual and non-visual metrics, as well as lighting energy demand. The study that looked at a typical office room with switchable glazing found that increasing the number of channels improved prediction accuracy, especially for luminaires with discontinuous spectra. For fluorescent luminaires, accuracy improved by up to 32.6%, while for LED luminaires, the improvement reached 9.3%. Daylight simulations also showed improved prediction accuracy, particularly for melanopic equivalent daylight illuminance.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

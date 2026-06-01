@@ -47,9 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    For almost a hundred years, the CIE 1931 colorimetric system remaining the backbone of color measurements in science and industry. However, the redefinition of the SI system raises difficult questions about the assessment of the uncertainty of color measurements and their belonging to the sphere of the SI system. In the article discusses various aspects concerning estimating of the uncertainty of CIE color-matching functions. As well as possible ways of its evaluation are proposed.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

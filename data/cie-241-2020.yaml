@@ -37,9 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    CIE 241:2020 provides CIE recommended reference solar spectra for industrial applications. It contains a large selection of simulation benchmarks for total, direct and diffuse components of solar spectra under various atmospheric conditions and solar geometries (defined by the air mass). For this purpose a freely available solar spectral irradiance model has been used to generate tables and figures of solar spectral irradiance under a number of different atmospheric conditions, in the form of explicit meteorological input parameters. The data as provided in this document are to a large extent comparable to those in CIE 085-1989, but they are presented with a higher spectral sampling. The respective solar spectra are the basis for national and international standard reference spectra for various applications. They have been extensively validated against measured spectra.
-                  See more
+  content: This document is a set or collection of related documents
 relation:
 - type: updates
   bibitem:

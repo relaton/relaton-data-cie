@@ -74,9 +74,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/dr6ucvWhen an expert of colorimetry is asked whether the chromaticity point of a real spectrum can fall outside the CIE xy chromaticity diagram, the immediate answer will probably sound like ‘No! This is not possible!’ However, regular spectra generated with a mathematical model function for substituting those of real amber LEDs led to an unexpected fact. Their chromaticity points were close to the boundary, yet outside the CIE xy chromaticity diagram. Deeper investigations discovered that there are several parts of the chromaticity diagram where the concept of convexity is violated. The results have no consequences for most calculations or practical measurements, hence the deviations are only visible in the 5th decimal place. Yet, they may imply a need for revising the colour matching functions, hence an axiom-like property – convexity – of the chromaticity diagram, relevant to the theory of colorimetry, has been disproved.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

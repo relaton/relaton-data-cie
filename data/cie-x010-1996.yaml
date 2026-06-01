@@ -39,19 +39,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The 1996 CIE Symposium, co-sponsored by ISO, IEC and ITU, was held at the Central Burau of the CIE on 25-27 March 1996. The Proceedings contains the text of the 19 papers read and five Posters presented at the Symposium, as well as reports on four roundtable discussion meetings.
-
-    The meeting covered the areas:
-
-    •International Standards Organizations Working on Colour for Imaging Technologies;
-    •Colour spaces and Colour Appearance Systems;
-    • Calibration, Characterization of Displays, Hard-Copy Devices and Test Targets Used for Calibration;
-    • Cross-media Comparison, Viewing Conditions and Gamut Mapping;
-    • Colour Profiles, File Compression and Colour Management Systems.
-
-    This publication consist of 160 pages.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

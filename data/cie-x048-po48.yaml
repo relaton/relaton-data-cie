@@ -107,9 +107,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The new standards for museum lighting development was based on data collection by means of questionnaires, processing and analysis of subjective assessments of art historians, museum workers, research results of restorers and expert visitors, along with objective, physical measurements of photometric parameters of lighting installations in selected exhibition halls of the most famous museums in Russia.Based on the studies performed, national standards of both permanent and preliminary nature were prepared and introduced in 2020 by institute VNISI named after S.I. Vavilov.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

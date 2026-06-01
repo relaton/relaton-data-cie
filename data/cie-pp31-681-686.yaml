@@ -59,10 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The full scope of present and future LED technology should not be conflated with one or more existing LED lighting solutions. Existing LEDs with high Correlated Colour Temperatures (CCTs) will clearly have a higher blue component than those with low CCTs. As blue coloured light has a lower wavelength and higher energy per photon, it is not surprising that high CCTs from any lighting technology would be associated with a higher Blue Light Hazard (BLH) weighted dose rate. However, it does not follow from the existence of high CCT LEDs that all LEDs are phototoxic. This study looks at how appropriate CCT is as an easy-to-communicate substitute for hazard ratios, and compares it against other ?correlated? metrics ? based on CCT but with the s-cone sensitivity replaced with other short wavelength action spectra. The aim is to show that CCT is a much better proxy for BLH-dose rate than technology categories.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

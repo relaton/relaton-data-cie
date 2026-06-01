@@ -37,11 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Glare in road lighting is distinguished as discomfort and disability glare. Discomfort glare is quantitatively described by a glare control mark which can be calculated from the photometric and geometric quantities of a lighting installation. The evaluation of disability glare is based upon the Holladay formula and expressed by calculating the increment in the threshold of detection of the luminance difference between a relevant object and the road surface. The uniformity of the road surface luminance is characterized by the overall uniformity and the longitudinal uniformity.
-
-    The publication contains 26 pages and 5 figures.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Light has not only visual effects, but also physiological and psychological effects on people. To understand individuals’ light exposure pattern and its health impacts, accurate measurement of light spectra is essential. Here we have designed a wearable device measuring less than 2.5 cm and integrating spectrally-resolved sensor to accurately and comprehensively evaluate personal light exposure. In this study, we introduced its design and functions, and calibrated the light sensor under various light sources. For the reconstruction of LED and daylight spectra, most RMSE values are near or below 0.1, indicating high accuracy. Under daylight, 90% of the equivalent daylight illuminance (EDI) calculation errors are reliably within 10%, but for multi-peak light sources, the spectral reconstruction and EDI calculation still need improvements. In actual tests, the device demonstrates high practicality, which could support light environment assessment in scientific research, daily life and more potential application scenarios.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

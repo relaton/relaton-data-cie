@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Windows have always served multifunctional roles in buildings. Therefore, it has been observed that early assessment of the view can be beneficial for design decisions made in the initial design stage. This paper presents the preliminary research results aimed at evaluating the effect of urban configurations, namely average building height, building skyline, and road size, on window view quality. The research starts by selecting the city of Aversa (south of Italy) as a reference reviewing landscape metrics performed to characterize urban buildings and classify urban morphology. Eighteen urban configurations are modelled in the Climate Studio software, and the window view quality is evaluated according to EN 17037 and LEED. The simulation results suggest that for specific urban configurations (road size of 20 m, average building height of 12 m and variable skyline) it is possible to maximise the window view level according to EN 17037 and LEED.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

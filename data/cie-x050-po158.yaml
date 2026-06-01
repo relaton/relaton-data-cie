@@ -76,9 +76,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This paper starts with the relationship between smart light poles and smart cities, through the analysis of the development characteristics and trends of smart light poles, the system architecture and its key technologies are systematically sorted out, and deeply discusses the development path of key technologies based on smart light pole system, such as functional decentralization to high integration, smart nodes to smart ecology, fixed scenarios to flexible scenarios, software definition of light poles to software definition of the worlds, and data standards to data governance. It aims to provide future oriented suggestions on the construction and development of smart city infrastructure, promote the development of digital economy and the industrial ecological reconstruction of information infrastructure, and comprehensively support the modernization of urban governance system and governance capacity.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

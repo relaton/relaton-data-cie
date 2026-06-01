@@ -97,9 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Fluorescence lifetime imaging (FLIM) guided surgery has gained significant interest following developments in high-speed cameras, allowing the measurement of short lifetimes. FLIM provides precise tumour localisation by employing fluorescent biomarkers, particularly those emitting in the near-infrared (NIR) spectrum. While FLIM proves valuable in surgical procedures, it is crucial to also incorporate accurate colour imaging. This enables the visualisation of tissue in natural colours, enhanced by an overlay of fluorescence data, improving surgical effectiveness. However, integrating a separate RGB camera with the FLIM camera poses challenges such as parallax issues and potential reduction in resolution, especially when using Bayer-type filters. To overcome this, we propose an approach that generates colour images with a monochromatic time-gated FLIM camera and a custom-designed pulsed RGB illumination source. The presented setup can also be extended to the NIR range, enabling NIR-FLIM and combining colour imaging with FLIM to further enhance the quality of FLIM-guided surgery.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

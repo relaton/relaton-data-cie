@@ -59,9 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The application of camera systems based on charge accumulating sensors for quantitative measurements of light distributions requires correction of significant systematic errors like non-linearity. A characteristic type of signal non-linearity that often occurs is a linear decreasing one. This contradicts the assumption of imperfections of the device to be the source of non-linearity but looks like a systematic effect. This work will describe the search for the reason of this type of non-linearity which ends in the observation of a spectral dependence of the non-linearity. A first approach to correct this effect without knowing the source spectrum is presented.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

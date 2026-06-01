@@ -37,20 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This standard specifies the luminous requirements for emergency lighting systems
-    installed in premises or locations where such systems are required. It is principally
-    applicable to locations where the public or workers have access. The primary
-    objective of emergency lighting is the provision of visual conditions that can alleviate
-    panic and facilitate safer evacuation of buildings' occupants during the failure of
-    normal power supply/lighting, in clear (non-smoke) and smoke filled conditions. The
-    emergency lighting scheme design should be based on worst conditions (e.g.
-    minimum light output, maximum glare limits) of the luminaires during operating life.
-    The requirements given in this standard are a minimum for design purposes and are
-    calculated for the full rated duration period and end of design life of the equipment. A
-    special chapter for smoke is included. Safety signs may also fulfil further functions
-    within maintained operation.
-                  See more
+  content: This document is a set or collection of related documents
 relation:
 - type: updates
   bibitem:

@@ -123,9 +123,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Easily controlled LED luminaires with a wide range of light colours and intensities have been developed recently. Their characteristics can be adjusted to mimic that of natural daylight. However, considering that the colour and intensity of daylight vary constantly with time and weather, it is necessary to verify whether the same effect can be achieved using LED luminaires for interior lighting. Therefore, this study examined a method for reproducing the correlated colour temperature (CCT) and illuminance fluctuations of daylight using LED luminaires. Two experiments were conducted using daylight or LED luminaires as the light source, and the physiological and psychological effects on the participants were compared in both experiments to verify whether the same effect can be achieved. The results showed no significant differences between daylight and LED luminaires in terms of physiological and psychological effects.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

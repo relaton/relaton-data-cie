@@ -37,16 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The present document updates and replaces Publication CIE 68-1986 Guide to the lighting of exterior working areas.
-
-    The values published are based on illuminance concept. Further to the average maintained illuminance and minimum to average ratio, the minimum to maximum ratio was introduced. Glare is limited by Glare Rating (GR). The values are "maintained" and determined to achieve efficient working conditions, safe movement and traffic and safety/security of people and property. Work areas are divided into twelve sections and listed in the Application Tables.
-
-    Attention is focused on design values. Other topics, as colour quality, maintenance, environmental aspects, design and measurement are only mentioned in this paper, detailed recommendations or standards are to be sought for in relevant CIE and ISO publications.
-
-    The publication is written in English, with a short summary in French and German. It contains 20 pages.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

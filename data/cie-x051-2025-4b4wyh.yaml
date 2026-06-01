@@ -95,9 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Lighting in educational environments deserves proper attention since students spend a long time indoors and cannot personally control the light they receive which, in turn, affects their physiological and psychological state as well as learning performance. Hence, guaranteeing integrative lighting supporting visual and non-visual needs is crucial. Despite this consciousness, the topic is not fully explored yet. This study aims to provide an overview of the current state of knowledge about this theme and to highlight outstanding issues for lighting design solutions aimed at achieving integrative lighting in educational environments. The findings reveal that most studies opted for simulation-based analysis due to the difficulties connected to field study and measurements. While visual effects of light were assessed using both static and dynamic metrics, non-visual effects ones were commonly evaluated through static circadian metrics. It is concluded that there is still no shared evaluation approach for integrative lighting design.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

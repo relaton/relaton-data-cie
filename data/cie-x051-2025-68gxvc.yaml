@@ -97,9 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    An important aspect of photometry is the use of baffles to block stray light, such as light reflected of the walls and floor, or light from other sources, from reaching the detector. The detector will often be placed in a baffle tube to limit the field-of-view of the detector to a narrow field around the optical axis, and the tube itself will usually have internal apertures to block reflections from the sides of the tube. The inside edges of the internal apertures can forward-diffract light onto the detector. In most cases this may be negligible, but for highest-accuracy applications may be significant. This paper describes a method to use stellation, i.e. introducing “teeth” to the inside edge of the internal apertures of a baffle tube, to reduce the forward diffraction by as much as 50 %.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

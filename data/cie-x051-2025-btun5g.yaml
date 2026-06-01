@@ -106,9 +106,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The inclusion of ocular and extraocular photoreceptor pathways in lighting studies represents a significant step forward in addressing the broader effects of light on human health and well-being. Building upon established metrics for ocular photoreceptors, this paper demonstrates metrology for neuropsin. Neuropsin is a violet (380 nm λmax) sensitive photoreceptor present in both ocular and extraocular tissues and plays a role in eye development, circadian clock entrainment, and energy homeostasis. Outdoor measurements of photopic, melanopic, and neuropic ratios provide benchmarks for setting time-specific indoor lighting targets. Built environments modify the intensity and spectral quality of light sources due to the transmissive and reflective properties of materials and architectural geometry. The neuropic metrology is explored through a case study in a healthcare setting using in-situ measurements and multispectral simulations. The findings underscore that informed design choices can effectively enhance α-opic responses in built environments.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

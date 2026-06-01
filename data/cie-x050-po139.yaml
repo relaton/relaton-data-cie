@@ -71,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Hyperspectral imaging techniques offer interesting new methods of measuring visual appearance. In this paper, two different types of hyperspectral cameras (snapshot vs. linescan) are compared on a theoretical and practical basis, and it is tested if they could be used for visual appearance measurements. The cameras are first characterized and calibrated. A GretagMacbeth ColorChecker® is then used to compare and evaluate the quality of the spectral reflectance measurements of the two cameras. Whilst the data of the snapshot camera better matches the spectral measurements obtained with two spectrophotometers, the spatial performance limits the usability of the device. Based on the findings of this study, further research is discussed in order to improve the measurement accuracy of the snapshot hyperspectral camera.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

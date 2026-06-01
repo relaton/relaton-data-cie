@@ -37,13 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The purpose of this report is to update and to replace CIE 30.2-1982 Calculation and measurement of illuminance and luminance in road lighting. It gives the methods which CIE 115-1995 and CIE 136-2000 require for their recommendations.
-
-    It includes the calculation of luminance, illuminance, and their associated measures of uniformity, as well as disability glare. The conventions adopted for luminance and illuminance grids are also included.
-
-    The complete Technical Report consists of 33 pages with 17 figures and 6 tables.
-                  See more
+  content: This document is a set or collection of related documents
 relation:
 - type: updates
   bibitem:

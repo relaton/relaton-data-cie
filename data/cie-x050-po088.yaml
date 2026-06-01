@@ -71,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The optical and thermal characterization of materials (i.e., radiometric characterization in the visible and infrared ranges) is an important way to reduce energy consumption in buildings. Characterizing the properties of building surfaces in situ prior to rehabilitation will make possible the selection of rehabilitation materials that achieve the best compromise between summer and winter comfort, while significantly reducing energy consumption.In this paper, we present a new data driven BRDF model with two parts: a diffuse part and a specular part. Most of literature BRDF models have a constant diffuse part; in this paper we propose a model with a variable diffuse part to better fit measured data. The specular part is derived from the Ward model.We compare our model result to others from literature and show it presents better accuracy especially thanks to our diffuse part.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -121,9 +121,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The large numbers of deaths from pedestrian versus motor vehicle accidents on ordinary roads have presented a problem in Japan. Road lighting usually illuminates the road surface uniformly; thus, pedestrians crossing the road and obstacles on the road are visible in silhouette, or in negative contrast, against a bright background. In expressway tunnels, pro-beam lighting has been increasingly used to improve the visual environment. Such lighting illuminates obstacles on the road more brightly than it illuminates the road surface; thus, the obstacles are visible in positive contrast.The authors considered that traffic accidents could be mitigated by creating a visual environment in which drivers could see pedestrians crossing an intersection in positive contrast. Based on that idea, field experiments were conducted to examine the relationship between the brightness and the visibility of pedestrians crossing the road, in order to elucidate how a lighting system can make pedestrians more visible by putting them in positive contrast. The experiments clarified that drivers worry about the safety of pedestrians crossing an intersection who are visible in negative contrast. Thus, it is desirable to create an environment that helps drivers see pedestrians in positive contrast.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

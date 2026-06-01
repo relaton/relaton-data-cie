@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This paper presents a novel method for measuring the light distribution of vehicle headlamps. The measurements are performed in the field and does not require access to the lamp control system. An imaging luminance measuring device (ILMD) is used to capture the luminance distribution from the headlamps when projected onto a light grey façade at a distance of 25 m. After alignment, background correction and removal of artefacts (due to lens distortions and façade construction), the luminance images are transformed into high-resolution luminous intensity distributions for the car headlamps. Fifteen modern cars with different headlamp types were evaluated using this method. The measurements revealed significant variations in both intensity and distribution among different lamps and car models. The measured light distributions were used to assess glare situations and evaluate the legibility and visibility of road signs.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

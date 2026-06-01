@@ -72,9 +72,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Throughout history, churches have served as central gathering places for various activities. This study aims to propose energy-efficient lighting design recommendations for the Hagia Eirene Museum considering its potential uses and adhering to the ISO/CIE 8995-1:2025 and the Society of Light and Lighting Guide 13: Lighting for Places of Worship (SLL LG13) standards. Three different utilization scenarios were chosen as the basis for these recommendations: the museum envisioned as a concert venue, a common use of the space throughout the building’s history, a church for which it was originally built, and a museum, the actual utilization of the space as of 1800s. Different lighting design proposals were developed to meet the unique requirements of each scenario. To achieve this, the historic building’s 3D model was created using DIALux evo. Recommendations and photometric calculations, including illuminance levels and glare, have been made based on this model.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

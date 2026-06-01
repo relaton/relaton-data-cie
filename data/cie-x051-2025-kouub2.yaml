@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/kouub2Windows that provide daylight and a view are fundamental for creating comfortable and healthy office spaces. This study aims to develop an evaluation method for window view quality for application at the design stage of office buildings. A series of experiments were conducted in several real offices and virtual office spaces. The results confirmed that the quality of a view can be evaluated by the sky view factor, the near view factor indicating the proportion of buildings included in the foreground, and by the presence of greenery, such as roadside trees. Moreover, greenery was found to act as an additional factor in view satisfaction. As a view quality evaluation method, three-dimensional graphs were proposed to express view satisfaction based on the sky view and near view factors, considering the effect of greenery.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

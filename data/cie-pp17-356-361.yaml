@@ -79,17 +79,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "A psychophysical experiment was carried out to study the white appearance
-    of a tablet display under 17 ambient lighting conditions with different chromaticities,
-    including one dark condition, seven conditions with chromaticities on the Planckian
-    locus, and nine conditions with chromaticities off the Planckian locus. A panel
-    of sixty-three naive observers participated in the study. One-standard deviation
-    error ellipses were used to define the boundary of white appearance; the bivariate
-    Gaussian distribution were used to correlate the degree of white with the chromaticities.
-    It was found that both the boundary of white appearance and the degree of white
-    appearance varied with the ambient lighting conditions. The findings also suggested
-    that the degree of chromatic adaptation was low under the low CCT illuminants.
-    \n\n              See more"
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

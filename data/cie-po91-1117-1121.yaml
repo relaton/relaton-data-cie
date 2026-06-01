@@ -112,10 +112,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This paper measures transmittance and scattering characteristics under adverse weather conditions. A weather chamber is used to generate different fog density and rain conditions. Collimated narrowband light source from monochromator illuminated by Xenon illuminator is used as a light source. Transmittance and scattering characteristics of each narrowband light source are measured. Experimental results show limited wavelength dependence of transmittance and scattering characteristics under fog and rain conditions.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

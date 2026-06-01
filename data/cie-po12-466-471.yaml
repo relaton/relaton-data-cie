@@ -97,10 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In this paper, we focus on discussing colour temperature variation by volume scattering diffuser (VSD) in anti-glare white light LED. According to the correlated colour temperature (CCT) variation of white light model established in the past, we can simulate scattering effect of volume scattering diffuser. Through the comparison of experiments and simulations, it can be found that the colour temperature of white light will oscillate caused by the increase of diffuser concentration. Then, we simulate the effect of lamp reflectivity on CCT variation, the speed of white colour temperature will increase or decrease with reflectivity changes. Finally, we use MacAdam Ellipses to compare the variation in colour coordinates of lamp, and analyse the tolerance for making lamp with concentration variation of VSD. As the results, the concentration tolerance for low colour temperature is better than high colour temperature, high colour temperature and low colour temperature light source tolerance were 0,1% and 0,2%. When the lamp interior reflectivity is 0% and 95%, the manufacturing tolerances for VSD concentrations in anti-glare WLLED lamps must be within 0,17% (7%) and 0,6% (4%).
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

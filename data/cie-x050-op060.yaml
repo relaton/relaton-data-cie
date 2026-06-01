@@ -97,9 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The effect of both temporal frequency and chromaticity on the visibility of the phantom array effect has been reported in literature. However, how the visibility changes with the temporal frequency is not consistently answered yet and, therefore, needs additional measurements. As for the effect of chromaticity, literature describes studies with different luminaires (i.e., with different chromaticities and peak wavelengths) and settings (i.e., different intensities and viewing geometry); as a consequence, it is challenging to compare these results directly. Therefore, we investigate the effect of temporal frequency on the visibility of the phantom array effect again, but with a special interest in how the peak frequency changes with chromaticity. The results of our experiment show a bandpass-shaped sensitivity function for the phantom array effect with a peak at 600 Hz, without significant change as a function of the chromaticities used in our experiment. However, the peak sensitivity value is found to be higher with red light than with green and white light.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Current view representation methods for Virtual Reality (VR), monitors, and projection screens predominantly rely on static photographs and tone-mapping operators without temporal variations, limiting the exploration of dynamic features in a view. Capturing views with real-time video overcomes this limitation but has a limited dynamic range and relies on an unverified built-in tone-mapping process. This study investigates the adequacy and reliability of using real-time video captures of dynamic daylit views in VR. To evaluate the suitability of the camera's built-in tone-mapping procedures, a comparison to normative tone-mapping operators is conducted with a focus on brightness and contrast, based on pixel-by-pixel luminance values from calibrated high dynamic range images. This study finds that real-time video reliably maintains relative contrast, enabling more comprehensive investigations in future studies involving dynamic movements and temporal changes in VR. Furthermore, the proposed method provides the foundations to establish a workflow generalizable to new experimental approaches for the validation of tone-mapping in VR environments.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

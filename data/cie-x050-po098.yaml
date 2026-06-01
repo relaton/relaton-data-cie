@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Mindfulness refers to a method of observing oneself as one is, by focusing one's attention on the present moment through meditation. In a modern society where one’s brain is flooded with information that needs to be processed, it is important for one to practice mindfulness in daily life. However, for beginners, practicing mindfulness meditation can be difficult. Even if it is practiced, effects may not be realized, which can lead to a lack of motivation to continue.Therefore, we propose an environment where mindfulness meditation can be easily practiced at home by using a controllable LED panel light. The effect of continuous use of the light was subjectively tested with 26 subjects. The light was installed in each subject's home. The experimental environment with the light is easier to practice the meditation than that, which is a static lighting with 37.8 lx and 2700 K.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

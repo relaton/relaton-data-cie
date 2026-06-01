@@ -95,9 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The purpose of this study is to understand the appropriate visual environment factors for relaxation and refreshment during office self-seat breaks. The factors were illuminance (200, 500, 750 lx), partition height (0, 200, 500 mm), and presence of plants (yes, no), and the impressions were evaluated in a VR space using the 7-step SD method. Tukey-HSD tests were performed on the items for which a main effect was obtained by three-way analysis of variance. The results showed that relaxation and refreshment were rated higher when plants were present. In the absence of plants, the higher the partition, the higher the relaxation and refreshment ratings. These results indicate that the height of the partition has no effect on relaxation when plants are present. Without plants, the relaxation rating was higher at a height of 500 mm, and the refresh rating increased with height, indicating that higher partitions are required.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

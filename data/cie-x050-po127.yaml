@@ -71,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Positioning errors of the light source relative to the optical axis of the measuring system are significantly affect on the accuracy of the measurement distance and leads to an increase in the photometric measuring errors. To determine the light centre of an LED radiation source with a complex radiating surface, it is proposed to use a device based on the parallax method. Method and design of device is described. For the correct perception of technical documentation and optical schemes, to need introduce three types of symbols for modern LEDs is proposed.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

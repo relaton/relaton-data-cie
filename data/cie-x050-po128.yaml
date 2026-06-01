@@ -97,9 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Spaciousness is an important psychological factor that affects the comfort and wealth of occupants. A subjective experiment using the magnitude estimation method, which compares two conditions, namely reference and comparative conditions, is effective in quantifying spaciousness. However, the problem with this method is that participants’ evaluations are not stable when there are significant differences between the two conditions. In this study, we examined the effect of brightness differences between two spaces on the deviation of the subjective evaluation. Four experimental spaces with eight vertical illuminance levels were prepared in front of the participants’ eyes. While only the vertical illuminance was changed in each space, the participants evaluated perceived spaciousness using the magnitude estimation method. The results showed that participants’ evaluations were stable when the luminance ratio of the two spaces was greater than 1/4.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

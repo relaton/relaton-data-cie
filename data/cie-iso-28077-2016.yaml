@@ -37,9 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This joint ISO/CIE International Standard is replacing the joint ISO/CIE International Standard ISO 28077:2006/CIE S 019-5:2006 without modification of its technical content.This document specifies the action spectrum for photocarcinogenesis of non-melanoma skin cancers.
-                  See more
+  content: This document is a set or collection of related documents
 relation:
 - type: updates
   bibitem:

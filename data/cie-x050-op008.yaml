@@ -97,9 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In lighting design, knowing the pavement reflection properties is the best way of optimising road luminance, but using the CIE standard r-tables remains the common practice. A lesser evil is to scale these r-tables using Qd or Q0 coefficients to consider the lightness of the pavement. Using various r-tables databases and numerous lighting calculations, we show in this study that the scaling with Qd is a good option for most surfaces. This result is interesting because there are devices on the market capable of measuring Qd directly. However, they are dedicated to the visibility of road markings and operate with an observation angle of 2.29° instead of the conventional 1° in road lighting. Our investigations show that this geometrical difference can be considered by applying a correction factor to the measured Qd. It could then be used to scale standard r-tables, which would represent a significant operational advance.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

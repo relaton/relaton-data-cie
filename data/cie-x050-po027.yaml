@@ -49,9 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Temporal light modulation (TLM) is once again a consideration in almost all lighting applications, due to widespread adoption of LED sources and their driving electronics. A subset of LED lighting systems delivers problematic TLM, often in specific types of residential, commercial, outdoor, and vehicular luminaires. Certain TLM waveforms and viewing conditions can result in distraction and disorientation, cognitive effects, and serious health consequences in some populations. These may occur with or without conscious TLM visibility.Existing metrics for the three visual responses to TLM have limitations. PstLM calculations for 3 Hz to 80 Hz produce inconsistent results; the stroboscopic visibility measure (SVM) extends only from 80 Hz to 2000 Hz and may overpredict the stroboscopic effect visibility at frequencies ≥ 500 Hz; and no phantom array visibility measure exists for regions ≥ 500 Hz where its visibility may exceed that of the stroboscopic effect. Guidelines are needed now to protect health and comfort: this paper proposes a provisional set for industry discussion.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

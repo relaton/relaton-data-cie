@@ -121,9 +121,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Dynamic changes in light, such as those produced by candles and fireflies, are known to provide a sense of comfort. Some luminaires recreate the changes. However, there are limited researches on the spatial impressions created by the installation of multiple luminaires with light fluctuation. In this study, we recreated the fluctuating light imitating candles and fireflies and evaluated the impressions under varying installation conditions. Results indicated that a smaller number of luminaires with greater interval contributed to a more comfortable atmosphere, while a larger number and shorter interval enhanced vitality. Furthermore, in experimental environment resembling actual usage conditions, we conducted impression evaluations separately during seating and passage. Compared to static lighting, significant differences were observed in “comfort” during seating, and in “visibility” during passage. This suggests that fluctuating light can create a pleasant spatial ambiance, although the evaluation of "vitality" may be influenced by the size of the installation space.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

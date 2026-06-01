@@ -52,9 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In most techniques for artificial vision with intraocular implants in almost blind humans digital data (which are then converted to electrical data/impulses) has to be transmitted to the retina. For that reason wires are implanted from the outside of the eye across the eye to the retina. Li-Fi (Light Fidelity) is a technology for wireless data transmission using visible light. The use of Li-Fi may enhance the transmission of lighting data from environment to the retina without using wires. LED light source(s) may be fixed in the glasses worn by the blind patient, which transmit the illumination data from environment to the chip or sensor in the eye. Compared to Wi-Fi, Li-Fi has significant advantages like fast wireless data transmission, real-time communication, no interference with other sources of the need for line of sight. Li-Fi use may be a alternative for eye sensor/chip implants for artificial vision in blind humans.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

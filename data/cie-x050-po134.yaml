@@ -59,9 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Calibration methods for illuminance meters have been positioned in the market for decades without any significant changes. However, recently the International Commission on Illumination issued a publication regarding the “CIE 251:2023. LED Reference Spectrum for Photometer Calibration.” This will denote significant changes in the current calibration method. Several of these changes are presented in this article, where an illuminance meter verification and/or calibration device demonstrates this technological shift. Due to its recent development and pending patent approval, it enables faster, automated calibration or verification of lux meters with a wide measurement coverage range.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

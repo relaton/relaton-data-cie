@@ -78,10 +78,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This paper aims to investigate the performances of different gamut mapping algorithms (GMAs) based on two uniform colour spaces (UCSs), CAM16-UCS and HDR-UCS. Two new GMAs were proposed here and they were compared the other different GMAs. Experimental results showed that a newly proposed GMAs based on vividness perception performed well and HDR-UCS is a promising UCS for gamut mapping.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -37,9 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This document describes the elements, function and characterization of imaging luminance measuring devices (ILMDs). Furthermore, the calibration of ILMDs is described and some guidelines for their use are provided.Using ILMDs the projection of the luminance distribution of a scene can be recorded and made available for further evaluation. In addition to a simple documentation of measurements, the geometrical assignment of the image points into the object coordinate system often allows more complex calculations by combining luminance, directional and, if necessary, solid angle information (e.g. for glare evaluation). In addition to the flexible evaluation option, it is possible to acquire a large number of measured values quickly and, if necessary, even synchronously. Furthermore, the type of evaluation can also be coupled to the image content, i.e. the image areas to be evaluated can be determined in the image either by their position within the image or by their luminance value.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

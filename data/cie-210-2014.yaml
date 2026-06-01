@@ -37,10 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This publication provides recommendations of the CIE concerning the use of V(λ)-corrected detectors as reference and transfer standards for photometric units.  Specifically it includes the construction, characterization and directions for use of standard photometers for such purposes.
-    The publication is written in English, with a short summary in French and German.  It consists of 34 pages with 11 figures.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

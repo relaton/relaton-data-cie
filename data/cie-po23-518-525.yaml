@@ -61,10 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The purpose of this study is to examine the importance of red when colour rendition of object colours is evaluated, also check the accuracy of "Colour Quality Index" called Gx(E) proposed by the authors which takes account of illuminance and gamut shape. Two psychophysical experiments were conducted using various light sources with different gamut shapes and illuminances. The observers evaluated the colour and texture impression of the colour samples (the paint and the fabrics) by the SD method. It was confirmed that the colour rendition of red was important not only for colour impression but also for texture impression. In addition, Gx(E) showed good correlation with subjective evaluation regardless of illuminance.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

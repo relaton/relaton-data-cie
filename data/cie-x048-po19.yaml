@@ -71,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    LED-based light sources have replaced massively traditional sources. The metrology traceability chains realised in leading European NMIs utilise the absolutely calibrated broadband radiometers (three-element silicon trap detectors) for calibrating primary photometers. Specific spectral properties of white LED allow to apply the trap detectors directly as new primary photometers. The unfiltered technique (Donsberg at al., 2014) is used and the calibration of spectral irradiance responsivity is needed. We have a long experience in detector-based spectral irradiance responsivity calibrations declared by particular CMCs published in BIPM KCDB. The aim of this work was to revise the uncertainty budget in order to reduce the measurement uncertainties for specific application of calibration of the trap-based unfiltered primary photometers UPP. The two calibration methods were used to analyse the occasional back-reflection effect of the UPP front aperture. The measurement was performed using our reference spectral responsivity facility in spectral range 350 nm - 900 nm.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

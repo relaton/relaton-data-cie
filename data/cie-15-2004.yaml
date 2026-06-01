@@ -37,15 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This publication, which replaces CIE Publication 15.2 (and is not to be known as 15.3!), includes details of the CIE DE2000 colour difference equation; spectral power distributions for sets of halophosphate lamps, DeLuxe type lamps, three-band lamps, multi-band lamps, high pressure sodium lamps and high pressure metal halide lamps. The nomenclature for the recommended geometries has changed, and there are even changes to the equations defining the parameters of the CIELAB colour space!
-
-    The publication is accompanied by CD-ROM (for the Print Edition) that contains all the tables of standard and recommended spectral distributions and a program (for Windows operation systems) to perform interpolation of spectra related to reflection or absorption measurements.
-
-    Thus this publication represents the colorimetric state-of-the-art and should find a place on the bookshelf of every colour scientist.
-
-    The report is written in English, with a short summary in French and German. It consists of 79 pages with 17 tables, and is readily available at the CIE National Committees or the CIE Central Bureau in Vienna.
-                  See more
+  content: This document is a set or collection of related documents
 relation:
 - type: updates
   bibitem:

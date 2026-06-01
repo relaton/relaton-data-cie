@@ -87,9 +87,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/66v4jyStandardisation bodies including the CIE and IESNA propose several test distances for far-field photometry based on the applicability of the inverse square law. Depending on the beam width, luminaire size and configuration, various guidelines regarding the minimal test distance are proposed. Recent literature suggests some norms are overoptimistic and larger far-field distances are required. Furthermore, the proposed test distances are only based on observations along the optical axis, whereas a strong angular variation of the limiting photometric distance was recently demonstrated. Therefore, this work presents a comparison between the regulations and the observations made in recent literature, assessing the application region of the standardised test distances as a function of the luminaire characteristics and the location of the measurement equipment.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

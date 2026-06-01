@@ -52,10 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    NMISA's LED measurement facility sphere-spectrometer measurement setup for total flux measurements was recalibrated to achieve lower uncertainties. The wavelength calibration was performed using a partial flux measurement configuration with the integrating sphere - array spectrometer system and pencil style wavelength sources. The calibration was performed on an optical bench to enable easy moving of lamps for better signal.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

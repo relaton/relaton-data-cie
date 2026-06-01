@@ -71,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Each generation of analogue night vision devices has significant technical differences. Basically, all parameters have improved on average during the generation changes. However, the significant difference in the wavelength-dependent characteristics of the sensitivity of photocathode materials represents a gap through which an active radiating source can be created with the help of an appropriate design process, which can even put the newer generations at a disadvantage compared to the old ones. For an active radiant source, infrared LEDs may be an obvious choice. Their operation is strongly temperature-dependent and even device aging may have to be taken into account, but nowadays suitable and fast circuit-simulation modelling solutions already exist to deal with such issues. The proposed device for supporting and suppressing analogue night vision devices requires system-level simulations with an Industry 4.0 approach. This paper discusses the design steps and theoretical results of such a procedure.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

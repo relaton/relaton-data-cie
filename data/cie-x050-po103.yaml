@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The goal of our work is to prepare a generally usable spectral power distribution model that can be directly applied to the measurement results of LEDs. As a first step, the distribution functions found in the literature were examined based on our measurement results, and the suitable functions for further work were determined. Temperature and forward current-dependent models are then created with the help of polynomial regression, for the parameters established during fitting. In the field of phosphor modelling, a new aging test based on samples with a distant phosphor arrangement was launched, the details of which are discussed in the paper.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

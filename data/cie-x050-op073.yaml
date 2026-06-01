@@ -59,9 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Daylight is fundamental in the built environment. Requirements define, describe, and measure the behavior of daylight. This article conducts a systematic literature review that aims to investigate daylight metrics and requirements in documents regarding buildings, such as standards, regulations, rating systems, guidelines, and building and urban codes to track their progress over time and the remaining gaps. The results show a lack of studies approaching daylight requirements in building and urban codes, regulations and guidelines, showing a gap between research and design practice. There is an evolution on time from static to dynamic metrics as requirements found in international standards and rating systems. Static metrics are still present on some of these documents, but dynamic metrics provide more accurate evaluations. Finally, Spatial Daylight Autonomy and Target Illuminance have similar concepts, as well as Annual Sunlight Exposure and Exposure to Sunlight, which suggests a possible harmonisation in an international context.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

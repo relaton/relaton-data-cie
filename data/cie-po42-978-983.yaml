@@ -89,10 +89,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    With the development of lighting science and technology, the requirement to lighting quality is also improved. It needs much more than CCT and illuminance distribution when evaluating a lighting system, the safety and healthy are important aspects. This paper introduces the required quantities to evaluate the photobiological safety and lighting health of lighting system, analyses the key aspects for their measurement and proposes a speed measurement solution for the related quantities. The solution integrates the spectral radiance and two dimension luminance measurement, and the measured data can mutually corrected to further enhance the accuracy.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

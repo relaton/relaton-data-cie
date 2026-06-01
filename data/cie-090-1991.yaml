@@ -37,16 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This report is intended to provide guidance to appropriate qualified scientists, medical personnel, and authorized persons under qualified guidance, to design UV sources, elaborate sunscreen preparations and evaluate their efficacy under proper conditions. The report is concerned with:
-
-        * the specification of the characteristics of suitable radiation sources and associated equipments,
-        * the test procedures to be followed by appropriately qualified personnel to give consistent results within the accuracy limits possible within the current state of knowledge of the subject,
-        * the evaluation of the test result and the calculation necessary to obtain a relative Sun Protection Factor (SPF) for the sunscreen product being tested,
-        * suggestions for additional information to be included in the manufacturer's instructions on the use of sunscreen.
-
-    The publication contains 15 pages, 1 figure and 1 table.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

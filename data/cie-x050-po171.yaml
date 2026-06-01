@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Carbon footprint is a useful measure for the comparison of products and solutions on the basis of their climate impact. In this study, a lifecycle analysis (LCA) was conducted to assess the carbon footprint for two fast fit-out retrofit lighting systems and to provide insight over what lifecycle stages or components are most relevant.The objective of this LCA study was to calculate the carbon footprint of two lighting renovation projects with wired and wireless solutions, measure the impact different factors may have had on it, and to determine which solution is the best option for reducing said footprint. The results show that the use stage is the most significant lifecycle stage due to electricity consumption over a 10-year period, if carbon neutral electricity is not available. The results also demonstrated that the cabling is another significant differentiator between wireless and wired solutions, when carbon neutral electricity is employed.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

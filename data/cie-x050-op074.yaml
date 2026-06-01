@@ -59,9 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Biodynamic lighting was installed as a pilot on one floor of an existing government office. Occupant satisfaction, work performance effects and energy effects on this floor were systematically evaluated against the default situation on other floors. Apart from these themes, some unexpected lessons were learned about the implementation of biodynamic lighting in practice. Most noticeable, expectation management to the occupants and - for better acceptance - the importance of gradually increasing the control dynamics rather than starting with an extreme algorithm and slowly decreasing it. Considering that the whole aim of biodynamic lighting is to increase occupant wellbeing, these unexpected lessons will be valuable for further implementations of biodynamic lighting in practice.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

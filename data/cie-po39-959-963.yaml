@@ -68,10 +68,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In this work, dimming properties of a number of commercially available luminaires were measured in an Ulbricht-sphere using an automated computer algorithm and control. Results showed a high variance of dimming curves depending on different luminaire properties. When introduced to standard energy calculation frameworks, these dimming characteristics significantly lowered the energy requirements of the installation as compared to the standard calculation procedure. However, current standard methods for energy efficiency evaluation do not by default provide the possibility of using a measured dimming curve in the calculations. Thus, the energy savings remain undetected in the lighting design and decision process. A better documentation and integration into energy calculation procedures could add an important quality aspect to lighting decision schemes.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

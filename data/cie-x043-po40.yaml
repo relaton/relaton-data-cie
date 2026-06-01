@@ -100,19 +100,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "To validate the instrumental measurement of sparkle by the BYK-mac multi-angle
-    spectrophotometer, the correlation between the sparkle magnitude assigned by observers
-    and the sparkle magnitude calculated by the instrument was studied by using a
-    psychophysical experiment. The method used for the visual assessment was the method
-    of magnitude estimation. Observers were asked to assign numbers in proportion
-    to the magnitude of a stimulus taking into account two references (extreme anchors).
-    It was found that sparkle grade (SG) correlates very well with human visual perception.
-    The performance is slightly better for 15°as15° measurement geometry than for
-    45°as45° measurement geometry. However, sparkle intensity (Si) and sparkle area
-    (Sa) do not correlate well with visual perception for any measurement geometry.
-    It could be because the psychophysical experiment was designed to evaluate the
-    sparkle grade and not to evaluate the two independent variables, although relevant
-    for the final sparkle value. \n\n              See more"
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

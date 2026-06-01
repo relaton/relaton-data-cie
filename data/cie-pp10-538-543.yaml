@@ -85,10 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    An integrating sphere photometer was characterized for the luminous flux measurements of solid-state lighting panels. Relative angular intensity distributions of six OLED panels with dimensions under 10 cm were measured with a near-field goniospectrometer and the integrating sphere was scanned both photometrically and spectrally with a commercial sphere scanner. The correction factors for the integrating sphere photometer, including the photometric and spectral spatial corrections, were calculated for the tested panels. The corrected luminous flux values of the OLEDs, measured in the integrating sphere, were at best within 0,02 % between horizontal and vertical operating orientations. The expanded uncertainty (k = 2) of the SSL panel measurements in the integrating sphere photometer is 1,0 %.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

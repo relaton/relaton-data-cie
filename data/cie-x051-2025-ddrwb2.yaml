@@ -71,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This paper presents a comprehensive framework for evaluating obtrusive light emissions from residential buildings by integrating field measurements, statistical analysis, and simulation. The approach includes direct luminance measurements of windows and buildings, time-lapse photometry to capture temporal lighting behavior, and simulation of spatial light distribution using software-based goniophotometry. The results highlight the role of shading devices and characteristic timing of residential lighting use. Based on these findings, a scalable simulation workflow was propsed, allowing for the construction of time-dependent models of obtrusive light emissions at the level of individual buildings or entire urban blocks. The proposed framework captures both spatial and temporal dimensions of residential light leakage and provides a methodological basis for future modeling efforts. It addresses the current gap in this area and offers a practical basis for assessing light pollution from residential buildings in urban settings.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -109,9 +109,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Spaciousness is crucial in architectural design, because it affects comfort, productivity, and health. Currently, there exists a model that predicts spaciousness based on distance and luminance, developed through experiments conducted in spaces without windows. Expansion of the scope of application to spaces with windows was reported experimentally; however, the revision was insufficient because the distance to the objects outside the windows was not considered. This study aimed to improve this model to include the effects of windows and external views. Subjective experiments were conducted using both real and virtual reality spaces with different window configurations and variables, such as window position, external scene luminance, and distance to external objects. The results showed that the distance and luminance of external objects affected spaciousness. The model was revised to reflect the situation outside the window by employing modified distances for outside objects and weighting the internal and external parts differently.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

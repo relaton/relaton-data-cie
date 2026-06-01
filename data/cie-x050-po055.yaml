@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Advancements in understanding the non-visual effects of light have sparked interest in using lighting to promote circadian entrainment. Circadian design metrics like melanopic equivalent daylight illuminance (mEDI) are now being adopted with proposed target values. Traditional lighting design, focused on horizontal illumination for visual needs, falls short for circadian lighting design which should focus on vertical illumination at the eye. Previous research suggests that horizontal illuminance from electric lighting may need to be three times higher than standard lighting design criteria to reach non-visual targets for melanopic illuminance requirements, posing an energy efficiency challenge. This pilot study tests two electric lighting schemes based on spotlights and pendants, combining electric lighting and daylighting. Two identical office mock-ups with the different light distributions were used. An initial assessment of the physical rooms was performed. This included tests with subjects (N = 10) under electric lighting and mixed daylight/electric lighting conditions. Additional (day)lighting scenarios were simulated in LARK 2.0 and the energy use for lighting was calculated. The results show that electric lighting alone could not meet the non-visual targets. Including daylighting significantly decreased the energy use for lighting while maintaining adequate illumination on both horizontal and vertical surfaces. In conclusion, it is highly recommended to incorporate daylighting into the design of lighting for non-visual needs. Failure to do so can lead to over dimensioning of electric lighting, resulting in unnecessary energy use.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

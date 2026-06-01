@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/74duutIntrinsically photosensitive retinal ganglion cells (ipRGCs) are known to be involved in non-imaging functions of the eye, through a direct stimulation of a photopigment names melanopsin. Recent studies suggested that besides playing a role in circadian rhythm and cognitive functions such as alertness and working memory, they would modulate perceptual vision. However, the underlying mechanisms involved remain unclear. Our study further investigates whether this stimulating effect of light can be extended to light detection thresholds and how it varies with aging across the visual field. To this end, a perimetry task was designed and performed under two metameric white lights, opposed in melanopsin stimulation. Findings suggest that ipRGC stimulation does not interfere with light detection thresholds but may enhance visual functions by improving reaction time. Increased performances may be the consequence of non-imaging pathways stimulation and not likely the results of brightness or contrast perception.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

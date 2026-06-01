@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Colour of light is generally described by the correlated colour temperature (CCT). However, light sources with the same colour temperature may show different colour of light. It has been pointed out that the favourable CCT differs depending on human activity, however the favourable colour of light may be evaluated differently by Duv as well as CCT. By using the light with Duv, which is perceived as favourable for a human activity and increases spatial brightness, it is possible to achieve both comfort and energy conservation. In this study, the difference in the evaluation of different Duvs for different human activities under the same CCT and illuminance conditions were examined by subjective experiments using models.This study shows that evaluation of spatial brightness and impression (Favourability, Naturalness) were both affected by the Duv. The ranges of preferred CCT and Duv varied depending on the human activity.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

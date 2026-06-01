@@ -99,11 +99,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    An imaging system with a dynamic range comparable to the human eye able to measure luminance in motion has been developed. This High Dynamic Range (HDR) Imaging Luminance Measuring Device (ILMD) is based on four synchronous cameras. The photometric
-    calibration leads to a reachable luminance range of six orders of magnitude. The geometric calibration process is derived from stereoscopic systems. As such, rectified images facilitate the HDR construction 'hole filling' algorithm. This system is finally used to evaluate road lighting performances in accordance with CIE recommendations. In addition, visual adaption and threshold increment calculations can be carried out from HDR luminance images along a roadway.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

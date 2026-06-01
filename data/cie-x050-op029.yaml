@@ -107,9 +107,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Advanced Driver Assistance Systems (ADAS) play a relevant role in compensating for human physical limitations and increasing road safety. Cameras and sensors (e.g., lidar) are crucial for a vehicle to sense and perceive road surroundings and act to increase driving safety. Thus, driving is no longer a human-only visual task. Camera systems have been developed over many decades with the human visual system as a reference, both as a technical basis (e.g., the choice of colour filter arrays) as well as the final application, providing an image to the driver. Increasingly, this reliance on the human visual system limits the development and performance of ADAS functionality, as the consumption of the images by a computer vision algorithm has distinctly different requirements than the human visual system. In this article, we detail these differing requirements with examples from automotive applications, to support the need for a new non-biological reference observer like the CIE photometric reference observer for colours.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

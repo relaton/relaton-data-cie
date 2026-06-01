@@ -59,9 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The colour perception and discrimination are influenced by various aspects. We know from previous studies that one of the biggest influences on colour discrimination is adaptation luminance, or rather its level. The adaptation of the eye itself is also connected with this. As adaptation luminance gradually decreases, we lose the ability to distinguish colours, and the visual system is oriented to distinguish brightness contrast. Various tests of colour discrimination have been and are used to determine whether the observer is able to distinguish colours. All tests are primarily designed to test in the photopic region of luminance. The results of one of these tests, the Farnsworth-Munsell 100 Hue test (FM 100 Hue test), are discussed in this paper. The aim of this work was to determine if and how observers are able to discriminate colours at low adaptation luminance on the border of the mesopic and the scotopic region of luminance.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

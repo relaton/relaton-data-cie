@@ -39,17 +39,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This technical report gives practical guidance to those concerned with the designing and planning of sports facilities where lighting is required to meet the needs of colour television and filming.
-
-    The report should be read in conjunction with CIE 83-1989, which defines the quantitative lighting requirements. This report is arranged in three main sections:
-
-    •Firstly, there is general guidance on sports lighting design including luminaires and lamp types, calculation methods, and electrical installation.
-    •The second section lists 51 sports with specific advice on the lighting of each.
-    •The third section gives references to relevant standards and in particular publications in which new sports lighting installations may be described.
-
-    The report is written in English, with a short summary in French and German. It consists of 79 pages with 90 figures and 1 table.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

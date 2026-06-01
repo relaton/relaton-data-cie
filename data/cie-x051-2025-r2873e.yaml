@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This paper is dedicated to inform a reader about the new research about the reconstruction of luminous intensity distribution of illuminated buildings or large outdoor objects that significantly contribute to disturbing light at night. The obtrusive light is highly discussed topic recently. However, there is lack of measuring equipment capable of characterising the contribution of individual illuminated objects to total obtrusive light. The proposed method uses unmanned aerial device with calibrated luminance camera to remotely and autonomously collect the luminance data around the object. With sufficient number of luminance images from different viewing positions and accurate GPS coordinates it is possible to indirectly calculate the luminous intensity distribution of that object and therefore evaluate total luminous flux that is irradiated in upper part of hemisphere and cause obtrusive light. These data can be used to determine the extent of the contribution of this object to obtrusive light in local region.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

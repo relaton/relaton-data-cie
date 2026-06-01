@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Odds ratios for the effect of ambient light level on cyclist numbers tend to reveal a variation between counters at different locations. We investigated reasons for this variation through analysis of cycle count data in two cities, Berlin (Germany) and Birmingham (UK). For Berlin, there was a significant increase in the odds ratio with increasing distance from the city centre, but this was not the case for Birmingham. The influence of location was explored, and this suggested that distance from the city centre may be a relevant factor on subsidiary roads but not on roads of a more major type. It was also found that the odds ratio is associated with the numbers of cyclists, and this tends to decrease with distance from the city centre.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

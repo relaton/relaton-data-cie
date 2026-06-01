@@ -39,9 +39,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Technical Report includes an overview of seven methods to characterize specific colour rendition characteristics of white-light sources beyond colour fidelity. Methods to characterize colour fidelity are described in CIE 13.3-1995 “Method of measuring and specifying Colour Rendering Properties of light sources” and CIE 224:2017 “CIE 2017 Colour Fidelity Index for accurate scientific use”.The seven described methods are:• Colour Quality Scale (CQS),• Colour Rendering Index (CRI)-based Colour Rendition Properties (CRI -CRP),• Colour Rendering Vectors and Colour Saturation Icon (CRV and CSI),• Feeling of Contrast Index (FCI),• IES TM-30 Method,• Memory Colour Rendition Index (MCRI),• Preference Index of Japanese Skin Colour (PS).This Technical Report neither ranks the methods nor recommends a specific method for the purpose of rating the adequacy of a white-light source for particular applications. The adequacy of a white-light source is likely to depend on the goal to be reached within a specific application field. The described methods are not intended to replace the general colour rendering index, Ra, or the general colour fidelity index, Rf, but they can be used to obtain a more complete description of the colour rendition characteristics of white-light sources, beyond colour fidelity.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

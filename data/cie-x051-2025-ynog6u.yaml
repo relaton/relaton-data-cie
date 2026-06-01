@@ -74,9 +74,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Challenges posed by unsuitable colour and light conditions can lead to human’s visual discomfort, sensory overload, negative behaviour, and diminished mood. Such effects are often more pronounced in neurodivergent (ND) compared to neurotypical (NT) individuals due to their unique physiological and psychological processing of colour and light. However, existing research is limited and contains contradictions. Here we present a comparative study focused on a series of psychophysical visual-perceptual colour tests, to explore potential differences between ND (34) and NT (34) people regarding their Colour Preference (CP), Colour Comfort (CC), and Colour Discrimination Threshold (CD). Some results showed significant differences between ND and NT groups, such as the hue quadrants of preferred colour and their colour discrimination ability. However, colour effects on various visual perceptual and cognitive tasks are varied, and require further investigation. The findings can provide insights into the possible effect of colour on neurodivergent people.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

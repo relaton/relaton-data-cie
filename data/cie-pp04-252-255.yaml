@@ -107,12 +107,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "A spectrum-tunable LED system was constructed to provide a high dynamic
-    range (1500:1 for D65), great spatial uniformity (>97 %) and accurate colour quality.
-    It can be used to perform variety of tasks such as colour and vision research,
-    colour image quality evaluation for digital cinema and HDR TV studios, calibration
-    of digital camera devices, cross-media colour reproduction and colour management.
-    \n\n              See more"
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

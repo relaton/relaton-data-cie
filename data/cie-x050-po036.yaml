@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    During the COVID-19 pandemic (2020-2023), people experienced long-term quarantine. The residential conditions have a substantial impact on our physical and mental health, including the notable impact of light on sleep and mood. The study collected data from 1118 subjects during the epidemic through questionnaires to analyse the sleep and mood problems and lighting needs of the residents. The physical building environment of the space where the long-term home health management people lived is normal, but with the increase of isolation time, uncertainty increases, so that people living in this space encounter mild to moderate stress stimulation, resulting in shortened sleep duration, decreased sleep quality and emotional anxiety, and there is a trend of gradual aggravation over time, which requires supportive improvement. It also studied the sleep and mood improvement effects by natural light on the subjects in Shanghai to provide a feasible light healing solution for the long-term quarantined occupants.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

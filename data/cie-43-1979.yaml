@@ -37,11 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This technical report recommends the adoption of test procedures that will provide acceptable results in measuring and reporting the photometric characteristics of floodlights. The recommendations are intended to provide a basis for uniform national standards, and to guide industrial photometric laboratories in the selection of test apparatus, conduct of tests, and presentation of floodlight performance data.
-
-    The publication contains 50 pages, 23 figures and 4 tables.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -146,10 +146,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    After incandescent lamp invention, lighting has been part of our lives. Lighting is celebrating a new paradigm with the introduction of LED technology. Now, LED lighting is beyond the scope of classical category and creates a variety of value-added situation such as motional lighting and connected lighting. Eco-friendly policy and implementation of energy saving and environmental regulatory system, such as reducing greenhouse gas emissions around the world became one of the most important issues. Moreover, connected LED lighting based on human centric lighting is being actively developed by freely adjusting the colour temperature and coordinates according to the time or the surrounding environment. However, there is no international standard for such connected lighting for the time being. In In this paper, we have investigated the characteristics of various types connected LED lamps.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

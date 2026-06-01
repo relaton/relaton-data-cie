@@ -76,9 +76,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Light can impact our sleep, well-being, cognition, and attention. Several studies have investigated how bright light can influence observers’ alertness and attention. In an office context nowadays monitors are ubiquitous. These monitors emit slightly blue-tinted light and can thus meaningfully contribute to the necessary light dose of the office worker. In this study, the impact of two lighting scenes on alertness, attention, and memory is investigated in an office-like environment. In addition, the lighting scenes (including monitor luminance) are chosen to be equally comfortable. The current results show no significant impact of the lighting scene on the measures and no impact on the time of day. This is likely due to the short exposure time and relatively small sample size. Based on the current results, a new experiment will be developed and conducted.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -61,10 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Our study shows the extent to which the complexity of the light field has an influence on shape perception. It is hypothesized that more complex light fields are associated with a larger error in shape perception. Due to LED technology and the use of LED arrays, light fields are becoming increasingly complex. From shape-from-shading experiments it is known that the visual system must make assumptions about the light field and the light direction to perceive the form correctly. The results show that complex light fields from LED arrays can lead to a distorted perception of shape, whereas simple directional or diffuse light fields enhance shape perception.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

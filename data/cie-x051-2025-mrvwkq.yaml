@@ -144,9 +144,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/mrvwkqGrowing awareness about the multiple impacts that artificial lighting at night has on natural ecosystems and the pressing necessity for protecting biodiversity is conflicting with the need for ensuring a safe and accessible nighttime environment for human beings and societies. In this project, the collaboration between multiple expertise among which ecology, sociology and lighting, has led to the elaboration of a methodology and an onsite measurement protocol for determining how the lighting characteristics could be tuned in order to limit the harm on the local biodiversity. Using the bats population as an umbrella species for nocturnal biodiversity assessment, the measurement protocol consists in mapping the lighting characteristics (illuminance, spectrum, light points height) versus the presence of various light-sensitive and opportunistic bats species, using dynamic onsite measurements that are repeated several times a year according to seasonality. This results in recommendations for the local lighting infrastructure adaptation to fit local biodiversity.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

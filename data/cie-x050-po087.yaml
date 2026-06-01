@@ -71,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This paper addresses both geometrical definitions and a methodology of computation of the average luminance factor. The road lighting community deals with a dedicated coordinate system adapted to the different lighting situations. The road surface characterisation is used both for the road lighting and road marking community and is also useful for visual appearance models that use Bidirectional Reflectance Distribution Function (BRDF). In this paper, conversion relations are given between BRDF and road/marking lighting conventions. The second issue deals with the calculation of the average luminance coefficient Q0 defined in CIE 144:2001 for road surface characterisation. The calculation has been defined in the seventies and its explanation cannot be found as it has not been published. The paper proposes a new definition of the solid angle for the integration that provides the best compromise between mathematical rigour and previous customary approach.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

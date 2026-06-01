@@ -95,9 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The performance of photoluminescent paints for road marking have been evaluated from calibrated camera measurements during four months in outdoor conditions. A method was developed to quantify the performance over time depending on the external conditions (lighting, temperature, rain). Findings confirm the influence of night-time illumination. A simple model is proposed to predict the time during which the luminescent paint is more luminous than a traditional one based on the illuminance averaged during the night.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

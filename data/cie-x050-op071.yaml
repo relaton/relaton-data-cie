@@ -91,9 +91,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The global energy supply challenges have made "energy efficiency" a top priority in national energy policies, particularly for countries heavily reliant on foreign energy. However, there has been a tendency to overlook the distinction between energy efficiency and energy saving in applications, such as public outdoor lighting. This underscores the urgent need for cost-effective, energy-saving implementations aligning with international lighting standards. While LED conversions have been prioritized in road lighting since the early 2000s, significant energy-saving potential also exists in improving them. Furthermore, recent advancements in adaptive systems integrated with LED conversions have shown promising energy-saving prospects. Policy/decision makers require clear and reliable data on energy-saving values to formulate effective strategies for road lighting. This study focuses on evaluating the data from a pilot road application with the aim of determining energy-saving values resulting from the integration of LED conversion and adaptive systems in existing road lighting installations, and feasibility analysis.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

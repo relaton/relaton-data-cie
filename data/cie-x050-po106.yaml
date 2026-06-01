@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The quantification of the impact of light on the human circadian phase is currently a bottleneck in achieving precise regulation of circadian rhythm through light. The Diurnal Circadian Lighting Accumulation (DCLA) model is a novel predictor of human circadian phase shift (CPS), developed based on diurnal light exposure characteristics such as timing, duration, and the ipRGC-based light dose. In this study, the DCLA-CPS model is validated through an online light habits survey involving 448 Chinese participants. The survey includes subjective CPS assessment and inquiries about daylight exposure, artificial lighting, and visual display terminal usage. The light habits are quantitatively translated into corresponding spectra and intensities, which are then inputted into the DCLA-CPS model to calculate the predicted CPS. The results indicate that the model accurately predicts the CPS direction, and there is a significant correlation between the predicted vector CPS and subjective CPS with R2 = 0.7884 (p < 0.05).
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

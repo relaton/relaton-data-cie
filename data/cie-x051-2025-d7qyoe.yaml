@@ -64,9 +64,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The International Commission on Illumination (CIE) introduced a Unified Glare Rating (UGR) correction method for non-uniform source luminance. However, its validation under realistic office conditions involving visual tasks remains limited. This study configured 21 lighting conditions (UGR ranging from 15 to 28) using 9 LED linear tracks, both with and without diffusers. A full-scale experiment was conducted with 40 participants in a within-subject design under controlled office-like conditions. The experimental design included both sequential and alternating exposures, incorporating pairwise assessments as well as absolute assessments of discomfort glare. Additionally, UGR values derived from the correction method were compared with those obtained directly from fisheye-lens luminance images. Results show small deviations between the fisheye-based image analysis and the correction method for UGR calculation. While UGR corresponds well with glare levels when only fixture intensity varies, it fails to match perceived discomfort between moderate and highly non-uniform sources, regardless of calculation method.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

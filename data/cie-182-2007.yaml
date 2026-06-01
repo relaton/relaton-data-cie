@@ -39,11 +39,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This technical report provides the recommendations of the CIE concerning total radiance factor measurements of photoluminescent samples. The scope is limited here to photoluminescent samples whose fluorescence is excited by ultraviolet or visible radiation only. These recommendations include procedures for both one-monochromator and two-monochromator methods. Detailed information is provided on the influence of various measurement parameters, such as the illuminant, instrument geometry, polarization, reflectance standard and photoluminescent standard. The report includes a survey of currently available photoluminescent material standards and calibration laboratories.
-
-    The Research Note is written in English, with a short summary in French and German. It consists of 54 pages with 9 figures and 5 tables.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

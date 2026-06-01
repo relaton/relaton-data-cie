@@ -52,9 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Light is a non-dispensable basic requirement for seeing. However, it can cause various opposite effects in the retina. The basic mechanisms of dry age-related macular degeneration (AMD) and the relatively new therapy method of dry AMD compared and discussed with Low Light Therapy (photobiomodulation). In addition to the UV, the cause of the aging changes in the dry AMD is also held responsible for the visible optical spectrum of the light. Low Light Therapy (photobiomodulation) has long been used for therapy for other disciplines in medicine. It stimulates the cell function and metabolic activity and sometimes reaches cell regeneration. The same effects can be reached in the macula in dry AMD in particular with wavelengths 590, 660 and 850 nm and the visual function improved. The visible light can have negative and positive effects on the health of the retina that depends on dosage and wavelengths.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -65,9 +65,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/4nq5ujThe V(λ) function, a photometric observer representing the spectral luminous efficiency of human vision, has been the basis of photometry for 100 years. Cone fundamentals offer an alternative to V(λ), VF(λ), which is accepted as a better match to human vision. In addition, the framework of cone fundamentals allows parametrization of VF(λ) to account for the significant diversity among human populations, e.g. for changes as we age and also changes with respect to field-of-view. There is currently a debate about the potential benefits of changing the normative photometric observer, defining the photometric units, from V(λ) to a cone fundamental based observer, e.g. VF(λ).A change from V(λ) to any other reference observer would require good justification as it would have profound consequences for measurement technology, metrology and the photometric unit scale. This paper introduces a mathematical framework for comparing one observer against another observer, across observer populations and lighting applications.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

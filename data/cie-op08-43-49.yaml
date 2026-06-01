@@ -97,10 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    A new criterion for the illumination quality based on the gradient of the luminance distribution on the scene is proposed. The possibility of obtaining a space-angular luminance distribution based on the solution simulation of the global illumination equation using local estimations of the Monte Carlo method is shown. The experimental installation allowing to carry out researches in the field of illumination quality is presented.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

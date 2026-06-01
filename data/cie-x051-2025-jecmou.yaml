@@ -109,9 +109,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study examined the integration of Radiance, a light simulation tool, and BEST, a thermal load calculation program that simulates the total energy consumption of a building by accounting not only for the building itself but also for systems and equipment such as HVAC, lighting, and plumbing. The integration was used to evaluate the thermal environments of spaces with complex external shading. In the previous study (Fujita et al., 1974), calculating the solar shading performance of such systems required Radiance scripts through a command-line language, which posed challenges owing to complexity. To address this issue, we developed a user-friendly workflow using Grasshopper, which enables users to calculate the reach ratio—a value representing solar shading performance—without requiring to write Radiance scripts themselves. This approach made the assessment of the thermal environment more accessible. Using the developed tool, we also investigated the appropriate number of analysis points for accurate simulation.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

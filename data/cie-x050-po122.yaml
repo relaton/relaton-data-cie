@@ -95,9 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    We computed Munsell notations for a set of fifty-five clay samples, analogous to those existing in Mars, under three different illuminants: The CIE standard illuminant D65 and two illuminants proposed for Mars, named M54 and M46, with correlated colour temperatures of 5400 K and 4600 K, respectively. The magnitudes of CIELAB colour differences (average ± standard deviation) between clay samples and their nearest Munsell chips were very similar for D65, M46 and M54: 3,8 ± 1,7, 3,8 ± 1,6 and 3,8 ± 1,7, respectively. Lightness differences were the main components (above 50%) in these average CIELAB colour differences. The change of illuminant generated changes in Munsell notations for few clay samples: 18,2% and 7,3% for changes from D65 to M46 and from D65 to M54, respectively. Assuming the CAT16 model, the average colour inconstancy of the clay samples when the illuminant changes from D65 to M46 was 1,8 CIELAB units.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

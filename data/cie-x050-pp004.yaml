@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study examined the influence of colour and simulation detail on impressions of daylit scenes shown in virtual reality. Experimental stimuli were 360° renderings of a typical office space with a south-facing window and varying presence of furniture, scene colour, and window treatment. Participants (N=100) experienced scenes using an Oculus Go VR headset and rated their subjective impressions, such as pleasantness, interest, excitement, calmness, and complexity. Results show that both the presence of furniture and the presence of colour affected participants' evaluations. Scenes with furniture were rated more positively than scenes without furniture across all attributes. Additionally, the presence of colour increased ratings of pleasantness, interest, excitement, calmness, and complexity. Grayscale scenes received lower ratings than coloured scenes, and coloured scenes were perceived as more exciting and complex than partly coloured scenes. These findings emphasize the importance of considering simulation choices in VR experiments, as they can impact participant responses.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

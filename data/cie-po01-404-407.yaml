@@ -95,10 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study evaluates the visual influences of indoor reading illumination in relation to two operating factors: the correlated colour temperature and task illuminance. Psychophysical experiments are carried out to explore the impact of these two factors on visual comfort, visual fatigue and task performance. An illumination control model based on the subjective perceptions is established to define the satisfactory operating range.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

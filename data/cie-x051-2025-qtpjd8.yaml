@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In lighting design, the amount of light and colour of light are determined according to the intended use of the space. The colour of light is generally indicated by correlated colour temperature (CCT). However, it has been pointed out that it must be shown in combination with the Duv. The purpose of this study is to identify the effect of DUV on the relationship between preferred illuminance and CCT. Subjective experiments were conducted in a concentration space and a relaxation space. The results of the psychological evaluations indicated that the differences due to Duv were observed even in the same CCT. Also, the preferred combination of illuminance, CCT, and Duv varies depending on the space and the activity. It was considered necessary to combine not only illuminance and CCT but also Duv in the evaluation.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

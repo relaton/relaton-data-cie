@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Perceived light qualities of lighting products are generally insufficiently described, reflecting that perception-based qualities, such as light colour, are not considered to the same extent as physical measures when creating light environments. It is well known that perceptual impressions are affected by, and relative to, surrounding stimuli. To develop descriptions of perceived light colour of white light sources, new concepts were evaluated in a pilot study combining paired comparison tests and descriptive sensory analysis. The findings confirmed that the perception of light colour is relative, demonstrated by cool light sources being perceived as warm/yellowish/reddish in relation to other cool light sources – which was well captured by the combined sensory methods with simultaneous light sources. The newest concepts, cyanish and magentaish light colour, were found to be useful in describing the perceived differences, showing that more concepts than warm, neutral and cool are needed for a richer description of light colour.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -133,9 +133,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Accurately capturing three-dimensional light distribution (Light Field) in architectural spaces with complex geometries and lighting environments is a significant challenge. This study focused on improving photon flow, a method for visualising the light field and examining its applicability in practice. Existing visualisation methods based on photon mapping algorithms capture the direction and intensity of light from the spatial distribution of photons. However, understanding the directionality of light remains challenging in spaces predominantly illuminated by indirect light. Using Rosanjin Hall at the Adachi Museum of Art, an environment primarily dominated by indirect lighting, we implemented improved methods and had practitioners observe the Photon Flow within the space. The results highlighted advantages such as enhanced visual clarity of light flows and evaluation of the practical utility of the method. Simultaneously, issues related to the parameter settings during photon flow creation were identified.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

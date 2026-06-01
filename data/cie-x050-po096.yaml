@@ -47,9 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    More than twenty years of the absolute responsivity measurements from a set of three-element trap detectors that have been calibrated against the NPL primary standard cryogenic radiometer are assessed. For a Krypton ion laser emission wavelength of 356.4 nm, a total decrease in absolute responsivity of around 3 % was recorded over the total measurement history. The year-on-year changes are relatively linear, allowing for easy prediction of future responsivity performance for a particular trap detector. Potential causes of the changes in the trap detector absolute responsivity are discussed.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

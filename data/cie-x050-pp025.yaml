@@ -95,9 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    NLITED - New Level of Integrated Techniques for Daylighting Education is a European project bridging a daylight design education gap. The paper describes the framework of the project, which consists of a free online e-platform with 32 modules dedicated to daylight knowledge within the built environment used by almost 800 learners (students and professionals). Two 7-day summer schools support the e-platform. The e-content was created by more than 30 international tutors based on a series of workshops and online surveys to define the need for sustainable daylight training. The paper addresses a gap in the literature on daylight education by describing the functioning e-platform and its usage results.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

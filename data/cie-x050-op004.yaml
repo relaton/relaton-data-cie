@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Adequate indoor lighting should compensate for the lack of daylight by providing more light at eye level. Employing High Dynamic Range (HDR) monitors with high-lumen output could be a way to accommodate this need for more light. However, people will dislike working with a monitor if it is too bright for the environment. Therefore, a visual experiment was conducted, evaluating reading comfort on a continuous rating scale under various monitor and ambient luminance levels. Reading comfort improved as ambient luminance levels increased. However, at higher ambient luminance levels (above 34 cd∙m-2), reading comfort stabilized for all monitor luminance levels. Unexpectedly, there was no difference in reading comfort between the monitor luminance levels. However, the current rating scale experiment might be insufficient to fully capture the true differences between monitor luminance levels. Therefore an additional visual experiment is planned, employing a paired comparison psychophysical procedure.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

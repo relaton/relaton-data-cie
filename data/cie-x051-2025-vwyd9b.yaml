@@ -95,9 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The objective of this paper is to explore the use of the Facial Emotion Recognition (FER) task (inspired by a laboratory task) on field experiments to assess lighting quality for pedestrians in urban space and to investigate the relationship with reassurance after dark. The task consists in identifying a facial emotion from a given distance during a given observation time. Two field experiments were conducted with different experimental designs, protocols and panels. One experiment also involved elderly people. The results show a luminance plateau above 0.1 cd/m² on average, i.e. the rate of correct responses did not increase above a sign luminance of 0.1 cd/m². For elderly participants, the proportion of correct responses increases when the sign luminance was greater than 0.5 cd/m². The results also show that the rate of “I don’t know” responses may discriminate the darkest lighting conditions and may be related to perceived safety.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

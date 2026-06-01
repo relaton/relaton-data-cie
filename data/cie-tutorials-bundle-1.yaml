@@ -35,9 +35,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: A Multi-User PDF allows you to purchase a finite set of single user licenses
-    for a specific document. The number of user licenses available for purchase varies
-    by document, please see the store listing for more specific information.
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

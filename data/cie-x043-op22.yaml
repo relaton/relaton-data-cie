@@ -85,10 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    A method is proposed for analysing spectral components from the observed images of fluorescent objects and reconstructing realistic appearances of the fluorescent objects under different illuminations. First, the Donaldson matrices of fluorescent objects are estimated at each pixel point using a spectral imaging system under two-illuminant projections. Observed images of the fluorescent objects under arbitrary illuminations are constructed using the estimated matrices and the target illuminant. Next, the mutual illumination phenomenon between fluorescent objects is analysed. The Donaldson matrix of each object and the spectral image components are estimated from the images with the mutual illumination. The estimated component images are used for reconstructing the same objects under different light source. Finally the feasibility of the method is shown in appearance reconstruction of fluorescent objects with/without mutual illumination effects under different light sources.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

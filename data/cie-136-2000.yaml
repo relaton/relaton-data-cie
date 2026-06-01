@@ -37,15 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The purpose of this guide is to supplement the lighting recommendations and standards for roads and areas of public use as detailed in the Publication CIE 115-1995. It replaces CIE 92-1992 Guide to the lighting of urban areas.
-
-    The recommendations cover the effect of light on night time crime and suggests lighting requirements for residential roads and community areas, industrial roads, central business districts and malls, pedestrian paths and access facilities and cycle tracks.
-
-    In addition to proposing levels of luminance and illuminance the recommendations consider aspects such as modelling of people and structures within the environment, the effects of glare and sparkle, suitability of light sources as far as colour appearance and colour rendering are concerned, the effect of the lighting on the environment and the general aesthetics of the lighting equipment used.
-
-    This publication is written in English, with a short summary in French and German. It contains 38 pages with 5 figures and 11 tables.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

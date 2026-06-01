@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This article introduces software designed for heterochromatic brightness matching (HBM) and red-green colour vision deficiency (CVD) recognition, which operates by minimising apparent movement. Our study focuses on presenting measurements and results on two different displays and laboratory environments using the same concept and principles. To validate the accuracy of the tests’ ability to determine both the presence and type of CVD, the results of the tests were compared with those from the Nagel (Type 2 Heidelberg Multi Color) anomaloscope and the Ishihara test (24 plate). Test subjects were categorized into three groups based on their CVD characteristics (normal colour vision, protan, and deutan). The results of the tests aligned with known CVD types in 67 % and 94 % of cases, showing the method’s reliability and accuracy in identifying CVD. Additionally, HBM results revealed that distinguishing deutan vision from normal colour vision is considerably more challenging than identifying protan cases.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

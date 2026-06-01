@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The purpose of this paper is to provide an overview on the realization of the concept aimed at high throughput LED testing. The target was to achieve at least one order of magnitude decrease in the overall testing time spent on a single LED package. The main goal of the improved throughput of laboratory testing of LEDs facilitate that Delph4LED-style LED modelling becomes an industrial reality. The second overall objective is to assure, that isothermal IVL characterization of the LED packages being aged becomes a feasible option, thus making it possible to create the elapsed lifetime dependent multi-domain circuit simulation model of LEDs.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Daylight dynamic metrics present an alternative approach for evaluating the energy conservation benefits promoted by lighting control systems. This study aims to quantify the energy savings enabled by lighting smart controls using two novel metrics tested by monitoring a mesh of illuminance-meters in test cells over a one-year period: continuous and overcast daylight autonomy. Three types of controls are proposed, based on switches and dimmers, which can be operated by illuminance meters and irradiance detectors. The energy savings are evaluated based on weather data, room dimensions, internal reflectances, window size, and user requirements — working hours and illuminance needs. The results demonstrate a reduction in average electric lighting energy consumption of up to 23%, indicating the effectiveness of the smart controls proposed. Smart controls without illuminance-meter feedback are only recommended for shallow rooms with low lighting requirements, while dark rooms demand a complex dimming system managed by external illuminance meters.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

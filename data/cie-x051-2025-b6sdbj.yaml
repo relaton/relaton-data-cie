@@ -109,9 +109,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Flicker is a subjective perception of instability of artificial light sources, which can be, under certain conditions, induced in a human observer by temporal light modulation (TLM). As such, it is addressed by the CIE as a phenomenon related to lighting, but also by the International Electrotechnical Commission (IEC) as a phenomenon related to light sources that are supplied by electricity and whose properties are eventually governed by electronic circuits. However, each organisation uses not only slightly different definitions of what flicker is, but also of the visibility/perceptibility threshold of flicker in terms of TLM properties. This paper aims to compare these definitions. To this end, a data set of threshold measurements with human observers performed via QUEST procedure is evaluated according to each definition. Resulting thresholds are then compared in order to determine whether both definitions of threshold are equivalent (i.e., yield the same threshold).
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

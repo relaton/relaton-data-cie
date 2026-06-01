@@ -125,9 +125,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Stray light from commercial greenhouses is becoming a significant problem causing disruption to wildlife activity and annoyance for local residents. To quantify the amount of stray light from a typical large greenhouse the authors have modelled several lighting installations based on a range of generic horticultural light sources. The impact of the stray light is dependent on the spectral power distribution of the sources employed, the intensity and distribution. Current standards for obtrusive light from outdoor work places do not seem to be suitable when applied to greenhouses.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

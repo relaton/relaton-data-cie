@@ -75,10 +75,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    To characterize the polarization influence in diffuse reflectance measurements, PTB's gonioreflectometer has been equipped with a polarization-analyzer unit. This allows one to characterize the polarization state of light by measuring the Stokes parameters. Different kinds of samples have been investigated in several exemplary geometries (in plane and out of plane) and at different wavelengths to assess the influence of polarization. Among these samples are a ceramic white standard, semi-matte photo papers and different special-effect pigment coated tiles. The observed polarization effect strongly depends on the sample and on the geometry. For the samples in this study, the more sophisticated the optical properties of the sample are (color, gloss, texture, goniochromatism), the larger is the polarization effect, even for typical geometries.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

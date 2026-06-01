@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    An imaging luminance measuring device (ILMD) is capable of simultaneous luminance measurement in every pixel of captured image. A conventional luminance meter only measures average luminance in defined viewing angle. An imaging luminance measuring device offers more flexibility and complexity to the luminance analysis of region of interest. However, these devices require complex hardware and software calibration and the uncertainty analysis is therefore more difficult than in case of a conventional luminance meter. In this article a reader learns about the estimation of measurement uncertainties of imaging luminance measurement devices based on the digital camera. Expanded uncertainty in luminance measurement depends on settings of a digital camera and is not uniform across the image. Therefore, 3D functions are chosen for best representing of expanded uncertainty.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

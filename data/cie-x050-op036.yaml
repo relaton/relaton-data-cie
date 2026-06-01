@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Darkness discourages cycling. A major reason for this is perceptions of safety – cycling after dark feels more dangerous as it is more difficult to see hazards in the path, and the cyclist is less conspicuous to motorists. Are these perceptions justified? To find out we assessed the accuracy of such perceptions by analysing crash data from Great Britain to understand the risk darkness poses to cyclists. We found that darkness increases the risk of being involved in a crash, but we did not find darkness increases the risk of being killed, while cycling. However, we did find that the odds of a cyclist being killed in a crash after dark are eight times higher on unlit roads than on lit roads, before accounting for confounding variables such as road speed limits and other road characteristics associated with presence/absence of lighting. These findings help develop the evidence that is needed to ensure cyclists are accounted for in lighting design guidance.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

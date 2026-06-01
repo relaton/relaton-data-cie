@@ -115,10 +115,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In this paper, a field survey and subjective assessment of the visual environment of an NZEB (Net-Zero Energy Building) renovation were carried out. In the subject building , LED taskambient lighting and venetian blinds were automatically controlled. When daylight provided enough light, areas near the facades showed higher desk illuminance than that at the centre. Generally, 300 lx of desk illuminance was kept on both the sunny measurement days and the cloudy measurement day. In the absence of direct sunlight, the fully-up blinds increased the luminance of the ceiling and saved energy for lighting while only slightly increasing glare. The
-    subjective assessment showed that subjects? evaluations about room and desktop brightness were neutral (neither bright nor dark), when the northwest blinds were both fully-up and fullydown with slats at a 0 degrees angle.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -82,10 +82,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    According to the experience, the spectral energy of lights that transmitted under the seawater was decayed at different depths, as well as the spectrum absorption issue of underwater illumination is discussed and a wide range of topics are covered in the marine field. Therefore, colour compensation of white light LEDs for reducing the true colour of underwater illumination is necessary. In this paper, we consider common parameters of seawater, such as salinity, concentration, temperature, refractive index and so on, a seawater model can be established, and the spectral energy change of LEDs can be also simulated and analysed. The simulation results showed the highly positive relationship between spectral energy decay, extinction coefficient and Mie scattering of sea water.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

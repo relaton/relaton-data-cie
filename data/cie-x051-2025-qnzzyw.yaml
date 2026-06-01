@@ -109,9 +109,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Windows are essential for architectural design by linking residents with outdoor. The research assesses the effectiveness of window views in optimising building design. A specific part of Gdansk city was modelled in Rhino and ClimateStudio software. A thirteen-story office building near Alchemia office complex was considered. Different scenarios were analysed, including varying the floor, room orientation, building rotation, and window-to-wall ratio. The view quality according to EN 17037 and LEED standards, the elements and panorama visible through the window by a seated person, were compared. The findings indicate that by acting on window sizes and building orientation, the elements observable through the window can be altered to improve the perceived view quality, even if this does not affect the view quality as defined by standards. Finally, panoramic images can represent a great support to the design process by allowing visual comparison of design solutions and supporting participatory design.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

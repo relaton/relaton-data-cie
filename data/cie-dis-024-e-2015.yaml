@@ -37,11 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Draft International Standard summarizes the most important terms and definitions in the field of lighting by inorganic semiconductors used in CIE documents, which are intended to become part of the International Lighting Vocabulary.
-
-    The Draft International Standard replaces the withdrawn publication CIE DIS 024/E:2013. It has been sent to CIE Board of Administration, Division 2 and National Committees for comments and is sold to interested parties. It is still subject to changes and may not yet be referred to as a CIE International Standard. When approved by the CIE NCs, it will be published as a CIE International Standard and later on get part of the International Lighting Vocabulary.
-                  See more
+  content: This document is a set or collection of related documents
 relation:
 - type: updates
   bibitem:

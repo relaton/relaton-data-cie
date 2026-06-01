@@ -97,9 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Integrative lighting has acute impact on visual task performance and daytime alertness, however, there wasn’t a consistent and comprehensive study on the optimal lighting environment for children. The study investigated the effects of different illuminance levels (300 lx vs. 1200 lx) and CCT levels (2800 K vs. 5000 K) on memory, reaction speed, accuracy, subjective alertness and sustained attention, mood, and eyestrain in highly simulated children's study lab. Nineteen healthy school-age children participated in the laboratory study, all of them taking eye examinations and PSQI, SAS, and SDS tests before the experiment. CCT had a greater impact on spatial temperature perception, and spatial color perception was distinguished well under different illuminances (p＜0.1). The optimal lighting strategies were different according to different tasks. The influence of task types under different lighting conditions and interaction effects on CCT and illuminance were discussed.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

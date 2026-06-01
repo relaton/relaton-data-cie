@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The paper is focused on the mathematical description of the moonlight, namely the values of horizontal and normal illuminance from the Moon and the corresponding exposure values for any time and place on Earth. The aim of the research was to determine an algorithm for simulating the Moon as a light source and then using it to generate values for the Czech Republic and the year 2024. The values thus determined were then statistically analysed to determine the histogram of their occurrence as well as the median and mean. The data were then used to determine the theoretical exposure (in lux-hours) for the individual lunar cycles of 2024. The calculations assume that the Moon is a completely dominant light source in the natural nighttime environment, but its luminance and therefore the illuminance on the Earth's surface varies greatly during the year and on individual days of a cycle.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

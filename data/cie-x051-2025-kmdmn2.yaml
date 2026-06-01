@@ -64,9 +64,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Colour assimilation demonstrates how visual perception integrates spatial colour information, yet its effects on socially significant stimuli like faces remain underexplored. This study investigates colour assimilation in faces under foveal and peripheral vision using a curved display system. Psychophysical experiments measured the effect using a Colour Assimilation Index (AI), calculated from chromatic shifts on the CIE (u’, v’) chromaticity diagram. Five test images included four faces and a non-face, presented against striped backgrounds in red, green, or blue. A total of 11 subjects performed colour-matching tasks, adjusting test images to match references under both viewing modes. Results revealed no substantial overall differences between foveal and peripheral viewing; however, for the red primary, colour assimilation was stronger in peripheral vision. These findings suggest colour processing varies with stimulus features and viewing conditions, offering insights into perceptual integration and its implications for recognizing socially critical stimuli in everyday contexts.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

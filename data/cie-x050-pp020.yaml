@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    For road lighting design, road surface descriptors like the degree of lightness Q0 and specularity S1 are derived from reflection properties (or BRDF) of road surfaces. However, these BRDF are based on outdated road surface characteristics, and are also partial (they are called r-tables) because only the motorist’s 1° observation angle is considered. Thus, the need to have full BRDF measurements of current road surfaces available. This paper proposes to use a recently released open source database of measured whole BRDF by means of our in-lab gonioreflectometer to investigate the performance of Q0 and S1. We first compare descriptors obtained from measured and interpolated r-tables and find a good accuracy, especially for Q0. Then we propose a tentative model for these descriptors function of observation angle, and find quite an accurate fitting. Finally, we suggest a methodology for the classification of road surface materials in terms of Q0 and S1.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

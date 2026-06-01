@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Reflecting the incident radiation, opaque surfaces contribute to determining visual and non-visual responses to light. Material’s photopic and melanopic reflectance indicate surfaces’ potential in reflecting the radiation able to stimulate the visual system and the circadian one respectively. Classification of materials based on the ratio between these two quantities (M/P) is helpful to drive designers’ choices. This study applies a systematic analysis on 195 samples selected from the Natural Colour System to deepen how colours’ attributes (hue, chromaticness, and blackness) influence photopic and melanopic reflectance (under CIE D65 illuminant) and M/P ratios. Results show that, whatever the blackness, both total photopic and melanopic reflectance linearly decrease as the chromaticness increases and in the meantime, their ratios tend towards 1. So, a model to calculate M/P ratios as a function of colours’ chromaticness is proposed. Finally, an approach to classify colours according to M/P ratios is suggested.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

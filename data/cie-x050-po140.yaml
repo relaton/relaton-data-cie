@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This article presents a systematic literature review on the lighting education in the context of built environment. The study aims to understand the overall panorama of lighting education and analyse the main themes addressed in scientific literature. The review was conducted using the Scopus and Web of Science databases. A total of 37 documents, including scientific articles and a report by the CIE, were selected for analysis. The results highlight the main aspects discussed in the field of lighting education, such as the contents addressed in the curriculum of courses, the experiences developed by teachers, the main criticisms and opinions about lighting education and lighting learning assessments. Challenges identified include integrating lighting education into design practice, addressing learning deficiencies, and developing multidisciplinary skills. The analysis reveals essential topics for lighting education, including the behavior of light in the built environment, functional aspects of light, available lighting technologies, the relation with human health, and environmental sustainability. The article emphasizes the need for a multidisciplinary approach to lighting education and highlights the importance of understanding light's interaction with architectural spaces, embracing new technologies, and fostering personal skills for professional practice.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

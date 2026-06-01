@@ -49,9 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In 2016, the Architectural Institute of Japan published the Academic Standard for Lighting Environments (AIJES-L0002-2016), which has been in use for several years and is currently under consideration for revision. This standard specifies the lower limit of recommended average luminance values for ceilings and wall surfaces. However, it has been noted that the internal reflectance values underlying these recommendations are set too low, resulting in an excessively high contrast between work surface illuminance and average luminance. To address this issue, evaluation experiments were conducted to investigate the balance between appropriate work surface illuminance and spatial average luminance. To ensure the inclusion of a broad age range, experiments were conducted with participants in their 20s and those around 70 years of age. The results revealed that, regardless of age group, approximately half of the participants judged the contrast as inappropriate when the ratio of work surface illuminance to spatial average luminance exceeded 20:1.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Light fulfils numerous roles in human lives resulting in different lighting needs presented in standards and guidelines. For any lighting design, lighting measurements are crucial for evaluating the installed lighting system. Calibrated photometers are recommended for accurate measurements, although smartphones are sometimes used for indicative measurements. In this study we assessed the measurement accuracies of 13 smartphones. In addition, the wider applicability of smartphones for light measurements in the field is discussed. Our results showed that illuminances measured with smartphones need to be multiplied with an absolute correction factor of 0,63 to 2,54 depending on the smartphone and the illuminance range. Furthermore, although all smartphones showed a good linear response, the directional response was very poor. In conclusion, based on both accuracy and applicability considerations noted in this paper, we strongly discourage the use of smartphones for light measurements to test compliance with standards and guidelines.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

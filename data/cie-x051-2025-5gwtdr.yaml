@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Daylight has long been recognized for its positive effects on human health and well-being, yet empirical evidence is still missing regarding the specific optical properties driving these benefits. In our effort to bring a more fundamental understanding of the mechanisms governing our non-visual response to daylight, the present paper describes a workflow and its application to an experimental setting to ensure “a priori equivalence” (i.e. comparability) of light exposure between daylit and electrically lit conditions, where “equivalence” (or comparability) is based on the latest findings from the literature regarding expected non-visual effects. By combining environmental and personal light exposure monitoring with ad hoc calculation methods, the proposed approach allows to design an experimental setting in which non-visual responses from participants exposed for prolonged periods to either uncontrolled and inherently dynamic conditions (daylight) or controlled and mostly static ones (electric lighting) can be “fairly” compared.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

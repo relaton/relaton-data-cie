@@ -97,9 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    E-sports highly rely on a single visual channel to quickly pick up and sort information. It brings a higher risk of Computer Vision Syndrome (CVS). Due to differences in visual content and operational behavior, VDT office lighting design standards are not necessarily applicable to e-sports training spaces. E-sports space lighting environments need further research and the establishment of relevant standards. Therefore, through preference dimming and comparative experiments, this study utilizes the characteristics of Multiplayer Online Battle Arena (MOBA) games to enhance gamers’ visual and cognitive functions, explore suitable lighting environments, and find duration thresholds. The results show that e-sports gamers prefer low horizontal illuminance, and e-sports training in this lighting environment can improve gamers’ visual attention, visual search ability and reaction time, and maintain high training efficiency, which seems to be more conducive, but the duration needs to be controlled within two hours.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

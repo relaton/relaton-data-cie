@@ -39,9 +39,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The present report provides a description of a comprehensive analytic model for describing the influence of lighting parameters upon the visual per­formance potential of observers engaged in tasks with significant visual components, and describes the lines of evidence used to develop each phase of the model. The model has been derived from study and analysis of the exten­sive published literature relating visual performance potential to various lighting parameters which included two basic technical approaches, which may be described as the "empirical" and "analytical" methods for studying visual performance. Empirical studies involve measurements of the speed and accuracy of task performance under real or simulated conditions of visual work. Analytical studies involve measurements of the operational characteristics of processes believed to be operative in visual work either taken singly or in relatively simple combinations, with subsequent synthesizing of the operational characteristics of the individual processes into a quantitative model intended to describe visual performance potential under conditions of visual work. The analytic model described in this report was derived from all suitable experimental data of which the Committee is aware, obtained in these two classes of experiments during the last 50 years. In all, more than 2,200 members of the populations of CIE Member Countries were involved in these studies either as experimental observers or as unknowing participants in field observations.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

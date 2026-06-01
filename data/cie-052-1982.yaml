@@ -37,11 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    A method is presented that deals with average illuminances of the working plane, walls, ceiling. It represents a design method (determination of light distribution and arrangement of luminaires with required or specified illuminances) as well as a verification method (calculation of illuminances of a design or an existing installation). The method differs from most existing methods by its ability to take into account the influence of the luminaire arrangement. The method is based on CIE 40-1978 Calculations for Interior Lighting: Basic Methods.
-
-    The publication contains 175 pages, 29 figures and 91 tables.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

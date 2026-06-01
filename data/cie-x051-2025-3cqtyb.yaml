@@ -74,9 +74,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/3cqtybThe pupil response serves as a proxy for the biological potency of light. A reproducible measurement of the pupil response requires controlled dark adaptation, but it is currently unclear whether shorter dark adaptation periods can be used to reliably determine the biological potency of light through measuring the pupil response. Therefore, we conduct a within-participant experiment, continuously measuring the pupil response for dark adaptation periods between 40 and 120 seconds. Results show a trend in the effect of mEDI on the 6s-PIPR increasing with longer adaptation periods. The dark adaptation period of 120 seconds does not fit this trend, and more research is needed here. Overall, our study shows that a dark adaptation period of 60 to 100 seconds is suitable for repeated measurements of the 6s-PIPR, with the aim of using the pupil response as a proxy for the biological potency of light.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

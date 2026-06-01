@@ -100,9 +100,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study conducted two field tests in offices to investigate the convergence and discrepancies of fixed and personal light measurements. Firstly, an open-plan office was monitored with sensors at various points from outdoor weather station to person-worn pendants for one week. Secondly, personal light exposure of an office worker was monitored with wearable sensors at multiple measurement points, including forehead, eyeglasses, pendant, and wrist. Data analyses involved time-series plots, Pearson correlations, linear regression, and Bland–Altman comparisons. Results indicate that window-side measurements could estimate workstation light levels but require caution regarding direct sunlight. As for personal light evaluations, fixed workstation measurements were incapable of capturing temporal fluctuations in individuals’ light exposure. For wearable sensors, measurements from eyeglass-mounted devices were comparable to those from forehead-mounted sensors, while pendant/wrist sensors required calibration. These findings highlight the importance of measurement calibration and integrating wearable sensors in field studies for healthy lighting design.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

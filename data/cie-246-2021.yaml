@@ -37,9 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This document provides guidance on methods for computing and communicating colour gamuts for output colour reproduction systems such as printers and displays. Different methods for defining a colour gamut boundary are reported. A procedure for describing the colour gamut of a reproduction system is explained. A step-by-step method for calculating the volume of colour gamut is provided along with the colour gamut metrics for comparing two colour gamuts.The document describes methods for visualization of a 3D colour gamut surface. A set of information required for reporting a colour gamut has been developed. Different methods of encoding a colour gamut boundary description are mentioned. Examples for the CxF-based encoding of colour gamut boundary descriptors are provided as electronic attachments to this document.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

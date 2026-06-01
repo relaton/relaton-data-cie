@@ -37,11 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Measurement results for light emitting diodes (LEDs) strongly depend on their thermal conditions. In order to achieve reproducible results with small uncertainties it is critical to accurately set and control the junction temperature of an LED during the time of optical measurement. This technical report describes the methods and procedures for measurement of high-power LEDs (HP-LEDs) under DC operation to acquire photometric, radiometric, and colorimetric quantities at a specified junction temperature.
-
-    The publication is written in English, with a short summary in French and German.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

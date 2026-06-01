@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Also known as an SPDF enforces publisher restrictions around file sharing,
-    printing, and downloading. For more details on these restrictions refer to: Help
-    Center.'
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

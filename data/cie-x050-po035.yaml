@@ -49,9 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The question of the need for analytical approximation of Color-matching function was considered. An analysis of the literature was carried out and possible approaches to solving this problem were identified. On their basis, and also on the basis of our own research, a method of analytical approximation was developed that allows achieving accuracy very close to the original 1931 CIE tabular functions. For the first time, an approximation accuracy criterion, based on the specifics of colorimetric measurements, was formulated and applied.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

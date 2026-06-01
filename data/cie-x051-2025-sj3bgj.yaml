@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study examines images that are perceptually equivalent to the gloss of real objects to see if a high-resolution colorimetrically reproduced image can reproduce the glossiness of a real object. In addition to a direct comparison of the glossiness of the real object and the colorimetrically reproduced image, a psychophysical experiment was conducted to select images that reproduce the glossiness of the real object by direct comparison between the processed image and the real object. The results, using 24 stimuli consisting of glass, metal, and stone, showed that (1) direct comparison between real objects and colorimetrically reproduced images showed that digital imaging significantly reduced the glossiness, (2) experiments to select images with equivalent gloss to real objects showed that the contrast of GLCM features contributes to the accuracy of reproducing the glossiness of real objects. Therefore, even an image may be able to reproduce glossiness through contrast modulation.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -95,9 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Integrating sphere sources are commonly used for calibrating spectroradiometers, photometers, and image sensors due to their uniform radiance. However, achieving field homogeneity typically requires limiting the open fraction of the integrating sphere to less than 5%, resulting in bulky dimensions. This study presents a compact flat plane uniform radiation source comprising an array of broadband LEDs and a king of optical nano-diffusion film. The flat plane source exhibits a luminance variation of less than 1% over a 56mm(W)×58mm(H) subsection, with adjustable luminance ranging from 800 to 11000 cd/m². The broadband LED has enhanced the spectral radiance in the red band region compared to typical white LED sources. This novel flat plane radiance source offers advantages in compactness, ease of fabrication, low cost and improved spectral performance, making it a promising alternative to conventional integrating sphere sources in some case.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

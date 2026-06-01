@@ -47,9 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/kud68bThe purpose of this study was to rationalize the Fluorescent Penetrant Test, which is used for crack inspection of building structures, equipment, and various parts, and to establish a method for measuring fluorescent images using spectral imaging. As the fluorescent agent, five types of water-soluble fluorescent color paints with different excitation-emission wavelength ranges were used. The fluorescence properties of the fluorescent agent were performed using a spectrofluorometer comprising two spectrometers. For spectroscopic imaging, an LED lamp emitting UV light was used for illumination, and a light receiving device composed of a liquid crystal tunable filter and a monochrome CCD sensor was used. As a result of the measurement, we were able to obtain an excitation-emission matrix and a spectroscopic image, and based on this, it became possible to study how to obtain high contrast in inspection.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

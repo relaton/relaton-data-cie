@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The effectiveness of architectural lighting systems has traditionally been measured based on individual luminaire efficiency and cannot capture the performance of intelligent lighting systems. To address this, a lighting application efficacy (LAE) framework has been proposed, which consolidates radiant efficiency, visual system sensitivity, and spatial efficiency of lighting systems. Radiance software simulations indicate that spatial efficiency, the amount of radiant flux reaching the target divided by the total emitted radiant flux into a room, is significantly affected by room size, luminaire density, surface reflectance, luminous distribution type, and visual field angle. The LAE framework is flexible and accommodating, allowing other researchers to add and modify each component to address more complex needs in the future. Measures of LAE can enable measuring the energy efficiency of buildings in real time and report integrated and averaged metrics, which can be incorporated into intelligent, dynamic, and integrated building systems to make real-time decisions.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

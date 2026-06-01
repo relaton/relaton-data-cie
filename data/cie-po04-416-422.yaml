@@ -62,10 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Parametric design is widely used in architectural design, mainly in appearance design, and the lack of performance optimization and data introduction. Introducing the parametric design concept into lighting design. On the one hand, it achieves the purpose of beautiful appearance by combining with architecture, and on the other hand, it establishes the one-toone correspondence between lighting parameters and graphics software and realizes the control of lighting parameters on the graphical interface. Visualize lighting options on the graphical interface. And optimize lighting design.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

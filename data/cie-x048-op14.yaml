@@ -97,9 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    There is only little guidance available for the evaluation of the degree of equivalence for higher dimensional measurands, especially in respect to tristimulus values. Currently, the tristimulus values are usually treated as one-dimensional measurand in order to simplify the degree of equivalence evaluation and be able to use the well-known procedures and statistics known from one-dimensional measurands. As the tristimulus values are clearly a high-dimensional measurand, they should be treated in that way. In the following, a procedure for the degree of equivalence evaluation for high-dimensional measurands is presented where the Monte Carlo method is used to support a clear understanding of the procedure. In addition to the procedure, the limitations of this method are discussed in regard to tristimulus values.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

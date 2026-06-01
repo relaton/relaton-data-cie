@@ -37,9 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This standard specifies the requirements for measurement of electrical, photometric and colorimetric properties of road illumination devices and light-signalling devices for road vehicles including their light sources as given by various UN regulations. These properties are usually acquired with a DC supply voltage, possibly supplied by an associated electronic light source control gear. This standard also specifies the requirements for measurement of photometric and colorimetric properties of retroreflective devices for road vehicles.Photometric and colorimetric quantities covered in this standard include total luminous flux, cumulative luminous flux and the distribution thereof, luminous intensity and the distribution thereof, illuminance, luminance, chromaticity coordinates, spatial chromaticity distribution, luminance factor and coefficient of luminous intensity of fluorescent and/or retroreflective surfaces. Geometrical quantities covered in this standard include light emitting area and corresponding contrast ratios of light sources.NOTE 1: Where the term “device” or “DUT" ("device under test") is used in this document, the term covers light sources (replaceable or non-replaceable), light source modules, road illumination devices, light-signalling devices and retroreflective devices.NOTE 2: The text within this document is written as technology neutral as possible always trying to provide multiple possibilities for the measurement of a photometric quantity to allow laboratories a maximum of flexibility in recording and analysing the required data.
-                  See more
+  content: This document is a set or collection of related documents
 relation:
 - type: updates
   bibitem:

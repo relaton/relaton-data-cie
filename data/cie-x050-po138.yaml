@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    A unique lighting system capable of projecting a pictogram image was designed using a micro-prism array (MPA) comprising 0,08 mm square prism cells. The quality of the pictogram image projected by the lighting system with the MPA was evaluated using a computer simulation. The evaluation clarified the number of prism cells necessary to achieve the required illuminance uniformity of the projected pictogram image, the dependence of the blur width of the projected image at a distance from the light source to the MPA, and the effect of the diffracted light of the prism cells on the projected image. By addressing these key aspects, we can make the design of a pictogram image projection lighting system with the MPA more efficient.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

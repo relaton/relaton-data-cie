@@ -37,9 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This report offers guidelines in order to balance lighting quality, user comfort and energy efficiency in lighting controls solutions for lighting in non-residential buildings (i.e. for commercial, institutional and industrial buildings). It provides a decision scheme with a focus on the user requirements (visual comfort, performance, personal control) to determine the most applicable control solution, including the consequences for possible savings. In this, it assumes that there are no technological or financial hurdles. The decision scheme identifies 16 possible control strategies, for both daylight and electric lighting, and provides guidance for which strategy would be most effective in each of the 12 cases defined by space usage and occupancy.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

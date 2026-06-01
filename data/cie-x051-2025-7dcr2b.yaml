@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Optimising road lighting, and particularly quality criteria related to luminance, requires detailed knowledge of the optical properties of road surfaces. Known as r-tables for road lighting applications, these properties need to be described by analytical models to represent their evolution as a function of the observation angle, ageing or to solve inverse problems to be retrieved from indirect measurements. To address this issue, a database of 60 r-tables is compiled, as varied as possible. Then 9 known reflectance models were tested: 8 from the world of computer graphics and one dedicated to r-tables. The performance of all models to represent our data was not satisfactory. Finally, several models’ modified components were combined to create our model, which considerably improved the database estimation. The main advantage of this model is allowing an r-table to be represented not by 580 elements but by just 10 parameters associated with a formal analytical expression.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

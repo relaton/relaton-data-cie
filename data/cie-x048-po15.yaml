@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In a goniophotometer system, it is often unavoidable to use long cables to connect power supply, electrical measuring instrument, and the device under test (DUT). The measurement errors caused by cable impedance should not be ignored. An equivalent electrical circuit model considering the cable impedance of a typical goniophotometer is established in this paper. The measurement errors caused by the cable impedance are analysed by simulation. In DC and low frequency circuits, the cable impedance is almost resistive, while the inductive impedance of cables is significant and may lead to considerable errors when frequency is above 1 kHz in the circuits. Cable solutions in goniophotometry are introduced and recommended.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

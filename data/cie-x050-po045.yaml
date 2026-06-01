@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    A new generation of reference illuminance photometers were developed and used for realization of the SI base unit – the candela at the National Institute of Standards and Technology (NIST). The new photometers are designed to have a superior long-term stability and negligible laser interference fringe effects. The new photometers are calibrated for spectral irradiance responsivities against a transfer standard trap detector in the new automated pulsed laser uniform source (APLUS) laboratory at NIST for achieving the smallest uncertainty. The expanded uncertainty of the illuminance responsivity derived from the calibrated spectral irradiance responsivity is 0.20 % (k = 2), a significant reduction compared to the previous uncertainty (approximately 0.40 %, k = 2).
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

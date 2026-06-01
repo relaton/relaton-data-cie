@@ -75,9 +75,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Temporal Light Modulation (TLM) can induce Temporal Light Artifacts (TLAs) such as flicker, the stroboscopic effect, and the phantom array effect, all of which may influence visual perception. However, it remains unclear which types of TLAs have the most impact and how they affect visual tasks. This study examined the accuracy of Landolt C orientation identification under various TLA conditions across three experiments. Results showed that phantom arrays reduced accuracy of Landolt C orientation identification and stroboscopic visibility ratings unexpectedly increased at 500 Hz, possibly due to phantom arrays triggered by micro-saccades. While Landolt C accuracy is related to known metrics such as flicker and stroboscopic visibility, our results did not fully align with existing models like the Stroboscopic Visibility Measure (SVM). These findings suggest the need to refine current TLM metrics by accounting for dynamic viewing behavior and individual perceptual differences under realistic lighting conditions.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

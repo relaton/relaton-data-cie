@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In the construction of a comfortable visual environment indoor and outdoor, discomfort glare is an essential rating category, and evaluation indices of that such as UGR and DGP are used worldwide for its prediction. Recently, visual environment assessment indicators were developed to model characteristics related to vision. However, the visual characteristics treated in these models are built into the models without sufficient reference to their relevance to glare assessment, and it is questionable whether they should be applied to glare assessment.In this paper, we propose a Borderline between Comfort and Discomfort (BCD) (Luckiesh, 1949) luminance estimation model that reflects the ocular optical system and the visual nervous system as visual characteristics. The suitability of the model is examined by fitting the model to subjective evaluations obtained from experiments on discomfort glare. For the various visual characteristics estimated by fitting the model, please refer to another paper (Hara, 2023).
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

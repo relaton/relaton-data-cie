@@ -37,9 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This volume contains on over 540 pages the texts of the Introductory Paper by Dr. Venkatavaradan on "Lighting and civilisation", all the Divisional Quadrennial Reports, the Presented Papers, Presented Posters and Poster Displays received at the Organising Committee by the deadline for inclusion in the Proceedings, as well as the introductions to the Workshops.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

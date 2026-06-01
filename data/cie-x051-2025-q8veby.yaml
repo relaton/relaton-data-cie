@@ -109,9 +109,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In recent years, the introduction of individual booths in offices has increased in Japan, primarily for improving the acoustic environment rather than the lighting conditions. Confined spaces present challenges related to decreased comfort and reduced task efficiency. Moreover, individual booths are often windowless, making it difficult to receive sufficient daylighting during the day. To maintain the circadian rhythm, it is essential to regulate the melanopic EDI (mel-EDI) in accordance with the time of day. Furthermore, it is crucial to consider that visual characteristics vary with age. This study examined the effects of different combinations of correlated colour temperature (CCT) and mel-EDI on spatial impressions and object (sentence and colour) visibility in youth and elderly. The two-factor model human lens were used for the evaluation of the elderly. In this study, age-related differences were observed in spatial impressions, sentence visibility, and colour evaluation.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

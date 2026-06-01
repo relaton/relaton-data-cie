@@ -34,9 +34,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Technical Report provides basic measurement principles and practical guidance on spectroradiometry of optical radiation sources in the ultraviolet, visible and near-infrared regions of the electromagnetic spectrum in the wavelength range from 200 nm to 2 500 nm.The document primarily deals with spectral measurements of irradiance, radiance, radiant intensity, radiant flux and derivative quantities. The document provides a detailed overview of relevant terminology and basic measurement principles, including those for instrument calibration. It provides practical guidance for identifying, understanding and quantifying relevant measurement uncertainty components.
-                  See more
+  content: This document is a set or collection of related documents
 relation:
 - type: updates
   bibitem:

@@ -95,9 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Smart blinds are designed to adjust shading to the optimal position according to different sky conditions. They can potentially address the issues of discomfort glare for occupants and reduce the energy demand for cooling during the summer and heating during the winter. In order to understand the behavior of smart blinds and estimate the energy savings, an office building with smart blinds in Switzerland was select for simulation in the Energy Plus software with annual weather data. Results show that the utilization of smart blinds can lead to improvement in visual comfort with moderate total energy use and reduced lighting and cooling consumption. Meanwhile, it requires low heating and cooling capacity and more fully exploits the capacity during operation. After comparison of different scenarios, the scenario ‘45 degree’ has the highest total end use, followed by the scenario ‘smart blinds.’ The scenario ‘smart blinds’ has the highest heating consumption and low cooling consumption.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -136,10 +136,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Experiments were conducted to develop a sleeping light that can create cosy and relaxing atmosphere and to improve the sleeping quality at night. The results showed that people feel more relaxed and sleepy in a low saturated Red-Yellow light than a phase of daylight.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

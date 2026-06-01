@@ -37,11 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The aim of this publication is to lay down the basic principles of emergency lighting as applicable to building interiors and, thereby, to furnish guidance on the various aspects that should be considered when seeking to design an effective and reliable installation. The publication deals solely with the principles of lighting; no attempt has been made to review suitable lighting hardware. It is hoped that it will provide guidance suitable for assimilation in future international standards for this field. Statutory regulations relating to emergency lighting already exist in some countries, states, or towns. For this reason, the appropriate authorities should always be consulted before commencing the design of a specific emergency lighting system.
-
-    The publication contains 15 pages and 4 figures.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

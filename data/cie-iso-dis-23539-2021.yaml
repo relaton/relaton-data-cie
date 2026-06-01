@@ -37,9 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The purpose of photometry is to measure light as perceived by the human eye. The brightness of a luminous surface depends not only on the amount of radiation it emits, transmits or reflects, but also on its spectral composition and on the visual response function of the observer viewing it.
-                  See more
+  content: This document is a set or collection of related documents
 relation:
 - type: updates
   bibitem:

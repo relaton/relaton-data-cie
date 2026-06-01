@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The quality of luminance measurements performed using HDR imaging is significantly impacted by stray light, which manifest itself as diffused stray light, focused ghost images or diffraction. These effects vary with the camera lens aperture and the position of bright light sources both within and outside the field of view. This study investigates the influence of aperture settings on stray light in HDR imaging of high-contrast scenes. To quantify these effects, we captured HDR luminance images of a laboratory scene using a scientific camera at various apertures. We observe that a large aperture (small F-number) tends to increase diffuse stray light around bright sources, while a small aperture (large F-number) intensifies diffraction effects and the overall quantity of stray light in the image but creates less diffuse stray light around the bright source.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

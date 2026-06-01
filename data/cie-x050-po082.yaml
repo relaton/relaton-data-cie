@@ -71,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The Unified Glare Rating (UGR) quantifies the level of discomfort glare of indoor light sources and luminaires. UGR values are calculated based on both the luminous intensity distribution and physical dimensions of the light emitting surface of a light source. While a luminous intensity distribution is strictly defined, a light emitting surface is not and can be quite ambiguous to determine, especially with modern LED based luminaires. In this case study, a typical office luminaire is considered and the effective light emitting surface is determined using a luminance based approach, as proposed in a CIE Technical Report. It was found that the luminance based approach to correct the standard UGR values can effectively identify luminous surface areas contributing to glare, thereby putting a stop to discussions surrounding UGR calculations and the ambiguity of what should be taken into account as the light emitting surface.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

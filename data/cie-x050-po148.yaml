@@ -59,9 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The pulp and paper, textile, and other industries measure near white materials with well-defined d:8° or d:0° geometry. Many of measured near white materials contain fluorescent whitening agents (FWA). The current CIE Whiteness Index can only be used for samples that do not differ much in color and fluorescence and that are measured on the same instrument at nearly the same time. Within these restrictions, the CIE Whiteness Index provide relative evaluation of whiteness if measuring devices having suitable modern and commercially available facilities and are under relevant maintenance. These restriction cause problems for industry, where quality control of commercial products, communication between producer and customer require measurements be made by different devices and frequently not at nearly the same time. General recommendation in case of fluorescent materials measurement is use of two-monochromator method and 45°:0° geometry. Two-monochromator device such as spectrofluorometer is a device equipped with a source of irradiation, two monochromators and a detector. Sample can be measured with use of this device at independently controlled excitation and emission wavelengths. Disadvantage for mentioned industry is duration of measurement of whole excitation-emission matrix (EEM) and employment of experienced operator. Abridged measurements with single-monochromator instruments are therefore still preferred by industry. Main motivation of this work was comparison by industry currently used devices.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

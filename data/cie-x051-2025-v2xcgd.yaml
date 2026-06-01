@@ -71,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    While road lighting is assumed to reduce crime, the supporting evidence is mixed. One factor is crime type – not all may be affected by the lit environment. This paper extends knowledge of lighting and crime through an analysis of crime conducted in collaboration with the local police. Of 15 crime categories, seven were associated with an increased risk after dark, including Burglary and Vehicle Offences; others, such as Violence Without Injury, showed a higher risk during daylight. These results confirm that darkness increases the likelihood of certain crimes and thus suggests a benefit of road lighting.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

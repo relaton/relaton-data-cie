@@ -133,9 +133,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Daylighting is crucial in creating a comfortable indoor environment. Although several metrics are available for measuring daylight sufficiency, the amount of daylight perceived by occupants does not necessarily match with these quantifiable values. Therefore, this study hypothesized that the quality of the view from windows serves as a basis for assessing both visual and lighting environments, including the psychological adequacy of daylight. The proposed hypothesis was tested and verified by developing an evaluative structure using covariance structure analysis. Our study employed data from both residential and work environments, and the results indicated a causal relationship that the view quality significantly impacts the lighting (daylighting) quality. This finding underpinned our initial assertion that the quality of the view from windows serves as a basis for evaluating daylighting environments in indoor spaces.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

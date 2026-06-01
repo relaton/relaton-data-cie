@@ -37,9 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This document specifies the action spectrum for photocarcinogenesis of non-melanoma skin cancers.
-                  See more
+  content: This document is a set or collection of related documents
 relation:
 - type: updates
   bibitem:

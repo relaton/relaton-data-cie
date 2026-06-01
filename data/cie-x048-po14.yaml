@@ -67,9 +67,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    A mobile installation for measuring the distribution of PPFD over the technological area of greenhouses has been implemented, and a measurement method has been developed using this installation. Mobile measurements were organized, according to the results of which, the errors in determining the average irradiance and uniformity of irradiation were established.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

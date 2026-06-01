@@ -101,11 +101,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The Standards and Calibration Laboratory (SCL) of Hong Kong has recently developed the calibration service of luminance meters at the range from 30 cd/m2 to 4000 cd/m2 with correlated colour temperate at 2856 K ± 50 K. A detector based calibration system, with
-    illuminance standard photometer and an integrating sphere source, is developed which is simpler than the traditional method that use diffuse reflectance or transmittance standard as the reference standard. The developed calibration service has the best estimate expanded measurement uncertainty of 1,5 % which could support the calibration demands from the local testing and certification industry.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

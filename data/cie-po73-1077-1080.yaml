@@ -85,10 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Recently, the Energy Saving Act (Act on the Rational Use of Energy) places importance on daylight harvesting as an energy-saving method in non-residential buildings, of which openings are indispensable for a better working environment. The purpose of this study is to examine whether the estimation method which makes it possible to evaluate the energysaving effect of daylighting harvesting in simple and quantitative way. Results show that the influence of factors related to building shape (Window-to-Wall Ratio, Window Number, Depth, Window Orientation) on Annual Primary Energy Consumption can be handled centrally by using Window-to-Floor Ratio.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

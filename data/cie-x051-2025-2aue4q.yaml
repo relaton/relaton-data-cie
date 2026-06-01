@@ -109,9 +109,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    A lighting control system in low-traffic tunnels (hereinafter referred to as “the system”) is a system to reasonably reduce power consumption while providing necessary lighting conditions for drivers. In Japan, the Standards for the Installation of Road Lighting Facilities and a Commentary (2007) are applied to the planning and operation of tunnel lighting. Those Standards prescribe lighting control in accordance with the brightness outside of a tunnel but do not mention lighting control depending on whether vehicular traffic is present or absent. The system actively reduces tunnel lighting when there is no vehicular traffic, in addition to controlling tunnel lighting in accordance with the brightness outside the tunnel. This paper reports on the development of a lighting control system (the system) and the results of verifying its reduced energy use. In addition, several points to consider when installing a lighting control system are proposed.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

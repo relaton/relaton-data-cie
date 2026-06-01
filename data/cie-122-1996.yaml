@@ -39,11 +39,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This technical report describes instrumentation and accuracy requirements appropriate for the measurement of the spectral and colorimetric characteristics of computer-controlled CRT displays. The relationship between digital and both spectral and colorimetric data is described based on the generic signal processing and electronics of this technology. A practical methodology is described to characterise the colorimetric properties of a computer-controlled CRT. A worked example supplements the described methodology.
-
-    This Technical Report is written in English with a short summary in French and German. It contains 30 pages, with 4 figures and 7 tables.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

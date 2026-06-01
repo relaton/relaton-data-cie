@@ -109,9 +109,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The traceability of instruments measuring reflectance on very small areas (submillimetric scale) cannot be established using conventional diffuse reflectance standards, because their measurement at very small scales is impacted by translucency and surface roughness. To establish the traceability of the bidirectional reflectance distribution function (BRDF) from the micrometric scale to the centimetric scale, we created samples that have invariant reflectance properties at multiple scales. The samples are flat and matte with a regular grid of dots that are small relative to the beam multiscale size and that present a structure that limits issues linked to translucency.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

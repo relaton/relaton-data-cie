@@ -39,11 +39,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This report summarizes the results of an international intercomparison of measurements of the luminous flux of high-pressure sodium discharge lamps. Thirteen laboratories from nine different countries took part in the intercomparison, both lamp manufacturers and national standards laboratories being represented. In view of the complex spectral power distribution of the radiation from this type of lamp, the results of intercomparison show an acceptable level of agreement for lighting applications, nine of the thirteen participants reporting results within ± 2% of the mean level.
-
-    The Report is written in English, with a short summary in French and German. It consists of 7 pages with 1 figure and 1 table.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

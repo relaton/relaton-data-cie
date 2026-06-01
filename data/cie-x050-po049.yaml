@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Light can create a visual sensation by directly stimulating the retinal photoreceptors of the visual system and can have biological effects that powerfully regulate health, performance, and well-being. The non-visual effects of light play a critical role in synchronizing human circadian rhythms with the 24-hour light/dark cycle of the local environment. This article conducts a systematic literature review that aims to investigate the main metrics and ways of monitoring the non-visual effects of indoor lighting. Equivalent Melanopic Lux (EML) and Circadian Stimulus (CS) are the most relevant metrics and monitoring has no prevalence in the method, however it is commonly done through simulation and/or on-site measurement. There is no consensus on the application of metrics in studies and there is no official protocol for the practice of monitoring non-visual effects. These lacks criteria highlight the need for official regulatory standards, and not just commercial guidelines or certifications.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

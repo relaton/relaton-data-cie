@@ -37,9 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The Proceedings of the 30th Session of the CIE are subdivided into two parts and contains, beside general information regarding CIE, on 1 963 pages the full papers of the oral presentations, presented posters and posters at the conference.Volume 1 is subdivided into two parts, contains on 1,963 pages the texts of the invited papers, contributed papers and posters presented at the Session as well as the introductions to the workshops and seminars.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

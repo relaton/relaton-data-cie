@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    While lighting is expected to have some impact on alertness, previous research in the context of walking or driving in the evening did not reveal a significant effect. Those studies used lighting conditions similar to those considered acceptable for road lighting application. The null finding was tested in the current work by conducting an experiment which also included a lighting condition that would otherwise be considered extreme for road lighting. It was confirmed that alertness was affected for a lighting of CCT 5800 K delivering 83 lx photopic illuminance at the eye.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

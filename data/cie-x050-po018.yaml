@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The important role of daylight in residential buildings is widely recognised. However, there is little consensus on the requirements for dynamic daylighting in residences without extensive surveys and daylight measurement. This paper proposes a window-view-recognition-based machine learning model for dynamic daylight prediction, which is able to calculate the annual hourly vertical daylight illuminances at the centre of the window with mean absolute percentage error below 0.6%. The prediction with high accuracy is based on the local climate data, window orientation, and a vertical window view fisheye image, which can be used in extensive surveys. A pilot survey was conducted to collect the window view data and occupants’ subjective evaluation of the residential daylight environment to explore the acceptable dynamic daylighting. The annual average luminous flux at the window plane is significantly correlated with occupants’ evaluations. The workflow for window-view-recognition based acceptable dynamic daylighting of residence is testified to be feasible.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

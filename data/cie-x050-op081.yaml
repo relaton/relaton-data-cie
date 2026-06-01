@@ -119,9 +119,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Employees with light sensitivities may find conventional office lighting to be unacceptable, leading to requests for accommodations ranging from delamping to relocation. This paper reports a pilot test of an innovative LED luminaire to provide a suitable lit environment for light-sensitive individuals. Fourteen volunteers with either self-identified or medically diagnosed light sensitivities and seven volunteers from the general population (all Canadian public servants) worked for two days in a room lit with recessed luminaires with prismatic lenses and LED lamps (4000 K, Ra ~ 84) (reference lighting) and two days in another week in a room with LED luminaires (3500 K, Ra = 90) with innovative optics and dimming control (test lighting). All participants judged the test lighting to have higher lighting quality than the reference lighting. Participants with light sensitivity experienced less intense visual symptoms over the workday in the test lighting, and began the following day with less intense symptoms.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

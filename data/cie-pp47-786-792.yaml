@@ -77,10 +77,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This research used LED lighting in a real room to test the theory of "colour emotion" in a lit environment. The experimental results show that observers tended to prefer white lights having negative Duv and high CCT (5000K and 6500K) at the same luminance level (300 cd/m2). Blue and green lights tended to make the facial skin feel old, rough and masculine, while red and purple lights tended to make it feel smooth and feminine. These findings indicate that colour emotion for interior lighting has a systematic tendency when examined by CCT, Duv, hue region and purity. This will help develop guidelines for interior lighting design based on either white lights or coloured lights.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

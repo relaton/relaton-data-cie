@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The position and size of the baffle, which cause the non-uniformity of the spatial response distribution function (SRDF) in sphere photometer, were determined by optical simulation using the luminous intensity distribution of the test light sources and self-absorption coefficient in the integrating sphere as parameters to determine the measurement error. The position of the baffle was defined as the relative distance r between the baffle and the photodetector with respect to the radius of the sphere. It was found that the areas of large SRDF inhomogeneity of the integrating sphere, the area in the shadow of the baffle and the area blocked by the baffle, caused errors due to the self-absorption correction of the light source. It was also found that the position of the baffle reduces the measurement error, including the error due to self-absorption correction, in the range of r from 0,2 to 0,32.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

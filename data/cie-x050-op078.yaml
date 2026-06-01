@@ -49,9 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The circadian response is sensitive to visible short wavelengths. With the conversion of streetlighting to LEDs that have a greater short wavelength spectrum than traditional sources, there could be a potential negative health impact through influencing the biological clock of drivers. This paper provides maximum values of melanopic EDI (Equivalent Daylight Illuminance) of drivers using standard streetlighting calculation tools. It also evaluates the circadian impact on drivers under typical usage pattern using thresholds from a comprehensive consensus view which has been published recently about “Recommendations for daytime, evening, and nighttime light exposure to best support physiology, sleep, and wakefulness in healthy adults” (Brown, T.M. et al., 2022). Results show: If a streetlighting respects recommendations of relevant CIE publications about visual performance, especially glare restrictions, the light exposure provided by streetlighting has no significant negative effect on circadian behaviour of drivers. This statement is in line with field measurements by others.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

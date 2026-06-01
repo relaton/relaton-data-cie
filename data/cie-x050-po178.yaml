@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    When it comes to evaluating the colour rendering of a given light source, the field of colorimetry currently encompasses a wide range of metrics that lack consensus. Over time, researchers have introduced several new metrics, including the Colour Quality Scale (CQS), due to the recognition of the limitations of the Colour Rendering Index (CRI). Building on the principles of the CRI, these new concepts explore the analysis of deviations of colour samples within a colour space and compare the results to those achieved with a reference light source that can vary depending on the Correlated Colour Temperature (CCT). In light of these advances, a new metric called the Daylight Spectrum Index (DSI) has been proposed.The primary objective of the DSI is to determine the degree of similarity between different electric light sources and natural daylight by examining the resulting Spectral Power Distributions (SPD). By comparing the measured SPD of the lamps studied with those observed under daylight conditions, researchers aim to measure the affinity of these electric light sources to daylight. To evaluate the effectiveness of this new metric, the authors conducted a total of 560 surveys of a large sample of participants. The results of these subjective assessments provided conclusive evidence of the usefulness of the DSI for quantifying the colour rendering of electric lamps, particularly Light-Emitting Diodes (LED) sources, and determining the degree of similarity of daylight and several electric light sources.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

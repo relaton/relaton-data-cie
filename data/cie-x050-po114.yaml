@@ -95,9 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The phantom array effect is a type of temporal light artefacts (TLA) caused by fluctuations in luminance or spectral distribution, resulting in perceived changes in the spatial position or shape of objects. These temporal light artefacts (TLAs) not only impact visual task performance but also can cause health issues. With the increasing use of LEDs that can change chromaticity and colour temperature, it is important to understand the effect of the spectral distribution of the light source on the phantom array effect. Previous studies have focused on non-overlapping spectral distributions such as red, green, and blue. This study evaluates the threshold frequency of the phantom array effect using LEDs with nine different wavelengths, including amber, royal blue, and violet. The experiment results show a phantom array visibility according to wavelength. In developing the phantom array visibility model, the spectral characteristics of the visibility need to be counted.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

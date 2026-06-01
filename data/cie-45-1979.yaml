@@ -37,11 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This report presents a survey of experience in lighting for ice sports, particularly for skating, figure skating, ice hockey, and curling. The report specifies general lighting requirements with regard to illuminance, uniformity, modeling, glare control, color and color rendering. It provides guidance for selecting lamps and luminaires, and for the arrangement and installation of a lighting system.
-
-    The publication contains 23 pages and 7 figures.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

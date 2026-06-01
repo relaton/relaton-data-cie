@@ -88,10 +88,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In this study, 20 observers evaluated the whiteness appearance of 88 samples under four light settings at different CCT levels (i.e., 3000, 4000, 5000, and 6500 K). The 88 samples were carefully selected and the spectral power distributions of the light settings were carefully designed using a spectrally tunable LED device, so that the chromaticities of the samples under each light settings uniformly covered a wide range along the yellow/blue direction in a colour space, which had never been realized before. The results, together with the two recent studies, allowed the derivation of ellipsoids for classifying the whiteness appearance for surface colours. A comprehensive whiteness formula that can accurately characterize the whiteness appearance for surface colours under an arbitrary light source by considering different conditions is still necessary and the work is undergoing.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

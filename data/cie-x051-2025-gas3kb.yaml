@@ -59,9 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study aims to develop a weather-linked lighting control system that optimizes office lighting by adjusting dimming rates and CCT based on weather forecasts. Existing lighting systems with fixed schedules or light sensors often fail to adapt to changing daylight. The proposed system predicts daylight an hour in advance and compensates for brightness imbalances using simulations.Weather forecast is categorized as SUNNY, CLOUDY, and RAINY based on cloud cover and rainfall data. Illuminance simulations using Rhinoceros and Climate Studio model both artificial and daylight illuminance under various weather conditions.It is experimentally demonstrated that the proposed system can effectively prevent brightness excesses and shortages, evaluated under constant dimming rate and CCT on sunny and cloudy days, by adjusting these settings accordingly.This approach demonstrates the potential for enhanced lighting environments and will benefit from advancements in weather forecast accuracy and simulation technology, laying the foundation for smarter, feedforward lighting solutions.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

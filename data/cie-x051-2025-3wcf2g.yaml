@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Effective integration between daylight and electric light is of paramount importance for high-quality lighting. Currently, daylight-linked control systems are calibrated to guarantee required work-plane illuminance while saving energy, but how can they be calibrated if integrative lighting purposes must be fulfilled? Based on on-field measurements, the functioning of a closed-loop proportional system is simulated considering 3 electric light CCTs and by adopting 4 different calibration strategies: 1 to achieve work-plane illuminance equal to 500 lx and 3 to guarantee melanopic equivalent daylight illuminance (melEDI) equal to 250 lx. Results show that if the system is calibrated to provide adequate work-plane illuminance, sufficient melEDI values are achieved with 6500 K only; if the system is calibrated to achieve melEDI=250 lx, very high work-plane illuminance levels occur in some cases depending on the adopted strategy. Overall, the choice of CCT is crucial to guarantee the simultaneous fulfilment of visual and circadian needs.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

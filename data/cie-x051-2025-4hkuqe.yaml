@@ -80,9 +80,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This paper presents a detailed analysis of the non-visual daylighting performance of a newly constructed, carbon-neutral, single-story home-office located in the humid subtropical climate of East Texas, USA. The house was simulated in ClimateStudio to generate climate-based annual hourly illuminance data, and in ALFA to estimate the circadian impact of light. On-site photometric and spectral measurements were conducted to compare with simulation outputs and assess compliance with recommended Melanopic Equivalent Daylight Illuminance (M-EDI) thresholds. Results indicate that M-EDI levels at office workstations and in the living-dining areas exceed the 250 lux minimum recommendation by a factor of 2 to 6 under clear sky conditions. Photopic illuminance levels also surpass the requirements specified by LEED and WELL standards for daylighting credits. The house design features small windows and minimal shading to manage glare and thermal gains.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

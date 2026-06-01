@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Recently, neurophysiology-based models have been received attention as a highly accurate and versatile method for estimating visual qualities, such as visibility, brightness, and glare. In this study, based on previous studies on classical filling-in models, we introduce a new model that incorporates the flow of visual information processing related to brightness from the retina to the primary visual cortex (V1) and beyond, then, verify the validity of this algorithm through subjective evaluation in a laboratory. We conducted an experiment using targets with a smooth luminance gradation, which differ in central luminance, luminance contrast, and viewing angles. The simple linear regression analyses were applied between the participants’ evaluations and the brightness perception values calculated using this algorithm, and a high coefficient of determination was obtained. Thus, the experiments confirmed the usefulness of the examined brightness perception algorithm evaluating bright and dark conditions.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

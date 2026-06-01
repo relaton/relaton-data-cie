@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The appearance of an object depends on its material, shape, and lighting. In particular, the diffuseness of the illumination has a significant effect on the appearance of material and surface texture. We investigated a diffuseness condition suitable for reproducing surface appearance using computer graphics. First, observers memorized the appearance and impression of objects by viewing pre-observation images rendered using various environment maps. Then they evaluated the appearance of the objects in test images rendered under different levels of diffuseness. As a result, moderate diffuseness conditions received a higher evaluation than low diffuseness conditions. This means that low or very high diffuseness unfamiliar in daily life is unsuitable for reproducing a faithful and ideal surface appearance. However, a particular material is difficult to memorize and evaluate its appearance. The results suggest that it is possible to define a diffuseness that adequately reproduces the appearance of an object using computer graphics.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

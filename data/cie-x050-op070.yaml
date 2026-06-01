@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study investigates the impact of billboard lighting systems on the light radiation into the upper hemisphere. Using a software goniophotometer, we modelled and analysed the Luminous Intensity Distribution Curves (LIDCs) of various billboard lighting systems configuration. Findings indicate that up to 50% of total luminous flux can be redistributed into the upper hemisphere when billboards are lit from below. This can be reduced by half when lighting system is positioned at the billboard's top edge, directing flux towards the ground. Interestingly, one illuminated billboard can emit a light output into the upper hemisphere comparable to that of multiple road luminaires. These findings contribute significantly to the ongoing discourse on light pollution and have implications for the design of lighting systems for billboards.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -85,11 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The stray-light characteristic of a near-field goniophotometer with respect to the integral luminous flux obtained from photometer measurements is evaluated by comparing the measurements of lamps with different emission directionality (luminous intensity distribution, LID), e.g. by means of a wide or narrow beam. The asymmetry of measurement setup related stray-light is discussed in detail by measurements of a narrow LID with non-rotational symmetry and demonstrates the impact of the scanning mode. We present a proposal how to estimate and experimentally determine the impact of stray-light onto the photometer and
-    interreflection between the environment and the lamp. For comparison, a ray-tracing simulation is performed verifying the indirect reflection attributed to the setup and enclosure.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

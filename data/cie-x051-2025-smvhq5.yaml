@@ -79,9 +79,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Red spinach is a leafy vegetable with high nutritional value widely grown in subtropical and tropical regions, it appears to be an ideal candidate for production in large scale protected environments. Red spinach plants have been exposed to various LED arrays to establish the influence of the spectral power distribution on the growth of the plants up to harvesting. The LED arrays were classified as white, white with enhanced red content, white with enhanced blue content and a combination of predominantly red plus blue radiation. Detailed measurements of plant growth parameters: stem height; number of leaves; leaf length; leaf width; fresh weight after harvesting, allowed the plants’ progress to be compared. These measurements showed the most effective light source for producing the highest fresh plant weight was the red plus blue combination.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

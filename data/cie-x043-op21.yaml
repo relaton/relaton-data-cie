@@ -90,10 +90,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    When evaluating the daylight factor in buildings, generally an exponential decline of the illuminance is perceived the further the distance from the window. A better daylight penetration should be put forward, for example by redirecting a part of the light to the ceiling. The goal of this study was to investigate the optical characteristics of readily available patterned glazing to this use. Besides an assessment of the total reflectance and transmittance properties, bidirectional transmittance distribution function measurements under multiple angles of illumination were performed on a set of glazing samples. The resulting BTDF data were combined and transformed into an appropriate format for implementation in light simulation software. In result, daylight simulations of buildings can be performed with accurate input data. As an example, the implementation of a characterized glazing sample in a public office is presented.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

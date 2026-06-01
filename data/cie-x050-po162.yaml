@@ -119,9 +119,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    An airborne imaging luminance-colorimeter is designed for aerial surveillance of specific geographic areas, typically 1000 km², at night-time. In addition to the measurement of the luminance [cd∙m-2], the instrument shall estimate colour temperatures, with 3000 K defined as the higher limit by the 2018’s French ministerial decree. The testing bench allows the luminance-colorimeter to be calibrated before the first operational flight. The bench presented here allows calibration in luminance, colour parameters, linearity, signal-to-noise ratio, geometrical distortion and vignetting. The instrument exhibits good spectral mismatch regarding the X1, X2, Y, and Z responses.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

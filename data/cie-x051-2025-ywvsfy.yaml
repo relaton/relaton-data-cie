@@ -79,9 +79,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The Unified Glare Rating (UGR) was introduced by the CIE as a simpler alternative to the CIE Glare Index (CGI) for predicting discomfort glare from electric lighting, using background luminance (Lb) instead of vertical illuminance (Ev) for adaptation. With the rise of image-based luminance measurements, CGI’s complexity is no longer a limitation, prompting renewed comparison between the two models. This study evaluated UGR and CGI under controlled electric lighting with multiple glare sources, building on findings that CGI outperforms UGR in daylight. A controlled experiment with 34 participants showed both models aligned similarly with subjective discomfort ratings. Notably, adding a second glare source did not consistently increase perceived glare, revealing limitations in the assumption of glare additivity. These findings highlight the need for further research into how the number and type of glare sources—particularly the interaction between electric and daylight—affect glare perception to improve prediction models for more realistic lighting environments.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

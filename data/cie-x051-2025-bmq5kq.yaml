@@ -71,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The granulometry of riverbed is essential for river flow simulations and sediment transport studies. Physical measurements are time-consuming and invasive, remote sensing solutions are therefore preferred, such as image-based approaches. Among them, the pattern spectrum, derived from mathematical morphology, respects metrological properties and does not require shape approximation. We illustrate here the extension of the pattern spectrum to colour images and the link between the results and granulometric distribution. Colour references are required by the ordering relation used, which allow for an order between grains and other constituents to be found. To reproducibly compare the impact of granulometric distributions, we chose to work on manufactured grain tiles. A comparative analysis of four samples is presented. The resulting pattern spectra illustrate the potential for discrimination related to granulometric distributions, as well as the problem caused by the choice of references for the ordering relation.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

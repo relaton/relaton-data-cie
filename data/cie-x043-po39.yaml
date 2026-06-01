@@ -61,10 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In visual design, harmony refers to the similarity among objects and the components of these objects that appear as if they belong together. Harmony is related to the body, mind, and emotions as we relate to our living space, which means that the harmony of real objects is an important characteristic. Moreover, harmony might be affected by the shared traits between objects, such as their colour, shape, texture, and material. Although the appearance harmony in specific materials has been investigated, harmony among different materials has not received adequate attention. In our previous study, we investigated the appearance harmony among various materials by psychophysical experiments. In this study, we analysed the psychophysical evaluations obtained from our previous experiments, and the physical properties of the materials. We found that the property of texture represented by the anisotropy histogram was an important index that can be used to judge the harmony of materials.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

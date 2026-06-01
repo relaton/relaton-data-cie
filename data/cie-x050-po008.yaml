@@ -79,9 +79,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The proper use of natural light depends on its availability in a given location. It is essential to understand its dynamics throughout the year and the day in order to develop conscious strategies in urban and architectural environments. The Mexico Basin benefits from abundant natural light resources for most of the year. On a clear day, more than 90,000 lux have been recorded on a horizontal plane, although this amount can decrease by up to a third under overcast sky conditions. Cloudiness is one of the main variables that affects this lighting resource. To characterize sky conditions in the Mexico Basin, information was gathered from surface and altitude measurements, with the aim of representing the annual and diurnal frequency within a year. In the urban environment of the Mexico Basin, clear sky and partly cloudy conditions prevail, so specific strategies must be considered to respond to these natural light dynamics.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

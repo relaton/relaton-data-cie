@@ -75,9 +75,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Today the Unified Glare Rating (UGR) tabular method according to CIE 117-195 and CIE 190-210 is practically the only one used for evaluation of discomfort glare in the lighting design process but it is unknown if the method is in line with the subjective perception of glare (SGI). We investigated whether UGR calculation method currently used in lighting design is in agreement with the perceived discomfort glare from commonly used lighting systems for workplaces to estimate the degree of discomfort. Five different lighting scenarios were evaluated by 59 subjects with repeated and non-repeated experiments. Analyses indicated that commonly used SGI measurements were not consistent with UGR values and discomfort glare can better be evaluated with comfort and discomfort experiences. The knowledge contributes to understanding perceived discomfort glare and underlying factors affecting this phenomenon.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

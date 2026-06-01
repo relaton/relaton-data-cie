@@ -95,9 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Conventional gloss meters are generally used to measure specular gloss, also for curved surfaces despite their suitability for flat artefacts only. In this study, three curved sample sets of a different gloss level (glossy, satin and matt) were developed, consisting a total of 27 samples. Of each sample the specular gloss was determined with three different devices: a commercial handheld apparatus, a reduced beam-size instrument and an image-based device. Bidirectional reflectance distribution function measurements were performed on the 3 flat surfaces, serving as a basis for ray tracing simulations of 2 modelled gloss meter designs. Simulation results are compared to real measurements. Results demonstrate that a commercial gloss meter is unfit to describe curved samples, while reduced beam size devices are more accurate though restrictive on sample positioning. Adaptability of the beam size through imaging apparatus shows promising results on specular gloss evaluation of curved surfaces.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

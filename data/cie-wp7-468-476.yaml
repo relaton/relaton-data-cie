@@ -77,10 +77,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    LED lighting solutions sometimes give rise to optical flicker. In most cases, the temporal modulations are too fast to be perceived directly, but may still be noticed through stroboscopic effects. We report on an investigation on how people experience the lighting in an office where two LED lamps are modulated separately with different frequencies. The test subjects performed tasks for evaluation of perception, attention and reaction time. The subjects are found to be affected by the modulated light as the reaction times are shorter and the attention test scores are higher in modulated lighting compared to constant lighting. Furthermore, the study confirms that the stroboscopic effect depends on the nature of the tasks and that it is more easily perceived at lower frequencies but noticed up to at least 400 Hz.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

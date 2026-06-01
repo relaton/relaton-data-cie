@@ -39,9 +39,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This document establishes a recommended procedure for gonioradiometric measurements of UVGI luminaires in the far field. The methodology described in this document applies to incoherent lamp and lamp systems (luminaires) emitting in the UV-C wavelength region from 200 nm to 280 nm.NOTE The dominant source used for UVGI is the low-pressure mercury (LPM) lamp, but other sources, such as LEDs and Excimer lamps, are also being used for UVGI luminaires.This document does not specify the radiant exposures required for disinfection. Reference should be made to CIE 155:2003 (CIE 2003) for the radiant exposure levels required to disinfect specific pathogens.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

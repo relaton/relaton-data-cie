@@ -79,9 +79,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    CIE recently issued a position statement advocating for appropriate lighting at the right time, specifically recommending a melanopic EDI of 250 lx at eye level during daytime. However, the statement also cautions that avoiding glare from windows requires "advanced lighting design guidance", implying a conflict between achieving healthy lighting and managing daylight-induced glare.This study examines whether such a conflict is justified.Both a theoretical analyses and results of a user study conducted at six locations suggest otherwise: recommended illuminance levels for healthy lighting are significantly lower than typical glare thresholds. In fact, vertical illuminance levels between 250 and 1000 lx from daylight typically reduce perceived glare from façades. A supporting simulation study across three European climates, using typical shading devices and controls, further confirms this finding. The results demonstrate that healthy daytime lighting through daylight does not inherently increase glare risk and can be achieved without compromising visual comfort.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

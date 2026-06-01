@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This pilot study examines how lighting can support people’s well-being in urban environments by designing lighting projections using biophilic principles and conducting a mixed-method assessment. Four biophilic projections were designed to induce positive feelings including relaxation as well as four non-biophilic patterns for comparison. All eight patterns were tested on five participants using electroencephalogram (EEG) quantitative methods as well as qualitative surveys using an adapted Discrete Emotions Questionnaire with ratings and open questions. The EEG results showed 75% of the biophilic patterns had a positive emotional response as compared to the control whereas, 50% of the non-biophilic patterns showed an expected negative emotional response compared to the control. Additionally, the qualitative questionnaire demonstrated that biophilic patterns had a 135% more positive result than the control and 417% more positive than non-biophilic patterns. The EEG analysis particularly provides a novel way to consider EEG testing in the context of lighting atmospheres and emotions to support well-being.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

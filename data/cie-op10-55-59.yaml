@@ -64,10 +64,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    A psychophysical experiment was conducted to study CCT uniformity on the work surface. The data were used to evaluate several uniformity metrics. Two attributes were scaled: uniformity and comfort using the categorical judgment method. Observers were asked to rate the attributes under different degree of CCT uniformity. The results showed that for light distribution with more uniform CCT, observers will feel more comfortable. The mired range performed better to evaluate the non-uniformity of CCT than CCT level. The uniformity of CCT is acceptable when mired range is smaller than 56 MK-1.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

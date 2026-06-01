@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The HDR panoramic images have been taken as a new camera-aided lighting measurement technology. However, the conventional luminance calibration procedure is complicated using a spot luminance meter and standard gray cards. This paper aims to propose a solution to calibrate the luminance of the HDR panoramas based on the physical measurement of scalar illuminance using a regular tetrahedron illuminance meter. The simulations on how the illuminance measurements using a regular tetrahedron shape can approach the scalar illuminance are made based on 2438 panoramas from the Laval HDR databases. Physical tests on the proposed luminance calibration solution are performed in two real scenes with one under artificial light and the other under daylight. The results indicate that the use of a regular tetrahedron illuminance meter can serve as a useful tool for the luminance calibration of HDR panoramic maps.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -37,14 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Draft Standard defines quality indices characterizing the performance of illuminance and luminance meters in a general lighting measurement situation, and measurement procedures for the individual indices and standard calibration conditions.
-
-    Measurements of illuminance or luminance and their accuracy are influenced by various parameters, such as operational conditions, properties of light sources, as well as characteristics of the applied photometers. The characteristics of these photometers alone do not allow the estimation of the measurement uncertainty for a specific measurement task. Nevertheless, it is generally true that instruments with "better" characteristics in most cases allow smaller uncertainties than instruments with "worse" properties. This Draft Standard has been written to:
-    give clear and unambiguous definitions for the individual quality indices;
-    define measurement procedures and methods for numerical evaluation of these measurement results;
-    define calibration conditions for illuminance meters and luminance meters.
-                  See more
+  content: This document is a set or collection of related documents
 relation:
 - type: updates
   bibitem:

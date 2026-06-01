@@ -59,9 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/8zejj2A greater reduction in artificial lighting energy demand in buildings is necessary to achieve climate targets. The control of artificial lighting depending on presence plays a central role in this. To optimise the energy consumption of switch-off times coupled with passive infrared sensor technology without affecting disruptive false-off rates, there are probabilistic approaches that adapt the switch-off times to real occupancy patterns. The identification of individual attendance patterns and their consideration in the control system is essential for the optimisation process. Work processes and sociological structures have a significant influence on occupancy behaviour and can prove to be time-variant. It is therefore necessary to examine whether one-off or cyclical applications of the optimisation algorithm are required. This study uses a high-resolution data set from an open-plan office to investigate the effect of temporal variability on switch-off time optimisation. The results show that there are no significant seasonal effects.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -62,9 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    A study was carried out to investigate the spectra of a light source affecting the texture perceptions. A method was developed on the enhancement of visibility of textures and was verified via two psychophysical experiments on images displayed on a monitor and real materials in a viewing cabinet. Three wavelength regions at around 425 nm, 480 nm - 505 nm and 660 nm were found to form a white illuminant that can largely improve the visibility of texture. The visual results showed the effectiveness of the spectra design method. Also, the results obtained from the display and viewing cabinets gave similar results.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

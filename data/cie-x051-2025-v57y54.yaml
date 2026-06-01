@@ -91,9 +91,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/v57y54Ocular light exposure is essential for regulating circadian rhythms, influencing sleep‐wake cycles and several physiological and psychological processes. Inappropriate light exposure can impair sleep, mood, cognition, and overall well‐being, posing particular risks for older adults experiencing age‐related sleep disturbances and cognitive decline. However, objective data on the light exposure of older adults remain limited. In this observational study, we monitored the winter and summer light exposure of 16 older adults living alone using wearable spectral sensors. We derived the Circadian Stimulus and Melanopic Equivalent Daylight Illuminance (mEDI) for each data point and analyzed their light exposure during the daytime, evening, and nighttime. Our results indicate that older adults tend to have relatively low daytime exposure, with a median daytime mEDI of 31,2 lux, but did not experience light pollution at night. Furthermore, an analysis of building characteristics revealed only a modest association between light exposure and the window‐to‐wall ratio.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

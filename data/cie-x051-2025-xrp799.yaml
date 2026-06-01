@@ -63,9 +63,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study verifies the accuracy of the calculated luminance distributions of scaled models with directionally reflective surfaces by Radiance software. It compares them with the luminance distributions calculated by the luminous flux transfer method. The directional reflectance properties of the materials were modelled using data from simplified goniophotometer and used as inputs for the calculations. The Radiance calculations reproduced the maximum luminance and the distributions of the first reflection from the directionally reflective surfaces but not the second reflection. The calculated luminance distributions and Daylight Glare Probability (DGP) due to daylight reflection from the building materials exhibited considerable differences when the building materials were assumed to be ideal uniform diffuse, specular, or directionally reflective surfaces. This suggests that it is necessary to consider the directional reflectance properties of the building materials for glare assessment. Using directional reflectance data modelled from simplified measurements as inputs for luminance calculations is beneficial.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -71,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Besides the ability of light to influence our circadian rhythm, an impact on our acute alertness was shown. In this study, we wanted to investigate whether light can be used to support employees’ attention at work, while complying with regulations for workplace lighting. In a laboratory setting, we examined differences between three light scenes that varied in their potential to activate ipRGCs. We found that lighting with the lowest activation led to better performance in attention tasks. Furthermore, also mood and self-rated comfort were improved. The impact of light on attention should therefore be seen in a broader context than only focusing on the activation of ipRGCs. In future studies, effects on our emotional system should be explicitly investigated in order to generate a more holistic knowledge and enable the design of supportive lighting that equally considers attention and well-being at work.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

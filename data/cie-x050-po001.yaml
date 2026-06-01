@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This paper presents a study on the measurements the reaction time of a car drivers and how this reaction time is influenced by the road lighting. Three different road lighting settings (two with constant output but different light levels and one modulated) were tested in the city area of the car test track AstaZero. Suddenly appearing targets placed along the track were used to trigger a response to brake. The reaction time was measured by time stamped recordings of the target movement and brake pedal pressure. Release of the gas pedal was also recorded, and time stamped. 40 research persons drove 12 laps each, one driver at the time, where the lighting setting and which target would appear was altered between each lap. Each road lighting setting was selected four times in a randomized order. Preliminary analysis of the reaction time data indicates no influence of the modulated lighting on the reaction time but a slight tendency that the reaction times are increased with a lower light level.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

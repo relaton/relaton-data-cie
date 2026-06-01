@@ -37,15 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The purpose of this technical report is to provide the technical basis for the application of reflection characteristics of road surfaces and road markings in road lighting, daylight and vehicle headlamp illumination.
-
-    The technical report describes relevant conventions and the influence of measurement angles. For road lighting and daylight the technical report further details reflection tables, a description system, and the classification and luminance of road surfaces and road markings.
-
-    Recommendations are given for in situ measurement of characteristics relating to the lightness and the retroreflection of surfaces, some thoughts are provided for characteristics relating to the specularity of road surfaces and road markings.
-
-    The technical report is written in English, with a short summary in French and German. It consists of 35 pages with 16 figures and 16 tables.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This paper investigates the degradation of biological potency in LED light sources over their lifetime. Biological potency refers to the ability of light to generate biological effects, for instance on sleep, mood, and circadian rhythms. Current lifetime metrics for LEDs typically do not consider the biological potency, despite its relevance for human health and well-being. Therefore, we investigate such metrics and explore blue light hazard changes over the lifetime of LEDs.Using a dataset of accelerated aging of LEDs, we show that the melanopic equivalent daylight luminance maintenance decreases faster than lumen maintenance, this effect is smaller in LEDs of 4000K versus 2700K. Over lifetime, the melanopic daylight efficacy ratio also decreases, while the blue light hazard does not significantly increase.Our findings highlight the need to consider changes in biological potency over time in the design and implementation of LED lighting solutions.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -37,13 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This technical report deals with the relationship between the photometric characteristics (reflection properties) of road surfaces and their construction (compositions and texture). It was drafted by CIE experts on reflection by road surfaces in collaboration with PIARC experts on road construction, and is intended as a guide for road constructors and for lighting designers.
-
-    The report is a summary of recommendations contained in CIE technical reports, and gives supplementary information not previously published by CIE or PIARC. Some of this information is provisional. It is hoped that the report will stimulate the collection of additional data that lead to more accurate information.
-
-    The publication contains 74 pages, 35 figures and 21 tables.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    It is generally accepted that high uniformity is essential to the successful growth of plants in protected horticultural installations such as commercial greenhouses. Initial luminous fluxes, maintenance factors and survival factors for some HID lamps have been used to illustrate the expected changes in illumination uniformity during operating times up to 10 000 h. Similarly, lumen maintenance factors for LED chips from published reports have been used to calculate the output degradation from luminaires with LED arrays up to 55 000 h. The failure rates of LED drivers have been computed over a similar period. These have been combined to show the range of uniformities for installations over prolonged periods. Data are listed to show LED chip degradation is a function of temperature and driver current. The theoretical calculations have been supplemented by measurements of the temperatures of some LED luminaires in a large greenhouse.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -39,19 +39,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In March 2010 the Lighting Quality & Energy Efficiency Conference took place
-    in Vienna, Austria. The event gave academics, lighting industry professionals,
-    designers, researchers and representatives of regulatory authorities the
-    opportunity to discuss best practice and the latest developments in the field of
-    light and illumination. Recommendations were also made for reducing the
-    amount of energy used for lighting. One of the hottest topics at the conference
-    was light emitting diodes (LEDs), which offer significant environmental and
-    energy-efficiency benefits compared with conventional light bulbs and energysaving
-    lamps.
-    The Proceedings of this Conference include invited papers and contributed
-    papers as well as papers on the poster presentations.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

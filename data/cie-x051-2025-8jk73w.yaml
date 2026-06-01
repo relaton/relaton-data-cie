@@ -73,19 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This study aims to evaluate the relevance of the daytime visibility distances
-    of the road marking predicted by the software developed by COST 331. To do this,
-    an experiment was carried out on a test track with two road surfaces (asphalt
-    and concrete) on which new and worn discontinuous marking lines were applied.
-    The visibility distance obtained with the software from static \U0001D444\U0001D451
-    and horizontal illuminance measurements was compared to visibility distances calculated
-    with the Adrian’s model from luminance images acquired dynamically. The results
-    show that the software systematically overestimates the visibility distance, in
-    particular due to its failure to consider the variability of the perceived luminance
-    as a function of the viewing distance. Moreover, the results question the fact
-    that the standardized indicators of the visibility of road markings should really
-    considered the contrast between the marking and the surrounding road surface.\n
-    \             See more"
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

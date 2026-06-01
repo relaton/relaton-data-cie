@@ -77,13 +77,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Four perception experiments are reported, in which a typical office environment
-    was simulated, and the acceptability of the stroboscopic effect was measured,
-    expressed as the percentage of people annoyed with the effect as a function of
-    Stroboscopic effect Visibility Measure value. A limit of SVM = 1.5 is proposed.
-    Based on the results, a functional relationship is provided, which can be used
-    as a first proposal for the stroboscopic effect acceptability in different applications.
-    \n\n              See more"
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

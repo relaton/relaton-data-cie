@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This paper aims to evaluate the daily light dosage received by students in a university building. To evaluate their weekly “luminous diet”, their study plan is analysed to select a week for each period of classes. Electric light eye-level spectral irradiance and work-plane illuminances were measured in spaces where students attend lectures and study without teachers, while daylight illuminance was simulated with DIALux. The measured and simulated values were summed to define melanopic equivalent daylight illuminance patterns representative of the light dosage received by students. The results show that in some of the analysed spaces the lighting system does not guarantee the minimum illuminance level on work-planes, whereas quite always lighting is ineffective for the regulation of circadian rhythms.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -94,10 +94,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This paper summarises the research work by the authors for the evaluation of glare (Yang et al., 2015, 2016a, 2016b 2017). Three experiments were carried out to accumulate glare perception data from luminaires having different uniformities and spectral power distributions. Two generic glare models were developed to fit the visual data in Experiments 1 and 2. Their performance were also tested using Experiment 3 data. They outperformed the UGR and the other state of the art models.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

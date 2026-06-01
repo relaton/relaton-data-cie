@@ -67,9 +67,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The method for estimating the illuminance distribution in the vertical plane of museum objects (paintings) using a digital imaging luminance meters (ILMD) is considered. In order to pass from the luminance distribution to the illuminance distribution, a screen with reflective properties close to diffuse (Lambert) reflection is used. The theoretical and experimental uncertainty estimation of the measurement method done.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -37,9 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The fast rate at which solid-state light sources can change their luminous output is one of the main drivers behind the revolution in the lighting industry and applications of lighting. The fast rate of the intensity change means that a modulation of the luminous output, both intended and unintended, is directly linked to the modulation of the driving current. In turn, the light modulation can give rise to distortions in the perception of the environment.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

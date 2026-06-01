@@ -95,9 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Spectral distribution is an important factor to determine the degree of light pollution in urban night sky. However, characterizing the spectral distribution of large areas of artificial light over cities is difficult. In this paper, a spectral distribution calculation model is presented which is suitable for wide area optical environment. Based on the test data of lighting environment in Hohhot, China, satellite remote sensing luminous radiance data and sky brightness observation data, the characteristics of radiation intensity, spectral distribution and energy proportion of lighting in ground cities are revealed. Based on the analysis of the effect of atmospheric extinction on the visible light of urban lighting, the calculation model of artificial illumination radiance at different atmospheric thicknesses and different bands is proposed. The results could provide future researchers with a platform for better urban lighting design and dark sky protection.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

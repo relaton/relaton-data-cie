@@ -95,9 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The introduction of LED lighting systems has raised concerns about stroboscopic effects caused by temporally modulated light. The visibility of stroboscopic effects can be predicted by the stroboscopic visibility measure (SVM). Existing studies on stroboscopic effects mainly focus on its effects on human health, while its impacts on atmosphere factors have been less studied. This study investigates the impact of stroboscopic visibility on atmosphere perceptions. 10 participants assessed lighting environments under 6 SVM conditions using 16-atmosphere terms. Factor analysis revealed 4 dimensions of atmosphere perception: cosiness, liveliness, lightness and blinking. A higher SVM level would lead to less cosiness, less liveness, less lightness and more blinking. ANOVA analysis demonstrated a significant relationship between the SVM level and the blinking perception, following a logistic function with a threshold of SVM = 1,24. Further studies are needed but the effect should be considered when designing practical lighting installations.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

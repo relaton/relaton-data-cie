@@ -64,9 +64,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The reliability of LED drivers is usually expressed in product datasheets as the number of failures after a given time of operation. The unit must be operated within the specification limits of case temperature and humidity to achieve the stated lifetime. Typical values would be lifetime 50 000 h, with failures of 10%, case temperature not to exceed 75°C, relative humidity 10% to 90%. These values do not give the user a feel for the expected number of failures with time. The exponential and binomial distributions are used to illustrate failure rates and upper confidence bounds for LED drivers in installations of 100, 300 and 1 000 units. The Laplace Test is used to indicate if failure rates are stable, increasing or decreasing.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

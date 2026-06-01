@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The properties of photographic light sources are often described in terms of the type of light source, its power, colour temperature, colour rendering index, and often its distance from the observed scene. These properties affect the lighting conditions at the scene and can be critical to accurate colour reproduction in images. However, light-shaping attachments are often used to alter the original lighting by either focusing the light, diffusing the light beam, or otherwise transforming it. This can affect the colour characteristics of the original light, making the description of the light source inadequate.The effects of three different light-shaping attachments in combination with five light sources on the colour properties of the photographic scene are presented. The CIEΔE2000 colour differences as well as the differences in lightness, chromaticity, and hue for each combination of attachment and light sources are presented.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

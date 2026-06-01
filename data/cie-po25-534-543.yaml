@@ -69,10 +69,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    OST-HMD (optical see-through head-mounted display) is a kind of display device which is frequently used in mixed reality applications. In general, the virtual image would be nearly transparent when the virtual image is dark or the background scene is too bright. Especially for the second condition, if there is a glossy object in the scene and to be covered by a virtual object, the virtual object should be processed in order to enhance its visibility. To simulate the highlight condition, we generate background image with glossy objects in varying degrees and display these images on a 42" high dynamic range display. A psychophysical experiment was conducted to analyse the correlation between the scene and preferred rendering parameters.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

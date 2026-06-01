@@ -69,10 +69,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    At present, the dimming systems of aircraft cockpit lighting are mainly manual. Manual dimming will increase the task burden of the pilot. This can be improved by introducing automatic dimming, which can adjust visual display terminal (VDT) and indicator lights into a comfortable luminance automatically according to ambient illuminance. Relationship between preferred luminance and ambient illuminance is required for automatic dimming. Two experiments were carried out to investigate the relationship between preferred luminance and ambient illuminance for VDT and indicator lights. It is found that when ambient illuminance increases, the preferred luminance of the VDT and indicator lights is higher, and it follows a relationship of power function. Two curves with mathematical expression were obtained by exploiting the data to cover the range of possible ambient illuminance in aircraft cockpit. The results of this study can provide empirical data for the automatic dimming system of aircraft cockpit.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

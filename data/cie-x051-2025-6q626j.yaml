@@ -100,9 +100,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/6q626jVehicular Visible Light Communication (V-VLC) offers a compelling alternative communication technology for Intelligent Transportation Systems, leveraging its license-free spectrum, wide bandwidth, energy efficiency, and existing transmitters. Accurate optical channel modelling is essential for evaluating V-VLC feasibility and performance in vehicular environments. For this, accurate transmitter representations are required. Low beam headlights and daytime running lights are primary candidates for VLC transmitters, yet simplified light source models often lack photometric realism compared to actual vehicle headlights. A comparison of a Lambertian and a measured low-beam emission patterns reveals that Lambertian models underestimate communication range while overestimating mobility. A narrow beam better reflects the low beam irradiance but requires careful design considerations for an optimal representation. This study examines the differences between the source models commonly used and suggests alternative modelling approaches depending on the communication range.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

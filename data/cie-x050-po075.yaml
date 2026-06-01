@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Occupant attribute effects on light evaluation were assessed in highly illuminated environments of nearly 3000 lux (LIGHT condition) and in ordinarily illuminated environments of nearly 500 lux (DARK condition) for 119 elderly and 73 young participants.Vision acuity affects the brightness and glare evaluations reported by elderly participants, and affects the comfort evaluations by young participants in the LIGHT condition. Wearing of glasses or contact lens affects only the evaluations by young participants in both conditions. Eye strain affects elderly participants’ evaluations in both conditions, but effects on comfort and preference evaluations were found in only for the LIGHT condition. Subjective sensitivity to glare affects glare evaluations in the LIGHT condition more for elderly participants than for young participants. Preference for uniform lighting affects the brightness and performance evaluations of elderly participants. Living rhythm affects the brightness evaluations of both elderly and young participants in the LIGHT condition. Sleep quality affects the brightness evaluation of elderly participants in the LIGHT condition.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

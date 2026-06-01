@@ -97,9 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Spaciousness and brightness are important for occupant comfort and well-being; therefore, a stable quantification method is important for evaluation experiments and space design. Virtual reality (VR) with head-mounted displays (HMDs) is a powerful tool for experiencing diverse spaces with minimal resources and comparing physically distant spaces. However, because it does not perfectly replicate real space, the limitations of the application and the reliability of the obtained data must be considered. With current technology, the available maximum luminance in VR is still far from realizing what is outside the windows. This study conducted subjective experiments to compare the perceptions of spaciousness and brightness between real spaces and their replicated VR. The results showed that perceived spaciousness in VR was significantly different in only one of the 21 conditions, while perceived brightness was significantly lower in 13 of the 21 conditions.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

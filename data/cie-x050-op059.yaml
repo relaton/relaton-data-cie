@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study presents a novel framework for evaluating the luminance measurement capabilities of High Dynamic Range (HDR) sensor cameras in indoor glare conditions. Results indicate that the practical usage range of the CSEM VIP camera is significantly lower than specified, but it provides reliable measurements within its range (around 10% difference up to 30 kcd/m2 compared to ILMDs). The TRI054S camera demonstrates reliable measurements under much higher illumination with an error of less than 10%. However, in lower luminance areas when intense glare is present, it produces noise, making analysis challenging compared to the performance of ILMDs. This limitation may be overcome by merging images taken with and without an ND filter. Overall, HDR sensor cameras show potential for real-time monitoring of rapidly changing luminous environments and could provide personalized glare measurements when used as wearable devices.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

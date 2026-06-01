@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study assesses the impact of the sky spectral power distribution (SPD) on the output accuracy of Lark, a spectral light simulation tool. Lark was developed to quantify ipRGC-influenced light responses of people in built environments. The three types of sky SPDs tested are measured sky SPDs, the CIE D65 Standard Illuminant, and reconstructed sky SPDs provided by the Occupant Wellbeing through Lighting (OWL) tool. The accuracy of these three types of sky SPD is assessed through comparing the simulated spectral irradiance and derived non-visual response indicators against measurements. The results show that all simulations have a relative error within ±20%. However, the OWL SPDs do not improve the accuracy of spectral irradiance or derived non-visual responses over the other two approaches. The analysis of non-visual response indicators reveals that both the D65 Illuminant and the OWL SPDs underestimate short wavelengths of the sky spectrum under clear and intermediate skies.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The paper describes the possibilities of using a luminance analyser (ILMD) to measure the luminance of the Sun and Moon. Particular attention is then paid to images acquired during the partial eclipses of these celestial bodies during 2022. The images are evaluated in terms of the luminance distribution on these bodies and the temporal changes that occurred during the measured events. The analysis is performed either in the form of simple luminance maps, by means of slices through the regions of interest, or statistically by means of histograms. The possibilities of using the data thus obtained for simple photometric calculations are also demonstrated.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

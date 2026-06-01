@@ -65,10 +65,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    An experiment was conducted to investigate how colour tunable LED lighting can be used for residential applications with different scenes. Thirty-one young and 15 senior participants adjusted the colour and intensity of a colour tunable LED luminaire for four different scenes?reading, relaxing, atmosphere, and wake up?in a residential space. The participants generally required white light between 3000 K and 6000 K and the highest light level for performing the reading task. No correlation can be found between CCT and light level. For the other three scenes, the young participants tended to make full use of the colour tunable
-    function and preferred to have chromatic lighting with higher saturation. Further studies are necessary to compare the results form a laboratory and from a field study.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

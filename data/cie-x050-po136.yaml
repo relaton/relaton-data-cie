@@ -109,9 +109,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The ultimate purpose of this study is to elucidate the occurrence conditions of reflected glare and to utilize this knowledge for museum lighting. In this study, subjects evaluated the reflected glare on replica paintings in an experimental room and the occurrence mechanism of reflected glare under conditions with and without acrylic display cases were compared. We examined whether the degree of glare could be predicted from three physical quantities–luminance contrast, reflectance, and glossiness of the painting surface–under the two conditions. It was found out that predicting the reflected glare from these physical quantities under a display case was difficult, and the prediction method with or without the display case should be reconsidered, because the spread of high-luminance areas that cause glare was different in the two conditions.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

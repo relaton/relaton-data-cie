@@ -109,9 +109,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Under any tunnel interior lighting conditions, the required road surface luminance taking into account the effect of soot and smoke exhausted from vehicles on the visibility of obstacles on the road has not been clarified. In this study, the total revealing power of the visibility index is calculated using a model for calculating the luminance of a visual object in soot and smoke exhausted from vehicles and a model that modified the method for calculating the luminance difference threshold in a non-uniform visual environment. The required road surface luminance is shown for any given air transmittance in a tunnel, taking the total revealing power under Japan's current lighting standards as the required value. The road surface luminance can be adjusted based on the air transmittance inside the tunnel, which changes over time, it is possible to reduce energy consumption while ensuring safety.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

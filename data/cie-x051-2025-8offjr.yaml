@@ -86,9 +86,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The CIE approach to target visibility is based on Blackwell’s experimental data of contrast thresholds for uniform discs on uniform backgrounds. An analytical model of detection thresholds has been proposed by the CIE (1972; 1981) followed by Adrian (1989). Another line of research is based on the fact that the detection threshold of a periodic pattern can be derived from the detection thresholds of its Fourier components, using the Contrast Sensitivity Function (CSF) of the human eye. We use a computer vision algorithm to compare the two approaches: a bank of spatial filters is tuned in order to compute the visibility of edges in an image, in a way which is consistent with the CSF (Joulan et al., 2011a). It allows comparing the visibility computed from a CSF-based method to the visibility computed from Adrian’s formula, on the same images.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

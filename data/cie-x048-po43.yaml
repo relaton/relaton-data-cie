@@ -101,9 +101,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Lighting quality is a concept that allows excellent vision while providing high comfort. In addition to standards, there are diverse methods that can assist in understanding the light quality of an environment and one such mechanism is monitoring protocols. The aim of this paper is to investigate the lighting quality in office buildings with good integrated design and/or daylighting design in Brazilian context, combining monitoring protocol and user opinion. Two office buildings were evaluated: Ministry of Mines and Energy (MME) in Brasília and the Support Centre for Technological Development of the University of Brasilia (CDT/UnB). Both case study shows good results to photometry parameters as illuminance average, directionality, quality of view out and melanopic values. The opinions of users, in general, are positive and the aligning with on-site measurements.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -109,10 +109,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Recent studies on the influence of light on the human body have reported that various properties of light, such as illuminance and chromaticity, induce physiological and psychological effects on the human body when exposed to a light source. However, to date, these studies have focused only on chromaticity, while no research has been conducted on the effect of different illuminance levels on the human body at fixed chromaticity. This is partly because there is no experimental facility to control illuminance and chromaticity simultaneously. The significant effort involved in building an environment providing a variable illuminance and chromaticity also means that experiments cannot be performed efficiently. In this research, we use full-colour RGBY LED lighting, capable of adjusting each colour through a range of 1 000 digital signal values, and propose a method to rapidly implement arbitrary illuminance and chromaticity control.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

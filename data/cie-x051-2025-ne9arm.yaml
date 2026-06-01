@@ -94,9 +94,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Daylight is vital to human life. However, architectural reference documents often lack clear daylighting goals. This article investigates daylight requirements and metrics in such documents, focusing on a climatic approach. The methodology involved systematizing documents collected, classifying climate criteria, mapping daylight recommendations by climate zones, and analysing metric types and their applications. Findings show that 60% of the metrics are geometric and 37% are non-geometric. In this sample, most documents (72%) are from temperate climates, followed by 18% from tropical, and 5% each from dry/arid and continental; none were from polar regions. Similarly, 65% of daylight metrics apply to temperate climates, 16% to tropical, 10% to dry/arid, and 9% to continental. While geometric metrics are more commonly used in daily practice, those do not ensure proper daylighting indoors. Non-geometric metrics, though less applied in practice, are more closely linked to higher building performance.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

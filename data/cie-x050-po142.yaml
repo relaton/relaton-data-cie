@@ -97,9 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The aim of this study is to propose an easily predicted method of brightness of the visual object using a standard deviation of the luminance logarithm.Two experiments were conducted; the fundamental experiment is to verify the possibility of the brightness of the visual object using the standard deviation of luminance logarithm and the second experiment is to verify the adaptability in real space.The two experiments showed the possibility of an easy prediction of the brightness of the visual object by the luminance logarithm multiplied by the Napier number to the power of the standard deviation of the luminance logarithm. The brightness of the visual object was calculated for each pixel of the luminance image and the brightness of the space was predicted from the average value. It was shown that glare could also be predicted in the same way using that index.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

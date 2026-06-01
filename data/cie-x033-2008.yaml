@@ -37,9 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    7-8 July 2008, Turin, ItalyThe CIE Expert Symposium, organized by CIE Division 2 and hosted by INRIM (Istituto Nazionale di Ricerca Metrologica) in Turin, Italy, covered the following areas:Imaging Photometers and ColorimetersSpectral Responsivity Measurement and f1 of PhotometersLED Measurement and CharacterizationGoniophotometers and other developmentsA Keynote paper on "Goniophotometry: New Challenges and Novel Solutions" was given by Georg Sauter of PTB (DE). The outcomes of the symposium will be utilized as recommendations for future work in Division 2.The Proceedings include the Keynote paper, 29 papers and 13 posters presented during the Symposium. The publication consists of 228 pages with 318 figures and 49 tables.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

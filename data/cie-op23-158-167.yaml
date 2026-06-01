@@ -51,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This paper will look at the architectural and luminous design of 3 modest buildings that Alvar Aalto designed relatively early in his career, 1936-1939. After a short existence, all were demolished, yet during their lives were seen by many people from many cou ntries, and represent an important phase in Aalto's career, and in the evolution of his attitude towards employing daylight in his buildings. The first of these, the Finland Pavilion at the Paris World's Exposition, incorporated what might be called a "modernist" approach towards daylighting.
-    The second pavilion, the Forestry Pavilion at the South Ostrobothnia Agricultural Fair in Lapua, Finland in 1938, had an irregular distribution of skylights that both washed the walls and illuminated the floor below. The third, the Finland Pavilion at the New York World's Fair, also incorporated an irregular distribution of rectangular skylights. These skylights directed light towards an undulating wall.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -80,10 +80,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    We have quantitatively studied the visibility of a man-made foggy road based on the on-site measurements of luminance images. The statistical distribution of effective sky luminance and effective extinction coefficient are used to study the performance of the foggy road lighted with various types of luminaire. The comparison results show that the visibility of the road with LED luminaires is somewhat better than those by HPS and MH lightings.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

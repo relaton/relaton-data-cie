@@ -59,9 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study aims to investigate what a reference white really means in a complex scene setting in a virtual environment, specifically whether a reference white is determined by the brightest white object in the entire environment, or is it determined by the brightest white object in the field of view. To achieve the aim, three psychophysical experiments were conducted, one situated in a real room and the other two in virtual reality. Experimental results show that colour appearance in VR is comparable to colour appearance in a real space. Regarding reference white, the brightest white object is not necessarily regarded as the reference white especially when it is located far away from the test colour. The brightest white object needs to be located within the viewing field for the test colour in order to be regarded as the reference white.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

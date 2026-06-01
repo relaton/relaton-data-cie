@@ -97,9 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    MPA is an array of micro-prisms, called cells. Each cell divides the original light source into arrayed pseudo-spot light sources. The optical axes of each pseudo-spot light source are manipulated by the angle and face normal to the prism surface of each cell that forms the MPA. Therefore, the MPA can project pictograms at arbitrary distances in the far-field by overlapping spotlights from a single light source.The MPA provides a novel image projection technique with simple optics and a small number of optical components for industrial applications requiring small packaging, such as in-vehicle lighting devices. However, it is difficult to machine the dies of micro-prisms with sharp edges using conventional injection moulding technology.This study shows that thermal nanoimprinting utilizing stampers fabricated by electroforming, which originate from masters fabricated by laser stereolithography, will be a breakthrough in the mass production of micro-structured optical components.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

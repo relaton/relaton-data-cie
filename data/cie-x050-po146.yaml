@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The objective of this pilot study was to observe adapted white under different coloured lights and different fields of view. Subjects had to adjust chromaticity on a digital display to set neutral chromaticity under different states of chromatic adaptation in coloured environments provided by a spectrally tunable light booth.Based on former experiments, nine chromaticities were defined in the experimental design: a white point as a reference and four chromaticity pairs. Twenty-six normal colour observers performed the tests in all nine environments with unaided eyes and wearing special glasses, limiting their field of view to approximately 70°.Results were evaluated in the CIE 1976 UCS diagram. The standard deviation and the distribution of the neutral settings were analysed based on the area and the orientation of ellipses fitted to the data with the least squares method.Based on the evaluated data, the significance of the aperture was not explicitly relevant. However, there were differences in the distances of the ellipses from the adapting axes and the angles between the orientations of the fitted and adapting axes. Sensitivity in the blue-yellow direction appears lower, as the standard deviation was higher than that in the red-green direction.The initial results indicate the effect of the adapting chromaticity on the adapting shift and the degree of chromatic adaptation.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

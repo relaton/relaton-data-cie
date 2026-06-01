@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Daylight dynamic metrics are valuable instruments for determining the activation or dimming of electric lighting systems linked to an architectural context. An updated version of these metrics can also be employed to establish strategies to adapt the luminaires to the daylight conditions, dimming the luminous flux without external devices and consequently increasing the energy saving of the lighting system. Given this scenario, a new concept is proposed, Continuous Overcast Daylight Autonomy (DAo.con), conceived as the percentage of occupied time during which an illuminance threshold is reached by daylight considering a continuous overcast sky, giving a partial credit linearly to values below the limit defined. This new metric is based in a collection of weighting factors, which serve to define an algorithm that adjust the luminous flux of the lighting fixtures depending on the Daylight Factors and the solar elevation, taking into account the user needs.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

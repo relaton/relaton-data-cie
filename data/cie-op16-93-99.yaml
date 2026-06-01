@@ -82,10 +82,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Systematic studies on the visibility of a traffic sign on an experimental road in a foggy environment were performed. We defined contrast ratios Cpb and Cps as the level of fog and index of visibility of the traffic sign, respectively. The analysis of the experimental results show that Cps of passive state of the traffic sign is proportional to Cpb for all varieties of luminaire and headlights. While Cps of active state is linear with Cpb and the intercept and slope are fairly dependent on position and type of luminaire.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

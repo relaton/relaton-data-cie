@@ -100,9 +100,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    We analysed the official regulations for the colours of the flags of the 27 member states of the European Union (59 colour samples) and compared them with the colours we measured (D65 illuminant, CIE 1964 standard observer) for commercial flags made by a Spanish manufacturer. Official regulations employed 7 colour systems, Pantone being the most common (78% of flags). These regulations used the CIE x,y,Y or CIELAB systems (specifying colour tolerances) for only 29% of flags. Colour differences between the official regulations and the colours measured with/without a reference plaque behind the fabric were very high: an average of 19/25 CIELAB units (standard deviation of 12/13 CIELAB units), respectively. Colours in the official regulations were spread over larger regions of colour space than the colours measured for the commercial flags, which were mainly located in 7 regions. A rigorous and unified quantitative specification of colours for these flags seems necessary.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

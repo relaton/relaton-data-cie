@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    While physical gloss exists as a physically measurable index, people perceive a perceptual gloss as gloss on object surfaces. However, the physical gloss does not always match the perceptual gloss. Thus, we analysed the relationship between physical features and perceptual gloss by measuring the physical properties of object surfaces, including physical gloss. For the experiment, we prepared 127 samples of flat objects that consisted of three materials: paper, resin, and metal plating. Perceptual gloss was visually evaluated using a magnitude estimation method. Plural measurements were conducted to obtain physical features such as gloss unit, haze, distinctness of image (DOI), luminance image features, and transmittance of the samples. Then, we constructed a prediction model of perceptual gloss using these physical features and perceptual gloss through multiple regression analysis. As a result, the prediction accuracy was improved by combining multiple physical quantities with simple regression, using only a gloss unit.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    With the continuous development and improvement of human factors lighting research, while satisfying the functional lighting of indoor spaces, people are pursuing more breakthroughs and innovations in light quality and light health. The evaluation of the quality of the lighting environment gradually expands from the traditional work surface illuminance to the spatial brightness, so as to improve the observer's visual performance and visual perception. Therefore, this research proposed an evaluation method of spatial brightness for classroom lighting environments. Combined with the observer's field of view, the evaluation indicators of spatial brightness are proposed: the spatial brightness index BSI and the spatial brightness contrast BSC. Use BSI and BSC to measure the brightness and the chiaroscuro of the lighting environment respectively. This research can supplement the current lighting environment evaluation system, and has certain reference value to further improve the current test standards and improve the quality of the lighting environment.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

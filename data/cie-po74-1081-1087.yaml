@@ -89,10 +89,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Bluer colour of luminous environment perceived by occupants increases circadian actionfactor that indicates the degree of effect on circadian rhythm, which affects suppression of melatonin hormone secretion. Suppression of melatonin hormone secretion causes adverse effects such as sleep disorder, melancholia and growth impairment. Therefore, to design appropriate human centric lighting, it would be desirable to provide lighting similar to daylight. The spectrum matching methodology proposed in previous studies offers monochromatic artificial lighting that resembles spectrum of daylight. If the methodology is applied to artificial luminous ceiling or artificial window lighting installed for communication with the outside without daylight, monochromatic light cannot be expected to give satisfactory communication effect for occupants even if its spectrum is same as daylight. Accordingly, this study developed a methodology for calculating combination ratio of multi LED chips matched with spectrum of daylight and embodying non-monochromatic real sky image for artificial luminous ceiling or artificial window lighting that can be applied to underground space, windowless space, submarine, and so in.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

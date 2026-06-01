@@ -121,18 +121,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "In this paper, we propose a novel noncontact pulse wave monitoring method
-    that is robust to fluctuations in illumination through use of two-band infrared
-    video signals. Because the proposed method uses infrared light for illumination,
-    the method can be used to detect a pulse wave on a human face without visible
-    lighting. The pixel values in the region of interest (ROI) were spatially averaged
-    over all the pixels of each frame. These averaged values were then used to form
-    the raw trace signal. Finally, the pulse wave and the corresponding pulse rate
-    were obtained from the raw trace signal through several signal processing stages,
-    including detrending, use of an adaptive bandpass filter, and peak detection.
-    In the experiments, we found that the performance of the proposed method was greatly
-    improved compared with that of conventional methods using single-band infrared
-    video. \n\n              See more"
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -37,16 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This publication deals with the selection and operation of tungsten filament lamps intended for use as secondary standard sources.
-
-    Secondary standard sources are required to be stable and reproducible. The best performance is obtained from incandescent tungsten filament lamps that have been designed and constructed specifically for this application. The requirements for such lamps and the principles underlying their design, construction and operation are summarized in this report. An indication is given of the levels of performance that can reasonably be expected at the present state of the art.
-
-    Because the special, hand-made lamps required for this purpose are only available from a small number of specialist manufacturers, a list of all the known suppliers has also been included.
-
-    The Technical Report is written in English, with a short summary in French and German. It consists of 26 pages with 8 figures and 4 tables.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

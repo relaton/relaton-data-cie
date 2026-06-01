@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Evaluation of visual conditions in buildings typically relies on the measured or calculated values of various performance indicators, including, for example, illuminance level, luminance level, daylight factor, and daylight autonomy. The present contribution deals with one of these indicators, namely UGR (Unified Glare Rating), an indicator of glare intensity in the visual field. In this context, we present results of a case study, which involved the comparison of four sets of data, namely, i) UGR calculations, ii) UGR simulations, iii) UGR measurements, and iv) subjective evaluations of glare intensity. The study explored the level of agreement between UGR computations on the one side and UGR measurements on the other side. Moreover, the study investigated the correlation between people’s evaluation of glare intensity with UGR-based expectations. The analysis of this data can contribute to efforts regarding the assessment of UGR's fitness and dependability of as a visual performance indicator.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

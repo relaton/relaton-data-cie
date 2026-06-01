@@ -62,9 +62,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Lighting has changed dramatically over the last two decades, but lighting standards have not. Standards were first introduced to ensure the efficient performance of visual tasks. They soon expanded to cover visual discomfort and became a means to eliminate bad lighting. Today, they often limit the ability to produce good lighting. This is partly because standards have been issued for applications without critical visual tasks and partly because they encourage the use of regular arrays of luminaires. There are three steps to solving this problem. The first is to separate lighting recommendations into standards and guidance. Standards should be devoted to eliminating bad lighting. Guidance should be devoted to promoting good lighting. The second is to focus attention on lighting the space rather than the task. The third is to use the lighting design objectives procedure rather than the lumen method as the basis for lighting design.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

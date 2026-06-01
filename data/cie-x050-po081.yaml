@@ -119,9 +119,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Windows are essential from a psychological perspective, as they are a source of visual stimulation and contribute to relaxation and refreshments. Several accumulated findings clarify the effects of view quality, but there are currently no corresponding solid quantitative indices. This study aimed to focus on a physical quantity called ‘visible volume,’ which contained information comprising view content and access in office buildings, and to verify this by analyzing the relationship with the view evaluation obtained through subjective experiments. The results showed that the quality of the view, such as satisfaction with the view, could be assessed by the 'total visible volume,’ which considered 'distance to each view element' in addition to the 'solid angle of the window.’
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

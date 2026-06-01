@@ -71,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The purpose of this study is to examine how to control the lighting environment during breaks to reduce visual fatigue due to VDT tasks. Subjective experiment was conducted in two experimental chambers assuming a work space with constant lighting condition during the task, 500 lx of the desktop illuminance at 5000K of the CCT, combined with 6 different lighting conditions during breaks. Visual fatigue of the subjects was evaluated by three methods, ART (Accommodation Response Time) and CFF (Critical Fusion of Flicker) as objective tests and questionnaires for evaluation of subjective symptoms of fatigue as a subjective test.The results showed that visual fatigue was reduced by lowering illuminance or by providing variable lighting in the area around the subjects’ desk during breaks. However, the subjects felt less comfort in the case with variable lighting by spotlights around the desk than in the case with constant lighting during breaks.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

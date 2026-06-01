@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study presents a concept for reducing maintained illuminance (Ēm) based on daylight provision and suggests three models for automatically detecting it using commercially available ceiling sensors. Daylight-linked control (DLC) typically adjusts artificial lights to maintain a predefined illuminance according to daylight levels. However, the standard EN-12464-1 suggests increasing Ēm under certain circumstances called "context modifiers," such as low daylight provision in task areas. Maintaining increased Ēm continuously contradicts energy-saving goals. Daylight provision was measured in three rooms over 33 days in autumn, winter, and spring. Two models were evaluated using this data. Results indicate the feasibility of automatically detecting daylight, although the presence of artificial light presented some limitations. In summary, this study introduces a concept for lowering Ēm based on daylight provision and proposes three models for automatic detection. The findings suggest the potential for energy-efficient lighting control, although further considerations are required regarding artificial light influences.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study explores the effect of multiple bright light sources in the field of view on discomfort due to glare in office environments. User experiments were conducted in semi-controlled dim daylit environments mimicking open-plan offices, with glare stimuli varying in size, number, and position. The findings suggest that being exposed to several bright light sources do not necessarily increase perceived discomfort: a scene with two light sources that were both identified as glare sources by standard detection algorithms was, for instance, perceived less uncomfortable compared to one with a single glare source. This outcome challenges both the current methods of defining/detecting glare sources as well as how the adaptation level is (or should be) accounted for in existing glare metrics. Future research should aim to refine the definition of glare sources and better account for adaptation levels in the presence of multiple sources.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

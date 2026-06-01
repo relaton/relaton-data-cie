@@ -37,22 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Experience of making road tunnel lighting designs in accordance with publication
-    CIE 88:2004 has shown that there are some aspects of calculation of the different
-    lighting criteria where more specific guidance to the designers is necessary. This
-    document explains how the tunnel environment differs significantly from the open
-    road situation. In particular, the presence of walls along the traffic road involves
-    reflection effects between different surfaces. The variation of luminance level along
-    the tunnel, the changes in the lighting installation along the entrance section of the
-    tunnel and the use of different lighting systems in different parts of the tunnel
-    introduce more complexity in the lighting calculations. The report gives guidance on
-    determining the method for calculating the relevant lighting quality criteria for tunnel
-    situations.
-    The publication is written in English, with a short summary in French and German. It
-    consists of 18 pages with 4 figures
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

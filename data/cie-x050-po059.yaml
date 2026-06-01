@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The measurement of the spatial distribution of the luminance coefficient, called the q coefficient or BRDF (Bidirectional Reflectance Distribution Function), allows an accurate evaluation of the light-to-material interaction. The paper presents the analysis of the metrological performances of goniophotometers used in road luminance coefficient measurements, evaluating the errors introduced by the divergences of the light source and detector optical systems. In the case of road surface measurements, the large dimension of typical samples and the geometrical measurement constraints (lighting and viewing directions) are such that the instrument optical divergence introduces systematic errors, difficult to foresee if the sample BRDF is completely unknown.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

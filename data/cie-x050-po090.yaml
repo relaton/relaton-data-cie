@@ -97,9 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This work studies the properties of spectral radiances of R, G, and B mini-LED array samples by experiments with a 2D-spectroradiometer and analyzations with curve scaling and modelling methods. The parameters for curve scaling are the peak radiance, frequency at peak, and full widths at half maximum. The following modelling of the scaled curves of different materials are based on an equation with two parameters, which are related to the low- and high-energy values of the LED samples.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

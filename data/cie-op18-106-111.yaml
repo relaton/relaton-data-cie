@@ -69,10 +69,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    With the technology development of LED lighting, more energy-saving measures available to be applied. This study investigates how illuminance and spectral power distribution (SPD) affect the ability of human facial expression recognition, representing identification the intent of other people - a critical task for pedestrians of road lighting. This study demonstrates that the effect of facial expression recognition is similar whether used 2D or 3D target stimuli, which verifies the results of past studies used 2D target stimuli are effective. The performance of facial expression recognition reaches 50 % when illumination higher than 1.00 lx. It also suggest that a lamp with higher scotopic/photopic ratio (S/P value) cannot improve the ability of recognizing facial expression. The results are expected to provide further scientific basis in formulating road lighting standards for more suitable LED lighting source.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

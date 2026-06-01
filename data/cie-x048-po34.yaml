@@ -79,9 +79,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In today's urban environment it is extremely difficult to perform road lighting measurements using standard stationary methods. The mobile measurement method remains, in fact, the only possible way of assessing the quality of outdoor lighting. The presented work is aimed at improving the existing measurement methods in terms of quality, speed of measurement and safety of personnel.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

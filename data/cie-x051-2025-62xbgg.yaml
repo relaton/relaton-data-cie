@@ -76,9 +76,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/62xbggRecordings of personal light exposure, i.e. the illumination received at the eye(s) over time, are valuable for research on human health and well-being. To record these patterns, light-dosimeters (sensors) are worn on the body, acting as a proxy for measurements at the eye. Chest-worn dosimeters have become more utilised in recent years since this position strikes a balance between measurement accuracy and unobtrusiveness for the wearer. Although various studies investigated differences between chest and eye-level measurements, much remains unknown about the inter-individual variability in chest-worn dosimeter measurements. Here, we demonstrate how an individual’s body shape impacts chest-worn dosimeter measurements using body scans of approximately three thousand individuals. Dosimeters placed on the upper chest show the most consistent device orientations and measurements across individuals. At this position, dosimeter measurements relative to the eyes, are within a 20% spread for half of the population, with a maximum range up to 79%.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

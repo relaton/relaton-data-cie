@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    With the increased use of digital displays, there has been a renewed interest in finding solutions that would assist individuals with a colour vision defect (CVD) to discriminate colours.An online survey conducted in Canada and the United States asked about problems individuals with CVD experienced when using digital displays, along with possible aids they have tried.Of the 381 respondents who completed the survey, 65% tried at least one aid, with the most selected modification being trial-and-error adjustments (n=132, 54%). Only 25% rated the modifications highly effective. The modifications were most commonly applied to desktops/laptops (69%) followed by cell phones (56%) and tablets (41%).The study showed that most individuals with CVD tried some digital aid to help with their colour discrimination. Since only a minority of users found the aid highly effective, more work needs to be done in designing software solutions that can enhance their experiences.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

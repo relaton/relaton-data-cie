@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Myopia (short-sightedness) is an emerging priority eye disease. Rise in prevalence and severity are driven by changes in lifestyle and environment of children and young people (CYP), including less time spent in bright daylight and more time spent on near-vision activities. We aimed to systematically map the literature describing direct, objective measurements of the visual environment of CYP. We developed an Ovid Medline search strategy, run on 13/07/2022. We included primary research written in English on environmental/behavioural factors and myopia onset/progression in CYP 3-18 years. Two reviewers independently screened titles/abstracts/full texts. We included 23 articles: 14 explored the association of indoor and/or outdoor light exposure and myopia, three near-vision activities, three both light and near-work, and three time outdoors without illuminance measurements. Most measurements were carried out at the level of individual children, rather than the surrounding environment alone. Despite limitations in measurement techniques, there is evidence that reduced illuminance, less time spent in bright light and increased daily duration/sustained episodes of near-vision activities and reduced working distance are associated with increased myopia prevalence/progression.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -97,9 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/obru5dThin-film thickness characterization is important in the semiconductor and photonics industries. This study introduces for the first time an enhanced reflectance modelling method for microscope-based reflectometers with focused beams, aimed at achieving accurate thin-film thickness measurements for layers ranging from tens to thousands of nanometers. The proposed approach integrates angular distribution modelling, bandwidth correction, and thickness gradient analysis to improve the precision of modelling used to fit measured reflectance curves and extract the optical properties of the layers. Validation against a traceable gonio-reflectometer with a collimated beam shows excellent agreement across a wide thickness range, confirming the micro-reflectometer's reliability for high-accuracy, non-destructive characterization. The gonio-reflectometer’s reliability was verified through an international comparison using ellipsometry method on the same samples. The advancements of this work enable more reliable thin-film analyses using microscope-based reflectometers, which offers the advantages of faster operation and suitability for measurements of small areas on semiconductor wafer samples.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

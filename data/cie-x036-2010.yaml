@@ -39,17 +39,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This Symposium was organised by CIE Division 2 in cooperation with the Swiss
-    Lighting Society (SLG), and was hosted by the Federal Office of Metrology (METAS),
-    Bern, Switzerland. The two-day Symposium included a one day tutorial presenting
-    the state-of-the-art techniques in the field of photometry. On the second day, a
-    Scientific Symposium featured 35 contributed papers presenting recent research in
-    photometry, colorimetry, and radiometry with a focus on the methods using spectral
-    and imaging techniques. The Symposium had four sessions, Session I:
-    Goniophotometry and Spatial Methods, Session II: Imaging and Spectral Methods,
-    Session III: Metrology for LEDs, and Session IV: Advances in Radiometry.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

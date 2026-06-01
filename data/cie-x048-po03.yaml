@@ -71,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    We propose a measure of temporal light quality that could be used to design flicker-free light sources, as perceived by birds. It can be applied to, among others, the poultry industry to reduce the negative impact of the modulated light on chicken health and well-being. The model is built by modifying an existing human flicker visibility model considering properties of bird vision. We discuss the implications of the model responses on the temporal quality of relevant historical light sources.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

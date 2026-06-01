@@ -71,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In everyday life, humans acquire the appearance of objects in various lighting environments. However, the physical and perceived glosses do not always match in environments with diverse object properties and lighting conditions. Therefore, we challenge the construction of a perceptual gloss estimation model for diffuse and highly directional illuminations. We analysed the relationship between physical features and perceptual gloss by measuring the physical properties of object surfaces, including the physical gloss. The perceptual gloss was visually evaluated using the magnitude estimation method. Real object samples consisting of 10 different materials, including paper, resin, and metal, were prepared for the experiment. Using these physical features and perceptual gloss, a prediction model of perceptual gloss was constructed via regression analysis, indicating that physical quantities can predict perceptual gloss with reasonable accuracy, depending on the lighting conditions.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

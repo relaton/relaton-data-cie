@@ -121,9 +121,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study aimed to determine whether it is possible to obtain the same effect of a daylit environment by reproducing daylighting using LED lighting in workspaces. This paper focused on the element “view” of the daylit environment. Two types of experiments were conducted in an experimental space to assess the influence of viewing through a window. Psychological evaluations and physiological responses were compared between with-view (daylighting) and without-view (reproduction of daylighting with LED lighting) conditions at each illuminance level at eye level. The results demonstrated that the with-view condition was psychologically positive (openness and relief) and physiologically stress-less at 120 lx, whereas the without-view condition was evaluated as easier to concentrate on and stress-less at 600 lx. Therefore, considering general lighting intensity when working, a sufficient effect may be obtained in workspaces without view by reproducing daylit environments using LED lighting.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

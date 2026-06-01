@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Female pedestrians tend to report feeling less safe than do male pedestrians, and this difference is greater after dark than in daylight. A field study of pedestrian reassurance was conducted to test whether this was affected by the illuminance offered by road lighting. The results suggest that the male-female difference in reassurance ratings decreases at high illuminance, and hence that higher illuminances might be useful support for female pedestrians. It is also noted, however, that self-report of reassurance may not be representative of the influence of light on walking behaviour and crime.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

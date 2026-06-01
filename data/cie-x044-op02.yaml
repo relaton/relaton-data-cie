@@ -94,19 +94,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "In this study, measurements of various domestic light-emitting diode (LED)
-    lamps were conducted to investigate the effects of varying illuminance, correlated
-    colour temperature (CCT), and colour rendering index (CRI) on visual perception;
-    and to determine the users' preference of those parameters under LED lamps in
-    Indonesian context. The assessments consisted of subjective performance and preference
-    tests. Variation of illuminance, CCT, and CRI of has been found to yield significant
-    effect on user performance and preference. On lighting level, variation of both
-    illuminance and CCT yields more significant effect compared to CRI. On colour
-    appearance, variation of CCT yields more significant effect compared to CRI. Variation
-    of CCT also yields more significant effect on colour clarity and visual comfort.
-    The subjects preferred higher CRI value for visual comfort, also at illuminance
-    350 lx and CCT 6500 K; but preferred higher illuminance and CCT for good lighting
-    level and colour clarity. \n\n              See more"
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

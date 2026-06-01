@@ -107,9 +107,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Modern life in predominantly indoor environments has led to a profound alteration in the amount, spectral composition, and pattern of light humans are daily exposed to. Given the role of light in health and wellbeing, and with the aim to understand how modern living can be better aligned with human biology, light-dosimetry plays an important role in characterising personal light exposure across individuals. To consider the spectral composition in light-dosimetry and evaluate the variability and effects of individual “spectral diets,” a sufficient spectral resolution is required. In this paper, we present selected analyses of spectrally resolved light-dosimetry data that were collected during a dynamic lighting intervention study in Iceland. To process the collected data, unsupervised clustering was performed and clusters were classified using various reference spectra. The results show that different spectral types can not only be sufficiently well discriminated but can also be used to verify the experimental conditions effectively experienced by participants and to start evaluating the effect of other factors (e.g., daylength, or impact of time outside experimental conditions). Taken together, our findings highlight the benefits and potential uses of spectrally resolved light-dosimetry, which will hopefully contribute to, first, better understand and, ultimately, improve our contemporary relationship with light.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

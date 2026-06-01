@@ -37,14 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This publication describes the basic conventions and principles of modern physical photometry and explains how physical photometry relates to radiometry on the one hand, and to vision on the other. It outlines the fundamentals of  the broad-band spectroradiometric and the visual methods of photometry. The principal physical standards for measuring photometric quantities are described, relevant radiometric quantities are defined, and the results of major international intercomparisons of photometric measurements are summarized.
-
-    The document is in English, with a summary in English, French and German. It consists of 42 pages, 2 figures and 6 tables.
-
-    (see also CIE D001-2006)
-
-                  See more
+  content: This document is a set or collection of related documents
 relation:
 - type: updates
   bibitem:

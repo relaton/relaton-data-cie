@@ -113,9 +113,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In the fields of photometry and radiometry, spectral measurements play a crucial role in determining various parameters. The photometric parameters like total luminous flux, colour coordinates, etc. are attained by integrating spectral quantities. The integrated quantity uncertainty analyses can be complex for the calculation by GUM approach. Uncertainty analysis including the correlations effect can be done by Monte Carlo simulation. This study shows both approaches, i.e., with and without correlations, for the uncertainty analysis of the flux of a horticultural LED.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

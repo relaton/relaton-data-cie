@@ -71,10 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In this paper, we will present a setup with laser driven light source (LDLS) for measuring a 2D bidirectional reflectance distribution function (BRDF). We have carried out measurements to acquire the BRDF of different samples based on our setup: which consists of a new laser driven broadband light source (UV-VIS-NIR), spectroradiometer and sample holder stepper motor in a dark UV-protected environment. Here, we introduced a special kind of light source which has a bright, stable, broad spectral range and well collimated light output to give a very good angular resolution. The experimental results show how stable and reliable is our light source in terms of spectral power distribution, and in BRDF measurement. Furthermore we have shown that we are able to get a well collimated beam and higher power output using set of off-axis parabolic
-    mirrors.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

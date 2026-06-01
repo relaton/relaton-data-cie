@@ -101,11 +101,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    We measure the microtopography of three pre-existing grey matt samples with Coherence Scattering Interferometry. The high angular resolution BRDF of specular peaks from these samples is acquired using a goniospectrophotometer. A visual ranking of the samples according to their perceived gloss is established by naive observers. Crossing the results of these experiments, we remark the presence of a complex information embedded in the specular peak, that could be used as a cue in the construction of the glossy perception. The
-    joint analysis of the bidimensional Fast-Fourier Transform of the roughness mappings and BRDF measurements is a promising path towards a better understanding of reflection upon complex surfaces.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

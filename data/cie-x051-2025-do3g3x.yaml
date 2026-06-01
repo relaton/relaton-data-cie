@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In a complex interior space, different lighting environments exist next to each other. Like colour contrast emphasizing its differences, it was hypothesized that different lighting environments adjacent to each other causes impression-shift, and differences are emphasized. Without considering the possibility of impression-shift into design, it is difficult to actualize lighting impression as originally intended. This study verified it through impression evaluation experiment and lighting measurements conducted in a shopping mall. As a result, impression-shift occurred concerning the same space when contrast in lighting environment exists compared to a single lighting environment. Through analysis, photometric quantities’ differences that may have caused brightness, sharpness and warmness impression-shift were derived. This experiment was conducted in an actual shopping mall with many interfering factors, calculated numerical values are for reference only, and further experiments in a controlled condition are required to propose a specific numerical guideline.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

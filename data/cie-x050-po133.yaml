@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The requirements for characterizing light sources in the near field are presently defined in relation to the results' convertibility to far-field distributions. Such transformations, however, hide several properties of the original dataset. The paper describes such details of the luminance dataset and presents a simulated model for their evaluation using the Monte Carlo method.The simulated model represents a simplified near-field goniophotometer based on a pinhole camera projecting rays to a spherical surface. The light source is simulated using parametric functions in relation to the rays' point and angle of incidence. This structure allows the construction of various datasets with different constructions and configurations.This paper presents various approaches to determine the accuracy of sampling and assembly of the luminance in a single point of the emitting surface.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

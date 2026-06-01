@@ -69,9 +69,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Human centric lighting (HCL) is the sum of visual and non-visual effects of light on humans. According to the results of the research carried out to date it is explained that lighting design results for cell office should reach EML (Equivalent Melanopic Lux) higher than 250 and CS (Circadian Stimulus) approximately 0.4-0.3 at office hours 8:00 AM - 5:00 PM. This study is an alternative lighting design were created in which EML and CS criteria values are specified in cell office without receiving daylight. Artificial electrical lighting design should be analysed in order to deliver an optimal circadian lighting that can help to increase occupants productivity, performance and decreasing energy consumption.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

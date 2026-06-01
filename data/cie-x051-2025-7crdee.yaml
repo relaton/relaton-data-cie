@@ -102,9 +102,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study investigates criminal behaviour in London after dark by using Metropolitan Police Services (MPS) crime records from 2013 to 2019 and calculating solar altitude at the time the crime took place. The data was filtered to identify crimes where the time was known to have taken place in a window of 5 minutes or less, and only these were analysed in the study. “Darkness” is defined in this study as the condition when the solar altitude is less than –6 degrees. Findings indicate that robbery and theft from the person increased significantly after dark (p<0.0001). The percentage of theft that takes place after dark, increases in Central London, compared to the whole of London. Further analysis found that robbery and theft occurrences have a significant correlation with darkness.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

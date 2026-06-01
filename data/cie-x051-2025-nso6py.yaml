@@ -88,9 +88,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Vegetation indices have been in active use for over five decades. They are remote sensing indicators derived from surface reflectance data to highlight various vegetation-related properties. Their popularity stems partly from their simplicity. Each index is computed by simple formulas using the pixel values of a handful of multispectral bands. However, the loose definition of spectral bands introduces a device-specific discrepancy to the results as the spectral sensitivity can vary significantly between different systems and slightly even between different units of the same model. This paper uses hyperspectral aerial images to investigate the cross-instrument differences of some popular vegetation indices. The spectral characteristics of various multispectral instruments are reconstructed from the much narrower hyperspectral bands, creating the device-specific projections of the dataset. The differences between devices are presented using these transformed values.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

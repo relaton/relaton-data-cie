@@ -96,9 +96,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Understanding the effect of psychological and physiological variables in both VR and physical environments is crucial to establishing the effect of lighting on humans. This study compares perceptions and physiological responses of artificial lighting in a physical environment versus a virtual reality (VR) setting. A total of 30 participants evaluated each lighting setup, half in the physical and half in the virtual environments. The VR environment was captured using a 360° high-dynamic-range camera and displayed on a head-mounted display. The results show that both environments have similar subjective impressions and electrodermal activity (EDA). Accurately simulating lighting is fundamental to creating immersive and compelling VR experiences. This work can help to establish knowledge that will aid in the reliable replicability of lighting environments in VR. This comparative analysis can help improve the effectiveness of VR simulations in various applications, including architectural space design, medicine and simulator development.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

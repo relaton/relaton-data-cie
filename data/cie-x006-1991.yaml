@@ -35,16 +35,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The volume contains on 15 pages the abstracts of five papers giving an overview on
-
-    • Mesopic Photometry
-    • Indoor Lighting
-    •Tunnel Lighting and
-    •Automobile Lighting
-
-    in Japan.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

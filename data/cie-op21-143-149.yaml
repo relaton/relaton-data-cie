@@ -89,11 +89,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    "To test the effect of road lighting in a range of colours on visibility, the reaction time of subjects under several light colours was tested, after having adapted to one of the other light colours. The test was performed on a scale model road, equipped with LED lighting at two different light levels. Reaction time depended on light level and light colour transition. Data suggest that the final colour determines performance, instead of the transition itself. Most colours used did not result in large performance decreases. Narrow band blue, with 16 % to 28 % of targets not seen, a doubling of brake reaction time and a 47 % increase in stopping distance, does not seem to
-    be a suitable colour for lighting roads. Finally, for the majority of test subjects, there was no correlation between their subjective rating of visibility and their actual performance in terms of reaction time."
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

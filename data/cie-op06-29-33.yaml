@@ -61,10 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In this work, a dynamic multi-channel LED lighting system is used to mimic natural light very precisely. First, we propose a closed-loop feedback control using a colour sensor to compensate for spectral shifts due to temperature changes or wear out of the LEDs. Second, we test the lighting system in a 24/7 working room over 1 year with a CCT-changing sequence designed for critical-task performing. Our results show that a precise control over the emitted spectrum can be achieved providing an unprecedented colour quality and enhancing people's level of satisfaction, comfort and alertness in indoor working environments.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

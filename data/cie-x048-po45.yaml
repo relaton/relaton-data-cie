@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The purpose of this paper is to clarify the evaluation structure of the preference for the visibility of paintings, taking into account the characteristics of paintings with low reflectance. Although illuminance is used in the standards for museum lighting (CIE 157:2004), it is desirable to design lighting that also considers luminance from the viewpoint of perceived brightness. Therefore, we conducted the subjective experiment of oil paintings in which luminance ratio was set as an experimental variable and examined the evaluation structure of paintings with low reflectance. As a result, it was found that the evaluation of black details affects the preference for the visibility of paintings with low reflectance. However, the path diagram of the evaluation structure applied to each painting was different, indicating that it is difficult to represent the characteristics of a painting only by the mean reflectance.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

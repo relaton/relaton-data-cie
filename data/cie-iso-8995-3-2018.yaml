@@ -39,12 +39,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This joint ISO/CIE International Standard is replacing the joint ISO/CIE International Standard ISO 8995-3:2006/CIE S 016:2005 without modification of its technical content.
-
-    To enable people to perform visual tasks efficiently and accurately, especially during the night, adequate and appropriate lighting has to be provided. The degree of visibility and comfort required in a wide range of outdoor work places is governed by the type and duration of activity.
-    The standard specifies the lighting requirements that will contribute to the visual needs for safety and security within outdoor work places.
-                  See more
+  content: This document is a set or collection of related documents
 relation:
 - type: updates
   bibitem:

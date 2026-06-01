@@ -37,11 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This report collects information for the application of the CIE Standard General Sky for general users and designers. The guide provides an explanation of the CIE Standard General Sky concept, which is described in ISO 15469:2004/CIE S 011:2003, and of its simplified use by practitioners. The document includes an extensive list of references on the subject and gives recommendations for prediction methods, tools and computer programs.
-
-    The publication is written in English, with a short summary in French and German.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

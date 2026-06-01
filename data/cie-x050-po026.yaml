@@ -47,9 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Networked lighting controls hold promise for energy savings, asset tracking, simplification of maintenance, and options for setting scenes or moods in architectural and treatment spaces. Tunability of light intensity and colour may support biological health, especially in healthcare and senior living spaces. However, in the US, their complexity too frequently results in systems hard to coordinate in colour, intensity, and timing, and frustrating for staff and users to use. This paper describes a Mild Cognitive Impairment center in Atlanta, with the design, installation, and extensive rework of the control system to achieve the controls intent. The research motivation was originally to document the effect of lighting and controls on MCI patients. When it became clear the networked system was behaving unpredictably, the motivation morphed into studying what went wrong and why, and how to avoid similar problems in the future. Standardization, interoperability of components, and a common vocabulary is needed.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

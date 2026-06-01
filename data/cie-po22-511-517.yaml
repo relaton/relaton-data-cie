@@ -83,10 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Howe to quantify material appearance becomes more and more important as new materials and new finishing methods are available for industrial designers to choose for enhancing visual appearance of a product. However, some appearance attributes such as Sparkle and Graininess are not easy to be measured and quantified. In this study, we apply a low-cost system to obtain multi-angle image appearance (sparkle for three geometries) of metallic samples. In this way, the sparkle grade (15°, 45°, 75°) were analysed and the results were used to predict the BYK Sparkle Grade (Sg). Furthermore, we could control the camera of the lowcost system to simulate different sparkle grade with High Dynamic Range (HDR) image rendering.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

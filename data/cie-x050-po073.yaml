@@ -85,9 +85,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The control of LED lighting installations through natural lighting conditions, traffic speed, or state of the ground conditions can lead to significant energy savings in road tunnels. A dynamic model has been developed to estimate them. This model can evaluate the need for road luminance levels inside a tunnel in function of the parameters previously mentioned. It can also calculate the actual luminance levels implemented to fulfil this need, and the energy consumptions associated. The model was applied to a test tunnel located in the Paris area, as part of a wider research project. This tunnel receives a heavy traffic and is subject to road congestion for several hours a day. The results showed that annual energy savings around 35% are achievable with a control of the lighting installation through traffic speed, and around 25% with a control through state of the ground conditions (dry or wet road).
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

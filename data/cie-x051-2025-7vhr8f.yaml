@@ -91,9 +91,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/7vhr8fShading and daylighting systems such as textiles, louvres, and prismatic glazings are used to modulate incident solar radiation. The scattering properties of these “complex fenestration systems” (CFS) determine the temporally-variant, spatial distribution of daylight and solar radiation and thus affect the energy, global warming potential, comfort, health, and qualitative performance of buildings and the urban environment. Angle-dependent, solar-optical properties of CFS (i.e., bidirectional scattering distribution function (BSDF) data), however, are often unavailable or inaccurate, hindering simulated evaluations of environmental performance. New general methods for characterizing BSDF properties have been developed and extensively validated. This article describes the ISO/CIE 25176 initiative (launched in July 2024) that aims to standardize these methods for any arbitrary CFS. Open questions such as the limits of applicability are discussed. Standardization will have immediate implications on building performance analyses, e.g., the recent adoption of ISO/CIE 10916 for lighting energy simulations now requires use of BSDF data.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

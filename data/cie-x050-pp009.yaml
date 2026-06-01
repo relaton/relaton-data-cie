@@ -95,9 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    With the rapid development of colour 3D printing technologies, colour-difference evaluation of 3D printed objects requires further studies to achieve faithful colour reproduction in 3D printing. The aim of this study is to collect visual colour-difference data of 3D printed objects in static and rotating conditions. The X-Rite virtual light booth with a rotating stage was used to conduct psychophysical experiments for 82 pairs of 3D printed samples with the grey-scale method. Five human observers with normal colour vision participated in the visual colour-difference assessments, and the collected experimental data were compared with the measurement data. The results showed that the perceptual colour differences of 3D samples in two conditions were similar, but the visual data of rotating samples have a poorer relationship (STRESS=39.38) with the measurement data, compared to the results of the static samples (STRESS=36.62). By using the optimised CIELAB colour-difference formulae in the previous study, the STRESS values decreased by 7 units.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

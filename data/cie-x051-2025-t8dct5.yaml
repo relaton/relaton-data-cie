@@ -109,9 +109,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In Japan, low-position lighting systems have been proposed. Under these systems, the occurrence rate of obstacles visible as reversed silhouette vision is not negligible. Therefore, it is desirable to propose performance indicators combining reversed silhouette vision and silhouette vision. The present study investigates the luminance contrast thresholds of obstacles in reversed silhouette vision and silhouette vision under the same experimental conditions by conducting a laboratory experiment. The results show that the increase in luminance contrast threshold is greater in reversed silhouette vision than in silhouette vision as the average road surface luminance decreases. Furthermore, we compared the results of the laboratory experiments with the results of the field experiments using low-position lighting systems to verify the validity of the laboratory experiment. The results suggest that the luminance contrast thresholds obtained in the laboratory experiments could be used to assess the visibility of obstacles under arbitrary road lighting conditions.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

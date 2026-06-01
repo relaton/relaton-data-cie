@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In most cases the appearance of cultural properties depends on surface colours, materials and lighting conditions. This study aims to clear the preferred lighting conditions for the appearance of specific cultural properties named Ukiyo-e, Japanese woodblock print paintings. We used two kinds of Ukiyo-e as visual targets and investigated their appearance under 12 illuminants (D65, A, D50 plus nine LEDs proposed in CIE 015:2018), and three levels of vertical illuminance (50, 200 and 500 lx). According to the results, the preferred appearance of Ukiyo-e was affected by the lighting conditions as well as by specific colours of the paintings. Illuminants with high correlated colour temperatures (CCTs) made paintings appear as newer, and the illuminance of 50 lx was not preferred. We also found that the painting including blue colours was preferred under illuminants with slightly high CCTs, and illuminants with low CCTs were not appropriate for good appearance of Ukiyo-e.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

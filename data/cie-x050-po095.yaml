@@ -47,9 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Chromatic lighting is often used in specialised applications such as entertainment, theatre, and signage, but there is lack of consensus on metrics that can estimate the brightness of chromatic stimuli. Researchers have previously adjusted colour appearance models (CAMs) to predict brightness of stimuli seem in narrow fields of view. However, metric performance has not been tested in full field of view. A psychophysical experiment was conducted to test the performance of existing metrics in estimating chromatic brightness of light sources in a wide field of view. Fourteen participants judged the brightness of 18 chromatic test stimuli illuminating a room using a magnitude estimation method compared to two reference light sequentially. The results suggest that CAM16 QHK, luminance, and illuminance can predict the brightness of chromatic lighting in wide field of view. Future research should investigate the metric performance using a large number of stimuli, participants, and spectral variation in stimuli.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

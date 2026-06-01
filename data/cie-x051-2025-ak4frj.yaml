@@ -71,9 +71,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study presents a 360° field of view high dynamic range (HDR) lighting measurement method using a panoramic camera to assess human-light interactions in both field and computer-simulated environments. A technical workflow was developed to measure lighting at eye level, enabling multi-metric analysis for diagnosing visual exposure. Validation in an office setting showed high consistency between measured and simulated data (r = 0.976, mean bias error = 0.33%, RMSE = 7.69%), with only a 0.69% difference in total light exposure dose. Outdoor scenarios further illustrated the method's ability to assess lighting quality. This technique provides a practical tool for monitoring light exposure to human eyes.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

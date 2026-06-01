@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Visibility is a fundamental factor for explaining the visual environment and quantitative evaluation methods are being developed. Previously, as a model for estimating visibility, the edge detection algorithm that creates an edge image from a luminance image by imitating the perception of the boundaries of objects and surfaces (hereafter referred to as “edges”) in human early vision has been developed. In this study, we incorporated chromatic mechanisms into the algorithm using the responses of long-, middle-, and short wavelength-sensitive (L-, M-, and S-) cones in the retina as input data. This algorithm detects edges based on chromaticity that were not detected by the previous algorithm. We confirmed the efficiency of the algorithm by comparing the results of a subjective evaluation experiment using a display with the calculated values of the algorithm.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

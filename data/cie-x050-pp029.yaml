@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Intelligent control systems can effectively reduce energy consumption during building operation, but there is a lack of rigorous empirical research of its energy-saving effects and impact on comfort. This study carried out a 129-day four-stage study by intelligently retrofitting the OCC intelligent system in real office spaces, while introducing an initial baseline and a parallel control group into the experimental design. A total of 69 volunteers participated in the empirical experiment. During the demonstration period, the data of environment sensors, human perception sensors and wireless intelligent controllers were collected, and structured questionnaire surveys were carried out for the treated group and the control group in four stages respectively. The comparative analysis results show that the intelligent retrofitting can effectively reduce lighting energy consumption by 11.8% without negatively affecting comfort.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This paper presents the LED modelling work carried out in the AI-TWILIGHT H2020 Ecsel project. The new multi-domain LED model was developed based on measurement results of a comprehensive aging test carried out by an international collaboration of three academic laboratories. In addition to elapsed operating time, the new model also considers past stress conditions, i.e. forward current and temperature profiles. The predictive power was tested by fitting the model to measurement results performed during a pre-defined minimum test time, then comparing the resulting simulation results with real measurement data obtained at later times. The power of modelling different stress conditions was also verified by swapping the stress conditions for 2 x 2 sets of LED samples under test and continuing the aging test in this manner, thereby mimicking a sudden change in the LED samples’ mission profiles resulting also in a change of the consumption rate of their lifetime-budget.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

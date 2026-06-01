@@ -74,10 +74,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The results of the previous experiments were further analysed. IES-TM-30 fidelity metric and local chroma shift of red hue bin were proved to be efficient to predict naturalness and colourfulness of lightings, respectively. A modified Gaussian model with these two metrics was built to predict the lighting preference as the last part of jigsaw of total colour quality of lighting. Independent datasets including preference or attractiveness assessment of lightings was used to test the model.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

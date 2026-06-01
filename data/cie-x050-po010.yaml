@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This paper describes a new wearable device which measures the spectrum of light to which a person is exposed as well as its day and night activity. The device is called the LIGHTMONITOR (LIMO for short). It has been designed to be worn on an eyeglass frame during the day and on the wrist during the night. It is made of two modules plugged into each other: a measurement module and a battery/memory module. It comes with two battery/memory modules, one for the day, one for the night; the one not in use is plugged into a docking station which charges it and transfers its measurements to a secured datacenter. The measurement module provides every 5 s: 75 spectral irradiances (every 5 nm, from 390 to 760 nm) as well as photopic illuminances and UV irradiances (measured before and after the spectral irradiances). Day and night activity are provided at a frequency of 25 Hz both in terms of tri-axial acceleration and angular rate.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

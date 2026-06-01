@@ -37,11 +37,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This report presents a summary of experience in the lighting of tennis courts. Recommendations are made for daylight and artificial light in indoor tennis courts. Guidance is given for the selection of lamps, luminaires and lighting systems. The same subjects are considered for the artificial lighting of outdoor tennis courts.
-
-    The publication contains 23 pages and 3 figures.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

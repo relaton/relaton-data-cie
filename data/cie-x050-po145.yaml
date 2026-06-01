@@ -97,9 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Task ambient lighting (TAL) is a lighting style that offers better energy-saving. Recently, as remote working has increased, better communication quality in offices has become more important. However, the design values for optimum TAL in a communication space are not clear. This experiment evaluated atmosphere of communication space and aimed to clarify recommended design values for TAL. The experiment results demonstrate that a correlated colour temperature of 3500 K or lower, at the keeping 0.7 of illuminance uniformity ratio in 70% of the desk, and a desktop illuminance of 500 lx to 750 lx (background illuminance of 167 lx to 250 lx) are appropriate for TAL design values to enhance communication. It was also demonstrated that achieving these values creates the impression of space that allows workers to relax and feel a sense of unity. Additionally, they reduce energy consumption by 56% compared to conventional uniform office lighting in Japan.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

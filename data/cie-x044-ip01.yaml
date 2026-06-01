@@ -65,17 +65,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This study introduces human centric implementation scenario for office smart lights
-    considering ethnic differences between Korean and Caucasian. This solution includes the
-    optimal CCT and illuminance ranges in which the user-required affective and visual elements
-    are fulfilled in accordance with action types in three subdivided office spaces of general office,
-    conference room and lounge. The mathematical functions are also proposed to estimate
-    preference degree for both Korean and Caucasian. Some interesting results are found in the
-    culture deviation study: the gap of UGR (Unified Glare Index) value and the viewpoint
-    difference about important lighting-quality factors leading to different optimal CCT and
-    illuminance ranges.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

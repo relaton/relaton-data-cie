@@ -77,9 +77,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/jvo6s2Rendering high levels of detail (LOD) in virtual reality (VR) requires extensive 3D modelling, which is computationally intensive and often requires high-end hardware. These demands frequently lead to compromises in performance, resulting in lower frame rates, inconsistent graphics, and system lag, which reduce immersion and increase the risk of motion sickness. To address these challenges, this study explores perceived realism rather than solely pursuing photorealistic rendering. The goal is to identify the most important visual features for maintaining realism in VR environments without significantly increasing the computational load. An experiment was conducted to examine the impact of the LOD on the perception of realism. Participants evaluated VR spaces in which virtual human models with different LODs were placed. The results indicated that the LOD of objects is the dominant factor in perceived realism. But other visual cues such as shadows would affect perceived realism when the LOD is low.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

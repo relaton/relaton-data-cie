@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/q9tjg8A spectroscopic measurement should reference color measurement parameters for high-precision color measurements using an imaging color measuring device (ICMD). Within an augmented and virtual reality (AR/VR, in general, called near-eye displays - NED) measurement application, the spectral distribution of the device under test (DUT) should be measured within a 2° field of view according to the standard observer. The measuring spot should be on the optical axis of the imaging device. Integrating the spectrometer coupling in an AR/VR measuring lens can guarantee those fundamental criteria by optical design and adjustment. We present a lens design that meets these requirements and thus combines other various advantages of the elemental lens design.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

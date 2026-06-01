@@ -133,9 +133,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    https://doi.org/10.25039/x051.2025/cspnmpWindows in architecture provide daylight and offer visual stimulation, which helps occupants relax and feel refreshed. Previous studies have shown that satisfaction with the view often enhances satisfaction with both daylight and the visual environment. Therefore, when designing office spaces, it is crucial to ensure good views, while achieving appropriate targets for daylighting and glare. In this study, we comprehensively evaluated the visual environments created by windows using quantitative indices related to views, daylighting, and glare. ‘Volume of sight’, proposed in previous studies, is a physical index for quantitatively assessing the openness of views from indoor spaces. Vertical illuminance was used to evaluate daylighting and glare. It was shown that this assessment method could ensure both views and daylighting while minimising glare by devising a window design. However, further analysis is required to determine the appropriate threshold for glare assessment.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

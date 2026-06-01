@@ -39,13 +39,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    The properties of photometers and photometer heads for the measurements of illuminance and luminance are defined. Methods of calibration are given and sources of errors are described. Several properties which determine the performance of photometers can be characterized numerically. However, it has not been found possible to quantify some others.
-
-    The report is intended to be a guide for those wishing to perform light measurements or to judge the quality of instruments. It is not intended for the casual buyer and user of such instruments.
-
-    The report is in English, with a summary in English, French and German. It consists of 43 pages, 15 figures and 2 tables.
-                  See more
+  content: This document is a set or collection of related documents
 relation:
 - type: updates
   bibitem:

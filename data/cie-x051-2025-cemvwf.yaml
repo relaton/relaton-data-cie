@@ -73,9 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In this study, we examined the influence of daylight transmitted through colored glazing on discomfort glare by exposing 56 participants to four daylight conditions with the sun disc visible in their field of view. The conditions varied only in the glazing color (red, blue, green, and neutral) toward the sun while having similar transmittance and glare metric values. Results showed a strong influence of color on glare perception, with more participants reporting glare under red and blue conditions compared to green and neutral ones. These findings indicate that V(λ) is not an effective method for spectral weighting in colored lighting scenarios and that the Helmholz-Kohlrausch (H-K) effect may apply to glare similar to brightness perception. To incorporate this effect in glare model, we implemented the CIE200:2011 supplementary photometry system which integrates the H-K effect and results in better glare prediction in colored daylit scenes.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

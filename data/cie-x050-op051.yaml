@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Recently, a model for evaluating discomfort glare has been proposed in accordance with the visual system, which encompasses various visual characteristics from the visual optical system to the visual nervous system. The model is very complex, and evaluation is not easy. In addition, it is a problem that the visual characteristics included in the model have not been sufficiently examined to determine whether they are suitable for the evaluation of discomfort glare.In this paper, we report on the experiments we conducted to identify visual characteristics and the visual characteristics we identified in the process of constructing a discomfort glare evaluation model composed of the main factors reported in another paper (Takase, 2023b).
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -61,9 +61,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    User behaviour has proven to be a significant influencing factor on key performance indicators of lighting systems, such as energy efficiency or light doses, and values currently achieved in applications offer the risk to deviate significantly from simulation values. Since incorrect assumptions about user behaviour during the simulation process turn out to be primarily responsible for the performance gaps in this context, research on improved user modelling represents a promising approach to achieving environmental policy goals.In the present work, the authors present a method for a data-driven derivation of a model to predict individual user profiles from post-occupancy data using support vector regression with the restriction to low-level and easy-to-collect input features. The performance of the model was benchmarked against existing assumptions. The results show a significant improvement compared to existing models, even if generalizability of the results could not be achieved due to the insufficient amount of data.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

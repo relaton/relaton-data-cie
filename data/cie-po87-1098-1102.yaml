@@ -86,10 +86,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    IWe have developed a method based on on-site measurement of luminance images to study the reflected properties of LED and HPS lighted wet road. The distance of imaging luminance measurement device (ILMD) can be very close to the measured region to have high observation angles. All the measured luminance images were analysed and summarized to a distribution of reflected luminance as a function deviation angle, incidence angle, and observation angle.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

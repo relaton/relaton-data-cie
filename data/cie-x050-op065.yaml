@@ -95,9 +95,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Reliable and accurate skin colour measurements are of vital importance in a wide range of applications. This paper presents a comprehensive database of human skin colour and investigates the variations across ethnicities, genders, ages, and body locations. Nine separate data sets of spectrophotometric measurements of skin reflectance were collected from different laboratories around the world with 12 355 skin patches have been measured. Overall, skin colour distributions were found to largely overlap across ethnic groups. Variations in ethnicity were mostly found in the lightness and yellowness of skin, while differences between body locations were primarily found in the redness of skin. The lightness of skin was also consistently influenced by gender and females were found to have a lighter skin colour than males. Meanwhile, the younger subjects had slightly lighter skin than the elderly. The new database is expected to benefit numerous research fields and applications related to human skin.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

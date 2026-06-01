@@ -97,9 +97,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    To reduce the shooting time in image photometry, we developed a method to obtain luminance from RAW data instead of JPEG data, as in the existing method, and investigated how to reduce the number of images to be captured by utilizing the high information content of the RAW data. The JPEG data are compressed during development, whereas the values obtained directly from the RAW data before irreversible changes are made are considered highly reliable. The objective of this study was to improve the accuracy of obtaining XYZ values by directly utilizing 14-bit information in its linear form and to reduce the number of images that need to be captured by increasing the dynamic range of RGB values obtained from each image.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

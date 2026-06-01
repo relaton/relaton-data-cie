@@ -73,10 +73,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Magnitude estimation experiments are performed to investigate the influence of the background luminance on the brightness perception of self-luminous stimuli. Twenty three observers assessed the brightness of one white and three coloured self-luminous stimuli seen against fifteen different self-luminous quasi-neutral backgrounds. The luminance level of the background varied between 0 cd/m2 and 960 cd/m2. The central stimulus has a fixed luminance level of 125 cd/m2. As expected, for each stimulus, the brightness perception decreases when the background luminance increased. The average brightness perception can be fitted very well (Pearson r = 0.99 .and R2= 0.96) by a model based on the brightness prediction of the CAM15u model for unrelated colours, corrected for the impact of the selfluminous background.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -49,9 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This report aims to achieve two objectives. Firstly, it investigates the brightness adjustment method of the adjustment box used for evaluating spatial brightness perception. Secondly, it examines the potential influence of range bias on spatial brightness requirements. The findings reveal that the "slider" method provides more accurate brightness range adjustment compared to the "mouse wheel." However, the lower upper limit of the slider results in errors in suppressing brightness in high-luminance areas. Specifically, errors occurred at twice the mean luminance of the space but were absent at ten times the mean luminance. Furthermore, the evaluation of "just right space brightness" was observed to change when there were discrepancies in the maximum mean latitude and minimum mean luminance of the presented space, indicating the presence of range bias. Setting experimental conditions within a realistic range of spatial luminance is essential for accurate evaluations.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

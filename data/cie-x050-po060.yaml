@@ -59,9 +59,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    In this paper colorimetric calibrations between RGB (camera or screen space) and LMSR (biological eye color-space with cones ‘LMS’ and rods ‘R’) spaces are purposed. Both acquisition (RGB → LMSR) and restitution (LMSR → RGB) are investigated. The method described in this paper is based on four colorimetric calibrations RGB → LMS, RGB → LMR, RGB → LSR and → MSR. First, a new way to ensure colorimetric calibration is described. This new colorimetric calibration is named tetraedric-based calibration and consist to a trilinear interpolation. Secondly, an SVD-based and a tetraedric-based colorimetric calibration between RGB and LMSR spaces are performed for 8 different light sources (acquisition) and for one screen (restitution). For both acquisition and restitution, the tetraedric-based method provides better relative errors per channel than the SVD one, acquisition: 5.5% (SVD) against 2.3% (tetraedric) and restitution: 4.8% (SVD) against 1.44% (tetraedric).
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

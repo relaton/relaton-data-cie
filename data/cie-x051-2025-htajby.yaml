@@ -83,9 +83,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This paper describes an automated method to deal with standard requirements in evaluating lighting quality (illuminance levels and uniformity). We developed a system based on a calibrated illuminance meter carried by a mobile robot equipped with a 3D LiDAR. The localization of the illuminance points in space is calculated thanks to a Simultaneous Localization And Mapping (SLAM) algorithm. Finally, a processing of the illuminance data and the positions allows to build a dense illuminance map. We present two experiments made before and after relamping corridors in a workplace. The results are compared with the standard requirements.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

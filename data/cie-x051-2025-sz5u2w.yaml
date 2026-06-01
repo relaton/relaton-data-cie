@@ -86,9 +86,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This paper investigates the variability of spectral characteristics among LED light sources with similar correlated colour temperature (CCT), using a dataset of 1752 measured spectral distributions. We evaluate how well CCT predicts two widely used metrics: the melanopic daylight efficacy ratio (MDER), relevant for human-centric lighting, and the G-index, proposed for regulating blue light emissions. While both metrics correlate with CCT to some extent, substantial variability remains. MDER can vary by up to 40% within narrow CCT bands, and the G-index shows strong sensitivity to its division wavelength — a 20 nm change can alter compliance outcomes for most products. These results suggest that CCT, although convenient, is insufficient as a proxy for biologically or ecologically relevant effects. We call for greater attention to metric robustness, the use of physiologically grounded indicators, and the development of shared, high-quality spectral datasets to support more transparent and reproducible lighting evaluation and regulation.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

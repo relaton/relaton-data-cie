@@ -109,9 +109,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Spaciousness is required to ensure space comfort. The quantitative evaluation of spaciousness is considered useful for space design. Studies on spaciousness prediction models using luminance and distance in windowed spaces have been limited to office spaces. Therefore, this study applies the prediction model to residential spaces with windows. Compared with office spaces, residential spaces, where the distance from the occupants to the windows is closer and expected to be more sensitive to the distance from the outdoor spaces, were shown to be inadequately represented by the calculation models of previous studies. The influence of the outdoor distance was expanded by improving the conversion method for the distance beyond the window, and an equation applicable to windowed residential spaces was constructed. Additionally, using vertical illuminance, the equation reflects the visual impact of window size on spaciousness.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

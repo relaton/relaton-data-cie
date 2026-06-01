@@ -90,10 +90,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    Following the strategy in a previous work, we have evaluated the potential Blue -Light Hazard (BLH) of high colour rendering index LED sources, on people whose crystalline lenses have been removed through a surgical procedure to implant intraocul ar lenses. Starting from the spectral transmittance of various models of commercial intraocular lenses (IOLs), modifications of the action spectrum for the BLH photo biological effect are proposed for each type of IOL. Then, using the corrected action spec tra, the potential hazard of different types of white LED sources on subjects implanted with those IOLs, as compared to the potential hazard of the same sources for a person whose crystalline lens has not been removed, has been calculated.
-
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

@@ -113,9 +113,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    This article discusses cyclists’ conspicuity to other road users after dark. A conspicuous cyclist is more likely to be correctly recognised, and to be recognised in a shorter time, reducing the risk and severity of road traffic collision. An experiment was conducted to measure the ability to correctly identify cyclists when using cycle-mounted lighting which marks biomotion versus standard steady or flashing lamps. When using pedal mounted lamps a target was correctly identified as a cyclist in near 100% of trials, better than the near one-third of trials when using frame mounted lighting, regardless of whether the lamp was steady or flashing. The reaction time was also faster, being reduced by about 50%. Revising regulations for cycle-mounted lighting to include lighting marking biomotion would improve cyclist safety and would thus support moves to reduce the provision of road lighting.
-                  See more
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:
