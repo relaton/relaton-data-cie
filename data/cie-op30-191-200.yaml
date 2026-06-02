@@ -2,6 +2,13 @@
 id: CIEOP30191200
 schema_version: v1.5.6
 type: standard
+title:
+- content: EXPERIENCE OF LIGHT IN COMPARISON WITH RETINAL RESPONSE TO RADIATION (OP30,
+    191-200)
+  type: title-main
+- content: EXPERIENCE OF LIGHT IN COMPARISON WITH RETINAL RESPONSE TO RADIATION (OP30,
+    191-200)
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/experience-of-light-in-comparison-with-retinal-response-to-radiation-op30-191-200?product_id=2016243
@@ -10,7 +17,46 @@ docidentifier:
   type: CIE
   primary: true
 docnumber: OP30 191-200
+date:
+- type: published
+  at: '2018-05-01'
 contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Enger
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Laike
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Fridell Anter
 - role:
   - type: publisher
   organization:
@@ -24,6 +70,10 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:
