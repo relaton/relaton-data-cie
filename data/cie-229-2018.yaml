@@ -1,0 +1,45 @@
+---
+id: CIE2292018
+schema_version: v1.5.6
+type: standard
+title:
+- content: Groundwork for Measurement of Effective Intensity of Flashing Lights
+  type: title-main
+- content: Groundwork for Measurement of Effective Intensity of Flashing Lights
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-229-2018?product_id=2015171
+docidentifier:
+- content: CIE 229:2018
+  type: CIE
+  primary: true
+- content: '9783902842084'
+  type: ISBN
+docnumber: 229:2018
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

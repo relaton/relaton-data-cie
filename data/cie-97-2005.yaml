@@ -1,0 +1,65 @@
+---
+id: CIE972005
+schema_version: v1.5.6
+type: standard
+title:
+- content: Guide on the maintenance of indoor electric lighting systems
+  type: title-main
+- content: Guide on the maintenance of indoor electric lighting systems
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-97-2005?product_id=1252706
+docidentifier:
+- content: CIE 97:2005
+  type: CIE
+  primary: true
+- content: '9783901906459'
+  type: ISBN
+docnumber: 97:2005
+date:
+- type: published
+  at: '2005-12-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+edition:
+  content: '2'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+relation:
+- type: updates
+  bibitem:
+    title:
+    - content: Maintenance of indoor electric lighting systems
+      type: title-main
+    - content: Maintenance of indoor electric lighting systems
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-097-1992?product_id=1210133
+    docidentifier:
+    - content: CIE 097-1992
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '1992-01-01'
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,69 @@
+---
+id: CIEx050PO171
+schema_version: v1.5.6
+type: standard
+title:
+- content: THE CARBON FOOTPRINT OF LIGHTING RENOVATIONS OVER A TEN-YEAR USAGE PERIOD
+    IN THE EU REGION
+  type: title-main
+- content: THE CARBON FOOTPRINT OF LIGHTING RENOVATIONS OVER A TEN-YEAR USAGE PERIOD
+    IN THE EU REGION
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po171?product_id=2579228
+docidentifier:
+- content: CIE x050-PO171
+  type: CIE
+  primary: true
+docnumber: x050-PO171
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Marjamäki
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Juslén
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

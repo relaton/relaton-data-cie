@@ -1,0 +1,81 @@
+---
+id: CIEx043PO11
+schema_version: v1.5.6
+type: standard
+title:
+- content: STUDY OF VISIBILITY UNDER COMPLEX LUMINANCE CONDITIONS FOR THE VISUALLY
+    CHALLENGED PEOPLE USING LUMINANCE-IMAGE FILTERING (PO11, Pages 262-268)
+  type: title-main
+- content: STUDY OF VISIBILITY UNDER COMPLEX LUMINANCE CONDITIONS FOR THE VISUALLY
+    CHALLENGED PEOPLE USING LUMINANCE-IMAGE FILTERING (PO11, Pages 262-268)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/study-of-visibility-under-complex-luminance-conditions-for-the-visually-challenged-people-using-luminance-image-filtering-po11-pages-262-268?product_id=1941843
+docidentifier:
+- content: CIE x043-PO11
+  type: CIE
+  primary: true
+docnumber: PO11 Pages 262-268
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Iwata
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Kato
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Nakamura
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

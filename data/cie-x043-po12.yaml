@@ -1,0 +1,105 @@
+---
+id: CIEx043PO12
+schema_version: v1.5.6
+type: standard
+title:
+- content: INFLUENCE OF LUMINANCE LEVELS OF ILLUMINATION D65 ON EVALUATION OF HIGH
+    CHROMATIC COLOURS (PO12, Pages 269-277)
+  type: title-main
+- content: INFLUENCE OF LUMINANCE LEVELS OF ILLUMINATION D65 ON EVALUATION OF HIGH
+    CHROMATIC COLOURS (PO12, Pages 269-277)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/influence-of-luminance-levels-of-illumination-d65-on-evaluation-of-high-chromatic-colours-po12-pages-269-277?product_id=1941844
+docidentifier:
+- content: CIE x043-PO12
+  type: CIE
+  primary: true
+docnumber: PO12 Pages 269-277
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Pechova
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Kasparova
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Vik
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Vikova
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Stefl
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

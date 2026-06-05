@@ -1,0 +1,82 @@
+---
+id: CIE0791988
+schema_version: v1.5.6
+type: standard
+title:
+- content: A guide for the design of road traffic lights
+  type: title-main
+- content: A guide for the design of road traffic lights
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-079-1988?product_id=1210007
+docidentifier:
+- content: CIE 079-1988
+  type: CIE
+  primary: true
+- content: '9783900734152'
+  type: ISBN
+docnumber: '079-1988'
+date:
+- type: published
+  at: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+relation:
+- type: updates
+  bibitem:
+    title:
+    - content: Road traffic lights
+      type: title-intro
+    - content: Photometric properties of 200 mm roundel signals
+      type: title-main
+    - content: Road traffic lights - Photometric properties of 200 mm roundel signals
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-006-1-1998-iso-16508-1999?product_id=1210129
+    docidentifier:
+    - content: CIE S 006.1/1998 (ISO 16508:1999)
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '1999-01-01'
+- type: updates
+  bibitem:
+    title:
+    - content: Light signals for road traffic control
+      type: title-main
+    - content: Light signals for road traffic control
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-048-1980?product_id=1209980
+    docidentifier:
+    - content: CIE 048-1980
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '1980-01-01'
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,117 @@
+---
+id: CIEx050PO063
+schema_version: v1.5.6
+type: standard
+title:
+- content: ROAD SURFACE REFLECTION CHARACTERISTICS OF PERMEABLE PAVEMENT USED FOR
+    EXPRESSWAYS IN JAPAN
+  type: title-main
+- content: ROAD SURFACE REFLECTION CHARACTERISTICS OF PERMEABLE PAVEMENT USED FOR
+    EXPRESSWAYS IN JAPAN
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po063?product_id=2579111
+docidentifier:
+- content: CIE x050-PO063
+  type: CIE
+  primary: true
+docnumber: x050-PO063
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Miyamoto
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Fujiwara
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Hayakawa
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Maehama
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Futatsuya
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Ito
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

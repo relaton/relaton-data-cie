@@ -1,0 +1,99 @@
+---
+id: CIEPO26902912
+schema_version: v1.5.6
+type: standard
+title:
+- content: |-
+    LIGHTING RECOMMENDATIONS OF TYPICAL LIGHT SOURCES ON CHINESE TRADITIONAL HEAVY COLOUR PAINTINGS
+
+
+     (PO26, 902-912)
+  type: title-main
+- content: |-
+    LIGHTING RECOMMENDATIONS OF TYPICAL LIGHT SOURCES ON CHINESE TRADITIONAL HEAVY COLOUR PAINTINGS
+
+
+     (PO26, 902-912)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/lighting-recommendations-of-typical-light-sources-on-chinese-traditional-heavy-colour-paintings-po26-902-912?product_id=2011167
+docidentifier:
+- content: CIE PO26 902-912
+  type: CIE
+  primary: true
+docnumber: PO26 902-912
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Liu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Yuan
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Liu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Dang
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

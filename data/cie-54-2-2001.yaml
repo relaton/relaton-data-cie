@@ -1,0 +1,45 @@
+---
+id: CIE5422001
+schema_version: v1.5.6
+type: standard
+title:
+- content: 'Retroreflection: Definition and measurement'
+  type: title-main
+- content: 'Retroreflection: Definition and measurement'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-54-2-2001?product_id=1209988
+docidentifier:
+- content: CIE 54.2-2001
+  type: CIE
+  primary: true
+- content: '9783900734992'
+  type: ISBN
+docnumber: 54.2-2001
+date:
+- type: published
+  at: '2001-11-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

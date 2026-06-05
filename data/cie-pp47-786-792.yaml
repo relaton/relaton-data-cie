@@ -1,0 +1,85 @@
+---
+id: CIEPP47786792
+schema_version: v1.5.6
+type: standard
+title:
+- content: |-
+    COLOUR EMOTION FOR INTERIOR LIGHTING
+
+     (PP47, 786-792)
+  type: title-main
+- content: |-
+    COLOUR EMOTION FOR INTERIOR LIGHTING
+
+     (PP47, 786-792)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/colour-emotion-for-interior-lighting-pp47-786-792?product_id=2011376
+docidentifier:
+- content: CIE PP47 786-792
+  type: CIE
+  primary: true
+docnumber: PP47 786-792
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Yeh
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Huang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Ou
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

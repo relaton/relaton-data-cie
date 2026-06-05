@@ -1,0 +1,103 @@
+---
+id: CIES0146E2013
+schema_version: v1.5.6
+type: standard
+title:
+- content: Colorimetry
+  type: title-main
+- content: 'Part 6: CIEDE2000 Colour-Difference Formula'
+  type: title-part
+- content: 'Colorimetry - Part 6: CIEDE2000 Colour-Difference Formula'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-s-014-6-e-2013?product_id=1852484
+docidentifier:
+- content: CIE S 014-6/E:2013
+  type: CIE
+  primary: true
+docnumber: S 014-6/E:2013
+date:
+- type: published
+  at: '2013-02-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+relation:
+- type: updates
+  bibitem:
+    title:
+    - content: Colorimetry
+      type: title-main
+    - content: 'Part 6: CIEDE2000 colour-difference formula'
+      type: title-part
+    - content: 'Colorimetry - Part 6: CIEDE2000 colour-difference formula'
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-iso-11664-6-2022?product_id=2502987
+    docidentifier:
+    - content: CIE ISO 11664-6:2022
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '2022-08-01'
+- type: updates
+  bibitem:
+    title:
+    - content: Colorimetry
+      type: title-main
+    - content: 'Part 6: CIEDE2000 Colour-difference formula'
+      type: title-part
+    - content: 'Colorimetry - Part 6: CIEDE2000 Colour-difference formula'
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-iso-11664-6-2014?product_id=1872458
+    docidentifier:
+    - content: CIE ISO 11664-6:2014
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '2014-02-01'
+- type: updates
+  bibitem:
+    title:
+    - content: Colorimetry
+      type: title-main
+    - content: 'Part 6: CIEDE2000 Colour-Difference Formula'
+      type: title-part
+    - content: 'Colorimetry - Part 6: CIEDE2000 Colour-Difference Formula'
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-ds-014-6-e-2012?product_id=1831709
+    docidentifier:
+    - content: CIE DS 014-6/E:2012
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '2012-04-30'
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

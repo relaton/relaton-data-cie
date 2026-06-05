@@ -1,0 +1,117 @@
+---
+id: CIEx050PO004
+schema_version: v1.5.6
+type: standard
+title:
+- content: 'A POWER-EFFICIENT SMART LASER-PHOTOLUMINESCENT-LIGHT (LPL) WITH PV-SYSTEM
+    INTEGRATION: EXPERIMENTAL ANALYSIS AND OPTIMIZATION FOR PEDESTRIAN ROADS'
+  type: title-main
+- content: 'A POWER-EFFICIENT SMART LASER-PHOTOLUMINESCENT-LIGHT (LPL) WITH PV-SYSTEM
+    INTEGRATION: EXPERIMENTAL ANALYSIS AND OPTIMIZATION FOR PEDESTRIAN ROADS'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po004?product_id=2579042
+docidentifier:
+- content: CIE x050-PO004
+  type: CIE
+  primary: true
+docnumber: x050-PO004
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Belloni
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: I
+      surname:
+        language: en
+        script: Latn
+        content: Celli
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Cotana
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Nakamura
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Pisello
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Villacci
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

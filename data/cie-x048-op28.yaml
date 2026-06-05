@@ -1,0 +1,84 @@
+---
+id: CIEx048OP28
+schema_version: v1.5.6
+type: standard
+title:
+- content: SENSITIVITY ANALYSIS ON THE EFFECT OF MEASUREMENT NOISE AND SAMPLING FREQUENCY
+    ON THE CALCULATION OF THE TEMPORAL LIGHT ARTEFACTS
+  type: title-main
+- content: SENSITIVITY ANALYSIS ON THE EFFECT OF MEASUREMENT NOISE AND SAMPLING FREQUENCY
+    ON THE CALCULATION OF THE TEMPORAL LIGHT ARTEFACTS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op28?product_id=2240718
+docidentifier:
+- content: CIE x048-OP28
+  type: CIE
+  primary: true
+docnumber: x048-OP28
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Thorseth
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Lindén
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Bouroussis
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

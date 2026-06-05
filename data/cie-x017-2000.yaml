@@ -1,0 +1,47 @@
+---
+id: CIEx0172000
+schema_version: v1.5.6
+type: standard
+title:
+- content: Special Volume, 24th Session of the CIE, Warsaw 1999
+  type: title-intro
+- content: Late Papers
+  type: title-main
+- content: Special Volume, 24th Session of the CIE, Warsaw 1999 - Late Papers
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x017-2000?product_id=1210148
+docidentifier:
+- content: CIE x017-2000
+  type: CIE
+  primary: true
+- content: '9783901906015'
+  type: ISBN
+docnumber: x017-2000
+date:
+- type: published
+  at: '2000-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,60 @@
+---
+id: CIEx048PO29
+schema_version: v1.5.6
+type: standard
+title:
+- content: STUDY OF METHODS FOR MEASURING THE OPTICAL CHARACTERISTICS OF LOW-PRESSURE
+    MERCURY LAMPS
+  type: title-main
+- content: STUDY OF METHODS FOR MEASURING THE OPTICAL CHARACTERISTICS OF LOW-PRESSURE
+    MERCURY LAMPS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-po29?product_id=2240835
+docidentifier:
+- content: CIE x048-PO29
+  type: CIE
+  primary: true
+docnumber: x048-PO29
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: I
+      - language: en
+        script: Latn
+        initial: I
+      surname:
+        language: en
+        script: Latn
+        content: Zheleznov
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

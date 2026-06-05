@@ -1,0 +1,98 @@
+---
+id: CIEOP38277283
+schema_version: v1.5.6
+type: standard
+title:
+- content: |-
+    DETERMINATION OF ROAD LIGHTING AUTOMATION STRATEGIES CONSIDERING DRIVING SAFETY BASED ON VISIBILITY CONCEPT
+     (OP38, 277-283)
+  type: title-main
+- content: |-
+    DETERMINATION OF ROAD LIGHTING AUTOMATION STRATEGIES CONSIDERING DRIVING SAFETY BASED ON VISIBILITY CONCEPT
+     (OP38, 277-283)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/determination-of-road-lighting-automation-strategies-considering-driving-safety-based-on-visibility-concept-op38-277-283?product_id=2010481
+docidentifier:
+- content: CIE OP38 277-283
+  type: CIE
+  primary: true
+docnumber: OP38 277-283
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Buyukkinaci
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Onaygil
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: O
+      surname:
+        language: en
+        script: Latn
+        content: Guler
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Yurtseven
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

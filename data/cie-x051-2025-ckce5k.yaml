@@ -1,0 +1,93 @@
+---
+id: CIEx0512025ckce5k
+schema_version: v1.5.6
+type: standard
+title:
+- content: 'WEARABLE DEVICE FOR PERSONAL LIGHT MONITORING: ASSESSING VISUAL AND NON-VISUAL
+    RESPONSES WITH SPECTRALLY-RESOLVED SENSOR'
+  type: title-main
+- content: 'WEARABLE DEVICE FOR PERSONAL LIGHT MONITORING: ASSESSING VISUAL AND NON-VISUAL
+    RESPONSES WITH SPECTRALLY-RESOLVED SENSOR'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-ckce5k?product_id=3039889
+docidentifier:
+- content: CIE x051:2025/ckce5k
+  type: CIE
+  primary: true
+docnumber: x051:2025/ckce5k
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Jin
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Zeng
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Li
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Lin
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

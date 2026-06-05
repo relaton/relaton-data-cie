@@ -1,0 +1,77 @@
+---
+id: CIEOP18106111
+schema_version: v1.5.6
+type: standard
+title:
+- content: NEW EMPIRICAL DATA FOR PEDESTRIAN LIGHTING EFFECT ON RECOGNITION ABILITY
+    ON REAL 3D FACIAL EXPRESSION (OP18, 106-111)
+  type: title-main
+- content: NEW EMPIRICAL DATA FOR PEDESTRIAN LIGHTING EFFECT ON RECOGNITION ABILITY
+    ON REAL 3D FACIAL EXPRESSION (OP18, 106-111)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/new-empirical-data-for-pedestrian-lighting-effect-on-recognition-ability-on-real-3d-facial-expression-op18-106-111?product_id=2016232
+docidentifier:
+- content: CIE OP18 106-111
+  type: CIE
+  primary: true
+docnumber: OP18 106-111
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Li
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Tianyu
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Yang
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Biao
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,105 @@
+---
+id: CIEx050PO168
+schema_version: v1.5.6
+type: standard
+title:
+- content: 'IMAGE PHOTOMETRY FOR EVALUATING LIGHTING ENVIRONMENTS: IMPROVEMENT IN
+    SPEED AND ACCURACY BY USING RAW FORMAT PHOTO DATA'
+  type: title-main
+- content: 'IMAGE PHOTOMETRY FOR EVALUATING LIGHTING ENVIRONMENTS: IMPROVEMENT IN
+    SPEED AND ACCURACY BY USING RAW FORMAT PHOTO DATA'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po168?product_id=2579226
+docidentifier:
+- content: CIE x050-PO168
+  type: CIE
+  primary: true
+docnumber: x050-PO168
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Horiuchi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Miyake
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Yamaguchi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Nishihara
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Yoshizawa
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

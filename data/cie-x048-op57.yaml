@@ -1,0 +1,93 @@
+---
+id: CIEx048OP57
+schema_version: v1.5.6
+type: standard
+title:
+- content: THE DIFFUSENESS OF ILLUMINATION SUITABLE FOR REPRODUCING OBJECT SURFACE
+    APPEARANCE USING COMPUTER GRAPHICS
+  type: title-main
+- content: THE DIFFUSENESS OF ILLUMINATION SUITABLE FOR REPRODUCING OBJECT SURFACE
+    APPEARANCE USING COMPUTER GRAPHICS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op57?product_id=2240809
+docidentifier:
+- content: CIE x048-OP57
+  type: CIE
+  primary: true
+docnumber: x048-OP57
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Mizushima
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Kudo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Dobashi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Mizokami
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

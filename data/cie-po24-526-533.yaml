@@ -1,0 +1,135 @@
+---
+id: CIEPO24526533
+schema_version: v1.5.6
+type: standard
+title:
+- content: SMART GARNISH LIGHT/DISPLAY FOR VISUAL ASSISTANCE IN AUTOMOBILE (PO24,
+    526-533)
+  type: title-main
+- content: SMART GARNISH LIGHT/DISPLAY FOR VISUAL ASSISTANCE IN AUTOMOBILE (PO24,
+    526-533)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/smart-garnish-light-display-for-visual-assistance-in-automobile-po24-526-533?product_id=2016301
+docidentifier:
+- content: CIE PO24 526-533
+  type: CIE
+  primary: true
+docnumber: PO24 526-533
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Ko
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Choi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Park
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: U
+      surname:
+        language: en
+        script: Latn
+        content: Park
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: W
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Song
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Kim
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,91 @@
+---
+id: CIEx048OP60
+schema_version: v1.5.6
+type: standard
+title:
+- content: 'VIRTUAL REALITY: A PROMISING APPROACH FOR LIGHTING RESEARCH'
+  type: title-main
+- content: 'VIRTUAL REALITY: A PROMISING APPROACH FOR LIGHTING RESEARCH'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op60?product_id=2240812
+docidentifier:
+- content: CIE x048-OP60
+  type: CIE
+  primary: true
+docnumber: x048-OP60
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Bellia
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Corbisiero
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: DAgostino
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Fragliasso
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

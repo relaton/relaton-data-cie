@@ -1,0 +1,45 @@
+---
+id: CIE2182016
+schema_version: v1.5.6
+type: standard
+title:
+- content: Research Roadmap for Healthful Interior Lighting Applications
+  type: title-main
+- content: Research Roadmap for Healthful Interior Lighting Applications
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-218-2016?product_id=1915945
+docidentifier:
+- content: CIE 218:2016
+  type: CIE
+  primary: true
+- content: '9783902842589'
+  type: ISBN
+docnumber: 218:2016
+date:
+- type: published
+  at: '2016-05-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

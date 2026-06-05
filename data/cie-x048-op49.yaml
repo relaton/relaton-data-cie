@@ -1,0 +1,69 @@
+---
+id: CIEx048OP49
+schema_version: v1.5.6
+type: standard
+title:
+- content: A NEUROPHYSIOLOGY-BASED MODEL TO ESTIMATE VISIBILITY IN ACTUAL LIGHTING
+    ENVIRONMENT
+  type: title-main
+- content: A NEUROPHYSIOLOGY-BASED MODEL TO ESTIMATE VISIBILITY IN ACTUAL LIGHTING
+    ENVIRONMENT
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op49?product_id=2240801
+docidentifier:
+- content: CIE x048-OP49
+  type: CIE
+  primary: true
+docnumber: x048-OP49
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Yoshizawa
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Shida
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

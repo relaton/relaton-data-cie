@@ -1,0 +1,57 @@
+---
+id: CIEx0512025pbvfop
+schema_version: v1.5.6
+type: standard
+title:
+- content: IMPROVED UNCERTAINTY ESTIMATION PROCEDURE FOR SPECTRAL MEASUREMENTS USING
+    THE COMBINED MONTE CARLO METHOD AND BOOTSTRAP
+  type: title-main
+- content: IMPROVED UNCERTAINTY ESTIMATION PROCEDURE FOR SPECTRAL MEASUREMENTS USING
+    THE COMBINED MONTE CARLO METHOD AND BOOTSTRAP
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-pbvfop?product_id=3040011
+docidentifier:
+- content: CIE x051:2025/pbvfop
+  type: CIE
+  primary: true
+docnumber: x051:2025/pbvfop
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Rybczyński
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

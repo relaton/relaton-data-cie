@@ -1,0 +1,45 @@
+---
+id: CIE421978
+schema_version: v1.5.6
+type: standard
+title:
+- content: Lighting for tennis
+  type: title-main
+- content: Lighting for tennis
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-42-1978?product_id=1209974
+docidentifier:
+- content: CIE 42-1978
+  type: CIE
+  primary: true
+- content: '9783900734626'
+  type: ISBN
+docnumber: 42-1978
+date:
+- type: published
+  at: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

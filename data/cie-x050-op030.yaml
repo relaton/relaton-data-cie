@@ -1,0 +1,105 @@
+---
+id: CIEx050OP030
+schema_version: v1.5.6
+type: standard
+title:
+- content: EXPLORATORY STUDY TO DEFINE NEW OBSERVATION GEOMETRIES FOR ROAD LIGHTING
+    DESIGN
+  type: title-main
+- content: EXPLORATORY STUDY TO DEFINE NEW OBSERVATION GEOMETRIES FOR ROAD LIGHTING
+    DESIGN
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op030?product_id=2579003
+docidentifier:
+- content: CIE x050-OP030
+  type: CIE
+  primary: true
+docnumber: x050-OP030
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Lebouc
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      surname:
+        language: en
+        script: Latn
+        content: Boucher
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Greffier
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Nicolaï
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Richard
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

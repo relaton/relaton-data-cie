@@ -1,0 +1,91 @@
+---
+id: CIEx050PO048
+schema_version: v1.5.6
+type: standard
+title:
+- content: OFFICE LIGHTING SMART CONTROLS BASED ON USER REQUIREMENTS
+  type: title-main
+- content: OFFICE LIGHTING SMART CONTROLS BASED ON USER REQUIREMENTS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po048?product_id=2579101
+docidentifier:
+- content: CIE x050-PO048
+  type: CIE
+  primary: true
+docnumber: x050-PO048
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Campano
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: I
+      surname:
+        language: en
+        script: Latn
+        content: Acosta
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Domínguez-Amarillo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Bustamante
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,84 @@
+---
+id: CIEx051202562xbgg
+schema_version: v1.5.6
+type: standard
+title:
+- content: 'CHARACTERISING INTER-INDIVIDUAL VARIABILITY IN SIMULATED PERSONAL LIGHT
+    EXPOSURE: IMPACT OF BODY MORPHOLOGY ON LIGHT-DOSIMETRY'
+  type: title-main
+- content: 'CHARACTERISING INTER-INDIVIDUAL VARIABILITY IN SIMULATED PERSONAL LIGHT
+    EXPOSURE: IMPACT OF BODY MORPHOLOGY ON LIGHT-DOSIMETRY'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-62xbgg?product_id=3039146
+docidentifier:
+- content: CIE x051:2025/62xbgg
+  type: CIE
+  primary: true
+docnumber: x051:2025/62xbgg
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: W
+      surname:
+        language: en
+        script: Latn
+        content: De Vries
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Mardaljevic
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Van Duijnhoven
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

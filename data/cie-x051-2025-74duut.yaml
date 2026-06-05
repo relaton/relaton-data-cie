@@ -1,0 +1,91 @@
+---
+id: CIEx051202574duut
+schema_version: v1.5.6
+type: standard
+title:
+- content: EFFECT OF METAMERIC WHITE LIGHTS ON VISUAL PERFORMANCE
+  type: title-main
+- content: EFFECT OF METAMERIC WHITE LIGHTS ON VISUAL PERFORMANCE
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-74duut?product_id=3039149
+docidentifier:
+- content: CIE x051:2025/74duut
+  type: CIE
+  primary: true
+docnumber: x051:2025/74duut
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Dubail
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Lassalle
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Sidibe
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Arleo
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

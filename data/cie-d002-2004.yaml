@@ -1,0 +1,45 @@
+---
+id: CIED0022004
+schema_version: v1.5.6
+type: standard
+title:
+- content: Disk version of CIE colorimetric and colour rendering data (Publ. 13.3
+    and 15 tables)
+  type: title-main
+- content: Disk version of CIE colorimetric and colour rendering data (Publ. 13.3
+    and 15 tables)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-d002-2004?product_id=1210079
+docidentifier:
+- content: CIE D002:2004
+  type: CIE
+  primary: true
+docnumber: D002:2004
+date:
+- type: published
+  at: '2004-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

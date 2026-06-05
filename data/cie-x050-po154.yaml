@@ -1,0 +1,131 @@
+---
+id: CIEx050PO154
+schema_version: v1.5.6
+type: standard
+title:
+- content: 'REPRODUCTION OF DAYLIGHTING BY LED LUMINAIRES SIMULATING ILLUMINANCE AND
+    CORRELATED COLOUR TEMPERATURE FLUCTUATION: VERIFICATION OF PHYSIOLOGICAL AND PSYCHOLOGICAL
+    STRESS'
+  type: title-main
+- content: 'REPRODUCTION OF DAYLIGHTING BY LED LUMINAIRES SIMULATING ILLUMINANCE AND
+    CORRELATED COLOUR TEMPERATURE FLUCTUATION: VERIFICATION OF PHYSIOLOGICAL AND PSYCHOLOGICAL
+    STRESS'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po154?product_id=2579214
+docidentifier:
+- content: CIE x050-PO154
+  type: CIE
+  primary: true
+docnumber: x050-PO154
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Xiang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Akuzawa
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Oe
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Yoshizawa
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Nakaso
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Kaiho
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Shinohara
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,75 @@
+---
+id: CIEPO05423430
+schema_version: v1.5.6
+type: standard
+title:
+- content: INVESTIGATION OF AFFECTIVE FACTOR EVALUATION METHODOLOGY FOR WHITE LIGHTS
+    (PO05, 423-430)
+  type: title-main
+- content: INVESTIGATION OF AFFECTIVE FACTOR EVALUATION METHODOLOGY FOR WHITE LIGHTS
+    (PO05, 423-430)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/investigation-of-affective-factor-evaluation-methodology-for-white-lights-po05-423-430?product_id=2016283
+docidentifier:
+- content: CIE PO05 423-430
+  type: CIE
+  primary: true
+docnumber: PO05 423-430
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Ko
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Choi
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

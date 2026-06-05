@@ -1,0 +1,75 @@
+---
+id: CIEPO33584590
+schema_version: v1.5.6
+type: standard
+title:
+- content: TRANSMITTANCE HAZE MEASUREMENT FOR HIGH HAZE MATERIALS (PO33, 584-590)
+  type: title-main
+- content: TRANSMITTANCE HAZE MEASUREMENT FOR HIGH HAZE MATERIALS (PO33, 584-590)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/transmittance-haze-measurement-for-high-haze-materials-po33-584-590?product_id=2016309
+docidentifier:
+- content: CIE PO33 584-590
+  type: CIE
+  primary: true
+docnumber: PO33 584-590
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Liu
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Wen-Chun
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Yu
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Hsueh-Ling
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

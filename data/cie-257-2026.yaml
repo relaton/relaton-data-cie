@@ -1,0 +1,47 @@
+---
+id: CIE2572026
+schema_version: v1.5.6
+type: standard
+title:
+- content: Recommendations for Practical Application of the CIE System for Mesopic
+    Photometry in Outdoor Lighting
+  type: title-main
+- content: Recommendations for Practical Application of the CIE System for Mesopic
+    Photometry in Outdoor Lighting
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-257-2026?product_id=3059697
+docidentifier:
+- content: CIE 257:2026
+  type: CIE
+  primary: true
+- content: '9783902842985'
+  type: ISBN
+docnumber: 257:2026
+date:
+- type: published
+  at: '2026'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,117 @@
+---
+id: CIEPO07839846
+schema_version: v1.5.6
+type: standard
+title:
+- content: PROPOSAL OF THE METHODS TO CONTROL ILLUMINANCE AND CHROMATICITY AT THE
+    SAME TIME IN THE FULL-COLOR ILLUMINATON LABORATORY (PO07, 839-846)
+  type: title-main
+- content: PROPOSAL OF THE METHODS TO CONTROL ILLUMINANCE AND CHROMATICITY AT THE
+    SAME TIME IN THE FULL-COLOR ILLUMINATON LABORATORY (PO07, 839-846)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/proposal-of-the-methods-to-control-illuminance-and-chromaticity-at-the-same-time-in-the-full-color-illuminaton-laboratory-po07-839-846?product_id=2011158
+docidentifier:
+- content: CIE PO07 839-846
+  type: CIE
+  primary: true
+docnumber: PO07 839-846
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Tamura
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Miki
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Takenaka
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Nakahara
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Nasu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Aida
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

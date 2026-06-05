@@ -1,0 +1,105 @@
+---
+id: CIEPO34591597
+schema_version: v1.5.6
+type: standard
+title:
+- content: COLOUR FADING MODEL OF LEDS FOR CONTEMPORARY PHOTOGRAPHIC MATERIALS (PO34,
+    591-597)
+  type: title-main
+- content: COLOUR FADING MODEL OF LEDS FOR CONTEMPORARY PHOTOGRAPHIC MATERIALS (PO34,
+    591-597)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/colour-fading-model-of-leds-for-contemporary-photographic-materials-po34-591-597?product_id=2016310
+docidentifier:
+- content: CIE PO34 591-597
+  type: CIE
+  primary: true
+docnumber: PO34 591-597
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      - language: en
+        script: Latn
+        initial: W
+      surname:
+        language: en
+        script: Latn
+        content: Luo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Chou
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Luo
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

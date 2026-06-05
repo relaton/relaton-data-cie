@@ -1,0 +1,97 @@
+---
+id: CIEOP21143149
+schema_version: v1.5.6
+type: standard
+title:
+- content: "COLOUR TRANSITIONS IN ROAD LIGHTING \n(OP21, 143-149)"
+  type: title-main
+- content: "COLOUR TRANSITIONS IN ROAD LIGHTING \n(OP21, 143-149)"
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/colour-transitions-in-road-lighting-op21-143-149?product_id=2010462
+docidentifier:
+- content: CIE OP21 143-149
+  type: CIE
+  primary: true
+docnumber: OP21 143-149
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Wesselink
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: I
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: L
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Vogels
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Donners
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

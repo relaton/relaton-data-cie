@@ -1,0 +1,127 @@
+---
+id: CIEx0512025ffyskj
+schema_version: v1.5.6
+type: standard
+title:
+- content: EFFECT OF R-TABLE MEASUREMENT DISPERSION ON ROAD LIGHTING QUALITY CRITERIA
+  type: title-main
+- content: EFFECT OF R-TABLE MEASUREMENT DISPERSION ON ROAD LIGHTING QUALITY CRITERIA
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-ffyskj?product_id=3039902
+docidentifier:
+- content: CIE x051:2025/ffyskj
+  type: CIE
+  primary: true
+docnumber: x051:2025/ffyskj
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Liandrat
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Greffier
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Schulze
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Saint-Jacques
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Eymond
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Ferreira-Fernandes
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      surname:
+        language: en
+        script: Latn
+        content: Muzet
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

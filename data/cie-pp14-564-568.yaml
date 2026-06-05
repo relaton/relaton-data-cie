@@ -1,0 +1,142 @@
+---
+id: CIEPP14564568
+schema_version: v1.5.6
+type: standard
+title:
+- content: |-
+    STUDY ON THE POSSIBIALITY OF LED FILAMENT LAMP AS PHOTOMETRIC STANDARD
+
+     (PP14, 564-568)
+  type: title-main
+- content: |-
+    STUDY ON THE POSSIBIALITY OF LED FILAMENT LAMP AS PHOTOMETRIC STANDARD
+
+     (PP14, 564-568)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/study-on-the-possibiality-of-led-filament-lamp-as-photometric-standard-pp14-564-568?product_id=2011270
+docidentifier:
+- content: CIE PP14 564-568
+  type: CIE
+  primary: true
+docnumber: PP14 564-568
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Liu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Liu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: W
+      - language: en
+        script: Latn
+        initial: Q
+      surname:
+        language: en
+        script: Latn
+        content: Zhao
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Lin
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Su
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Jiang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Yan
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

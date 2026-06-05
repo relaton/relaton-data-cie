@@ -1,0 +1,69 @@
+---
+id: CIEx050OP045
+schema_version: v1.5.6
+type: standard
+title:
+- content: A MODEL FOR DETECTING DAYLIGHT PROVISION TO SAVE ENERGY AND TO COMPLY WITH
+    THE EN-12464-1 STANDARD
+  type: title-main
+- content: A MODEL FOR DETECTING DAYLIGHT PROVISION TO SAVE ENERGY AND TO COMPLY WITH
+    THE EN-12464-1 STANDARD
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op045?product_id=2579011
+docidentifier:
+- content: CIE x050-OP045
+  type: CIE
+  primary: true
+docnumber: x050-OP045
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Einola
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Juslén
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

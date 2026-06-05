@@ -1,0 +1,119 @@
+---
+id: CIEOP44314317
+schema_version: v1.5.6
+type: standard
+title:
+- content: |-
+    THE INFLUENCE OF LED LIGHTING WITH DIFFERENT PROPORTIONS OF BLUE-LIGHT WAVELENGTHS ON HUMANS
+     (OP44, 314-317)
+  type: title-main
+- content: |-
+    THE INFLUENCE OF LED LIGHTING WITH DIFFERENT PROPORTIONS OF BLUE-LIGHT WAVELENGTHS ON HUMANS
+     (OP44, 314-317)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/the-influence-of-led-lighting-with-different-proportions-of-blue-light-wavelengths-on-humans-op44-314-317?product_id=2010516
+docidentifier:
+- content: CIE OP44 314-317
+  type: CIE
+  primary: true
+docnumber: OP44 314-317
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Wu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Tseng
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Luo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Lin
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

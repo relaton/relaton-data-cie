@@ -1,0 +1,104 @@
+---
+id: CIEx05120255q7vbn
+schema_version: v1.5.6
+type: standard
+title:
+- content: A COMPARATIVE STUDY OF SUBJECTIVE PERCEPTIONS OF LIGHTING AND PHYSIOLOGICAL
+    RESULTS IN REAL AND VIRTUAL ENVIRONMENTS
+  type: title-main
+- content: A COMPARATIVE STUDY OF SUBJECTIVE PERCEPTIONS OF LIGHTING AND PHYSIOLOGICAL
+    RESULTS IN REAL AND VIRTUAL ENVIRONMENTS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-5q7vbn?product_id=3039597
+docidentifier:
+- content: CIE x051:2025/5q7vbn
+  type: CIE
+  primary: true
+docnumber: x051:2025/5q7vbn
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Castilla
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Higuera-Trujillo
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Pérez
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Martínez
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Llinares
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

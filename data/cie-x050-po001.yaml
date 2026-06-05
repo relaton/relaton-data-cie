@@ -1,0 +1,93 @@
+---
+id: CIEx050PO001
+schema_version: v1.5.6
+type: standard
+title:
+- content: ACCURATE MEASUREMENT OF DRIVERS’ REACTION TIMES IN THREE DIFFERENT ROAD
+    LIGHTING SETTINGS
+  type: title-main
+- content: ACCURATE MEASUREMENT OF DRIVERS’ REACTION TIMES IN THREE DIFFERENT ROAD
+    LIGHTING SETTINGS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po001?product_id=2578626
+docidentifier:
+- content: CIE x050-PO001
+  type: CIE
+  primary: true
+docnumber: x050-PO001
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Nilsson Tengelin
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Källberg
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Lindgren
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Ebenhag
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

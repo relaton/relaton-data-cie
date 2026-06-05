@@ -1,0 +1,107 @@
+---
+id: CIEx048PO41
+schema_version: v1.5.6
+type: standard
+title:
+- content: 'HIEQ LAB: A NOVEL FULL-SCALE FACILITY WITH OCCUPANTS TO INVESTIGATE INTEGRATIVE
+    LIGHTING AND HUMAN PERFORMANCE IN A MULTI-DOMAIN APPROACH'
+  type: title-main
+- content: 'HIEQ LAB: A NOVEL FULL-SCALE FACILITY WITH OCCUPANTS TO INVESTIGATE INTEGRATIVE
+    LIGHTING AND HUMAN PERFORMANCE IN A MULTI-DOMAIN APPROACH'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-po41?product_id=2240849
+docidentifier:
+- content: CIE x048-PO41
+  type: CIE
+  primary: true
+docnumber: x048-PO41
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      - language: en
+        script: Latn
+        initial: R
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: L. Giovannini
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Lo Verso
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      surname:
+        language: en
+        script: Latn
+        content: Favoino
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Serra
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Pellegrino
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,45 @@
+---
+id: CIEx0212001
+schema_version: v1.5.6
+type: standard
+title:
+- content: Proceedings of the CIE Expert Symposium 2000 on Extended Range Colour Spaces
+  type: title-main
+- content: Proceedings of the CIE Expert Symposium 2000 on Extended Range Colour Spaces
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x021-2001?product_id=1210104
+docidentifier:
+- content: CIE x021:2001
+  type: CIE
+  primary: true
+- content: '9783901906107'
+  type: ISBN
+docnumber: x021:2001
+date:
+- type: published
+  at: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

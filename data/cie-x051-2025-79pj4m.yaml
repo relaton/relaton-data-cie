@@ -1,0 +1,91 @@
+---
+id: CIEx051202579pj4m
+schema_version: v1.5.6
+type: standard
+title:
+- content: PERFORMANCE OF MELANOPSIN-BASED SPATIAL BRIGHTNESS METRICS
+  type: title-main
+- content: PERFORMANCE OF MELANOPSIN-BASED SPATIAL BRIGHTNESS METRICS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-79pj4m?product_id=3039150
+docidentifier:
+- content: CIE x051:2025/79pj4m
+  type: CIE
+  primary: true
+docnumber: x051:2025/79pj4m
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Durmus
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Thorseth
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: W
+      surname:
+        language: en
+        script: Latn
+        content: Hu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: W
+      surname:
+        language: en
+        script: Latn
+        content: Song
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

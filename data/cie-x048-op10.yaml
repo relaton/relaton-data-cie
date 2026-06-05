@@ -1,0 +1,91 @@
+---
+id: CIEx048OP10
+schema_version: v1.5.6
+type: standard
+title:
+- content: MODELLING OF PERCEPTUAL GLOSS BY PHYSICAL MEASUREMENT OF FLAT SURFACE
+  type: title-main
+- content: MODELLING OF PERCEPTUAL GLOSS BY PHYSICAL MEASUREMENT OF FLAT SURFACE
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op10?product_id=2240686
+docidentifier:
+- content: CIE x048-OP10
+  type: CIE
+  primary: true
+docnumber: x048-OP10
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Shoma
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Amari
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Midori
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Tanaka
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Takahiko
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Horiuchi
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

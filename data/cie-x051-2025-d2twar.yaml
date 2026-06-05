@@ -1,0 +1,57 @@
+---
+id: CIEx0512025d2twar
+schema_version: v1.5.6
+type: standard
+title:
+- content: 'INVESTIGATION OF THE BALANCE BETWEEN WORK SURFACE ILLUMINANCE AND SPATIAL
+    AVERAGE LUMINANCE IN DESK WORKSPACES: A COMPARISON OF YOUNGER AND OLDER ADULTS'
+  type: title-main
+- content: 'INVESTIGATION OF THE BALANCE BETWEEN WORK SURFACE ILLUMINANCE AND SPATIAL
+    AVERAGE LUMINANCE IN DESK WORKSPACES: A COMPARISON OF YOUNGER AND OLDER ADULTS'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-d2twar?product_id=3039892
+docidentifier:
+- content: CIE x051:2025/d2twar
+  type: CIE
+  primary: true
+docnumber: x051:2025/d2twar
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Kato
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

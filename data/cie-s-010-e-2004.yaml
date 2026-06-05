@@ -1,0 +1,86 @@
+---
+id: CIES010E2004
+schema_version: v1.5.6
+type: standard
+title:
+- content: Photometry
+  type: title-intro
+- content: The CIE system of physical photometry
+  type: title-main
+- content: Photometry - The CIE system of physical photometry
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-s-010-e-2004-iso-23539-2005?product_id=1210115
+docidentifier:
+- content: CIE S 010/E:2004
+  type: CIE
+  primary: true
+- content: ISO 23539:2005
+  type: ISO
+docnumber: S 010/E:2004
+date:
+- type: published
+  at: '2005-08-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+relation:
+- type: updates
+  bibitem:
+    title:
+    - content: Photometry
+      type: title-intro
+    - content: The CIE system of physical photometry
+      type: title-main
+    - content: Photometry - The CIE system of physical photometry
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-iso-23539-2023?product_id=2562836
+    docidentifier:
+    - content: CIE ISO 23539:2023
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '2023-03-01'
+- type: updates
+  bibitem:
+    title:
+    - content: Photometry
+      type: title-intro
+    - content: The CIE system of physical photometry
+      type: title-main
+    - content: Photometry - The CIE system of physical photometry
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-iso-dis-23539-2021?product_id=2246149
+    docidentifier:
+    - content: CIE ISO DIS 23539:2021
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '2022-01-01'
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,105 @@
+---
+id: CIEx048OP55
+schema_version: v1.5.6
+type: standard
+title:
+- content: KEEPING THE BENEFIT OF ILMDs HIGH RESOLUTION IN MEASURING LIGHTING QUALITY
+    PARAMETERS
+  type: title-main
+- content: KEEPING THE BENEFIT OF ILMDs HIGH RESOLUTION IN MEASURING LIGHTING QUALITY
+    PARAMETERS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op55?product_id=2240807
+docidentifier:
+- content: CIE x048-OP55
+  type: CIE
+  primary: true
+docnumber: x048-OP55
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      surname:
+        language: en
+        script: Latn
+        content: Boucher
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Buschmann
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Greffier
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      surname:
+        language: en
+        script: Latn
+        content: Muzet
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Voelker
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

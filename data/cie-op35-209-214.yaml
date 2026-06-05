@@ -1,0 +1,96 @@
+---
+id: CIEOP35209214
+schema_version: v1.5.6
+type: standard
+title:
+- content: MODELLING BRIGHTNESS IN TERMS OF ROD, S-CONE AND IPRGC SIGNALS BASED ON
+    A NEW VISUAL EXPERIMENT (OP35, 209-214)
+  type: title-main
+- content: MODELLING BRIGHTNESS IN TERMS OF ROD, S-CONE AND IPRGC SIGNALS BASED ON
+    A NEW VISUAL EXPERIMENT (OP35, 209-214)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/modelling-brightness-in-terms-of-rod-s-cone-and-iprgc-signals-based-on-a-new-visual-experiment-op35-209-214?product_id=2016245
+docidentifier:
+- content: CIE OP35 209-214
+  type: CIE
+  primary: true
+docnumber: OP35 209-214
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Bodrogi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: X
+      surname:
+        language: en
+        script: Latn
+        content: Guo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Carella
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      - language: en
+        script: Latn
+        initial: Q
+      surname:
+        language: en
+        script: Latn
+        content: Khanh
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

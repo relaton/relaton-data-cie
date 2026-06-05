@@ -1,0 +1,141 @@
+---
+id: CIEx043PP08
+schema_version: v1.5.6
+type: standard
+title:
+- content: COLOUR VISUAL EFFECTS OF STEADY STATE EXPERIMENTS IN DIFFERENT THERMAL
+    ENVIRONMENTS AT AN OFFICE TEST SITE (PP08, Pages 208-217)
+  type: title-main
+- content: COLOUR VISUAL EFFECTS OF STEADY STATE EXPERIMENTS IN DIFFERENT THERMAL
+    ENVIRONMENTS AT AN OFFICE TEST SITE (PP08, Pages 208-217)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/colour-visual-effects-of-steady-state-experiments-in-different-thermal-environments-at-an-office-test-site-pp08-pages-208-217?product_id=1941833
+docidentifier:
+- content: CIE x043-PP08
+  type: CIE
+  primary: true
+docnumber: PP08 Pages 208-217
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Yoshida
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Kuno
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Takahashi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Nakayama
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Kato
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Miyaoka
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Noguchi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Nakagawa
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

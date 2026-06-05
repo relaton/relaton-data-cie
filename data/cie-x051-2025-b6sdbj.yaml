@@ -1,0 +1,117 @@
+---
+id: CIEx0512025b6sdbj
+schema_version: v1.5.6
+type: standard
+title:
+- content: COHERENCE OF FLICKER VISIBILITY AND PERCEPTIBILITY THRESHOLD DEFINITIONS
+    BY CIE AND IEC
+  type: title-main
+- content: COHERENCE OF FLICKER VISIBILITY AND PERCEPTIBILITY THRESHOLD DEFINITIONS
+    BY CIE AND IEC
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-b6sdbj?product_id=3039879
+docidentifier:
+- content: CIE x051:2025/b6sdbj
+  type: CIE
+  primary: true
+docnumber: x051:2025/b6sdbj
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Hergesel
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Kukačka
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Drápela
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Meyer
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Stiegler
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Nečásek
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,45 @@
+---
+id: CIE821990
+schema_version: v1.5.6
+type: standard
+title:
+- content: 'History of the CIE: 1913-1988'
+  type: title-main
+- content: 'History of the CIE: 1913-1988'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-82-1990?product_id=1210010
+docidentifier:
+- content: CIE 82-1990
+  type: CIE
+  primary: true
+- content: '9783900734190'
+  type: ISBN
+docnumber: 82-1990
+date:
+- type: published
+  at: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,97 @@
+---
+id: CIEPO6610271035
+schema_version: v1.5.6
+type: standard
+title:
+- content: |-
+    WHITE LED FOR ILLUMINATION OF CHINESE TRADITIONAL LIGHT COLOR PAINTING
+
+     (PO66, 1027-1035)
+  type: title-main
+- content: |-
+    WHITE LED FOR ILLUMINATION OF CHINESE TRADITIONAL LIGHT COLOR PAINTING
+
+     (PO66, 1027-1035)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/white-led-for-illumination-of-chinese-traditional-light-color-painting-po66-1027-1035?product_id=2011215
+docidentifier:
+- content: CIE PO66 1027-1035
+  type: CIE
+  primary: true
+docnumber: PO66 1027-1035
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Dang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Liu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Liu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Yuan
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,79 @@
+---
+id: CIEx048OP24
+schema_version: v1.5.6
+type: standard
+title:
+- content: THE ROLE OF DAYLIGHT IN LIBRARY USERS SEAT PREFERENCES
+  type: title-main
+- content: THE ROLE OF DAYLIGHT IN LIBRARY USERS SEAT PREFERENCES
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-op24?product_id=2240706
+docidentifier:
+- content: CIE x048-OP24
+  type: CIE
+  primary: true
+docnumber: x048-OP24
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Izmir Tunahan
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Altamirano
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Unwin Teji
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

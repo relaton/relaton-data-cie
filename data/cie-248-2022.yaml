@@ -1,0 +1,63 @@
+---
+id: CIE2482022
+schema_version: v1.5.6
+type: standard
+title:
+- content: 'The CIE 2016 Colour Appearance Model for Colour Management Systems: CIECAM16'
+  type: title-main
+- content: 'The CIE 2016 Colour Appearance Model for Colour Management Systems: CIECAM16'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-248-2022?product_id=2252795
+docidentifier:
+- content: CIE 248:2022
+  type: CIE
+  primary: true
+- content: '9783902842947'
+  type: ISBN
+docnumber: 248:2022
+date:
+- type: published
+  at: '2022-03-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+relation:
+- type: updates
+  bibitem:
+    title:
+    - content: 'A colour appearance model for colour management systems: CIECAM02'
+      type: title-main
+    - content: 'A colour appearance model for colour management systems: CIECAM02'
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-159-2004?product_id=1210075
+    docidentifier:
+    - content: CIE 159:2004
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '2004-01-01'
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

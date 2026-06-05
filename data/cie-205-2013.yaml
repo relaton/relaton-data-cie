@@ -1,0 +1,49 @@
+---
+id: CIE2052013
+schema_version: v1.5.6
+type: standard
+title:
+- content: Review of Lighting Quality Measures for Interior Lighting with LED Lighting
+    Systems
+  type: title-main
+- content: Review of Lighting Quality Measures for Interior Lighting with LED Lighting
+    Systems
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-205-2013?product_id=1863637
+docidentifier:
+- content: CIE 205:2013
+  type: CIE
+  primary: true
+- content: '9783902842466'
+  type: ISBN
+docnumber: 205:2013
+date:
+- type: published
+  at: '2013-08-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+edition:
+  content: '1'
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

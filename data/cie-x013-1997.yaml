@@ -1,0 +1,47 @@
+---
+id: CIEx0131997
+schema_version: v1.5.6
+type: standard
+title:
+- content: Proceedings of the CIE LED Symposium '97 on Standard Methods for Specifying
+    and Measuring LED Characteristics
+  type: title-main
+- content: Proceedings of the CIE LED Symposium '97 on Standard Methods for Specifying
+    and Measuring LED Characteristics
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x013-1997?product_id=1210097
+docidentifier:
+- content: CIE x013-1997
+  type: CIE
+  primary: true
+- content: '9783900734855'
+  type: ISBN
+docnumber: x013-1997
+date:
+- type: published
+  at: '1997-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

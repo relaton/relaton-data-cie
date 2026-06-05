@@ -1,0 +1,47 @@
+---
+id: CIEx0342010
+schema_version: v1.5.6
+type: standard
+title:
+- content: Selected Papers of the Light and Lighting Conference with Special Emphasis
+    on LEDs and Solid State Lighting
+  type: title-main
+- content: Selected Papers of the Light and Lighting Conference with Special Emphasis
+    on LEDs and Solid State Lighting
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x034-2010?product_id=1673547
+docidentifier:
+- content: CIE x034:2010
+  type: CIE
+  primary: true
+- content: '9783901906794'
+  type: ISBN
+docnumber: x034:2010
+date:
+- type: published
+  at: '2009-05-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

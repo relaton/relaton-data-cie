@@ -1,0 +1,45 @@
+---
+id: CIE2132014
+schema_version: v1.5.6
+type: standard
+title:
+- content: Guide to Protocols for Describing Lighting
+  type: title-main
+- content: Guide to Protocols for Describing Lighting
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-213-2014?product_id=1882237
+docidentifier:
+- content: CIE 213:2014
+  type: CIE
+  primary: true
+- content: '9783902842527'
+  type: ISBN
+docnumber: 213:2014
+date:
+- type: published
+  at: '2014'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

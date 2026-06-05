@@ -1,0 +1,103 @@
+---
+id: CIEx05120258n5496
+schema_version: v1.5.6
+type: standard
+title:
+- content: MODELLING SOLAR DISABILITY GLARE REFLECTED FROM MODERN BUILDING FACADES
+  type: title-main
+- content: MODELLING SOLAR DISABILITY GLARE REFLECTED FROM MODERN BUILDING FACADES
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-8n5496?product_id=3039152
+docidentifier:
+- content: CIE x051:2025/8n5496
+  type: CIE
+  primary: true
+docnumber: x051:2025/8n5496
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Glanville
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Kodali
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Alsailani
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      - language: en
+        script: Latn
+        initial: P
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Neto
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

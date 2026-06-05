@@ -1,0 +1,81 @@
+---
+id: CIEx05120253wcf2g
+schema_version: v1.5.6
+type: standard
+title:
+- content: 'CLOSED-LOOP PROPORTIONAL DAYLIGHT-LINKED CONTROL SYSTEMS: HOW TO CALIBRATE
+    THEM FOR INTEGRATIVE LIGHTING PURPOSES?'
+  type: title-main
+- content: 'CLOSED-LOOP PROPORTIONAL DAYLIGHT-LINKED CONTROL SYSTEMS: HOW TO CALIBRATE
+    THEM FOR INTEGRATIVE LIGHTING PURPOSES?'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-3wcf2g?product_id=3039587
+docidentifier:
+- content: CIE x051:2025/3wcf2g
+  type: CIE
+  primary: true
+docnumber: x051:2025/3wcf2g
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Bellia
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Diglio
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      surname:
+        language: en
+        script: Latn
+        content: Fragliasso
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

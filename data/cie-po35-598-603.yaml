@@ -1,0 +1,105 @@
+---
+id: CIEPO35598603
+schema_version: v1.5.6
+type: standard
+title:
+- content: COMPARISON OF PHYSIOLOGICAL RESPONSE BETWEEN LED AND OLED DURING TASK EXECUTION
+    (PO35, 598-603)
+  type: title-main
+- content: COMPARISON OF PHYSIOLOGICAL RESPONSE BETWEEN LED AND OLED DURING TASK EXECUTION
+    (PO35, 598-603)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/comparison-of-physiological-response-between-led-and-oled-during-task-execution-po35-598-603?product_id=2016411
+docidentifier:
+- content: CIE PO35 598-603
+  type: CIE
+  primary: true
+docnumber: PO35 598-603
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Otsuka
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Tashiro
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Kawashima
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Nagai
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Yamauchi
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

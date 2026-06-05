@@ -1,0 +1,105 @@
+---
+id: CIEx043PO50
+schema_version: v1.5.6
+type: standard
+title:
+- content: COLORIMETRIC PROPERTIES OF LED ILLUMINATED ROADS STUDIED BY IN-FIELD MEASUREMENTS
+    AND SIMULATIONS (PO50, Pages 470-475)
+  type: title-main
+- content: COLORIMETRIC PROPERTIES OF LED ILLUMINATED ROADS STUDIED BY IN-FIELD MEASUREMENTS
+    AND SIMULATIONS (PO50, Pages 470-475)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/colorimetric-properties-of-led-illuminated-roads-studied-by-in-field-measurements-and-simulations-po50-pages-470-475?product_id=1941873
+docidentifier:
+- content: CIE x043-PO50
+  type: CIE
+  primary: true
+docnumber: PO50 Pages 470-475
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: W
+      surname:
+        language: en
+        script: Latn
+        content: Hsu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Wu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Hung
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

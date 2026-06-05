@@ -1,0 +1,81 @@
+---
+id: CIEx0512025sj3bgj
+schema_version: v1.5.6
+type: standard
+title:
+- content: EXPERIMENTAL INVESTIGATION OF IMAGE REPRODUCTION WITH PERCEPTUAL GLOSS
+    EQUIVALENT TO REAL GLASS, METAL, AND STONE
+  type: title-main
+- content: EXPERIMENTAL INVESTIGATION OF IMAGE REPRODUCTION WITH PERCEPTUAL GLOSS
+    EQUIVALENT TO REAL GLASS, METAL, AND STONE
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-sj3bgj?product_id=3040022
+docidentifier:
+- content: CIE x051:2025/sj3bgj
+  type: CIE
+  primary: true
+docnumber: x051:2025/sj3bgj
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Tanaka
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Ajiki
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Horiuchi
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,120 @@
+---
+id: CIEPP03247251
+schema_version: v1.5.6
+type: standard
+title:
+- content: THE OPTIMIZATION OF A SMALL OFFICE LIGHTING BASED ON THE DYNAMIC TAGUCHI
+    METHOD (PP03, 247-251)
+  type: title-main
+- content: THE OPTIMIZATION OF A SMALL OFFICE LIGHTING BASED ON THE DYNAMIC TAGUCHI
+    METHOD (PP03, 247-251)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/the-optimization-of-a-small-office-lighting-based-on-the-dynamic-taguchi-method-pp03-247-251?product_id=2016250
+docidentifier:
+- content: CIE PP03 247-251
+  type: CIE
+  primary: true
+docnumber: PP03 247-251
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Wu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Su
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Chen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Hsieh
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

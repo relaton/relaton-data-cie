@@ -1,0 +1,111 @@
+---
+id: CIEPP20604610
+schema_version: v1.5.6
+type: standard
+title:
+- content: |-
+    EVALUATION OF VISUAL ENVIRONMENT IN AN OFFICE WITH NOVEL LED LIGHT FIXTURES
+
+
+     (PP20, 604-610)
+  type: title-main
+- content: |-
+    EVALUATION OF VISUAL ENVIRONMENT IN AN OFFICE WITH NOVEL LED LIGHT FIXTURES
+
+
+     (PP20, 604-610)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/evaluation-of-visual-environment-in-an-office-with-novel-led-light-fixtures-pp20-604-610?product_id=2011351
+docidentifier:
+- content: CIE PP20 604-610
+  type: CIE
+  primary: true
+docnumber: PP20 604-610
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Shinohara
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Iwata
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Taniguchi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Kaiho
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Ogawa
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

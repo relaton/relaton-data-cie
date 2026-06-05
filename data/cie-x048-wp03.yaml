@@ -1,0 +1,105 @@
+---
+id: CIEx048WP03
+schema_version: v1.5.6
+type: standard
+title:
+- content: GENERAL V MISMATCH INDEX
+  type: title-intro
+- content: HISTORY, CURRENT STATE, NEW IDEAS
+  type: title-main
+- content: GENERAL V MISMATCH INDEX - HISTORY, CURRENT STATE, NEW IDEAS
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x048-wp03?product_id=2240871
+docidentifier:
+- content: CIE x048-WP03
+  type: CIE
+  primary: true
+docnumber: x048-WP03
+date:
+- type: published
+  at: '2021-09-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: U
+      surname:
+        language: en
+        script: Latn
+        content: Krüger
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Ferrero
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Thorseth
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      surname:
+        language: en
+        script: Latn
+        content: Mantela
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Sperling
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,82 @@
+---
+id: CIEISO1166412019
+schema_version: v1.5.6
+type: standard
+title:
+- content: Colorimetry
+  type: title-main
+- content: 'Part 1: CIE standard colorimetric observers'
+  type: title-part
+- content: 'Colorimetry - Part 1: CIE standard colorimetric observers'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-iso-11664-1-2019?product_id=2078731
+docidentifier:
+- content: CIE ISO 11664-1:2019
+  type: CIE
+  primary: true
+docnumber: 11664-1:2019
+date:
+- type: published
+  at: '2019-06-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+relation:
+- type: updates
+  bibitem:
+    title:
+    - content: Colorimetry
+      type: title-main
+    - content: 'Part 1: CIE standard colorimetric observers'
+      type: title-part
+    - content: 'Colorimetry - Part 1: CIE standard colorimetric observers'
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-014-1-e-2006-iso-11664-1-2007-e?product_id=1601625
+    docidentifier:
+    - content: CIE S 014-1/E:2006 (ISO 11664-1:2007(E))
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '2008-11-01'
+- type: updates
+  bibitem:
+    title:
+    - content: CIE standard colorimetric observers
+      type: title-main
+    - content: CIE standard colorimetric observers
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-014-1-e-2006-iso-10527-2007-e?product_id=1529645
+    docidentifier:
+    - content: CIE S 014-1/E:2006 (ISO 10527:2007(E))
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '2007-10-15'
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

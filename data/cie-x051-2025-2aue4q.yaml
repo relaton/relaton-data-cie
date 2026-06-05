@@ -1,0 +1,117 @@
+---
+id: CIEx05120252aue4q
+schema_version: v1.5.6
+type: standard
+title:
+- content: DEVELOPMENT AND VERIFICATION OF A LIGHTING CONTROL SYSTEM IN A LOW-TRAFFIC
+    TUNNEL
+  type: title-main
+- content: DEVELOPMENT AND VERIFICATION OF A LIGHTING CONTROL SYSTEM IN A LOW-TRAFFIC
+    TUNNEL
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-2aue4q?product_id=3039581
+docidentifier:
+- content: CIE x051:2025/2aue4q
+  type: CIE
+  primary: true
+docnumber: x051:2025/2aue4q
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Abiko
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Todo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Sagane
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Kuniyoshi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Sugawara
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Kurokawa
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

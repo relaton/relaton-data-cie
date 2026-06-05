@@ -1,0 +1,124 @@
+---
+id: CIEPO10811931199
+schema_version: v1.5.6
+type: standard
+title:
+- content: |-
+    IMPROVED SYSTEM AND METHOD FOR ILLUMINATION AND VENTILATION OF AN OPERATING ROOM
+
+     (PO108, 1193-1199)
+  type: title-main
+- content: |-
+    IMPROVED SYSTEM AND METHOD FOR ILLUMINATION AND VENTILATION OF AN OPERATING ROOM
+
+     (PO108, 1193-1199)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/improved-system-and-method-for-illumination-and-ventilation-of-an-operating-room-po108-1193-1199?product_id=2011258
+docidentifier:
+- content: CIE PO108 1193-1199
+  type: CIE
+  primary: true
+docnumber: PO108 1193-1199
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Jacobs
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Van Gaever
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Hanselaer
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Vanlanduit
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Rombauts
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Diltoer
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

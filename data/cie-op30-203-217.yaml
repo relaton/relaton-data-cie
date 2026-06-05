@@ -1,0 +1,93 @@
+---
+id: CIEOP30203217
+schema_version: v1.5.6
+type: standard
+title:
+- content: DETERMINATION OF STRAY-LIGHT AND INTERREFLECTION  AT A TABLE-TOP NEAR-FIELD
+    GONIOPHOTOMETER (OP30, 203-217)
+  type: title-main
+- content: DETERMINATION OF STRAY-LIGHT AND INTERREFLECTION  AT A TABLE-TOP NEAR-FIELD
+    GONIOPHOTOMETER (OP30, 203-217)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/determination-of-stray-light-and-interreflection-at-a-table-top-near-field-goniophotometer-op30-203-217?product_id=2010471
+docidentifier:
+- content: CIE OP30 203-217
+  type: CIE
+  primary: true
+docnumber: OP30 203-217
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Ledig
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Bizjak
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Gerloff
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Sperling
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

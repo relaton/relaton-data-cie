@@ -1,0 +1,102 @@
+---
+id: CIEx0512025ne9arm
+schema_version: v1.5.6
+type: standard
+title:
+- content: 'DAYLIGHT REQUIREMENTS AND METRICS IN PRACTICE: A CLIMATIC ANALYSIS OF
+    CURRENT CRITERIA'
+  type: title-main
+- content: 'DAYLIGHT REQUIREMENTS AND METRICS IN PRACTICE: A CLIMATIC ANALYSIS OF
+    CURRENT CRITERIA'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x051-2025-ne9arm?product_id=3039925
+docidentifier:
+- content: CIE x051:2025/ne9arm
+  type: CIE
+  primary: true
+docnumber: x051:2025/ne9arm
+date:
+- type: published
+  at: '2025-11-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Pinheiro
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: "N"
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Amorim
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Sokół
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Martyniuk-Pęczek
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

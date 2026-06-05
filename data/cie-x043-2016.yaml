@@ -1,0 +1,45 @@
+---
+id: CIEx0432016
+schema_version: v1.5.6
+type: standard
+title:
+- content: Proceedings of the 4th CIE Expert Symposium on Colour and Visual Appearance
+  type: title-main
+- content: Proceedings of the 4th CIE Expert Symposium on Colour and Visual Appearance
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x043-2016?product_id=1928699
+docidentifier:
+- content: CIE x043:2016
+  type: CIE
+  primary: true
+- content: '9783902842596'
+  type: ISBN
+docnumber: x043:2016
+date:
+- type: published
+  at: '2016-09-07'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

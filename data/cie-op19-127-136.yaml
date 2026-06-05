@@ -1,0 +1,71 @@
+---
+id: CIEOP19127136
+schema_version: v1.5.6
+type: standard
+title:
+- content: |-
+    NIGHT-TIME VISIBILITY OF ROAD SIGNS WITH MODERN HEADLAMPS
+     (OP19, 127-136)
+  type: title-main
+- content: |-
+    NIGHT-TIME VISIBILITY OF ROAD SIGNS WITH MODERN HEADLAMPS
+     (OP19, 127-136)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/night-time-visibility-of-road-signs-with-modern-headlamps-op19-127-136?product_id=2010429
+docidentifier:
+- content: CIE OP19 127-136
+  type: CIE
+  primary: true
+docnumber: OP19 127-136
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Nilsson Tengelin
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Kallberg
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -1,0 +1,103 @@
+---
+id: CIEx050PO115
+schema_version: v1.5.6
+type: standard
+title:
+- content: A STUDY ON RELAXATION AND REFRESHMENT DURING SELF-SEAT BREAKS IN OFFICES
+  type: title-main
+- content: A STUDY ON RELAXATION AND REFRESHMENT DURING SELF-SEAT BREAKS IN OFFICES
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-po115?product_id=2579149
+docidentifier:
+- content: CIE x050-PO115
+  type: CIE
+  primary: true
+docnumber: x050-PO115
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Kato
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Yu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Akita
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Hirate
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Sano
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie
