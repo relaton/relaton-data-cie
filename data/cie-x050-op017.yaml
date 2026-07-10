@@ -2,6 +2,11 @@
 id: CIEx050OP017
 schema_version: v1.5.6
 type: standard
+title:
+- content: LIGHTING HYGIENE, MELANOPIC DAYLIGHT EFFICACY RATIOS AND ENERGY EFFICIENCY
+  type: title-main
+- content: LIGHTING HYGIENE, MELANOPIC DAYLIGHT EFFICACY RATIOS AND ENERGY EFFICIENCY
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-op017?product_id=2578610
@@ -10,7 +15,34 @@ docidentifier:
   type: CIE
   primary: true
 docnumber: x050-OP017
+date:
+- type: published
+  at: '2023-12-29'
 contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Price
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Schlangen
 - role:
   - type: publisher
   organization:
@@ -24,6 +56,10 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:
