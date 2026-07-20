@@ -5,3 +5,27 @@ This repository is used by Relaton-CIE to represent known publications.
 Data is stored in Relaton YAML format.
 
 This repository contains a crawler script which runs daly. The script parses site https://www.techstreet.com/cie/searches/31156444 and store documents into the data directory.
+
+== Index files
+
+Two search indexes are published alongside the data:
+
+`index-v1.yaml` / `index-v1.zip`:: Legacy flat index (`:id:` is the raw
+docidentifier string). Kept unchanged for existing consumers.
+
+`index-v2.yaml` / `index-v2.zip`:: Structured index whose `:id:` rows are
+`Pubid::Cie::Identifier` maps (`_type: pubid:cie:...`). Consumed by the
+pubid-aware Relaton-CIE read side.
+
+`index-v2` is rebuilt from the local `data/*.yaml` files (no crawl needed) with:
+
+[source,sh]
+----
+bundle exec ruby gen_index.rb
+----
+
+`gen_index.rb` parses each primary docidentifier to a `Pubid::Cie::Identifier`
+using the same parse + round-trip guard as the producer, writes `index-v2.yaml`,
+sanity-loads it (a full-index round-trip), and packages `index-v2.zip`. Any id
+that pubid cannot parse or that will not round-trip through the index is skipped
+and reported. `index-v1.*` is left untouched.
