@@ -1,0 +1,129 @@
+---
+id: CIEPO26544551
+schema_version: v1.5.6
+type: standard
+title:
+- content: DUAL-BAND VIDEO-BASED MEASUREMENT FOR NONCONTACT PULSE RATE ESTIMATION
+    IN INFRARED (PO26, 544-551)
+  type: title-main
+- content: DUAL-BAND VIDEO-BASED MEASUREMENT FOR NONCONTACT PULSE RATE ESTIMATION
+    IN INFRARED (PO26, 544-551)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/dual-band-video-based-measurement-for-noncontact-pulse-rate-estimation-in-infrared-po26-544-551?product_id=2016303
+docidentifier:
+- content: CIE PO26 544-551
+  type: CIE
+  primary: true
+docnumber: PO26 544-551
+date:
+- type: published
+  at: '2018-05-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Mitsuhashi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Okada
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Kurita
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Kagawa
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Kawahito
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Koopipat
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Tsumura
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie
