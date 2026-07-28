@@ -36,24 +36,6 @@ abstract:
 - language: en
   script: Latn
   content: This document is a set or collection of related documents
-relation:
-- type: updates
-  bibitem:
-    title:
-    - content: Photobiological safety of lamps and lamp systems (bilingual edition)
-      type: title-main
-    - content: Photobiological safety of lamps and lamp systems (bilingual edition)
-      type: main
-    source:
-    - type: src
-      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-009-2002-iec-62471-2006?product_id=1519485
-    docidentifier:
-    - content: CIE S 009:2002/IEC 62471:2006
-      type: CIE
-      primary: true
-    date:
-    - type: published
-      at: '2006-07-01'
 ext:
   schema_version: v1.0.0
   doctype:

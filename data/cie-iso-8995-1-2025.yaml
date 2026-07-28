@@ -42,27 +42,6 @@ abstract:
 - language: en
   script: Latn
   content: This document is a set or collection of related documents
-relation:
-- type: updates
-  bibitem:
-    title:
-    - content: Lighting of work places
-      type: title-main
-    - content: 'Part 1: Indoor [incl. Technical Corrigendum ISO 8995:2002/Cor.1:2005(E)]'
-      type: title-part
-    - content: 'Lighting of work places - Part 1: Indoor [incl. Technical Corrigendum
-        ISO 8995:2002/Cor.1:2005(E)]'
-      type: main
-    source:
-    - type: src
-      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-008-e-2001-iso-8995-1-2002-e?product_id=1529685
-    docidentifier:
-    - content: CIE S 008/E:2001 (ISO 8995-1:2002(E))
-      type: CIE
-      primary: true
-    date:
-    - type: published
-      at: '2002-05-15'
 ext:
   schema_version: v1.0.0
   doctype:

@@ -54,23 +54,6 @@ relation:
     date:
     - type: published
       at: '1999-12-15'
-- type: updates
-  bibitem:
-    title:
-    - content: Erythemale Referenzwirkungsfunktion und standardisierte Erythemdosis
-      type: title-main
-    - content: Erythemale Referenzwirkungsfunktion und standardisierte Erythemdosis
-      type: main
-    source:
-    - type: src
-      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-007-g-1998?product_id=1210114
-    docidentifier:
-    - content: CIE S 007/G-1998
-      type: CIE
-      primary: true
-    date:
-    - type: published
-      at: '1998-01-01'
 ext:
   schema_version: v1.0.0
   doctype:
