@@ -1,23 +1,25 @@
 ---
-id: CIEOP17100105
+id: CIEx0512025ewhkhj
 schema_version: v1.5.6
 type: standard
 title:
-- content: PEDESTRIANS SUPPORT SYSTEM USING VISIBLE LIGHT COMMUNICATION (OP17, 100-105)
+- content: COMPARATIVE EVALUATION OF CIE SPECTRAL LUMINOUS EFFICIENCY FUNCTIONS USING
+    LED-BASED BRIGHTNESS AND COLOUR MATCHES
   type: title-main
-- content: PEDESTRIANS SUPPORT SYSTEM USING VISIBLE LIGHT COMMUNICATION (OP17, 100-105)
+- content: COMPARATIVE EVALUATION OF CIE SPECTRAL LUMINOUS EFFICIENCY FUNCTIONS USING
+    LED-BASED BRIGHTNESS AND COLOUR MATCHES
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/pedestrians-support-system-using-visible-light-communication-op17-100-105?product_id=2016231
+  content: https://store.accuristech.com/standards/cie-x051-2025-ewhkhj?product_id=3039900
 docidentifier:
-- content: CIE OP17 100-105
+- content: CIE x051:2025/ewhkhj
   type: CIE
   primary: true
-docnumber: OP17 100-105
+docnumber: x051:2025/ewhkhj
 date:
 - type: published
-  at: '2018-05-01'
+  at: '2025-11-01'
 contributor:
 - role:
   - type: author
@@ -26,11 +28,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: S
+        initial: J
       surname:
         language: en
         script: Latn
-        content: Kitaguchi
+        content: Li
 - role:
   - type: author
   person:
@@ -42,31 +44,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Kitani
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: S
-      surname:
-        language: en
-        script: Latn
-        content: Oshiba
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: K
-      surname:
-        language: en
-        script: Latn
-        content: Morimoto
+        content: Ohno
 - role:
   - type: publisher
   organization:

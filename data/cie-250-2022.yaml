@@ -3,9 +3,9 @@ id: CIE2502022
 schema_version: v1.5.6
 type: standard
 title:
-- content: Spectroradiometric measurement of optical radiation sources
+- content: Spectroradiometric Measurement of Optical Radiation Sources
   type: title-main
-- content: Spectroradiometric measurement of optical radiation sources
+- content: Spectroradiometric Measurement of Optical Radiation Sources
   type: main
 source:
 - type: src
@@ -17,6 +17,9 @@ docidentifier:
 - content: '9783902842237'
   type: ISBN
 docnumber: 250:2022
+date:
+- type: published
+  at: '2022'
 contributor:
 - role:
   - type: publisher

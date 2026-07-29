@@ -38,26 +38,6 @@ abstract:
 - language: en
   script: Latn
   content: This document is a set or collection of related documents
-relation:
-- type: updates
-  bibitem:
-    title:
-    - content: Photometry of road illumination devices, light signalling devices and
-        retroreflective devices for road vehicles (Draft)
-      type: title-main
-    - content: Photometry of road illumination devices, light signalling devices and
-        retroreflective devices for road vehicles (Draft)
-      type: main
-    source:
-    - type: src
-      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-dis-027-2021?product_id=2243755
-    docidentifier:
-    - content: CIE DIS 027:2021
-      type: CIE
-      primary: true
-    date:
-    - type: published
-      at: '2021-12-01'
 ext:
   schema_version: v1.0.0
   doctype:

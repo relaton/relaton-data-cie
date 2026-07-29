@@ -1,0 +1,132 @@
+---
+id: CIEx043PO34
+schema_version: v1.5.6
+type: standard
+title:
+- content: CORRELATIONS BETWEEN CONCENTRATION OF EFFECT PIGMENTS, OPTICAL MEASUREMENTS
+    AND VISUAL ASSESSMENT OF SPARKLE (PO34, Pages 351-356)
+  type: title-main
+- content: CORRELATIONS BETWEEN CONCENTRATION OF EFFECT PIGMENTS, OPTICAL MEASUREMENTS
+    AND VISUAL ASSESSMENT OF SPARKLE (PO34, Pages 351-356)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/correlations-between-concentration-of-effect-pigments-optical-measurements-and-visual-assessment-of-sparkle-po34-pages-351-356?product_id=1941856
+docidentifier:
+- content: CIE x043-PO34
+  type: CIE
+  primary: true
+docnumber: PO34 Pages 351-356
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: O
+      surname:
+        language: en
+        script: Latn
+        content: Gomez
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Perales
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Chorro
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: V
+      surname:
+        language: en
+        script: Latn
+        content: Viqueira
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Martinez-Verdu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Ferrero
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Campos
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

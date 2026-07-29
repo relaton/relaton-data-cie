@@ -1,22 +1,20 @@
 ---
-id: CIEx050PO136
+id: CIEx050PO129
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'REFLECTED GLARE ON MUSEUM EXHIBITS WITH DISPLAY CASES: AN EXAMINATION
-    OF A GLARE PREDICTION METHOD BASED ON LUMINANCE DISTRIBUTION'
+- content: PREFERRED LIGHTING FOR UKIYO-E, JAPANESE WOODBLOCK PRINT PAINTINGS
   type: title-main
-- content: 'REFLECTED GLARE ON MUSEUM EXHIBITS WITH DISPLAY CASES: AN EXAMINATION
-    OF A GLARE PREDICTION METHOD BASED ON LUMINANCE DISTRIBUTION'
+- content: PREFERRED LIGHTING FOR UKIYO-E, JAPANESE WOODBLOCK PRINT PAINTINGS
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x050-po136?product_id=2579202
+  content: https://store.accuristech.com/standards/cie-x050-po129?product_id=2579195
 docidentifier:
-- content: CIE x050-PO136
+- content: CIE x050-PO129
   type: CIE
   primary: true
-docnumber: x050-PO136
+docnumber: x050-PO129
 date:
 - type: published
   at: '2023-12-29'
@@ -28,71 +26,47 @@ contributor:
       forename:
       - language: en
         script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Okuda
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Taguchi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Okajima
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
         initial: M
       surname:
         language: en
         script: Latn
-        content: Sagawa
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: A
-      surname:
-        language: en
-        script: Latn
-        content: Maeda
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: "Y"
-      surname:
-        language: en
-        script: Latn
-        content: Mizokami
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: M
-      surname:
-        language: en
-        script: Latn
-        content: Takashima
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: "Y"
-      surname:
-        language: en
-        script: Latn
-        content: Oe
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: "N"
-      surname:
-        language: en
-        script: Latn
-        content: Yoshizawa
+        content: Melgosa
 - role:
   - type: publisher
   organization:

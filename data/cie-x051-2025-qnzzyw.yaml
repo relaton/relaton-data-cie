@@ -1,22 +1,22 @@
 ---
-id: CIEx0512025jg7zbb
+id: CIEx0512025qnzzyw
 schema_version: v1.5.6
 type: standard
 title:
-- content: MODELLING CHANGES OVER TIME IN THE REFLECTIVE PROPERTIES OF DIFFERENT TYPES
-    OF ROAD SURFACES
+- content: 'OPTIMISING BUILDING DESIGN THROUGH WINDOW VIEW ANALYSIS: A CASE STUDY
+    IN GDANSK'
   type: title-main
-- content: MODELLING CHANGES OVER TIME IN THE REFLECTIVE PROPERTIES OF DIFFERENT TYPES
-    OF ROAD SURFACES
+- content: 'OPTIMISING BUILDING DESIGN THROUGH WINDOW VIEW ANALYSIS: A CASE STUDY
+    IN GDANSK'
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x051-2025-jg7zbb?product_id=3039918
+  content: https://store.accuristech.com/standards/cie-x051-2025-qnzzyw?product_id=3040016
 docidentifier:
-- content: CIE x051:2025/jg7zbb
+- content: CIE x051:2025/qnzzyw
   type: CIE
   primary: true
-docnumber: x051:2025/jg7zbb
+docnumber: x051:2025/qnzzyw
 date:
 - type: published
   at: '2025-11-01'
@@ -28,11 +28,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: H
+        initial: M
       surname:
         language: en
         script: Latn
-        content: Mrad
+        content: Scorpio
 - role:
   - type: author
   person:
@@ -40,11 +40,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: V
+        initial: P
       surname:
         language: en
         script: Latn
-        content: Muzet
+        content: Sabet
 - role:
   - type: author
   person:
@@ -52,11 +52,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: F
+        initial: "N"
       surname:
         language: en
         script: Latn
-        content: Greffier
+        content: Sokol
 - role:
   - type: author
   person:
@@ -64,11 +64,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: E
+        initial: G
       surname:
         language: en
         script: Latn
-        content: Saint-Jacques
+        content: Ciampi
 - role:
   - type: author
   person:
@@ -76,11 +76,23 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: R
+        initial: J
       surname:
         language: en
         script: Latn
-        content: Brémond
+        content: Martyniuk-Pęczek
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Sibilio
 - role:
   - type: publisher
   organization:
