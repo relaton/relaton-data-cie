@@ -1,25 +1,25 @@
 ---
-id: CIEx043PO26
+id: CIEPO18492498
 schema_version: v1.5.6
 type: standard
 title:
-- content: THE COMPARISON STUDY OF INSTRUMENTAL COLOUR MEASUREMENT AND VISUAL GRADING
-    OF COTTON FIBER (PO26, Pages 493-500)
+- content: IMPROVEMENT OF THE COLOURFUL UNIFORMITY BY THREE DIFFERENT MEDIUMS OF THE
+    PACKAGING LENS IN THE WHITE LIGHT LED (PO18, 492-498)
   type: title-main
-- content: THE COMPARISON STUDY OF INSTRUMENTAL COLOUR MEASUREMENT AND VISUAL GRADING
-    OF COTTON FIBER (PO26, Pages 493-500)
+- content: IMPROVEMENT OF THE COLOURFUL UNIFORMITY BY THREE DIFFERENT MEDIUMS OF THE
+    PACKAGING LENS IN THE WHITE LIGHT LED (PO18, 492-498)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/the-comparison-study-of-instrumental-colour-measurement-and-visual-grading-of-cotton-fiber-po26-pages-493-500?product_id=1941853
+  content: https://store.accuristech.com/standards/improvement-of-the-colourful-uniformity-by-three-different-mediums-of-the-packaging-lens-in-the-white-light-led-po18-492-498?product_id=2016296
 docidentifier:
-- content: CIE x043-PO26
+- content: CIE PO18 492-498
   type: CIE
   primary: true
-docnumber: PO26 Pages 493-500
+docnumber: PO18 492-498
 date:
 - type: published
-  at: '2016-09-01'
+  at: '2018-05-01'
 contributor:
 - role:
   - type: author
@@ -28,11 +28,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "N"
+        initial: J
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Khan
+        content: Wu
 - role:
   - type: author
   person:
@@ -40,23 +43,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: M
-      surname:
-        language: en
-        script: Latn
-        content: Vik
-- role:
-  - type: author
-  person:
-    name:
-      forename:
+        initial: S
       - language: en
         script: Latn
-        initial: M
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Vikova
+        content: Ma
 - role:
   - type: publisher
   organization:

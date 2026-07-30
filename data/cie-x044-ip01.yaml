@@ -1,26 +1,20 @@
 ---
-id: CIEPO22871876
+id: CIEx044IP01
 schema_version: v1.5.6
 type: standard
 title:
-- content: |-
-    RED ON RED
-
-     (PO22, 871-876)
+- content: CONTENTS DEVELOPMENT FOR OFFICE SMART LIGHTS (IP01, Pages 1-9)
   type: title-main
-- content: |-
-    RED ON RED
-
-     (PO22, 871-876)
+- content: CONTENTS DEVELOPMENT FOR OFFICE SMART LIGHTS (IP01, Pages 1-9)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/red-on-red-po22-871-876?product_id=2011162
+  content: https://store.accuristech.com/standards/contents-development-for-office-smart-lights-ip01-pages-1-9?product_id=2009447
 docidentifier:
-- content: CIE PO22 871-876
+- content: CIE x044-IP01
   type: CIE
   primary: true
-docnumber: PO22 871-876
+docnumber: IP01 Pages 1-9
 date:
 - type: published
   at: '2017-10-23'
@@ -32,11 +26,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: E
+        initial: J
+      - language: en
+        script: Latn
+        initial: K
       surname:
         language: en
         script: Latn
-        content: Hagenlocher
+        content: Ko
 - role:
   - type: author
   person:
@@ -44,11 +41,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: L
+        initial: S
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Smith
+        content: Choi
 - role:
   - type: publisher
   organization:

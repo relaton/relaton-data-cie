@@ -1,27 +1,25 @@
 ---
-id: CIEPO9811571162
+id: CIEx0512025jg7zbb
 schema_version: v1.5.6
 type: standard
 title:
-- content: |-
-    THE SHADING EFFECT CAUSED BY OPAQUE SOLAR PANEL INTEGRATED WITH AGRICULTURAL GREENHOUSE
-     (PO98,1157-1162)
+- content: MODELLING CHANGES OVER TIME IN THE REFLECTIVE PROPERTIES OF DIFFERENT TYPES
+    OF ROAD SURFACES
   type: title-main
-- content: |-
-    THE SHADING EFFECT CAUSED BY OPAQUE SOLAR PANEL INTEGRATED WITH AGRICULTURAL GREENHOUSE
-     (PO98,1157-1162)
+- content: MODELLING CHANGES OVER TIME IN THE REFLECTIVE PROPERTIES OF DIFFERENT TYPES
+    OF ROAD SURFACES
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/the-shading-effect-caused-by-opaque-solar-panel-integrated-with-agricultural-greenhouse-po98-1157-1162?product_id=2011252
+  content: https://store.accuristech.com/standards/cie-x051-2025-jg7zbb?product_id=3039918
 docidentifier:
-- content: CIE PO98 1157-1162
+- content: CIE x051:2025/jg7zbb
   type: CIE
   primary: true
-docnumber: PO98 1157-1162
+docnumber: x051:2025/jg7zbb
 date:
 - type: published
-  at: '2017-10-23'
+  at: '2025-11-01'
 contributor:
 - role:
   - type: author
@@ -30,11 +28,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: L
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Wang
+        content: Mrad
 - role:
   - type: author
   person:
@@ -42,11 +40,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: T
+        initial: V
       surname:
         language: en
         script: Latn
-        content: Li
+        content: Muzet
 - role:
   - type: author
   person:
@@ -54,11 +52,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "Y"
+        initial: F
       surname:
         language: en
         script: Latn
-        content: Zhang
+        content: Greffier
 - role:
   - type: author
   person:
@@ -66,11 +64,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: L
+        initial: E
       surname:
         language: en
         script: Latn
-        content: Yu
+        content: Saint-Jacques
 - role:
   - type: author
   person:
@@ -78,11 +76,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: B
+        initial: R
       surname:
         language: en
         script: Latn
-        content: Yang
+        content: Brémond
 - role:
   - type: publisher
   organization:

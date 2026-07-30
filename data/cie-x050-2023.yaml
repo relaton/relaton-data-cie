@@ -4,10 +4,10 @@ schema_version: v1.5.6
 type: standard
 title:
 - content: Proceedings of the 30th Session of the CIE, Ljubljana, Slovenia, September
-    15 – 23, 2023
+    15 – 23, 2023, Volume 1
   type: title-main
 - content: Proceedings of the 30th Session of the CIE, Ljubljana, Slovenia, September
-    15 – 23, 2023
+    15 – 23, 2023, Volume 1
   type: main
 source:
 - type: src
@@ -16,6 +16,8 @@ docidentifier:
 - content: CIE x050:2023
   type: CIE
   primary: true
+- content: '9783902842770'
+  type: ISBN
 docnumber: x050:2023
 date:
 - type: published
