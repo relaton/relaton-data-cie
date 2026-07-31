@@ -176,17 +176,6 @@
 - :id:
     _type: pubid:cie:standard
     number: '014'
-    part: '6'
-    year: '2013'
-    part_separator: dash
-    s_prefix: true
-    language:
-      code: E
-      format: slash_colon
-  :file: data/cie-s-014-6-e-2013.yaml
-- :id:
-    _type: pubid:cie:standard
-    number: '014'
     part: '3'
     year: '2011'
     part_separator: dash
@@ -196,11 +185,33 @@
       format: slash_colon
   :file: data/cie-s-014-3-e-2011.yaml
 - :id:
+    _type: pubid:cie:standard
+    number: '014'
+    part: '6'
+    year: '2013'
+    part_separator: dash
+    s_prefix: true
+    language:
+      code: E
+      format: slash_colon
+  :file: data/cie-s-014-6-e-2013.yaml
+- :id:
     _type: pubid:cie:conference
     number: '014'
     style: legacy
     year: '1998'
   :file: data/cie-x014-1998.yaml
+- :id:
+    _type: pubid:cie:standard
+    number: '014'
+    part: '6'
+    stage: DS
+    year: '2012'
+    part_separator: dash
+    language:
+      code: E
+      format: slash_colon
+  :file: data/cie-ds-014-6-e-2012.yaml
 - :id:
     _type: pubid:cie:standard
     number: '014'
@@ -313,15 +324,15 @@
 - :id:
     _type: pubid:cie:standard
     number: '018'
-    year: '2019'
-  :file: data/cie-018-2019.yaml
-- :id:
-    _type: pubid:cie:standard
-    number: '018'
     style: legacy
     year: '1983'
     iteration: '2'
   :file: data/cie-018-2-1983.yaml
+- :id:
+    _type: pubid:cie:standard
+    number: '018'
+    year: '2019'
+  :file: data/cie-018-2019.yaml
 - :id:
     _type: pubid:cie:conference
     number: '018'
@@ -410,6 +421,15 @@
     number: '024'
     year: '2002'
   :file: data/cie-x024-2002.yaml
+- :id:
+    _type: pubid:cie:standard
+    number: '024'
+    stage: DIS
+    year: '2015'
+    language:
+      code: E
+      format: slash_colon
+  :file: data/cie-dis-024-e-2015.yaml
 - :id:
     _type: pubid:cie:standard
     number: '024'
@@ -632,6 +652,11 @@
     year: '1980'
   :file: data/cie-048-1980.yaml
 - :id:
+    _type: pubid:cie:conference
+    number: '049'
+    year: '2022'
+  :file: data/cie-x049-2022.yaml
+- :id:
     _type: pubid:cie:standard
     number: '049'
     style: legacy
@@ -651,6 +676,12 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
+    variant: 2gto2r
+  :file: data/cie-x051-2025-2gto2r.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
     variant: 2aue4q
   :file: data/cie-x051-2025-2aue4q.yaml
 - :id:
@@ -659,18 +690,6 @@
     year: '2025'
     variant: 2qtxjh
   :file: data/cie-x051-2025-2qtxjh.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
-    variant: 2gto2r
-  :file: data/cie-x051-2025-2gto2r.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
-    variant: 2un6vp
-  :file: data/cie-x051-2025-2un6vp.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -687,8 +706,20 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
+    variant: 2un6vp
+  :file: data/cie-x051-2025-2un6vp.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
     variant: 3cqtyb
   :file: data/cie-x051-2025-3cqtyb.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: 4co9x8
+  :file: data/cie-x051-2025-4co9x8.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -705,18 +736,6 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: 4co9x8
-  :file: data/cie-x051-2025-4co9x8.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
-    variant: 4hkuqe
-  :file: data/cie-x051-2025-4hkuqe.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
     variant: 54p79z
   :file: data/cie-x051-2025-54p79z.yaml
 - :id:
@@ -725,6 +744,12 @@
     year: '2025'
     variant: 4nq5uj
   :file: data/cie-x051-2025-4nq5uj.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: 4hkuqe
+  :file: data/cie-x051-2025-4hkuqe.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -753,14 +778,20 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: 5xrjhv
-  :file: data/cie-x051-2025-5xrjhv.yaml
+    variant: 5q7vbn
+  :file: data/cie-x051-2025-5q7vbn.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: 5q7vbn
-  :file: data/cie-x051-2025-5q7vbn.yaml
+    variant: 5ygcoe
+  :file: data/cie-x051-2025-5ygcoe.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: 5xrjhv
+  :file: data/cie-x051-2025-5xrjhv.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -801,14 +832,14 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: 74duut
-  :file: data/cie-x051-2025-74duut.yaml
+    variant: 6zzq8k
+  :file: data/cie-x051-2025-6zzq8k.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: 6zzq8k
-  :file: data/cie-x051-2025-6zzq8k.yaml
+    variant: 74duut
+  :file: data/cie-x051-2025-74duut.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -825,20 +856,32 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: 7j9fzu
-  :file: data/cie-x051-2025-7j9fzu.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
     variant: 7qepyc
   :file: data/cie-x051-2025-7qepyc.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
+    variant: 7j9fzu
+  :file: data/cie-x051-2025-7j9fzu.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: 7dcr2b
+  :file: data/cie-x051-2025-7dcr2b.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
     variant: 7qg4y3
   :file: data/cie-x051-2025-7qg4y3.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: 8f63da
+  :file: data/cie-x051-2025-8f63da.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -855,12 +898,6 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: 8f63da
-  :file: data/cie-x051-2025-8f63da.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
     variant: 8b5p9t
   :file: data/cie-x051-2025-8b5p9t.yaml
 - :id:
@@ -869,6 +906,12 @@
     year: '2025'
     variant: 8jk73w
   :file: data/cie-x051-2025-8jk73w.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: 8offjr
+  :file: data/cie-x051-2025-8offjr.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -885,12 +928,6 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: 8offjr
-  :file: data/cie-x051-2025-8offjr.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
     variant: 9be6ag
   :file: data/cie-x051-2025-9be6ag.yaml
 - :id:
@@ -903,26 +940,26 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: a45ehp
-  :file: data/cie-x051-2025-a45ehp.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
     variant: ak4frj
   :file: data/cie-x051-2025-ak4frj.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: b5xzq6
-  :file: data/cie-x051-2025-b5xzq6.yaml
+    variant: a45ehp
+  :file: data/cie-x051-2025-a45ehp.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
     variant: b6sdbj
   :file: data/cie-x051-2025-b6sdbj.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: b5xzq6
+  :file: data/cie-x051-2025-b5xzq6.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -939,24 +976,6 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: bp38fd
-  :file: data/cie-x051-2025-bp38fd.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
-    variant: btun5g
-  :file: data/cie-x051-2025-btun5g.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
-    variant: c3z8qu
-  :file: data/cie-x051-2025-c3z8qu.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
     variant: c78p85
   :file: data/cie-x051-2025-c78p85.yaml
 - :id:
@@ -969,14 +988,14 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: cemvwf
-  :file: data/cie-x051-2025-cemvwf.yaml
+    variant: c3z8qu
+  :file: data/cie-x051-2025-c3z8qu.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: ckaapq
-  :file: data/cie-x051-2025-ckaapq.yaml
+    variant: btun5g
+  :file: data/cie-x051-2025-btun5g.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -987,8 +1006,14 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: cspnmp
-  :file: data/cie-x051-2025-cspnmp.yaml
+    variant: ckaapq
+  :file: data/cie-x051-2025-ckaapq.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: cemvwf
+  :file: data/cie-x051-2025-cemvwf.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -999,14 +1024,8 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: d2twar
-  :file: data/cie-x051-2025-d2twar.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
-    variant: d7qyoe
-  :file: data/cie-x051-2025-d7qyoe.yaml
+    variant: cspnmp
+  :file: data/cie-x051-2025-cspnmp.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -1017,14 +1036,26 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: ddrwb2
-  :file: data/cie-x051-2025-ddrwb2.yaml
+    variant: d7qyoe
+  :file: data/cie-x051-2025-d7qyoe.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: d2twar
+  :file: data/cie-x051-2025-d2twar.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
     variant: dehqjf
   :file: data/cie-x051-2025-dehqjf.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: ddrwb2
+  :file: data/cie-x051-2025-ddrwb2.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -1041,12 +1072,6 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: dytvft
-  :file: data/cie-x051-2025-dytvft.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
     variant: e7t6e3
   :file: data/cie-x051-2025-e7t6e3.yaml
 - :id:
@@ -1059,8 +1084,8 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: ewhkhj
-  :file: data/cie-x051-2025-ewhkhj.yaml
+    variant: dytvft
+  :file: data/cie-x051-2025-dytvft.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -1083,32 +1108,14 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
+    variant: ewhkhj
+  :file: data/cie-x051-2025-ewhkhj.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
     variant: fghpkw
   :file: data/cie-x051-2025-fghpkw.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
-    variant: fmj9a9
-  :file: data/cie-x051-2025-fmj9a9.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
-    variant: fzqpje
-  :file: data/cie-x051-2025-fzqpje.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
-    variant: frmogw
-  :file: data/cie-x051-2025-frmogw.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
-    variant: g3u6hj
-  :file: data/cie-x051-2025-g3u6hj.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -1119,8 +1126,38 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
+    variant: fmj9a9
+  :file: data/cie-x051-2025-fmj9a9.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: frmogw
+  :file: data/cie-x051-2025-frmogw.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: fzqpje
+  :file: data/cie-x051-2025-fzqpje.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: g3u6hj
+  :file: data/cie-x051-2025-g3u6hj.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
     variant: gas3kb
   :file: data/cie-x051-2025-gas3kb.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: gvvpg6
+  :file: data/cie-x051-2025-gvvpg6.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -1137,12 +1174,6 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: hh3bcu
-  :file: data/cie-x051-2025-hh3bcu.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
     variant: hutdy6
   :file: data/cie-x051-2025-hutdy6.yaml
 - :id:
@@ -1155,14 +1186,14 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: j8op8r
-  :file: data/cie-x051-2025-j8op8r.yaml
+    variant: hh3bcu
+  :file: data/cie-x051-2025-hh3bcu.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: jecmou
-  :file: data/cie-x051-2025-jecmou.yaml
+    variant: j8op8r
+  :file: data/cie-x051-2025-j8op8r.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -1179,20 +1210,14 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
+    variant: jecmou
+  :file: data/cie-x051-2025-jecmou.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
     variant: jvo6s2
   :file: data/cie-x051-2025-jvo6s2.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
-    variant: jwgn25
-  :file: data/cie-x051-2025-jwgn25.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
-    variant: kc5z2x
-  :file: data/cie-x051-2025-kc5z2x.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -1203,8 +1228,14 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: kmdmn2
-  :file: data/cie-x051-2025-kmdmn2.yaml
+    variant: kc5z2x
+  :file: data/cie-x051-2025-kc5z2x.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: jwgn25
+  :file: data/cie-x051-2025-jwgn25.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -1215,14 +1246,32 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: kud68b
-  :file: data/cie-x051-2025-kud68b.yaml
+    variant: kprwf9
+  :file: data/cie-x051-2025-kprwf9.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: kmdmn2
+  :file: data/cie-x051-2025-kmdmn2.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
     variant: kr3d33
   :file: data/cie-x051-2025-kr3d33.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: n3cuc4
+  :file: data/cie-x051-2025-n3cuc4.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: kud68b
+  :file: data/cie-x051-2025-kud68b.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -1245,14 +1294,8 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: n3cuc4
-  :file: data/cie-x051-2025-n3cuc4.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
-    variant: o47ms9
-  :file: data/cie-x051-2025-o47ms9.yaml
+    variant: o6w7y7
+  :file: data/cie-x051-2025-o6w7y7.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -1263,8 +1306,14 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: o6w7y7
-  :file: data/cie-x051-2025-o6w7y7.yaml
+    variant: o47ms9
+  :file: data/cie-x051-2025-o47ms9.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: ov45ru
+  :file: data/cie-x051-2025-ov45ru.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -1275,20 +1324,14 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: ot5oru
-  :file: data/cie-x051-2025-ot5oru.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
     variant: ocmn2d
   :file: data/cie-x051-2025-ocmn2d.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: ov45ru
-  :file: data/cie-x051-2025-ov45ru.yaml
+    variant: ot5oru
+  :file: data/cie-x051-2025-ot5oru.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -1317,6 +1360,18 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
+    variant: qpp8oa
+  :file: data/cie-x051-2025-qpp8oa.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: qnzzyw
+  :file: data/cie-x051-2025-qnzzyw.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
     variant: qftavk
   :file: data/cie-x051-2025-qftavk.yaml
 - :id:
@@ -1329,8 +1384,8 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: qpp8oa
-  :file: data/cie-x051-2025-qpp8oa.yaml
+    variant: rjdv5n
+  :file: data/cie-x051-2025-rjdv5n.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -1341,20 +1396,14 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: r2873e
-  :file: data/cie-x051-2025-r2873e.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
-    variant: rjdv5n
-  :file: data/cie-x051-2025-rjdv5n.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
     variant: rjqs5f
   :file: data/cie-x051-2025-rjqs5f.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: r2873e
+  :file: data/cie-x051-2025-r2873e.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -1371,14 +1420,14 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: sj3bgj
-  :file: data/cie-x051-2025-sj3bgj.yaml
+    variant: sm4ekb
+  :file: data/cie-x051-2025-sm4ekb.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: sm4ekb
-  :file: data/cie-x051-2025-sm4ekb.yaml
+    variant: sj3bgj
+  :file: data/cie-x051-2025-sj3bgj.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -1389,14 +1438,14 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: sz5u2w
-  :file: data/cie-x051-2025-sz5u2w.yaml
+    variant: t22ew7
+  :file: data/cie-x051-2025-t22ew7.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: t22ew7
-  :file: data/cie-x051-2025-t22ew7.yaml
+    variant: sz5u2w
+  :file: data/cie-x051-2025-sz5u2w.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -1425,6 +1474,18 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
+    variant: uu43xv
+  :file: data/cie-x051-2025-uu43xv.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: v64zfx
+  :file: data/cie-x051-2025-v64zfx.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
     variant: v2xcgd
   :file: data/cie-x051-2025-v2xcgd.yaml
 - :id:
@@ -1437,26 +1498,8 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: v64zfx
-  :file: data/cie-x051-2025-v64zfx.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
     variant: v6umqq
   :file: data/cie-x051-2025-v6umqq.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
-    variant: vwyd9b
-  :file: data/cie-x051-2025-vwyd9b.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
-    variant: w53ran
-  :file: data/cie-x051-2025-w53ran.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -1467,8 +1510,26 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
+    variant: w53ran
+  :file: data/cie-x051-2025-w53ran.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: vwyd9b
+  :file: data/cie-x051-2025-vwyd9b.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
     variant: x3z2a4
   :file: data/cie-x051-2025-x3z2a4.yaml
+- :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: xz9655
+  :file: data/cie-x051-2025-xz9655.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -1485,12 +1546,6 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: xz9655
-  :file: data/cie-x051-2025-xz9655.yaml
-- :id:
-    _type: pubid:cie:conference
-    number: '051'
-    year: '2025'
     variant: ykeku6
   :file: data/cie-x051-2025-ykeku6.yaml
 - :id:
@@ -1503,14 +1558,14 @@
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: ywvsfy
-  :file: data/cie-x051-2025-ywvsfy.yaml
+    variant: zcunvy
+  :file: data/cie-x051-2025-zcunvy.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
     year: '2025'
-    variant: zcunvy
-  :file: data/cie-x051-2025-zcunvy.yaml
+    variant: ywvsfy
+  :file: data/cie-x051-2025-ywvsfy.yaml
 - :id:
     _type: pubid:cie:conference
     number: '051'
@@ -1761,13 +1816,6 @@
 - :id:
     _type: pubid:cie:joint-published
     number: '11664'
-    part: '2'
-    year: '2022'
-    copublisher: ISO
-  :file: data/cie-iso-11664-2-2022.yaml
-- :id:
-    _type: pubid:cie:joint-published
-    number: '11664'
     part: '3'
     year: '2019'
     copublisher: ISO
@@ -1775,10 +1823,10 @@
 - :id:
     _type: pubid:cie:joint-published
     number: '11664'
-    part: '1'
-    year: '2019'
+    part: '2'
+    year: '2022'
     copublisher: ISO
-  :file: data/cie-iso-11664-1-2019.yaml
+  :file: data/cie-iso-11664-2-2022.yaml
 - :id:
     _type: pubid:cie:joint-published
     number: '11664'
@@ -1786,6 +1834,13 @@
     year: '2019'
     copublisher: ISO
   :file: data/cie-iso-11664-4-2019.yaml
+- :id:
+    _type: pubid:cie:joint-published
+    number: '11664'
+    part: '1'
+    year: '2019'
+    copublisher: ISO
+  :file: data/cie-iso-11664-1-2019.yaml
 - :id:
     _type: pubid:cie:joint-published
     number: '11664'
@@ -1810,18 +1865,18 @@
 - :id:
     _type: pubid:cie:joint-published
     number: '11664'
-    part: '6'
-    year: '2014'
-    copublisher: ISO
-  :file: data/cie-iso-11664-6-2014.yaml
-- :id:
-    _type: pubid:cie:joint-published
-    number: '11664'
     part: '2'
     stage: DIS
     year: '2020'
     copublisher: ISO
   :file: data/cie-iso-dis-11664-2-2020.yaml
+- :id:
+    _type: pubid:cie:joint-published
+    number: '11664'
+    part: '6'
+    year: '2014'
+    copublisher: ISO
+  :file: data/cie-iso-11664-6-2014.yaml
 - :id:
     _type: pubid:cie:standard
     number: '117'
@@ -1936,6 +1991,12 @@
     style: legacy
     year: '2000'
   :file: data/cie-136-2000.yaml
+- :id:
+    _type: pubid:cie:standard
+    number: '137'
+    style: legacy
+    year: '2000'
+  :file: data/cie-137-2000.yaml
 - :id:
     _type: pubid:cie:standard
     number: '138'
@@ -2643,15 +2704,15 @@
 - :id:
     _type: pubid:cie:joint-published
     number: '28077'
-    year: '2024'
-    copublisher: ISO
-  :file: data/cie-iso-28077-2024.yaml
-- :id:
-    _type: pubid:cie:joint-published
-    number: '28077'
     year: '2016'
     copublisher: ISO
   :file: data/cie-iso-28077-2016.yaml
+- :id:
+    _type: pubid:cie:joint-published
+    number: '28077'
+    year: '2024'
+    copublisher: ISO
+  :file: data/cie-iso-28077-2024.yaml
 - :id:
     _type: pubid:cie:joint-published
     number: '3092'
@@ -3396,6 +3457,11 @@
 - :id:
     _type: pubid:cie:proceedings
     number: OP10
+    conference: '043'
+  :file: data/cie-x043-op10.yaml
+- :id:
+    _type: pubid:cie:proceedings
+    number: OP10
     conference: '044'
   :file: data/cie-x044-op10.yaml
 - :id:
@@ -3631,6 +3697,11 @@
 - :id:
     _type: pubid:cie:proceedings
     number: OP23
+    conference: '043'
+  :file: data/cie-x043-op23.yaml
+- :id:
+    _type: pubid:cie:proceedings
+    number: OP23
     page: 158-167
   :file: data/cie-op23-158-167.yaml
 - :id:
@@ -3795,6 +3866,11 @@
   :file: data/cie-op35-246-257.yaml
 - :id:
     _type: pubid:cie:proceedings
+    number: OP35
+    page: 209-214
+  :file: data/cie-op35-209-214.yaml
+- :id:
+    _type: pubid:cie:proceedings
     number: OP36
     page: 215-221
   :file: data/cie-op36-215-221.yaml
@@ -3823,11 +3899,6 @@
     number: OP38
     page: 277-283
   :file: data/cie-op38-277-283.yaml
-- :id:
-    _type: pubid:cie:proceedings
-    number: OP39
-    page: 284-293
-  :file: data/cie-op39-284-293.yaml
 - :id:
     _type: pubid:cie:proceedings
     number: OP40
@@ -4121,6 +4192,11 @@
 - :id:
     _type: pubid:cie:proceedings
     number: PO01
+    page: 806-814
+  :file: data/cie-po01-806-814.yaml
+- :id:
+    _type: pubid:cie:proceedings
+    number: PO01
     page: 404-407
   :file: data/cie-po01-404-407.yaml
 - :id:
@@ -4393,6 +4469,11 @@
     number: PO064
     conference: '050'
   :file: data/cie-x050-po064.yaml
+- :id:
+    _type: pubid:cie:proceedings
+    number: PO065
+    conference: '050'
+  :file: data/cie-x050-po065.yaml
 - :id:
     _type: pubid:cie:proceedings
     number: PO067
@@ -4770,6 +4851,11 @@
   :file: data/cie-po13-472-476.yaml
 - :id:
     _type: pubid:cie:proceedings
+    number: PO13
+    conference: '043'
+  :file: data/cie-x043-po13.yaml
+- :id:
+    _type: pubid:cie:proceedings
     number: PO130
     conference: '050'
   :file: data/cie-x050-po130.yaml
@@ -4970,6 +5056,11 @@
   :file: data/cie-x048-po17.yaml
 - :id:
     _type: pubid:cie:proceedings
+    number: PO17
+    page: 488-491
+  :file: data/cie-po17-488-491.yaml
+- :id:
+    _type: pubid:cie:proceedings
     number: PO170
     conference: '050'
   :file: data/cie-x050-po170.yaml
@@ -5040,6 +5131,16 @@
   :file: data/cie-po21-866-870.yaml
 - :id:
     _type: pubid:cie:proceedings
+    number: PO21
+    conference: '043'
+  :file: data/cie-x043-po21.yaml
+- :id:
+    _type: pubid:cie:proceedings
+    number: PO22
+    page: 871-876
+  :file: data/cie-po22-871-876.yaml
+- :id:
+    _type: pubid:cie:proceedings
     number: PO22
     page: 511-517
   :file: data/cie-po22-511-517.yaml
@@ -5066,13 +5167,28 @@
 - :id:
     _type: pubid:cie:proceedings
     number: PO25
+    page: 534-543
+  :file: data/cie-po25-534-543.yaml
+- :id:
+    _type: pubid:cie:proceedings
+    number: PO25
     page: 892-901
   :file: data/cie-po25-892-901.yaml
 - :id:
     _type: pubid:cie:proceedings
     number: PO26
+    page: 544-551
+  :file: data/cie-po26-544-551.yaml
+- :id:
+    _type: pubid:cie:proceedings
+    number: PO26
     page: 902-912
   :file: data/cie-po26-902-912.yaml
+- :id:
+    _type: pubid:cie:proceedings
+    number: PO26
+    conference: '043'
+  :file: data/cie-x043-po26.yaml
 - :id:
     _type: pubid:cie:proceedings
     number: PO27
@@ -5118,6 +5234,11 @@
     number: PO32
     conference: '048'
   :file: data/cie-x048-po32.yaml
+- :id:
+    _type: pubid:cie:proceedings
+    number: PO32
+    page: 579-583
+  :file: data/cie-po32-579-583.yaml
 - :id:
     _type: pubid:cie:proceedings
     number: PO33
@@ -5320,6 +5441,11 @@
   :file: data/cie-x043-po45.yaml
 - :id:
     _type: pubid:cie:proceedings
+    number: PO45
+    page: 990-996
+  :file: data/cie-po45-990-996.yaml
+- :id:
+    _type: pubid:cie:proceedings
     number: PO46
     conference: '048'
   :file: data/cie-x048-po46.yaml
@@ -5328,6 +5454,11 @@
     number: PO46
     conference: '043'
   :file: data/cie-x043-po46.yaml
+- :id:
+    _type: pubid:cie:proceedings
+    number: PO46
+    page: 997-1006
+  :file: data/cie-po46-997-1006.yaml
 - :id:
     _type: pubid:cie:proceedings
     number: PO47
@@ -5343,6 +5474,11 @@
     number: PO48
     conference: '048'
   :file: data/cie-x048-po48.yaml
+- :id:
+    _type: pubid:cie:proceedings
+    number: PO48
+    conference: '043'
+  :file: data/cie-x043-po48.yaml
 - :id:
     _type: pubid:cie:proceedings
     number: PO49
@@ -5530,6 +5666,11 @@
   :file: data/cie-po97-1151-1156.yaml
 - :id:
     _type: pubid:cie:proceedings
+    number: PO98
+    page: 1157-1162
+  :file: data/cie-po98-1157-1162.yaml
+- :id:
+    _type: pubid:cie:proceedings
     number: PP003
     conference: '050'
   :file: data/cie-x050-pp003.yaml
@@ -5583,6 +5724,11 @@
     number: PP011
     conference: '050'
   :file: data/cie-x050-pp011.yaml
+- :id:
+    _type: pubid:cie:proceedings
+    number: PP016
+    conference: '050'
+  :file: data/cie-x050-pp016.yaml
 - :id:
     _type: pubid:cie:proceedings
     number: PP017
@@ -5656,6 +5802,11 @@
 - :id:
     _type: pubid:cie:proceedings
     number: PP04
+    conference: '043'
+  :file: data/cie-x043-pp04.yaml
+- :id:
+    _type: pubid:cie:proceedings
+    number: PP04
     page: 252-255
   :file: data/cie-pp04-252-255.yaml
 - :id:
@@ -5685,6 +5836,11 @@
   :file: data/cie-x043-pp06.yaml
 - :id:
     _type: pubid:cie:proceedings
+    number: PP06
+    page: 512-521
+  :file: data/cie-pp06-512-521.yaml
+- :id:
+    _type: pubid:cie:proceedings
     number: PP07
     conference: '043'
   :file: data/cie-x043-pp07.yaml
@@ -5706,8 +5862,18 @@
 - :id:
     _type: pubid:cie:proceedings
     number: PP09
+    page: 530-537
+  :file: data/cie-pp09-530-537.yaml
+- :id:
+    _type: pubid:cie:proceedings
+    number: PP09
     page: 284-294
   :file: data/cie-pp09-284-294.yaml
+- :id:
+    _type: pubid:cie:proceedings
+    number: PP09
+    conference: '043'
+  :file: data/cie-x043-pp09.yaml
 - :id:
     _type: pubid:cie:proceedings
     number: PP10
@@ -5753,6 +5919,11 @@
     number: PP15
     page: 330-338
   :file: data/cie-pp15-330-338.yaml
+- :id:
+    _type: pubid:cie:proceedings
+    number: PP16
+    page: 569-579
+  :file: data/cie-pp16-569-579.yaml
 - :id:
     _type: pubid:cie:proceedings
     number: PP16
@@ -5843,6 +6014,11 @@
     number: PP25
     page: 641-648
   :file: data/cie-pp25-641-648.yaml
+- :id:
+    _type: pubid:cie:proceedings
+    number: PP26
+    page: 346-355
+  :file: data/cie-pp26-346-355.yaml
 - :id:
     _type: pubid:cie:proceedings
     number: PP26
@@ -5988,6 +6164,11 @@
     number: WP05
     page: 453-459
   :file: data/cie-wp05-453-459.yaml
+- :id:
+    _type: pubid:cie:proceedings
+    number: WP06
+    page: 460-467
+  :file: data/cie-wp06-460-467.yaml
 - :id:
     _type: pubid:cie:proceedings
     number: WP7

@@ -1,29 +1,25 @@
 ---
-id: CIEOP39284293
+id: CIEx043PO26
 schema_version: v1.5.6
 type: standard
 title:
-- content: |-
-    NEW IMAGE BASED MEASUREMENT METHOD OF REFLECTIVE PROPERTIES OF ROAD SURFACES
-
-     (OP39, 284-293)
+- content: THE COMPARISON STUDY OF INSTRUMENTAL COLOUR MEASUREMENT AND VISUAL GRADING
+    OF COTTON FIBER (PO26, Pages 493-500)
   type: title-main
-- content: |-
-    NEW IMAGE BASED MEASUREMENT METHOD OF REFLECTIVE PROPERTIES OF ROAD SURFACES
-
-     (OP39, 284-293)
+- content: THE COMPARISON STUDY OF INSTRUMENTAL COLOUR MEASUREMENT AND VISUAL GRADING
+    OF COTTON FIBER (PO26, Pages 493-500)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/new-image-based-measurement-method-of-reflective-properties-of-road-surfaces-op39-284-293?product_id=2010482
+  content: https://store.accuristech.com/standards/the-comparison-study-of-instrumental-colour-measurement-and-visual-grading-of-cotton-fiber-po26-pages-493-500?product_id=1941853
 docidentifier:
-- content: CIE OP39 284-293
+- content: CIE x043-PO26
   type: CIE
   primary: true
-docnumber: OP39 284-293
+docnumber: PO26 Pages 493-500
 date:
 - type: published
-  at: '2017-10-23'
+  at: '2016-09-01'
 contributor:
 - role:
   - type: author
@@ -32,11 +28,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: S
+        initial: "N"
       surname:
         language: en
         script: Latn
-        content: Buschmann
+        content: Khan
 - role:
   - type: author
   person:
@@ -44,11 +40,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: J
+        initial: M
       surname:
         language: en
         script: Latn
-        content: Steblau
+        content: Vik
 - role:
   - type: author
   person:
@@ -56,11 +52,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: S
+        initial: M
       surname:
         language: en
         script: Latn
-        content: Volker
+        content: Vikova
 - role:
   - type: publisher
   organization:

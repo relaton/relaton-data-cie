@@ -1,0 +1,67 @@
+---
+id: CIEx043OP23
+schema_version: v1.5.6
+type: standard
+title:
+- content: TEXTURE SPECTRAL SIMILARITY CRITERIA (OP23, Pages 147-154)
+  type: title-main
+- content: TEXTURE SPECTRAL SIMILARITY CRITERIA (OP23, Pages 147-154)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/texture-spectral-similarity-criteria-op23-pages-147-154?product_id=1941825
+docidentifier:
+- content: CIE x043-OP23
+  type: CIE
+  primary: true
+docnumber: OP23 Pages 147-154
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Havlicek
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Haindl
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

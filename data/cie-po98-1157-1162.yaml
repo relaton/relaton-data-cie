@@ -1,25 +1,27 @@
 ---
-id: CIEx0512025bp38fd
+id: CIEPO9811571162
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'EFFECT OF FLUCTUATING EXTERIOR LIGHTING ON IMPRESSION: INFLUENCE OF THE
-    NUMBER OF LUMINAIRES AND INSTALLATION INTERVAL'
+- content: |-
+    THE SHADING EFFECT CAUSED BY OPAQUE SOLAR PANEL INTEGRATED WITH AGRICULTURAL GREENHOUSE
+     (PO98,1157-1162)
   type: title-main
-- content: 'EFFECT OF FLUCTUATING EXTERIOR LIGHTING ON IMPRESSION: INFLUENCE OF THE
-    NUMBER OF LUMINAIRES AND INSTALLATION INTERVAL'
+- content: |-
+    THE SHADING EFFECT CAUSED BY OPAQUE SOLAR PANEL INTEGRATED WITH AGRICULTURAL GREENHOUSE
+     (PO98,1157-1162)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x051-2025-bp38fd?product_id=3039883
+  content: https://store.accuristech.com/standards/the-shading-effect-caused-by-opaque-solar-panel-integrated-with-agricultural-greenhouse-po98-1157-1162?product_id=2011252
 docidentifier:
-- content: CIE x051:2025/bp38fd
+- content: CIE PO98 1157-1162
   type: CIE
   primary: true
-docnumber: x051:2025/bp38fd
+docnumber: PO98 1157-1162
 date:
 - type: published
-  at: '2025-11-01'
+  at: '2017-10-23'
 contributor:
 - role:
   - type: author
@@ -28,35 +30,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: M
+        initial: L
       surname:
         language: en
         script: Latn
-        content: Ikebuchi
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: A
-      surname:
-        language: en
-        script: Latn
-        content: Takei
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: K
-      surname:
-        language: en
-        script: Latn
-        content: Takase
+        content: Wang
 - role:
   - type: author
   person:
@@ -68,7 +46,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Tanaka
+        content: Li
 - role:
   - type: author
   person:
@@ -76,11 +54,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: T
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Uchida
+        content: Zhang
 - role:
   - type: author
   person:
@@ -88,11 +66,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: K
+        initial: L
       surname:
         language: en
         script: Latn
-        content: Mukai
+        content: Yu
 - role:
   - type: author
   person:
@@ -100,11 +78,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "N"
+        initial: B
       surname:
         language: en
         script: Latn
-        content: Yoshizawa
+        content: Yang
 - role:
   - type: publisher
   organization:
