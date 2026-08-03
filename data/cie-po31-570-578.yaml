@@ -1,23 +1,25 @@
 ---
-id: CIEx0512025zzzbeq
+id: CIEPO31570578
 schema_version: v1.5.6
 type: standard
 title:
-- content: LED PHOTOMETRIC MEASUREMENT BASED ON LED STANDARD LAMPS
+- content: PROBLEMS ASSOCIATED WITH THE APPLICATION OF CURRENT STANDARDS ON LIGHT
+    POLLUTION AND NEED FOR IMPROVEMENT (PO31, 570-578)
   type: title-main
-- content: LED PHOTOMETRIC MEASUREMENT BASED ON LED STANDARD LAMPS
+- content: PROBLEMS ASSOCIATED WITH THE APPLICATION OF CURRENT STANDARDS ON LIGHT
+    POLLUTION AND NEED FOR IMPROVEMENT (PO31, 570-578)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x051-2025-zzzbeq?product_id=3040048
+  content: https://store.accuristech.com/standards/problems-associated-with-the-application-of-current-standards-on-light-pollution-and-need-for-improvement-po31-570-578?product_id=2016307
 docidentifier:
-- content: CIE x051:2025/zzzbeq
+- content: CIE PO31 570-578
   type: CIE
   primary: true
-docnumber: x051:2025/zzzbeq
+docnumber: PO31 570-578
 date:
 - type: published
-  at: '2025-11-01'
+  at: '2018-05-01'
 contributor:
 - role:
   - type: author
@@ -26,11 +28,29 @@ contributor:
       forename:
       - language: en
         script: Latn
+        initial: J
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Han
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
         initial: W
       surname:
         language: en
         script: Latn
-        content: Zhao
+        content: Lee
 - role:
   - type: author
   person:
@@ -38,47 +58,30 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: J
+        initial: S
+      - language: en
+        script: Latn
+        initial: S
       surname:
         language: en
         script: Latn
-        content: Yan
+        content: Yoo
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: C
       surname:
         language: en
         script: Latn
-        content: Tang
+        content: Kim
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: H
       surname:
         language: en
         script: Latn
-        content: Liu
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: "Y"
-      surname:
-        language: en
-        script: Latn
-        content: Su
+        content: Hoon
 - role:
   - type: publisher
   organization:

@@ -1,26 +1,28 @@
 ---
-id: CIEPO38950958
+id: CIEPP20604610
 schema_version: v1.5.6
 type: standard
 title:
 - content: |-
-    HOW WOULD A CIE L STANDARD ILLUMINANT AFFECT MEASUREMENT UNCERTAINTY OF FIELD MEASUREMENTS
+    EVALUATION OF VISUAL ENVIRONMENT IN AN OFFICE WITH NOVEL LED LIGHT FIXTURES
 
-     (PO38, 950-958)
+
+     (PP20, 604-610)
   type: title-main
 - content: |-
-    HOW WOULD A CIE L STANDARD ILLUMINANT AFFECT MEASUREMENT UNCERTAINTY OF FIELD MEASUREMENTS
+    EVALUATION OF VISUAL ENVIRONMENT IN AN OFFICE WITH NOVEL LED LIGHT FIXTURES
 
-     (PO38, 950-958)
+
+     (PP20, 604-610)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/how-would-a-cie-l-standard-illuminant-affect-measurement-uncertainty-of-field-measurements-po38-950-958?product_id=2011174
+  content: https://store.accuristech.com/standards/evaluation-of-visual-environment-in-an-office-with-novel-led-light-fixtures-pp20-604-610?product_id=2011351
 docidentifier:
-- content: CIE PO38 950-958
+- content: CIE PP20 604-610
   type: CIE
   primary: true
-docnumber: PO38 950-958
+docnumber: PP20 604-610
 date:
 - type: published
   at: '2017-10-23'
@@ -32,11 +34,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: G
+        initial: "N"
       surname:
         language: en
         script: Latn
-        content: Bizjak
+        content: Shinohara
 - role:
   - type: author
   person:
@@ -44,11 +46,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: G
+        initial: T
       surname:
         language: en
         script: Latn
-        content: Malik
+        content: Iwata
 - role:
   - type: author
   person:
@@ -56,14 +58,35 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: B
+        initial: T
       surname:
         language: en
         script: Latn
-        content: Kobav
+        content: Taniguchi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Kaiho
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Ogawa
 - role:
   - type: publisher
   organization:
