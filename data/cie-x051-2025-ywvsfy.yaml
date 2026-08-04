@@ -1,25 +1,25 @@
 ---
-id: CIEx050PO125
+id: CIEx0512025ywvsfy
 schema_version: v1.5.6
 type: standard
 title:
-- content: IMPACT OF DAYLIGHT CHANGES ON PSYCHOLOGICAL AND PHYSIOLOGICAL ASPECTS OF
-    RESIDENTS IN AN APARTMENT BUILDING
+- content: ABILITY OF COMMON GLARE INDICES TO EVALUATE DISCOMFORT GLARE IN THE PRESENCE
+    OF MULTIPLE ELECTRIC LIGHT SOURCES
   type: title-main
-- content: IMPACT OF DAYLIGHT CHANGES ON PSYCHOLOGICAL AND PHYSIOLOGICAL ASPECTS OF
-    RESIDENTS IN AN APARTMENT BUILDING
+- content: ABILITY OF COMMON GLARE INDICES TO EVALUATE DISCOMFORT GLARE IN THE PRESENCE
+    OF MULTIPLE ELECTRIC LIGHT SOURCES
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x050-po125?product_id=2579191
+  content: https://store.accuristech.com/standards/cie-x051-2025-ywvsfy?product_id=3040045
 docidentifier:
-- content: CIE x050-PO125
+- content: CIE x051:2025/ywvsfy
   type: CIE
   primary: true
-docnumber: x050-PO125
+docnumber: x051:2025/ywvsfy
 date:
 - type: published
-  at: '2023-12-29'
+  at: '2025-11-01'
 contributor:
 - role:
   - type: author
@@ -28,11 +28,17 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: E
+        initial: B
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: L
       surname:
         language: en
         script: Latn
-        content: Murayama
+        content: Yuen
 - role:
   - type: author
   person:
@@ -44,7 +50,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Heo
+        content: Wienold
 - role:
   - type: author
   person:
@@ -52,23 +58,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: H
+        initial: M
       surname:
         language: en
         script: Latn
-        content: Kubo
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: S
-      surname:
-        language: en
-        script: Latn
-        content: Yoshida
+        content: Andersen
 - role:
   - type: publisher
   organization:

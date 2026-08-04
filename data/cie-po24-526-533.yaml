@@ -1,62 +1,26 @@
 ---
-id: CIEx0512025mrvwkq
+id: CIEPO24526533
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'LIMITING THE IMPACT OF LIGHTING AT NIGHT ON BIODIVERSITY: A MULTI-EXPERTISE
-    METHODOLOGY FOR ADAPTING LIGHTING TO LOCAL CHALLENGES'
+- content: SMART GARNISH LIGHT/DISPLAY FOR VISUAL ASSISTANCE IN AUTOMOBILE (PO24,
+    526-533)
   type: title-main
-- content: 'LIMITING THE IMPACT OF LIGHTING AT NIGHT ON BIODIVERSITY: A MULTI-EXPERTISE
-    METHODOLOGY FOR ADAPTING LIGHTING TO LOCAL CHALLENGES'
+- content: SMART GARNISH LIGHT/DISPLAY FOR VISUAL ASSISTANCE IN AUTOMOBILE (PO24,
+    526-533)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x051-2025-mrvwkq?product_id=3039168
+  content: https://store.accuristech.com/standards/smart-garnish-light-display-for-visual-assistance-in-automobile-po24-526-533?product_id=2016301
 docidentifier:
-- content: CIE x051:2025/mrvwkq
+- content: CIE PO24 526-533
   type: CIE
   primary: true
-docnumber: x051:2025/mrvwkq
+docnumber: PO24 526-533
 date:
 - type: published
-  at: '2025-11-01'
+  at: '2018-05-01'
 contributor:
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: A
-      surname:
-        language: en
-        script: Latn
-        content: Pharel
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: M
-      surname:
-        language: en
-        script: Latn
-        content: Teklal
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: C
-      surname:
-        language: en
-        script: Latn
-        content: Brabant
 - role:
   - type: author
   person:
@@ -67,19 +31,41 @@ contributor:
         initial: J
       - language: en
         script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Ko
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Choi
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      - language: en
+        script: Latn
         initial: M
       surname:
         language: en
         script: Latn
-        content: Deswert
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Van
+        content: Park
 - role:
   - type: author
   person:
@@ -87,11 +73,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: B
+        initial: J
+      - language: en
+        script: Latn
+        initial: U
       surname:
         language: en
         script: Latn
-        content: Der Wijden
+        content: Park
 - role:
   - type: author
   person:
@@ -99,11 +88,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "N"
+        initial: W
+      - language: en
+        script: Latn
+        initial: K
       surname:
         language: en
         script: Latn
-        content: Brison
+        content: Song
 - role:
   - type: author
   person:
@@ -111,23 +103,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: I
-      surname:
-        language: en
-        script: Latn
-        content: Corten
-- role:
-  - type: author
-  person:
-    name:
-      forename:
+        initial: K
       - language: en
         script: Latn
-        initial: P
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Bel
+        content: Kim
 - role:
   - type: publisher
   organization:

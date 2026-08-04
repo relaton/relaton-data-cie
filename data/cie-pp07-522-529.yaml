@@ -1,28 +1,22 @@
 ---
-id: CIEPO24881891
+id: CIEPP07522529
 schema_version: v1.5.6
 type: standard
 title:
-- content: |-
-    EFFECTS OF MUSEUM ILLUMINATION ON CHINESE TRADITIONAL HEAVY COLOUR PAINTING BASED ON RAMAN SPECTROSCOPY
-
-
-     (PO24, 881-891)
+- content: VISION EXPERIMENT ON CHROMA SATURATION PREFERENCE IN DIFFERENT HUES (PP07,
+    522-529)
   type: title-main
-- content: |-
-    EFFECTS OF MUSEUM ILLUMINATION ON CHINESE TRADITIONAL HEAVY COLOUR PAINTING BASED ON RAMAN SPECTROSCOPY
-
-
-     (PO24, 881-891)
+- content: VISION EXPERIMENT ON CHROMA SATURATION PREFERENCE IN DIFFERENT HUES (PP07,
+    522-529)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/effects-of-museum-illumination-on-chinese-traditional-heavy-colour-painting-based-on-raman-spectroscopy-po24-881-891?product_id=2011164
+  content: https://store.accuristech.com/standards/vision-experiment-on-chroma-saturation-preference-in-different-hues-pp07-522-529?product_id=2011265
 docidentifier:
-- content: CIE PO24 881-891
+- content: CIE PP07 522-529
   type: CIE
   primary: true
-docnumber: PO24 881-891
+docnumber: PP07 522-529
 date:
 - type: published
   at: '2017-10-23'
@@ -34,11 +28,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: R
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Dang
+        content: Ohno
 - role:
   - type: author
   person:
@@ -46,11 +40,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: H
+        initial: S
       surname:
         language: en
         script: Latn
-        content: Tan
+        content: Oh
 - role:
   - type: author
   person:
@@ -58,23 +52,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: D
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Li
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: G
-      surname:
-        language: en
-        script: Latn
-        content: Liu
+        content: Kwak
 - role:
   - type: publisher
   organization:

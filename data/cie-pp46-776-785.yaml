@@ -1,24 +1,24 @@
 ---
-id: CIEPO8911031108
+id: CIEPP46776785
 schema_version: v1.5.6
 type: standard
 title:
 - content: |-
-    IS LIGHTING THE PAVEMENT IMPORTANT?
-     (PO89, 1103-1108)
+    PUPILLARY LIGHT REFLEX AND RECEPTIVE FIELD CALCULATION OF VISUAL DISCOMFORT FOR DIFFERENT SPATIAL FREQUENCIES AND LUMINANCE STEPS
+     (PP46, 776-785)
   type: title-main
 - content: |-
-    IS LIGHTING THE PAVEMENT IMPORTANT?
-     (PO89, 1103-1108)
+    PUPILLARY LIGHT REFLEX AND RECEPTIVE FIELD CALCULATION OF VISUAL DISCOMFORT FOR DIFFERENT SPATIAL FREQUENCIES AND LUMINANCE STEPS
+     (PP46, 776-785)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/is-lighting-the-pavement-important-po89-1103-1108?product_id=2011225
+  content: https://store.accuristech.com/standards/pupillary-light-reflex-and-receptive-field-calculation-of-visual-discomfort-for-different-spatial-frequencies-and-luminance-steps-pp46-776-785?product_id=2011375
 docidentifier:
-- content: CIE PO89 1103-1108
+- content: CIE PP46 776-785
   type: CIE
   primary: true
-docnumber: PO89 1103-1108
+docnumber: PP46 776-785
 date:
 - type: published
   at: '2017-10-23'
@@ -30,23 +30,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: J
-      surname:
-        language: en
-        script: Latn
-        content: Unwin
-- role:
-  - type: author
-  person:
-    name:
-      forename:
+        initial: G
       - language: en
         script: Latn
-        initial: R
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Thomas
+        content: Scheir
 - role:
   - type: author
   person:
@@ -58,7 +49,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Raynham
+        content: Hanselaer
 - role:
   - type: author
   person:
@@ -66,11 +57,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: A
+        initial: W
+      - language: en
+        script: Latn
+        initial: R
       surname:
         language: en
         script: Latn
-        content: Durante
+        content: Ryckaert
 - role:
   - type: publisher
   organization:

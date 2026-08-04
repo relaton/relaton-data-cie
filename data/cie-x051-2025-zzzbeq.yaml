@@ -1,23 +1,23 @@
 ---
-id: CIEOP22150157
+id: CIEx0512025zzzbeq
 schema_version: v1.5.6
 type: standard
 title:
-- content: "ON THE ENERGY EFFICIENCY OF \"SMART\" CONNECTED LIGHTS \n(OP22, 150-157)"
+- content: LED PHOTOMETRIC MEASUREMENT BASED ON LED STANDARD LAMPS
   type: title-main
-- content: "ON THE ENERGY EFFICIENCY OF \"SMART\" CONNECTED LIGHTS \n(OP22, 150-157)"
+- content: LED PHOTOMETRIC MEASUREMENT BASED ON LED STANDARD LAMPS
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/on-the-energy-efficiency-of-smart-connected-lights-op22-150-157?product_id=2010463
+  content: https://store.accuristech.com/standards/cie-x051-2025-zzzbeq?product_id=3040048
 docidentifier:
-- content: CIE OP22 150-157
+- content: CIE x051:2025/zzzbeq
   type: CIE
   primary: true
-docnumber: OP22 150-157
+docnumber: x051:2025/zzzbeq
 date:
 - type: published
-  at: '2017-10-23'
+  at: '2025-11-01'
 contributor:
 - role:
   - type: author
@@ -26,11 +26,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: P
+        initial: W
       surname:
         language: en
         script: Latn
-        content: Boulenguez
+        content: Zhao
 - role:
   - type: author
   person:
@@ -38,23 +38,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: S
+        initial: J
       surname:
         language: en
         script: Latn
-        content: Carre
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: B
-      surname:
-        language: en
-        script: Latn
-        content: Lafitte
+        content: Yan
 - role:
   - type: author
   person:
@@ -66,7 +54,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Martinsons
+        content: Tang
 - role:
   - type: author
   person:
@@ -74,11 +62,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: M
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Perraudeau
+        content: Liu
 - role:
   - type: author
   person:
@@ -86,23 +74,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "N"
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Picard
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: L
-      surname:
-        language: en
-        script: Latn
-        content: Simonot
+        content: Su
 - role:
   - type: publisher
   organization:

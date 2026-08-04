@@ -1,29 +1,25 @@
 ---
-id: CIEWP06460467
+id: CIEx050PO071
 schema_version: v1.5.6
 type: standard
 title:
-- content: |-
-    THE LINK BETWEEN PERCENT FLICKER AND THE FLICKER INDEX PROVIDES A SIMPLE AND POWERFUL TOOL FOR CLASSIFYING THE SAFETY OF MODULATING LIGHT SOURCES
-
-     (WP06, 460-467)
+- content: 'IMPACT OF NATURAL LIGHT PENETRATION ON OCCUPANTS IN UNDERGROUND SPACE:
+    AN FIELD QUASI-EXPERIMENT STUDY'
   type: title-main
-- content: |-
-    THE LINK BETWEEN PERCENT FLICKER AND THE FLICKER INDEX PROVIDES A SIMPLE AND POWERFUL TOOL FOR CLASSIFYING THE SAFETY OF MODULATING LIGHT SOURCES
-
-     (WP06, 460-467)
+- content: 'IMPACT OF NATURAL LIGHT PENETRATION ON OCCUPANTS IN UNDERGROUND SPACE:
+    AN FIELD QUASI-EXPERIMENT STUDY'
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/the-link-between-percent-flicker-and-the-flicker-index-provides-a-simple-and-powerful-tool-for-classifying-the-safety-of-modulating-light-sources-wp06-460-467?product_id=2011383
+  content: https://store.accuristech.com/standards/cie-x050-po071?product_id=2579118
 docidentifier:
-- content: CIE WP06 460-467
+- content: CIE x050-PO071
   type: CIE
   primary: true
-docnumber: WP06 460-467
+docnumber: x050-PO071
 date:
 - type: published
-  at: '2017-10-23'
+  at: '2023-12-29'
 contributor:
 - role:
   - type: author
@@ -32,17 +28,35 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: L
-      - language: en
-        script: Latn
-        initial: L
-      - language: en
-        script: Latn
-        initial: A
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Price
+        content: Su
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: X
+      surname:
+        language: en
+        script: Latn
+        content: Liu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Yang
 - role:
   - type: publisher
   organization:

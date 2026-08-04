@@ -1,25 +1,23 @@
 ---
-id: CIEOP30191200
+id: CIEx05120258n5496
 schema_version: v1.5.6
 type: standard
 title:
-- content: EXPERIENCE OF LIGHT IN COMPARISON WITH RETINAL RESPONSE TO RADIATION (OP30,
-    191-200)
+- content: MODELLING SOLAR DISABILITY GLARE REFLECTED FROM MODERN BUILDING FACADES
   type: title-main
-- content: EXPERIENCE OF LIGHT IN COMPARISON WITH RETINAL RESPONSE TO RADIATION (OP30,
-    191-200)
+- content: MODELLING SOLAR DISABILITY GLARE REFLECTED FROM MODERN BUILDING FACADES
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/experience-of-light-in-comparison-with-retinal-response-to-radiation-op30-191-200?product_id=2016243
+  content: https://store.accuristech.com/standards/cie-x051-2025-8n5496?product_id=3039152
 docidentifier:
-- content: CIE OP30 191-200
+- content: CIE x051:2025/8n5496
   type: CIE
   primary: true
-docnumber: OP30 191-200
+docnumber: x051:2025/8n5496
 date:
 - type: published
-  at: '2018-05-01'
+  at: '2025-11-01'
 contributor:
 - role:
   - type: author
@@ -28,11 +26,14 @@ contributor:
       forename:
       - language: en
         script: Latn
+        initial: M
+      - language: en
+        script: Latn
         initial: J
       surname:
         language: en
         script: Latn
-        content: Enger
+        content: Glanville
 - role:
   - type: author
   person:
@@ -40,11 +41,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: T
+        initial: P
+      - language: en
+        script: Latn
+        initial: R
       surname:
         language: en
         script: Latn
-        content: Laike
+        content: Kodali
 - role:
   - type: author
   person:
@@ -52,11 +56,29 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: K
+        initial: M
       surname:
         language: en
         script: Latn
-        content: Fridell Anter
+        content: Alsailani
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      - language: en
+        script: Latn
+        initial: P
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Neto
 - role:
   - type: publisher
   organization:

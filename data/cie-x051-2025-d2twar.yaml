@@ -1,23 +1,25 @@
 ---
-id: CIEx043PO18
+id: CIEx0512025d2twar
 schema_version: v1.5.6
 type: standard
 title:
-- content: VISUAL EVALUATION OF WHITE SAMPLES NEAR TO CIE LIMITS (PO18, Pages 484-492)
+- content: 'INVESTIGATION OF THE BALANCE BETWEEN WORK SURFACE ILLUMINANCE AND SPATIAL
+    AVERAGE LUMINANCE IN DESK WORKSPACES: A COMPARISON OF YOUNGER AND OLDER ADULTS'
   type: title-main
-- content: VISUAL EVALUATION OF WHITE SAMPLES NEAR TO CIE LIMITS (PO18, Pages 484-492)
+- content: 'INVESTIGATION OF THE BALANCE BETWEEN WORK SURFACE ILLUMINANCE AND SPATIAL
+    AVERAGE LUMINANCE IN DESK WORKSPACES: A COMPARISON OF YOUNGER AND OLDER ADULTS'
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/visual-evaluation-of-white-samples-near-to-cie-limits-po18-pages-484-492?product_id=1941850
+  content: https://store.accuristech.com/standards/cie-x051-2025-d2twar?product_id=3039892
 docidentifier:
-- content: CIE x043-PO18
+- content: CIE x051:2025/d2twar
   type: CIE
   primary: true
-docnumber: PO18 Pages 484-492
+docnumber: x051:2025/d2twar
 date:
 - type: published
-  at: '2016-09-01'
+  at: '2025-11-01'
 contributor:
 - role:
   - type: author
@@ -30,7 +32,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Vik
+        content: Kato
 - role:
   - type: publisher
   organization:

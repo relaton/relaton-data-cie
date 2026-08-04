@@ -1,20 +1,26 @@
 ---
-id: CIEOP21143149
+id: CIEPO7010561064
 schema_version: v1.5.6
 type: standard
 title:
-- content: "COLOUR TRANSITIONS IN ROAD LIGHTING \n(OP21, 143-149)"
+- content: |-
+    MUSEUM LIGHTING WITH LEDS: EVALUATION OF LIGHTING DAMAGE FOR CONTEMPORARY PHOTOGRAPHIC MATERIALS
+
+     (PO70, 1056-1064)
   type: title-main
-- content: "COLOUR TRANSITIONS IN ROAD LIGHTING \n(OP21, 143-149)"
+- content: |-
+    MUSEUM LIGHTING WITH LEDS: EVALUATION OF LIGHTING DAMAGE FOR CONTEMPORARY PHOTOGRAPHIC MATERIALS
+
+     (PO70, 1056-1064)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/colour-transitions-in-road-lighting-op21-143-149?product_id=2010462
+  content: https://store.accuristech.com/standards/museum-lighting-with-leds-evaluation-of-lighting-damage-for-contemporary-photographic-materials-po70-1056-1064?product_id=2011218
 docidentifier:
-- content: CIE OP21 143-149
+- content: CIE PO70 1056-1064
   type: CIE
   primary: true
-docnumber: OP21 143-149
+docnumber: PO70 1056-1064
 date:
 - type: published
   at: '2017-10-23'
@@ -26,35 +32,44 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: R
+        initial: H
       - language: en
         script: Latn
-        initial: P
+        initial: W
       surname:
         language: en
         script: Latn
-        content: Wesselink
+        content: Luo
 - role:
   - type: author
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: I
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: L
       - language: en
         script: Latn
         initial: C
+      - language: en
+        script: Latn
+        initial: J
       surname:
         language: en
         script: Latn
-        content: Vogels
+        content: Chou
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Chen
 - role:
   - type: author
   person:
@@ -65,14 +80,11 @@ contributor:
         initial: M
       - language: en
         script: Latn
-        initial: A
-      - language: en
-        script: Latn
-        initial: H
+        initial: R
       surname:
         language: en
         script: Latn
-        content: Donners
+        content: Luo
 - role:
   - type: publisher
   organization:

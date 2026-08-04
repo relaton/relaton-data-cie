@@ -1,26 +1,26 @@
 ---
-id: CIEPO10511731180
+id: CIEPO38950958
 schema_version: v1.5.6
 type: standard
 title:
 - content: |-
-    RESEARCH ON BLUE LIGHT HAZARD MEASUREMENT METHOD BASED ON ACTUAL LIGHT ENVIRONMENT
+    HOW WOULD A CIE L STANDARD ILLUMINANT AFFECT MEASUREMENT UNCERTAINTY OF FIELD MEASUREMENTS
 
-     (PO105, 1173-1180)
+     (PO38, 950-958)
   type: title-main
 - content: |-
-    RESEARCH ON BLUE LIGHT HAZARD MEASUREMENT METHOD BASED ON ACTUAL LIGHT ENVIRONMENT
+    HOW WOULD A CIE L STANDARD ILLUMINANT AFFECT MEASUREMENT UNCERTAINTY OF FIELD MEASUREMENTS
 
-     (PO105, 1173-1180)
+     (PO38, 950-958)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/research-on-blue-light-hazard-measurement-method-based-on-actual-light-environment-po105-1173-1180?product_id=2011255
+  content: https://store.accuristech.com/standards/how-would-a-cie-l-standard-illuminant-affect-measurement-uncertainty-of-field-measurements-po38-950-958?product_id=2011174
 docidentifier:
-- content: CIE PO105 1173-1180
+- content: CIE PO38 950-958
   type: CIE
   primary: true
-docnumber: PO105 1173-1180
+docnumber: PO38 950-958
 date:
 - type: published
   at: '2017-10-23'
@@ -32,14 +32,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: W
-      - language: en
-        script: Latn
-        initial: H
+        initial: G
       surname:
         language: en
         script: Latn
-        content: Guo
+        content: Bizjak
 - role:
   - type: author
   person:
@@ -47,14 +44,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: S
-      - language: en
-        script: Latn
-        initial: D
+        initial: G
       surname:
         language: en
         script: Latn
-        content: Yuan
+        content: Malik
 - role:
   - type: author
   person:
@@ -62,11 +56,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: T
+        initial: M
+      - language: en
+        script: Latn
+        initial: B
       surname:
         language: en
         script: Latn
-        content: Zhang
+        content: Kobav
 - role:
   - type: publisher
   organization:

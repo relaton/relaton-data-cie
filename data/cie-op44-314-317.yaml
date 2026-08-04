@@ -1,32 +1,28 @@
 ---
-id: CIEx050PO033
+id: CIEOP44314317
 schema_version: v1.5.6
 type: standard
 title:
-- content: FRAMEWORK FOR EVALUATION OF PROCEDURES FOR HDR LUMINANCE IMAGING MEASUREMENTS
+- content: |-
+    THE INFLUENCE OF LED LIGHTING WITH DIFFERENT PROPORTIONS OF BLUE-LIGHT WAVELENGTHS ON HUMANS
+     (OP44, 314-317)
   type: title-main
-- content: FRAMEWORK FOR EVALUATION OF PROCEDURES FOR HDR LUMINANCE IMAGING MEASUREMENTS
+- content: |-
+    THE INFLUENCE OF LED LIGHTING WITH DIFFERENT PROPORTIONS OF BLUE-LIGHT WAVELENGTHS ON HUMANS
+     (OP44, 314-317)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x050-po033?product_id=2578631
+  content: https://store.accuristech.com/standards/the-influence-of-led-lighting-with-different-proportions-of-blue-light-wavelengths-on-humans-op44-314-317?product_id=2010516
 docidentifier:
-- content: CIE x050-PO033
+- content: CIE OP44 314-317
   type: CIE
   primary: true
-docnumber: x050-PO033
+docnumber: OP44 314-317
 date:
 - type: published
-  at: '2023-12-29'
+  at: '2017-10-23'
 contributor:
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Sáez
 - role:
   - type: author
   person:
@@ -34,23 +30,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: A
-      surname:
-        language: en
-        script: Latn
-        content: Á. Ferrero
-- role:
-  - type: author
-  person:
-    name:
-      forename:
+        initial: P
       - language: en
         script: Latn
         initial: J
       surname:
         language: en
         script: Latn
-        content: Ledig
+        content: Wu
 - role:
   - type: author
   person:
@@ -59,70 +46,13 @@ contributor:
       - language: en
         script: Latn
         initial: C
-      surname:
-        language: en
-        script: Latn
-        content: Schrader
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: L
-      surname:
-        language: en
-        script: Latn
-        content: Gevaux
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: A
-      surname:
-        language: en
-        script: Latn
-        content: Dupiau
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: E
-      surname:
-        language: en
-        script: Latn
-        content: Maltezos
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: M
-      surname:
-        language: en
-        script: Latn
-        content: Antonopoulos
-- role:
-  - type: author
-  person:
-    name:
-      forename:
       - language: en
         script: Latn
         initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Rezazadeh
+        content: Tseng
 - role:
   - type: author
   person:
@@ -131,10 +61,40 @@ contributor:
       - language: en
         script: Latn
         initial: C
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Bouroussis
+        content: Chen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Luo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Lin
 - role:
   - type: publisher
   organization:
