@@ -1,23 +1,23 @@
 ---
-id: CIEx050PP017
+id: CIEOP22150157
 schema_version: v1.5.6
 type: standard
 title:
-- content: EVALUATION STRUCTURE ON PREFERENCE OF PAINTING’S APPEARANCE IN MUSEUM LIGHTING
+- content: "ON THE ENERGY EFFICIENCY OF \"SMART\" CONNECTED LIGHTS \n(OP22, 150-157)"
   type: title-main
-- content: EVALUATION STRUCTURE ON PREFERENCE OF PAINTING’S APPEARANCE IN MUSEUM LIGHTING
+- content: "ON THE ENERGY EFFICIENCY OF \"SMART\" CONNECTED LIGHTS \n(OP22, 150-157)"
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x050-pp017?product_id=2579353
+  content: https://store.accuristech.com/standards/on-the-energy-efficiency-of-smart-connected-lights-op22-150-157?product_id=2010463
 docidentifier:
-- content: CIE x050-PP017
+- content: CIE OP22 150-157
   type: CIE
   primary: true
-docnumber: x050-PP017
+docnumber: OP22 150-157
 date:
 - type: published
-  at: '2023-12-29'
+  at: '2017-10-23'
 contributor:
 - role:
   - type: author
@@ -26,11 +26,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "Y"
+        initial: P
       surname:
         language: en
         script: Latn
-        content: Oe
+        content: Boulenguez
 - role:
   - type: author
   person:
@@ -38,11 +38,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: A
+        initial: S
       surname:
         language: en
         script: Latn
-        content: Maeda
+        content: Carre
 - role:
   - type: author
   person:
@@ -50,11 +50,23 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: H
+        initial: B
       surname:
         language: en
         script: Latn
-        content: Nagakoshi
+        content: Lafitte
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Martinsons
 - role:
   - type: author
   person:
@@ -66,19 +78,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Takashima
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: "Y"
-      surname:
-        language: en
-        script: Latn
-        content: Mizokami
+        content: Perraudeau
 - role:
   - type: author
   person:
@@ -90,7 +90,19 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Yoshizawa
+        content: Picard
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Simonot
 - role:
   - type: publisher
   organization:

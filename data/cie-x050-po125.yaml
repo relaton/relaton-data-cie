@@ -1,25 +1,25 @@
 ---
-id: CIEOP34201208
+id: CIEx050PO125
 schema_version: v1.5.6
 type: standard
 title:
-- content: EXPERIMENTAL EVALUATION OF DIFFERENT BRIGHTNESS PERCEPTION MODELS BASED
-    ON HUMAN PUPIL LIGHT RESPONSES (OP34, 201-208)
+- content: IMPACT OF DAYLIGHT CHANGES ON PSYCHOLOGICAL AND PHYSIOLOGICAL ASPECTS OF
+    RESIDENTS IN AN APARTMENT BUILDING
   type: title-main
-- content: EXPERIMENTAL EVALUATION OF DIFFERENT BRIGHTNESS PERCEPTION MODELS BASED
-    ON HUMAN PUPIL LIGHT RESPONSES (OP34, 201-208)
+- content: IMPACT OF DAYLIGHT CHANGES ON PSYCHOLOGICAL AND PHYSIOLOGICAL ASPECTS OF
+    RESIDENTS IN AN APARTMENT BUILDING
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/experimental-evaluation-of-different-brightness-perception-models-based-on-human-pupil-light-responses-op34-201-208?product_id=2016244
+  content: https://store.accuristech.com/standards/cie-x050-po125?product_id=2579191
 docidentifier:
-- content: CIE OP34 201-208
+- content: CIE x050-PO125
   type: CIE
   primary: true
-docnumber: OP34 201-208
+docnumber: x050-PO125
 date:
 - type: published
-  at: '2018-05-01'
+  at: '2023-12-29'
 contributor:
 - role:
   - type: author
@@ -28,11 +28,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: B
+        initial: E
       surname:
         language: en
         script: Latn
-        content: Zandi
+        content: Murayama
 - role:
   - type: author
   person:
@@ -40,11 +40,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: X
+        initial: J
       surname:
         language: en
         script: Latn
-        content: Guo
+        content: Heo
 - role:
   - type: author
   person:
@@ -52,11 +52,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: P
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Bodrogi
+        content: Kubo
 - role:
   - type: author
   person:
@@ -64,14 +64,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: T
-      - language: en
-        script: Latn
-        initial: Q
+        initial: S
       surname:
         language: en
         script: Latn
-        content: Khanh
+        content: Yoshida
 - role:
   - type: publisher
   organization:

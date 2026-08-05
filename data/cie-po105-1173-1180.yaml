@@ -1,26 +1,26 @@
 ---
-id: CIEOP43303313
+id: CIEPO10511731180
 schema_version: v1.5.6
 type: standard
 title:
 - content: |-
-    PRELIMINARY STUDY ON SPECTRAL CHARACTERISTICS FOR IDENTIFICATION OF SKIN COLOUR UNDER CIRCULATORY DYSFUNCTION USING ARTIFICIAL SKIN SAMPLES
+    RESEARCH ON BLUE LIGHT HAZARD MEASUREMENT METHOD BASED ON ACTUAL LIGHT ENVIRONMENT
 
-     (OP43, 303-313)
+     (PO105, 1173-1180)
   type: title-main
 - content: |-
-    PRELIMINARY STUDY ON SPECTRAL CHARACTERISTICS FOR IDENTIFICATION OF SKIN COLOUR UNDER CIRCULATORY DYSFUNCTION USING ARTIFICIAL SKIN SAMPLES
+    RESEARCH ON BLUE LIGHT HAZARD MEASUREMENT METHOD BASED ON ACTUAL LIGHT ENVIRONMENT
 
-     (OP43, 303-313)
+     (PO105, 1173-1180)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/preliminary-study-on-spectral-characteristics-for-identification-of-skin-colour-under-circulatory-dysfunction-using-artificial-skin-samples-op43-303-313?product_id=2010515
+  content: https://store.accuristech.com/standards/research-on-blue-light-hazard-measurement-method-based-on-actual-light-environment-po105-1173-1180?product_id=2011255
 docidentifier:
-- content: CIE OP43 303-313
+- content: CIE PO105 1173-1180
   type: CIE
   primary: true
-docnumber: OP43 303-313
+docnumber: PO105 1173-1180
 date:
 - type: published
   at: '2017-10-23'
@@ -32,11 +32,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "Y"
+        initial: W
+      - language: en
+        script: Latn
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Akizuki
+        content: Guo
 - role:
   - type: author
   person:
@@ -44,11 +47,26 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "Y"
+        initial: S
+      - language: en
+        script: Latn
+        initial: D
       surname:
         language: en
         script: Latn
-        content: Ohno
+        content: Yuan
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Zhang
 - role:
   - type: publisher
   organization:

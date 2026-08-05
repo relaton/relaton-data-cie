@@ -1,23 +1,25 @@
 ---
-id: CIEx0512025kouub2
+id: CIEOP30191200
 schema_version: v1.5.6
 type: standard
 title:
-- content: DEVELOPMENT OF AN EVALUATION METHOD FOR VIEW QUALITY IN OFFICE BUILDINGS
+- content: EXPERIENCE OF LIGHT IN COMPARISON WITH RETINAL RESPONSE TO RADIATION (OP30,
+    191-200)
   type: title-main
-- content: DEVELOPMENT OF AN EVALUATION METHOD FOR VIEW QUALITY IN OFFICE BUILDINGS
+- content: EXPERIENCE OF LIGHT IN COMPARISON WITH RETINAL RESPONSE TO RADIATION (OP30,
+    191-200)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x051-2025-kouub2?product_id=3039164
+  content: https://store.accuristech.com/standards/experience-of-light-in-comparison-with-retinal-response-to-radiation-op30-191-200?product_id=2016243
 docidentifier:
-- content: CIE x051:2025/kouub2
+- content: CIE OP30 191-200
   type: CIE
   primary: true
-docnumber: x051:2025/kouub2
+docnumber: OP30 191-200
 date:
 - type: published
-  at: '2025-11-01'
+  at: '2018-05-01'
 contributor:
 - role:
   - type: author
@@ -26,11 +28,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: C
+        initial: J
       surname:
         language: en
         script: Latn
-        content: Ohki
+        content: Enger
 - role:
   - type: author
   person:
@@ -38,11 +40,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "Y"
+        initial: T
       surname:
         language: en
         script: Latn
-        content: Koga
+        content: Laike
 - role:
   - type: author
   person:
@@ -50,23 +52,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "Y"
+        initial: K
       surname:
         language: en
         script: Latn
-        content: Kojima
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: A
-      surname:
-        language: en
-        script: Latn
-        content: Watanabe
+        content: Fridell Anter
 - role:
   - type: publisher
   organization:

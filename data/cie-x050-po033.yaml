@@ -1,38 +1,32 @@
 ---
-id: CIEx043OP17
+id: CIEx050PO033
 schema_version: v1.5.6
 type: standard
 title:
-- content: PREDICTING CHANGES IN VISUAL APPEARANCE OF PERIODIC SURFACE FROM BRDF MEASUREMENTS
-    (OP17, Pages 103-110)
+- content: FRAMEWORK FOR EVALUATION OF PROCEDURES FOR HDR LUMINANCE IMAGING MEASUREMENTS
   type: title-main
-- content: PREDICTING CHANGES IN VISUAL APPEARANCE OF PERIODIC SURFACE FROM BRDF MEASUREMENTS
-    (OP17, Pages 103-110)
+- content: FRAMEWORK FOR EVALUATION OF PROCEDURES FOR HDR LUMINANCE IMAGING MEASUREMENTS
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/predicting-changes-in-visual-appearance-of-periodic-surface-from-brdf-measurements-op17-pages-103-110?product_id=1941819
+  content: https://store.accuristech.com/standards/cie-x050-po033?product_id=2578631
 docidentifier:
-- content: CIE x043-OP17
+- content: CIE x050-PO033
   type: CIE
   primary: true
-docnumber: OP17 Pages 103-110
+docnumber: x050-PO033
 date:
 - type: published
-  at: '2016-09-01'
+  at: '2023-12-29'
 contributor:
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: C
       surname:
         language: en
         script: Latn
-        content: Turbil
+        content: Sáez
 - role:
   - type: author
   person:
@@ -40,11 +34,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: I
+        initial: A
       surname:
         language: en
         script: Latn
-        content: Gozhyk
+        content: Á. Ferrero
 - role:
   - type: author
   person:
@@ -56,7 +50,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Teisseire
+        content: Ledig
 - role:
   - type: author
   person:
@@ -64,11 +58,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: I
+        initial: C
       surname:
         language: en
         script: Latn
-        content: Simonsen
+        content: Schrader
 - role:
   - type: author
   person:
@@ -76,11 +70,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: G
+        initial: L
       surname:
         language: en
         script: Latn
-        content: Ged
+        content: Gevaux
 - role:
   - type: author
   person:
@@ -88,11 +82,59 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: G
+        initial: A
       surname:
         language: en
         script: Latn
-        content: Obein
+        content: Dupiau
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Maltezos
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Antonopoulos
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Rezazadeh
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Bouroussis
 - role:
   - type: publisher
   organization:

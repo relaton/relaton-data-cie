@@ -1,0 +1,83 @@
+---
+id: CIEx043OP06
+schema_version: v1.5.6
+type: standard
+title:
+- content: POLARIZATION EFFECTS IN DIFFUSE REFLECTANCE MEASUREMENTS
+  type: title-intro
+- content: COMPARISON OF WHITE STANDARDS AND SPECIAL-EFFECT PIGMENT SAMPLES (OP06,
+    Pages 30-39)
+  type: title-main
+- content: POLARIZATION EFFECTS IN DIFFUSE REFLECTANCE MEASUREMENTS - COMPARISON OF
+    WHITE STANDARDS AND SPECIAL-EFFECT PIGMENT SAMPLES (OP06, Pages 30-39)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/polarization-effects-in-diffuse-reflectance-measurements-comparison-of-white-standards-and-special-effect-pigment-samples-op06-pages-30-39?product_id=1941810
+docidentifier:
+- content: CIE x043-OP06
+  type: CIE
+  primary: true
+docnumber: OP06 Pages 30-39
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Quast
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Schirmacher
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Hauer
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

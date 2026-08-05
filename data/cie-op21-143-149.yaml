@@ -1,25 +1,23 @@
 ---
-id: CIEx043PO50
+id: CIEOP21143149
 schema_version: v1.5.6
 type: standard
 title:
-- content: COLORIMETRIC PROPERTIES OF LED ILLUMINATED ROADS STUDIED BY IN-FIELD MEASUREMENTS
-    AND SIMULATIONS (PO50, Pages 470-475)
+- content: "COLOUR TRANSITIONS IN ROAD LIGHTING \n(OP21, 143-149)"
   type: title-main
-- content: COLORIMETRIC PROPERTIES OF LED ILLUMINATED ROADS STUDIED BY IN-FIELD MEASUREMENTS
-    AND SIMULATIONS (PO50, Pages 470-475)
+- content: "COLOUR TRANSITIONS IN ROAD LIGHTING \n(OP21, 143-149)"
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/colorimetric-properties-of-led-illuminated-roads-studied-by-in-field-measurements-and-simulations-po50-pages-470-475?product_id=1941873
+  content: https://store.accuristech.com/standards/colour-transitions-in-road-lighting-op21-143-149?product_id=2010462
 docidentifier:
-- content: CIE x043-PO50
+- content: CIE OP21 143-149
   type: CIE
   primary: true
-docnumber: PO50 Pages 470-475
+docnumber: OP21 143-149
 date:
 - type: published
-  at: '2016-09-01'
+  at: '2017-10-23'
 contributor:
 - role:
   - type: author
@@ -28,14 +26,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: S
+        initial: R
       - language: en
         script: Latn
-        initial: W
+        initial: P
       surname:
         language: en
         script: Latn
-        content: Hsu
+        content: Wesselink
 - role:
   - type: author
   person:
@@ -43,44 +41,38 @@ contributor:
       forename:
       - language: en
         script: Latn
+        initial: I
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: L
+      - language: en
+        script: Latn
         initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Vogels
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: A
       - language: en
         script: Latn
         initial: H
       surname:
         language: en
         script: Latn
-        content: Chen
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: K
-      - language: en
-        script: Latn
-        initial: "N"
-      surname:
-        language: en
-        script: Latn
-        content: Wu
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: S
-      - language: en
-        script: Latn
-        initial: T
-      surname:
-        language: en
-        script: Latn
-        content: Hung
+        content: Donners
 - role:
   - type: publisher
   organization:

@@ -1,23 +1,25 @@
 ---
-id: CIEx044OP07
+id: CIEx05120255auyzm
 schema_version: v1.5.6
 type: standard
 title:
-- content: LIGHT SOURCE CHARACTERIZATION AND AIR MOVEMENT UNDER CIE S 025 (OP07, 63-72)
+- content: VALIDITY OF CIE COLOR MATCHING FUNCTIONS FOR OLED-LCD MIXED TECHNOLOGY
+    MATCHES
   type: title-main
-- content: LIGHT SOURCE CHARACTERIZATION AND AIR MOVEMENT UNDER CIE S 025 (OP07, 63-72)
+- content: VALIDITY OF CIE COLOR MATCHING FUNCTIONS FOR OLED-LCD MIXED TECHNOLOGY
+    MATCHES
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/light-source-characterization-and-air-movement-under-cie-s-025-op07-63-72?product_id=2009526
+  content: https://store.accuristech.com/standards/cie-x051-2025-5auyzm?product_id=3039591
 docidentifier:
-- content: CIE x044-OP07
+- content: CIE x051:2025/5auyzm
   type: CIE
   primary: true
-docnumber: OP07 63-72
+docnumber: x051:2025/5auyzm
 date:
 - type: published
-  at: '2017-10-23'
+  at: '2025-11-01'
 contributor:
 - role:
   - type: author
@@ -26,11 +28,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: A
+        initial: P
+      - language: en
+        script: Latn
+        initial: R
       surname:
         language: en
         script: Latn
-        content: Thorseth
+        content: Biswas
 - role:
   - type: author
   person:
@@ -38,17 +43,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: A
-      - language: en
-        script: Latn
         initial: S
-      - language: en
-        script: Latn
-        initial: J
       surname:
         language: en
         script: Latn
-        content: Bergen
+        content: Jost
 - role:
   - type: publisher
   organization:
