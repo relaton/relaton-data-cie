@@ -1,25 +1,29 @@
 ---
-id: CIEx043PO41
+id: CIEOP43303313
 schema_version: v1.5.6
 type: standard
 title:
-- content: EVALUATION INDEX FOR THE VISUAL APPEARANCE AND THE TACTILE TEXTURE (PO41,
-    Pages 401-407)
+- content: |-
+    PRELIMINARY STUDY ON SPECTRAL CHARACTERISTICS FOR IDENTIFICATION OF SKIN COLOUR UNDER CIRCULATORY DYSFUNCTION USING ARTIFICIAL SKIN SAMPLES
+
+     (OP43, 303-313)
   type: title-main
-- content: EVALUATION INDEX FOR THE VISUAL APPEARANCE AND THE TACTILE TEXTURE (PO41,
-    Pages 401-407)
+- content: |-
+    PRELIMINARY STUDY ON SPECTRAL CHARACTERISTICS FOR IDENTIFICATION OF SKIN COLOUR UNDER CIRCULATORY DYSFUNCTION USING ARTIFICIAL SKIN SAMPLES
+
+     (OP43, 303-313)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/evaluation-index-for-the-visual-appearance-and-the-tactile-texture-po41-pages-401-407?product_id=1941863
+  content: https://store.accuristech.com/standards/preliminary-study-on-spectral-characteristics-for-identification-of-skin-colour-under-circulatory-dysfunction-using-artificial-skin-samples-op43-303-313?product_id=2010515
 docidentifier:
-- content: CIE x043-PO41
+- content: CIE OP43 303-313
   type: CIE
   primary: true
-docnumber: PO41 Pages 401-407
+docnumber: OP43 303-313
 date:
 - type: published
-  at: '2016-09-01'
+  at: '2017-10-23'
 contributor:
 - role:
   - type: author
@@ -28,11 +32,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: S
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Kitamura
+        content: Akizuki
 - role:
   - type: author
   person:
@@ -40,23 +44,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: K
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Sugita
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: "N"
-      surname:
-        language: en
-        script: Latn
-        content: Isoda
+        content: Ohno
 - role:
   - type: publisher
   organization:

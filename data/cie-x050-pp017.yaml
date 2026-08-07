@@ -1,109 +1,96 @@
 ---
-id: CIEPP05256264
+id: CIEx050PP017
 schema_version: v1.5.6
 type: standard
 title:
-- content: RESEARCH ON THE APPLICATION BENEFITS OF THE LED LIGHT SOURCE BASED ON THE
-    ROAD LIGHTING SYSTEM FOR THE SMART CITY
-  type: title-intro
-- content: IN TIANJIN REGION AS AN EXAMPLE (PP05, 256-264)
+- content: EVALUATION STRUCTURE ON PREFERENCE OF PAINTING’S APPEARANCE IN MUSEUM LIGHTING
   type: title-main
-- content: RESEARCH ON THE APPLICATION BENEFITS OF THE LED LIGHT SOURCE BASED ON THE
-    ROAD LIGHTING SYSTEM FOR THE SMART CITY - IN TIANJIN REGION AS AN EXAMPLE (PP05,
-    256-264)
+- content: EVALUATION STRUCTURE ON PREFERENCE OF PAINTING’S APPEARANCE IN MUSEUM LIGHTING
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/research-on-the-application-benefits-of-the-led-light-source-based-on-the-road-lighting-system-for-the-smart-city-in-tianjin-region-as-an-example-pp05-256-264?product_id=2016252
+  content: https://store.accuristech.com/standards/cie-x050-pp017?product_id=2579353
 docidentifier:
-- content: CIE PP05 256-264
+- content: CIE x050-PP017
   type: CIE
   primary: true
-docnumber: PP05 256-264
+docnumber: x050-PP017
 date:
 - type: published
-  at: '2018-05-01'
+  at: '2023-12-29'
 contributor:
 - role:
   - type: author
   person:
     name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Ma
+        content: Oe
 - role:
   - type: author
   person:
     name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
       surname:
         language: en
         script: Latn
-        content: Xiufeng
+        content: Maeda
 - role:
   - type: author
   person:
     name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Wang
+        content: Nagakoshi
 - role:
   - type: author
   person:
     name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
       surname:
         language: en
         script: Latn
-        content: Lixiong
+        content: Takashima
 - role:
   - type: author
   person:
     name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Gao
+        content: Mizokami
 - role:
   - type: author
   person:
     name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
       surname:
         language: en
         script: Latn
-        content: Yuanpeng
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Yu
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Juan
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Ma
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Junrong
+        content: Yoshizawa
 - role:
   - type: publisher
   organization:

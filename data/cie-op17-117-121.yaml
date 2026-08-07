@@ -1,24 +1,40 @@
 ---
-id: CIEx05120258f63da
+id: CIEOP17117121
 schema_version: v1.5.6
 type: standard
 title:
-- content: HIGH DYNAMIC RANGE IMAGING METHODS FOR TRACEABLE OPTICAL MEASUREMENTS
+- content: |-
+    EVALUATION OF GAMUT COMPRESSION ALGORITHMS WITH DIFFERENT NEUTRAL CONVERGENT POINTS IN DIFFERENT COLOUR SPACES
+     (OP17, 117-121)
   type: title-main
-- content: HIGH DYNAMIC RANGE IMAGING METHODS FOR TRACEABLE OPTICAL MEASUREMENTS
+- content: |-
+    EVALUATION OF GAMUT COMPRESSION ALGORITHMS WITH DIFFERENT NEUTRAL CONVERGENT POINTS IN DIFFERENT COLOUR SPACES
+     (OP17, 117-121)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x051-2025-8f63da?product_id=3039870
+  content: https://store.accuristech.com/standards/evaluation-of-gamut-compression-algorithms-with-different-neutral-convergent-points-in-different-colour-spaces-op17-117-121?product_id=2010427
 docidentifier:
-- content: CIE x051:2025/8f63da
+- content: CIE OP17 117-121
   type: CIE
   primary: true
-docnumber: x051:2025/8f63da
+docnumber: OP17 117-121
 date:
 - type: published
-  at: '2025-11-01'
+  at: '2017-10-23'
 contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Zhao
 - role:
   - type: author
   person:
@@ -30,7 +46,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Gevaux
+        content: Xu
 - role:
   - type: author
   person:
@@ -38,47 +54,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: A
-      surname:
-        language: en
-        script: Latn
-        content: Ferrero
-- role:
-  - type: author
-  person:
-    name:
-      forename:
+        initial: M
       - language: en
         script: Latn
-        initial: A
+        initial: R
       surname:
         language: en
         script: Latn
-        content: Dupiau
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: C
-      surname:
-        language: en
-        script: Latn
-        content: Bouroussis
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: J
-      surname:
-        language: en
-        script: Latn
-        content: Ledig
+        content: Luo
 - role:
   - type: publisher
   organization:

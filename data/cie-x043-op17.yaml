@@ -1,0 +1,117 @@
+---
+id: CIEx043OP17
+schema_version: v1.5.6
+type: standard
+title:
+- content: PREDICTING CHANGES IN VISUAL APPEARANCE OF PERIODIC SURFACE FROM BRDF MEASUREMENTS
+    (OP17, Pages 103-110)
+  type: title-main
+- content: PREDICTING CHANGES IN VISUAL APPEARANCE OF PERIODIC SURFACE FROM BRDF MEASUREMENTS
+    (OP17, Pages 103-110)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/predicting-changes-in-visual-appearance-of-periodic-surface-from-brdf-measurements-op17-pages-103-110?product_id=1941819
+docidentifier:
+- content: CIE x043-OP17
+  type: CIE
+  primary: true
+docnumber: OP17 Pages 103-110
+date:
+- type: published
+  at: '2016-09-01'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Turbil
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: I
+      surname:
+        language: en
+        script: Latn
+        content: Gozhyk
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Teisseire
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: I
+      surname:
+        language: en
+        script: Latn
+        content: Simonsen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Ged
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Obein
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie
