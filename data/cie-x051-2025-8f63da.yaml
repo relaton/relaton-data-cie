@@ -1,25 +1,23 @@
 ---
-id: CIEPO08847855
+id: CIEx05120258f63da
 schema_version: v1.5.6
 type: standard
 title:
-- content: STUDY ON SPECTRAL COMPOSITION OF WHITE LIGHT-EMITTING-DIODE FOR CHINESE
-    TRADITIONAL PAINTING (PO08, 847-855)
+- content: HIGH DYNAMIC RANGE IMAGING METHODS FOR TRACEABLE OPTICAL MEASUREMENTS
   type: title-main
-- content: STUDY ON SPECTRAL COMPOSITION OF WHITE LIGHT-EMITTING-DIODE FOR CHINESE
-    TRADITIONAL PAINTING (PO08, 847-855)
+- content: HIGH DYNAMIC RANGE IMAGING METHODS FOR TRACEABLE OPTICAL MEASUREMENTS
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/study-on-spectral-composition-of-white-light-emitting-diode-for-chinese-traditional-painting-po08-847-855?product_id=2011159
+  content: https://store.accuristech.com/standards/cie-x051-2025-8f63da?product_id=3039870
 docidentifier:
-- content: CIE PO08 847-855
+- content: CIE x051:2025/8f63da
   type: CIE
   primary: true
-docnumber: PO08 847-855
+docnumber: x051:2025/8f63da
 date:
 - type: published
-  at: '2017-10-23'
+  at: '2025-11-01'
 contributor:
 - role:
   - type: author
@@ -28,11 +26,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: R
+        initial: L
       surname:
         language: en
         script: Latn
-        content: Dang
+        content: Gevaux
 - role:
   - type: author
   person:
@@ -40,11 +38,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "N"
+        initial: A
       surname:
         language: en
         script: Latn
-        content: Wang
+        content: Ferrero
 - role:
   - type: author
   person:
@@ -52,11 +50,23 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "Y"
+        initial: A
       surname:
         language: en
         script: Latn
-        content: Yuan
+        content: Dupiau
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Bouroussis
 - role:
   - type: author
   person:
@@ -68,19 +78,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Liu
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: G
-      surname:
-        language: en
-        script: Latn
-        content: Liu
+        content: Ledig
 - role:
   - type: publisher
   organization:
