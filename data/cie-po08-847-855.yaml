@@ -1,25 +1,25 @@
 ---
-id: CIEOP051928
+id: CIEPO08847855
 schema_version: v1.5.6
 type: standard
 title:
-- content: OFFICE LIGHTING DESIGN IN CONSIDERATION OF EYE FATIGUE AND TASK PERFORMANCE
-    (OP05, 19-28)
+- content: STUDY ON SPECTRAL COMPOSITION OF WHITE LIGHT-EMITTING-DIODE FOR CHINESE
+    TRADITIONAL PAINTING (PO08, 847-855)
   type: title-main
-- content: OFFICE LIGHTING DESIGN IN CONSIDERATION OF EYE FATIGUE AND TASK PERFORMANCE
-    (OP05, 19-28)
+- content: STUDY ON SPECTRAL COMPOSITION OF WHITE LIGHT-EMITTING-DIODE FOR CHINESE
+    TRADITIONAL PAINTING (PO08, 847-855)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/office-lighting-design-in-consideration-of-eye-fatigue-and-task-performance-op05-19-28?product_id=2016200
+  content: https://store.accuristech.com/standards/study-on-spectral-composition-of-white-light-emitting-diode-for-chinese-traditional-painting-po08-847-855?product_id=2011159
 docidentifier:
-- content: CIE OP05 19-28
+- content: CIE PO08 847-855
   type: CIE
   primary: true
-docnumber: OP05 19-28
+docnumber: PO08 847-855
 date:
 - type: published
-  at: '2018-05-01'
+  at: '2017-10-23'
 contributor:
 - role:
   - type: author
@@ -28,14 +28,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: W
+        initial: R
       surname:
         language: en
         script: Latn
-        content: Lin
+        content: Dang
 - role:
   - type: author
   person:
@@ -43,14 +40,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: F
-      - language: en
-        script: Latn
-        initial: M
+        initial: "N"
       surname:
         language: en
         script: Latn
-        content: Hsu
+        content: Wang
 - role:
   - type: author
   person:
@@ -58,14 +52,23 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: C
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Yuan
+- role:
+  - type: author
+  person:
+    name:
+      forename:
       - language: en
         script: Latn
         initial: J
       surname:
         language: en
         script: Latn
-        content: Chou
+        content: Liu
 - role:
   - type: author
   person:
@@ -73,29 +76,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: H
-      - language: en
-        script: Latn
-        initial: S
+        initial: G
       surname:
         language: en
         script: Latn
-        content: Chen
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: R
-      surname:
-        language: en
-        script: Latn
-        content: Luo
+        content: Liu
 - role:
   - type: publisher
   organization:
