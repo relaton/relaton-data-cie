@@ -1,69 +1,52 @@
 ---
-id: CIEx0512025o6w7y7
+id: CIEx043OP06
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'DAYLIGHT PERFORMANCE OF PERFORATED SOLAR SCREEN FACADES IN OFFICES: A
-    CASE STUDY'
+- content: POLARIZATION EFFECTS IN DIFFUSE REFLECTANCE MEASUREMENTS
+  type: title-intro
+- content: COMPARISON OF WHITE STANDARDS AND SPECIAL-EFFECT PIGMENT SAMPLES (OP06,
+    Pages 30-39)
   type: title-main
-- content: 'DAYLIGHT PERFORMANCE OF PERFORATED SOLAR SCREEN FACADES IN OFFICES: A
-    CASE STUDY'
+- content: POLARIZATION EFFECTS IN DIFFUSE REFLECTANCE MEASUREMENTS - COMPARISON OF
+    WHITE STANDARDS AND SPECIAL-EFFECT PIGMENT SAMPLES (OP06, Pages 30-39)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x051-2025-o6w7y7?product_id=3039928
+  content: https://store.accuristech.com/standards/polarization-effects-in-diffuse-reflectance-measurements-comparison-of-white-standards-and-special-effect-pigment-samples-op06-pages-30-39?product_id=1941810
 docidentifier:
-- content: CIE x051:2025/o6w7y7
+- content: CIE x043-OP06
   type: CIE
   primary: true
-docnumber: x051:2025/o6w7y7
+docnumber: OP06 Pages 30-39
 date:
 - type: published
-  at: '2025-11-01'
+  at: '2016-09-01'
 contributor:
 - role:
   - type: author
   person:
     name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
       surname:
         language: en
         script: Latn
-        content: Ranaer
+        content: Quast
 - role:
   - type: author
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: E
-      surname:
-        language: en
-        script: Latn
-        content: Harputluoğlu
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: Z
       - language: en
         script: Latn
         initial: A
       surname:
         language: en
         script: Latn
-        content: Kılıç
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Şener
+        content: Schirmacher
 - role:
   - type: author
   person:
@@ -71,11 +54,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: F
+        initial: K
       surname:
         language: en
         script: Latn
-        content: Yılmaz
+        content: Hauer
 - role:
   - type: publisher
   organization:

@@ -5,23 +5,21 @@ type: standard
 title:
 - content: Colorimetry
   type: title-main
-- content: 'Part 3: CIE tristimulus values'
+- content: 'Part 3: CIE Tristimulus Values'
   type: title-part
-- content: 'Colorimetry - Part 3: CIE tristimulus values'
+- content: 'Colorimetry - Part 3: CIE Tristimulus Values'
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-s-014-3-e-2011-iso-11664-3-2012-e?product_id=1844374
+  content: https://store.accuristech.com/standards/cie-s-014-3-e-2011?product_id=1802093
 docidentifier:
 - content: CIE S 014-3/E:2011
   type: CIE
   primary: true
-- content: ISO 11664-3:2012
-  type: ISO
 docnumber: S 014-3/E:2011
 date:
 - type: published
-  at: '2012-04-15'
+  at: '2011-07-01'
 contributor:
 - role:
   - type: publisher
@@ -65,20 +63,20 @@ relation:
     title:
     - content: Colorimetry
       type: title-main
-    - content: 'Part 3: CIE Tristimulus Values'
+    - content: 'Part 3: CIE tristimulus values'
       type: title-part
-    - content: 'Colorimetry - Part 3: CIE Tristimulus Values'
+    - content: 'Colorimetry - Part 3: CIE tristimulus values'
       type: main
     source:
     - type: src
-      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-014-3-e-2011?product_id=1802093
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-014-3-e-2011-iso-11664-3-2012-e?product_id=1844374
     docidentifier:
-    - content: CIE S 014-3/E:2011
+    - content: CIE S 014-3/E:2011 (ISO 11664-3:2012(E))
       type: CIE
       primary: true
     date:
     - type: published
-      at: '2011-07-01'
+      at: '2012-04-15'
 ext:
   schema_version: v1.0.0
   doctype:

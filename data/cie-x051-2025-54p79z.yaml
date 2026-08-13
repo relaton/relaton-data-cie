@@ -1,25 +1,23 @@
 ---
-id: CIEx050OP088
+id: CIEx051202554p79z
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'DISCOMFORT FROM GLARE: WHY WE NEED A CIE TECHNICAL COMMITTEE TO REPORT
-    ON BEST PRACTISE FOR COMMONLY USED METHODS AND TO PROPOSE NEW METHODS'
+- content: THE HELMHOLTZ–KOHLRAUSCH EFFECT ON VIRTUAL REALITY HEAD MOUNTED DISPLAYS
   type: title-main
-- content: 'DISCOMFORT FROM GLARE: WHY WE NEED A CIE TECHNICAL COMMITTEE TO REPORT
-    ON BEST PRACTISE FOR COMMONLY USED METHODS AND TO PROPOSE NEW METHODS'
+- content: THE HELMHOLTZ–KOHLRAUSCH EFFECT ON VIRTUAL REALITY HEAD MOUNTED DISPLAYS
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x050-op088?product_id=2579039
+  content: https://store.accuristech.com/standards/cie-x051-2025-54p79z?product_id=3039145
 docidentifier:
-- content: CIE x050-OP088
+- content: CIE x051:2025/54p79z
   type: CIE
   primary: true
-docnumber: x050-OP088
+docnumber: x051:2025/54p79z
 date:
 - type: published
-  at: '2023-12-29'
+  at: '2025-11-01'
 contributor:
 - role:
   - type: author
@@ -28,11 +26,26 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: S
+        initial: U
       surname:
         language: en
         script: Latn
-        content: Fotios
+        content: Bhaumik
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: F
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Leloup
 - role:
   - type: publisher
   organization:

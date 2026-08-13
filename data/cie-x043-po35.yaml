@@ -1,27 +1,23 @@
 ---
-id: CIEOP25173179
+id: CIEx043PO35
 schema_version: v1.5.6
 type: standard
 title:
-- content: |-
-    TESTING A MESOPIC ADAPTATION SIMULATION METHOD WITH SIMPLE LUMINANCE DISTRIBUTIONS
-     (OP25, 173-179)
+- content: 'THE RIGHT LIGHT FOR PAINTINGS: AN AMBITIOUS CHALLENGE (PO35, Pages 357-364)'
   type: title-main
-- content: |-
-    TESTING A MESOPIC ADAPTATION SIMULATION METHOD WITH SIMPLE LUMINANCE DISTRIBUTIONS
-     (OP25, 173-179)
+- content: 'THE RIGHT LIGHT FOR PAINTINGS: AN AMBITIOUS CHALLENGE (PO35, Pages 357-364)'
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/testing-a-mesopic-adaptation-simulation-method-with-simple-luminance-distributions-op25-173-179?product_id=2010466
+  content: https://store.accuristech.com/standards/the-right-light-for-paintings-an-ambitious-challenge-po35-pages-357-364?product_id=1941857
 docidentifier:
-- content: CIE OP25 173-179
+- content: CIE x043-PO35
   type: CIE
   primary: true
-docnumber: OP25 173-179
+docnumber: PO35 Pages 357-364
 date:
 - type: published
-  at: '2017-10-23'
+  at: '2016-09-01'
 contributor:
 - role:
   - type: author
@@ -30,11 +26,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: T
+        initial: L
       surname:
         language: en
         script: Latn
-        content: Uchida
+        content: Bellia
 - role:
   - type: author
   person:
@@ -42,11 +38,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "Y"
+        initial: F
       surname:
         language: en
         script: Latn
-        content: Akashi
+        content: Fragliasso
 - role:
   - type: author
   person:
@@ -54,23 +50,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "N"
+        initial: E
       surname:
         language: en
         script: Latn
-        content: Terai
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: K
-      surname:
-        language: en
-        script: Latn
-        content: Iwamoto
+        content: Stefanizzi
 - role:
   - type: publisher
   organization:

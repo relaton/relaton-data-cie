@@ -1,22 +1,26 @@
 ---
-id: CIEOP35246257
+id: CIEOP53396403
 schema_version: v1.5.6
 type: standard
 title:
-- content: COMPARISON OF LUMINANCE BASED METRICS IN DIFFERENT LIGHTING CONDITIONS
-    (OP35, 246-257)
+- content: |-
+    DOES THE VISUAL SYSTEM EXTRACT MORE INFORMATION THAN GLOSS IN THE SPECULAR DIRECTION?
+
+      (OP53, 396-403)
   type: title-main
-- content: COMPARISON OF LUMINANCE BASED METRICS IN DIFFERENT LIGHTING CONDITIONS
-    (OP35, 246-257)
+- content: |-
+    DOES THE VISUAL SYSTEM EXTRACT MORE INFORMATION THAN GLOSS IN THE SPECULAR DIRECTION?
+
+      (OP53, 396-403)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/comparison-of-luminance-based-metrics-in-different-lighting-conditions-op35-246-257?product_id=2010475
+  content: https://store.accuristech.com/standards/does-the-visual-system-extract-more-information-than-gloss-in-the-specular-direction-op53-396-403?product_id=2010525
 docidentifier:
-- content: CIE OP35 246-257
+- content: CIE OP53 396-403
   type: CIE
   primary: true
-docnumber: OP35 246-257
+docnumber: OP53 396-403
 date:
 - type: published
   at: '2017-10-23'
@@ -28,11 +32,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: J
+        initial: G
       surname:
         language: en
         script: Latn
-        content: Wienold
+        content: Ged
 - role:
   - type: author
   person:
@@ -40,14 +44,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: T
-      - language: en
-        script: Latn
-        initial: E
+        initial: A
       surname:
         language: en
         script: Latn
-        content: Kuhn
+        content: Rabal
 - role:
   - type: author
   person:
@@ -55,23 +56,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: J
+        initial: C
       surname:
         language: en
         script: Latn
-        content: Christoffersen
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: M
-      surname:
-        language: en
-        script: Latn
-        content: Sarey Khanie
+        content: Turbil
 - role:
   - type: author
   person:
@@ -83,7 +72,19 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Andersen
+        content: Himbert
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Obein
 - role:
   - type: publisher
   organization:
