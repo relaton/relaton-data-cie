@@ -1,25 +1,27 @@
 ---
-id: CIEx0512025qpp8oa
+id: CIEPP29673676
 schema_version: v1.5.6
 type: standard
 title:
-- content: THE INFLUENCE OF THE CORRELATED COLOUR TEMPERATURE CALCULATION METHOD ON
-    THE ACCURACY OF COLOUR RENDERING INDEX MEASUREMENT
+- content: |-
+    POSSIBLE HEALTH IMPLICATIONS OF LOW INFRARED LEVELS IN INDOOR ILLUMINATION
+     (PP29, 673-676)
   type: title-main
-- content: THE INFLUENCE OF THE CORRELATED COLOUR TEMPERATURE CALCULATION METHOD ON
-    THE ACCURACY OF COLOUR RENDERING INDEX MEASUREMENT
+- content: |-
+    POSSIBLE HEALTH IMPLICATIONS OF LOW INFRARED LEVELS IN INDOOR ILLUMINATION
+     (PP29, 673-676)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x051-2025-qpp8oa?product_id=3040017
+  content: https://store.accuristech.com/standards/possible-health-implications-of-low-infrared-levels-in-indoor-illumination-pp29-673-676?product_id=2011360
 docidentifier:
-- content: CIE x051:2025/qpp8oa
+- content: CIE PP29 673-676
   type: CIE
   primary: true
-docnumber: x051:2025/qpp8oa
+docnumber: PP29 673-676
 date:
 - type: published
-  at: '2025-11-01'
+  at: '2017-10-23'
 contributor:
 - role:
   - type: author
@@ -28,14 +30,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: D
+        initial: L
       - language: en
         script: Latn
-        initial: V
+        initial: A
       surname:
         language: en
         script: Latn
-        content: Scums
+        content: Whitehead
 - role:
   - type: author
   person:
@@ -43,14 +45,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: A
+        initial: "N"
       - language: en
         script: Latn
-        initial: D
+        initial: "N"
       surname:
         language: en
         script: Latn
-        content: Valodchenka
+        content: Osborne
 - role:
   - type: publisher
   organization:

@@ -1,41 +1,34 @@
 ---
-id: CIEOP23138146
+id: CIEx0512025o6w7y7
 schema_version: v1.5.6
 type: standard
 title:
-- content: INFLUENCE OF FREQUENCY, WAVEFORM AND COLOUR ON THE VISIBILITY OF THE PHANTOM
-    ARRAY EFFECT (OP23, 138-146)
+- content: 'DAYLIGHT PERFORMANCE OF PERFORATED SOLAR SCREEN FACADES IN OFFICES: A
+    CASE STUDY'
   type: title-main
-- content: INFLUENCE OF FREQUENCY, WAVEFORM AND COLOUR ON THE VISIBILITY OF THE PHANTOM
-    ARRAY EFFECT (OP23, 138-146)
+- content: 'DAYLIGHT PERFORMANCE OF PERFORATED SOLAR SCREEN FACADES IN OFFICES: A
+    CASE STUDY'
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/influence-of-frequency-waveform-and-colour-on-the-visibility-of-the-phantom-array-effect-op23-138-146?product_id=2016236
+  content: https://store.accuristech.com/standards/cie-x051-2025-o6w7y7?product_id=3039928
 docidentifier:
-- content: CIE OP23 138-146
+- content: CIE x051:2025/o6w7y7
   type: CIE
   primary: true
-docnumber: OP23 138-146
+docnumber: x051:2025/o6w7y7
 date:
 - type: published
-  at: '2018-05-01'
+  at: '2025-11-01'
 contributor:
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: X
-      - language: en
-        script: Latn
-        initial: L
       surname:
         language: en
         script: Latn
-        content: Yu
+        content: Ranaer
 - role:
   - type: author
   person:
@@ -43,14 +36,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: L
-      - language: en
-        script: Latn
-        initial: L
+        initial: E
       surname:
         language: en
         script: Latn
-        content: Wang
+        content: Harputluoğlu
 - role:
   - type: author
   person:
@@ -58,11 +48,22 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "Y"
+        initial: Z
+      - language: en
+        script: Latn
+        initial: A
       surname:
         language: en
         script: Latn
-        content: Tu
+        content: Kılıç
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Şener
 - role:
   - type: author
   person:
@@ -70,23 +71,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: M
+        initial: F
       surname:
         language: en
         script: Latn
-        content: Perz
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: D
-      surname:
-        language: en
-        script: Latn
-        content: Sekulovski
+        content: Yılmaz
 - role:
   - type: publisher
   organization:

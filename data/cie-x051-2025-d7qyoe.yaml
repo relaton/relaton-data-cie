@@ -1,25 +1,25 @@
 ---
-id: CIEx050OP007
+id: CIEx0512025d7qyoe
 schema_version: v1.5.6
 type: standard
 title:
-- content: DO FEMALE PEDESTRIANS EXPRESS A LOWER DEGREE OF REASSURANCE THAN MALE PEDESTRIANS?
-    AND DOES ROAD LIGHTING HELP?
+- content: A VALIDIATION STUDY OF THE CIE CORRECTION METHOD FOR NON-UNIFORM LIGHTING
+    CONDITIONS
   type: title-main
-- content: DO FEMALE PEDESTRIANS EXPRESS A LOWER DEGREE OF REASSURANCE THAN MALE PEDESTRIANS?
-    AND DOES ROAD LIGHTING HELP?
+- content: A VALIDIATION STUDY OF THE CIE CORRECTION METHOD FOR NON-UNIFORM LIGHTING
+    CONDITIONS
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x050-op007?product_id=2578652
+  content: https://store.accuristech.com/standards/cie-x051-2025-d7qyoe?product_id=3039893
 docidentifier:
-- content: CIE x050-OP007
+- content: CIE x051:2025/d7qyoe
   type: CIE
   primary: true
-docnumber: x050-OP007
+docnumber: x051:2025/d7qyoe
 date:
 - type: published
-  at: '2023-12-29'
+  at: '2025-11-01'
 contributor:
 - role:
   - type: author
@@ -28,23 +28,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "Y"
-      surname:
-        language: en
-        script: Latn
-        content: Mao
-- role:
-  - type: author
-  person:
-    name:
-      forename:
+        initial: D
       - language: en
         script: Latn
-        initial: S
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Fotios
+        content: Kim
 - role:
   - type: author
   person:
@@ -56,19 +47,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Uttley
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: S
-      surname:
-        language: en
-        script: Latn
-        content: Gorjimahlabani
+        content: Wienold
 - role:
   - type: publisher
   organization:

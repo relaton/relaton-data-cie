@@ -17,12 +17,15 @@ title:
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/lighting-recommendations-of-typical-light-sources-on-chinese-traditional-heavy-colour-paintings-po26-902-912?product_id=2011168
+  content: https://store.accuristech.com/standards/lighting-recommendations-of-typical-light-sources-on-chinese-traditional-heavy-colour-paintings-po26-902-912?product_id=2011167
 docidentifier:
 - content: CIE PO26 902-912
   type: CIE
   primary: true
 docnumber: PO26 902-912
+date:
+- type: published
+  at: '2017-10-23'
 contributor:
 - role:
   - type: author

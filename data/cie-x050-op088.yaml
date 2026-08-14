@@ -1,0 +1,57 @@
+---
+id: CIEx050OP088
+schema_version: v1.5.6
+type: standard
+title:
+- content: 'DISCOMFORT FROM GLARE: WHY WE NEED A CIE TECHNICAL COMMITTEE TO REPORT
+    ON BEST PRACTISE FOR COMMONLY USED METHODS AND TO PROPOSE NEW METHODS'
+  type: title-main
+- content: 'DISCOMFORT FROM GLARE: WHY WE NEED A CIE TECHNICAL COMMITTEE TO REPORT
+    ON BEST PRACTISE FOR COMMONLY USED METHODS AND TO PROPOSE NEW METHODS'
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/cie-x050-op088?product_id=2579039
+docidentifier:
+- content: CIE x050-OP088
+  type: CIE
+  primary: true
+docnumber: x050-OP088
+date:
+- type: published
+  at: '2023-12-29'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Fotios
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

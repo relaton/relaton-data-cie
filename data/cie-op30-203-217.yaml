@@ -1,25 +1,25 @@
 ---
-id: CIEPO16485487
+id: CIEOP30203217
 schema_version: v1.5.6
 type: standard
 title:
-- content: WHITE LIGHT LED SPECTRAL OPTIMIZATION IN UNDERWATER ILLUMINATION (PO16,
-    485-487)
+- content: DETERMINATION OF STRAY-LIGHT AND INTERREFLECTION  AT A TABLE-TOP NEAR-FIELD
+    GONIOPHOTOMETER (OP30, 203-217)
   type: title-main
-- content: WHITE LIGHT LED SPECTRAL OPTIMIZATION IN UNDERWATER ILLUMINATION (PO16,
-    485-487)
+- content: DETERMINATION OF STRAY-LIGHT AND INTERREFLECTION  AT A TABLE-TOP NEAR-FIELD
+    GONIOPHOTOMETER (OP30, 203-217)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/white-light-led-spectral-optimization-in-underwater-illumination-po16-485-487?product_id=2016294
+  content: https://store.accuristech.com/standards/determination-of-stray-light-and-interreflection-at-a-table-top-near-field-goniophotometer-op30-203-217?product_id=2010471
 docidentifier:
-- content: CIE PO16 485-487
+- content: CIE OP30 203-217
   type: CIE
   primary: true
-docnumber: PO16 485-487
+docnumber: OP30 203-217
 date:
 - type: published
-  at: '2018-05-01'
+  at: '2017-10-23'
 contributor:
 - role:
   - type: author
@@ -29,13 +29,22 @@ contributor:
       - language: en
         script: Latn
         initial: J
-      - language: en
-        script: Latn
-        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Shen
+        content: Ledig
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Bizjak
 - role:
   - type: author
   person:
@@ -44,13 +53,10 @@ contributor:
       - language: en
         script: Latn
         initial: T
-      - language: en
-        script: Latn
-        initial: X
       surname:
         language: en
         script: Latn
-        content: Lee
+        content: Gerloff
 - role:
   - type: author
   person:
@@ -58,14 +64,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: H
+        initial: A
       surname:
         language: en
         script: Latn
-        content: Tsuei
+        content: Sperling
 - role:
   - type: publisher
   organization:

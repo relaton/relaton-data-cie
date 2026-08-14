@@ -1,84 +1,58 @@
 ---
-id: CIEx050PO114
+id: CIEPP25276283
 schema_version: v1.5.6
 type: standard
 title:
-- content: PHANTOM ARRAY VISIBILITY ACCORDING TO SPECTRAL DISTRIBUTION
+- content: EXPLORING THE PREFERRED LUMINANCE OF VDT AND INDICATOR LIGHTS IN AIRCRAFT
+    COCKPIT FOR AUTOMATIC DIMMING (PP25, 276-283)
   type: title-main
-- content: PHANTOM ARRAY VISIBILITY ACCORDING TO SPECTRAL DISTRIBUTION
+- content: EXPLORING THE PREFERRED LUMINANCE OF VDT AND INDICATOR LIGHTS IN AIRCRAFT
+    COCKPIT FOR AUTOMATIC DIMMING (PP25, 276-283)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x050-po114?product_id=2579148
+  content: https://store.accuristech.com/standards/exploring-the-preferred-luminance-of-vdt-and-indicator-lights-in-aircraft-cockpit-for-automatic-dimming-pp25-276-283?product_id=2016255
 docidentifier:
-- content: CIE x050-PO114
+- content: CIE PP25 276-283
   type: CIE
   primary: true
-docnumber: x050-PO114
+docnumber: PP25 276-283
 date:
 - type: published
-  at: '2023-12-29'
+  at: '2018-05-01'
 contributor:
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: H
       surname:
         language: en
         script: Latn
-        content: Kang
+        content: Meng
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: S
       surname:
         language: en
         script: Latn
-        content: Park
+        content: Yingying
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: J
       surname:
         language: en
         script: Latn
-        content: Lee
+        content: Yang
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: J
       surname:
         language: en
         script: Latn
-        content: Kim
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: C
-      surname:
-        language: en
-        script: Latn
-        content: Lee
+        content: Biao
 - role:
   - type: publisher
   organization:

@@ -1,26 +1,54 @@
 ---
-id: CIEx0512025qftavk
+id: CIEPO42978983
 schema_version: v1.5.6
 type: standard
 title:
-- content: INVESTIGATING THE ACCURACY OF ROAD SURFACE REFLECTION CHARACTERISATION
-    BASED ON ROUND-ROBIN MEASUREMENTS
+- content: |-
+    ON-SITE EVALUATION OF PHOTOBIOLOGICAL SAFETY AND LIGHTING HEALTHY
+
+     (PO42, 978-983)
   type: title-main
-- content: INVESTIGATING THE ACCURACY OF ROAD SURFACE REFLECTION CHARACTERISATION
-    BASED ON ROUND-ROBIN MEASUREMENTS
+- content: |-
+    ON-SITE EVALUATION OF PHOTOBIOLOGICAL SAFETY AND LIGHTING HEALTHY
+
+     (PO42, 978-983)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x051-2025-qftavk?product_id=3040014
+  content: https://store.accuristech.com/standards/on-site-evaluation-of-photobiological-safety-and-lighting-healthy-po42-978-983?product_id=2011178
 docidentifier:
-- content: CIE x051:2025/qftavk
+- content: CIE PO42 978-983
   type: CIE
   primary: true
-docnumber: x051:2025/qftavk
+docnumber: PO42 978-983
 date:
 - type: published
-  at: '2025-11-01'
+  at: '2017-10-23'
 contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: X
+      surname:
+        language: en
+        script: Latn
+        content: Li
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: Q
+      surname:
+        language: en
+        script: Latn
+        content: Li
 - role:
   - type: author
   person:
@@ -32,7 +60,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Schulze
+        content: Chen
 - role:
   - type: author
   person:
@@ -40,59 +68,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: E
+        initial: J
       surname:
         language: en
         script: Latn
-        content: Saint-Jacques
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: S
-      surname:
-        language: en
-        script: Latn
-        content: Liandrat
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: F
-      surname:
-        language: en
-        script: Latn
-        content: Eymond
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: M
-      surname:
-        language: en
-        script: Latn
-        content: Ferreira-Fernandes
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: V
-      surname:
-        language: en
-        script: Latn
-        content: Muzet
+        content: Pan
 - role:
   - type: publisher
   organization:

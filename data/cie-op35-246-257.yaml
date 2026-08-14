@@ -1,24 +1,22 @@
 ---
-id: CIEOP51377384
+id: CIEOP35246257
 schema_version: v1.5.6
 type: standard
 title:
-- content: |-
-    CONTRAST AND BRIGHTNESS PERCEPTION OF ILLUMINATION PATTERNS IN PHYSICALLY-BASED RENDERED SCENES
-      (OP51, 377-384)
+- content: COMPARISON OF LUMINANCE BASED METRICS IN DIFFERENT LIGHTING CONDITIONS
+    (OP35, 246-257)
   type: title-main
-- content: |-
-    CONTRAST AND BRIGHTNESS PERCEPTION OF ILLUMINATION PATTERNS IN PHYSICALLY-BASED RENDERED SCENES
-      (OP51, 377-384)
+- content: COMPARISON OF LUMINANCE BASED METRICS IN DIFFERENT LIGHTING CONDITIONS
+    (OP35, 246-257)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/contrast-and-brightness-perception-of-illumination-patterns-in-physically-based-rendered-scenes-op51-377-384?product_id=2010523
+  content: https://store.accuristech.com/standards/comparison-of-luminance-based-metrics-in-different-lighting-conditions-op35-246-257?product_id=2010475
 docidentifier:
-- content: CIE OP51 377-384
+- content: CIE OP35 246-257
   type: CIE
   primary: true
-docnumber: OP51 377-384
+docnumber: OP35 246-257
 date:
 - type: published
   at: '2017-10-23'
@@ -30,11 +28,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: L
+        initial: J
       surname:
         language: en
         script: Latn
-        content: Van de Perre
+        content: Wienold
 - role:
   - type: author
   person:
@@ -42,11 +40,26 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: K
+        initial: T
+      - language: en
+        script: Latn
+        initial: E
       surname:
         language: en
         script: Latn
-        content: Smet
+        content: Kuhn
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Christoffersen
 - role:
   - type: author
   person:
@@ -58,7 +71,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Dujardin
+        content: Sarey Khanie
 - role:
   - type: author
   person:
@@ -66,14 +79,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: W
-      - language: en
-        script: Latn
-        initial: R
+        initial: M
       surname:
         language: en
         script: Latn
-        content: Ryckaert
+        content: Andersen
 - role:
   - type: publisher
   organization:
