@@ -1,0 +1,120 @@
+---
+id: CIEPO9611401150
+schema_version: v1.5.6
+type: standard
+title:
+- content: INVESTIGATION OF LIGHT POLLUTION IMPACTS ON SUBJECTIVE PERCEPTION OF FLICKER
+    IN TAIWAN (PO96, 1140-1150)
+  type: title-main
+- content: INVESTIGATION OF LIGHT POLLUTION IMPACTS ON SUBJECTIVE PERCEPTION OF FLICKER
+    IN TAIWAN (PO96, 1140-1150)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/investigation-of-light-pollution-impacts-on-subjective-perception-of-flicker-in-taiwan-po96-1140-1150?product_id=2011230
+docidentifier:
+- content: CIE PO96 1140-1150
+  type: CIE
+  primary: true
+docnumber: PO96 1140-1150
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Pong
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Wen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Lin
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: I
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Lin
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Chou
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

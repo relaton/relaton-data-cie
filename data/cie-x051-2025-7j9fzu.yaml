@@ -1,23 +1,25 @@
 ---
-id: CIEPP09530537
+id: CIEx05120257j9fzu
 schema_version: v1.5.6
 type: standard
 title:
-- content: LASER DRIVEN WHITE LIGHT SOURCE FOR BRDF MEASUREMENT (PP09, 530-537)
+- content: OPTIMIZATION OF URBAN LIGHTING EVALUATION METHOD BASED ON MULTI-SOURCE
+    DATA MUTUAL VERIFICATIONS
   type: title-main
-- content: LASER DRIVEN WHITE LIGHT SOURCE FOR BRDF MEASUREMENT (PP09, 530-537)
+- content: OPTIMIZATION OF URBAN LIGHTING EVALUATION METHOD BASED ON MULTI-SOURCE
+    DATA MUTUAL VERIFICATIONS
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/laser-driven-white-light-source-for-brdf-measurement-pp09-530-537?product_id=2011266
+  content: https://store.accuristech.com/standards/cie-x051-2025-7j9fzu?product_id=3039865
 docidentifier:
-- content: CIE PP09 530-537
+- content: CIE x051:2025/7j9fzu
   type: CIE
   primary: true
-docnumber: PP09 530-537
+docnumber: x051:2025/7j9fzu
 date:
 - type: published
-  at: '2017-10-23'
+  at: '2025-11-01'
 contributor:
 - role:
   - type: author
@@ -26,11 +28,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: M
+        initial: K
       surname:
         language: en
         script: Latn
-        content: Amdemeskel
+        content: Feng
 - role:
   - type: author
   person:
@@ -38,11 +40,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: A
+        initial: D
       surname:
         language: en
         script: Latn
-        content: Thorseth
+        content: Wang
 - role:
   - type: author
   person:
@@ -50,11 +52,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: C
+        initial: H
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Dam-Hansen
+        content: Fang
 - role:
   - type: publisher
   organization:
