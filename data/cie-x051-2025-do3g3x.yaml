@@ -1,27 +1,25 @@
 ---
-id: CIEOP25173179
+id: CIEx0512025do3g3x
 schema_version: v1.5.6
 type: standard
 title:
-- content: |-
-    TESTING A MESOPIC ADAPTATION SIMULATION METHOD WITH SIMPLE LUMINANCE DISTRIBUTIONS
-     (OP25, 173-179)
+- content: 'RESEARCH ON IMPRESSION-SHIFT DUE TO THE INFLUENCE OF ADJACENT LIGHTING
+    ENVIRONMENT: IMPRESSION EVALUATION EXPERIMENT CONDUCTED AT A SHOPPING MALL'
   type: title-main
-- content: |-
-    TESTING A MESOPIC ADAPTATION SIMULATION METHOD WITH SIMPLE LUMINANCE DISTRIBUTIONS
-     (OP25, 173-179)
+- content: 'RESEARCH ON IMPRESSION-SHIFT DUE TO THE INFLUENCE OF ADJACENT LIGHTING
+    ENVIRONMENT: IMPRESSION EVALUATION EXPERIMENT CONDUCTED AT A SHOPPING MALL'
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/testing-a-mesopic-adaptation-simulation-method-with-simple-luminance-distributions-op25-173-179?product_id=2010466
+  content: https://store.accuristech.com/standards/cie-x051-2025-do3g3x?product_id=3039896
 docidentifier:
-- content: CIE OP25 173-179
+- content: CIE x051:2025/do3g3x
   type: CIE
   primary: true
-docnumber: OP25 173-179
+docnumber: x051:2025/do3g3x
 date:
 - type: published
-  at: '2017-10-23'
+  at: '2025-11-01'
 contributor:
 - role:
   - type: author
@@ -30,11 +28,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: T
+        initial: M
       surname:
         language: en
         script: Latn
-        content: Uchida
+        content: Kozaki
 - role:
   - type: author
   person:
@@ -42,11 +40,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "Y"
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Akashi
+        content: Maruyama
 - role:
   - type: author
   person:
@@ -58,7 +56,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Terai
+        content: Suzuki
 - role:
   - type: author
   person:
@@ -70,7 +68,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Iwamoto
+        content: Hirate
 - role:
   - type: publisher
   organization:
