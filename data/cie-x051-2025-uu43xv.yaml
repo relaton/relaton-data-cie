@@ -1,25 +1,23 @@
 ---
-id: CIEPP24394403
+id: CIEx0512025uu43xv
 schema_version: v1.5.6
 type: standard
 title:
-- content: OPTIMIZATION OF BIMODAL QUANTUM DOTS CONVERTED WHITE LEDS FOR HIGH COLOUR
-    RENDITION (PP24, 394-403)
+- content: THE PRESENCE OF ROAD LIGHTING LEADS TO MORE CYCLING
   type: title-main
-- content: OPTIMIZATION OF BIMODAL QUANTUM DOTS CONVERTED WHITE LEDS FOR HIGH COLOUR
-    RENDITION (PP24, 394-403)
+- content: THE PRESENCE OF ROAD LIGHTING LEADS TO MORE CYCLING
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/optimization-of-bimodal-quantum-dots-converted-white-leds-for-high-colour-rendition-pp24-394-403?product_id=2016278
+  content: https://store.accuristech.com/standards/cie-x051-2025-uu43xv?product_id=3040032
 docidentifier:
-- content: CIE PP24 394-403
+- content: CIE x051:2025/uu43xv
   type: CIE
   primary: true
-docnumber: PP24 394-403
+docnumber: x051:2025/uu43xv
 date:
 - type: published
-  at: '2018-05-01'
+  at: '2025-11-01'
 contributor:
 - role:
   - type: author
@@ -28,14 +26,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "Y"
-      - language: en
-        script: Latn
-        initial: Z
+        initial: J
       surname:
         language: en
         script: Latn
-        content: Wang
+        content: Uttley
 - role:
   - type: author
   person:
@@ -43,11 +38,35 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: Q
+        initial: M
       surname:
         language: en
         script: Latn
-        content: Yao
+        content: Balela
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: D
+      surname:
+        language: en
+        script: Latn
+        content: Yesiltepe
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Fotios
 - role:
   - type: publisher
   organization:
