@@ -1,62 +1,56 @@
 ---
-id: CIEx0512025sj3bgj
+id: CIEPO33584590
 schema_version: v1.5.6
 type: standard
 title:
-- content: EXPERIMENTAL INVESTIGATION OF IMAGE REPRODUCTION WITH PERCEPTUAL GLOSS
-    EQUIVALENT TO REAL GLASS, METAL, AND STONE
+- content: TRANSMITTANCE HAZE MEASUREMENT FOR HIGH HAZE MATERIALS (PO33, 584-590)
   type: title-main
-- content: EXPERIMENTAL INVESTIGATION OF IMAGE REPRODUCTION WITH PERCEPTUAL GLOSS
-    EQUIVALENT TO REAL GLASS, METAL, AND STONE
+- content: TRANSMITTANCE HAZE MEASUREMENT FOR HIGH HAZE MATERIALS (PO33, 584-590)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x051-2025-sj3bgj?product_id=3040022
+  content: https://store.accuristech.com/standards/transmittance-haze-measurement-for-high-haze-materials-po33-584-590?product_id=2016309
 docidentifier:
-- content: CIE x051:2025/sj3bgj
+- content: CIE PO33 584-590
   type: CIE
   primary: true
-docnumber: x051:2025/sj3bgj
+docnumber: PO33 584-590
 date:
 - type: published
-  at: '2025-11-01'
+  at: '2018-05-01'
 contributor:
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: M
       surname:
         language: en
         script: Latn
-        content: Tanaka
+        content: Liu
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: H
       surname:
         language: en
         script: Latn
-        content: Ajiki
+        content: Wen-Chun
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: T
       surname:
         language: en
         script: Latn
-        content: Horiuchi
+        content: Yu
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Hsueh-Ling
 - role:
   - type: publisher
   organization:

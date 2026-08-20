@@ -1,25 +1,25 @@
 ---
-id: CIEPO09856861
+id: CIEx043PO07
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'TRADE-OFF BETWEEN COLOR FIDELITY AND COLOR GAMUT: A CASE STUDY (PO09,
-    856-861)'
+- content: INFLUENCE OF DIFFERENT ROOM SURFACE COLOURS ON THE MELANOPIC FACTOR (PO07,
+    Pages 230-235)
   type: title-main
-- content: 'TRADE-OFF BETWEEN COLOR FIDELITY AND COLOR GAMUT: A CASE STUDY (PO09,
-    856-861)'
+- content: INFLUENCE OF DIFFERENT ROOM SURFACE COLOURS ON THE MELANOPIC FACTOR (PO07,
+    Pages 230-235)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/trade-off-between-color-fidelity-and-color-gamut-a-case-study-po09-856-861?product_id=2011160
+  content: https://store.accuristech.com/standards/influence-of-different-room-surface-colours-on-the-melanopic-factor-po07-pages-230-235?product_id=1941837
 docidentifier:
-- content: CIE PO09 856-861
+- content: CIE x043-PO07
   type: CIE
   primary: true
-docnumber: PO09 856-861
+docnumber: PO07 Pages 230-235
 date:
 - type: published
-  at: '2017-10-23'
+  at: '2016-09-01'
 contributor:
 - role:
   - type: author
@@ -28,11 +28,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: F
+        initial: S
       surname:
         language: en
         script: Latn
-        content: Zhang
+        content: Knoche
 - role:
   - type: author
   person:
@@ -40,11 +40,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: H
+        initial: R
       surname:
         language: en
         script: Latn
-        content: Xu
+        content: Kirsch
 - role:
   - type: publisher
   organization:

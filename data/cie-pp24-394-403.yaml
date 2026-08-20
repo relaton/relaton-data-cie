@@ -1,23 +1,25 @@
 ---
-id: CIEx050PO028
+id: CIEPP24394403
 schema_version: v1.5.6
 type: standard
 title:
-- content: INDIVIDUAL DIMENSIONS OF HUMAN-CENTERIC LIGHTING
+- content: OPTIMIZATION OF BIMODAL QUANTUM DOTS CONVERTED WHITE LEDS FOR HIGH COLOUR
+    RENDITION (PP24, 394-403)
   type: title-main
-- content: INDIVIDUAL DIMENSIONS OF HUMAN-CENTERIC LIGHTING
+- content: OPTIMIZATION OF BIMODAL QUANTUM DOTS CONVERTED WHITE LEDS FOR HIGH COLOUR
+    RENDITION (PP24, 394-403)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x050-po028?product_id=2579078
+  content: https://store.accuristech.com/standards/optimization-of-bimodal-quantum-dots-converted-white-leds-for-high-colour-rendition-pp24-394-403?product_id=2016278
 docidentifier:
-- content: CIE x050-PO028
+- content: CIE PP24 394-403
   type: CIE
   primary: true
-docnumber: x050-PO028
+docnumber: PP24 394-403
 date:
 - type: published
-  at: '2023-12-29'
+  at: '2018-05-01'
 contributor:
 - role:
   - type: author
@@ -26,14 +28,26 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: K
+        initial: "Y"
       - language: en
         script: Latn
-        initial: H
+        initial: Z
       surname:
         language: en
         script: Latn
-        content: Or
+        content: Wang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: Q
+      surname:
+        language: en
+        script: Latn
+        content: Yao
 - role:
   - type: publisher
   organization:

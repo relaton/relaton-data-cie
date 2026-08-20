@@ -1,22 +1,20 @@
 ---
-id: CIEx0512025ywvsfy
+id: CIEx05120258zejj2
 schema_version: v1.5.6
 type: standard
 title:
-- content: ABILITY OF COMMON GLARE INDICES TO EVALUATE DISCOMFORT GLARE IN THE PRESENCE
-    OF MULTIPLE ELECTRIC LIGHT SOURCES
+- content: THE IMPACT OF SEASONAL OCCUPANCY PATTERNS ON ENERGY-RELATED LIGHTING OBJECTIVES
   type: title-main
-- content: ABILITY OF COMMON GLARE INDICES TO EVALUATE DISCOMFORT GLARE IN THE PRESENCE
-    OF MULTIPLE ELECTRIC LIGHT SOURCES
+- content: THE IMPACT OF SEASONAL OCCUPANCY PATTERNS ON ENERGY-RELATED LIGHTING OBJECTIVES
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x051-2025-ywvsfy?product_id=3040045
+  content: https://store.accuristech.com/standards/cie-x051-2025-8zejj2?product_id=3039153
 docidentifier:
-- content: CIE x051:2025/ywvsfy
+- content: CIE x051:2025/8zejj2
   type: CIE
   primary: true
-docnumber: x051:2025/ywvsfy
+docnumber: x051:2025/8zejj2
 date:
 - type: published
   at: '2025-11-01'
@@ -28,17 +26,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: B
-      - language: en
-        script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: L
+        initial: S
       surname:
         language: en
         script: Latn
-        content: Yuen
+        content: Hammes
 - role:
   - type: author
   person:
@@ -50,19 +42,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Wienold
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: M
-      surname:
-        language: en
-        script: Latn
-        content: Andersen
+        content: Weninger
 - role:
   - type: publisher
   organization:

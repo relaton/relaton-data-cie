@@ -1,25 +1,25 @@
 ---
-id: CIEPO45990996
+id: CIEPO28552555
 schema_version: v1.5.6
 type: standard
 title:
-- content: SIMULATION OF TOTAL LUMINOUS FLUX MEASUREMENT FOR PANEL LIGHT SOURCE USING
-    INTEGRATING SPHERE (PO45, 990-996)
+- content: PSYCHOLOGICAL INFLUENCE OF COLOURFUL LIGHT-EMITTING DIODE LUMINAIRE (PO28,
+    552-555)
   type: title-main
-- content: SIMULATION OF TOTAL LUMINOUS FLUX MEASUREMENT FOR PANEL LIGHT SOURCE USING
-    INTEGRATING SPHERE (PO45, 990-996)
+- content: PSYCHOLOGICAL INFLUENCE OF COLOURFUL LIGHT-EMITTING DIODE LUMINAIRE (PO28,
+    552-555)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/simulation-of-total-luminous-flux-measurement-for-panel-light-source-using-integrating-sphere-po45-990-996?product_id=2011180
+  content: https://store.accuristech.com/standards/psychological-influence-of-colourful-light-emitting-diode-luminaire-po28-552-555?product_id=2016304
 docidentifier:
-- content: CIE PO45 990-996
+- content: CIE PO28 552-555
   type: CIE
   primary: true
-docnumber: PO45 990-996
+docnumber: PO28 552-555
 date:
 - type: published
-  at: '2017-10-23'
+  at: '2018-05-01'
 contributor:
 - role:
   - type: author
@@ -29,22 +29,13 @@ contributor:
       - language: en
         script: Latn
         initial: T
-      surname:
-        language: en
-        script: Latn
-        content: Tashiro
-- role:
-  - type: author
-  person:
-    name:
-      forename:
       - language: en
         script: Latn
         initial: T
       surname:
         language: en
         script: Latn
-        content: Suzuki
+        content: Chen
 - role:
   - type: author
   person:
@@ -52,11 +43,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "Y"
+        initial: L
+      - language: en
+        script: Latn
+        initial: C
       surname:
         language: en
         script: Latn
-        content: Kawashima
+        content: Su
 - role:
   - type: author
   person:
@@ -64,11 +58,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: T
+        initial: C
+      - language: en
+        script: Latn
+        initial: C
       surname:
         language: en
         script: Latn
-        content: Nagai
+        content: Yang
 - role:
   - type: author
   person:
@@ -76,11 +73,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "Y"
+        initial: H
+      - language: en
+        script: Latn
+        initial: K
       surname:
         language: en
         script: Latn
-        content: Yamauchi
+        content: Fu
 - role:
   - type: publisher
   organization:

@@ -1,25 +1,25 @@
 ---
-id: CIEOP051928
+id: CIEx0512025hutdy6
 schema_version: v1.5.6
 type: standard
 title:
-- content: OFFICE LIGHTING DESIGN IN CONSIDERATION OF EYE FATIGUE AND TASK PERFORMANCE
-    (OP05, 19-28)
+- content: FURTHER DEVELOPMENT OF THE CALCULATION MODEL FOR SPACIOUSNESS TO INCLUDE
+    THE EFFECTS OF WINDOWS AND EXTERNAL SPACE
   type: title-main
-- content: OFFICE LIGHTING DESIGN IN CONSIDERATION OF EYE FATIGUE AND TASK PERFORMANCE
-    (OP05, 19-28)
+- content: FURTHER DEVELOPMENT OF THE CALCULATION MODEL FOR SPACIOUSNESS TO INCLUDE
+    THE EFFECTS OF WINDOWS AND EXTERNAL SPACE
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/office-lighting-design-in-consideration-of-eye-fatigue-and-task-performance-op05-19-28?product_id=2016200
+  content: https://store.accuristech.com/standards/cie-x051-2025-hutdy6?product_id=3039913
 docidentifier:
-- content: CIE OP05 19-28
+- content: CIE x051:2025/hutdy6
   type: CIE
   primary: true
-docnumber: OP05 19-28
+docnumber: x051:2025/hutdy6
 date:
 - type: published
-  at: '2018-05-01'
+  at: '2025-11-01'
 contributor:
 - role:
   - type: author
@@ -28,29 +28,23 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: W
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Lin
+        content: Miyake
 - role:
   - type: author
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: F
       - language: en
         script: Latn
         initial: M
       surname:
         language: en
         script: Latn
-        content: Hsu
+        content: Igarashi
 - role:
   - type: author
   person:
@@ -58,14 +52,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: J
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Chou
+        content: Horiuchi
 - role:
   - type: author
   person:
@@ -74,13 +65,10 @@ contributor:
       - language: en
         script: Latn
         initial: H
-      - language: en
-        script: Latn
-        initial: S
       surname:
         language: en
         script: Latn
-        content: Chen
+        content: Yamaguchi
 - role:
   - type: author
   person:
@@ -88,14 +76,23 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: R
+        initial: K
       surname:
         language: en
         script: Latn
-        content: Luo
+        content: Takase
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Yoshizawa
 - role:
   - type: publisher
   organization:
