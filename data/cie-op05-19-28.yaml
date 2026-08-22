@@ -1,22 +1,22 @@
 ---
-id: CIEOP22133137
+id: CIEOP051928
 schema_version: v1.5.6
 type: standard
 title:
-- content: KANSEI EVALUATION OF COLOUR IMAGES IN VARIOUS COLOUR GAMUTS USING DIFFERENT
-    RED PRIMARIES (OP22, 133-137)
+- content: OFFICE LIGHTING DESIGN IN CONSIDERATION OF EYE FATIGUE AND TASK PERFORMANCE
+    (OP05, 19-28)
   type: title-main
-- content: KANSEI EVALUATION OF COLOUR IMAGES IN VARIOUS COLOUR GAMUTS USING DIFFERENT
-    RED PRIMARIES (OP22, 133-137)
+- content: OFFICE LIGHTING DESIGN IN CONSIDERATION OF EYE FATIGUE AND TASK PERFORMANCE
+    (OP05, 19-28)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/kansei-evaluation-of-colour-images-in-various-colour-gamuts-using-different-red-primaries-op22-133-137?product_id=2016235
+  content: https://store.accuristech.com/standards/office-lighting-design-in-consideration-of-eye-fatigue-and-task-performance-op05-19-28?product_id=2016200
 docidentifier:
-- content: CIE OP22 133-137
+- content: CIE OP05 19-28
   type: CIE
   primary: true
-docnumber: OP22 133-137
+docnumber: OP05 19-28
 date:
 - type: published
   at: '2018-05-01'
@@ -28,11 +28,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: M
+        initial: C
+      - language: en
+        script: Latn
+        initial: W
       surname:
         language: en
         script: Latn
-        content: Ayama
+        content: Lin
 - role:
   - type: author
   person:
@@ -40,23 +43,44 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "Y"
+        initial: F
+      - language: en
+        script: Latn
+        initial: M
       surname:
         language: en
         script: Latn
-        content: Inuzuka
+        content: Hsu
 - role:
   - type: author
   person:
     name:
       forename:
+      - language: en
+        script: Latn
+        initial: C
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Chou
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
       - language: en
         script: Latn
         initial: S
       surname:
         language: en
         script: Latn
-        content: Kageyama
+        content: Chen
 - role:
   - type: author
   person:
@@ -64,11 +88,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: T
+        initial: M
+      - language: en
+        script: Latn
+        initial: R
       surname:
         language: en
         script: Latn
-        content: Ishikawa
+        content: Luo
 - role:
   - type: publisher
   organization:

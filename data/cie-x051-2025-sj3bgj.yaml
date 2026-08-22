@@ -1,20 +1,22 @@
 ---
-id: CIEx05120258n5496
+id: CIEx0512025sj3bgj
 schema_version: v1.5.6
 type: standard
 title:
-- content: MODELLING SOLAR DISABILITY GLARE REFLECTED FROM MODERN BUILDING FACADES
+- content: EXPERIMENTAL INVESTIGATION OF IMAGE REPRODUCTION WITH PERCEPTUAL GLOSS
+    EQUIVALENT TO REAL GLASS, METAL, AND STONE
   type: title-main
-- content: MODELLING SOLAR DISABILITY GLARE REFLECTED FROM MODERN BUILDING FACADES
+- content: EXPERIMENTAL INVESTIGATION OF IMAGE REPRODUCTION WITH PERCEPTUAL GLOSS
+    EQUIVALENT TO REAL GLASS, METAL, AND STONE
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x051-2025-8n5496?product_id=3039152
+  content: https://store.accuristech.com/standards/cie-x051-2025-sj3bgj?product_id=3040022
 docidentifier:
-- content: CIE x051:2025/8n5496
+- content: CIE x051:2025/sj3bgj
   type: CIE
   primary: true
-docnumber: x051:2025/8n5496
+docnumber: x051:2025/sj3bgj
 date:
 - type: published
   at: '2025-11-01'
@@ -27,13 +29,10 @@ contributor:
       - language: en
         script: Latn
         initial: M
-      - language: en
-        script: Latn
-        initial: J
       surname:
         language: en
         script: Latn
-        content: Glanville
+        content: Tanaka
 - role:
   - type: author
   person:
@@ -41,14 +40,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: P
-      - language: en
-        script: Latn
-        initial: R
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Kodali
+        content: Ajiki
 - role:
   - type: author
   person:
@@ -56,29 +52,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: M
+        initial: T
       surname:
         language: en
         script: Latn
-        content: Alsailani
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: R
-      - language: en
-        script: Latn
-        initial: P
-      - language: en
-        script: Latn
-        initial: M
-      surname:
-        language: en
-        script: Latn
-        content: Neto
+        content: Horiuchi
 - role:
   - type: publisher
   organization:
