@@ -1,27 +1,25 @@
 ---
-id: CIEPP46776785
+id: CIEOP22133137
 schema_version: v1.5.6
 type: standard
 title:
-- content: |-
-    PUPILLARY LIGHT REFLEX AND RECEPTIVE FIELD CALCULATION OF VISUAL DISCOMFORT FOR DIFFERENT SPATIAL FREQUENCIES AND LUMINANCE STEPS
-     (PP46, 776-785)
+- content: KANSEI EVALUATION OF COLOUR IMAGES IN VARIOUS COLOUR GAMUTS USING DIFFERENT
+    RED PRIMARIES (OP22, 133-137)
   type: title-main
-- content: |-
-    PUPILLARY LIGHT REFLEX AND RECEPTIVE FIELD CALCULATION OF VISUAL DISCOMFORT FOR DIFFERENT SPATIAL FREQUENCIES AND LUMINANCE STEPS
-     (PP46, 776-785)
+- content: KANSEI EVALUATION OF COLOUR IMAGES IN VARIOUS COLOUR GAMUTS USING DIFFERENT
+    RED PRIMARIES (OP22, 133-137)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/pupillary-light-reflex-and-receptive-field-calculation-of-visual-discomfort-for-different-spatial-frequencies-and-luminance-steps-pp46-776-785?product_id=2011375
+  content: https://store.accuristech.com/standards/kansei-evaluation-of-colour-images-in-various-colour-gamuts-using-different-red-primaries-op22-133-137?product_id=2016235
 docidentifier:
-- content: CIE PP46 776-785
+- content: CIE OP22 133-137
   type: CIE
   primary: true
-docnumber: PP46 776-785
+docnumber: OP22 133-137
 date:
 - type: published
-  at: '2017-10-23'
+  at: '2018-05-01'
 contributor:
 - role:
   - type: author
@@ -30,14 +28,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: G
-      - language: en
-        script: Latn
-        initial: H
+        initial: M
       surname:
         language: en
         script: Latn
-        content: Scheir
+        content: Ayama
 - role:
   - type: author
   person:
@@ -45,11 +40,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: P
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Hanselaer
+        content: Inuzuka
 - role:
   - type: author
   person:
@@ -57,14 +52,23 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: W
-      - language: en
-        script: Latn
-        initial: R
+        initial: S
       surname:
         language: en
         script: Latn
-        content: Ryckaert
+        content: Kageyama
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Ishikawa
 - role:
   - type: publisher
   organization:

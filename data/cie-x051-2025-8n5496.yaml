@@ -1,20 +1,20 @@
 ---
-id: CIEx05120256q626j
+id: CIEx05120258n5496
 schema_version: v1.5.6
 type: standard
 title:
-- content: THE EFFECT OF RADIATION PATTERNS ON VEHICULAR VISIBLE LIGHT COMMUNICATION
+- content: MODELLING SOLAR DISABILITY GLARE REFLECTED FROM MODERN BUILDING FACADES
   type: title-main
-- content: THE EFFECT OF RADIATION PATTERNS ON VEHICULAR VISIBLE LIGHT COMMUNICATION
+- content: MODELLING SOLAR DISABILITY GLARE REFLECTED FROM MODERN BUILDING FACADES
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x051-2025-6q626j?product_id=3039148
+  content: https://store.accuristech.com/standards/cie-x051-2025-8n5496?product_id=3039152
 docidentifier:
-- content: CIE x051:2025/6q626j
+- content: CIE x051:2025/8n5496
   type: CIE
   primary: true
-docnumber: x051:2025/6q626j
+docnumber: x051:2025/8n5496
 date:
 - type: published
   at: '2025-11-01'
@@ -26,37 +26,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: G
-      - language: en
-        script: Latn
         initial: M
-      surname:
-        language: en
-        script: Latn
-        content: Dotreppe
-- role:
-  - type: author
-  person:
-    name:
-      forename:
       - language: en
         script: Latn
         initial: J
-      - language: en
-        script: Latn
-        initial: M
       surname:
         language: en
         script: Latn
-        content: Coosemans
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Van
+        content: Glanville
 - role:
   - type: author
   person:
@@ -65,10 +42,13 @@ contributor:
       - language: en
         script: Latn
         initial: P
+      - language: en
+        script: Latn
+        initial: R
       surname:
         language: en
         script: Latn
-        content: den Bossche
+        content: Kodali
 - role:
   - type: author
   person:
@@ -76,14 +56,29 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: V
-      - language: en
-        script: Latn
-        initial: A
+        initial: M
       surname:
         language: en
         script: Latn
-        content: Jacobs
+        content: Alsailani
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      - language: en
+        script: Latn
+        initial: P
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Neto
 - role:
   - type: publisher
   organization:
