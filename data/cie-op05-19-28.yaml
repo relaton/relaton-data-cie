@@ -1,22 +1,22 @@
 ---
-id: CIEOP34201208
+id: CIEOP051928
 schema_version: v1.5.6
 type: standard
 title:
-- content: EXPERIMENTAL EVALUATION OF DIFFERENT BRIGHTNESS PERCEPTION MODELS BASED
-    ON HUMAN PUPIL LIGHT RESPONSES (OP34, 201-208)
+- content: OFFICE LIGHTING DESIGN IN CONSIDERATION OF EYE FATIGUE AND TASK PERFORMANCE
+    (OP05, 19-28)
   type: title-main
-- content: EXPERIMENTAL EVALUATION OF DIFFERENT BRIGHTNESS PERCEPTION MODELS BASED
-    ON HUMAN PUPIL LIGHT RESPONSES (OP34, 201-208)
+- content: OFFICE LIGHTING DESIGN IN CONSIDERATION OF EYE FATIGUE AND TASK PERFORMANCE
+    (OP05, 19-28)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/experimental-evaluation-of-different-brightness-perception-models-based-on-human-pupil-light-responses-op34-201-208?product_id=2016244
+  content: https://store.accuristech.com/standards/office-lighting-design-in-consideration-of-eye-fatigue-and-task-performance-op05-19-28?product_id=2016200
 docidentifier:
-- content: CIE OP34 201-208
+- content: CIE OP05 19-28
   type: CIE
   primary: true
-docnumber: OP34 201-208
+docnumber: OP05 19-28
 date:
 - type: published
   at: '2018-05-01'
@@ -28,11 +28,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: B
+        initial: C
+      - language: en
+        script: Latn
+        initial: W
       surname:
         language: en
         script: Latn
-        content: Zandi
+        content: Lin
 - role:
   - type: author
   person:
@@ -40,11 +43,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: X
+        initial: F
+      - language: en
+        script: Latn
+        initial: M
       surname:
         language: en
         script: Latn
-        content: Guo
+        content: Hsu
 - role:
   - type: author
   person:
@@ -52,11 +58,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: P
+        initial: C
+      - language: en
+        script: Latn
+        initial: J
       surname:
         language: en
         script: Latn
-        content: Bodrogi
+        content: Chou
 - role:
   - type: author
   person:
@@ -64,14 +73,29 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: T
+        initial: H
       - language: en
         script: Latn
-        initial: Q
+        initial: S
       surname:
         language: en
         script: Latn
-        content: Khanh
+        content: Chen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Luo
 - role:
   - type: publisher
   organization:
