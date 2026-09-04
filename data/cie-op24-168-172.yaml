@@ -1,23 +1,25 @@
 ---
-id: CIEPO32579583
+id: CIEOP24168172
 schema_version: v1.5.6
 type: standard
 title:
-- content: INNOVATIVE PUPIL DETECTOR EQUIPMENT (PO32, 579-583)
+- content: READABILITY AND VISUAL COMFORT FOR READING ON A DISPLAY WITH VARIOUS AMBIENT
+    LIGHTING SETTING (OP24, 168-172)
   type: title-main
-- content: INNOVATIVE PUPIL DETECTOR EQUIPMENT (PO32, 579-583)
+- content: READABILITY AND VISUAL COMFORT FOR READING ON A DISPLAY WITH VARIOUS AMBIENT
+    LIGHTING SETTING (OP24, 168-172)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/innovative-pupil-detector-equipment-po32-579-583?product_id=2016308
+  content: https://store.accuristech.com/standards/readability-and-visual-comfort-for-reading-on-a-display-with-various-ambient-lighting-setting-op24-168-172?product_id=2010465
 docidentifier:
-- content: CIE PO32 579-583
+- content: CIE OP24 168-172
   type: CIE
   primary: true
-docnumber: PO32 579-583
+docnumber: OP24 168-172
 date:
 - type: published
-  at: '2018-05-01'
+  at: '2017-10-23'
 contributor:
 - role:
   - type: author
@@ -26,14 +28,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: Z
-      - language: en
-        script: Latn
-        initial: "Y"
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Lian
+        content: Huang
 - role:
   - type: author
   person:
@@ -41,29 +40,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: W
-      - language: en
-        script: Latn
-        initial: C
+        initial: L
       surname:
         language: en
         script: Latn
-        content: Tseng
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: J
-      - language: en
-        script: Latn
-        initial: W
-      surname:
-        language: en
-        script: Latn
-        content: Whang
+        content: Ou
 - role:
   - type: publisher
   organization:
