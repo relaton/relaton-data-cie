@@ -1,29 +1,25 @@
 ---
-id: CIEWP06460467
+id: CIEx0512025d7qyoe
 schema_version: v1.5.6
 type: standard
 title:
-- content: |-
-    THE LINK BETWEEN PERCENT FLICKER AND THE FLICKER INDEX PROVIDES A SIMPLE AND POWERFUL TOOL FOR CLASSIFYING THE SAFETY OF MODULATING LIGHT SOURCES
-
-     (WP06, 460-467)
+- content: A VALIDIATION STUDY OF THE CIE CORRECTION METHOD FOR NON-UNIFORM LIGHTING
+    CONDITIONS
   type: title-main
-- content: |-
-    THE LINK BETWEEN PERCENT FLICKER AND THE FLICKER INDEX PROVIDES A SIMPLE AND POWERFUL TOOL FOR CLASSIFYING THE SAFETY OF MODULATING LIGHT SOURCES
-
-     (WP06, 460-467)
+- content: A VALIDIATION STUDY OF THE CIE CORRECTION METHOD FOR NON-UNIFORM LIGHTING
+    CONDITIONS
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/the-link-between-percent-flicker-and-the-flicker-index-provides-a-simple-and-powerful-tool-for-classifying-the-safety-of-modulating-light-sources-wp06-460-467?product_id=2011383
+  content: https://store.accuristech.com/standards/cie-x051-2025-d7qyoe?product_id=3039893
 docidentifier:
-- content: CIE WP06 460-467
+- content: CIE x051:2025/d7qyoe
   type: CIE
   primary: true
-docnumber: WP06 460-467
+docnumber: x051:2025/d7qyoe
 date:
 - type: published
-  at: '2017-10-23'
+  at: '2025-11-01'
 contributor:
 - role:
   - type: author
@@ -32,17 +28,26 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: L
+        initial: D
       - language: en
         script: Latn
-        initial: L
-      - language: en
-        script: Latn
-        initial: A
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Price
+        content: Kim
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Wienold
 - role:
   - type: publisher
   organization:

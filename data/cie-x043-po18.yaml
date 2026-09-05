@@ -1,25 +1,23 @@
 ---
-id: CIEOP25155160
+id: CIEx043PO18
 schema_version: v1.5.6
 type: standard
 title:
-- content: STRUCTURAL MATERIAL EFFECTS ON DISCOMFORT GLARE IN THE DARK CAB (OP25,
-    155-160)
+- content: VISUAL EVALUATION OF WHITE SAMPLES NEAR TO CIE LIMITS (PO18, Pages 484-492)
   type: title-main
-- content: STRUCTURAL MATERIAL EFFECTS ON DISCOMFORT GLARE IN THE DARK CAB (OP25,
-    155-160)
+- content: VISUAL EVALUATION OF WHITE SAMPLES NEAR TO CIE LIMITS (PO18, Pages 484-492)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/structural-material-effects-on-discomfort-glare-in-the-dark-cab-op25-155-160?product_id=2016238
+  content: https://store.accuristech.com/standards/visual-evaluation-of-white-samples-near-to-cie-limits-po18-pages-484-492?product_id=1941850
 docidentifier:
-- content: CIE OP25 155-160
+- content: CIE x043-PO18
   type: CIE
   primary: true
-docnumber: OP25 155-160
+docnumber: PO18 Pages 484-492
 date:
 - type: published
-  at: '2018-05-01'
+  at: '2016-09-01'
 contributor:
 - role:
   - type: author
@@ -28,26 +26,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: L
+        initial: M
       surname:
         language: en
         script: Latn
-        content: Zhou
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: "Y"
-      - language: en
-        script: Latn
-        initial: D
-      surname:
-        language: en
-        script: Latn
-        content: Lin
+        content: Vik
 - role:
   - type: publisher
   organization:

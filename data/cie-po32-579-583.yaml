@@ -1,23 +1,23 @@
 ---
-id: CIEx044OP10
+id: CIEPO32579583
 schema_version: v1.5.6
 type: standard
 title:
-- content: PROPOSAL FOR A NEW GENERAL V(Λ) MISMATCH INDEX (OP10, 73-78)
+- content: INNOVATIVE PUPIL DETECTOR EQUIPMENT (PO32, 579-583)
   type: title-main
-- content: PROPOSAL FOR A NEW GENERAL V(Λ) MISMATCH INDEX (OP10, 73-78)
+- content: INNOVATIVE PUPIL DETECTOR EQUIPMENT (PO32, 579-583)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/proposal-for-a-new-general-v-mismatch-index-op10-73-78?product_id=2009527
+  content: https://store.accuristech.com/standards/innovative-pupil-detector-equipment-po32-579-583?product_id=2016308
 docidentifier:
-- content: CIE x044-OP10
+- content: CIE PO32 579-583
   type: CIE
   primary: true
-docnumber: OP10 73-78
+docnumber: PO32 579-583
 date:
 - type: published
-  at: '2017-10-23'
+  at: '2018-05-01'
 contributor:
 - role:
   - type: author
@@ -26,11 +26,29 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: A
+        initial: Z
+      - language: en
+        script: Latn
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Ferrero
+        content: Lian
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: W
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: Tseng
 - role:
   - type: author
   person:
@@ -41,35 +59,11 @@ contributor:
         initial: J
       - language: en
         script: Latn
-        initial: L
+        initial: W
       surname:
         language: en
         script: Latn
-        content: Velazquez
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: A
-      surname:
-        language: en
-        script: Latn
-        content: Pons
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: J
-      surname:
-        language: en
-        script: Latn
-        content: Campos
+        content: Whang
 - role:
   - type: publisher
   organization:
