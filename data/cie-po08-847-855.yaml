@@ -1,0 +1,105 @@
+---
+id: CIEPO08847855
+schema_version: v1.5.6
+type: standard
+title:
+- content: STUDY ON SPECTRAL COMPOSITION OF WHITE LIGHT-EMITTING-DIODE FOR CHINESE
+    TRADITIONAL PAINTING (PO08, 847-855)
+  type: title-main
+- content: STUDY ON SPECTRAL COMPOSITION OF WHITE LIGHT-EMITTING-DIODE FOR CHINESE
+    TRADITIONAL PAINTING (PO08, 847-855)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/study-on-spectral-composition-of-white-light-emitting-diode-for-chinese-traditional-painting-po08-847-855?product_id=2011159
+docidentifier:
+- content: CIE PO08 847-855
+  type: CIE
+  primary: true
+docnumber: PO08 847-855
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Dang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "N"
+      surname:
+        language: en
+        script: Latn
+        content: Wang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Yuan
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Liu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: G
+      surname:
+        language: en
+        script: Latn
+        content: Liu
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

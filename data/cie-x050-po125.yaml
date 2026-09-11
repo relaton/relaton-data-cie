@@ -1,48 +1,26 @@
 ---
-id: CIEx0512025rjdv5n
+id: CIEx050PO125
 schema_version: v1.5.6
 type: standard
 title:
-- content: PSYCHOPHYSICAL EXPERIMENT TOWARDS A MEASUREMENT SCALE OF SPARKLE
+- content: IMPACT OF DAYLIGHT CHANGES ON PSYCHOLOGICAL AND PHYSIOLOGICAL ASPECTS OF
+    RESIDENTS IN AN APARTMENT BUILDING
   type: title-main
-- content: PSYCHOPHYSICAL EXPERIMENT TOWARDS A MEASUREMENT SCALE OF SPARKLE
+- content: IMPACT OF DAYLIGHT CHANGES ON PSYCHOLOGICAL AND PHYSIOLOGICAL ASPECTS OF
+    RESIDENTS IN AN APARTMENT BUILDING
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x051-2025-rjdv5n?product_id=3039172
+  content: https://store.accuristech.com/standards/cie-x050-po125?product_id=2579191
 docidentifier:
-- content: CIE x051:2025/rjdv5n
+- content: CIE x050-PO125
   type: CIE
   primary: true
-docnumber: x051:2025/rjdv5n
+docnumber: x050-PO125
 date:
 - type: published
-  at: '2025-11-01'
+  at: '2023-12-29'
 contributor:
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: "N"
-      surname:
-        language: en
-        script: Latn
-        content: Slembrouck
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: A
-      surname:
-        language: en
-        script: Latn
-        content: Ferrero
 - role:
   - type: author
   person:
@@ -54,19 +32,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Perales
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: "N"
-      surname:
-        language: en
-        script: Latn
-        content: Basic
+        content: Murayama
 - role:
   - type: author
   person:
@@ -78,7 +44,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Audenaert
+        content: Heo
 - role:
   - type: author
   person:
@@ -86,14 +52,23 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: F
-      - language: en
-        script: Latn
-        initial: B
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Leloup
+        content: Kubo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Yoshida
 - role:
   - type: publisher
   organization:
