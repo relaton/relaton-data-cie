@@ -1,23 +1,29 @@
 ---
-id: CIEx0512025e7zpkx
+id: CIEOP43303313
 schema_version: v1.5.6
 type: standard
 title:
-- content: TLM EFFECT ON VISUAL PERCEPTION ON LANDOLT C
+- content: |-
+    PRELIMINARY STUDY ON SPECTRAL CHARACTERISTICS FOR IDENTIFICATION OF SKIN COLOUR UNDER CIRCULATORY DYSFUNCTION USING ARTIFICIAL SKIN SAMPLES
+
+     (OP43, 303-313)
   type: title-main
-- content: TLM EFFECT ON VISUAL PERCEPTION ON LANDOLT C
+- content: |-
+    PRELIMINARY STUDY ON SPECTRAL CHARACTERISTICS FOR IDENTIFICATION OF SKIN COLOUR UNDER CIRCULATORY DYSFUNCTION USING ARTIFICIAL SKIN SAMPLES
+
+     (OP43, 303-313)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x051-2025-e7zpkx?product_id=3039898
+  content: https://store.accuristech.com/standards/preliminary-study-on-spectral-characteristics-for-identification-of-skin-colour-under-circulatory-dysfunction-using-artificial-skin-samples-op43-303-313?product_id=2010515
 docidentifier:
-- content: CIE x051:2025/e7zpkx
+- content: CIE OP43 303-313
   type: CIE
   primary: true
-docnumber: x051:2025/e7zpkx
+docnumber: OP43 303-313
 date:
 - type: published
-  at: '2025-11-01'
+  at: '2017-10-23'
 contributor:
 - role:
   - type: author
@@ -26,11 +32,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: J
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Lee
+        content: Akizuki
 - role:
   - type: author
   person:
@@ -38,27 +44,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: H
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Kang
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Lee
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: C-S.
+        content: Ohno
 - role:
   - type: publisher
   organization:
