@@ -1,10 +1,13 @@
+---
 id: CIEISO236032024
 schema_version: v1.5.6
 type: standard
 title:
-- content: Standard method of assessing the spectral quality of daylight simulators for visual appraisal and measurement of colour
+- content: Standard method of assessing the spectral quality of daylight simulators
+    for visual appraisal and measurement of colour
   type: title-main
-- content: Standard method of assessing the spectral quality of daylight simulators for visual appraisal and measurement of colour
+- content: Standard method of assessing the spectral quality of daylight simulators
+    for visual appraisal and measurement of colour
   type: main
 source:
 - type: src
@@ -41,9 +44,11 @@ relation:
 - type: updates
   bibitem:
     title:
-    - content: Standard method of assessing the spectral quality of daylight simulators for visual appraisal and measurement of colour
+    - content: Standard method of assessing the spectral quality of daylight simulators
+        for visual appraisal and measurement of colour
       type: title-main
-    - content: Standard method of assessing the spectral quality of daylight simulators for visual appraisal and measurement of colour
+    - content: Standard method of assessing the spectral quality of daylight simulators
+        for visual appraisal and measurement of colour
       type: main
     source:
     - type: src

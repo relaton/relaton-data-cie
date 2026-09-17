@@ -1,3 +1,4 @@
+---
 id: CIEDIS024E2013
 schema_version: v1.5.6
 type: standard
@@ -47,7 +48,8 @@ relation:
       type: title-main
     - content: Terms and Definitions
       type: title-part
-    - content: 'ILV: International Lighting Vocabulary - Supplement 1: Light Emitting Diodes (LEDs) and LED Assemblies - Terms and Definitions'
+    - content: 'ILV: International Lighting Vocabulary - Supplement 1: Light Emitting
+        Diodes (LEDs) and LED Assemblies - Terms and Definitions'
       type: main
     source:
     - type: src

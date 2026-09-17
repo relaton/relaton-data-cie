@@ -1,3 +1,4 @@
+---
 id: CIEDIS025SP1E2019
 schema_version: v1.5.6
 type: standard
@@ -43,7 +44,8 @@ relation:
       type: title-intro
     - content: 'Supplement 1: Test Method for OLED Luminaires and OLED Light Sources'
       type: title-main
-    - content: 'Test Method for LED Lamps, LED Luminaires and LED Modules - Supplement 1: Test Method for OLED Luminaires and OLED Light Sources'
+    - content: 'Test Method for LED Lamps, LED Luminaires and LED Modules - Supplement
+        1: Test Method for OLED Luminaires and OLED Light Sources'
       type: main
     source:
     - type: src
