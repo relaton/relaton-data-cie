@@ -1,22 +1,28 @@
-id: CIEx050PO161
+id: CIEOP46329339
 schema_version: v1.5.6
 type: standard
 title:
-- content: AN ENERGY EFFICIENT HUMAN CENTERED LIGHTING FOR OPEN PLAN OFFICES WITH COMFORT CRITERIA
+- content: |-
+    METHODS TO QUANTIFY THE EFFECT OF LIGHT EXPOSURE IN HUMANS AND THEIR PRACTICAL APPLICATION
+
+     (OP46, 329-339)
   type: title-main
-- content: AN ENERGY EFFICIENT HUMAN CENTERED LIGHTING FOR OPEN PLAN OFFICES WITH COMFORT CRITERIA
+- content: |-
+    METHODS TO QUANTIFY THE EFFECT OF LIGHT EXPOSURE IN HUMANS AND THEIR PRACTICAL APPLICATION
+
+     (OP46, 329-339)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x050-po161?product_id=2579222
+  content: https://store.accuristech.com/standards/methods-to-quantify-the-effect-of-light-exposure-in-humans-and-their-practical-application-op46-329-339?product_id=2010518
 docidentifier:
-- content: CIE x050-PO161
+- content: CIE OP46 329-339
   type: CIE
   primary: true
-docnumber: x050-PO161
+docnumber: OP46 329-339
 date:
 - type: published
-  at: '2023-12-29'
+  at: '2017-10-23'
 contributor:
 - role:
   - type: author
@@ -25,11 +31,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: S
+        initial: F
       surname:
         language: en
         script: Latn
-        content: Aliparast
+        content: Wieland
 - role:
   - type: author
   person:
@@ -37,11 +43,23 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: S
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Onaygil
+        content: Guldner
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: Ritter
 - role:
   - type: publisher
   organization:
