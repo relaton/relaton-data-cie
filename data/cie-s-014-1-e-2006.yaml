@@ -2,25 +2,23 @@ id: CIES0141E2006
 schema_version: v1.5.6
 type: standard
 title:
-- content: Colorimetry
+- content: CIE standard colorimetric observers
   type: title-main
-- content: 'Part 1: CIE standard colorimetric observers'
-  type: title-part
-- content: 'Colorimetry - Part 1: CIE standard colorimetric observers'
+- content: CIE standard colorimetric observers
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-s-014-1-e-2006-iso-11664-1-2007-e?product_id=1601625
+  content: https://store.accuristech.com/standards/cie-s-014-1-e-2006-iso-10527-2007-e?product_id=1529645
 docidentifier:
 - content: CIE S 014-1/E:2006
   type: CIE
   primary: true
-- content: ISO 11664-1:2007
+- content: ISO 10527:2007
   type: ISO
 docnumber: S 014-1/E:2006
 date:
 - type: published
-  at: '2008-11-01'
+  at: '2007-10-15'
 contributor:
 - role:
   - type: publisher
@@ -62,20 +60,22 @@ relation:
 - type: updates
   bibitem:
     title:
-    - content: CIE standard colorimetric observers
+    - content: Colorimetry
       type: title-main
-    - content: CIE standard colorimetric observers
+    - content: 'Part 1: CIE standard colorimetric observers'
+      type: title-part
+    - content: 'Colorimetry - Part 1: CIE standard colorimetric observers'
       type: main
     source:
     - type: src
-      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-014-1-e-2006-iso-10527-2007-e?product_id=1529645
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-014-1-e-2006-iso-11664-1-2007-e?product_id=1601625
     docidentifier:
-    - content: CIE S 014-1/E:2006 (ISO 10527:2007(E))
+    - content: CIE S 014-1/E:2006 (ISO 11664-1:2007(E))
       type: CIE
       primary: true
     date:
     - type: published
-      at: '2007-10-15'
+      at: '2008-11-01'
 ext:
   schema_version: v1.0.0
   doctype:

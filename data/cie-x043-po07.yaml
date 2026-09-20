@@ -1,22 +1,22 @@
-id: CIEx0512025dehqjf
+id: CIEx043PO07
 schema_version: v1.5.6
 type: standard
 title:
-- content: AN EXPERIMENTAL INVESTIGATION ON DEVELOPING A VISIBILITY MEASURE FOR THE PHANTOM ARRAY EFFECT FOR GENERAL LIGHTING APPLICATIONS
+- content: INFLUENCE OF DIFFERENT ROOM SURFACE COLOURS ON THE MELANOPIC FACTOR (PO07, Pages 230-235)
   type: title-main
-- content: AN EXPERIMENTAL INVESTIGATION ON DEVELOPING A VISIBILITY MEASURE FOR THE PHANTOM ARRAY EFFECT FOR GENERAL LIGHTING APPLICATIONS
+- content: INFLUENCE OF DIFFERENT ROOM SURFACE COLOURS ON THE MELANOPIC FACTOR (PO07, Pages 230-235)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x051-2025-dehqjf?product_id=3039156
+  content: https://store.accuristech.com/standards/influence-of-different-room-surface-colours-on-the-melanopic-factor-po07-pages-230-235?product_id=1941837
 docidentifier:
-- content: CIE x051:2025/dehqjf
+- content: CIE x043-PO07
   type: CIE
   primary: true
-docnumber: x051:2025/dehqjf
+docnumber: PO07 Pages 230-235
 date:
 - type: published
-  at: '2025-11-01'
+  at: '2016-09-01'
 contributor:
 - role:
   - type: author
@@ -25,11 +25,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: X
+        initial: S
       surname:
         language: en
         script: Latn
-        content: Kong
+        content: Knoche
 - role:
   - type: author
   person:
@@ -37,23 +37,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: M
+        initial: R
       surname:
         language: en
         script: Latn
-        content: Perz
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: I
-      surname:
-        language: en
-        script: Latn
-        content: Heynderickx
+        content: Kirsch
 - role:
   - type: publisher
   organization:

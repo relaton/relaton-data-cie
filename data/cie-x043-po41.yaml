@@ -1,22 +1,22 @@
-id: CIEx0512025q9tjg8
+id: CIEx043PO41
 schema_version: v1.5.6
 type: standard
 title:
-- content: INTRA-LENS-SPECTROMETER FOR A NEAR-EYE DISPLAY MEASUREMENT APPLICATION
+- content: EVALUATION INDEX FOR THE VISUAL APPEARANCE AND THE TACTILE TEXTURE (PO41, Pages 401-407)
   type: title-main
-- content: INTRA-LENS-SPECTROMETER FOR A NEAR-EYE DISPLAY MEASUREMENT APPLICATION
+- content: EVALUATION INDEX FOR THE VISUAL APPEARANCE AND THE TACTILE TEXTURE (PO41, Pages 401-407)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x051-2025-q9tjg8?product_id=3039357
+  content: https://store.accuristech.com/standards/evaluation-index-for-the-visual-appearance-and-the-tactile-texture-po41-pages-401-407?product_id=1941863
 docidentifier:
-- content: CIE x051:2025/q9tjg8
+- content: CIE x043-PO41
   type: CIE
   primary: true
-docnumber: x051:2025/q9tjg8
+docnumber: PO41 Pages 401-407
 date:
 - type: published
-  at: '2025-11-01'
+  at: '2016-09-01'
 contributor:
 - role:
   - type: author
@@ -29,7 +29,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Schramm
+        content: Kitamura
 - role:
   - type: author
   person:
@@ -37,11 +37,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: U
+        initial: K
       surname:
         language: en
         script: Latn
-        content: Krüger
+        content: Sugita
 - role:
   - type: author
   person:
@@ -49,23 +49,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: S
+        initial: "N"
       surname:
         language: en
         script: Latn
-        content: Görlich
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: J
-      surname:
-        language: en
-        script: Latn
-        content: Mende
+        content: Isoda
 - role:
   - type: publisher
   organization:
