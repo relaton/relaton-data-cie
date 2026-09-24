@@ -1,23 +1,29 @@
 ---
-id: CIEOP34201208
+id: CIEPO6410121017
 schema_version: v1.5.6
 type: standard
 title:
-- content: EXPERIMENTAL EVALUATION OF DIFFERENT BRIGHTNESS PERCEPTION MODELS BASED ON HUMAN PUPIL LIGHT RESPONSES (OP34, 201-208)
+- content: |-
+    STUDY ON THE EFFECT OF COLOUR TEMPERATURE ON LEARNING
+
+     (PO64, 1012-1017)
   type: title-main
-- content: EXPERIMENTAL EVALUATION OF DIFFERENT BRIGHTNESS PERCEPTION MODELS BASED ON HUMAN PUPIL LIGHT RESPONSES (OP34, 201-208)
+- content: |-
+    STUDY ON THE EFFECT OF COLOUR TEMPERATURE ON LEARNING
+
+     (PO64, 1012-1017)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/experimental-evaluation-of-different-brightness-perception-models-based-on-human-pupil-light-responses-op34-201-208?product_id=2016244
+  content: https://store.accuristech.com/standards/study-on-the-effect-of-colour-temperature-on-learning-po64-1012-1017?product_id=2011169
 docidentifier:
-- content: CIE OP34 201-208
+- content: CIE PO64 1012-1017
   type: CIE
   primary: true
-docnumber: OP34 201-208
+docnumber: PO64 1012-1017
 date:
 - type: published
-  at: '2018-05-01'
+  at: '2017-10-23'
 contributor:
 - role:
   - type: author
@@ -26,11 +32,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: B
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Zandi
+        content: Kuroiwa
 - role:
   - type: author
   person:
@@ -38,11 +44,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: X
+        initial: K
       surname:
         language: en
         script: Latn
-        content: Guo
+        content: Kimura
 - role:
   - type: author
   person:
@@ -50,11 +56,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: P
+        initial: R
       surname:
         language: en
         script: Latn
-        content: Bodrogi
+        content: Yuyama
 - role:
   - type: author
   person:
@@ -62,14 +68,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: T
-      - language: en
-        script: Latn
-        initial: Q
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Khanh
+        content: Takahashi
 - role:
   - type: publisher
   organization:

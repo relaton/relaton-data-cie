@@ -1,23 +1,23 @@
 ---
-id: CIEOP084349
+id: CIEx050PP003
 schema_version: v1.5.6
 type: standard
 title:
-- content: COMPUTER GRAPHICS AND LIGHTING TECHNOLOGY SCIENCE. ON THE WAY TO THE CRITERIA OF THE ILLUMINATION QUALITY (OP08, 43-49)
+- content: DEGRADATION OF BIOLOGICAL POTENCY IN LED LIGHT SOURCES WITH LIFETIME
   type: title-main
-- content: COMPUTER GRAPHICS AND LIGHTING TECHNOLOGY SCIENCE. ON THE WAY TO THE CRITERIA OF THE ILLUMINATION QUALITY (OP08, 43-49)
+- content: DEGRADATION OF BIOLOGICAL POTENCY IN LED LIGHT SOURCES WITH LIFETIME
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/computer-graphics-and-lighting-technology-science-on-the-way-to-the-criteria-of-the-illumination-quality-op08-43-49?product_id=2016203
+  content: https://store.accuristech.com/standards/cie-x050-pp003?product_id=2578642
 docidentifier:
-- content: CIE OP08 43-49
+- content: CIE x050-PP003
   type: CIE
   primary: true
-docnumber: OP08 43-49
+docnumber: x050-PP003
 date:
 - type: published
-  at: '2018-05-01'
+  at: '2023-12-29'
 contributor:
 - role:
   - type: author
@@ -26,59 +26,47 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: V
-      - language: en
-        script: Latn
-        initial: P
-      surname:
-        language: en
-        script: Latn
-        content: Budak
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: V
-      - language: en
-        script: Latn
-        initial: D
-      surname:
-        language: en
-        script: Latn
-        content: Chembaev
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: T
-      - language: en
-        script: Latn
-        initial: V
-      surname:
-        language: en
-        script: Latn
-        content: Meshkova
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: V
-      - language: en
-        script: Latn
         initial: S
       surname:
         language: en
         script: Latn
-        content: Zheltov
+        content: Belgers
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Schlangen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Cuijpers
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: I
+      surname:
+        language: en
+        script: Latn
+        content: Heynderickx
 - role:
   - type: publisher
   organization:
