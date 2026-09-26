@@ -1,0 +1,113 @@
+---
+id: CIEPO6910471055
+schema_version: v1.5.6
+type: standard
+title:
+- content: |-
+    STUDY ON THE EFFECT OF LED'S CORRELATED COLOUR TEMPERATURE AND ILLUMINANCE ON  MUSEUM LIGHTING
+     (PO69, 1047-1055)
+  type: title-main
+- content: |-
+    STUDY ON THE EFFECT OF LED'S CORRELATED COLOUR TEMPERATURE AND ILLUMINANCE ON  MUSEUM LIGHTING
+     (PO69, 1047-1055)
+  type: main
+source:
+- type: src
+  content: https://store.accuristech.com/standards/study-on-the-effect-of-led-s-correlated-colour-temperature-and-illuminance-on-museum-lighting-po69-1047-1055?product_id=2011217
+docidentifier:
+- content: CIE PO69 1047-1055
+  type: CIE
+  primary: true
+docnumber: PO69 1047-1055
+date:
+- type: published
+  at: '2017-10-23'
+contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Dong
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Luo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: L
+      surname:
+        language: en
+        script: Latn
+        content: Qin
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: P
+      surname:
+        language: en
+        script: Latn
+        content: QianQian
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: W
+      surname:
+        language: en
+        script: Latn
+        content: Stephen
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: cie.co.at
+    name:
+    - content: Commission Internationale de L'Eclairage
+    abbreviation:
+      content: CIE
+language:
+- en
+script:
+- Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: document
+  flavor: cie

@@ -3,13 +3,13 @@ id: CIEx0382013
 schema_version: v1.5.6
 type: standard
 title:
-- content: Proceedings of CIE Centenary Conference "Towards a New Century of Light", April 15/16, 2013, Paris, France
+- content: CIE x038:2013
   type: title-main
-- content: Proceedings of CIE Centenary Conference "Towards a New Century of Light", April 15/16, 2013, Paris, France
+- content: CIE x038:2013
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x038-2013?product_id=1857434
+  content: https://store.accuristech.com/standards/cie-x038-2013?product_id=1860287
 docidentifier:
 - content: CIE x038:2013
   type: CIE
@@ -19,7 +19,7 @@ docidentifier:
 docnumber: x038:2013
 date:
 - type: published
-  at: '2013-04-15'
+  at: '2013-06-01'
 contributor:
 - role:
   - type: publisher
@@ -42,20 +42,20 @@ relation:
 - type: updates
   bibitem:
     title:
-    - content: Proceedings of CIE Centenary Conference "Towards a New Century of Light", April 15/16, 2013, Paris, France (including Addendum 1)
+    - content: Proceedings of CIE Centenary Conference "Towards a New Century of Light", April 15/16, 2013, Paris, France
       type: title-main
-    - content: Proceedings of CIE Centenary Conference "Towards a New Century of Light", April 15/16, 2013, Paris, France (including Addendum 1)
+    - content: Proceedings of CIE Centenary Conference "Towards a New Century of Light", April 15/16, 2013, Paris, France
       type: main
     source:
     - type: src
-      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-x038-2013?product_id=1860287
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-x038-2013?product_id=1857434
     docidentifier:
     - content: CIE x038:2013
       type: CIE
       primary: true
     date:
     - type: published
-      at: '2013-06-01'
+      at: '2013-04-15'
 ext:
   schema_version: v1.0.0
   doctype:
