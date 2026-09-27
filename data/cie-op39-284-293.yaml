@@ -1,23 +1,29 @@
 ---
-id: CIEx043PO07
+id: CIEOP39284293
 schema_version: v1.5.6
 type: standard
 title:
-- content: INFLUENCE OF DIFFERENT ROOM SURFACE COLOURS ON THE MELANOPIC FACTOR (PO07, Pages 230-235)
+- content: |-
+    NEW IMAGE BASED MEASUREMENT METHOD OF REFLECTIVE PROPERTIES OF ROAD SURFACES
+
+     (OP39, 284-293)
   type: title-main
-- content: INFLUENCE OF DIFFERENT ROOM SURFACE COLOURS ON THE MELANOPIC FACTOR (PO07, Pages 230-235)
+- content: |-
+    NEW IMAGE BASED MEASUREMENT METHOD OF REFLECTIVE PROPERTIES OF ROAD SURFACES
+
+     (OP39, 284-293)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/influence-of-different-room-surface-colours-on-the-melanopic-factor-po07-pages-230-235?product_id=1941837
+  content: https://store.accuristech.com/standards/new-image-based-measurement-method-of-reflective-properties-of-road-surfaces-op39-284-293?product_id=2010482
 docidentifier:
-- content: CIE x043-PO07
+- content: CIE OP39 284-293
   type: CIE
   primary: true
-docnumber: PO07 Pages 230-235
+docnumber: OP39 284-293
 date:
 - type: published
-  at: '2016-09-01'
+  at: '2017-10-23'
 contributor:
 - role:
   - type: author
@@ -30,7 +36,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Knoche
+        content: Buschmann
 - role:
   - type: author
   person:
@@ -38,11 +44,23 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: R
+        initial: J
       surname:
         language: en
         script: Latn
-        content: Kirsch
+        content: Steblau
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Volker
 - role:
   - type: publisher
   organization:

@@ -1,23 +1,23 @@
 ---
-id: CIEx043PP09
+id: CIEx0512025kprwf9
 schema_version: v1.5.6
 type: standard
 title:
-- content: PERCEPTION OF ILLUMINATION WHITENESS (OP01, Pages 1-7)
+- content: CIE x051:2025/kprwf9
   type: title-main
-- content: PERCEPTION OF ILLUMINATION WHITENESS (OP01, Pages 1-7)
+- content: CIE x051:2025/kprwf9
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/perception-of-illumination-whiteness-op01-pages-1-7?product_id=1941834
+  content: https://store.accuristech.com/standards/cie-x051-2025-kprwf9?product_id=3039165
 docidentifier:
-- content: CIE x043-PP09
+- content: CIE x051:2025/kprwf9
   type: CIE
   primary: true
-docnumber: OP01 Pages 1-7
+docnumber: x051:2025/kprwf9
 date:
 - type: published
-  at: '2016-09-01'
+  at: '2025-11-01'
 contributor:
 - role:
   - type: author
@@ -26,11 +26,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: J
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Mader
+        content: Ohno
 - role:
   - type: author
   person:
@@ -38,11 +38,43 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: V
+        initial: S
       surname:
         language: en
         script: Latn
-        content: Schumacher
+        content: Coyne
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Oh
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: C
+      surname:
+        language: en
+        script: Latn
+        content: J-S.; Dam-Hansen
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: M
+      surname:
+        language: en
+        script: Latn
+        content: Scholand
 - role:
   - type: author
   person:
@@ -54,7 +86,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Weishaar
+        content: Li
 - role:
   - type: author
   person:
@@ -62,11 +94,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: J
+        initial: G
       surname:
         language: en
         script: Latn
-        content: Steidle
+        content: Isoardi
 - role:
   - type: publisher
   organization:

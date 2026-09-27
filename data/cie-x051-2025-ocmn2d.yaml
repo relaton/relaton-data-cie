@@ -1,20 +1,20 @@
 ---
-id: CIEx0512025jwgn25
+id: CIEx0512025ocmn2d
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x051:2025/jwgn25
+- content: CIE x051:2025/ocmn2d
   type: title-main
-- content: CIE x051:2025/jwgn25
+- content: CIE x051:2025/ocmn2d
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x051-2025-jwgn25?product_id=3039921
+  content: https://store.accuristech.com/standards/cie-x051-2025-ocmn2d?product_id=3039929
 docidentifier:
-- content: CIE x051:2025/jwgn25
+- content: CIE x051:2025/ocmn2d
   type: CIE
   primary: true
-docnumber: x051:2025/jwgn25
+docnumber: x051:2025/ocmn2d
 date:
 - type: published
   at: '2025-11-01'
@@ -26,11 +26,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: M
+        initial: "N"
       surname:
         language: en
         script: Latn
-        content: Németh
+        content: Richard
 - role:
   - type: author
   person:
@@ -38,35 +38,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: J
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Hegedüs
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: G
-      surname:
-        language: en
-        script: Latn
-        content: Hantos
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: A
-      surname:
-        language: en
-        script: Latn
-        content: Poppe
+        content: Chatoux
 - role:
   - type: publisher
   organization:

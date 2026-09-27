@@ -1,23 +1,23 @@
 ---
-id: CIEx050PO014
+id: CIEx044OP11
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x050-PO014
+- content: GENERIC GLARE MODELS FOR PREDICTING NON-UNIFORM AND COLOURED  LED SOURCES (OP11, 79-82)
   type: title-main
-- content: CIE x050-PO014
+- content: GENERIC GLARE MODELS FOR PREDICTING NON-UNIFORM AND COLOURED  LED SOURCES (OP11, 79-82)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x050-po014?product_id=2579050
+  content: https://store.accuristech.com/standards/generic-glare-models-for-predicting-non-uniform-and-coloured-led-sources-op11-79-82?product_id=2009528
 docidentifier:
-- content: CIE x050-PO014
+- content: CIE x044-OP11
   type: CIE
   primary: true
-docnumber: x050-PO014
+docnumber: OP11 79-82
 date:
 - type: published
-  at: '2023-12-29'
+  at: '2017-10-23'
 contributor:
 - role:
   - type: author
@@ -26,11 +26,41 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: D
+        initial: M
+      - language: en
+        script: Latn
+        initial: R
       surname:
         language: en
         script: Latn
-        content: Yesiltepe
+        content: Luo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: "Y"
+      surname:
+        language: en
+        script: Latn
+        content: Yang
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: W
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Huang
 - role:
   - type: author
   person:
@@ -39,34 +69,13 @@ contributor:
       - language: en
         script: Latn
         initial: S
-      surname:
-        language: en
-        script: Latn
-        content: Fotios
-- role:
-  - type: author
-  person:
-    name:
-      forename:
       - language: en
         script: Latn
-        initial: J
+        initial: "N"
       surname:
         language: en
         script: Latn
-        content: Uttley
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: M
-      surname:
-        language: en
-        script: Latn
-        content: Balela
+        content: Ma
 - role:
   - type: publisher
   organization:

@@ -1,23 +1,23 @@
 ---
-id: CIEPO07839846
+id: CIEx050PO042
 schema_version: v1.5.6
 type: standard
 title:
-- content: PROPOSAL OF THE METHODS TO CONTROL ILLUMINANCE AND CHROMATICITY AT THE SAME TIME IN THE FULL-COLOR ILLUMINATON LABORATORY (PO07, 839-846)
+- content: CIE x050-PO042
   type: title-main
-- content: PROPOSAL OF THE METHODS TO CONTROL ILLUMINANCE AND CHROMATICITY AT THE SAME TIME IN THE FULL-COLOR ILLUMINATON LABORATORY (PO07, 839-846)
+- content: CIE x050-PO042
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/proposal-of-the-methods-to-control-illuminance-and-chromaticity-at-the-same-time-in-the-full-color-illuminaton-laboratory-po07-839-846?product_id=2011158
+  content: https://store.accuristech.com/standards/cie-x050-po042?product_id=2579093
 docidentifier:
-- content: CIE PO07 839-846
+- content: CIE x050-PO042
   type: CIE
   primary: true
-docnumber: PO07 839-846
+docnumber: x050-PO042
 date:
 - type: published
-  at: '2017-10-23'
+  at: '2023-12-29'
 contributor:
 - role:
   - type: author
@@ -26,11 +26,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: S
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Tamura
+        content: Wu
 - role:
   - type: author
   person:
@@ -38,11 +38,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: M
+        initial: R
       surname:
         language: en
         script: Latn
-        content: Miki
+        content: Qiu
 - role:
   - type: author
   person:
@@ -50,11 +50,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: T
+        initial: J
       surname:
         language: en
         script: Latn
-        content: Takenaka
+        content: Kaempf
 - role:
   - type: author
   person:
@@ -62,11 +62,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: S
+        initial: J
       surname:
         language: en
         script: Latn
-        content: Nakahara
+        content: Scartezzini
 - role:
   - type: author
   person:
@@ -74,23 +74,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: H
+        initial: L
       surname:
         language: en
         script: Latn
-        content: Nasu
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: H
-      surname:
-        language: en
-        script: Latn
-        content: Aida
+        content: Hao
 - role:
   - type: publisher
   organization:

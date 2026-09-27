@@ -1,42 +1,24 @@
 ---
-id: CIEPP21611621
+id: CIEx05120255yofj7
 schema_version: v1.5.6
 type: standard
 title:
-- content: |-
-    DISTRIBUTION OF REFLECTANCE ON WALLS AND CEILINGS AND THEIR INFLUENCE ON LIGHTING PARAMETERS
-
-     (PP21, 611-621)
+- content: CIE x051:2025/5yofj7
   type: title-main
-- content: |-
-    DISTRIBUTION OF REFLECTANCE ON WALLS AND CEILINGS AND THEIR INFLUENCE ON LIGHTING PARAMETERS
-
-     (PP21, 611-621)
+- content: CIE x051:2025/5yofj7
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/distribution-of-reflectance-on-walls-and-ceilings-and-their-influence-on-lighting-parameters-pp21-611-621?product_id=2011352
+  content: https://store.accuristech.com/standards/cie-x051-2025-5yofj7?product_id=3039600
 docidentifier:
-- content: CIE PP21 611-621
+- content: CIE x051:2025/5yofj7
   type: CIE
   primary: true
-docnumber: PP21 611-621
+docnumber: x051:2025/5yofj7
 date:
 - type: published
-  at: '2017-10-23'
+  at: '2025-11-01'
 contributor:
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: D
-      surname:
-        language: en
-        script: Latn
-        content: Gasparovsky
 - role:
   - type: author
   person:
@@ -48,7 +30,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Dubnicka
+        content: Daneels
 - role:
   - type: author
   person:
@@ -56,11 +38,26 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: J
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Raditschova
+        content: Meuret
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: W
+      - language: en
+        script: Latn
+        initial: R
+      surname:
+        language: en
+        script: Latn
+        content: Ryckaert
 - role:
   - type: publisher
   organization:

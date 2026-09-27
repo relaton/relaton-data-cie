@@ -1,24 +1,28 @@
 ---
-id: CIEOP25173179
+id: CIEPO24881891
 schema_version: v1.5.6
 type: standard
 title:
 - content: |-
-    TESTING A MESOPIC ADAPTATION SIMULATION METHOD WITH SIMPLE LUMINANCE DISTRIBUTIONS
-     (OP25, 173-179)
+    EFFECTS OF MUSEUM ILLUMINATION ON CHINESE TRADITIONAL HEAVY COLOUR PAINTING BASED ON RAMAN SPECTROSCOPY
+
+
+     (PO24, 881-891)
   type: title-main
 - content: |-
-    TESTING A MESOPIC ADAPTATION SIMULATION METHOD WITH SIMPLE LUMINANCE DISTRIBUTIONS
-     (OP25, 173-179)
+    EFFECTS OF MUSEUM ILLUMINATION ON CHINESE TRADITIONAL HEAVY COLOUR PAINTING BASED ON RAMAN SPECTROSCOPY
+
+
+     (PO24, 881-891)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/testing-a-mesopic-adaptation-simulation-method-with-simple-luminance-distributions-op25-173-179?product_id=2010466
+  content: https://store.accuristech.com/standards/effects-of-museum-illumination-on-chinese-traditional-heavy-colour-painting-based-on-raman-spectroscopy-po24-881-891?product_id=2011164
 docidentifier:
-- content: CIE OP25 173-179
+- content: CIE PO24 881-891
   type: CIE
   primary: true
-docnumber: OP25 173-179
+docnumber: PO24 881-891
 date:
 - type: published
   at: '2017-10-23'
@@ -30,11 +34,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: T
+        initial: R
       surname:
         language: en
         script: Latn
-        content: Uchida
+        content: Dang
 - role:
   - type: author
   person:
@@ -42,11 +46,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "Y"
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Akashi
+        content: Tan
 - role:
   - type: author
   person:
@@ -54,11 +58,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "N"
+        initial: D
       surname:
         language: en
         script: Latn
-        content: Terai
+        content: Li
 - role:
   - type: author
   person:
@@ -66,11 +70,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: K
+        initial: G
       surname:
         language: en
         script: Latn
-        content: Iwamoto
+        content: Liu
 - role:
   - type: publisher
   organization:

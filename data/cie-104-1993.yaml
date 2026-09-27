@@ -1,25 +1,25 @@
 ---
-id: CIE0491981
+id: CIE1041993
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE 049-1981
+- content: CIE 104-1993
   type: title-main
-- content: CIE 049-1981
+- content: CIE 104-1993
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-049-1981?product_id=1209981
+  content: https://store.accuristech.com/standards/cie-104-1993?product_id=1210026
 docidentifier:
-- content: CIE 049-1981
+- content: CIE 104-1993
   type: CIE
   primary: true
-- content: '9789290340492'
+- content: '9783900734435'
   type: ISBN
-docnumber: '049-1981'
+docnumber: 104-1993
 date:
 - type: published
-  at: '1981-01-01'
+  at: '1993-01-01'
 contributor:
 - role:
   - type: publisher

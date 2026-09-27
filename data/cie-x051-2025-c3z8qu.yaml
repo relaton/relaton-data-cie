@@ -1,20 +1,20 @@
 ---
-id: CIEx05120252xgrxf
+id: CIEx0512025c3z8qu
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x051:2025/2xgrxf
+- content: CIE x051:2025/c3z8qu
   type: title-main
-- content: CIE x051:2025/2xgrxf
+- content: CIE x051:2025/c3z8qu
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x051-2025-2xgrxf?product_id=3039585
+  content: https://store.accuristech.com/standards/cie-x051-2025-c3z8qu?product_id=3039885
 docidentifier:
-- content: CIE x051:2025/2xgrxf
+- content: CIE x051:2025/c3z8qu
   type: CIE
   primary: true
-docnumber: x051:2025/2xgrxf
+docnumber: x051:2025/c3z8qu
 date:
 - type: published
   at: '2025-11-01'
@@ -26,11 +26,23 @@ contributor:
       forename:
       - language: en
         script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Ishihara
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
         initial: M
       surname:
         language: en
         script: Latn
-        content: Aoyagi
+        content: Yumine
 - role:
   - type: author
   person:
@@ -42,7 +54,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Ohkubo
+        content: Mukai
 - role:
   - type: author
   person:
@@ -50,11 +62,23 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "Y"
+        initial: K
       surname:
         language: en
         script: Latn
-        content: Yamauchi
+        content: Hatta
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Uchida
 - role:
   - type: publisher
   organization:

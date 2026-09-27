@@ -1,60 +1,24 @@
 ---
-id: CIEx0512025cnzs3o
+id: CIEOP095054
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x051:2025/cnzs3o
+- content: STABLE COLOUR APPEARANCE AMONG CHANGE IN THE DIFFUSENESS OF ILLUMINATION (OP09, 50-54)
   type: title-main
-- content: CIE x051:2025/cnzs3o
+- content: STABLE COLOUR APPEARANCE AMONG CHANGE IN THE DIFFUSENESS OF ILLUMINATION (OP09, 50-54)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x051-2025-cnzs3o?product_id=3039891
+  content: https://store.accuristech.com/standards/stable-colour-appearance-among-change-in-the-diffuseness-of-illumination-op09-50-54?product_id=2016204
 docidentifier:
-- content: CIE x051:2025/cnzs3o
+- content: CIE OP09 50-54
   type: CIE
   primary: true
-docnumber: x051:2025/cnzs3o
+docnumber: OP09 50-54
 date:
 - type: published
-  at: '2025-11-01'
+  at: '2018-05-01'
 contributor:
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: H
-      surname:
-        language: en
-        script: Latn
-        content: Kage
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: M
-      surname:
-        language: en
-        script: Latn
-        content: Nomoto
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: K
-      surname:
-        language: en
-        script: Latn
-        content: Takase
 - role:
   - type: author
   person:
@@ -66,7 +30,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Ishiwata
+        content: Mizokami
 - role:
   - type: author
   person:
@@ -74,11 +38,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: K
+        initial: W
       surname:
         language: en
         script: Latn
-        content: Harimoto
+        content: Nozaki
 - role:
   - type: author
   person:
@@ -86,11 +50,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "N"
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Yoshizawa
+        content: Yaguchi
 - role:
   - type: publisher
   organization:
