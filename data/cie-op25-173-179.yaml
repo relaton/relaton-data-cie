@@ -1,24 +1,24 @@
 ---
-id: CIEOP17117121
+id: CIEOP25173179
 schema_version: v1.5.6
 type: standard
 title:
 - content: |-
-    EVALUATION OF GAMUT COMPRESSION ALGORITHMS WITH DIFFERENT NEUTRAL CONVERGENT POINTS IN DIFFERENT COLOUR SPACES
-     (OP17, 117-121)
+    TESTING A MESOPIC ADAPTATION SIMULATION METHOD WITH SIMPLE LUMINANCE DISTRIBUTIONS
+     (OP25, 173-179)
   type: title-main
 - content: |-
-    EVALUATION OF GAMUT COMPRESSION ALGORITHMS WITH DIFFERENT NEUTRAL CONVERGENT POINTS IN DIFFERENT COLOUR SPACES
-     (OP17, 117-121)
+    TESTING A MESOPIC ADAPTATION SIMULATION METHOD WITH SIMPLE LUMINANCE DISTRIBUTIONS
+     (OP25, 173-179)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/evaluation-of-gamut-compression-algorithms-with-different-neutral-convergent-points-in-different-colour-spaces-op17-117-121?product_id=2010427
+  content: https://store.accuristech.com/standards/testing-a-mesopic-adaptation-simulation-method-with-simple-luminance-distributions-op25-173-179?product_id=2010466
 docidentifier:
-- content: CIE OP17 117-121
+- content: CIE OP25 173-179
   type: CIE
   primary: true
-docnumber: OP17 117-121
+docnumber: OP25 173-179
 date:
 - type: published
   at: '2017-10-23'
@@ -30,11 +30,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: B
+        initial: T
       surname:
         language: en
         script: Latn
-        content: Zhao
+        content: Uchida
 - role:
   - type: author
   person:
@@ -42,11 +42,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: L
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Xu
+        content: Akashi
 - role:
   - type: author
   person:
@@ -54,14 +54,23 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: R
+        initial: "N"
       surname:
         language: en
         script: Latn
-        content: Luo
+        content: Terai
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: K
+      surname:
+        language: en
+        script: Latn
+        content: Iwamoto
 - role:
   - type: publisher
   organization:

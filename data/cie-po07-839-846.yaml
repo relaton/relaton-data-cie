@@ -1,20 +1,20 @@
 ---
-id: CIEx044OP12
+id: CIEPO07839846
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'DISCOMFORT GLARE FROM DAYLIGHTING: INFLUENCE OF CULTURE ON DISCOMFORT GLARE PERCEPETION (OP12, 83-93)'
+- content: PROPOSAL OF THE METHODS TO CONTROL ILLUMINANCE AND CHROMATICITY AT THE SAME TIME IN THE FULL-COLOR ILLUMINATON LABORATORY (PO07, 839-846)
   type: title-main
-- content: 'DISCOMFORT GLARE FROM DAYLIGHTING: INFLUENCE OF CULTURE ON DISCOMFORT GLARE PERCEPETION (OP12, 83-93)'
+- content: PROPOSAL OF THE METHODS TO CONTROL ILLUMINANCE AND CHROMATICITY AT THE SAME TIME IN THE FULL-COLOR ILLUMINATON LABORATORY (PO07, 839-846)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/discomfort-glare-from-daylighting-influence-of-culture-on-discomfort-glare-percepetion-op12-83-93?product_id=2009529
+  content: https://store.accuristech.com/standards/proposal-of-the-methods-to-control-illuminance-and-chromaticity-at-the-same-time-in-the-full-color-illuminaton-laboratory-po07-839-846?product_id=2011158
 docidentifier:
-- content: CIE x044-OP12
+- content: CIE PO07 839-846
   type: CIE
   primary: true
-docnumber: OP12 83-93
+docnumber: PO07 839-846
 date:
 - type: published
   at: '2017-10-23'
@@ -26,38 +26,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: C
+        initial: S
       surname:
         language: en
         script: Latn
-        content: Pierson
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: B
-      surname:
-        language: en
-        script: Latn
-        content: Piderit
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: J
-      surname:
-        language: en
-        script: Latn
-        content: Wienold
+        content: Tamura
 - role:
   - type: author
   person:
@@ -69,7 +42,55 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Bodart
+        content: Miki
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Takenaka
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Nakahara
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Nasu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Aida
 - role:
   - type: publisher
   organization:
