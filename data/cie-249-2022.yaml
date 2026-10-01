@@ -19,7 +19,7 @@ docidentifier:
 docnumber: 249:2022
 date:
 - type: published
-  at: '2022-04-01'
+  at: '2022'
 contributor:
 - role:
   - type: publisher
@@ -38,6 +38,24 @@ abstract:
 - language: en
   script: Latn
   content: This document is a set or collection of related documents
+relation:
+- type: updates
+  bibitem:
+    title:
+    - content: Visual Aspects of Time-Modulated Lighting Systems (incl. Corrigendum 1)
+      type: title-main
+    - content: Visual Aspects of Time-Modulated Lighting Systems (incl. Corrigendum 1)
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-249-2022-cor1?product_id=3133443
+    docidentifier:
+    - content: CIE 249:2022-Cor1
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '2026-09-01'
 ext:
   schema_version: v1.0.0
   doctype:

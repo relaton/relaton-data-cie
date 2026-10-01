@@ -44,25 +44,6 @@ relation:
     title:
     - content: Colorimetry
       type: title-main
-    - content: 'Part 4: CIE 1976 L*a*b* colour space'
-      type: title-part
-    - content: 'Colorimetry - Part 4: CIE 1976 L*a*b* colour space'
-      type: main
-    source:
-    - type: src
-      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-iso-11664-4-2019?product_id=2078733
-    docidentifier:
-    - content: CIE ISO 11664-4:2019
-      type: CIE
-      primary: true
-    date:
-    - type: published
-      at: '2019-06-01'
-- type: updates
-  bibitem:
-    title:
-    - content: Colorimetry
-      type: title-main
     - content: 'Part 4: CIE 1976 L*a*b* Colour Spaces'
       type: title-part
     - content: 'Colorimetry - Part 4: CIE 1976 L*a*b* Colour Spaces'

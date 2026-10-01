@@ -50,25 +50,6 @@ relation:
       type: main
     source:
     - type: src
-      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-iso-11664-1-2019?product_id=2078731
-    docidentifier:
-    - content: CIE ISO 11664-1:2019
-      type: CIE
-      primary: true
-    date:
-    - type: published
-      at: '2019-06-01'
-- type: updates
-  bibitem:
-    title:
-    - content: Colorimetry
-      type: title-main
-    - content: 'Part 1: CIE standard colorimetric observers'
-      type: title-part
-    - content: 'Colorimetry - Part 1: CIE standard colorimetric observers'
-      type: main
-    source:
-    - type: src
       content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-014-1-e-2006-iso-11664-1-2007-e?product_id=1601625
     docidentifier:
     - content: CIE S 014-1/E:2006 (ISO 11664-1:2007(E))

@@ -1,23 +1,25 @@
 ---
-id: CIES0144E2007
+id: CIE2492022Cor1
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE S 014-4/E2007
+- content: CIE 249:2022-Cor1
   type: title-main
-- content: CIE S 014-4/E2007
+- content: CIE 249:2022-Cor1
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-s-014-4-e2007?product_id=1520488
+  content: https://store.accuristech.com/standards/cie-249-2022-cor1?product_id=3133443
 docidentifier:
-- content: CIE S 014-4/E2007
+- content: CIE 249:2022-Cor1
   type: CIE
   primary: true
-docnumber: S 014-4/E2007
+- content: '9783902842978'
+  type: ISBN
+docnumber: 249:2022-Cor1
 date:
 - type: published
-  at: '2007-09-01'
+  at: '2026'
 contributor:
 - role:
   - type: publisher
@@ -40,22 +42,20 @@ relation:
 - type: updates
   bibitem:
     title:
-    - content: Colorimetry
+    - content: Visual Aspects of Time-Modulated Lighting Systems
       type: title-main
-    - content: 'Part 4: CIE 1976 L*a*b* Colour Spaces'
-      type: title-part
-    - content: 'Colorimetry - Part 4: CIE 1976 L*a*b* Colour Spaces'
+    - content: Visual Aspects of Time-Modulated Lighting Systems
       type: main
     source:
     - type: src
-      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-014-4-e-2007-iso-11664-4-2008?product_id=1601627
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-249-2022?product_id=2252796
     docidentifier:
-    - content: CIE S 014-4/E:2007 (ISO 11664-4:2008)
+    - content: CIE 249:2022
       type: CIE
       primary: true
     date:
     - type: published
-      at: '2008-12-01'
+      at: '2022-04-01'
 ext:
   schema_version: v1.0.0
   doctype:
