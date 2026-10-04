@@ -1,29 +1,23 @@
 ---
-id: CIEOP43303313
+id: CIEx048PO09
 schema_version: v1.5.6
 type: standard
 title:
-- content: |-
-    PRELIMINARY STUDY ON SPECTRAL CHARACTERISTICS FOR IDENTIFICATION OF SKIN COLOUR UNDER CIRCULATORY DYSFUNCTION USING ARTIFICIAL SKIN SAMPLES
-
-     (OP43, 303-313)
+- content: CIE x048-PO09
   type: title-main
-- content: |-
-    PRELIMINARY STUDY ON SPECTRAL CHARACTERISTICS FOR IDENTIFICATION OF SKIN COLOUR UNDER CIRCULATORY DYSFUNCTION USING ARTIFICIAL SKIN SAMPLES
-
-     (OP43, 303-313)
+- content: CIE x048-PO09
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/preliminary-study-on-spectral-characteristics-for-identification-of-skin-colour-under-circulatory-dysfunction-using-artificial-skin-samples-op43-303-313?product_id=2010515
+  content: https://store.accuristech.com/standards/cie-x048-po09?product_id=2240824
 docidentifier:
-- content: CIE OP43 303-313
+- content: CIE x048-PO09
   type: CIE
   primary: true
-docnumber: OP43 303-313
+docnumber: x048-PO09
 date:
 - type: published
-  at: '2017-10-23'
+  at: '2021-09-29'
 contributor:
 - role:
   - type: author
@@ -36,7 +30,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Akizuki
+        content: Kawashima
 - role:
   - type: author
   person:

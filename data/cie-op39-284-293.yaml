@@ -1,23 +1,29 @@
 ---
-id: CIEPO19499504
+id: CIEOP39284293
 schema_version: v1.5.6
 type: standard
 title:
-- content: VISUAL EVALUATION OF 3D COLOUR VOLUME (PO19, 499-504)
+- content: |-
+    NEW IMAGE BASED MEASUREMENT METHOD OF REFLECTIVE PROPERTIES OF ROAD SURFACES
+
+     (OP39, 284-293)
   type: title-main
-- content: VISUAL EVALUATION OF 3D COLOUR VOLUME (PO19, 499-504)
+- content: |-
+    NEW IMAGE BASED MEASUREMENT METHOD OF REFLECTIVE PROPERTIES OF ROAD SURFACES
+
+     (OP39, 284-293)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/visual-evaluation-of-3d-colour-volume-po19-499-504?product_id=2016297
+  content: https://store.accuristech.com/standards/new-image-based-measurement-method-of-reflective-properties-of-road-surfaces-op39-284-293?product_id=2010482
 docidentifier:
-- content: CIE PO19 499-504
+- content: CIE OP39 284-293
   type: CIE
   primary: true
-docnumber: PO19 499-504
+docnumber: OP39 284-293
 date:
 - type: published
-  at: '2018-05-01'
+  at: '2017-10-23'
 contributor:
 - role:
   - type: author
@@ -26,38 +32,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "Y"
-      - language: en
-        script: Latn
         initial: S
       surname:
         language: en
         script: Latn
-        content: Baek
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: "Y"
-      surname:
-        language: en
-        script: Latn
-        content: Kwak
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: S
-      surname:
-        language: en
-        script: Latn
-        content: Seo
+        content: Buschmann
 - role:
   - type: author
   person:
@@ -69,7 +48,19 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Lee
+        content: Steblau
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: S
+      surname:
+        language: en
+        script: Latn
+        content: Volker
 - role:
   - type: publisher
   organization:

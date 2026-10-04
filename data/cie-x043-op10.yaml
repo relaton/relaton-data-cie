@@ -1,24 +1,72 @@
 ---
-id: CIEPO16485487
+id: CIEx043OP10
 schema_version: v1.5.6
 type: standard
 title:
-- content: WHITE LIGHT LED SPECTRAL OPTIMIZATION IN UNDERWATER ILLUMINATION (PO16, 485-487)
+- content: MULTI-ANGLE COLOUR CHARACTERIZATION OF COATINGS WITH DIFFRACTION PIGMENTS (OP10, Pages 51-59)
   type: title-main
-- content: WHITE LIGHT LED SPECTRAL OPTIMIZATION IN UNDERWATER ILLUMINATION (PO16, 485-487)
+- content: MULTI-ANGLE COLOUR CHARACTERIZATION OF COATINGS WITH DIFFRACTION PIGMENTS (OP10, Pages 51-59)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/white-light-led-spectral-optimization-in-underwater-illumination-po16-485-487?product_id=2016294
+  content: https://store.accuristech.com/standards/multi-angle-colour-characterization-of-coatings-with-diffraction-pigments-op10-pages-51-59?product_id=1941812
 docidentifier:
-- content: CIE PO16 485-487
+- content: CIE x043-OP10
   type: CIE
   primary: true
-docnumber: PO16 485-487
+docnumber: OP10 Pages 51-59
 date:
 - type: published
-  at: '2018-05-01'
+  at: '2016-09-01'
 contributor:
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: A
+      surname:
+        language: en
+        script: Latn
+        content: Ferrero
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Bernad
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: J
+      surname:
+        language: en
+        script: Latn
+        content: Campos
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: E
+      surname:
+        language: en
+        script: Latn
+        content: Perales
 - role:
   - type: author
   person:
@@ -29,11 +77,11 @@ contributor:
         initial: J
       - language: en
         script: Latn
-        initial: "Y"
+        initial: L
       surname:
         language: en
         script: Latn
-        content: Shen
+        content: Velazquez
 - role:
   - type: author
   person:
@@ -41,29 +89,14 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: T
+        initial: F
       - language: en
         script: Latn
-        initial: X
+        initial: M
       surname:
         language: en
         script: Latn
-        content: Lee
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: H
-      surname:
-        language: en
-        script: Latn
-        content: Tsuei
+        content: Martinez-Verdu
 - role:
   - type: publisher
   organization:

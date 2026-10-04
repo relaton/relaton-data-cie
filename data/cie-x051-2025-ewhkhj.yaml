@@ -1,42 +1,24 @@
 ---
-id: CIEOP57422426
+id: CIEx0512025ewhkhj
 schema_version: v1.5.6
 type: standard
 title:
-- content: |-
-    COMPARISON BETWEEN OLED AND LED LIGHTING: USER PREFERENCES AND INFLUENCE ON WELL-BEING, IN FRANCE AND JAPAN
-
-      (OP57, 422-426)
+- content: CIE x051:2025/ewhkhj
   type: title-main
-- content: |-
-    COMPARISON BETWEEN OLED AND LED LIGHTING: USER PREFERENCES AND INFLUENCE ON WELL-BEING, IN FRANCE AND JAPAN
-
-      (OP57, 422-426)
+- content: CIE x051:2025/ewhkhj
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/comparison-between-oled-and-led-lighting-user-preferences-and-influence-on-well-being-in-france-and-japan-op57-422-426?product_id=2010528
+  content: https://store.accuristech.com/standards/cie-x051-2025-ewhkhj?product_id=3039900
 docidentifier:
-- content: CIE OP57 422-426
+- content: CIE x051:2025/ewhkhj
   type: CIE
   primary: true
-docnumber: OP57 422-426
+docnumber: x051:2025/ewhkhj
 date:
 - type: published
-  at: '2017-10-23'
+  at: '2025-11-01'
 contributor:
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: D
-      surname:
-        language: en
-        script: Latn
-        content: Dumortier
 - role:
   - type: author
   person:
@@ -48,7 +30,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Derlande
+        content: Li
 - role:
   - type: author
   person:
@@ -56,11 +38,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "N"
+        initial: "Y"
       surname:
         language: en
         script: Latn
-        content: Yoshizawa
+        content: Ohno
 - role:
   - type: publisher
   organization:
