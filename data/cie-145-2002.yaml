@@ -2,6 +2,11 @@
 id: CIE1452002
 schema_version: v1.5.6
 type: standard
+title:
+- content: CIE 145:2002
+  type: title-main
+- content: CIE 145:2002
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-145-2002?product_id=1210063
@@ -9,7 +14,12 @@ docidentifier:
 - content: CIE 145:2002
   type: CIE
   primary: true
+- content: '9783901906145'
+  type: ISBN
 docnumber: 145:2002
+date:
+- type: published
+  at: '2002-01-01'
 contributor:
 - role:
   - type: publisher
@@ -24,6 +34,10 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
 ext:
   schema_version: v1.0.0
   doctype:

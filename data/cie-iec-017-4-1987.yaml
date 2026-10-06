@@ -2,6 +2,11 @@
 id: CIEIEC01741987
 schema_version: v1.5.6
 type: standard
+title:
+- content: CIE IEC 017.4-1987
+  type: title-main
+- content: CIE IEC 017.4-1987
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-iec-017-4-1987?product_id=47660
@@ -9,7 +14,12 @@ docidentifier:
 - content: CIE IEC 017.4-1987
   type: CIE
   primary: true
+- content: '3900734070'
+  type: ISBN
 docnumber: IEC 017.4-1987
+date:
+- type: published
+  at: '1987-01-01'
 contributor:
 - role:
   - type: publisher
@@ -24,6 +34,62 @@ language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This document is a set or collection of related documents
+relation:
+- type: updates
+  bibitem:
+    title:
+    - content: 'ILV: International Lighting Vocabulary, 2nd Edition'
+      type: title-main
+    - content: 'ILV: International Lighting Vocabulary, 2nd Edition'
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-017-e-2020?product_id=2200946
+    docidentifier:
+    - content: CIE S 017/E:2020
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '2020-12-01'
+- type: updates
+  bibitem:
+    title:
+    - content: 'ILV: International Lighting Vocabulary, 2nd Edition'
+      type: title-main
+    - content: 'ILV: International Lighting Vocabulary, 2nd Edition'
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-dis-017-e-2016?product_id=1941315
+    docidentifier:
+    - content: CIE DIS 017/E:2016
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '2016-01-01'
+- type: updates
+  bibitem:
+    title:
+    - content: 'ILV: International Lighting Vocabulary'
+      type: title-main
+    - content: 'ILV: International Lighting Vocabulary'
+      type: main
+    source:
+    - type: src
+      content: https://www.techstreet.comhttps://store.accuristech.com/standards/cie-s-017-e-2011?product_id=1806007
+    docidentifier:
+    - content: CIE S 017/E:2011
+      type: CIE
+      primary: true
+    date:
+    - type: published
+      at: '2011-08-18'
 ext:
   schema_version: v1.0.0
   doctype:

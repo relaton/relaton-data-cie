@@ -1,29 +1,23 @@
 ---
-id: CIEPP41740745
+id: CIEx05120255bvj7b
 schema_version: v1.5.6
 type: standard
 title:
-- content: |-
-    EFFECTS OF LUMINANCE OF PROJECTED LETTERS ON LEGIBILITY
-
-     (PP41, 740-745)
+- content: CIE x051:2025/5bvj7b
   type: title-main
-- content: |-
-    EFFECTS OF LUMINANCE OF PROJECTED LETTERS ON LEGIBILITY
-
-     (PP41, 740-745)
+- content: CIE x051:2025/5bvj7b
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/effects-of-luminance-of-projected-letters-on-legibility-pp41-740-745?product_id=2011370
+  content: https://store.accuristech.com/standards/cie-x051-2025-5bvj7b?product_id=3039593
 docidentifier:
-- content: CIE PP41 740-745
+- content: CIE x051:2025/5bvj7b
   type: CIE
   primary: true
-docnumber: PP41 740-745
+docnumber: x051:2025/5bvj7b
 date:
 - type: published
-  at: '2017-10-23'
+  at: '2025-11-01'
 contributor:
 - role:
   - type: author
@@ -32,11 +26,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: "N"
+        initial: E
       surname:
         language: en
         script: Latn
-        content: Itoh
+        content: Bordonaro
 - role:
   - type: author
   person:
@@ -44,11 +38,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: K
+        initial: D
       surname:
         language: en
         script: Latn
-        content: Sagawa
+        content: Slater
 - role:
   - type: author
   person:
@@ -60,7 +54,7 @@ contributor:
       surname:
         language: en
         script: Latn
-        content: Ohyama
+        content: Brons
 - role:
   - type: author
   person:
@@ -68,11 +62,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: H
+        initial: A
       surname:
         language: en
         script: Latn
-        content: Uchida
+        content: Paragamyan
 - role:
   - type: author
   person:
@@ -80,11 +74,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: T
+        initial: L
       surname:
         language: en
         script: Latn
-        content: Shimizu
+        content: Valetti
 - role:
   - type: author
   person:
@@ -92,11 +86,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: Q
+        initial: A
       surname:
         language: en
         script: Latn
-        content: Lin
+        content: Pellegrino
 - role:
   - type: publisher
   organization:
