@@ -1,23 +1,23 @@
 ---
-id: CIEPO15483484
+id: CIEx0512025sj3bgj
 schema_version: v1.5.6
 type: standard
 title:
-- content: WAVELENGTH CALIBRATION OF A SPHERE-SPECTROMETER MEASUREMENT CONFIGURATION (PO15, 483-484)
+- content: CIE x051:2025/sj3bgj
   type: title-main
-- content: WAVELENGTH CALIBRATION OF A SPHERE-SPECTROMETER MEASUREMENT CONFIGURATION (PO15, 483-484)
+- content: CIE x051:2025/sj3bgj
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/wavelength-calibration-of-a-sphere-spectrometer-measurement-configuration-po15-483-484?product_id=2016293
+  content: https://store.accuristech.com/standards/cie-x051-2025-sj3bgj?product_id=3040022
 docidentifier:
-- content: CIE PO15 483-484
+- content: CIE x051:2025/sj3bgj
   type: CIE
   primary: true
-docnumber: PO15 483-484
+docnumber: x051:2025/sj3bgj
 date:
 - type: published
-  at: '2018-05-01'
+  at: '2025-11-01'
 contributor:
 - role:
   - type: author
@@ -26,14 +26,35 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: E
-      - language: en
-        script: Latn
-        initial: K
+        initial: M
       surname:
         language: en
         script: Latn
-        content: Mofokeng
+        content: Tanaka
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: H
+      surname:
+        language: en
+        script: Latn
+        content: Ajiki
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: T
+      surname:
+        language: en
+        script: Latn
+        content: Horiuchi
 - role:
   - type: publisher
   organization:

@@ -1,26 +1,26 @@
 ---
-id: CIEPO10811931199
+id: CIEPP41740745
 schema_version: v1.5.6
 type: standard
 title:
 - content: |-
-    IMPROVED SYSTEM AND METHOD FOR ILLUMINATION AND VENTILATION OF AN OPERATING ROOM
+    EFFECTS OF LUMINANCE OF PROJECTED LETTERS ON LEGIBILITY
 
-     (PO108, 1193-1199)
+     (PP41, 740-745)
   type: title-main
 - content: |-
-    IMPROVED SYSTEM AND METHOD FOR ILLUMINATION AND VENTILATION OF AN OPERATING ROOM
+    EFFECTS OF LUMINANCE OF PROJECTED LETTERS ON LEGIBILITY
 
-     (PO108, 1193-1199)
+     (PP41, 740-745)
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/improved-system-and-method-for-illumination-and-ventilation-of-an-operating-room-po108-1193-1199?product_id=2011258
+  content: https://store.accuristech.com/standards/effects-of-luminance-of-projected-letters-on-legibility-pp41-740-745?product_id=2011370
 docidentifier:
-- content: CIE PO108 1193-1199
+- content: CIE PP41 740-745
   type: CIE
   primary: true
-docnumber: PO108 1193-1199
+docnumber: PP41 740-745
 date:
 - type: published
   at: '2017-10-23'
@@ -32,14 +32,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: V
-      - language: en
-        script: Latn
-        initial: A
+        initial: "N"
       surname:
         language: en
         script: Latn
-        content: Jacobs
+        content: Itoh
 - role:
   - type: author
   person:
@@ -47,11 +44,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: R
+        initial: K
       surname:
         language: en
         script: Latn
-        content: Van Gaever
+        content: Sagawa
 - role:
   - type: author
   person:
@@ -59,11 +56,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: P
+        initial: J
       surname:
         language: en
         script: Latn
-        content: Hanselaer
+        content: Ohyama
 - role:
   - type: author
   person:
@@ -71,11 +68,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: S
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Vanlanduit
+        content: Uchida
 - role:
   - type: author
   person:
@@ -83,11 +80,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: P
+        initial: T
       surname:
         language: en
         script: Latn
-        content: Rombauts
+        content: Shimizu
 - role:
   - type: author
   person:
@@ -95,11 +92,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: M
+        initial: Q
       surname:
         language: en
         script: Latn
-        content: Diltoer
+        content: Lin
 - role:
   - type: publisher
   organization:
