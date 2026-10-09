@@ -1,25 +1,25 @@
 ---
-id: CIE0521982
+id: CIE521982
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE 052-1982
+- content: CIE 52-1982
   type: title-main
-- content: CIE 052-1982
+- content: CIE 52-1982
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-052-1982?product_id=1209983
+  content: https://store.accuristech.com/standards/cie-52-1982?product_id=1209983
 docidentifier:
-- content: CIE 052-1982
+- content: CIE 52-1982
   type: CIE
   primary: true
 - content: '9789290340522'
   type: ISBN
-docnumber: 052-1982
+docnumber: 52-1982
 date:
 - type: published
-  at: '1982-01-01'
+  at: '1997-01-01'
 contributor:
 - role:
   - type: publisher
