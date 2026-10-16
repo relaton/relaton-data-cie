@@ -1,29 +1,23 @@
 ---
-id: CIEOP56412421
+id: CIEx0512025t22ew7
 schema_version: v1.5.6
 type: standard
 title:
-- content: |-
-    STUDY ON THE RELATIONSHIP BETWEEN SLEEP QUALITY, PSYCHOLOGICAL AND PHYSICAL DISCOMFORT AND OFFICE LIGHTING: BASED ON A FULL-SCALE SURVEY
-
-      (OP56, 412-421)
+- content: CIE x051:2025/t22ew7
   type: title-main
-- content: |-
-    STUDY ON THE RELATIONSHIP BETWEEN SLEEP QUALITY, PSYCHOLOGICAL AND PHYSICAL DISCOMFORT AND OFFICE LIGHTING: BASED ON A FULL-SCALE SURVEY
-
-      (OP56, 412-421)
+- content: CIE x051:2025/t22ew7
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/study-on-the-relationship-between-sleep-quality-psychological-and-physical-discomfort-and-office-lighting-based-on-a-full-scale-survey-op56-412-421?product_id=2010527
+  content: https://store.accuristech.com/standards/cie-x051-2025-t22ew7?product_id=3040026
 docidentifier:
-- content: CIE OP56 412-421
+- content: CIE x051:2025/t22ew7
   type: CIE
   primary: true
-docnumber: OP56 412-421
+docnumber: x051:2025/t22ew7
 date:
 - type: published
-  at: '2017-10-23'
+  at: '2025-11-01'
 contributor:
 - role:
   - type: author
@@ -32,11 +26,22 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: X
+        initial: M
+      - language: en
+        script: Latn
+        initial: F
       surname:
         language: en
         script: Latn
-        content: Jiang
+        content: Tokuşlu
+- role:
+  - type: author
+  person:
+    name:
+      surname:
+        language: en
+        script: Latn
+        content: Erdem
 - role:
   - type: author
   person:
@@ -44,23 +49,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: X
+        initial: L
       surname:
         language: en
         script: Latn
-        content: Chen
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: X
-      surname:
-        language: en
-        script: Latn
-        content: Zhang
+        content: Atılgan
 - role:
   - type: publisher
   organization:

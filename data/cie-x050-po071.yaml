@@ -1,23 +1,23 @@
 ---
-id: CIEx0512025xrp799
+id: CIEx050PO071
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x051:2025/xrp799
+- content: CIE x050-PO071
   type: title-main
-- content: CIE x051:2025/xrp799
+- content: CIE x050-PO071
   type: main
 source:
 - type: src
-  content: https://store.accuristech.com/standards/cie-x051-2025-xrp799?product_id=3040036
+  content: https://store.accuristech.com/standards/cie-x050-po071?product_id=2579118
 docidentifier:
-- content: CIE x051:2025/xrp799
+- content: CIE x050-PO071
   type: CIE
   primary: true
-docnumber: x051:2025/xrp799
+docnumber: x050-PO071
 date:
 - type: published
-  at: '2025-11-01'
+  at: '2023-12-29'
 contributor:
 - role:
   - type: author
@@ -26,11 +26,11 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: C
+        initial: H
       surname:
         language: en
         script: Latn
-        content: Yabe
+        content: Su
 - role:
   - type: author
   person:
@@ -38,11 +38,23 @@ contributor:
       forename:
       - language: en
         script: Latn
-        initial: C
+        initial: X
       surname:
         language: en
         script: Latn
-        content: Ohki
+        content: Liu
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        initial: B
+      surname:
+        language: en
+        script: Latn
+        content: Yang
 - role:
   - type: publisher
   organization:
