@@ -3,9 +3,9 @@ id: CIEx048OP16
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x048-OP16
+- content: 'TOWARDS A FRAMEWORK FOR LIGHT-DOSIMETRY STUDIES: METHODOLOGICAL CONSIDERATIONS'
   type: title-main
-- content: CIE x048-OP16
+- content: 'TOWARDS A FRAMEWORK FOR LIGHT-DOSIMETRY STUDIES: METHODOLOGICAL CONSIDERATIONS'
   type: main
 source:
 - type: src
@@ -24,12 +24,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
-      - language: en
-        script: Latn
-        initial: L
+      - initial: S.L
       surname:
         language: en
         script: Latn
@@ -38,25 +33,16 @@ contributor:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: F
-      - language: en
-        script: Latn
-        initial: S
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Webler
+        content: Webler F.S.
 - role:
   - type: author
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn

@@ -23,50 +23,26 @@ contributor:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Geraldine
+        content: Geraldine Quek
 - role:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Quek
+        content: Jan Wienold
 - role:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Jan
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Wienold
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Marilyne
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Andersen
+        content: Marilyne Andersen
 - role:
   - type: publisher
   organization:

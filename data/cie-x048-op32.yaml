@@ -3,9 +3,9 @@ id: CIEx048OP32
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x048-OP32
+- content: OPTIMISING ROAD LIGHTING TO REDUCE ROAD TRAFFIC CRASHES
   type: title-main
-- content: CIE x048-OP32
+- content: OPTIMISING ROAD LIGHTING TO REDUCE ROAD TRAFFIC CRASHES
   type: main
 source:
 - type: src
@@ -24,12 +24,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: J
+      - initial: C.J
       surname:
         language: en
         script: Latn
@@ -39,9 +34,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
+      - initial: S
       surname:
         language: en
         script: Latn
@@ -51,9 +44,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn
@@ -63,9 +54,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: R
+      - initial: R
       surname:
         language: en
         script: Latn

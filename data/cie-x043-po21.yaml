@@ -23,25 +23,16 @@ contributor:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: A
-      - language: en
-        script: Latn
-        initial: P
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Periyasamy
+        content: Periyasamy A.P.
 - role:
   - type: author
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn
@@ -51,9 +42,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn

@@ -23,50 +23,26 @@ contributor:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Shoma
+        content: Shoma Amari
 - role:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Amari
+        content: Midori Tanaka
 - role:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Midori
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Tanaka
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Takahiko
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Horiuchi
+        content: Takahiko Horiuchi
 - role:
   - type: publisher
   organization:

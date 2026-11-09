@@ -2,11 +2,6 @@
 id: CIEx050OP081
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x050-OP081
-  type: title-main
-- content: CIE x050-OP081
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-op081?product_id=2579034
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
+      - initial: C
       surname:
         language: en
         script: Latn
@@ -48,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: E
+      - initial: E
       surname:
         language: en
         script: Latn
@@ -60,9 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn
@@ -72,9 +59,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: P
+      - initial: P
       surname:
         language: en
         script: Latn
@@ -84,9 +69,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
+      - initial: S
       surname:
         language: en
         script: Latn
@@ -96,9 +79,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn

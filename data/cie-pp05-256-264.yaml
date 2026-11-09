@@ -25,6 +25,8 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - content: Xiufeng
       surname:
         language: en
         script: Latn
@@ -33,14 +35,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Xiufeng
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Lixiong
       surname:
         language: en
         script: Latn
@@ -49,14 +45,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Lixiong
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Yuanpeng
       surname:
         language: en
         script: Latn
@@ -65,14 +55,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Yuanpeng
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Juan
       surname:
         language: en
         script: Latn
@@ -81,26 +65,12 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Juan
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Junrong
       surname:
         language: en
         script: Latn
         content: Ma
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Junrong
 - role:
   - type: publisher
   organization:

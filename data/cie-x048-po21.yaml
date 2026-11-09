@@ -23,50 +23,26 @@ contributor:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Philipp
+        content: Philipp Schneider
 - role:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Schneider
+        content: Thorsten Gerloff
 - role:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Thorsten
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Gerloff
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Armin
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Sperling
+        content: Armin Sperling
 - role:
   - type: publisher
   organization:

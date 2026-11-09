@@ -2,17 +2,6 @@
 id: CIEOP49356366
 schema_version: v1.5.6
 type: standard
-title:
-- content: |-
-    MEASURING THE EFFECT OF LIGHT DISTRIBUTION ON SPATIAL BRIGHTNESS
-
-     (OP49, 356-366)
-  type: title-main
-- content: |-
-    MEASURING THE EFFECT OF LIGHT DISTRIBUTION ON SPATIAL BRIGHTNESS
-
-     (OP49, 356-366)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/measuring-the-effect-of-light-distribution-on-spatial-brightness-op49-356-366?product_id=2010521
@@ -30,12 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
-      - language: en
-        script: Latn
-        initial: T
+      - initial: J.T
       surname:
         language: en
         script: Latn
@@ -45,12 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: R
+      - initial: M.R
       surname:
         language: en
         script: Latn

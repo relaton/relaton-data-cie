@@ -24,9 +24,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: P
+      - initial: P
       surname:
         language: en
         script: Latn
@@ -35,22 +33,16 @@ contributor:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: M
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Smid
+        content: Smid M.
 - role:
   - type: author
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: G
+      - initial: G
       surname:
         language: en
         script: Latn

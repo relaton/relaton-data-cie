@@ -2,11 +2,6 @@
 id: CIEOP03610
 schema_version: v1.5.6
 type: standard
-title:
-- content: INFLUENCE OF CIRCADIAN STIMULUS AND COLOUR TEMPERATURE ON CHILDREN'S STUDY PERFORMANCE AND FATIGUE (OP03, 6-10)
-  type: title-main
-- content: INFLUENCE OF CIRCADIAN STIMULUS AND COLOUR TEMPERATURE ON CHILDREN'S STUDY PERFORMANCE AND FATIGUE (OP03, 6-10)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/influence-of-circadian-stimulus-and-colour-temperature-on-children-s-study-performance-and-fatigue-op03-6-10?product_id=2016198
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn
@@ -36,12 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: R
+      - initial: M.R
       surname:
         language: en
         script: Latn
@@ -51,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
+      - initial: S
       surname:
         language: en
         script: Latn
@@ -63,9 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn
@@ -75,9 +59,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: H
+      - initial: H
       surname:
         language: en
         script: Latn

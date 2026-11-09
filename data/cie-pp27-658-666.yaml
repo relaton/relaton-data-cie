@@ -24,12 +24,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: W
+      - initial: M.W
       surname:
         language: en
         script: Latn
@@ -39,12 +34,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
-      - language: en
-        script: Latn
-        initial: S
+      - initial: S.S
       surname:
         language: en
         script: Latn
@@ -54,12 +44,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
-      - language: en
-        script: Latn
-        initial: S
+      - initial: J.S
       surname:
         language: en
         script: Latn
@@ -69,12 +54,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
-      - language: en
-        script: Latn
-        initial: M
+      - initial: J.M
       surname:
         language: en
         script: Latn
@@ -84,12 +64,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
-      - language: en
-        script: Latn
-        initial: G
+      - initial: S.G
       surname:
         language: en
         script: Latn
@@ -98,18 +73,12 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - content: Hoon
       surname:
         language: en
         script: Latn
         content: Kim
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Hoon
 - role:
   - type: publisher
   organization:

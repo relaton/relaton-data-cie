@@ -3,9 +3,9 @@ id: CIEx050OP054
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x050-OP054
+- content: METRICS INDICATING PROPERTIES OF LIGHT COLOUR AND SUBJECTIVE EVALUATION OF COLOUR APPEARANCE
   type: title-main
-- content: CIE x050-OP054
+- content: METRICS INDICATING PROPERTIES OF LIGHT COLOUR AND SUBJECTIVE EVALUATION OF COLOUR APPEARANCE
   type: main
 source:
 - type: src
@@ -24,9 +24,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: T
+      - initial: T
       surname:
         language: en
         script: Latn

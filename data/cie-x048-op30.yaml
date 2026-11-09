@@ -24,9 +24,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn
@@ -36,12 +34,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
-      - language: en
-        script: Latn
-        initial: K
+      - initial: A.K
       surname:
         language: en
         script: Latn
@@ -51,25 +44,12 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: P
+      - content: P. Källberg
+      - initial: S
       surname:
         language: en
         script: Latn
         content: Andersson
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: S
-      surname:
-        language: en
-        script: Latn
-        content: Källberg
 - role:
   - type: publisher
   organization:

@@ -2,11 +2,6 @@
 id: CIEPP15330338
 schema_version: v1.5.6
 type: standard
-title:
-- content: ALTERNATIVE METHOD FOR LUMINOUS INTENSITY DISTRIBUTION ASSESSMENT (PP15, 330-338)
-  type: title-main
-- content: ALTERNATIVE METHOD FOR LUMINOUS INTENSITY DISTRIBUTION ASSESSMENT (PP15, 330-338)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/alternative-method-for-luminous-intensity-distribution-assessment-pp15-330-338?product_id=2016261
@@ -24,12 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: D
-      - language: en
-        script: Latn
-        initial: A
+      - content: D.A. Romero
       surname:
         language: en
         script: Latn
@@ -38,47 +28,20 @@ contributor:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: J
-      - language: en
-        script: Latn
-        initial: A
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Romero
+        content: J.A. Bermeo
 - role:
   - type: author
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: L
-      - language: en
-        script: Latn
-        initial: E
+      - initial: J.M
       surname:
         language: en
         script: Latn
-        content: Bermeo
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: J
-      - language: en
-        script: Latn
-        initial: M
-      surname:
-        language: en
-        script: Latn
-        content: Quintero
+        content: L.E. Quintero
 - role:
   - type: publisher
   organization:

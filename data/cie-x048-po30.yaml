@@ -3,9 +3,9 @@ id: CIEx048PO30
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x048-PO30
+- content: COMPARISON OF LUMINOUS FLUX MAINTENANCE METHODS, CONTINOUS VS. ON/OFF CYCLES
   type: title-main
-- content: CIE x048-PO30
+- content: COMPARISON OF LUMINOUS FLUX MAINTENANCE METHODS, CONTINOUS VS. ON/OFF CYCLES
   type: main
 source:
 - type: src
@@ -24,12 +24,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: D
-      - language: en
-        script: Latn
-        initial: D
+      - initial: D.D
       surname:
         language: en
         script: Latn
@@ -39,21 +34,17 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
+      - initial: C
       surname:
         language: en
         script: Latn
-        content: Dam- Hansen
+        content: Dam-Hansen
 - role:
   - type: author
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn

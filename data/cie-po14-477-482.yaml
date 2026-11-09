@@ -24,15 +24,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
-      - language: en
-        script: Latn
-        initial: L
-      - language: en
-        script: Latn
-        initial: S
+      - initial: S.L.S
       surname:
         language: en
         script: Latn
@@ -42,15 +34,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: H
-      - language: en
-        script: Latn
-        initial: S
-      - language: en
-        script: Latn
-        initial: B
+      - initial: H.S.B
       surname:
         language: en
         script: Latn
@@ -60,12 +44,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
-      - language: en
-        script: Latn
-        initial: C
+      - initial: Y.C
       surname:
         language: en
         script: Latn

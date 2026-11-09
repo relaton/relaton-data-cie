@@ -2,11 +2,6 @@
 id: CIEOP051928
 schema_version: v1.5.6
 type: standard
-title:
-- content: OFFICE LIGHTING DESIGN IN CONSIDERATION OF EYE FATIGUE AND TASK PERFORMANCE (OP05, 19-28)
-  type: title-main
-- content: OFFICE LIGHTING DESIGN IN CONSIDERATION OF EYE FATIGUE AND TASK PERFORMANCE (OP05, 19-28)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/office-lighting-design-in-consideration-of-eye-fatigue-and-task-performance-op05-19-28?product_id=2016200
@@ -24,12 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: W
+      - initial: C.W
       surname:
         language: en
         script: Latn
@@ -39,12 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: F
-      - language: en
-        script: Latn
-        initial: M
+      - initial: F.M
       surname:
         language: en
         script: Latn
@@ -54,12 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: J
+      - initial: C.J
       surname:
         language: en
         script: Latn
@@ -69,12 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: H
-      - language: en
-        script: Latn
-        initial: S
+      - initial: H.S
       surname:
         language: en
         script: Latn
@@ -84,12 +59,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: R
+      - initial: M.R
       surname:
         language: en
         script: Latn

@@ -28,12 +28,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: P
-      - language: en
-        script: Latn
-        initial: J
+      - initial: P.J
       surname:
         language: en
         script: Latn
@@ -43,12 +38,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: C.Y
       surname:
         language: en
         script: Latn
@@ -58,12 +48,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: C.Y
       surname:
         language: en
         script: Latn
@@ -73,9 +58,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: R
+      - initial: R
       surname:
         language: en
         script: Latn
@@ -85,12 +68,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: B
-      - language: en
-        script: Latn
-        initial: S
+      - initial: B.S
       surname:
         language: en
         script: Latn

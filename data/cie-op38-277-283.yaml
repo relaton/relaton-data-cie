@@ -28,9 +28,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: B
+      - initial: B
       surname:
         language: en
         script: Latn
@@ -40,9 +38,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
+      - initial: S
       surname:
         language: en
         script: Latn
@@ -52,9 +48,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: O
+      - initial: O
       surname:
         language: en
         script: Latn
@@ -64,12 +58,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: B
+      - initial: M.B
       surname:
         language: en
         script: Latn
