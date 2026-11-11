@@ -2,11 +2,6 @@
 id: CIEx050PO082
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x050-PO082
-  type: title-main
-- content: CIE x050-PO082
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-po082?product_id=2579128
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: E
+      - initial: E
       surname:
         language: en
         script: Latn
@@ -48,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: F
+      - initial: F
       surname:
         language: en
         script: Latn

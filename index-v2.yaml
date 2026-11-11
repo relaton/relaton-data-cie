@@ -1585,6 +1585,12 @@
     variant: n3cuc4
   :file: data/cie-x051-2025-n3cuc4.yaml
 - :id:
+    _type: pubid:cie:conference
+    number: '051'
+    year: '2025'
+    variant: xrp799
+  :file: data/cie-x051-2025-xrp799.yaml
+- :id:
     _type: pubid:cie:standard
     number: '053'
     style: legacy
@@ -4020,6 +4026,11 @@
     number: OP56
     conference: '048'
   :file: data/cie-x048-op56.yaml
+- :id:
+    _type: pubid:cie:proceedings
+    number: OP56
+    page: 412-421
+  :file: data/cie-op56-412-421.yaml
 - :id:
     _type: pubid:cie:proceedings
     number: OP57

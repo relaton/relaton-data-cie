@@ -3,9 +3,11 @@ id: CIEOP084349
 schema_version: v1.5.6
 type: standard
 title:
-- content: COMPUTER GRAPHICS AND LIGHTING TECHNOLOGY SCIENCE. ON THE WAY TO THE CRITERIA OF THE ILLUMINATION QUALITY (OP08, 43-49)
+- content: COMPUTER GRAPHICS AND LIGHTING TECHNOLOGY SCIENCE. ON THE WAY TO THE CRITERIA
+    OF THE ILLUMINATION QUALITY (OP08, 43-49)
   type: title-main
-- content: COMPUTER GRAPHICS AND LIGHTING TECHNOLOGY SCIENCE. ON THE WAY TO THE CRITERIA OF THE ILLUMINATION QUALITY (OP08, 43-49)
+- content: COMPUTER GRAPHICS AND LIGHTING TECHNOLOGY SCIENCE. ON THE WAY TO THE CRITERIA
+    OF THE ILLUMINATION QUALITY (OP08, 43-49)
   type: main
 source:
 - type: src
@@ -23,62 +25,34 @@ contributor:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: V
-      - language: en
-        script: Latn
-        initial: P
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Budak
+        content: Budak V.P.
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: V
-      - language: en
-        script: Latn
-        initial: D
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Chembaev
+        content: Chembaev V.D.
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: T
-      - language: en
-        script: Latn
-        initial: V
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Meshkova
+        content: Meshkova T.V.
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: V
-      - language: en
-        script: Latn
-        initial: S
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Zheltov
+        content: Zheltov V.S.
 - role:
   - type: publisher
   organization:

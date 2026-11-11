@@ -3,9 +3,11 @@ id: CIEPP16339345
 schema_version: v1.5.6
 type: standard
 title:
-- content: MAIN UNCERTAINTY CONTRIBUTION FACTORS ANALYSIS OF GLARE MEASUREMENT USING ILMD (PP16, 339-345)
+- content: MAIN UNCERTAINTY CONTRIBUTION FACTORS ANALYSIS OF GLARE MEASUREMENT USING
+    ILMD (PP16, 339-345)
   type: title-main
-- content: MAIN UNCERTAINTY CONTRIBUTION FACTORS ANALYSIS OF GLARE MEASUREMENT USING ILMD (PP16, 339-345)
+- content: MAIN UNCERTAINTY CONTRIBUTION FACTORS ANALYSIS OF GLARE MEASUREMENT USING
+    ILMD (PP16, 339-345)
   type: main
 source:
 - type: src
@@ -23,6 +25,8 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - content: Qian
       surname:
         language: en
         script: Latn
@@ -31,14 +35,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Qian
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Cong
       surname:
         language: en
         script: Latn
@@ -47,14 +45,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Cong
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Xiaoni
       surname:
         language: en
         script: Latn
@@ -63,26 +55,12 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Xiaoni
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Jiangen
       surname:
         language: en
         script: Latn
         content: Pan
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Jiangen
 - role:
   - type: publisher
   organization:

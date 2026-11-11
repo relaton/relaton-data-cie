@@ -24,9 +24,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: P
+      - initial: P
       surname:
         language: en
         script: Latn
@@ -36,29 +34,11 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: T
+      - initial: T
       surname:
         language: en
         script: Latn
         content: Novak
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: et
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: al.
 - role:
   - type: publisher
   organization:

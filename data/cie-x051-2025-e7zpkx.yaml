@@ -24,9 +24,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn
@@ -36,9 +34,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: H
+      - initial: H
       surname:
         language: en
         script: Latn
@@ -47,18 +43,12 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - initial: C-S
       surname:
         language: en
         script: Latn
         content: Lee
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: C-S.
 - role:
   - type: publisher
   organization:

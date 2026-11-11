@@ -24,9 +24,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: R
+      - initial: R
       surname:
         language: en
         script: Latn
@@ -35,30 +33,18 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - initial: C
       surname:
         language: en
         script: Latn
-        content: Guadarrama
+        content: Guadarrama Gándara
 - role:
   - type: author
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
-      surname:
-        language: en
-        script: Latn
-        content: Gándara
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn

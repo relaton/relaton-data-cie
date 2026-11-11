@@ -3,9 +3,9 @@ id: CIEx05120254hkuqe
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x051:2025/4hkuqe
+- content: 'ASSESSING MELANOPIC ILLUMINANCE IN HOMES: FROM DESIGN TO CONSTRUCTION'
   type: title-main
-- content: CIE x051:2025/4hkuqe
+- content: 'ASSESSING MELANOPIC ILLUMINANCE IN HOMES: FROM DESIGN TO CONSTRUCTION'
   type: main
 source:
 - type: src
@@ -24,12 +24,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: L
-      - language: en
-        script: Latn
-        initial: O
+      - initial: L. O
       surname:
         language: en
         script: Latn
@@ -39,12 +34,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: L
-      - language: en
-        script: Latn
-        initial: M
+      - initial: L.M
       surname:
         language: en
         script: Latn
@@ -54,12 +44,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: R
-      - language: en
-        script: Latn
-        initial: T
+      - initial: R.T
       surname:
         language: en
         script: Latn

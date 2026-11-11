@@ -2,11 +2,6 @@
 id: CIEx0512025zgmhco
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x051:2025/zgmhco
-  type: title-main
-- content: CIE x051:2025/zgmhco
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x051-2025-zgmhco?product_id=3040047
@@ -24,12 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: Z
-      - language: en
-        script: Latn
-        initial: J
+      - initial: Z.J
       surname:
         language: en
         script: Latn
@@ -39,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn

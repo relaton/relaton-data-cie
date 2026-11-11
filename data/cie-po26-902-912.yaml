@@ -29,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: G
+      - initial: G
       surname:
         language: en
         script: Latn
@@ -41,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: "Y"
       surname:
         language: en
         script: Latn
@@ -53,9 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn
@@ -64,14 +58,10 @@ contributor:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: R
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Dang
+        content: Dang R.
 - role:
   - type: publisher
   organization:

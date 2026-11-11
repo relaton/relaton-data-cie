@@ -3,9 +3,11 @@ id: CIEx050PO041
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x050-PO041
+- content: 'ILLUMINANCE READINGS FROM THIRTEEN SMARTPHONES: MEASUREMENT ACCURACIES
+    AND APPLICABILITY'
   type: title-main
-- content: CIE x050-PO041
+- content: 'ILLUMINANCE READINGS FROM THIRTEEN SMARTPHONES: MEASUREMENT ACCURACIES
+    AND APPLICABILITY'
   type: main
 source:
 - type: src
@@ -24,9 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn
@@ -36,9 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn
@@ -48,9 +46,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn

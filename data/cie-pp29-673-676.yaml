@@ -28,12 +28,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: L
-      - language: en
-        script: Latn
-        initial: A
+      - initial: L.A
       surname:
         language: en
         script: Latn
@@ -43,12 +38,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "N"
-      - language: en
-        script: Latn
-        initial: "N"
+      - initial: N.N
       surname:
         language: en
         script: Latn

@@ -30,12 +30,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: W
-      - language: en
-        script: Latn
-        initial: T
+      - initial: W.-T
       surname:
         language: en
         script: Latn
@@ -45,12 +40,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
-      - language: en
-        script: Latn
-        initial: Q
+      - initial: J.-Q
       surname:
         language: en
         script: Latn
@@ -60,12 +50,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: R
-      - language: en
-        script: Latn
-        initial: R
+      - initial: R.-R
       surname:
         language: en
         script: Latn

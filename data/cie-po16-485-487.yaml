@@ -2,11 +2,6 @@
 id: CIEPO16485487
 schema_version: v1.5.6
 type: standard
-title:
-- content: WHITE LIGHT LED SPECTRAL OPTIMIZATION IN UNDERWATER ILLUMINATION (PO16, 485-487)
-  type: title-main
-- content: WHITE LIGHT LED SPECTRAL OPTIMIZATION IN UNDERWATER ILLUMINATION (PO16, 485-487)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/white-light-led-spectral-optimization-in-underwater-illumination-po16-485-487?product_id=2016294
@@ -24,12 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: J.Y
       surname:
         language: en
         script: Latn
@@ -39,12 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: T
-      - language: en
-        script: Latn
-        initial: X
+      - initial: T.X
       surname:
         language: en
         script: Latn
@@ -54,12 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: H
+      - initial: C.H
       surname:
         language: en
         script: Latn

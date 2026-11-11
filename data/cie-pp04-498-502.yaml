@@ -2,15 +2,6 @@
 id: CIEPP04498502
 schema_version: v1.5.6
 type: standard
-title:
-- content: |-
-    A PHYSICALLY BASED INTERPRETATION OF THE HUE OF SURFACES
-     (PP04, 498-502)
-  type: title-main
-- content: |-
-    A PHYSICALLY BASED INTERPRETATION OF THE HUE OF SURFACES
-     (PP04, 498-502)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/a-physically-based-interpretation-of-the-hue-of-surfaces-pp04-498-502?product_id=2011262
@@ -28,12 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: L
-      - language: en
-        script: Latn
-        initial: A
+      - initial: L.A
       surname:
         language: en
         script: Latn
@@ -43,15 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: K
-      - language: en
-        script: Latn
-        initial: A
-      - language: en
-        script: Latn
-        initial: G
+      - initial: K.A.G
       surname:
         language: en
         script: Latn
@@ -61,12 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: A
+      - initial: M.A
       surname:
         language: en
         script: Latn

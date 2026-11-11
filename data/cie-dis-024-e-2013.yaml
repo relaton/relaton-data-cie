@@ -2,11 +2,6 @@
 id: CIEDIS024E2013
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE DIS 024/E:2013
-  type: title-main
-- content: CIE DIS 024/E:2013
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-dis-024-e-2013?product_id=1866873
@@ -46,7 +41,8 @@ relation:
       type: title-main
     - content: Terms and Definitions
       type: title-part
-    - content: 'ILV: International Lighting Vocabulary - Supplement 1: Light Emitting Diodes (LEDs) and LED Assemblies - Terms and Definitions'
+    - content: 'ILV: International Lighting Vocabulary - Supplement 1: Light Emitting
+        Diodes (LEDs) and LED Assemblies - Terms and Definitions'
       type: main
     source:
     - type: src

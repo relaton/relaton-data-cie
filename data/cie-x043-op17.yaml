@@ -2,11 +2,6 @@
 id: CIEx043OP17
 schema_version: v1.5.6
 type: standard
-title:
-- content: PREDICTING CHANGES IN VISUAL APPEARANCE OF PERIODIC SURFACE FROM BRDF MEASUREMENTS (OP17, Pages 103-110)
-  type: title-main
-- content: PREDICTING CHANGES IN VISUAL APPEARANCE OF PERIODIC SURFACE FROM BRDF MEASUREMENTS (OP17, Pages 103-110)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/predicting-changes-in-visual-appearance-of-periodic-surface-from-brdf-measurements-op17-pages-103-110?product_id=1941819
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
+      - initial: C
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: I
+      - initial: I
       surname:
         language: en
         script: Latn
@@ -48,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn
@@ -60,9 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: I
+      - initial: I
       surname:
         language: en
         script: Latn
@@ -72,9 +59,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: G
+      - initial: G
       surname:
         language: en
         script: Latn
@@ -84,9 +69,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: G
+      - initial: G
       surname:
         language: en
         script: Latn

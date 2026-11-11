@@ -2,11 +2,6 @@
 id: CIEx044OP12
 schema_version: v1.5.6
 type: standard
-title:
-- content: 'DISCOMFORT GLARE FROM DAYLIGHTING: INFLUENCE OF CULTURE ON DISCOMFORT GLARE PERCEPETION (OP12, 83-93)'
-  type: title-main
-- content: 'DISCOMFORT GLARE FROM DAYLIGHTING: INFLUENCE OF CULTURE ON DISCOMFORT GLARE PERCEPETION (OP12, 83-93)'
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/discomfort-glare-from-daylighting-influence-of-culture-on-discomfort-glare-percepetion-op12-83-93?product_id=2009529
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
+      - initial: C
       surname:
         language: en
         script: Latn
@@ -36,12 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: B
+      - initial: M.B
       surname:
         language: en
         script: Latn
@@ -51,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn
@@ -63,9 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn

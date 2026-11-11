@@ -3,9 +3,11 @@ id: CIEx043PO27
 schema_version: v1.5.6
 type: standard
 title:
-- content: OPTIMIZATION OF WHITE LED SPECTRUM UNDER MESOPIC CONDITION BASED ON 3D COLOUR GAMUT (PO27, Pages 334-344)
+- content: OPTIMIZATION OF WHITE LED SPECTRUM UNDER MESOPIC CONDITION BASED ON 3D
+    COLOUR GAMUT (PO27, Pages 334-344)
   type: title-main
-- content: OPTIMIZATION OF WHITE LED SPECTRUM UNDER MESOPIC CONDITION BASED ON 3D COLOUR GAMUT (PO27, Pages 334-344)
+- content: OPTIMIZATION OF WHITE LED SPECTRUM UNDER MESOPIC CONDITION BASED ON 3D
+    COLOUR GAMUT (PO27, Pages 334-344)
   type: main
 source:
 - type: src
@@ -24,12 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: H
-      - language: en
-        script: Latn
-        initial: C
+      - initial: H.C
       surname:
         language: en
         script: Latn
@@ -39,12 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: P
-      - language: en
-        script: Latn
-        initial: L
+      - initial: P.L
       surname:
         language: en
         script: Latn
@@ -54,12 +46,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: R
+      - initial: M.R
       surname:
         language: en
         script: Latn

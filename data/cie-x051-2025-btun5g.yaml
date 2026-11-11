@@ -3,9 +3,11 @@ id: CIEx0512025btun5g
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x051:2025/btun5g
+- content: 'METROLOGY FOR NEUROPIC RESPONSE TO LIGHT: A CASE STUDY IN A NEONATAL INTENSIVE
+    CARE UNIT'
   type: title-main
-- content: CIE x051:2025/btun5g
+- content: 'METROLOGY FOR NEUROPIC RESPONSE TO LIGHT: A CASE STUDY IN A NEONATAL INTENSIVE
+    CARE UNIT'
   type: main
 source:
 - type: src
@@ -24,9 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn
@@ -36,12 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
-      - language: en
-        script: Latn
-        initial: M
+      - initial: J.M
       surname:
         language: en
         script: Latn
@@ -51,12 +46,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: R
-      - language: en
-        script: Latn
-        initial: A
+      - initial: R.A
       surname:
         language: en
         script: Latn
@@ -66,9 +56,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn
@@ -78,12 +66,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: K
-      - language: en
-        script: Latn
-        initial: A
+      - initial: K.A
       surname:
         language: en
         script: Latn

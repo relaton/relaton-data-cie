@@ -2,11 +2,6 @@
 id: CIEx043PO16
 schema_version: v1.5.6
 type: standard
-title:
-- content: INVESTIGATION AND MEASUREMENT OF UNCERTAINTY CONTRIBUTORS FOR COLORIMETRIC CALIBRATIONS (PO16, Pages 303-311)
-  type: title-main
-- content: INVESTIGATION AND MEASUREMENT OF UNCERTAINTY CONTRIBUTORS FOR COLORIMETRIC CALIBRATIONS (PO16, Pages 303-311)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/investigation-and-measurement-of-uncertainty-contributors-for-colorimetric-calibrations-po16-pages-303-311?product_id=1941848
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: I
+      - initial: I
       surname:
         language: en
         script: Latn
@@ -36,12 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: E
-      - language: en
-        script: Latn
-        initial: M
+      - initial: E.M
       surname:
         language: en
         script: Latn

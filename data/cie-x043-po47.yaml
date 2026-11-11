@@ -2,11 +2,6 @@
 id: CIEx043PO47
 schema_version: v1.5.6
 type: standard
-title:
-- content: VISUAL FIDELITY ASSESSMENT OF ARTWORKS IN VIRTUAL REALITY (PO47, Pages 446-449)
-  type: title-main
-- content: VISUAL FIDELITY ASSESSMENT OF ARTWORKS IN VIRTUAL REALITY (PO47, Pages 446-449)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/visual-fidelity-assessment-of-artworks-in-virtual-reality-po47-pages-446-449?product_id=1941869
@@ -24,12 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: P
-      - language: en
-        script: Latn
-        initial: J
+      - initial: P.J
       surname:
         language: en
         script: Latn
@@ -39,12 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: H
-      - language: en
-        script: Latn
-        initial: C
+      - initial: H.C
       surname:
         language: en
         script: Latn
@@ -54,12 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: I
+      - initial: M.I
       surname:
         language: en
         script: Latn
@@ -69,12 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
-      - language: en
-        script: Latn
-        initial: M
+      - initial: A.M
       surname:
         language: en
         script: Latn
@@ -84,12 +59,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: E
+      - initial: M.E
       surname:
         language: en
         script: Latn
@@ -99,12 +69,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
-      - language: en
-        script: Latn
-        initial: L
+      - initial: A.L
       surname:
         language: en
         script: Latn

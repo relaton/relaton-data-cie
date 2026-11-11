@@ -23,74 +23,42 @@ contributor:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: "Y"
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Hu
+        content: Hu Y.
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: R
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Luo
+        content: Luo M. R.
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: B
-      - language: en
-        script: Latn
-        initial: "Y"
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Wang
+        content: Wang B.Y.
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: D
-      surname:
+      completename:
         language: en
         script: Latn
-        content: He
+        content: He C.D.
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: H
-      - language: en
-        script: Latn
-        initial: "Y"
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Liu
+        content: Liu H.Y.
 - role:
   - type: publisher
   organization:

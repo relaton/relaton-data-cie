@@ -23,66 +23,26 @@ contributor:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Flávia de Lacerda
+        content: Flávia de Lacerda Bukzem
 - role:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Bukzem
+        content: Cláudia Naves David Amorim
 - role:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Cláudia
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Naves
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: David
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Amorim
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Ayana
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Dantas de Medeiros
+        content: Ayana Dantas de Medeiros
 - role:
   - type: publisher
   organization:

@@ -2,11 +2,6 @@
 id: CIEPO45990996
 schema_version: v1.5.6
 type: standard
-title:
-- content: SIMULATION OF TOTAL LUMINOUS FLUX MEASUREMENT FOR PANEL LIGHT SOURCE USING INTEGRATING SPHERE (PO45, 990-996)
-  type: title-main
-- content: SIMULATION OF TOTAL LUMINOUS FLUX MEASUREMENT FOR PANEL LIGHT SOURCE USING INTEGRATING SPHERE (PO45, 990-996)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/simulation-of-total-luminous-flux-measurement-for-panel-light-source-using-integrating-sphere-po45-990-996?product_id=2011180
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: T
+      - initial: T
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: T
+      - initial: T
       surname:
         language: en
         script: Latn
@@ -48,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: "Y"
       surname:
         language: en
         script: Latn
@@ -60,9 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: T
+      - initial: T
       surname:
         language: en
         script: Latn
@@ -72,9 +59,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: "Y"
       surname:
         language: en
         script: Latn

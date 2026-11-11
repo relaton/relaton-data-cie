@@ -3,9 +3,11 @@ id: CIEx0512025kmdmn2
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x051:2025/kmdmn2
+- content: COLOUR ASSIMILATION EFFECTS ON FACES IN FOVEAL AND PERIPHERAL VISION USING
+    CURVED DISPLAY SYSTEM
   type: title-main
-- content: CIE x051:2025/kmdmn2
+- content: COLOUR ASSIMILATION EFFECTS ON FACES IN FOVEAL AND PERIPHERAL VISION USING
+    CURVED DISPLAY SYSTEM
   type: main
 source:
 - type: src
@@ -24,9 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
+      - initial: S
       surname:
         language: en
         script: Latn
@@ -36,12 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: K
-      - language: en
-        script: Latn
-        initial: R
+      - initial: K. R
       surname:
         language: en
         script: Latn

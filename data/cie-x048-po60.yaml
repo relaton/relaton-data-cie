@@ -23,54 +23,26 @@ contributor:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Steve
+        content: Steve Lau
 - role:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Lau
+        content: Christopher Kyba
 - role:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Christopher
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Kyba
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: J
-      surname:
-        language: en
-        script: Latn
-        content: Richard
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Wainscoat
+        content: Richard J. Wainscoat
 - role:
   - type: publisher
   organization:

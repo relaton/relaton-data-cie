@@ -2,11 +2,6 @@
 id: CIEx043PP04
 schema_version: v1.5.6
 type: standard
-title:
-- content: EFFICIENT MEASUREMENT OF ANGLE-RESOLVED LUMINANCE DISTRIBUTION WITH IMAGING SENSOR (PP04, Pages 175-178)
-  type: title-main
-- content: EFFICIENT MEASUREMENT OF ANGLE-RESOLVED LUMINANCE DISTRIBUTION WITH IMAGING SENSOR (PP04, Pages 175-178)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/efficient-measurement-of-angle-resolved-luminance-distribution-with-imaging-sensor-pp04-pages-175-178?product_id=1941829
@@ -24,12 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: T
-      - language: en
-        script: Latn
-        initial: H
+      - initial: T.-H
       surname:
         language: en
         script: Latn
@@ -39,12 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
-      - language: en
-        script: Latn
-        initial: C
+      - initial: Y.-C
       surname:
         language: en
         script: Latn
@@ -54,12 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
-      - language: en
-        script: Latn
-        initial: W
+      - initial: Y.-W
       surname:
         language: en
         script: Latn
@@ -69,12 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: C
+      - initial: C.-C
       surname:
         language: en
         script: Latn
@@ -84,9 +59,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn
@@ -96,12 +69,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
-      - language: en
-        script: Latn
-        initial: H
+      - initial: Y.-H
       surname:
         language: en
         script: Latn
@@ -111,12 +79,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: C
+      - initial: C.-C
       surname:
         language: en
         script: Latn

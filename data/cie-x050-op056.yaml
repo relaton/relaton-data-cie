@@ -2,11 +2,6 @@
 id: CIEx050OP056
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x050-OP056
-  type: title-main
-- content: CIE x050-OP056
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-op056?product_id=2579020
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
+      - initial: S
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
+      - initial: C
       surname:
         language: en
         script: Latn
@@ -48,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn
@@ -60,9 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn

@@ -2,17 +2,6 @@
 id: CIEPP38718727
 schema_version: v1.5.6
 type: standard
-title:
-- content: |-
-    ASSESSMENT OF FILAMENT LED BULBS WITH RESPECT TO TEMPORAL LIGHT ARTEFACTS
-
-     (PP38, 718-727)
-  type: title-main
-- content: |-
-    ASSESSMENT OF FILAMENT LED BULBS WITH RESPECT TO TEMPORAL LIGHT ARTEFACTS
-
-     (PP38, 718-727)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/assessment-of-filament-led-bulbs-with-respect-to-temporal-light-artefacts-pp38-718-727?product_id=2011367
@@ -30,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn
@@ -42,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn
@@ -54,12 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: D
-      - language: en
-        script: Latn
-        initial: D
+      - initial: D.D
       surname:
         language: en
         script: Latn
@@ -69,9 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
+      - initial: C
       surname:
         language: en
         script: Latn

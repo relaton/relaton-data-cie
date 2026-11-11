@@ -3,9 +3,11 @@ id: CIEPO24526533
 schema_version: v1.5.6
 type: standard
 title:
-- content: SMART GARNISH LIGHT/DISPLAY FOR VISUAL ASSISTANCE IN AUTOMOBILE (PO24, 526-533)
+- content: SMART GARNISH LIGHT/DISPLAY FOR VISUAL ASSISTANCE IN AUTOMOBILE (PO24,
+    526-533)
   type: title-main
-- content: SMART GARNISH LIGHT/DISPLAY FOR VISUAL ASSISTANCE IN AUTOMOBILE (PO24, 526-533)
+- content: SMART GARNISH LIGHT/DISPLAY FOR VISUAL ASSISTANCE IN AUTOMOBILE (PO24,
+    526-533)
   type: main
 source:
 - type: src
@@ -24,12 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
-      - language: en
-        script: Latn
-        initial: K
+      - initial: J.K
       surname:
         language: en
         script: Latn
@@ -39,12 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: S.Y
       surname:
         language: en
         script: Latn
@@ -54,12 +46,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
-      - language: en
-        script: Latn
-        initial: M
+      - initial: S.M
       surname:
         language: en
         script: Latn
@@ -69,12 +56,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
-      - language: en
-        script: Latn
-        initial: U
+      - initial: J.U
       surname:
         language: en
         script: Latn
@@ -84,12 +66,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: W
-      - language: en
-        script: Latn
-        initial: K
+      - initial: W.K
       surname:
         language: en
         script: Latn
@@ -99,12 +76,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: K
-      - language: en
-        script: Latn
-        initial: H
+      - initial: K.H
       surname:
         language: en
         script: Latn

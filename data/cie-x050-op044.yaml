@@ -2,11 +2,6 @@
 id: CIEx050OP044
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x050-OP044
-  type: title-main
-- content: CIE x050-OP044
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-op044?product_id=2578616
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: L
+      - initial: L
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn
@@ -48,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: L
+      - initial: L
       surname:
         language: en
         script: Latn
@@ -59,30 +48,18 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - initial: P
       surname:
         language: en
         script: Latn
-        content: Van
+        content: Van den Bossche
 - role:
   - type: author
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: P
-      surname:
-        language: en
-        script: Latn
-        content: den Bossche
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: B
+      - initial: B
       surname:
         language: en
         script: Latn
@@ -92,9 +69,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: V
+      - initial: V
       surname:
         language: en
         script: Latn

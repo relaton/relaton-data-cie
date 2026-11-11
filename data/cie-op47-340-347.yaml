@@ -32,9 +32,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: V
+      - initial: V
       surname:
         language: en
         script: Latn
@@ -44,12 +42,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
-      - language: en
-        script: Latn
-        initial: C
+      - initial: A.C
       surname:
         language: en
         script: Latn
@@ -59,9 +52,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: G
+      - initial: G
       surname:
         language: en
         script: Latn
@@ -71,9 +62,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn
@@ -83,9 +72,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
+      - initial: S
       surname:
         language: en
         script: Latn

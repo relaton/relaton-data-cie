@@ -3,9 +3,13 @@ id: CIEx043OP21
 schema_version: v1.5.6
 type: standard
 title:
-- content: ACCURATE SIMULATION OF LIGHT DIFFUSION EFFECTS OF PATTERNED GLAZING BY IMPLEMENTATION OF BIDIRECTIONAL TRANSMITTANCE DISTRIBUTION FUNCTIONS INTO DAYLIGHT CALCULATION SOFTWARE (OP21, Pages 133-139)
+- content: ACCURATE SIMULATION OF LIGHT DIFFUSION EFFECTS OF PATTERNED GLAZING BY
+    IMPLEMENTATION OF BIDIRECTIONAL TRANSMITTANCE DISTRIBUTION FUNCTIONS INTO DAYLIGHT
+    CALCULATION SOFTWARE (OP21, Pages 133-139)
   type: title-main
-- content: ACCURATE SIMULATION OF LIGHT DIFFUSION EFFECTS OF PATTERNED GLAZING BY IMPLEMENTATION OF BIDIRECTIONAL TRANSMITTANCE DISTRIBUTION FUNCTIONS INTO DAYLIGHT CALCULATION SOFTWARE (OP21, Pages 133-139)
+- content: ACCURATE SIMULATION OF LIGHT DIFFUSION EFFECTS OF PATTERNED GLAZING BY
+    IMPLEMENTATION OF BIDIRECTIONAL TRANSMITTANCE DISTRIBUTION FUNCTIONS INTO DAYLIGHT
+    CALCULATION SOFTWARE (OP21, Pages 133-139)
   type: main
 source:
 - type: src
@@ -24,9 +28,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn
@@ -36,9 +38,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn
@@ -48,9 +48,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn
@@ -60,12 +58,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: F
-      - language: en
-        script: Latn
-        initial: B
+      - initial: F.B
       surname:
         language: en
         script: Latn

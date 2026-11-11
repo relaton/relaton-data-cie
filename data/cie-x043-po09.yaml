@@ -2,13 +2,6 @@
 id: CIEx043PO09
 schema_version: v1.5.6
 type: standard
-title:
-- content: DISCOMFORT GLARE OF NON-UNIFORM LUMINAIRES
-  type: title-intro
-- content: A LITERATURE REVIEW (PO09, Pages 247-256)
-  type: title-main
-- content: DISCOMFORT GLARE OF NON-UNIFORM LUMINAIRES - A LITERATURE REVIEW (PO09, Pages 247-256)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/discomfort-glare-of-non-uniform-luminaires-a-literature-review-po09-pages-247-256?product_id=1941840
@@ -26,12 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: L
-      - language: en
-        script: Latn
-        initial: M
+      - initial: L.M
       surname:
         language: en
         script: Latn
@@ -41,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
+      - initial: C
       surname:
         language: en
         script: Latn
@@ -53,18 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: J
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M.C.J.M
       surname:
         language: en
         script: Latn
@@ -73,18 +48,12 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - content: Ch.
       surname:
         language: en
         script: Latn
         content: Schierz
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Ch.
 - role:
   - type: publisher
   organization:

@@ -2,11 +2,6 @@
 id: CIEx0512025ezprdk
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x051:2025/ezprdk
-  type: title-main
-- content: CIE x051:2025/ezprdk
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x051-2025-ezprdk?product_id=3039901
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: Q
+      - initial: Q
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: L
+      - initial: L
       surname:
         language: en
         script: Latn
@@ -48,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn
@@ -60,9 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "N"
+      - initial: "N"
       surname:
         language: en
         script: Latn

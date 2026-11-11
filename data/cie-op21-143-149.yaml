@@ -2,15 +2,6 @@
 id: CIEOP21143149
 schema_version: v1.5.6
 type: standard
-title:
-- content: |-
-    COLOUR TRANSITIONS IN ROAD LIGHTING 
-    (OP21, 143-149)
-  type: title-main
-- content: |-
-    COLOUR TRANSITIONS IN ROAD LIGHTING 
-    (OP21, 143-149)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/colour-transitions-in-road-lighting-op21-143-149?product_id=2010462
@@ -28,12 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: R
-      - language: en
-        script: Latn
-        initial: P
+      - initial: R.P
       surname:
         language: en
         script: Latn
@@ -43,18 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: I
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: L
-      - language: en
-        script: Latn
-        initial: C
+      - initial: I.M.L.C
       surname:
         language: en
         script: Latn
@@ -64,15 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: A
-      - language: en
-        script: Latn
-        initial: H
+      - initial: M.A.H
       surname:
         language: en
         script: Latn

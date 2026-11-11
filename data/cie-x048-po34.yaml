@@ -2,11 +2,6 @@
 id: CIEx048PO34
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x048-PO34
-  type: title-main
-- content: CIE x048-PO34
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x048-po34?product_id=2240843
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A.Sh
       surname:
         language: en
         script: Latn
@@ -36,27 +29,17 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: A
+      - initial: M.A
       surname:
         language: en
         script: Latn
-        content: Sh. Fedorishchev
+        content: Fedorishchev
 - role:
   - type: author
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
-      - language: en
-        script: Latn
-        initial: B
+      - initial: A.B
       surname:
         language: en
         script: Latn

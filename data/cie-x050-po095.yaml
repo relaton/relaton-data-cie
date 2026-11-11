@@ -3,9 +3,9 @@ id: CIEx050PO095
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x050-PO095
+- content: QUANTIFYING THE BRIGHTNESS OF CHROMATIC LIGHTING IN A WIDE FIELD OF VIEW
   type: title-main
-- content: CIE x050-PO095
+- content: QUANTIFYING THE BRIGHTNESS OF CHROMATIC LIGHTING IN A WIDE FIELD OF VIEW
   type: main
 source:
 - type: src
@@ -24,9 +24,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: D
+      - initial: D
       surname:
         language: en
         script: Latn

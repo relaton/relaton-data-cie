@@ -2,11 +2,6 @@
 id: CIEPO19499504
 schema_version: v1.5.6
 type: standard
-title:
-- content: VISUAL EVALUATION OF 3D COLOUR VOLUME (PO19, 499-504)
-  type: title-main
-- content: VISUAL EVALUATION OF 3D COLOUR VOLUME (PO19, 499-504)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/visual-evaluation-of-3d-colour-volume-po19-499-504?product_id=2016297
@@ -24,12 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
-      - language: en
-        script: Latn
-        initial: S
+      - initial: Y.S
       surname:
         language: en
         script: Latn
@@ -39,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: "Y"
       surname:
         language: en
         script: Latn
@@ -51,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
+      - initial: S
       surname:
         language: en
         script: Latn
@@ -63,9 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn

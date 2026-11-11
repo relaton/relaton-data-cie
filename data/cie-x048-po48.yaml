@@ -3,9 +3,9 @@ id: CIEx048PO48
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x048-PO48
+- content: DEVELOPMENT OF NEW STANDARDS FOR MUSEUM LIGHTING
   type: title-main
-- content: CIE x048-PO48
+- content: DEVELOPMENT OF NEW STANDARDS FOR MUSEUM LIGHTING
   type: main
 source:
 - type: src
@@ -24,12 +24,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A.A
       surname:
         language: en
         script: Latn
@@ -39,12 +34,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
-      - language: en
-        script: Latn
-        initial: G
+      - initial: A.G
       surname:
         language: en
         script: Latn
@@ -54,9 +44,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A.Sh
       surname:
         language: en
         script: Latn
@@ -66,27 +54,17 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: R
-      - language: en
-        script: Latn
-        initial: I
+      - initial: R.I
       surname:
         language: en
         script: Latn
-        content: Sh. Stolyarevskaya
+        content: Stolyarevskaya
 - role:
   - type: author
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: E
-      - language: en
-        script: Latn
-        initial: I
+      - initial: E.I
       surname:
         language: en
         script: Latn

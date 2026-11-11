@@ -2,11 +2,6 @@
 id: CIEx043PO18
 schema_version: v1.5.6
 type: standard
-title:
-- content: VISUAL EVALUATION OF WHITE SAMPLES NEAR TO CIE LIMITS (PO18, Pages 484-492)
-  type: title-main
-- content: VISUAL EVALUATION OF WHITE SAMPLES NEAR TO CIE LIMITS (PO18, Pages 484-492)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/visual-evaluation-of-white-samples-near-to-cie-limits-po18-pages-484-492?product_id=1941850
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn

@@ -3,9 +3,11 @@ id: CIEx048WP03
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x048-WP03
+- content: GENERAL V MISMATCH INDEX
+  type: title-intro
+- content: HISTORY, CURRENT STATE, NEW IDEAS
   type: title-main
-- content: CIE x048-WP03
+- content: GENERAL V MISMATCH INDEX - HISTORY, CURRENT STATE, NEW IDEAS
   type: main
 source:
 - type: src
@@ -24,9 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: U
+      - initial: U
       surname:
         language: en
         script: Latn
@@ -36,9 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn
@@ -48,9 +46,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn
@@ -60,9 +56,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: V
+      - initial: V
       surname:
         language: en
         script: Latn
@@ -72,9 +66,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn

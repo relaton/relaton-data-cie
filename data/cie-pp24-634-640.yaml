@@ -30,9 +30,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: E
+      - initial: E
       surname:
         language: en
         script: Latn
@@ -42,9 +40,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn

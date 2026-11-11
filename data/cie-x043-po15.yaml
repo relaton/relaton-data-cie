@@ -3,9 +3,11 @@ id: CIEx043PO15
 schema_version: v1.5.6
 type: standard
 title:
-- content: IMPACT OF SURFACE CURVATURE ON SPECTRAL BRDF OF EFFECT COATINGS (PO15, Pages 295-302)
+- content: IMPACT OF SURFACE CURVATURE ON SPECTRAL BRDF OF EFFECT COATINGS (PO15,
+    Pages 295-302)
   type: title-main
-- content: IMPACT OF SURFACE CURVATURE ON SPECTRAL BRDF OF EFFECT COATINGS (PO15, Pages 295-302)
+- content: IMPACT OF SURFACE CURVATURE ON SPECTRAL BRDF OF EFFECT COATINGS (PO15,
+    Pages 295-302)
   type: main
 source:
 - type: src
@@ -24,9 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn
@@ -36,9 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: B
+      - initial: B
       surname:
         language: en
         script: Latn
@@ -48,9 +46,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn
@@ -60,9 +56,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: E
+      - initial: E
       surname:
         language: en
         script: Latn
@@ -72,12 +66,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: F
-      - language: en
-        script: Latn
-        initial: M
+      - initial: F.M
       surname:
         language: en
         script: Latn
@@ -87,9 +76,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn
@@ -99,9 +86,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: G
+      - initial: G
       surname:
         language: en
         script: Latn
@@ -111,9 +96,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
+      - initial: C
       surname:
         language: en
         script: Latn

@@ -3,9 +3,11 @@ id: CIEx043OP18
 schema_version: v1.5.6
 type: standard
 title:
-- content: '3D SURFACE ACQUISITION: COMPARISON OF TWO MICROTOPOGRAPHIC EQUIPMENTS WHEN MEASURING MATERIALS OF CULTURAL HERITAGE (OP18, Pages 111-120)'
+- content: '3D SURFACE ACQUISITION: COMPARISON OF TWO MICROTOPOGRAPHIC EQUIPMENTS
+    WHEN MEASURING MATERIALS OF CULTURAL HERITAGE (OP18, Pages 111-120)'
   type: title-main
-- content: '3D SURFACE ACQUISITION: COMPARISON OF TWO MICROTOPOGRAPHIC EQUIPMENTS WHEN MEASURING MATERIALS OF CULTURAL HERITAGE (OP18, Pages 111-120)'
+- content: '3D SURFACE ACQUISITION: COMPARISON OF TWO MICROTOPOGRAPHIC EQUIPMENTS
+    WHEN MEASURING MATERIALS OF CULTURAL HERITAGE (OP18, Pages 111-120)'
   type: main
 source:
 - type: src
@@ -24,12 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: J
+      - initial: M.J
       surname:
         language: en
         script: Latn
@@ -39,9 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
+      - initial: C
       surname:
         language: en
         script: Latn
@@ -51,9 +46,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "N"
+      - initial: "N"
       surname:
         language: en
         script: Latn
@@ -63,9 +56,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: D
+      - initial: D
       surname:
         language: en
         script: Latn
@@ -75,9 +66,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: G
+      - initial: G
       surname:
         language: en
         script: Latn

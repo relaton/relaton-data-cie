@@ -2,11 +2,6 @@
 id: CIEx048OP62
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x048-OP62
-  type: title-main
-- content: CIE x048-OP62
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x048-op62?product_id=2240815
@@ -23,6 +18,8 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - content: Hillevi
       surname:
         language: en
         script: Latn
@@ -31,30 +28,16 @@ contributor:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Hillevi
+        content: Glimne Susanne
 - role:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Glimne
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Susanne
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Marina
       surname:
         language: en
         script: Latn
@@ -63,14 +46,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Marina
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Johannes
       surname:
         language: en
         script: Latn
@@ -79,14 +56,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Johannes
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Per
       surname:
         language: en
         script: Latn
@@ -95,26 +66,12 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Per
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Per
       surname:
         language: en
         script: Latn
         content: Nylén
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Per
 - role:
   - type: publisher
   organization:

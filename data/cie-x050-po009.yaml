@@ -24,9 +24,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: G
+      - initial: G
       surname:
         language: en
         script: Latn
@@ -36,9 +34,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: G
+      - initial: G
       surname:
         language: en
         script: Latn
@@ -47,30 +43,18 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - initial: P
       surname:
         language: en
         script: Latn
-        content: Van
+        content: Van den Bossche
 - role:
   - type: author
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: P
-      surname:
-        language: en
-        script: Latn
-        content: den Bossche
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: V
+      - initial: V
       surname:
         language: en
         script: Latn

@@ -2,17 +2,6 @@
 id: CIEPP32687693
 schema_version: v1.5.6
 type: standard
-title:
-- content: |-
-    LIGHT EVALUATION IN HIGH AND LOW MOOD STATES
-
-     (PP32, 687-693)
-  type: title-main
-- content: |-
-    LIGHT EVALUATION IN HIGH AND LOW MOOD STATES
-
-     (PP32, 687-693)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/light-evaluation-in-high-and-low-mood-states-pp32-687-693?product_id=2011363
@@ -30,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "N"
+      - initial: "N"
       surname:
         language: en
         script: Latn
@@ -42,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: T
+      - initial: T
       surname:
         language: en
         script: Latn

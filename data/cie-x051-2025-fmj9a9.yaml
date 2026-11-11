@@ -2,11 +2,6 @@
 id: CIEx0512025fmj9a9
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x051:2025/fmj9a9
-  type: title-main
-- content: CIE x051:2025/fmj9a9
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x051-2025-fmj9a9?product_id=3039159
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: T
+      - initial: T
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: X
+      - initial: X
       surname:
         language: en
         script: Latn

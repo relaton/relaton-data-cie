@@ -2,11 +2,6 @@
 id: CIEx05120257qepyc
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x051:2025/7qepyc
-  type: title-main
-- content: CIE x051:2025/7qepyc
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x051-2025-7qepyc?product_id=3039866
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
+      - initial: S
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: B
+      - initial: B
       surname:
         language: en
         script: Latn
@@ -48,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn
@@ -60,9 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn
@@ -72,9 +59,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: G
+      - initial: G
       surname:
         language: en
         script: Latn
@@ -84,15 +69,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: G
-      - language: en
-        script: Latn
-        initial: B
-      - language: en
-        script: Latn
-        initial: Z
+      - initial: G.B.Z
       surname:
         language: en
         script: Latn

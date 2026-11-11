@@ -3,9 +3,11 @@ id: CIEPP25276283
 schema_version: v1.5.6
 type: standard
 title:
-- content: EXPLORING THE PREFERRED LUMINANCE OF VDT AND INDICATOR LIGHTS IN AIRCRAFT COCKPIT FOR AUTOMATIC DIMMING (PP25, 276-283)
+- content: EXPLORING THE PREFERRED LUMINANCE OF VDT AND INDICATOR LIGHTS IN AIRCRAFT
+    COCKPIT FOR AUTOMATIC DIMMING (PP25, 276-283)
   type: title-main
-- content: EXPLORING THE PREFERRED LUMINANCE OF VDT AND INDICATOR LIGHTS IN AIRCRAFT COCKPIT FOR AUTOMATIC DIMMING (PP25, 276-283)
+- content: EXPLORING THE PREFERRED LUMINANCE OF VDT AND INDICATOR LIGHTS IN AIRCRAFT
+    COCKPIT FOR AUTOMATIC DIMMING (PP25, 276-283)
   type: main
 source:
 - type: src
@@ -23,6 +25,8 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - content: Yingying
       surname:
         language: en
         script: Latn
@@ -31,26 +35,12 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Yingying
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Biao
       surname:
         language: en
         script: Latn
         content: Yang
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Biao
 - role:
   - type: publisher
   organization:

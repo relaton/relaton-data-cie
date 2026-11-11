@@ -5,13 +5,11 @@ type: standard
 title:
 - content: TRANSITORY BUILDINGS
   type: title-intro
-- content: |-
-    LASTING EFFECT: AALTO'S EXHIBITION DESIGNS: PARIS WORLDS' FAIR, LAPUA FORESTRY PAVILION, AND NEW YORK WORLDS' FAIR 
-    (OP23, 158-167)
+- content: "LASTING EFFECT: AALTO'S EXHIBITION DESIGNS: PARIS WORLDS' FAIR, LAPUA
+    FORESTRY PAVILION, AND NEW YORK WORLDS' FAIR \n(OP23, 158-167)"
   type: title-main
-- content: |-
-    TRANSITORY BUILDINGS - LASTING EFFECT: AALTO'S EXHIBITION DESIGNS: PARIS WORLDS' FAIR, LAPUA FORESTRY PAVILION, AND NEW YORK WORLDS' FAIR 
-    (OP23, 158-167)
+- content: "TRANSITORY BUILDINGS - LASTING EFFECT: AALTO'S EXHIBITION DESIGNS: PARIS
+    WORLDS' FAIR, LAPUA FORESTRY PAVILION, AND NEW YORK WORLDS' FAIR \n(OP23, 158-167)"
   type: main
 source:
 - type: src
@@ -30,9 +28,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: V
+      - initial: V
       surname:
         language: en
         script: Latn

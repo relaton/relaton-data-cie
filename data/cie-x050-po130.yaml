@@ -3,9 +3,11 @@ id: CIEx050PO130
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x050-PO130
+- content: 'THE SAME LIGHT, DIFFERENT EFFECTS AT THE SAME TIME: POSITIVE AND NEGATIVE
+    EFFECTS OF THE VISIBLE LIGHT ON THE RETINA'
   type: title-main
-- content: CIE x050-PO130
+- content: 'THE SAME LIGHT, DIFFERENT EFFECTS AT THE SAME TIME: POSITIVE AND NEGATIVE
+    EFFECTS OF THE VISIBLE LIGHT ON THE RETINA'
   type: main
 source:
 - type: src
@@ -24,12 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: K
-      - language: en
-        script: Latn
-        initial: H
+      - initial: K.H
       surname:
         language: en
         script: Latn

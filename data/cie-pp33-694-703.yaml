@@ -2,17 +2,6 @@
 id: CIEPP33694703
 schema_version: v1.5.6
 type: standard
-title:
-- content: |-
-    ANALYTICAL MODELS FOR PHOTO-EMISSION SPECTRA OF SINGLE COLOUR LEDS
-
-     (PP33, 694-703)
-  type: title-main
-- content: |-
-    ANALYTICAL MODELS FOR PHOTO-EMISSION SPECTRA OF SINGLE COLOUR LEDS
-
-     (PP33, 694-703)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/analytical-models-for-photo-emission-spectra-of-single-colour-leds-pp33-694-703?product_id=2011364
@@ -30,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: T
+      - initial: T
       surname:
         language: en
         script: Latn
@@ -42,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: R
+      - initial: R
       surname:
         language: en
         script: Latn

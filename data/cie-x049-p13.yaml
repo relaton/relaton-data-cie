@@ -2,11 +2,6 @@
 id: CIEx049P13
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x049-P13
-  type: title-main
-- content: CIE x049-P13
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x049-p13?product_id=2502821
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn
@@ -36,12 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: F
-      - language: en
-        script: Latn
-        initial: A
+      - initial: F.A
       surname:
         language: en
         script: Latn
@@ -51,12 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "N"
-      - language: en
-        script: Latn
-        initial: J
+      - initial: N.J
       surname:
         language: en
         script: Latn

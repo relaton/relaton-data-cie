@@ -23,33 +23,18 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - initial: E
       surname:
         language: en
         script: Latn
-        content: Ranaer
+        content: Ranaer Harputluoğlu
 - role:
   - type: author
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: E
-      surname:
-        language: en
-        script: Latn
-        content: Harputluoğlu
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: Z
-      - language: en
-        script: Latn
-        initial: A
+      - initial: Z. A
       surname:
         language: en
         script: Latn
@@ -58,22 +43,12 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Şener
-- role:
-  - type: author
-  person:
-    name:
       forename:
-      - language: en
-        script: Latn
-        initial: F
+      - initial: F
       surname:
         language: en
         script: Latn
-        content: Yılmaz
+        content: Şener Yılmaz
 - role:
   - type: publisher
   organization:

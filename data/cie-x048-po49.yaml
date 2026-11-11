@@ -2,11 +2,6 @@
 id: CIEx048PO49
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x048-PO49
-  type: title-main
-- content: CIE x048-PO49
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x048-po49?product_id=2240856
@@ -23,66 +18,34 @@ contributor:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Georgy
+        content: Georgy Boos
 - role:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Boos
+        content: Vladimir Budak
 - role:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Vladimir
+        content: Ekaterina Ilyina
 - role:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Budak
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Ekaterina
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Ilyina
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Tatyana
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Meshkova
+        content: Tatyana Meshkova
 - role:
   - type: publisher
   organization:

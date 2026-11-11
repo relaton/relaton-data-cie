@@ -3,9 +3,9 @@ id: CIEx048OP15
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x048-OP15
+- content: SPECTRAL MEASUREMENT AND CLASSIFICATION IN THE ERA OF BIG DATA
   type: title-main
-- content: CIE x048-OP15
+- content: SPECTRAL MEASUREMENT AND CLASSIFICATION IN THE ERA OF BIG DATA
   type: main
 source:
 - type: src
@@ -24,12 +24,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: F
-      - language: en
-        script: Latn
-        initial: S
+      - initial: F.S
       surname:
         language: en
         script: Latn
@@ -39,9 +34,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn

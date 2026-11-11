@@ -2,11 +2,6 @@
 id: CIEPO10457460
 schema_version: v1.5.6
 type: standard
-title:
-- content: NON-SUBJECTIVE AND SUBJECTIVE EVALUATIONS OF CONCENTRATION OF OFFICE WORKERS IN LIGHTING CONDITIONS WITH DIFFERENT BLUE LIGHTS (PO10, 457-460)
-  type: title-main
-- content: NON-SUBJECTIVE AND SUBJECTIVE EVALUATIONS OF CONCENTRATION OF OFFICE WORKERS IN LIGHTING CONDITIONS WITH DIFFERENT BLUE LIGHTS (PO10, 457-460)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/non-subjective-and-subjective-evaluations-of-concentration-of-office-workers-in-lighting-conditions-with-different-blue-lights-po10-457-460?product_id=2016288
@@ -24,12 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: C.Y
       surname:
         language: en
         script: Latn
@@ -39,12 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: P
-      - language: en
-        script: Latn
-        initial: J
+      - initial: P.J
       surname:
         language: en
         script: Latn
@@ -54,12 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: C.Y
       surname:
         language: en
         script: Latn
@@ -69,12 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: R
+      - initial: M.R
       surname:
         language: en
         script: Latn
@@ -84,12 +59,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: B
-      - language: en
-        script: Latn
-        initial: S
+      - initial: B.S
       surname:
         language: en
         script: Latn

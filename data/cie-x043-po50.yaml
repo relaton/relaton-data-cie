@@ -3,9 +3,11 @@ id: CIEx043PO50
 schema_version: v1.5.6
 type: standard
 title:
-- content: COLORIMETRIC PROPERTIES OF LED ILLUMINATED ROADS STUDIED BY IN-FIELD MEASUREMENTS AND SIMULATIONS (PO50, Pages 470-475)
+- content: COLORIMETRIC PROPERTIES OF LED ILLUMINATED ROADS STUDIED BY IN-FIELD MEASUREMENTS
+    AND SIMULATIONS (PO50, Pages 470-475)
   type: title-main
-- content: COLORIMETRIC PROPERTIES OF LED ILLUMINATED ROADS STUDIED BY IN-FIELD MEASUREMENTS AND SIMULATIONS (PO50, Pages 470-475)
+- content: COLORIMETRIC PROPERTIES OF LED ILLUMINATED ROADS STUDIED BY IN-FIELD MEASUREMENTS
+    AND SIMULATIONS (PO50, Pages 470-475)
   type: main
 source:
 - type: src
@@ -24,12 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
-      - language: en
-        script: Latn
-        initial: W
+      - initial: S.W
       surname:
         language: en
         script: Latn
@@ -39,12 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: H
+      - initial: C.H
       surname:
         language: en
         script: Latn
@@ -54,12 +46,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: K
-      - language: en
-        script: Latn
-        initial: "N"
+      - initial: K.N
       surname:
         language: en
         script: Latn
@@ -69,12 +56,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
-      - language: en
-        script: Latn
-        initial: T
+      - initial: S.T
       surname:
         language: en
         script: Latn

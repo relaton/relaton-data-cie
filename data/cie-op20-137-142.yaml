@@ -2,11 +2,6 @@
 id: CIEOP20137142
 schema_version: v1.5.6
 type: standard
-title:
-- content: INFLUENCE OF AMBIENT LIGHT LEVEL ON PEDESTRIAN ACTIVITY AND ACCIDENTS ON PEDESTRIAN CROSSINGS (OP20, 137-142)
-  type: title-main
-- content: INFLUENCE OF AMBIENT LIGHT LEVEL ON PEDESTRIAN ACTIVITY AND ACCIDENTS ON PEDESTRIAN CROSSINGS (OP20, 137-142)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/influence-of-ambient-light-level-on-pedestrian-activity-and-accidents-on-pedestrian-crossings-op20-137-142?product_id=2010430
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
+      - initial: S
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn

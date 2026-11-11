@@ -2,11 +2,6 @@
 id: CIEx043OP11
 schema_version: v1.5.6
 type: standard
-title:
-- content: MEASURING GONIOAPPARENT SAMPLES USING A BIDIRECTIONAL SPECTROMETER; AN SRGB VISUALIZATION (OP11, Pages 60-68)
-  type: title-main
-- content: MEASURING GONIOAPPARENT SAMPLES USING A BIDIRECTIONAL SPECTROMETER; AN SRGB VISUALIZATION (OP11, Pages 60-68)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/measuring-gonioapparent-samples-using-a-bidirectional-spectrometer-an-srgb-visualization-op11-pages-60-68?product_id=1941813
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "N"
+      - initial: "N"
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "N"
+      - initial: "N"
       surname:
         language: en
         script: Latn
@@ -48,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: R
+      - initial: R
       surname:
         language: en
         script: Latn
@@ -60,9 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn

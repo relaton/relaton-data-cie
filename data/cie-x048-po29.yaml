@@ -3,9 +3,11 @@ id: CIEx048PO29
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x048-PO29
+- content: STUDY OF METHODS FOR MEASURING THE OPTICAL CHARACTERISTICS OF LOW-PRESSURE
+    MERCURY LAMPS
   type: title-main
-- content: CIE x048-PO29
+- content: STUDY OF METHODS FOR MEASURING THE OPTICAL CHARACTERISTICS OF LOW-PRESSURE
+    MERCURY LAMPS
   type: main
 source:
 - type: src
@@ -24,12 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: I
-      - language: en
-        script: Latn
-        initial: I
+      - initial: I.I
       surname:
         language: en
         script: Latn

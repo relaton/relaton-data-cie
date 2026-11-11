@@ -2,11 +2,6 @@
 id: CIEx0512025kouub2
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x051:2025/kouub2
-  type: title-main
-- content: CIE x051:2025/kouub2
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x051-2025-kouub2?product_id=3039164
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
+      - initial: C
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: "Y"
       surname:
         language: en
         script: Latn
@@ -48,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: "Y"
       surname:
         language: en
         script: Latn
@@ -60,9 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn

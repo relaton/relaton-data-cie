@@ -3,9 +3,11 @@ id: CIEPO25534543
 schema_version: v1.5.6
 type: standard
 title:
-- content: OPTIMIZING IMAGE APPEARANCE OF AN OPTICAL SEE-THROUGH HMD FOR MIXED-REALITY APPLICATIONS (PO25, 534-543)
+- content: OPTIMIZING IMAGE APPEARANCE OF AN OPTICAL SEE-THROUGH HMD FOR MIXED-REALITY
+    APPLICATIONS (PO25, 534-543)
   type: title-main
-- content: OPTIMIZING IMAGE APPEARANCE OF AN OPTICAL SEE-THROUGH HMD FOR MIXED-REALITY APPLICATIONS (PO25, 534-543)
+- content: OPTIMIZING IMAGE APPEARANCE OF AN OPTICAL SEE-THROUGH HMD FOR MIXED-REALITY
+    APPLICATIONS (PO25, 534-543)
   type: main
 source:
 - type: src
@@ -23,6 +25,8 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - content: Yu-Ting
       surname:
         language: en
         script: Latn
@@ -31,26 +35,12 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Yu-Ting
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Pei-Li
       surname:
         language: en
         script: Latn
         content: Sun
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Pei-Li
 - role:
   - type: publisher
   organization:

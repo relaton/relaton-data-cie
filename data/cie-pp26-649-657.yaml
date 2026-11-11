@@ -2,11 +2,6 @@
 id: CIEPP26649657
 schema_version: v1.5.6
 type: standard
-title:
-- content: VISUAL EXPERIENCES AND NEEDS OF AGEING DRIVERS (PP26, 649-657)
-  type: title-main
-- content: VISUAL EXPERIENCES AND NEEDS OF AGEING DRIVERS (PP26, 649-657)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/visual-experiences-and-needs-of-ageing-drivers-pp26-649-657?product_id=2011357
@@ -24,15 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: A
-      - language: en
-        script: Latn
-        initial: H
+      - initial: M.A.H
       surname:
         language: en
         script: Latn
@@ -42,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: E
+      - initial: E
       surname:
         language: en
         script: Latn
@@ -54,18 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: F
-      - language: en
-        script: Latn
-        initial: H
-      - language: en
-        script: Latn
-        initial: F
-      - language: en
-        script: Latn
-        initial: W
+      - initial: F.H.F.W
       surname:
         language: en
         script: Latn

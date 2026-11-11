@@ -3,9 +3,11 @@ id: CIEx043PO49
 schema_version: v1.5.6
 type: standard
 title:
-- content: THE EFFECTIVE LUMINOUS SURFACES IN THE UNIFIED GLARE RATING (PO49, Pages 462-469)
+- content: THE EFFECTIVE LUMINOUS SURFACES IN THE UNIFIED GLARE RATING (PO49, Pages
+    462-469)
   type: title-main
-- content: THE EFFECTIVE LUMINOUS SURFACES IN THE UNIFIED GLARE RATING (PO49, Pages 462-469)
+- content: THE EFFECTIVE LUMINOUS SURFACES IN THE UNIFIED GLARE RATING (PO49, Pages
+    462-469)
   type: main
 source:
 - type: src
@@ -24,12 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: G
-      - language: en
-        script: Latn
-        initial: H
+      - initial: G.H
       surname:
         language: en
         script: Latn
@@ -39,9 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: P
+      - initial: P
       surname:
         language: en
         script: Latn
@@ -51,12 +46,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: W
-      - language: en
-        script: Latn
-        initial: R
+      - content: W.R..
       surname:
         language: en
         script: Latn

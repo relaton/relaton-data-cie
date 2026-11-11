@@ -23,17 +23,7 @@ contributor:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: V
-      - language: en
-        script: Latn
-        initial: R
-      - language: en
-        script: Latn
-        initial: M
-      surname:
+      completename:
         language: en
         script: Latn
         content: L. Giovannini
@@ -41,46 +31,34 @@ contributor:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: F
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Lo Verso
+        content: V.R.M. Lo Verso
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: V
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Favoino
+        content: F. Favoino
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: A
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Serra
+        content: V. Serra
 - role:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Pellegrino
+        content: A. Pellegrino
 - role:
   - type: publisher
   organization:

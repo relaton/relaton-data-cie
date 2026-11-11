@@ -30,12 +30,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
-      - language: en
-        script: Latn
-        initial: I
+      - initial: A.I
       surname:
         language: en
         script: Latn
@@ -45,9 +40,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: I
+      - initial: I
       surname:
         language: en
         script: Latn

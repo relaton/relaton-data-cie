@@ -3,9 +3,11 @@ id: CIEx043PO07
 schema_version: v1.5.6
 type: standard
 title:
-- content: INFLUENCE OF DIFFERENT ROOM SURFACE COLOURS ON THE MELANOPIC FACTOR (PO07, Pages 230-235)
+- content: INFLUENCE OF DIFFERENT ROOM SURFACE COLOURS ON THE MELANOPIC FACTOR (PO07,
+    Pages 230-235)
   type: title-main
-- content: INFLUENCE OF DIFFERENT ROOM SURFACE COLOURS ON THE MELANOPIC FACTOR (PO07, Pages 230-235)
+- content: INFLUENCE OF DIFFERENT ROOM SURFACE COLOURS ON THE MELANOPIC FACTOR (PO07,
+    Pages 230-235)
   type: main
 source:
 - type: src
@@ -24,9 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
+      - initial: S
       surname:
         language: en
         script: Latn
@@ -36,9 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: R
+      - initial: R
       surname:
         language: en
         script: Latn

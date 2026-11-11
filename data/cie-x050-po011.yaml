@@ -2,11 +2,6 @@
 id: CIEx050PO011
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x050-PO011
-  type: title-main
-- content: CIE x050-PO011
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-po011?product_id=2579048
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: D
+      - initial: D
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: P
+      - initial: P
       surname:
         language: en
         script: Latn
@@ -48,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: W
+      - initial: W
       surname:
         language: en
         script: Latn
@@ -60,9 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: W
+      - initial: W
       surname:
         language: en
         script: Latn

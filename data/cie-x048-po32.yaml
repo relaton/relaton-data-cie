@@ -2,11 +2,6 @@
 id: CIEx048PO32
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x048-PO32
-  type: title-main
-- content: CIE x048-PO32
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x048-po32?product_id=2240842
@@ -24,15 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: H
-      - language: en
-        script: Latn
-        initial: T
-      - language: en
-        script: Latn
-        initial: B
+      - initial: H.T.B
       surname:
         language: en
         script: Latn
@@ -42,12 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
-      - language: en
-        script: Latn
-        initial: C
+      - initial: Y.C
       surname:
         language: en
         script: Latn
@@ -57,15 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: H
-      - language: en
-        script: Latn
-        initial: S
-      - language: en
-        script: Latn
-        initial: B
+      - initial: H.S.B
       surname:
         language: en
         script: Latn

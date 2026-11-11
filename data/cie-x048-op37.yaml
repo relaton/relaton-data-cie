@@ -2,11 +2,6 @@
 id: CIEx048OP37
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x048-OP37
-  type: title-main
-- content: CIE x048-OP37
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x048-op37?product_id=2240791
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: "Y"
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn
@@ -47,25 +38,16 @@ contributor:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: J
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Dubard
+        content: Dubard J.
 - role:
   - type: author
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
-      - language: en
-        script: Latn
-        initial: S
+      - initial: J.S
       surname:
         language: en
         script: Latn
@@ -75,12 +57,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
-      - language: en
-        script: Latn
-        initial: K
+      - initial: S. K
       surname:
         language: en
         script: Latn
@@ -90,12 +67,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: J
+      - initial: M. J
       surname:
         language: en
         script: Latn
@@ -105,9 +77,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "N"
+      - initial: "N"
       surname:
         language: en
         script: Latn
@@ -116,22 +86,16 @@ contributor:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: D
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Boughey
+        content: Boughey D.
 - role:
   - type: author
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: G
+      - initial: G
       surname:
         language: en
         script: Latn

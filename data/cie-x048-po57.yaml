@@ -2,11 +2,6 @@
 id: CIEx048PO57
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x048-PO57
-  type: title-main
-- content: CIE x048-PO57
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x048-po57?product_id=2240862
@@ -23,6 +18,8 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - content: Guillaume Mario
       surname:
         language: en
         script: Latn
@@ -31,22 +28,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Guillaume
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Mario
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Jan
       surname:
         language: en
         script: Latn
@@ -55,34 +38,12 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Jan
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Valéry Ann
       surname:
         language: en
         script: Latn
         content: Jacobs
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Valéry
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Ann
 - role:
   - type: publisher
   organization:

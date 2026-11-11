@@ -3,9 +3,11 @@ id: CIEPP20374377
 schema_version: v1.5.6
 type: standard
 title:
-- content: SPECTRALLY VARIABLE SOURCE BASED ON SPATIAL CONTROL OF WHITE-LIGHT BEAM (PP20, 374-377)
+- content: SPECTRALLY VARIABLE SOURCE BASED ON SPATIAL CONTROL OF WHITE-LIGHT BEAM
+    (PP20, 374-377)
   type: title-main
-- content: SPECTRALLY VARIABLE SOURCE BASED ON SPATIAL CONTROL OF WHITE-LIGHT BEAM (PP20, 374-377)
+- content: SPECTRALLY VARIABLE SOURCE BASED ON SPATIAL CONTROL OF WHITE-LIGHT BEAM
+    (PP20, 374-377)
   type: main
 source:
 - type: src
@@ -24,12 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: D
-      - language: en
-        script: Latn
-        initial: H
+      - initial: D.-H
       surname:
         language: en
         script: Latn
@@ -39,9 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
+      - initial: S
       surname:
         language: en
         script: Latn
@@ -51,12 +46,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
-      - language: en
-        script: Latn
-        initial: K
+      - initial: J.-K
       surname:
         language: en
         script: Latn
@@ -66,9 +56,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn

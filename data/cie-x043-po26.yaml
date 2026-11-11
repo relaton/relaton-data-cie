@@ -3,9 +3,11 @@ id: CIEx043PO26
 schema_version: v1.5.6
 type: standard
 title:
-- content: THE COMPARISON STUDY OF INSTRUMENTAL COLOUR MEASUREMENT AND VISUAL GRADING OF COTTON FIBER (PO26, Pages 493-500)
+- content: THE COMPARISON STUDY OF INSTRUMENTAL COLOUR MEASUREMENT AND VISUAL GRADING
+    OF COTTON FIBER (PO26, Pages 493-500)
   type: title-main
-- content: THE COMPARISON STUDY OF INSTRUMENTAL COLOUR MEASUREMENT AND VISUAL GRADING OF COTTON FIBER (PO26, Pages 493-500)
+- content: THE COMPARISON STUDY OF INSTRUMENTAL COLOUR MEASUREMENT AND VISUAL GRADING
+    OF COTTON FIBER (PO26, Pages 493-500)
   type: main
 source:
 - type: src
@@ -24,9 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "N"
+      - initial: "N"
       surname:
         language: en
         script: Latn
@@ -36,9 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn
@@ -48,9 +46,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn

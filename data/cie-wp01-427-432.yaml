@@ -3,9 +3,11 @@ id: CIEWP01427432
 schema_version: v1.5.6
 type: standard
 title:
-- content: DETERMINATION OF ILLUMINANTS REPRESENTING TYPICAL WHITE LIGHT EMITTING DIODES SOURCES (WP01, 427-432)
+- content: DETERMINATION OF ILLUMINANTS REPRESENTING TYPICAL WHITE LIGHT EMITTING
+    DIODES SOURCES (WP01, 427-432)
   type: title-main
-- content: DETERMINATION OF ILLUMINANTS REPRESENTING TYPICAL WHITE LIGHT EMITTING DIODES SOURCES (WP01, 427-432)
+- content: DETERMINATION OF ILLUMINANTS REPRESENTING TYPICAL WHITE LIGHT EMITTING
+    DIODES SOURCES (WP01, 427-432)
   type: main
 source:
 - type: src
@@ -24,9 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
+      - initial: S
       surname:
         language: en
         script: Latn
@@ -36,9 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn
@@ -48,9 +46,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn
@@ -60,9 +56,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: T
+      - initial: T
       surname:
         language: en
         script: Latn
@@ -72,9 +66,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: T
+      - initial: T
       surname:
         language: en
         script: Latn
@@ -84,9 +76,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn
@@ -96,9 +86,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: P
+      - initial: P
       surname:
         language: en
         script: Latn

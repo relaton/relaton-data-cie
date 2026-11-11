@@ -24,9 +24,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn
@@ -35,14 +33,10 @@ contributor:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: A
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Thorseth
+        content: Thorseth A.
 - role:
   - type: publisher
   organization:

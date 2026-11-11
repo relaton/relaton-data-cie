@@ -30,9 +30,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - content: A. Duff
       surname:
         language: en
         script: Latn
@@ -42,25 +40,11 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: K
       surname:
         language: en
         script: Latn
-        content: Duff
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: K
-      surname:
-        language: en
-        script: Latn
-        content: Kelly
+        content: J. Kelly
 - role:
   - type: publisher
   organization:

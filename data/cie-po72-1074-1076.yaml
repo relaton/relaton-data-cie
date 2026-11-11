@@ -2,15 +2,6 @@
 id: CIEPO7210741076
 schema_version: v1.5.6
 type: standard
-title:
-- content: |-
-    VERBAL DEFINITION OF OBJECT COLOUR PERCEPTION IN ARTIFICIAL LIGHTING
-     (PO72, 1074-1076)
-  type: title-main
-- content: |-
-    VERBAL DEFINITION OF OBJECT COLOUR PERCEPTION IN ARTIFICIAL LIGHTING
-     (PO72, 1074-1076)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/verbal-definition-of-object-colour-perception-in-artificial-lighting-po72-1074-1076?product_id=2011220
@@ -28,12 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: K
-      - language: en
-        script: Latn
-        initial: H
+      - initial: K.H
       surname:
         language: en
         script: Latn
@@ -43,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: R
+      - initial: R
       surname:
         language: en
         script: Latn

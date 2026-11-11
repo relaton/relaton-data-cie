@@ -3,9 +3,11 @@ id: CIEx048OP61
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x048-OP61
+- content: HOW CAN BUILDING INFORMATION MODELLING SUPPORT THE INCREASED RECYCLING
+    OF LUMINAIRES AND LIGHT SOURCES
   type: title-main
-- content: CIE x048-OP61
+- content: HOW CAN BUILDING INFORMATION MODELLING SUPPORT THE INCREASED RECYCLING
+    OF LUMINAIRES AND LIGHT SOURCES
   type: main
 source:
 - type: src
@@ -24,9 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "N"
+      - initial: "N"
       surname:
         language: en
         script: Latn
@@ -36,9 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
+      - initial: C
       surname:
         language: en
         script: Latn
@@ -48,12 +46,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
-      - language: en
-        script: Latn
-        initial: K
+      - initial: A.K
       surname:
         language: en
         script: Latn
@@ -63,9 +56,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn

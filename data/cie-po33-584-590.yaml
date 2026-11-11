@@ -23,6 +23,8 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - content: Wen-Chun
       surname:
         language: en
         script: Latn
@@ -31,26 +33,12 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Wen-Chun
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Hsueh-Ling
       surname:
         language: en
         script: Latn
         content: Yu
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Hsueh-Ling
 - role:
   - type: publisher
   organization:

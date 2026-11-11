@@ -2,11 +2,6 @@
 id: CIEOP147383
 schema_version: v1.5.6
 type: standard
-title:
-- content: AN ADAPTIVE DISPLAY DIMMING CURVE FOR ENHANCED WORK PERFORMANCE AND VISUAL COMFORT (OP14, 73-83)
-  type: title-main
-- content: AN ADAPTIVE DISPLAY DIMMING CURVE FOR ENHANCED WORK PERFORMANCE AND VISUAL COMFORT (OP14, 73-83)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/an-adaptive-display-dimming-curve-for-enhanced-work-performance-and-visual-comfort-op14-73-83?product_id=2016208
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: D
+      - initial: D
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: "Y"
       surname:
         language: en
         script: Latn
@@ -48,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn

@@ -3,9 +3,11 @@ id: CIEx043OP22
 schema_version: v1.5.6
 type: standard
 title:
-- content: SPECTRAL IMAGE ANALYSIS AND APPEARANCE RECONSTRUCTION OF FLUORESCENT OBJECTS UNDER DIFFERENT ILLUMINATIONS (OP22, Pages 140-146)
+- content: SPECTRAL IMAGE ANALYSIS AND APPEARANCE RECONSTRUCTION OF FLUORESCENT OBJECTS
+    UNDER DIFFERENT ILLUMINATIONS (OP22, Pages 140-146)
   type: title-main
-- content: SPECTRAL IMAGE ANALYSIS AND APPEARANCE RECONSTRUCTION OF FLUORESCENT OBJECTS UNDER DIFFERENT ILLUMINATIONS (OP22, Pages 140-146)
+- content: SPECTRAL IMAGE ANALYSIS AND APPEARANCE RECONSTRUCTION OF FLUORESCENT OBJECTS
+    UNDER DIFFERENT ILLUMINATIONS (OP22, Pages 140-146)
   type: main
 source:
 - type: src
@@ -24,9 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
+      - initial: S
       surname:
         language: en
         script: Latn
@@ -36,9 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: K
+      - initial: K
       surname:
         language: en
         script: Latn
@@ -48,9 +46,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: K
+      - initial: K
       surname:
         language: en
         script: Latn
@@ -60,9 +56,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: T
+      - initial: T
       surname:
         language: en
         script: Latn

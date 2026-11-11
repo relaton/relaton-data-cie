@@ -2,11 +2,6 @@
 id: CIEx048PO47
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x048-PO47
-  type: title-main
-- content: CIE x048-PO47
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x048-po47?product_id=2240854
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: "Y"
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: "Y"
       surname:
         language: en
         script: Latn
@@ -48,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: K
+      - initial: K
       surname:
         language: en
         script: Latn
@@ -60,9 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: "Y"
       surname:
         language: en
         script: Latn
@@ -71,14 +58,10 @@ contributor:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: "N"
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Yoshizawa
+        content: Yoshizawa N.
 - role:
   - type: publisher
   organization:

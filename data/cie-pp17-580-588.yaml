@@ -2,19 +2,6 @@
 id: CIEPP17580588
 schema_version: v1.5.6
 type: standard
-title:
-- content: |-
-    RESEARCH ON THE INFLUENCE MECHANISM OF THE ARTIFICIAL LIGHT ENVIRONMENT EVALUATION INDEX ON OFFICE LIGHTING COMFORT
-
-
-     (PP17, 580-588)
-  type: title-main
-- content: |-
-    RESEARCH ON THE INFLUENCE MECHANISM OF THE ARTIFICIAL LIGHT ENVIRONMENT EVALUATION INDEX ON OFFICE LIGHTING COMFORT
-
-
-     (PP17, 580-588)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/research-on-the-influence-mechanism-of-the-artificial-light-environment-evaluation-index-on-office-lighting-comfort-pp17-580-588?product_id=2011272
@@ -32,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: G
+      - initial: G
       surname:
         language: en
         script: Latn
@@ -44,12 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: L
+      - initial: M.L
       surname:
         language: en
         script: Latn
@@ -59,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
+      - initial: C
       surname:
         language: en
         script: Latn
@@ -71,9 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: R
+      - initial: R
       surname:
         language: en
         script: Latn

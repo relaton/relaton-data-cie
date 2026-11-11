@@ -24,12 +24,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: F
+      - initial: M.F
       surname:
         language: en
         script: Latn
@@ -38,22 +33,12 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Erdem
-- role:
-  - type: author
-  person:
-    name:
       forename:
-      - language: en
-        script: Latn
-        initial: L
+      - initial: L
       surname:
         language: en
         script: Latn
-        content: Atılgan
+        content: Erdem Atılgan
 - role:
   - type: publisher
   organization:

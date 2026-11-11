@@ -3,9 +3,11 @@ id: CIEx0512025mrvwkq
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x051:2025/mrvwkq
+- content: 'LIMITING THE IMPACT OF LIGHTING AT NIGHT ON BIODIVERSITY: A MULTI-EXPERTISE
+    METHODOLOGY FOR ADAPTING LIGHTING TO LOCAL CHALLENGES'
   type: title-main
-- content: CIE x051:2025/mrvwkq
+- content: 'LIMITING THE IMPACT OF LIGHTING AT NIGHT ON BIODIVERSITY: A MULTI-EXPERTISE
+    METHODOLOGY FOR ADAPTING LIGHTING TO LOCAL CHALLENGES'
   type: main
 source:
 - type: src
@@ -24,9 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn
@@ -36,9 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn
@@ -48,9 +46,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
+      - initial: C
       surname:
         language: en
         script: Latn
@@ -60,12 +56,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
-      - language: en
-        script: Latn
-        initial: M
+      - initial: J.-M
       surname:
         language: en
         script: Latn
@@ -74,30 +65,18 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - initial: B
       surname:
         language: en
         script: Latn
-        content: Van
+        content: Van Der Wijden
 - role:
   - type: author
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: B
-      surname:
-        language: en
-        script: Latn
-        content: Der Wijden
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: "N"
+      - initial: "N"
       surname:
         language: en
         script: Latn
@@ -107,9 +86,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: I
+      - initial: I
       surname:
         language: en
         script: Latn
@@ -119,9 +96,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: P
+      - initial: P
       surname:
         language: en
         script: Latn

@@ -2,11 +2,6 @@
 id: CIEx048OP23
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x048-OP23
-  type: title-main
-- content: CIE x048-OP23
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x048-op23?product_id=2240703
@@ -24,18 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: J
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M.C.J.M
       surname:
         language: en
         script: Latn
@@ -45,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn
@@ -57,15 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: A
-      - language: en
-        script: Latn
-        initial: H
+      - initial: M.A.H
       surname:
         language: en
         script: Latn
@@ -75,9 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: D
+      - initial: D
       surname:
         language: en
         script: Latn

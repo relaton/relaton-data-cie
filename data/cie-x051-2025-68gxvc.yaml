@@ -2,11 +2,6 @@
 id: CIEx051202568gxvc
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x051:2025/68gxvc
-  type: title-main
-- content: CIE x051:2025/68gxvc
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x051-2025-68gxvc?product_id=3039601
@@ -24,12 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: G
-      - language: en
-        script: Latn
-        initial: M
+      - initial: G.M
       surname:
         language: en
         script: Latn
@@ -39,15 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
-      - language: en
-        script: Latn
-        initial: S
-      - language: en
-        script: Latn
-        initial: J
+      - initial: A.S.J
       surname:
         language: en
         script: Latn
@@ -57,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: L
+      - initial: L
       surname:
         language: en
         script: Latn
@@ -69,12 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: V
-      - language: en
-        script: Latn
-        initial: A
+      - initial: V.A
       surname:
         language: en
         script: Latn

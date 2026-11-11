@@ -2,11 +2,6 @@
 id: CIEx0512025c78p85
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x051:2025/c78p85
-  type: title-main
-- content: CIE x051:2025/c78p85
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x051-2025-c78p85?product_id=3039886
@@ -24,12 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: P
-      - language: en
-        script: Latn
-        initial: R
+      - initial: P. R
       surname:
         language: en
         script: Latn
@@ -39,12 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: L
+      - initial: C.L
       surname:
         language: en
         script: Latn
@@ -54,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn

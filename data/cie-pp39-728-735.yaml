@@ -30,12 +30,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: G
-      - language: en
-        script: Latn
-        initial: P
+      - initial: G.P
       surname:
         language: en
         script: Latn
@@ -45,12 +40,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: V
-      - language: en
-        script: Latn
-        initial: B
+      - initial: V.B
       surname:
         language: en
         script: Latn
@@ -60,12 +50,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: H
-      - language: en
-        script: Latn
-        initial: W
+      - initial: H.W
       surname:
         language: en
         script: Latn
@@ -75,12 +60,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: C
+      - initial: C.C
       surname:
         language: en
         script: Latn
@@ -90,12 +70,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: C
+      - initial: C.C
       surname:
         language: en
         script: Latn

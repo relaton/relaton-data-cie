@@ -3,9 +3,11 @@ id: CIEPO21505510
 schema_version: v1.5.6
 type: standard
 title:
-- content: A STUDY ON IDENTIFICATION OF OBJECTS BY INTRODUCING COLOUR CONTRAST BASED ON METAMERISM PHENOMENON (PO21, 505-510)
+- content: A STUDY ON IDENTIFICATION OF OBJECTS BY INTRODUCING COLOUR CONTRAST BASED
+    ON METAMERISM PHENOMENON (PO21, 505-510)
   type: title-main
-- content: A STUDY ON IDENTIFICATION OF OBJECTS BY INTRODUCING COLOUR CONTRAST BASED ON METAMERISM PHENOMENON (PO21, 505-510)
+- content: A STUDY ON IDENTIFICATION OF OBJECTS BY INTRODUCING COLOUR CONTRAST BASED
+    ON METAMERISM PHENOMENON (PO21, 505-510)
   type: main
 source:
 - type: src
@@ -24,12 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: H
-      - language: en
-        script: Latn
-        initial: B
+      - initial: H.B
       surname:
         language: en
         script: Latn
@@ -39,9 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: Q
+      - initial: Q
       surname:
         language: en
         script: Latn
@@ -51,12 +46,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: L
-      - language: en
-        script: Latn
-        initial: T
+      - initial: L.T
       surname:
         language: en
         script: Latn

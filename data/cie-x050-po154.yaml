@@ -3,9 +3,13 @@ id: CIEx050PO154
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x050-PO154
+- content: 'REPRODUCTION OF DAYLIGHTING BY LED LUMINAIRES SIMULATING ILLUMINANCE AND
+    CORRELATED COLOUR TEMPERATURE FLUCTUATION: VERIFICATION OF PHYSIOLOGICAL AND PSYCHOLOGICAL
+    STRESS'
   type: title-main
-- content: CIE x050-PO154
+- content: 'REPRODUCTION OF DAYLIGHTING BY LED LUMINAIRES SIMULATING ILLUMINANCE AND
+    CORRELATED COLOUR TEMPERATURE FLUCTUATION: VERIFICATION OF PHYSIOLOGICAL AND PSYCHOLOGICAL
+    STRESS'
   type: main
 source:
 - type: src
@@ -24,9 +28,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: L
+      - initial: L
       surname:
         language: en
         script: Latn
@@ -36,9 +38,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: "Y"
       surname:
         language: en
         script: Latn
@@ -48,9 +48,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: "Y"
       surname:
         language: en
         script: Latn
@@ -60,9 +58,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "N"
+      - initial: "N"
       surname:
         language: en
         script: Latn
@@ -72,9 +68,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn
@@ -84,9 +78,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: K
+      - initial: K
       surname:
         language: en
         script: Latn
@@ -96,9 +88,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "N"
+      - initial: "N"
       surname:
         language: en
         script: Latn

@@ -3,9 +3,11 @@ id: CIEOP22133137
 schema_version: v1.5.6
 type: standard
 title:
-- content: KANSEI EVALUATION OF COLOUR IMAGES IN VARIOUS COLOUR GAMUTS USING DIFFERENT RED PRIMARIES (OP22, 133-137)
+- content: KANSEI EVALUATION OF COLOUR IMAGES IN VARIOUS COLOUR GAMUTS USING DIFFERENT
+    RED PRIMARIES (OP22, 133-137)
   type: title-main
-- content: KANSEI EVALUATION OF COLOUR IMAGES IN VARIOUS COLOUR GAMUTS USING DIFFERENT RED PRIMARIES (OP22, 133-137)
+- content: KANSEI EVALUATION OF COLOUR IMAGES IN VARIOUS COLOUR GAMUTS USING DIFFERENT
+    RED PRIMARIES (OP22, 133-137)
   type: main
 source:
 - type: src
@@ -24,9 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn
@@ -36,9 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: "Y"
       surname:
         language: en
         script: Latn
@@ -47,22 +45,16 @@ contributor:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: S
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Kageyama
+        content: Kageyama S.
 - role:
   - type: author
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: T
+      - initial: T
       surname:
         language: en
         script: Latn

@@ -3,9 +3,11 @@ id: CIEx049P10
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x049-P10
+- content: ANTI-ALIASING FILTER EFFECTS ON SAMPLING FREQUENCY AND EFFECTS OF MATHEMATICAL
+    IMPLEMENTATION
   type: title-main
-- content: CIE x049-P10
+- content: ANTI-ALIASING FILTER EFFECTS ON SAMPLING FREQUENCY AND EFFECTS OF MATHEMATICAL
+    IMPLEMENTATION
   type: main
 source:
 - type: src
@@ -24,9 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: R
+      - initial: R
       surname:
         language: en
         script: Latn
@@ -36,9 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: R
+      - initial: R
       surname:
         language: en
         script: Latn

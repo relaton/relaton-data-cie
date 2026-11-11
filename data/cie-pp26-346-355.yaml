@@ -3,9 +3,11 @@ id: CIEPP26346355
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'EXPLORING THE OPTIMISTIC DAYLIGHTING DESIGN METHOD: IS COMPUTATIONAL SIMULATION ACCURATE ENOUGH? (PP26, 346-355)'
+- content: 'EXPLORING THE OPTIMISTIC DAYLIGHTING DESIGN METHOD: IS COMPUTATIONAL SIMULATION
+    ACCURATE ENOUGH? (PP26, 346-355)'
   type: title-main
-- content: 'EXPLORING THE OPTIMISTIC DAYLIGHTING DESIGN METHOD: IS COMPUTATIONAL SIMULATION ACCURATE ENOUGH? (PP26, 346-355)'
+- content: 'EXPLORING THE OPTIMISTIC DAYLIGHTING DESIGN METHOD: IS COMPUTATIONAL SIMULATION
+    ACCURATE ENOUGH? (PP26, 346-355)'
   type: main
 source:
 - type: src
@@ -23,6 +25,8 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - content: Jialu
       surname:
         language: en
         script: Latn
@@ -31,14 +35,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Jialu
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Di
       surname:
         language: en
         script: Latn
@@ -47,14 +45,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Di
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Tikuan
       surname:
         language: en
         script: Latn
@@ -63,14 +55,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Tikuan
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Lei
       surname:
         language: en
         script: Latn
@@ -79,26 +65,12 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Lei
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Biao
       surname:
         language: en
         script: Latn
         content: Yang
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Biao
 - role:
   - type: publisher
   organization:

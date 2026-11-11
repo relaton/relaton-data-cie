@@ -2,11 +2,6 @@
 id: CIEOP34201208
 schema_version: v1.5.6
 type: standard
-title:
-- content: EXPERIMENTAL EVALUATION OF DIFFERENT BRIGHTNESS PERCEPTION MODELS BASED ON HUMAN PUPIL LIGHT RESPONSES (OP34, 201-208)
-  type: title-main
-- content: EXPERIMENTAL EVALUATION OF DIFFERENT BRIGHTNESS PERCEPTION MODELS BASED ON HUMAN PUPIL LIGHT RESPONSES (OP34, 201-208)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/experimental-evaluation-of-different-brightness-perception-models-based-on-human-pupil-light-responses-op34-201-208?product_id=2016244
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: B
+      - initial: B
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: X
+      - initial: X
       surname:
         language: en
         script: Latn
@@ -48,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: P
+      - initial: P
       surname:
         language: en
         script: Latn
@@ -60,12 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: T
-      - language: en
-        script: Latn
-        initial: Q
+      - initial: T.Q
       surname:
         language: en
         script: Latn

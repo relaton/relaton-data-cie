@@ -3,9 +3,9 @@ id: CIEx050PO146
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x050-PO146
+- content: OBSERVATION OF ADAPTED WHITE UNDER DIFFERENT STATES OF CHROMATIC ADAPTATION
   type: title-main
-- content: CIE x050-PO146
+- content: OBSERVATION OF ADAPTED WHITE UNDER DIFFERENT STATES OF CHROMATIC ADAPTATION
   type: main
 source:
 - type: src
@@ -23,18 +23,12 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - initial: Á
       surname:
         language: en
         script: Latn
         content: Urbin
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Á.
 - role:
   - type: publisher
   organization:

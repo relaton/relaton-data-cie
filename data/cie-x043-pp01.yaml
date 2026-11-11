@@ -3,9 +3,11 @@ id: CIEx043PP01
 schema_version: v1.5.6
 type: standard
 title:
-- content: OPTICAL DETECTION SYSTEM FOR MONOCHRAMATIC BEAM GONIOSPECTROPHOTOMETRY (PP01, Pages 163-166)
+- content: OPTICAL DETECTION SYSTEM FOR MONOCHRAMATIC BEAM GONIOSPECTROPHOTOMETRY
+    (PP01, Pages 163-166)
   type: title-main
-- content: OPTICAL DETECTION SYSTEM FOR MONOCHRAMATIC BEAM GONIOSPECTROPHOTOMETRY (PP01, Pages 163-166)
+- content: OPTICAL DETECTION SYSTEM FOR MONOCHRAMATIC BEAM GONIOSPECTROPHOTOMETRY
+    (PP01, Pages 163-166)
   type: main
 source:
 - type: src
@@ -24,9 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn
@@ -36,9 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: G
+      - initial: G
       surname:
         language: en
         script: Latn
@@ -48,9 +46,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn

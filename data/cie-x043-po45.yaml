@@ -3,9 +3,11 @@ id: CIEx043PO45
 schema_version: v1.5.6
 type: standard
 title:
-- content: ENTROPY VERSUS FRACTAL COMPLEXITY FOR COMPUTER-GENERATED COLOUR FRACTAL IMAGES (PO45, Pages 432-437)
+- content: ENTROPY VERSUS FRACTAL COMPLEXITY FOR COMPUTER-GENERATED COLOUR FRACTAL
+    IMAGES (PO45, Pages 432-437)
   type: title-main
-- content: ENTROPY VERSUS FRACTAL COMPLEXITY FOR COMPUTER-GENERATED COLOUR FRACTAL IMAGES (PO45, Pages 432-437)
+- content: ENTROPY VERSUS FRACTAL COMPLEXITY FOR COMPUTER-GENERATED COLOUR FRACTAL
+    IMAGES (PO45, Pages 432-437)
   type: main
 source:
 - type: src
@@ -24,9 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn
@@ -36,9 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "N"
+      - initial: "N"
       surname:
         language: en
         script: Latn

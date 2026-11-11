@@ -3,9 +3,11 @@ id: CIEPO05423430
 schema_version: v1.5.6
 type: standard
 title:
-- content: INVESTIGATION OF AFFECTIVE FACTOR EVALUATION METHODOLOGY FOR WHITE LIGHTS (PO05, 423-430)
+- content: INVESTIGATION OF AFFECTIVE FACTOR EVALUATION METHODOLOGY FOR WHITE LIGHTS
+    (PO05, 423-430)
   type: title-main
-- content: INVESTIGATION OF AFFECTIVE FACTOR EVALUATION METHODOLOGY FOR WHITE LIGHTS (PO05, 423-430)
+- content: INVESTIGATION OF AFFECTIVE FACTOR EVALUATION METHODOLOGY FOR WHITE LIGHTS
+    (PO05, 423-430)
   type: main
 source:
 - type: src
@@ -24,12 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
-      - language: en
-        script: Latn
-        initial: K
+      - initial: J.K
       surname:
         language: en
         script: Latn
@@ -39,12 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: S.Y
       surname:
         language: en
         script: Latn

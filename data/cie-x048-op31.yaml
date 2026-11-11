@@ -23,14 +23,7 @@ contributor:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: C
-      - language: en
-        script: Latn
-        initial: J
-      surname:
+      completename:
         language: en
         script: Latn
         content: S. Fotios
@@ -38,22 +31,18 @@ contributor:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: S
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Robbins
+        content: C.J. Robbins
 - role:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Farrall
+        content: S. Farrall
 - role:
   - type: publisher
   organization:

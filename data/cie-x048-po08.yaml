@@ -3,9 +3,9 @@ id: CIEx048PO08
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x048-PO08
+- content: SPECTRAL TRANSMISSION AND SCATTERING CHARACTERISTICS OF HUMAN SKIN
   type: title-main
-- content: CIE x048-PO08
+- content: SPECTRAL TRANSMISSION AND SCATTERING CHARACTERISTICS OF HUMAN SKIN
   type: main
 source:
 - type: src
@@ -23,26 +23,18 @@ contributor:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: "Y"
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Akizuki
+        content: Akizuki Y.
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: M
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Osumi
+        content: Osumi M.
 - role:
   - type: publisher
   organization:

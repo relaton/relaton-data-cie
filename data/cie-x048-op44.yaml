@@ -3,9 +3,9 @@ id: CIEx048OP44
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x048-OP44
+- content: TESTING THE PERFORMANCE FOR UNRELATED COLOUR APPEARANCE MODELS
   type: title-main
-- content: CIE x048-OP44
+- content: TESTING THE PERFORMANCE FOR UNRELATED COLOUR APPEARANCE MODELS
   type: main
 source:
 - type: src
@@ -23,74 +23,34 @@ contributor:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Keyu
+        content: Keyu Shi
 - role:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Shi
+        content: Changjun Li
 - role:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Changjun
+        content: Cheng Gao
 - role:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Li
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Cheng
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Gao
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Ming
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Ronnier
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Luo
+        content: Ming Ronnier Luo
 - role:
   - type: publisher
   organization:

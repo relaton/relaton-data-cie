@@ -24,9 +24,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: B
+      - initial: B
       surname:
         language: en
         script: Latn
@@ -35,6 +33,8 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - initial: Á
       surname:
         language: en
         script: Latn
@@ -43,14 +43,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Á.;
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Cs.
       surname:
         language: en
         script: Latn
@@ -60,16 +54,11 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: B
-      - language: en
-        script: Latn
-        initial: V
+      - initial: B. V
       surname:
         language: en
         script: Latn
-        content: Cs.; Nagy
+        content: Nagy
 - role:
   - type: publisher
   organization:

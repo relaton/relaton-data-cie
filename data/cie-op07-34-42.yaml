@@ -3,9 +3,11 @@ id: CIEOP073442
 schema_version: v1.5.6
 type: standard
 title:
-- content: DEVELOPMENT OF AN AUTONOMOUS SUN-SHADING DEVICE INTEGRATED WITH HIGH EFFICIENT OFFICE LIGHTING (OP07, 34-42)
+- content: DEVELOPMENT OF AN AUTONOMOUS SUN-SHADING DEVICE INTEGRATED WITH HIGH EFFICIENT
+    OFFICE LIGHTING (OP07, 34-42)
   type: title-main
-- content: DEVELOPMENT OF AN AUTONOMOUS SUN-SHADING DEVICE INTEGRATED WITH HIGH EFFICIENT OFFICE LIGHTING (OP07, 34-42)
+- content: DEVELOPMENT OF AN AUTONOMOUS SUN-SHADING DEVICE INTEGRATED WITH HIGH EFFICIENT
+    OFFICE LIGHTING (OP07, 34-42)
   type: main
 source:
 - type: src
@@ -23,6 +25,8 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - content: Han
       surname:
         language: en
         script: Latn
@@ -31,14 +35,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Han
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Tomoko
       surname:
         language: en
         script: Latn
@@ -47,26 +45,12 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Tomoko
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Yasuko
       surname:
         language: en
         script: Latn
         content: Koga
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Yasuko
 - role:
   - type: publisher
   organization:

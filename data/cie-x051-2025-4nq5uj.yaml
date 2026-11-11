@@ -2,11 +2,6 @@
 id: CIEx05120254nq5uj
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x051:2025/4nq5uj
-  type: title-main
-- content: CIE x051:2025/4nq5uj
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x051-2025-4nq5uj?product_id=3039144
@@ -24,15 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
-      - language: en
-        script: Latn
-        initial: S
-      - language: en
-        script: Latn
-        initial: J
+      - initial: A.S.J
       surname:
         language: en
         script: Latn
@@ -42,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: T
+      - initial: T
       surname:
         language: en
         script: Latn

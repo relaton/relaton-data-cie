@@ -2,17 +2,6 @@
 id: CIEPP31681686
 schema_version: v1.5.6
 type: standard
-title:
-- content: |-
-    BLH, LEDS AND CCT EQUIVALENT MELANOPIC ILLUMINANCES
-
-     (PP31, 681-686)
-  type: title-main
-- content: |-
-    BLH, LEDS AND CCT EQUIVALENT MELANOPIC ILLUMINANCES
-
-     (PP31, 681-686)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/blh-leds-and-cct-equivalent-melanopic-illuminances-pp31-681-686?product_id=2011362
@@ -30,15 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: L
-      - language: en
-        script: Latn
-        initial: L
-      - language: en
-        script: Latn
-        initial: A
+      - initial: L.L.A
       surname:
         language: en
         script: Latn

@@ -3,9 +3,11 @@ id: CIEx043PP05
 schema_version: v1.5.6
 type: standard
 title:
-- content: STUDY ON SPECTRAL CHARACTERISTICS FOR IDENTIFICATION OF SKIN COLOUR OF INJURED JAPANESE PERSONS AT DISASTER SITES (PP05, Pages 179-189)
+- content: STUDY ON SPECTRAL CHARACTERISTICS FOR IDENTIFICATION OF SKIN COLOUR OF
+    INJURED JAPANESE PERSONS AT DISASTER SITES (PP05, Pages 179-189)
   type: title-main
-- content: STUDY ON SPECTRAL CHARACTERISTICS FOR IDENTIFICATION OF SKIN COLOUR OF INJURED JAPANESE PERSONS AT DISASTER SITES (PP05, Pages 179-189)
+- content: STUDY ON SPECTRAL CHARACTERISTICS FOR IDENTIFICATION OF SKIN COLOUR OF
+    INJURED JAPANESE PERSONS AT DISASTER SITES (PP05, Pages 179-189)
   type: main
 source:
 - type: src
@@ -24,9 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: "Y"
       surname:
         language: en
         script: Latn
@@ -36,9 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: "Y"
       surname:
         language: en
         script: Latn

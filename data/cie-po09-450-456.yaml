@@ -23,6 +23,8 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - content: Wei-Chih
       surname:
         language: en
         script: Latn
@@ -31,14 +33,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Wei-Chih
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Ching-Ju
       surname:
         language: en
         script: Latn
@@ -47,26 +43,12 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Ching-Ju
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Hung-Shing
       surname:
         language: en
         script: Latn
         content: Chen
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Hung-Shing
 - role:
   - type: publisher
   organization:

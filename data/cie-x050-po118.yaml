@@ -23,26 +23,18 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - initial: Z
       surname:
         language: en
         script: Latn
-        content: Alpaslan
+        content: Alpaslan Kösemen
 - role:
   - type: author
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: Z
-      surname:
-        language: en
-        script: Latn
-        content: Kösemen
-- role:
-  - type: author
-  person:
-    name:
+      - initial: Ş
       surname:
         language: en
         script: Latn
@@ -51,14 +43,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Ş.
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - initial: Ç
       surname:
         language: en
         script: Latn
@@ -67,18 +53,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Ç.
-- role:
-  - type: author
-  person:
-    name:
       forename:
-      - language: en
-        script: Latn
-        initial: H
+      - initial: H
       surname:
         language: en
         script: Latn
@@ -88,9 +64,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn

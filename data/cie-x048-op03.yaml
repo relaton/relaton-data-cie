@@ -2,11 +2,6 @@
 id: CIEx048OP03
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x048-OP03
-  type: title-main
-- content: CIE x048-OP03
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x048-op03?product_id=2240677
@@ -23,74 +18,50 @@ contributor:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: L
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Lebouc
+        content: Lebouc L.
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: V
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Boucher
+        content: Boucher V.
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: F
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Greffier
+        content: Greffier F.
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: S
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Liandrat
+        content: Liandrat S.
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: A
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Nicolaï
+        content: Nicolaï A.
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: P
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Richard
+        content: Richard P.
 - role:
   - type: publisher
   organization:

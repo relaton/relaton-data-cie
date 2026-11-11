@@ -2,11 +2,6 @@
 id: CIEx043PP09
 schema_version: v1.5.6
 type: standard
-title:
-- content: PERCEPTION OF ILLUMINATION WHITENESS (OP01, Pages 1-7)
-  type: title-main
-- content: PERCEPTION OF ILLUMINATION WHITENESS (OP01, Pages 1-7)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/perception-of-illumination-whiteness-op01-pages-1-7?product_id=1941834
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: V
+      - initial: V
       surname:
         language: en
         script: Latn
@@ -48,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn
@@ -60,9 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn

@@ -2,11 +2,6 @@
 id: CIEx043OP10
 schema_version: v1.5.6
 type: standard
-title:
-- content: MULTI-ANGLE COLOUR CHARACTERIZATION OF COATINGS WITH DIFFRACTION PIGMENTS (OP10, Pages 51-59)
-  type: title-main
-- content: MULTI-ANGLE COLOUR CHARACTERIZATION OF COATINGS WITH DIFFRACTION PIGMENTS (OP10, Pages 51-59)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/multi-angle-colour-characterization-of-coatings-with-diffraction-pigments-op10-pages-51-59?product_id=1941812
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: B
+      - initial: B
       surname:
         language: en
         script: Latn
@@ -48,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn
@@ -60,9 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: E
+      - initial: E
       surname:
         language: en
         script: Latn
@@ -72,12 +59,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
-      - language: en
-        script: Latn
-        initial: L
+      - initial: J.L
       surname:
         language: en
         script: Latn
@@ -87,12 +69,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: F
-      - language: en
-        script: Latn
-        initial: M
+      - initial: F.M
       surname:
         language: en
         script: Latn

@@ -3,9 +3,11 @@ id: CIEx048OP05
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x048-OP05
+- content: VALIDATION OF SPECTRAL SIMULATION TOOLS FOR THE PREDICTION OF INDOOR ELECTRIC
+    LIGHT EXPOSURE
   type: title-main
-- content: CIE x048-OP05
+- content: VALIDATION OF SPECTRAL SIMULATION TOOLS FOR THE PREDICTION OF INDOOR ELECTRIC
+    LIGHT EXPOSURE
   type: main
 source:
 - type: src
@@ -23,11 +25,7 @@ contributor:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: M
-      surname:
+      completename:
         language: en
         script: Latn
         content: C. Pierson
@@ -35,40 +33,26 @@ contributor:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: M
-      - language: en
-        script: Latn
-        initial: P
-      - language: en
-        script: Latn
-        initial: J
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Gkaintatzi-Masouti
+        content: M. Gkaintatzi-Masouti
 - role:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: M
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Aarts
+        content: M.P.J. Aarts
 - role:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Andersen
+        content: M. Andersen
 - role:
   - type: publisher
   organization:

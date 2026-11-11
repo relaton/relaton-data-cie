@@ -2,11 +2,6 @@
 id: CIEx044OP02
 schema_version: v1.5.6
 type: standard
-title:
-- content: USER PERFORMANCE AND PREFERENCE STUDY UNDER VARIOUS PHOTOMETRIC AND COLORIMETRIC PARAMETERS OF EXISTING LIGHT-EMITTING DIODE LAMPS IN INDONESIA  (OP02, Pages 25-31)
-  type: title-main
-- content: USER PERFORMANCE AND PREFERENCE STUDY UNDER VARIOUS PHOTOMETRIC AND COLORIMETRIC PARAMETERS OF EXISTING LIGHT-EMITTING DIODE LAMPS IN INDONESIA  (OP02, Pages 25-31)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/user-performance-and-preference-study-under-various-photometric-and-colorimetric-parameters-of-existing-light-emitting-diode-lamps-in-indonesia-op02-pages-25-31?product_id=2009458
@@ -24,24 +19,18 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: R
-      - language: en
-        script: Latn
-        initial: A
+      - content: Mangkuto
+      - initial: R.A
       surname:
         language: en
         script: Latn
-        content: Revantino Mangkuto
+        content: Revantino
 - role:
   - type: author
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn
@@ -51,9 +40,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: F
+      - initial: F
       surname:
         language: en
         script: Latn
@@ -63,15 +50,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: F
-      - language: en
-        script: Latn
-        initial: X
-      - language: en
-        script: Latn
-        initial: "N"
+      - initial: F.X.N
       surname:
         language: en
         script: Latn

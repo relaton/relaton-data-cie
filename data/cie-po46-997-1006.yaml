@@ -2,15 +2,6 @@
 id: CIEPO469971006
 schema_version: v1.5.6
 type: standard
-title:
-- content: |-
-    VNISI TEST CENTER IN THE SYSTEM OF QUALITY ASSESSMENT FOR MODERN LIGHTING EQUIPMENT IN RUSSIA
-     (PO46, 997-1006)
-  type: title-main
-- content: |-
-    VNISI TEST CENTER IN THE SYSTEM OF QUALITY ASSESSMENT FOR MODERN LIGHTING EQUIPMENT IN RUSSIA
-     (PO46, 997-1006)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/vnisi-test-center-in-the-system-of-quality-assessment-for-modern-lighting-equipment-in-russia-po46-997-1006?product_id=2011181
@@ -28,12 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A.A
       surname:
         language: en
         script: Latn
@@ -43,12 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: R
-      - language: en
-        script: Latn
-        initial: I
+      - initial: R.I
       surname:
         language: en
         script: Latn
@@ -58,12 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
-      - language: en
-        script: Latn
-        initial: G
+      - initial: A.G
       surname:
         language: en
         script: Latn

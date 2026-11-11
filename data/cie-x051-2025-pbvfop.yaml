@@ -3,9 +3,11 @@ id: CIEx0512025pbvfop
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x051:2025/pbvfop
+- content: IMPROVED UNCERTAINTY ESTIMATION PROCEDURE FOR SPECTRAL MEASUREMENTS USING
+    THE COMBINED MONTE CARLO METHOD AND BOOTSTRAP
   type: title-main
-- content: CIE x051:2025/pbvfop
+- content: IMPROVED UNCERTAINTY ESTIMATION PROCEDURE FOR SPECTRAL MEASUREMENTS USING
+    THE COMBINED MONTE CARLO METHOD AND BOOTSTRAP
   type: main
 source:
 - type: src
@@ -24,9 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn

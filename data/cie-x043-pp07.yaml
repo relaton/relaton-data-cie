@@ -2,11 +2,6 @@
 id: CIEx043PP07
 schema_version: v1.5.6
 type: standard
-title:
-- content: 'COLOUR SURFACE RENDERING: A NEW ASPECT OF LIGHT SOURCE COLOUR QUALITY FOR MUSEUM LIGHTING (PP07, Pages 198-207)'
-  type: title-main
-- content: 'COLOUR SURFACE RENDERING: A NEW ASPECT OF LIGHT SOURCE COLOUR QUALITY FOR MUSEUM LIGHTING (PP07, Pages 198-207)'
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/colour-surface-rendering-a-new-aspect-of-light-source-colour-quality-for-museum-lighting-pp07-pages-198-207?product_id=1941832
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: P
+      - initial: P
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: X
+      - initial: X
       surname:
         language: en
         script: Latn
@@ -48,12 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: Q
-      - language: en
-        script: Latn
-        initial: K
+      - initial: Q.K
       surname:
         language: en
         script: Latn

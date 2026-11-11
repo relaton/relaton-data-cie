@@ -2,11 +2,6 @@
 id: CIEPP18362368
 schema_version: v1.5.6
 type: standard
-title:
-- content: A VISUAL EVALUATION OF COLOUR DIFFERENCES BETWEEN 3D OBJECTS (PP18, 362-368)
-  type: title-main
-- content: A VISUAL EVALUATION OF COLOUR DIFFERENCES BETWEEN 3D OBJECTS (PP18, 362-368)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/a-visual-evaluation-of-colour-differences-between-3d-objects-pp18-362-368?product_id=2016273
@@ -23,6 +18,8 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - content: Wei-Chun
       surname:
         language: en
         script: Latn
@@ -31,14 +28,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Wei-Chun
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Pei-Li
       surname:
         language: en
         script: Latn
@@ -47,14 +38,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Pei-Li
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Yan-Zhen
       surname:
         language: en
         script: Latn
@@ -63,26 +48,12 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Yan-Zhen
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Yan-Mi
       surname:
         language: en
         script: Latn
         content: Chen
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Yan-Mi
 - role:
   - type: publisher
   organization:

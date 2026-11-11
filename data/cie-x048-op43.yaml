@@ -2,11 +2,6 @@
 id: CIEx048OP43
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x048-OP43
-  type: title-main
-- content: CIE x048-OP43
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x048-op43?product_id=2240795
@@ -23,11 +18,7 @@ contributor:
   - type: author
   person:
     name:
-      forename:
-      - language: en
-        script: Latn
-        initial: C
-      surname:
+      completename:
         language: en
         script: Latn
         content: Yuqin Zong
@@ -35,18 +26,10 @@ contributor:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Cameron
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Miller
+        content: C. Cameron Miller
 - role:
   - type: publisher
   organization:

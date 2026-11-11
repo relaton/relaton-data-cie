@@ -2,11 +2,6 @@
 id: CIEx043PO34
 schema_version: v1.5.6
 type: standard
-title:
-- content: CORRELATIONS BETWEEN CONCENTRATION OF EFFECT PIGMENTS, OPTICAL MEASUREMENTS AND VISUAL ASSESSMENT OF SPARKLE (PO34, Pages 351-356)
-  type: title-main
-- content: CORRELATIONS BETWEEN CONCENTRATION OF EFFECT PIGMENTS, OPTICAL MEASUREMENTS AND VISUAL ASSESSMENT OF SPARKLE (PO34, Pages 351-356)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/correlations-between-concentration-of-effect-pigments-optical-measurements-and-visual-assessment-of-sparkle-po34-pages-351-356?product_id=1941856
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: O
+      - initial: O
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: E
+      - initial: E
       surname:
         language: en
         script: Latn
@@ -48,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: E
+      - initial: E
       surname:
         language: en
         script: Latn
@@ -60,9 +49,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: V
+      - initial: V
       surname:
         language: en
         script: Latn
@@ -72,12 +59,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: F
-      - language: en
-        script: Latn
-        initial: M
+      - initial: F.M
       surname:
         language: en
         script: Latn
@@ -87,9 +69,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn
@@ -99,9 +79,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
+      - initial: J
       surname:
         language: en
         script: Latn

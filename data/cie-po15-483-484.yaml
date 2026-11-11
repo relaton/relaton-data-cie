@@ -3,9 +3,11 @@ id: CIEPO15483484
 schema_version: v1.5.6
 type: standard
 title:
-- content: WAVELENGTH CALIBRATION OF A SPHERE-SPECTROMETER MEASUREMENT CONFIGURATION (PO15, 483-484)
+- content: WAVELENGTH CALIBRATION OF A SPHERE-SPECTROMETER MEASUREMENT CONFIGURATION
+    (PO15, 483-484)
   type: title-main
-- content: WAVELENGTH CALIBRATION OF A SPHERE-SPECTROMETER MEASUREMENT CONFIGURATION (PO15, 483-484)
+- content: WAVELENGTH CALIBRATION OF A SPHERE-SPECTROMETER MEASUREMENT CONFIGURATION
+    (PO15, 483-484)
   type: main
 source:
 - type: src
@@ -24,12 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: E
-      - language: en
-        script: Latn
-        initial: K
+      - initial: E.K
       surname:
         language: en
         script: Latn

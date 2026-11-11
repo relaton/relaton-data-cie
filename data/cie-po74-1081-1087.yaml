@@ -29,6 +29,8 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - content: In-Tae
       surname:
         language: en
         script: Latn
@@ -37,14 +39,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: In-Tae
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Seong-Kwan
       surname:
         language: en
         script: Latn
@@ -53,26 +49,12 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Seong-Kwan
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: An-Seop
       surname:
         language: en
         script: Latn
         content: Choi
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: An-Seop
 - role:
   - type: publisher
   organization:

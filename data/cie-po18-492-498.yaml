@@ -3,9 +3,11 @@ id: CIEPO18492498
 schema_version: v1.5.6
 type: standard
 title:
-- content: IMPROVEMENT OF THE COLOURFUL UNIFORMITY BY THREE DIFFERENT MEDIUMS OF THE PACKAGING LENS IN THE WHITE LIGHT LED (PO18, 492-498)
+- content: IMPROVEMENT OF THE COLOURFUL UNIFORMITY BY THREE DIFFERENT MEDIUMS OF THE
+    PACKAGING LENS IN THE WHITE LIGHT LED (PO18, 492-498)
   type: title-main
-- content: IMPROVEMENT OF THE COLOURFUL UNIFORMITY BY THREE DIFFERENT MEDIUMS OF THE PACKAGING LENS IN THE WHITE LIGHT LED (PO18, 492-498)
+- content: IMPROVEMENT OF THE COLOURFUL UNIFORMITY BY THREE DIFFERENT MEDIUMS OF THE
+    PACKAGING LENS IN THE WHITE LIGHT LED (PO18, 492-498)
   type: main
 source:
 - type: src
@@ -24,12 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: J
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: J.Y
       surname:
         language: en
         script: Latn
@@ -39,12 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
-      - language: en
-        script: Latn
-        initial: H
+      - initial: S.H
       surname:
         language: en
         script: Latn

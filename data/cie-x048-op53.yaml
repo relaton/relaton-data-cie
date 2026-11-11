@@ -23,46 +23,18 @@ contributor:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Ulrika
+        content: Ulrika Wänström Lindh
 - role:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Wänström
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Lindh
-- role:
-  - type: author
-  person:
-    name:
-      forename:
-      - language: en
-        script: Latn
-        initial: K
-      surname:
-        language: en
-        script: Latn
-        content: Annika
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Jägerbrand
+        content: Annika K. Jägerbrand
 - role:
   - type: publisher
   organization:

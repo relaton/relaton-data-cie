@@ -3,9 +3,13 @@ id: CIEx048PO50
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x048-PO50
+- content: ISSUES AND COUNTERPLAN OF EVACATION CENTER AT NIGHT
+  type: title-intro
+- content: CASE STUDY OF NORTHEN GYMNASIUM IN SUZAKA CITY AFFECTED BY TYPHOON HAGIBIS
+    IN 2019
   type: title-main
-- content: CIE x048-PO50
+- content: ISSUES AND COUNTERPLAN OF EVACATION CENTER AT NIGHT - CASE STUDY OF NORTHEN
+    GYMNASIUM IN SUZAKA CITY AFFECTED BY TYPHOON HAGIBIS IN 2019
   type: main
 source:
 - type: src
@@ -24,9 +28,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: H
+      - initial: H
       surname:
         language: en
         script: Latn
@@ -36,9 +38,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: "Y"
       surname:
         language: en
         script: Latn
@@ -48,9 +48,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: "Y"
       surname:
         language: en
         script: Latn
@@ -60,9 +58,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "N"
+      - initial: "N"
       surname:
         language: en
         script: Latn
@@ -72,9 +68,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: "Y"
       surname:
         language: en
         script: Latn
@@ -84,9 +78,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "N"
+      - initial: "N"
       surname:
         language: en
         script: Latn

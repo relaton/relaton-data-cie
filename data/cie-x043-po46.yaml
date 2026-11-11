@@ -3,9 +3,11 @@ id: CIEx043PO46
 schema_version: v1.5.6
 type: standard
 title:
-- content: PHOTOMETRIC AND COLORIMETRIC COMPARISON OF HDR AND SPECTRALLY RESOLVED RENDERING IMAGES (PO46, Pages 438-445)
+- content: PHOTOMETRIC AND COLORIMETRIC COMPARISON OF HDR AND SPECTRALLY RESOLVED
+    RENDERING IMAGES (PO46, Pages 438-445)
   type: title-main
-- content: PHOTOMETRIC AND COLORIMETRIC COMPARISON OF HDR AND SPECTRALLY RESOLVED RENDERING IMAGES (PO46, Pages 438-445)
+- content: PHOTOMETRIC AND COLORIMETRIC COMPARISON OF HDR AND SPECTRALLY RESOLVED
+    RENDERING IMAGES (PO46, Pages 438-445)
   type: main
 source:
 - type: src
@@ -24,9 +26,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn
@@ -36,9 +36,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: T
+      - initial: T
       surname:
         language: en
         script: Latn
@@ -48,9 +46,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: A
+      - initial: A
       surname:
         language: en
         script: Latn
@@ -60,9 +56,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: D
+      - initial: D
       surname:
         language: en
         script: Latn
@@ -72,9 +66,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: C
+      - initial: C
       surname:
         language: en
         script: Latn

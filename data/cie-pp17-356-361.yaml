@@ -2,11 +2,6 @@
 id: CIEPP17356361
 schema_version: v1.5.6
 type: standard
-title:
-- content: EFFECT OF AMBIENT LIGHTING CHROMATICITIES ON PERCEPTION OF NEUTRAL WHITE OF A TABLET (PP17, 356-361)
-  type: title-main
-- content: EFFECT OF AMBIENT LIGHTING CHROMATICITIES ON PERCEPTION OF NEUTRAL WHITE OF A TABLET (PP17, 356-361)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/effect-of-ambient-lighting-chromaticities-on-perception-of-neutral-white-of-a-tablet-pp17-356-361?product_id=2016272
@@ -24,12 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: H
-      - language: en
-        script: Latn
-        initial: P
+      - initial: H.P
       surname:
         language: en
         script: Latn
@@ -39,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn
@@ -51,12 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: L
-      - language: en
-        script: Latn
-        initial: C
+      - initial: L.C
       surname:
         language: en
         script: Latn

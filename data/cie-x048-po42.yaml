@@ -2,11 +2,6 @@
 id: CIEx048PO42
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE  x048-PO42
-  type: title-main
-- content: CIE  x048-PO42
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x048-po42?product_id=2240850
@@ -23,34 +18,18 @@ contributor:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Sevda
+        content: Sevda Aliparast
 - role:
   - type: author
   person:
     name:
-      surname:
+      completename:
         language: en
         script: Latn
-        content: Aliparast
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Sermin
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Onaygil
+        content: Sermin Onaygil
 - role:
   - type: publisher
   organization:

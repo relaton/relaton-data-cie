@@ -2,17 +2,6 @@
 id: CIEWP7468476
 schema_version: v1.5.6
 type: standard
-title:
-- content: |-
-    EFFECTS OF NON-VISUAL OPTICAL FLICKER IN AN OFFICE WITH TWO DIFFERENT LIGHT SOURCES
-
-     (WP7, 468-476)
-  type: title-main
-- content: |-
-    EFFECTS OF NON-VISUAL OPTICAL FLICKER IN AN OFFICE WITH TWO DIFFERENT LIGHT SOURCES
-
-     (WP7, 468-476)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/effects-of-non-visual-optical-flicker-in-an-office-with-two-different-light-sources-wp7-468-476?product_id=2011384
@@ -30,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn
@@ -42,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
+      - initial: S
       surname:
         language: en
         script: Latn
@@ -54,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: P
+      - initial: P
       surname:
         language: en
         script: Latn

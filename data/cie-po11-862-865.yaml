@@ -2,21 +2,6 @@
 id: CIEPO11862865
 schema_version: v1.5.6
 type: standard
-title:
-- content: |-
-    CHROMATIC FACTORS OF BRIGHTNESS MATCHING BETWEEN COMPUTER DISPLAY AND AMBIENT ILLUMINATION
-
-
-
-     (PO11,862-865)
-  type: title-main
-- content: |-
-    CHROMATIC FACTORS OF BRIGHTNESS MATCHING BETWEEN COMPUTER DISPLAY AND AMBIENT ILLUMINATION
-
-
-
-     (PO11,862-865)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/chromatic-factors-of-brightness-matching-between-computer-display-and-ambient-illumination-po11-862-865?product_id=2011165
@@ -34,12 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: B
-      - language: en
-        script: Latn
-        initial: V
+      - initial: B.V
       surname:
         language: en
         script: Latn
@@ -49,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: S
+      - initial: S
       surname:
         language: en
         script: Latn
@@ -61,12 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: D
-      - language: en
-        script: Latn
-        initial: F
+      - initial: D.F
       surname:
         language: en
         script: Latn

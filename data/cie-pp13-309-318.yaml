@@ -3,9 +3,11 @@ id: CIEPP13309318
 schema_version: v1.5.6
 type: standard
 title:
-- content: INVESTIGATION ON THE LIGHT ENVIRONMENT OF CHINA'S ACTIVE WIDE-BODY AIRCRAFT  (PP13, 309-318)
+- content: INVESTIGATION ON THE LIGHT ENVIRONMENT OF CHINA'S ACTIVE WIDE-BODY AIRCRAFT  (PP13,
+    309-318)
   type: title-main
-- content: INVESTIGATION ON THE LIGHT ENVIRONMENT OF CHINA'S ACTIVE WIDE-BODY AIRCRAFT  (PP13, 309-318)
+- content: INVESTIGATION ON THE LIGHT ENVIRONMENT OF CHINA'S ACTIVE WIDE-BODY AIRCRAFT  (PP13,
+    309-318)
   type: main
 source:
 - type: src
@@ -23,6 +25,8 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - content: Mingyu
       surname:
         language: en
         script: Latn
@@ -31,14 +35,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Mingyu
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Hao
       surname:
         language: en
         script: Latn
@@ -47,14 +45,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Hao
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Juan
       surname:
         language: en
         script: Latn
@@ -63,14 +55,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Juan
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Chen
       surname:
         language: en
         script: Latn
@@ -79,14 +65,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Chen
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Qing
       surname:
         language: en
         script: Latn
@@ -95,26 +75,12 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Qing
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Yajang
       surname:
         language: en
         script: Latn
         content: Wang
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Yajang
 - role:
   - type: publisher
   organization:

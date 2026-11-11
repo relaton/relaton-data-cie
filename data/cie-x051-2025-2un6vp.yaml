@@ -2,11 +2,6 @@
 id: CIEx05120252un6vp
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x051:2025/2un6vp
-  type: title-main
-- content: CIE x051:2025/2un6vp
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x051-2025-2un6vp?product_id=3039584
@@ -24,9 +19,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: M
+      - initial: M
       surname:
         language: en
         script: Latn
@@ -36,9 +29,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: K
+      - initial: K
       surname:
         language: en
         script: Latn
@@ -48,9 +39,7 @@ contributor:
   person:
     name:
       forename:
-      - language: en
-        script: Latn
-        initial: "Y"
+      - initial: "Y"
       surname:
         language: en
         script: Latn

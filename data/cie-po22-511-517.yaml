@@ -23,6 +23,8 @@ contributor:
   - type: author
   person:
     name:
+      forename:
+      - content: Guo-Qiang
       surname:
         language: en
         script: Latn
@@ -31,14 +33,8 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Guo-Qiang
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Pei-Li
       surname:
         language: en
         script: Latn
@@ -47,26 +43,12 @@ contributor:
   - type: author
   person:
     name:
-      surname:
-        language: en
-        script: Latn
-        content: Pei-Li
-- role:
-  - type: author
-  person:
-    name:
+      forename:
+      - content: Hung-Shing
       surname:
         language: en
         script: Latn
         content: Chen
-- role:
-  - type: author
-  person:
-    name:
-      surname:
-        language: en
-        script: Latn
-        content: Hung-Shing
 - role:
   - type: publisher
   organization:
