@@ -2,6 +2,13 @@
 id: CIEISO1166462022
 schema_version: v1.5.6
 type: standard
+title:
+- content: Colorimetry
+  type: title-main
+- content: 'Part 6: CIEDE2000 colour-difference formula'
+  type: title-part
+- content: 'Colorimetry - Part 6: CIEDE2000 colour-difference formula'
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-iso-11664-6-2022?product_id=2502987
