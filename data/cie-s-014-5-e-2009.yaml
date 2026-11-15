@@ -3,9 +3,13 @@ id: CIES0145E2009
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE S 014-5/E:2009
+- content: Colorimetry
   type: title-main
-- content: CIE S 014-5/E:2009
+- content: 'Part 5: CIE 1976 L*u*v* Colour Space and u'', v'' Uniform Chromaticity
+    Scale Diagram'
+  type: title-part
+- content: 'Colorimetry - Part 5: CIE 1976 L*u*v* Colour Space and u'', v'' Uniform
+    Chromaticity Scale Diagram'
   type: main
 source:
 - type: src
