@@ -2,13 +2,6 @@
 id: CIEPO14477482
 schema_version: v1.5.6
 type: standard
-title:
-- content: CALIBRATION OF TOTAL LUMINOUS FLUX, SPECTRAL RADIANT FLUX AND CORRELATED
-    COLOUR TEMPERATURE OF LED LAMPS BY INTEGRATING SPHERE (PO14, 477-482)
-  type: title-main
-- content: CALIBRATION OF TOTAL LUMINOUS FLUX, SPECTRAL RADIANT FLUX AND CORRELATED
-    COLOUR TEMPERATURE OF LED LAMPS BY INTEGRATING SPHERE (PO14, 477-482)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/calibration-of-total-luminous-flux-spectral-radiant-flux-and-correlated-colour-temperature-of-led-lamps-by-integrating-sphere-po14-477-482?product_id=2016292
@@ -67,7 +60,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: Tungsten lamps have been widely used by calibration laboratories as reference
+    standards lamps. However, they are gradually phased out in recently years owing
+    to the evolution of more energy efficient with extended operating life lamps.
+    Light emitting diode (LED) lamps are solid-state devices which are rugged, have
+    much longer operating life and have much better efficiency than tungsten lamps.
+    Recently, a technical committee has been set up under CIE to study the use of
+    the LEDs as reference light sources. To support the calibration demands from the
+    local industries, the Standards and Calibration Laboratory (SCL) of Hong Kong,
+    China has set up calibration service for total luminous flux, spectral radiant
+    flux and correlated colour temperature of LED lamps and tungsten lamps. The calibration
+    methods and its associated measurement uncertainties are presented in this paper.
 ext:
   schema_version: v1.0.0
   doctype:

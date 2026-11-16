@@ -2,6 +2,11 @@
 id: CIEx051202579pj4m
 schema_version: v1.5.6
 type: standard
+title:
+- content: CIE x051:2025/79pj4m
+  type: title-main
+- content: CIE x051:2025/79pj4m
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x051-2025-79pj4m?product_id=3039150
@@ -70,7 +75,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: https://doi.org/10.25039/x051.2025/79pj4mTraditional photometric measures
+    fail to accurately estimate perceived brightness, leading to the development of
+    spatial brightness as a concept to quantify overall scene brightness. Recent research
+    has revealed that melanopsin-containing intrinsically photosensitive retinal ganglion
+    cells (ipRGCs), in addition to cone cells, contributes to brightness perception,
+    and new metrics have been developed to predict cone and melanopsin-driven brightness
+    perception. This study evaluates the performance of three melanopsin-based spatial
+    brightness metrics through a two-alternative forced choice (2AFC) simultaneous
+    brightness experiment involving 15 pairs of lighting conditions. Results indicate
+    that the melanopsin-based spatial brightness metrics perform poorly, with a maximum
+    accuracy of 50%, which is on par with chance. Future research should explore a
+    wider range of illuminance, melanopic illuminance, and correlated colour temperatures
+    (CCT) levels.
 ext:
   schema_version: v1.0.0
   doctype:

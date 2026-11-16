@@ -2,13 +2,6 @@
 id: CIEPO30564569
 schema_version: v1.5.6
 type: standard
-title:
-- content: MEASUREMENTS OF PHOTOSYNTHETIC PHOTON FLUX (PPF) AND FLUX DENSITY (PPFD)
-    FOR GREENHOUSE LED IRRADIATORS (PO30, 564-569)
-  type: title-main
-- content: MEASUREMENTS OF PHOTOSYNTHETIC PHOTON FLUX (PPF) AND FLUX DENSITY (PPFD)
-    FOR GREENHOUSE LED IRRADIATORS (PO30, 564-569)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/measurements-of-photosynthetic-photon-flux-ppf-and-flux-density-ppfd-for-greenhouse-led-irradiators-po30-564-569?product_id=2016306
@@ -67,7 +60,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: In global agriculture and, in particular, in Russia the tendency of artificial
+    lighting in greenhouses growth is clearly visible. Until recently most of greenhouses
+    used irradiators with high pressure sodium lamps (HPS lamps). The photometric
+    system of units and relevant meters (illuminance meters) were successful used
+    for plants irradiation measurements. The advent of LED luminaires with different
+    light spectra, including those that emit in the visible spectrum border regions
+    (in blue and red bands), necessitated the introduction of PAR (photosynthetically
+    active radiation) system into practice. This paper discusses the issues related
+    to PAR measurements of PAR values such as PPF and PPFD.
 ext:
   schema_version: v1.0.0
   doctype:

@@ -2,6 +2,17 @@
 id: CIEPO02815822
 schema_version: v1.5.6
 type: standard
+title:
+- content: |-
+    COLOUR PREFERENCE OF HUMAN SKIN TONES UNDER DIFFERENT CORRELATED COLOUR TEMPERATURES OF A MULTICHANNEL HYBRID LED-LUMINAIRE
+
+      (PO02, 815-822)
+  type: title-main
+- content: |-
+    COLOUR PREFERENCE OF HUMAN SKIN TONES UNDER DIFFERENT CORRELATED COLOUR TEMPERATURES OF A MULTICHANNEL HYBRID LED-LUMINAIRE
+
+      (PO02, 815-822)
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/colour-preference-of-human-skin-tones-under-different-correlated-colour-temperatures-of-a-multichannel-hybrid-led-luminaire-po02-815-822?product_id=2010530
@@ -60,7 +71,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: |-
+    The beauty of human skin tones is a very important requirement for the luminaires in the lighting industry of cinemas, hospitals, cosmetics, shops, museums, galleries as well as in other human activities. Independent of the different demands of relaxation, entertainment, communication, business, cultural and art activities, human skin tones should be illuminated best according to their colour properties under both natural and artificial light sources. The research questions are whether the highest colour fidelity property of a light source for human skin tones can satisfy the light source users or is there another aspect of colour quality that
+    should be added? What is the role of correlated colour temperature concerning this aspect of artificial light sources? In this work, these issues are investigated by means of visual experiments under a programmable hybrid LED-luminaire. Subjects had to scale the colour preference of their own skin tones visually. Analysing the visual results, the compromise between colour fidelity and colour saturation enhancement are discussed.
 ext:
   schema_version: v1.0.0
   doctype:

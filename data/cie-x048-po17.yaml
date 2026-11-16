@@ -2,11 +2,6 @@
 id: CIEx048PO17
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x048-PO17
-  type: title-main
-- content: CIE x048-PO17
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x048-po17?product_id=2240830
@@ -55,7 +50,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: The method for estimating the illuminance distribution in the vertical
+    plane of museum objects (paintings) using a digital imaging luminance meters (ILMD)
+    is considered. In order to pass from the luminance distribution to the illuminance
+    distribution, a screen with reflective properties close to diffuse (Lambert) reflection
+    is used. The theoretical and experimental uncertainty estimation of the measurement
+    method done.
 ext:
   schema_version: v1.0.0
   doctype:

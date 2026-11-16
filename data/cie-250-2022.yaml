@@ -3,9 +3,9 @@ id: CIE2502022
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE 250:2022
+- content: Spectroradiometric Measurement of Optical Radiation Sources
   type: title-main
-- content: CIE 250:2022
+- content: Spectroradiometric Measurement of Optical Radiation Sources
   type: main
 source:
 - type: src
@@ -37,7 +37,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: This report is primarily concerned with measurements of irradiance, radiance,
+    radiant intensity, radiant flux and derived quantities in the ultraviolet, visible
+    and near infrared regions of the electromagnetic spectrum in the wavelength range
+    from 200 nm to 2 500 nm.Intended as a basic document on spectroradiometry, the
+    report makes reference to specific types of instrumentation or technology used
+    in spectroradiometric measurements only where necessary for understanding of the
+    text or for illustration purposes.This report provides a detailed overview of
+    relevant terminology and basic measurement principles, including those for instrument
+    calibration. It provides practical guidance for identifying, understanding and
+    quantifying relevant measurement uncertainty components.This document cancels
+    and replaces CIE 063-1984. Additional details on measurement principles not covered
+    in this document can be found in CIE 214:2014.
 relation:
 - type: updates
   bibitem:

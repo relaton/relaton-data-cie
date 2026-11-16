@@ -2,11 +2,6 @@
 id: CIEx0512025dytvft
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x051:2025/dytvft
-  type: title-main
-- content: CIE x051:2025/dytvft
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x051-2025-dytvft?product_id=3039897
@@ -95,7 +90,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: The paper focuses on the Light Flickermeter, a standardised algorithm which
+    is widely used to estimate the severity of flicker of artificial light sources
+    for human observers. The development of the algorithm is briefly covered with
+    special focus on clarification of many ambiguities about meaning of the results
+    that the algorithm produces. Laboratory measurements performed with human observers
+    are used as an empirical basis for the claims presented in the paper. Some of
+    the limitations of the algorithm, being a necessary consequence of how the algorithm
+    was developed, are exposed and discussed. A modified algorithm is presented which
+    removes some of these limitations and thus allows for an easier interpretation
+    of the results.
 ext:
   schema_version: v1.0.0
   doctype:

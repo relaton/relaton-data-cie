@@ -3,11 +3,9 @@ id: CIEx0512025x3z2a4
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'DESIGN CRITERIA FOR USER-CENTRED SHADING SYSTEMS: A VR-BASED STUDY ON
-    USER PREFERENCES'
+- content: CIE x051:2025/x3z2a4
   type: title-main
-- content: 'DESIGN CRITERIA FOR USER-CENTRED SHADING SYSTEMS: A VR-BASED STUDY ON
-    USER PREFERENCES'
+- content: CIE x051:2025/x3z2a4
   type: main
 source:
 - type: src
@@ -57,7 +55,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: https://doi.org/10.25039/x051.2025/x3z2a4Solar shading systems are essential
+    for creating comfortable indoor climates, reducing glare, and enhancing overall
+    building energy performance. In addition, they influence how building users connect
+    with their environment and shape architectural spatial experiences. However, conventional
+    systems often fail to effectively address variable environmental conditions and
+    individual user preferences. Advancements such as dynamically switchable glass
+    and films, integrated with sensor technology, theoretically offer new possibilities
+    for user-centred façade systems as these technologies enable real-time optimization
+    of glare reduction and outward visibility by detecting user positions and viewing
+    directions. Due to the novelty of these systems, their design requirements remain
+    underdeveloped. A laboratory study using virtual reality technologies investigated
+    user preferences for pixelated façade systems. The results indicate the importance
+    of carefully balancing the expressive and functional behaviour of the system.
+    Insights were gained for both static and dynamic façade configurations, providing
+    a first foundation for future system design.
 ext:
   schema_version: v1.0.0
   doctype:

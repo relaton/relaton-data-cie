@@ -2,11 +2,6 @@
 id: CIEx050OP086
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x050-OP086
-  type: title-main
-- content: CIE x050-OP086
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-op086?product_id=2579037
@@ -85,7 +80,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: Japan is one of the most disaster-prone countries in the world, and in
+    the event of a large-scale disaster such as a great earthquake, many evacuees
+    are forced to live in evacuation centers for extended periods of time. However,
+    gymnasiums, which are often used as evacuation centers in Japan, are not designed
+    primarily for evacuation, and are not necessarily well equipped as living spaces
+    during disasters. In this study, from the viewpoint of providing basic data for
+    lighting design in evacuation centers, the relationship between the spatial brightness
+    evaluation of evacuation center and the impression evaluation by assumed several
+    activities in various lighting levels and lighting patterns was summarized.
 ext:
   schema_version: v1.0.0
   doctype:

@@ -3,11 +3,9 @@ id: CIEx050PO135
 schema_version: v1.5.6
 type: standard
 title:
-- content: PROTOCOL TO SIMULATE AND EVALUATE SUNGLASS FILTERED COLOUR VISION THROUGH
-    IMAGE COLOUR APPEARANCE MODELS
+- content: CIE x050-PO135
   type: title-main
-- content: PROTOCOL TO SIMULATE AND EVALUATE SUNGLASS FILTERED COLOUR VISION THROUGH
-    IMAGE COLOUR APPEARANCE MODELS
+- content: CIE x050-PO135
   type: main
 source:
 - type: src
@@ -77,7 +75,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: The sunglass industry has seen a major development in the past few years,
+    though without the development of sunglass simulation tools for the wearers. This
+    study describes a protocol to accurately simulate sunglass filtered vision using
+    hyperspectral imaging and colour appearance model. The use of hyperspectral imaging
+    ensures that the spectral transmittances of the sunglasses can be applied to the
+    spectral radiances of the target scene. This filtered hyperspectral data can then
+    be converted into a colour image using CIE XYZ tristimulus values and image colour
+    appearance model (iCAM06). The study also identifies the protocol for the testing
+    of these filtered images through psychophysical experiments and formulates the
+    key parameters for testing. Furthermore, the study also categorizes the acquisition
+    parameters for accurate and fast application of sunglasses on hyperspectral images.
+    Objective testing on the optimized hyperspectral data revealed a reduction of
+    data size by four times, without any loss of colorimetric accuracy. The study
+    lays out a clear path for the future execution of psychophysical experiments to
+    validate the accuracy of reproduction for these simulated images.
 ext:
   schema_version: v1.0.0
   doctype:

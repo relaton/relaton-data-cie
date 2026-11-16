@@ -2,6 +2,11 @@
 id: CIE671986
 schema_version: v1.5.6
 type: standard
+title:
+- content: CIE 67-1986
+  type: title-main
+- content: CIE 67-1986
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-67-1986?product_id=1209999
@@ -32,7 +37,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: |-
+    The purpose of this report is to establish standard procedures for the calculation, measurement, and reporting of the illuminance characteristics of interior and exterior sports lighting installations. These procedures make it possible to compare the performance of alternative lighting systems on a common basis at the design stage of the project, and to relate it directly to on-site illuminance measurements of the completed lighting installation. A number of alternative approaches are given which allow the user or specifier to select a procedure suited to a particular project.
+
+    The publication contains 18 pages and 6 figures.
 ext:
   schema_version: v1.0.0
   doctype:
