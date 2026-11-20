@@ -2,11 +2,6 @@
 id: CIEx0512025ocmn2d
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x051:2025/ocmn2d
-  type: title-main
-- content: CIE x051:2025/ocmn2d
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x051-2025-ocmn2d?product_id=3039929
@@ -55,7 +50,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: Over the last 60 years of research and development in the field of texture
+    assessment or discrimination, no standard or recommended definition has been adopted.
+    This study proposes to extract from the state of the art the existing definitions
+    and the important elements to be retained. A proposed definition and two required
+    properties are suggested. They constitute the first step in an international discussion
+    on the definition of non-uniform surface metrology.
 ext:
   schema_version: v1.0.0
   doctype:

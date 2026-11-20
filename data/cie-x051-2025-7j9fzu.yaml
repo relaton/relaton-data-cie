@@ -3,9 +3,11 @@ id: CIEx05120257j9fzu
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x051:2025/7j9fzu
+- content: OPTIMIZATION OF URBAN LIGHTING EVALUATION METHOD BASED ON MULTI-SOURCE
+    DATA MUTUAL VERIFICATIONS
   type: title-main
-- content: CIE x051:2025/7j9fzu
+- content: OPTIMIZATION OF URBAN LIGHTING EVALUATION METHOD BASED ON MULTI-SOURCE
+    DATA MUTUAL VERIFICATIONS
   type: main
 source:
 - type: src
@@ -65,7 +67,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: Excessive energy consumption and interference towards human health caused
+    by urban lighting have attracted widespread attention and the optimization of
+    evaluation methods is important. ArcGIS Pro were used to analyze the Visible Infrared
+    Imaging Radiometer Suite (VIIRS) data of Dali City (China) to obtain distributions
+    of lighting intensity and high radiation areas. By comparing identified areas
+    with point of interest (POI), typical categories were found. Unmanned aerial vehicle
+    (UAV) and panoramic images were then used to make site verifications, it was found
+    that constructional works is highly related to lighting intensity, buildings which
+    caused high radiation are mostly consistent with POI conclusions, meanwhile, facade
+    lighting, outdoor advertising and customized lights are key factors causing obtrusive
+    lights. By combining VIIRS, POI, UAV and panoramic images, the evaluation efficiency
+    can be significantly improved which also provide great convenience in lighting
+    intensity distribution analysis, typical object recognition, specific problem
+    discovery, etc.
 ext:
   schema_version: v1.0.0
   doctype:

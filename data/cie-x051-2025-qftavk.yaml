@@ -2,6 +2,13 @@
 id: CIEx0512025qftavk
 schema_version: v1.5.6
 type: standard
+title:
+- content: INVESTIGATING THE ACCURACY OF ROAD SURFACE REFLECTION CHARACTERISATION
+    BASED ON ROUND-ROBIN MEASUREMENTS
+  type: title-main
+- content: INVESTIGATING THE ACCURACY OF ROAD SURFACE REFLECTION CHARACTERISATION
+    BASED ON ROUND-ROBIN MEASUREMENTS
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x051-2025-qftavk?product_id=3040014
@@ -90,7 +97,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: Knowing the reflection properties of road surfaces is necessary for road
+    lighting design. Road surface reflection is commonly specified by a set of luminance
+    coefficients q. However, measured data q are limited and a fortiori, little is
+    systematically known about the accuracy of measurements. To address this, a comparison
+    based on the recommendations of standard ISO 5725 was organized among three laboratories.
+    Seven samples were measured (six different road surfaces and one near diffuse
+    reflective material). The calculations include trueness and precision. While trueness
+    was checked for a suitable geometry (as we lack reference road surface reflection
+    data) and was found to be quite good, the precision proved to be quite variable,
+    e.g. for characteristic values versus those of single q-values. Precision was
+    not closely related to the values of q, but rather to the geometrical conditions
+    of the measurement.
 ext:
   schema_version: v1.0.0
   doctype:

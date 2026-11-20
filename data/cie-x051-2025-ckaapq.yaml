@@ -3,11 +3,9 @@ id: CIEx0512025ckaapq
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'INTEGRATING EMOTIONAL AND VISUAL DIMENSIONS IN URBAN LIGHTING DESIGN:
-    A HOLISTIC APPROACH USING THE PAD MODEL AND LIGHT FIELD METRICS'
+- content: CIE x051:2025/ckaapq
   type: title-main
-- content: 'INTEGRATING EMOTIONAL AND VISUAL DIMENSIONS IN URBAN LIGHTING DESIGN:
-    A HOLISTIC APPROACH USING THE PAD MODEL AND LIGHT FIELD METRICS'
+- content: CIE x051:2025/ckaapq
   type: main
 source:
 - type: src
@@ -57,7 +55,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: Traditional urban lighting design emphasizes visibility and safety but
+    often overlooks emotional and social responses. This study proposes an integrated
+    triadic framework combining the PAD emotional modelling, Visual Light Field (VLF)
+    theory, and cubic illuminance metrics to evaluate the affective impacts of spatial
+    lighting. A pre-social survey and two controlled simulation experiments were conducted
+    to examine perceptual and emotional effects under varied lighting configurations.
+    Results show that greater horizontal illuminance asymmetry significantly elevates
+    Arousal while reducing Pleasure and Dominance, while the richness of higher-order
+    lighting components significantly enhances Pleasure and Dominance. These findings
+    support experience-driven lighting strategies and provide actionable metrics for
+    designing emotionally responsive public spaces.
 ext:
   schema_version: v1.0.0
   doctype:

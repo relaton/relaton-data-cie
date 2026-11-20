@@ -3,11 +3,9 @@ id: CIEx0512025zcxwh4
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'HOW LIGHT VARIES ACROSS DIFFERENT LEVELS: INSPECTING CONVERGENCE AND DISCREPANCIES
-    IN MEASUREMENTS FROM FIXED OUTDOOR AND INDOOR MONITORING AND PERSON-WORN SENSORS'
+- content: CIE x051:2025/zcxwh4
   type: title-main
-- content: 'HOW LIGHT VARIES ACROSS DIFFERENT LEVELS: INSPECTING CONVERGENCE AND DISCREPANCIES
-    IN MEASUREMENTS FROM FIXED OUTDOOR AND INDOOR MONITORING AND PERSON-WORN SENSORS'
+- content: CIE x051:2025/zcxwh4
   type: main
 source:
 - type: src
@@ -77,7 +75,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: This study conducted two field tests in offices to investigate the convergence
+    and discrepancies of fixed and personal light measurements. Firstly, an open-plan
+    office was monitored with sensors at various points from outdoor weather station
+    to person-worn pendants for one week. Secondly, personal light exposure of an
+    office worker was monitored with wearable sensors at multiple measurement points,
+    including forehead, eyeglasses, pendant, and wrist. Data analyses involved time-series
+    plots, Pearson correlations, linear regression, and Bland–Altman comparisons.
+    Results indicate that window-side measurements could estimate workstation light
+    levels but require caution regarding direct sunlight. As for personal light evaluations,
+    fixed workstation measurements were incapable of capturing temporal fluctuations
+    in individuals’ light exposure. For wearable sensors, measurements from eyeglass-mounted
+    devices were comparable to those from forehead-mounted sensors, while pendant/wrist
+    sensors required calibration. These findings highlight the importance of measurement
+    calibration and integrating wearable sensors in field studies for healthy lighting
+    design.
 ext:
   schema_version: v1.0.0
   doctype:

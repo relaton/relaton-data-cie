@@ -3,11 +3,9 @@ id: CIEx050PO080
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'REPRODUCTION OF DAYLIT ENVIRONMENT IN WORKSPACES USING LED LIGHTING: VERIFICATION
-    OF THE INFLUENCE OF VIEW FROM A WINDOW'
+- content: CIE x050-PO080
   type: title-main
-- content: 'REPRODUCTION OF DAYLIT ENVIRONMENT IN WORKSPACES USING LED LIGHTING: VERIFICATION
-    OF THE INFLUENCE OF VIEW FROM A WINDOW'
+- content: CIE x050-PO080
   type: main
 source:
 - type: src
@@ -107,7 +105,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: This study aimed to determine whether it is possible to obtain the same
+    effect of a daylit environment by reproducing daylighting using LED lighting in
+    workspaces. This paper focused on the element “view” of the daylit environment.
+    Two types of experiments were conducted in an experimental space to assess the
+    influence of viewing through a window. Psychological evaluations and physiological
+    responses were compared between with-view (daylighting) and without-view (reproduction
+    of daylighting with LED lighting) conditions at each illuminance level at eye
+    level. The results demonstrated that the with-view condition was psychologically
+    positive (openness and relief) and physiologically stress-less at 120 lx, whereas
+    the without-view condition was evaluated as easier to concentrate on and stress-less
+    at 600 lx. Therefore, considering general lighting intensity when working, a sufficient
+    effect may be obtained in workspaces without view by reproducing daylit environments
+    using LED lighting.
 ext:
   schema_version: v1.0.0
   doctype:

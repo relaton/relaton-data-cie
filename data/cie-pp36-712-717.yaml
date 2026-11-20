@@ -2,17 +2,6 @@
 id: CIEPP36712717
 schema_version: v1.5.6
 type: standard
-title:
-- content: |-
-    COMPARISON OF GONIPHOTOMETRIC METHODS FOR OLED
-
-     (PP36, 712-717)
-  type: title-main
-- content: |-
-    COMPARISON OF GONIPHOTOMETRIC METHODS FOR OLED
-
-     (PP36, 712-717)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/comparison-of-goniphotometric-methods-for-oled-pp36-712-717?product_id=2011366
@@ -89,7 +78,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: This paper deals with investigation of the measurement various methods
+    in goniophotometric measurements using various OLEDs samples with different goniophotometers
+    i.e. light source rotating goniophotometer, mirror goniophotometer, near-field
+    goniophotometer with imaging photometer, goniophotometer with rotating arm with
+    photometer and rotating light source around of OLED's axis. Cooperation between
+    testing laboratories having these types of goniophotometers is presented.
 ext:
   schema_version: v1.0.0
   doctype:

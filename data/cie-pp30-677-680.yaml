@@ -2,6 +2,17 @@
 id: CIEPP30677680
 schema_version: v1.5.6
 type: standard
+title:
+- content: |-
+    LIGHTING EFFECT HEALTH TEST AND EVALUATION METHOD BASED ON PHYSIOLOGICAL INDEX OF HUMAN VISUAL SYSTEM
+
+     (PP30, 677-680)
+  type: title-main
+- content: |-
+    LIGHTING EFFECT HEALTH TEST AND EVALUATION METHOD BASED ON PHYSIOLOGICAL INDEX OF HUMAN VISUAL SYSTEM
+
+     (PP30, 677-680)
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/lighting-effect-health-test-and-evaluation-method-based-on-physiological-index-of-human-visual-system-pp30-677-680?product_id=2011361
@@ -60,7 +71,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: Study of Light Emitting Diode (LED) health lighting has been the key point
+    of the development of LED industry. It is important to assess the visual fatigue
+    of users in the LED lighting environment. Previous researchers tend to assess
+    the visual fatigue degree of products based on subjective perceptions of the product
+    users. Few credible indices are provided for quantification, making their results
+    controversial in stability and accuracy. Consequently, these researching results
+    can hardly meet the "human-centric" aim of lighting products design. In the present
+    study, we showed an introduction to the system frame and researching progress
+    of LED health lighting study based on visual physiological parameters.
 ext:
   schema_version: v1.0.0
   doctype:

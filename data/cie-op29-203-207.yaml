@@ -2,13 +2,6 @@
 id: CIEOP29203207
 schema_version: v1.5.6
 type: standard
-title:
-- content: FISHEYE CAMERA SYSTEM FOR DETERMINING SPATIAL CORRECTIONS IN LUMINOUS EFFICACY
-    MEASUREMENTS WITH INTEGRATING SPHERES (OP29, 203-207)
-  type: title-main
-- content: FISHEYE CAMERA SYSTEM FOR DETERMINING SPATIAL CORRECTIONS IN LUMINOUS EFFICACY
-    MEASUREMENTS WITH INTEGRATING SPHERES (OP29, 203-207)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/fisheye-camera-system-for-determining-spatial-corrections-in-luminous-efficacy-measurements-with-integrating-spheres-op29-203-207?product_id=2010470
@@ -87,7 +80,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: |-
+    This paper describes the fisheye camera system of Metrology Research Institute at Aalto University developed for determining spatial non-uniformity corrections in luminous flux measurements with integrating spheres. The measurement system consists of a fisheye lens camera module, software, and a sphere adapter for the camera. The system relies on determining the relative angular intensity distribution of a lamp under test from a fisheye camera photograph. This angular distribution is used together with spatial responsivity map of the
+    integrating sphere to calculate the spatial correction factor. The system was validated by measuring angular intensity distributions of 13 LED lamps using the fisheye camera system and comparing the results to those obtained using a traditional goniophotometer. On the average, the deviations between the methods were 0,06 %. The expanded uncertainty (k = 2) of the spatial non-uniformity correction factors obtained using the fisheye camera system is 0,28 %.
 ext:
   schema_version: v1.0.0
   doctype:

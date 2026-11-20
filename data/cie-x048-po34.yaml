@@ -3,9 +3,11 @@ id: CIEx048PO34
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x048-PO34
+- content: OPTIMISATION OF A MOBILE METHOD FOR MEASURING ROAD LIGHTING CHARACTERISTICS
+    (LUMINANCE AND ILLUMINANCE)
   type: title-main
-- content: CIE x048-PO34
+- content: OPTIMISATION OF A MOBILE METHOD FOR MEASURING ROAD LIGHTING CHARACTERISTICS
+    (LUMINANCE AND ILLUMINANCE)
   type: main
 source:
 - type: src
@@ -65,7 +67,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: In today's urban environment it is extremely difficult to perform road
+    lighting measurements using standard stationary methods. The mobile measurement
+    method remains, in fact, the only possible way of assessing the quality of outdoor
+    lighting. The presented work is aimed at improving the existing measurement methods
+    in terms of quality, speed of measurement and safety of personnel.
 ext:
   schema_version: v1.0.0
   doctype:

@@ -2,11 +2,6 @@
 id: CIEISO200862019
 schema_version: v1.5.6
 type: standard
-title:
-- content: Light and lighting -- Energy performance of lighting in buildings
-  type: title-main
-- content: Light and lighting -- Energy performance of lighting in buildings
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-iso-20086-2019?product_id=2078727
@@ -35,7 +30,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: |-
+    This document specifies the methodology for evaluating the energy performance of lighting systems for providing general illumination inside non-residential buildings and for calculating or measuring the amount of energy required or used for lighting inside buildings.
+    This document does not cover lighting requirements, the design of lighting systems, the planning of lighting installations, the characteristics of lighting equipment (lamps, control gear and luminaires) and systems used for display lighting, desk lighting or luminaires built into furniture. This document does not provide any procedure for the dynamic simulation of lighting scene setting.
 ext:
   schema_version: v1.0.0
   doctype:

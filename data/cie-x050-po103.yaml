@@ -2,11 +2,6 @@
 id: CIEx050PO103
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x050-PO103
-  type: title-main
-- content: CIE x050-PO103
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-po103?product_id=2579142
@@ -75,7 +70,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: The goal of our work is to prepare a generally usable spectral power distribution
+    model that can be directly applied to the measurement results of LEDs. As a first
+    step, the distribution functions found in the literature were examined based on
+    our measurement results, and the suitable functions for further work were determined.
+    Temperature and forward current-dependent models are then created with the help
+    of polynomial regression, for the parameters established during fitting. In the
+    field of phosphor modelling, a new aging test based on samples with a distant
+    phosphor arrangement was launched, the details of which are discussed in the paper.
 ext:
   schema_version: v1.0.0
   doctype:

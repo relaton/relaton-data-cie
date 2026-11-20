@@ -2,11 +2,6 @@
 id: CIEx044OP10
 schema_version: v1.5.6
 type: standard
-title:
-- content: PROPOSAL FOR A NEW GENERAL V(Λ) MISMATCH INDEX (OP10, 73-78)
-  type: title-main
-- content: PROPOSAL FOR A NEW GENERAL V(Λ) MISMATCH INDEX (OP10, 73-78)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/proposal-for-a-new-general-v-mismatch-index-op10-73-78?product_id=2009527
@@ -75,7 +70,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: |-
+    The general V(λ) mismatch index, f1', was defined by CIE for a general description of the photometric performance of photometers. This index is widely-used in Photometry, and it is very relevant for selecting photometers requiring minimal corrections under different illuminants in photometric measurements. It quantifies the mismatch between the spectral responsivity of a photometer and V(λ). However, we found that this index only correlates well with the photometer photometric performance when illuminants with narrow spectral distributions are used. We propose an alternative general V(λ) mismatch index, based on the
+    remaining variation of the relative spectral responsivity with respect to V(λ) once the highfrequency variation is filtered out. This proposed alternative index correlates much better than f1' with the empirical photometric performance of seven photometers when phosphor-based LEDs and blackbody illuminants are considered.
 ext:
   schema_version: v1.0.0
   doctype:

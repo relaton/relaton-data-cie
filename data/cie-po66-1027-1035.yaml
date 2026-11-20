@@ -2,17 +2,6 @@
 id: CIEPO6610271035
 schema_version: v1.5.6
 type: standard
-title:
-- content: |-
-    WHITE LED FOR ILLUMINATION OF CHINESE TRADITIONAL LIGHT COLOR PAINTING
-
-     (PO66, 1027-1035)
-  type: title-main
-- content: |-
-    WHITE LED FOR ILLUMINATION OF CHINESE TRADITIONAL LIGHT COLOR PAINTING
-
-     (PO66, 1027-1035)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/white-led-for-illumination-of-chinese-traditional-light-color-painting-po66-1027-1035?product_id=2011215
@@ -81,7 +70,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: Optical radiation causes permanent damage to the colour of Chinese traditional
+    paintings. To establish the influencing rules of different light sources on traditional
+    paintings and to determine the minimum damage light source of different types
+    of traditional paintings, this study utilized a white light emitting diode (WLED)
+    as experimental light source, a metal halide lamp, and a tungsten halogen lamp
+    as contrast light sources to illuminate Chinese paintings, periodically measuring
+    CIELAB colour data. First, we calculated the colour difference based on the data
+    and plotted colour difference against exposure. Then, we plotted fitting curves
+    of colour difference against exposure for four pigments, and obtained the relative
+    influence coefficient of different light sources on four organic pigments via
+    analysing the regression equation. These results provide a reference for choosing
+    light sources in the design of museum lighting.
 ext:
   schema_version: v1.0.0
   doctype:

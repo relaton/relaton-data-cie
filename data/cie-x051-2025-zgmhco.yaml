@@ -2,11 +2,6 @@
 id: CIEx0512025zgmhco
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x051:2025/zgmhco
-  type: title-main
-- content: CIE x051:2025/zgmhco
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x051-2025-zgmhco?product_id=3040047
@@ -55,7 +50,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: Komorebi, the dappled sunlight filtering through trees, offers restorative
+    benefits in outdoor and indoor environments. While studies have examined its presence,
+    movement, and changes in illuminance, a comprehensive understanding of its dynamic
+    properties remains largely unexplored. This study develops a framework to quantify
+    the spatial and temporal characteristics of Komorebi patterns. The methodology
+    involves collecting Komorebi scenes, extracting their temporal and spatial features,
+    and creating a multidimensional representation to capture these features effectively.
+    The spatial feature analysis focuses on light pattern dispersion, intensity correlations,
+    and spectral analysis of two-dimensional patterns; the temporal analysis, on the
+    other hand, examines movement, directional changes, and brightness fluctuations.
+    This study introduces a novel approach for categorizing and representing different
+    typologies of Komorebi, and establishes a basis for examining people's responses
+    to Komorebi patterns.
 ext:
   schema_version: v1.0.0
   doctype:

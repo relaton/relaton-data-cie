@@ -2,6 +2,11 @@
 id: CIE521982
 schema_version: v1.5.6
 type: standard
+title:
+- content: 'Calculations for Interior Lighting: Applied Method'
+  type: title-main
+- content: 'Calculations for Interior Lighting: Applied Method'
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-52-1982?product_id=1209983
@@ -32,7 +37,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: 'Photocopy Edition 1997The method presented in this report deals with average
+    illuminances at the working plane, walls and ceiling.It is a design method (determination
+    of light distribution and arrangement of luminaires required for specified illuminances)
+    as well as a verification method (calculation of illuminances of a design or an
+    existing installation).The method is distinguished from most of the existing methods
+    by its possibility to take into account the influence of the luminaire arrangement.The
+    method is based on CIE 40-1978 Calculations for Interior Lighting: Basic Methods.'
 ext:
   schema_version: v1.0.0
   doctype:

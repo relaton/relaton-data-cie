@@ -3,9 +3,9 @@ id: CIEx048OP16
 schema_version: v1.5.6
 type: standard
 title:
-- content: 'TOWARDS A FRAMEWORK FOR LIGHT-DOSIMETRY STUDIES: METHODOLOGICAL CONSIDERATIONS'
+- content: CIE x048-OP16
   type: title-main
-- content: 'TOWARDS A FRAMEWORK FOR LIGHT-DOSIMETRY STUDIES: METHODOLOGICAL CONSIDERATIONS'
+- content: CIE x048-OP16
   type: main
 source:
 - type: src
@@ -63,7 +63,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: For field research of non-visual effects of light, accurate measurement
+    of personal light exposure is required. A consensus framework for light-dosimetry
+    could improve non-visual field research and ensure comparability between studies.
+    Here we present a review of methodologies used in non-visual light-dosimetry studies
+    published to date, focussing on considerations regarding the measurement and preparation
+    of personal light exposure data. Overall, a large variability in the studies methodologies
+    is observed, highlighting the need for a consensus framework. We propose methodological
+    considerations that should be included in such a framework and that can guide
+    future studies. Furthermore, we highlight important points that should be addressed
+    in future research to ensure compatibility between different dosimetry studies.
+    Taken together, this review effort underlines the importance of a systematic approach
+    to light-dosimetry in order to harness all the power of integrative lighting research
+    in real-life.
 ext:
   schema_version: v1.0.0
   doctype:

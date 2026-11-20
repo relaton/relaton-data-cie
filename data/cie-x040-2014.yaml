@@ -2,6 +2,11 @@
 id: CIEx0402014
 schema_version: v1.5.6
 type: standard
+title:
+- content: CIE x040:2014
+  type: title-main
+- content: CIE x040:2014
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x040-2014?product_id=1885585
@@ -32,7 +37,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: This Symposium was organized by CIE Division 2 in cooperation with the
+    CIE Central Bureau, and was hosted by the CIE Central Bureau in Vienna, Austria.
+    The Symposium featured contributed papers of leading experts in photometry and
+    radiometry presenting facts and recent research in measurement uncertainties in
+    photometry and radiometry, especially regarding application in industry.
 ext:
   schema_version: v1.0.0
   doctype:

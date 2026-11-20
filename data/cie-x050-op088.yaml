@@ -2,6 +2,11 @@
 id: CIEx050OP088
 schema_version: v1.5.6
 type: standard
+title:
+- content: CIE x050-OP088
+  type: title-main
+- content: CIE x050-OP088
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-op088?product_id=2579039
@@ -40,7 +45,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: The objective of this presentation is to promote awareness of some of the
+    difficulties found when measuring subjective evaluation of discomfort from glare,
+    thus to encourage support for and participation in work to report on best practise
+    when measuring discomfort from glare. Improving experimental design is a step
+    towards resolving the disagreement between studies and between models of discomfort
+    from glare.
 ext:
   schema_version: v1.0.0
   doctype:

@@ -2,11 +2,6 @@
 id: CIEx050PO007
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x050-PO007
-  type: title-main
-- content: CIE x050-PO007
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-po007?product_id=2579045
@@ -65,7 +60,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: Slow oscillations (SOs) have played an important role in slow wave sleep.
+    Slow oscillations refer to the continuous oscillation of the cortex and thalamus
+    neurons in synchronous network patterns, manifested as slow fluctuating activities.
+    Modulating slow oscillations through non-invasive brain stimulation during sleep
+    is a potential treatment for sleep disorders. This study used dynamic light (<1Hz)
+    as an external stimulus to enhance slow oscillations and observe their relationship
+    with memory consolidation. The results showed that dynamic light can enhance NREM
+    sleep but had no significant effect on memory consolidation.
 ext:
   schema_version: v1.0.0
   doctype:

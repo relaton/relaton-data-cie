@@ -67,7 +67,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: This study aims to evaluate users' attention levels under different lighting
+    environments by measuring and analysing brainwaves. The acquired brainwave signals
+    are processed by Hilbert-Huang transform to find the marginal spectra of intrinsic
+    mode functions for computing the corresponding powers in the alpha and beta bands.
+    The receiver operating characteristic analysis is then utilized to suggest candidates
+    of attention index based on the classification accuracy of binary discrimination
+    tasks.
 ext:
   schema_version: v1.0.0
   doctype:

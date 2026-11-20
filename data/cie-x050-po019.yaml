@@ -2,11 +2,6 @@
 id: CIEx050PO019
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x050-PO019
-  type: title-main
-- content: CIE x050-PO019
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-po019?product_id=2578629
@@ -75,7 +70,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: Over the past two decades, there has been a significant growth of interest
+    in participatory mapping approaches in various research fields. However, their
+    application in studying the effects of outdoor lighting on perceived urban experiences
+    is relatively recent and limited. This paper aims to verify the capability of
+    the Public Participation GIS (PPGIS) to access residents' location-specific knowledge
+    and perceptions of outdoor lighting through an initial exploration of mapped places.
+    It focuses on perceived overall lighting quality (POLQ) and perceived brightness
+    (PB) as attributes for comparing mapped places. Additionally, the paper discusses
+    participants' written feedback regarding the PPGIS survey. The findings reveal
+    notable differences between areas with higher reported POLQ and PB, compared to
+    those with lower POLQ and PB. Furthermore, a strong positive correlation between
+    POLQ and PB attributes was found. Participants' feedback was predominantly positive.
+    These results highlight the potential of PPGIS in future research on outdoor lighting.
 ext:
   schema_version: v1.0.0
   doctype:

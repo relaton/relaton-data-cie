@@ -2,6 +2,11 @@
 id: CIE2232017
 schema_version: v1.5.6
 type: standard
+title:
+- content: CIE 223:2017
+  type: title-main
+- content: CIE 223:2017
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-223-2017?product_id=1944738
@@ -32,7 +37,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: 'This technical report describes the basic model of multispectral imaging
+    technology followed by the requirements and the examples of multispectral image
+    formats suitable for colour imaging applications. Four example formats are introduced
+    and compared in typical use cases: JPEG 2000, Spectral Binary File Format, Natural
+    Vision, and multispectral image file format AIX. The specifications of those formats
+    except for JPEG 2000 are provided in the Annex.'
 ext:
   schema_version: v1.0.0
   doctype:

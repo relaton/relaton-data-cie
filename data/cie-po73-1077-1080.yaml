@@ -2,6 +2,13 @@
 id: CIEPO7310771080
 schema_version: v1.5.6
 type: standard
+title:
+- content: A STUDY ON QUANTITATIVE EFFECTS ON THE ENERGY SAVINGS OF DAYLIGHTING HARVESTING
+    SYSTEMS IN NON-RESIDENTIAL BUILDINGS IN JAPAN (PO73, 1077-1080)
+  type: title-main
+- content: A STUDY ON QUANTITATIVE EFFECTS ON THE ENERGY SAVINGS OF DAYLIGHTING HARVESTING
+    SYSTEMS IN NON-RESIDENTIAL BUILDINGS IN JAPAN (PO73, 1077-1080)
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/a-study-on-quantitative-effects-on-the-energy-savings-of-daylighting-harvesting-systems-in-non-residential-buildings-in-japan-po73-1077-1080?product_id=2011221
@@ -70,7 +77,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: Recently, the Energy Saving Act (Act on the Rational Use of Energy) places
+    importance on daylight harvesting as an energy-saving method in non-residential
+    buildings, of which openings are indispensable for a better working environment.
+    The purpose of this study is to examine whether the estimation method which makes
+    it possible to evaluate the energysaving effect of daylighting harvesting in simple
+    and quantitative way. Results show that the influence of factors related to building
+    shape (Window-to-Wall Ratio, Window Number, Depth, Window Orientation) on Annual
+    Primary Energy Consumption can be handled centrally by using Window-to-Floor Ratio.
 ext:
   schema_version: v1.0.0
   doctype:

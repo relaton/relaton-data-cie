@@ -2,6 +2,11 @@
 id: CIEx050PO034
 schema_version: v1.5.6
 type: standard
+title:
+- content: CIE x050-PO034
+  type: title-main
+- content: CIE x050-PO034
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-po034?product_id=2579080
@@ -70,7 +75,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: Since the wide diffusion of LEDs, the Colour Rendering Index (CRI) has
+    revealed its limitations. Even though for many years, new methods have been developed
+    to measure and assess colour rendering, today an agreed and commonly shared method
+    to assess light sources rendering is still not available.In this work, we propose
+    the SDCRI (Spectral Divergence CRI), an alternative approach to measure light
+    rendering which considers just the emission spectrum of the light source under
+    analysis. We evaluate this metric in some perceptual experiments, discussing two
+    relevant experiments from existing literature, as well as our own experiments
+    using the Farnsworth-Munsell 100 hue test.In this preliminary study, the proposed
+    metric not only provides a simplification of the current methodologies to assess
+    light colour rendering but demonstrated promising correlations with users' colour
+    discrimination.
 ext:
   schema_version: v1.0.0
   doctype:

@@ -2,6 +2,13 @@
 id: CIE1792007
 schema_version: v1.5.6
 type: standard
+title:
+- content: Methods for characterising tristimulus colorimeters for measuring the colour
+    of light
+  type: title-main
+- content: Methods for characterising tristimulus colorimeters for measuring the colour
+    of light
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-179-2007?product_id=1377605
@@ -32,7 +39,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: "The purpose of this technical report is to provide an objective means for evaluating the properties of tristimulus colorimeter heads that are to be used to measure the colour of light sources. Several properties that determine the performance of tristimulus colorimeters can be quantified by numerical assessments. There are some properties, however, which have not been possible to quantify, where only a qualitative description is possible. Several sources of measurement error are also described. \n\nThe report is intended to serve as a guide for a potential user who wishes to make colour measurements of sources using a tristimulus colorimeter, and for manufacturers or users of instruments who need to specify or assess the quality of these instruments. The factors that make up the evaluation may also serve as a guide to manufacturers in the development of improved colorimetric instruments."
 ext:
   schema_version: v1.0.0
   doctype:

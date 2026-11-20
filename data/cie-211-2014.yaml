@@ -2,11 +2,6 @@
 id: CIE2112014
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE 211:2014
-  type: title-main
-- content: CIE 211:2014
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-211-2014?product_id=1879928
@@ -37,7 +32,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: |-
+    This report describes colour zone maps, which are the contour maps showing unique hue components for the red, dark yellow, yellow, green and blue stimuli, over the entire visual expanse based on experimental results using hue and saturation judgements. Characteristics of colour-appearance change in the entire visual expanse show basically the same tendency as those in previous studies using a similar method. Estimation of a unique hue component in a peripheral position utilizing the colour zone map is described with an example.
+
+    The publication is written in English, with a short summary in French and German. It consists of 22 pages with 7 figures and 1 table.
 ext:
   schema_version: v1.0.0
   doctype:

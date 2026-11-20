@@ -3,13 +3,9 @@ id: CIE2162015
 schema_version: v1.5.6
 type: standard
 title:
-- content: Proceedings of the 28th Session of the CIE, Manchester, United Kingdom,
-    June 28
-  type: title-intro
-- content: July 4, 2015
+- content: CIE 216:2015
   type: title-main
-- content: Proceedings of the 28th Session of the CIE, Manchester, United Kingdom,
-    June 28 - July 4, 2015
+- content: CIE 216:2015
   type: main
 source:
 - type: src
@@ -41,7 +37,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: |-
+    The Proceedings of the 28th Session of the CIE comprise two volumes.
+    Volume 1, subdivided into two parts, contains on 2124 pages the texts of the invited papers, contributed papers and posters presented at the Session as well as the introductions to the workshops and seminars.
+
+    Volume 2 contains official reports of the administrative and technical meetings of the Session, thus presenting an overview on the technical work in CIE achieved during the Quadrennium. It will be provided by end of 2015.
 ext:
   schema_version: v1.0.0
   doctype:

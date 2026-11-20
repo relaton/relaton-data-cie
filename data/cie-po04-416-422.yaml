@@ -2,6 +2,11 @@
 id: CIEPO04416422
 schema_version: v1.5.6
 type: standard
+title:
+- content: PARAMETRIC DESIGN APPLICATION IN INTELLIGENT LIGHTING (PO04, 416-422)
+  type: title-main
+- content: PARAMETRIC DESIGN APPLICATION IN INTELLIGENT LIGHTING (PO04, 416-422)
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/parametric-design-application-in-intelligent-lighting-po04-416-422?product_id=2016282
@@ -50,7 +55,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: Parametric design is widely used in architectural design, mainly in appearance
+    design, and the lack of performance optimization and data introduction. Introducing
+    the parametric design concept into lighting design. On the one hand, it achieves
+    the purpose of beautiful appearance by combining with architecture, and on the
+    other hand, it establishes the one-toone correspondence between lighting parameters
+    and graphics software and realizes the control of lighting parameters on the graphical
+    interface. Visualize lighting options on the graphical interface. And optimize
+    lighting design.
 ext:
   schema_version: v1.0.0
   doctype:

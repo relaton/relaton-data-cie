@@ -3,13 +3,9 @@ id: CIES016E2005
 schema_version: v1.5.6
 type: standard
 title:
-- content: Lighting of work places
+- content: CIE S 016/E:2005 (ISO 8995-3:2006(E))
   type: title-main
-- content: 'Part 3: Lighting requirements for safety and security of outdoor work
-    places'
-  type: title-part
-- content: 'Lighting of work places - Part 3: Lighting requirements for safety and
-    security of outdoor work places'
+- content: CIE S 016/E:2005 (ISO 8995-3:2006(E))
   type: main
 source:
 - type: src
@@ -41,7 +37,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: |-
+    To enable people to perform visual tasks efficiently and accurately, especially during
+    the night, adequate and appropriate lighting has to be provided. The degree of
+    visibility and comfort required in a wide range of outdoor work places is governed by
+    the type and duration of activity.
+    The standard specifies the lighting requirements that will contribute to the visual
+    needs for safety and security within outdoor work places.
 relation:
 - type: updates
   bibitem:

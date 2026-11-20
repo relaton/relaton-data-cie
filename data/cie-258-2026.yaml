@@ -3,9 +3,9 @@ id: CIE2582026
 schema_version: v1.5.6
 type: standard
 title:
-- content: Adaptive Road Lighting
+- content: CIE 258:2026
   type: title-main
-- content: Adaptive Road Lighting
+- content: CIE 258:2026
   type: main
 source:
 - type: src
@@ -37,7 +37,31 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: 'DOI: 10.25039/TR.258.2026Reducing energy consumption and greenhouse gas
+    emissions while maintaining road safety and limiting the environmental impact
+    of artificial light are increasingly important considerations in road lighting
+    design. Adaptive road lighting (ARL) can help address these challenges by enabling
+    lighting to better respond to actual road use and conditions.For the first time,
+    this Technical Report brings together information on road lighting control systems
+    for ARL installed around the world, providing a comprehensive overview of available
+    approaches and practices.This Technical Report is highly relevant for standardization
+    organizations, lighting designers, manufacturers, engineers and other professionals
+    involved in specifying, designing and managing road lighting systems, helping
+    them make informed decisions when planning new installations or upgrading existing
+    systems.Adaptive road lighting (ARL) extends conventional road lighting by using
+    additional control devices to better match the lighting condition to the prevailing
+    traffic condition. This Technical Report describes the benefits, system types
+    and application of ARL.For those periods when the light level is reduced, an ARL
+    system reduces the energy consumption (and hence CO2 footprint) and light pollution
+    compared with a conventional road lighting system. It therefore reduces the detrimental
+    impact of lighting after dark on fauna, flora and astronomic observation.Some
+    ARL systems enable real-time monitoring of the lighting installation, which increases
+    road safety compared to those systems that adapt the lighting according to a pre-determined
+    schedule, and reduces maintenance costs.This Technical Report describes the benefits
+    of ARL, the components of ARL systems, the control strategies and the requirements
+    of an ARL installation. Three case studies of installed ARL systems are described.The
+    document is written in English, with a short summary in French and German. It
+    consists of 49 pages with 9 figures and 13 tables.'
 ext:
   schema_version: v1.0.0
   doctype:

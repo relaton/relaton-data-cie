@@ -2,6 +2,13 @@
 id: CIEx043OP24
 schema_version: v1.5.6
 type: standard
+title:
+- content: USING REFLECTORS FOR ANALYSIS AND ACQUISITION OF ANISOTROPIC BRDF (OP24,
+    Pages 155-162)
+  type: title-main
+- content: USING REFLECTORS FOR ANALYSIS AND ACQUISITION OF ANISOTROPIC BRDF (OP24,
+    Pages 155-162)
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/using-reflectors-for-analysis-and-acquisition-of-anisotropic-brdf-op24-pages-155-162?product_id=1941826
@@ -50,7 +57,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: BRDFs are commonly used for material appearance representation in applications
+    ranging from gaming and the movie industry, to product design and specification.
+    Most applications rely on isotropic BRDFs due to their better availability as
+    a result of their easier acquisition process. On the other hand, anisotropic BRDF
+    due to their structure-dependent anisotropic highlights, are more challenging
+    to measure and process. This paper describes approaches to BRDF analysis and acquisition
+    using ellipsoidal and parabolic reflectors commonly used for in illumination industry.
+    First, we show how reflectors can be used for detection of anisotropic properties
+    as anisotropic axes and highlight width. Second, we outline and approach for anisotropic
+    BRDF capture using reflector that allows fast and convenient measurement without
+    need of measured sample extraction.
 ext:
   schema_version: v1.0.0
   doctype:

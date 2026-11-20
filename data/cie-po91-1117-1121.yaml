@@ -2,6 +2,13 @@
 id: CIEPO9111171121
 schema_version: v1.5.6
 type: standard
+title:
+- content: WAVELENGTH DEPENDENT SCATTERING & TRANSMITTANCE CHARACTERISTICS UNDER ADVERSE
+    WEATHER CONDITIONS (PO91, 1117-1121)
+  type: title-main
+- content: WAVELENGTH DEPENDENT SCATTERING & TRANSMITTANCE CHARACTERISTICS UNDER ADVERSE
+    WEATHER CONDITIONS (PO91, 1117-1121)
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/wavelength-dependent-scattering-transmittance-characteristics-under-adverse-weather-conditions-po91-1117-1121?product_id=2011227
@@ -80,7 +87,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: This paper measures transmittance and scattering characteristics under
+    adverse weather conditions. A weather chamber is used to generate different fog
+    density and rain conditions. Collimated narrowband light source from monochromator
+    illuminated by Xenon illuminator is used as a light source. Transmittance and
+    scattering characteristics of each narrowband light source are measured. Experimental
+    results show limited wavelength dependence of transmittance and scattering characteristics
+    under fog and rain conditions.
 ext:
   schema_version: v1.0.0
   doctype:

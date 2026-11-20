@@ -2,15 +2,6 @@
 id: CIEOP17117121
 schema_version: v1.5.6
 type: standard
-title:
-- content: |-
-    EVALUATION OF GAMUT COMPRESSION ALGORITHMS WITH DIFFERENT NEUTRAL CONVERGENT POINTS IN DIFFERENT COLOUR SPACES
-     (OP17, 117-121)
-  type: title-main
-- content: |-
-    EVALUATION OF GAMUT COMPRESSION ALGORITHMS WITH DIFFERENT NEUTRAL CONVERGENT POINTS IN DIFFERENT COLOUR SPACES
-     (OP17, 117-121)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/evaluation-of-gamut-compression-algorithms-with-different-neutral-convergent-points-in-different-colour-spaces-op17-117-121?product_id=2010427
@@ -69,7 +60,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: This paper aims to investigate the performances of different gamut mapping
+    algorithms (GMAs) based on two uniform colour spaces (UCSs), CAM16-UCS and HDR-UCS.
+    Two new GMAs were proposed here and they were compared the other different GMAs.
+    Experimental results showed that a newly proposed GMAs based on vividness perception
+    performed well and HDR-UCS is a promising UCS for gamut mapping.
 ext:
   schema_version: v1.0.0
   doctype:

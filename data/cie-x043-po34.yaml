@@ -2,13 +2,6 @@
 id: CIEx043PO34
 schema_version: v1.5.6
 type: standard
-title:
-- content: CORRELATIONS BETWEEN CONCENTRATION OF EFFECT PIGMENTS, OPTICAL MEASUREMENTS
-    AND VISUAL ASSESSMENT OF SPARKLE (PO34, Pages 351-356)
-  type: title-main
-- content: CORRELATIONS BETWEEN CONCENTRATION OF EFFECT PIGMENTS, OPTICAL MEASUREMENTS
-    AND VISUAL ASSESSMENT OF SPARKLE (PO34, Pages 351-356)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/correlations-between-concentration-of-effect-pigments-optical-measurements-and-visual-assessment-of-sparkle-po34-pages-351-356?product_id=1941856
@@ -107,7 +100,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: The effects of goniochromatism and sparkle are reaching more and more interest
+    for surface refinement applications driven by demanding requirements from such
+    different branches as automotive, cosmetics, printing and packaging industry.
+    In order to assure a proper characterization of textures with special-effect pigments,
+    a commercial device has been developed to characterize the sparkle texture effect
+    in different geometries, which is called BYK-mac multiangle-spectrophotometer.
+    On the other hand, recently it has been published a method for calculating the
+    sparkle descriptors of effect coatings from bidirectional imaging-based measurements.
+    The main objective of this work is to check whether there is a visual, instrumental
+    and structural correlation between the sparkle texture effect that the observer
+    detects, the pigment concentration and the sparkle descriptors provided by both
+    BYK-mac and those recently defined.
 ext:
   schema_version: v1.0.0
   doctype:

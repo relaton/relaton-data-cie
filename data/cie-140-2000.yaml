@@ -3,9 +3,9 @@ id: CIE1402000
 schema_version: v1.5.6
 type: standard
 title:
-- content: Road Lighting Calculations (Includes Rev. 2)
+- content: CIE 140-2000
   type: title-main
-- content: Road Lighting Calculations (Includes Rev. 2)
+- content: CIE 140-2000
   type: main
 source:
 - type: src
@@ -37,7 +37,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: |-
+    The purpose of this report is to update and to replace CIE 30.2-1982 Calculation and measurement of illuminance and luminance in road lighting. It gives the methods which CIE 115-1995 and CIE 136-2000 require for their recommendations.
+
+    It includes the calculation of luminance, illuminance, and their associated measures of uniformity, as well as disability glare. The conventions adopted for luminance and illuminance grids are also included.
+
+    The complete Technical Report consists of 33 pages with 17 figures and 6 tables.
 relation:
 - type: updates
   bibitem:

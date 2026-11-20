@@ -2,6 +2,11 @@
 id: CIEx048OP25
 schema_version: v1.5.6
 type: standard
+title:
+- content: CIE x048-OP25
+  type: title-main
+- content: CIE x048-OP25
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x048-op25?product_id=2240707
@@ -70,7 +75,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: In order to examine the effect of the translucent level of each layer on
+    the visual privacy and the view when the window equipment is divided into three
+    sections, the subject experiment was carried out. It was found that visibility
+    from inside and estimated visibility from outside were proportional to each other
+    regardless of the window equipment condition. The relationship between visibility
+    from inside and estimated visibility from outside was affected by the shielding
+    position of the window equipment, and it was revealed that the clearer the view
+    from the middle layer, the more privacy could be secured. In addition, it was
+    suggested that opening the lower level of the window rather than the upper level
+    would ensure both privacy and view.
 ext:
   schema_version: v1.0.0
   doctype:

@@ -2,11 +2,6 @@
 id: CIEISODIS235392021
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE ISO DIS 23539:2021
-  type: title-main
-- content: CIE ISO DIS 23539:2021
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-iso-dis-23539-2021?product_id=2246149
@@ -35,7 +30,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: The purpose of photometry is to measure light as perceived by the human
+    eye. The brightness of a luminous surface depends not only on the amount of radiation
+    it emits, transmits or reflects, but also on its spectral composition and on the
+    visual response function of the observer viewing it.
 relation:
 - type: updates
   bibitem:

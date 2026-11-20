@@ -2,11 +2,6 @@
 id: CIEx050PP023
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x050-PP023
-  type: title-main
-- content: CIE x050-PP023
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-pp023?product_id=2579355
@@ -95,7 +90,22 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: ALAN (artificial light at night) has changed the spectral composition of
+    the night sky, disrupting the rhythms of natural ecosystems. In particular, the
+    multicolour and high brightness of the nightscapes make the urban night present
+    a chaotic and colourful scene. We therefore introduce the colour harmony theory
+    for evaluating multiccolour lighting scenes. In this study, we collected hyperspectral
+    data from 50 lighting scenarios in seven commercial districts in Shanghai. Utilizing
+    the acquired hyperspectral data, we analyzed the luminance, chromaticity distribution,
+    and colour harmony values of these districts. It was observed that modern architectural
+    commercial districts (such as Lujiazui) exhibited a greater variety of colours
+    compared to historical architectural districts (such as the Bund International
+    Architecture Exhibition). This disparity can be attributed to the utilization
+    of self-illuminating lighting methods in modern architecture, allowing for a broader
+    range of colours, higher luminance levels, and increased colour harmony values.
+    In contrast, historical buildings typically rely on floodlights for illumination,
+    resulting in fewer colour options, lower luminance levels, and diminished colour
+    harmony values.
 ext:
   schema_version: v1.0.0
   doctype:

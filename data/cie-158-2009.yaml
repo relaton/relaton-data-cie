@@ -37,7 +37,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: |-
+    The nonvisual biological and behavioural effects of light in animals and humans are
+    mediated by specific neuroanatomical pathways. Controlled empirical studies have
+    shown that light can be used to treat some clinical disorders and may have broader,
+    nonclinical applications for problems of shift work and jet lag. Studies are testing how
+    lighting may be incorporated into architectural designs that are optimal for vision as
+    well as physiological and behavioural stimulation.
 relation:
 - type: updates
   bibitem:

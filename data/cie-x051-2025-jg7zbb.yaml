@@ -2,6 +2,11 @@
 id: CIEx0512025jg7zbb
 schema_version: v1.5.6
 type: standard
+title:
+- content: CIE x051:2025/jg7zbb
+  type: title-main
+- content: CIE x051:2025/jg7zbb
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x051-2025-jg7zbb?product_id=3039918
@@ -80,7 +85,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: The reflection properties of road surfaces depend on both the type of pavement
+    and its age, but this dependence is not well known. This paper proposes a deterministic
+    nonlinear model to predict the evolution of reflection properties of road surfaces
+    up to 36 months, focusing on the macroscopic CIE descriptors Q0 and S1. Based
+    on French experimental data, the model takes the age, the aggregate size and the
+    colour of the road surface into account. Internal and external validations show
+    that the model quite satisfactorily captures the overall trends in the evolution
+    of Q0 and S1. These results provide a solid basis for improving the prediction
+    of reflection properties of road surfaces, guiding future applications.
 ext:
   schema_version: v1.0.0
   doctype:

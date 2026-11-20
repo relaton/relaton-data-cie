@@ -3,9 +3,9 @@ id: CIEx050OP009
 schema_version: v1.5.6
 type: standard
 title:
-- content: A CORE LIGHTING CURRICULUM FOR UNIVERSITY STUDENTS
+- content: CIE x050-OP009
   type: title-main
-- content: A CORE LIGHTING CURRICULUM FOR UNIVERSITY STUDENTS
+- content: CIE x050-OP009
   type: main
 source:
 - type: src
@@ -45,7 +45,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: In collaboration with a group of lighting professionals, learning outcomes
+    were defined, prioritized, organized, and mapped to a three-course sequence of
+    lighting courses within a Bachelor of Science in Architectural Engineering degree
+    program. Syllabi and educational exercises were developed to support the learning
+    outcomes—including classroom activities, homework assignments, and design projects.
+    The learning exercises balance the technical foundations of applied illuminating
+    engineering with the artistic aspects of applied lighting design and are intended
+    to promote significant and lasting learning by providing students with realistic,
+    contemporary, and contextual educational experiences. The process for identifying
+    and prioritizing lighting content is described, a process that could be adapted
+    by other lighting educators to other pedagogical contexts. The syllabi and learning
+    exercises are disseminated for reuse or adaptation, or for self-study by independent
+    learners.
 ext:
   schema_version: v1.0.0
   doctype:

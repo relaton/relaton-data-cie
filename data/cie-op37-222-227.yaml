@@ -2,6 +2,13 @@
 id: CIEOP37222227
 schema_version: v1.5.6
 type: standard
+title:
+- content: HUMAN VISUAL RESPONSES TO PAINTING AFFECTED BY LIGHTING CONDITIONS (OP37,
+    222-227)
+  type: title-main
+- content: HUMAN VISUAL RESPONSES TO PAINTING AFFECTED BY LIGHTING CONDITIONS (OP37,
+    222-227)
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/human-visual-responses-to-painting-affected-by-lighting-conditions-op37-222-227?product_id=2016247
@@ -50,7 +57,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: The study used a small experimental room and two types of lighting, accent
+    and ambient, where a 3D polyhedron object was displayed to serve as a visual task.
+    The observers assessed the 3D object in terms of "sense of depth" and "liking",
+    followed by assessment of the entire room in terms of "brightness" and "comfort".
+    Experimental results show that the darker the ambient lighting was, the more likely
+    it was that the 3D object felt rich in sense of depth, and that the 3D object
+    was liked. The results also show that for non-Taiwanese observers, reducing perceived
+    brightness of room tended to enhance liking of the 3D object, but such a tendency
+    was not found for Taiwanese observers.
 ext:
   schema_version: v1.0.0
   doctype:

@@ -2,11 +2,6 @@
 id: CIEx050PO108
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x050-PO108
-  type: title-main
-- content: CIE x050-PO108
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-po108?product_id=2578638
@@ -75,7 +70,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: In this study, we investigated a method to evaluate the visibility of fallen
+    objects on the road by viewing a virtual driving video in a simulated tunnel model
+    captured by a VR180 camera with an HMD. As the results, when the subject was stationary,
+    the subject's sensory evaluation results confirmed that the visibility was almost
+    the same for both the direct view and the HMD. Since the effectiveness of the
+    visibility evaluation with the HMD was confirmed, the visibility of fallen objects
+    on the road was evaluated using a video image of driving in the model tunnel at
+    a converted speed of 80 km/h. When subjects were in a dynamic state, visibility
+    was concentrated around one point, the 'SLIGHTLY LOW' score. This means that subjects
+    recognise before they can see better. Instead of visibility, the distance between
+    the subject and the fallen object is changed at recognition time.
 ext:
   schema_version: v1.0.0
   doctype:

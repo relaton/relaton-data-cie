@@ -2,6 +2,11 @@
 id: CIEx050PO009
 schema_version: v1.5.6
 type: standard
+title:
+- content: CIE x050-PO009
+  type: title-main
+- content: CIE x050-PO009
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-po009?product_id=2578627
@@ -70,7 +75,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: The limiting photometric distance (LPD) demarcates the boundary between
+    the far-field and near-field regions of a light source, where the validity of
+    the point source approximation and the application of the inverse square law can
+    be upheld. Traditionally, this distance is determined along the optical axis and
+    is considered universally applicable to all emission angles. However, for cosn-distributed,
+    rotationally symmetric light sources, an angular dependence is observed contingent
+    on the beam width. Beyond a certain angle, the LPD for narrow beam light sources
+    surpasses that along the optical axis in off-axis directions, indicating the invalidity
+    of the point source approximation as defined on-axis. Therefore, an angular range
+    is derived wherein the illuminance can be computed utilising the inverse square
+    law, with errors of 1 % or less compared to exact solutions. This range is defined
+    for square and round emitters based on their full-width at half-maximum angles.
 ext:
   schema_version: v1.0.0
   doctype:

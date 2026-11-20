@@ -3,9 +3,9 @@ id: CIEx0512025xz9655
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x051:2025/xz9655
+- content: CAMERA SPECTRAL SENSITIVITY MEASUREMENT AND UNCERTAINTY EVALUATION
   type: title-main
-- content: CIE x051:2025/xz9655
+- content: CAMERA SPECTRAL SENSITIVITY MEASUREMENT AND UNCERTAINTY EVALUATION
   type: main
 source:
 - type: src
@@ -75,7 +75,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: This paper describes a spectral sensitivity calibration procedure for a
+    camera and evaluates the measurement uncertainty. A narrow wavelength band radiance
+    source based on a monochromator and a standard spectroradiometer traced to the
+    National Metrology Institute are used. As the uncertainty associated with the
+    standard spectroradiometer is easily obtained from the calibration certificate,
+    we mainly consider the uncertainty associated with the radiance source and the
+    camera. The repeatability, stability, wavelength accuracy, bandwidth, non-uniformity
+    and stray light are carefully examined. The relative extended uncertainty of the
+    spectral responsivity of the red, green, and blue channels of the camera in the
+    range from 410nm to 680nm is approximately 4% (k=2).
 ext:
   schema_version: v1.0.0
   doctype:

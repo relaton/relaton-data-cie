@@ -2,11 +2,6 @@
 id: CIEx048PO32
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x048-PO32
-  type: title-main
-- content: CIE x048-PO32
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x048-po32?product_id=2240842
@@ -65,7 +60,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: The standards and Calibration Laboratory has recently developed the calibration
+    service for the enclosed-type irradiance light source in the spectral range from
+    300 nm to 850 nm. The calibration is based on the source-based method measured
+    by a fiber-coupled system. In this paper, the calibration setup, measurement model
+    and the associated uncertainty are presented. The expanded measurement uncertainty
+    is estimated to be less than 3,3 % over the measured spectral range which can
+    support the needs from the testing and certification industry.
 ext:
   schema_version: v1.0.0
   doctype:

@@ -2,15 +2,6 @@
 id: CIEPP11544552
 schema_version: v1.5.6
 type: standard
-title:
-- content: |-
-    DEFINITION AND DETERMINATION OF THE BEAM AXIS AND BEAM ANGLE OF COMPLEX LUMINOUS INTENSITY DISTRIBUTIONS
-     (PP11, 544-552)
-  type: title-main
-- content: |-
-    DEFINITION AND DETERMINATION OF THE BEAM AXIS AND BEAM ANGLE OF COMPLEX LUMINOUS INTENSITY DISTRIBUTIONS
-     (PP11, 544-552)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/definition-and-determination-of-the-beam-axis-and-beam-angle-of-complex-luminous-intensity-distributions-pp11-544-552?product_id=2011268
@@ -59,7 +50,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: |-
+    Legal regulations in many countries require the determination of the beam angle of lamps and luminaires and indication of this on product labelling. The value of the beam angle may therefore have a direct impact on whether a product can be put on the market or not. Therefore, a rigorous method of determining the beam angle is required that can be universally applied and which gives representative and reproducible results.
+    While guidelines already exist for determining the optical beam axis and beam angle of products, they are universally impractical to implement on products that are asymmetrical or have complex distributions. This paper discusses and compares different approaches using one already-defined method and introduces three new techniques.
 ext:
   schema_version: v1.0.0
   doctype:

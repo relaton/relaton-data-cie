@@ -3,11 +3,9 @@ id: CIE1972011
 schema_version: v1.5.6
 type: standard
 title:
-- content: Proceedings of the 27th Session of the CIE -- Sun City, South Africa, 9-16
-    July 2011, Volume I, Parts 1 & 2
+- content: CIE 197:2011
   type: title-main
-- content: Proceedings of the 27th Session of the CIE -- Sun City, South Africa, 9-16
-    July 2011, Volume I, Parts 1 & 2
+- content: CIE 197:2011
   type: main
 source:
 - type: src
@@ -39,7 +37,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: The Proceedings of the 27th Session of the CIE comprise two volumes.Volume
+    1, subdivided into two parts, contains on 1230 pages the texts of the Invited
+    Papers, Presented Papers and Posters presented at the Session as well as the Introductions
+    to the Workshops.Volume 2 contains the official reports of the administrative
+    and technical meetings of the Session, thus presenting an overview on the technical
+    work in CIE achieved during the quadrennium.
 ext:
   schema_version: v1.0.0
   doctype:

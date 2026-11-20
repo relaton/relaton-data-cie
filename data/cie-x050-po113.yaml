@@ -2,11 +2,6 @@
 id: CIEx050PO113
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x050-PO113
-  type: title-main
-- content: CIE x050-PO113
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-po113?product_id=2579147
@@ -75,7 +70,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: We investigated the feasibility and the limitations of using a UAV-borne
+    (Unmanned Aerial Vehicle, or drone) light source for calibrating a starphotometer
+    (essentially a telescope mounted spectroradiometer). This is a proof-of-concept
+    experiment for future use of satellite- and balloon-borne calibration light sources.
+    We measured a narrow-band, three-colour LED source at three fixed UAV positions
+    between 700 and 1500 m distance and at 115 m elevation over a 5–10° elevation
+    angle range above the horizon (equivalent to a 0,09–0,19 airmass range). While
+    the calibration was deemed to show good potential, it was limited by the use of
+    a narrow-band light source. Line-of-sight extinction profiling is a very interesting
+    product that can be extracted from these types of measurements.
 ext:
   schema_version: v1.0.0
   doctype:

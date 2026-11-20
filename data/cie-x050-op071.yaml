@@ -2,6 +2,11 @@
 id: CIEx050OP071
 schema_version: v1.5.6
 type: standard
+title:
+- content: CIE x050-OP071
+  type: title-main
+- content: CIE x050-OP071
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-op071?product_id=2579027
@@ -80,7 +85,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: The global energy supply challenges have made "energy efficiency" a top
+    priority in national energy policies, particularly for countries heavily reliant
+    on foreign energy. However, there has been a tendency to overlook the distinction
+    between energy efficiency and energy saving in applications, such as public outdoor
+    lighting. This underscores the urgent need for cost-effective, energy-saving implementations
+    aligning with international lighting standards. While LED conversions have been
+    prioritized in road lighting since the early 2000s, significant energy-saving
+    potential also exists in improving them. Furthermore, recent advancements in adaptive
+    systems integrated with LED conversions have shown promising energy-saving prospects.
+    Policy/decision makers require clear and reliable data on energy-saving values
+    to formulate effective strategies for road lighting. This study focuses on evaluating
+    the data from a pilot road application with the aim of determining energy-saving
+    values resulting from the integration of LED conversion and adaptive systems in
+    existing road lighting installations, and feasibility analysis.
 ext:
   schema_version: v1.0.0
   doctype:

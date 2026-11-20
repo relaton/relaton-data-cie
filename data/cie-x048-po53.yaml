@@ -2,6 +2,11 @@
 id: CIEx048PO53
 schema_version: v1.5.6
 type: standard
+title:
+- content: CIE x048-PO53
+  type: title-main
+- content: CIE x048-PO53
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x048-po53?product_id=2240859
@@ -50,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: The working situation has been dramatically changed in 2020 due to COVID-19.
+    The purpose of this study is to identify the lighting environment which can be
+    adapted to various styles of work from home. In this study, questionnaire survey
+    and field measurement were conducted to identify the actual working situation
+    and the lighting environment of the working location at home. This paper reports
+    the results of questionnaire survey and the measurement data comparing the working
+    location in office and at home.
 ext:
   schema_version: v1.0.0
   doctype:

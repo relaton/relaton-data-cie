@@ -2,13 +2,6 @@
 id: CIEOP095054
 schema_version: v1.5.6
 type: standard
-title:
-- content: STABLE COLOUR APPEARANCE AMONG CHANGE IN THE DIFFUSENESS OF ILLUMINATION
-    (OP09, 50-54)
-  type: title-main
-- content: STABLE COLOUR APPEARANCE AMONG CHANGE IN THE DIFFUSENESS OF ILLUMINATION
-    (OP09, 50-54)
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/stable-colour-appearance-among-change-in-the-diffuseness-of-illumination-op09-50-54?product_id=2016204
@@ -67,7 +60,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: The appearance of object surface could be largely influenced by lighting
+    conditions and object materials, but it has not been systematically analysed.
+    We examined how the colour appearance of object surface was influenced by the
+    diffuseness of lighting in real miniature rooms. We used two miniature rooms illuminated
+    by a diffused light and a direct light, respectively. We presented a test sample
+    with sine-wave surface which depths were 1.0 mm, 0.5 mm and 0 mm. Both glossy
+    and matte surface materials with five colours were prepared for the samples. Observers
+    judged the colour appearance of colour samples by selecting their corresponding
+    colours. The results of corresponding colour for test samples were similar under
+    both diffused and direct lighting conditions. These results suggest that the colour
+    appearance of samples that we tested was quite stable among the change in material
+    and illumination.
 ext:
   schema_version: v1.0.0
   doctype:

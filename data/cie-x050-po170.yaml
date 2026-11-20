@@ -3,9 +3,9 @@ id: CIEx050PO170
 schema_version: v1.5.6
 type: standard
 title:
-- content: AN ANALYTIC APPROACH TO THE VISIBILITY MODEL OF THE PHANTOM ARRAY EFFECT
+- content: CIE x050-PO170
   type: title-main
-- content: AN ANALYTIC APPROACH TO THE VISIBILITY MODEL OF THE PHANTOM ARRAY EFFECT
+- content: CIE x050-PO170
   type: main
 source:
 - type: src
@@ -55,7 +55,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: This paper presents a new analytic visibility model of the phantom array
+    effect. The threshold frequency of the visibility of the phantom array effect
+    can be affected by luminance, chromaticity, modulation depth, geometric characteristics
+    of the light source, and saccadic eye movement speed. We model the perception
+    of the phantom array as a detection of spatially spread modulation interval by
+    saccadic eye movement from temporal modulation of the light sources. The spatial
+    integration model is used to determine the interval to be perceived in addition
+    to the spatial contrast sensitivity. Eye movement speed is also considered and
+    interpreted by the spread of the temporally modulated signals. Temporal integration
+    also provides a limit to the modulation as well. The proposed model will be helpful
+    for the prediction of the visibility of the phantom array for given conditions.
+    In addition, the model is useful for the metric development of the phantom array
+    effect.
 ext:
   schema_version: v1.0.0
   doctype:

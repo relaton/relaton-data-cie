@@ -2,6 +2,13 @@
 id: CIEx043OP08
 schema_version: v1.5.6
 type: standard
+title:
+- content: TOWARD A METROLOGY FOR NON-UNIFORM SURFACE USING THE COMPLEXITY NOTION
+    (OP08, Pages 40-50)
+  type: title-main
+- content: TOWARD A METROLOGY FOR NON-UNIFORM SURFACE USING THE COMPLEXITY NOTION
+    (OP08, Pages 40-50)
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/toward-a-metrology-for-non-uniform-surface-using-the-complexity-notion-op08-pages-40-50?product_id=1941811
@@ -60,7 +67,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: To progress toward the metrology of coloured and textured surfaces, validation
+    criteria are required. In this work, we use the complexity assessment as an accuracy
+    measure of texture features. We show how to transform a colour texture feature
+    in a multiscale measure in order to assess the fractal dimension of colour surfaces.
+    The feature accuracy is then estimated from surfaces with known fractal dimension
+    using adapted midpoint displacement algorithm. The results show that the used
+    vector texture feature (colour contrast occurrence) presents a good accuracy,
+    but also that the colour midpoint algorithm must be improved to avoid artefacts
+    in the generation of images with low complexity level.
 ext:
   schema_version: v1.0.0
   doctype:

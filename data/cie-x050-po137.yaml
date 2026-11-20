@@ -3,9 +3,9 @@ id: CIEx050PO137
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x050-PO137
+- content: ON THE QUESTION OF THE UNCERTAINTY OF CIE 1931 COLOR-MATCHING FUNCTIONS
   type: title-main
-- content: CIE x050-PO137
+- content: ON THE QUESTION OF THE UNCERTAINTY OF CIE 1931 COLOR-MATCHING FUNCTIONS
   type: main
 source:
 - type: src
@@ -45,7 +45,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: For almost a hundred years, the CIE 1931 colorimetric system remaining
+    the backbone of color measurements in science and industry. However, the redefinition
+    of the SI system raises difficult questions about the assessment of the uncertainty
+    of color measurements and their belonging to the sphere of the SI system. In the
+    article discusses various aspects concerning estimating of the uncertainty of
+    CIE color-matching functions. As well as possible ways of its evaluation are proposed.
 ext:
   schema_version: v1.0.0
   doctype:

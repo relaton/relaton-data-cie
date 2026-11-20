@@ -2,13 +2,6 @@
 id: CIEx048OP65
 schema_version: v1.5.6
 type: standard
-title:
-- content: USING RELATIVE VISUAL PERFORMANCE TO PREDICT THE ABILITY TO MAKE INTERPERSONAL
-    EVALUATIONS
-  type: title-main
-- content: USING RELATIVE VISUAL PERFORMANCE TO PREDICT THE ABILITY TO MAKE INTERPERSONAL
-    EVALUATIONS
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x048-op65?product_id=2240818
@@ -77,7 +70,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: In research of lighting for pedestrians, many experiments have been conducted
+    to determine how changes in lighting affect the ability to make interpersonal
+    evaluations. Here we consider an alternative approach, predicting performance
+    using a model - Relative Visual Performance. The results show that face evaluation
+    ability is affected by adaptation luminance and also by personal characteristics;
+    observer age and skin tone of the observed person. While 2 lx is sufficient for
+    a young observer to evaluate a Caucasian face, the typical situation in laboratory
+    trials, higher illuminances are needed for older observers and for darker skin
+    tones.
 ext:
   schema_version: v1.0.0
   doctype:

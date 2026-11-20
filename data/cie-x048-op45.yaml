@@ -3,9 +3,11 @@ id: CIEx048OP45
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x048-OP45
+- content: TWO-DIMENSIONAL COLOUR APPEARANCE SCALES FOR COLOUR STIMULI HAVING HIGH
+    DYNAMIC RANGE
   type: title-main
-- content: CIE x048-OP45
+- content: TWO-DIMENSIONAL COLOUR APPEARANCE SCALES FOR COLOUR STIMULI HAVING HIGH
+    DYNAMIC RANGE
   type: main
 source:
 - type: src
@@ -51,7 +53,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document is a set or collection of related documents
+  content: New colour appearance scales close to daily experience and image quality
+    enhancement are highly desired including whiteness, blackness, vividness and depth.
+    This article describes a new experiment to accumulate the data under HDR (high
+    dynamic range) conditions. The data were then used to test the performance of
+    different colour appearance scales such as CIELAB and CAM16-UCS plus the recent
+    extension by Berns Vab*, Dab*. The results showed those Berns scales gave reasonable
+    performance. However, there was no scale capable of predicting colour appearance
+    data covering a wide dynamic range. New scales were developed based on the absolute
+    scales of brightness and colourfulness of CAM16-UCS and gave accurate prediction
+    to the data.
 ext:
   schema_version: v1.0.0
   doctype:
