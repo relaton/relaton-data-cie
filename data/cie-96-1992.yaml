@@ -3,9 +3,13 @@ id: CIE961992
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE 96-1992
+- content: Electric light sources
+  type: title-intro
+- content: State of the art
   type: title-main
-- content: CIE 96-1992
+- content: '1991'
+  type: title-part
+- content: Electric light sources - State of the art - 1991
   type: main
 source:
 - type: src

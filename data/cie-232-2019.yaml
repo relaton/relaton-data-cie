@@ -3,13 +3,9 @@ id: CIE2322019
 schema_version: v1.5.6
 type: standard
 title:
-- language: de
-  script: Latn
-  content: CIE 232:2019(DE)
+- content: CIE 232:2019
   type: title-main
-- language: de
-  script: Latn
-  content: CIE 232:2019(DE)
+- content: CIE 232:2019
   type: main
 source:
 - type: src
@@ -48,15 +44,6 @@ relation:
 - type: hasTranslation
   bibitem:
     type: standard
-    title:
-    - language: de
-      script: Latn
-      content: CIE 232:2019(DE)
-      type: title-main
-    - language: de
-      script: Latn
-      content: CIE 232:2019(DE)
-      type: main
     source:
     - type: src
       content: https://store.accuristech.com/standards/cie-232-2019-de?product_id=2247892
@@ -64,11 +51,6 @@ relation:
     - content: CIE 232:2019
       type: CIE
       primary: true
-    - content: '9783902842886'
-      type: ISBN
-    date:
-    - type: published
-      at: '2022-02-01'
     language:
     - de
     script:
