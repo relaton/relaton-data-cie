@@ -2,11 +2,6 @@
 id: CIE2492022
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE 249:2022
-  type: title-main
-- content: CIE 249:2022
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-249-2022?product_id=2252796
@@ -48,12 +43,12 @@ abstract:
     the environment. While in some very specific entertainment applications a distorted
     perception due to light modulation is desired, for most everyday applications
     and activities the distortion is detrimental and undesired. These changes in the
-    perception of the environment are called “temporal light artefacts” (TLAs)
-    and can have a large influence on the experience of the illumination quality.
-    Moreover, studies indicate that exposure to light exhibiting visible and measurable
-    temporal modulation can lead to a decrease in performance, increased fatigue as
-    well as acute health problems like migraine episodes.The potential negative effect
-    of temporal light artefacts has prompted lighting manufacturers, lighting application
+    perception of the environment are called “temporal light artefacts” (TLAs) and
+    can have a large influence on the experience of the illumination quality. Moreover,
+    studies indicate that exposure to light exhibiting visible and measurable temporal
+    modulation can lead to a decrease in performance, increased fatigue as well as
+    acute health problems like migraine episodes.The potential negative effect of
+    temporal light artefacts has prompted lighting manufacturers, lighting application
     specialists, universities and governments to look for ways to measure the effect
     and come to a better understanding of the temporal quality aspects of lighting
     systems. In this context, the CIE established Technical Committee (TC) 1-83 "Visual

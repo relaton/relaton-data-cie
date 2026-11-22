@@ -7,6 +7,16 @@ title:
   type: title-main
 - content: CIE 232:2019
   type: main
+- language: de
+  script: Latn
+  content: Psychologische Blendung von Leuchten mit inhomogener Leuchtdichtestruktur
+    der Lichtaustrittsfläche
+  type: title-main
+- language: de
+  script: Latn
+  content: Psychologische Blendung von Leuchten mit inhomogener Leuchtdichtestruktur
+    der Lichtaustrittsfläche
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-232-2019?product_id=2074145
@@ -44,6 +54,17 @@ relation:
 - type: hasTranslation
   bibitem:
     type: standard
+    title:
+    - language: de
+      script: Latn
+      content: Psychologische Blendung von Leuchten mit inhomogener Leuchtdichtestruktur
+        der Lichtaustrittsfläche
+      type: title-main
+    - language: de
+      script: Latn
+      content: Psychologische Blendung von Leuchten mit inhomogener Leuchtdichtestruktur
+        der Lichtaustrittsfläche
+      type: main
     source:
     - type: src
       content: https://store.accuristech.com/standards/cie-232-2019-de?product_id=2247892
@@ -51,6 +72,11 @@ relation:
     - content: CIE 232:2019
       type: CIE
       primary: true
+    - content: '9783902842886'
+      type: ISBN
+    date:
+    - type: published
+      at: '2022-02-01'
     language:
     - de
     script:

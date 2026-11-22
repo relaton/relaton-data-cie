@@ -2,6 +2,11 @@
 id: CIEx048OP37
 schema_version: v1.5.6
 type: standard
+title:
+- content: CIE x048-OP37
+  type: title-main
+- content: CIE x048-OP37
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x048-op37?product_id=2240791
@@ -124,12 +129,12 @@ abstract:
     and three different types of LED luminaires, including a street lighting luminaire,
     were used as comparison artefacts for measurements of 16 different quantities.
     These included electrical, photometric, and colorimetric quantities, and goniophotometric
-    quantities such as centre beam intensity, beam angle, partial flux (15° cone
-    angle), and angular colour uniformity.  CIE S 025 was used as the test method.
-    The results demonstrated overall good agreement on luminous flux and colour quantities,
-    however, larger variations and various problems were identified in goniophotometric
-    quantity results. Near-field type and source-rotating type goniophotometers showed
-    equivalent accuracies overall to those of far-field mirror type goniophotometers.
+    quantities such as centre beam intensity, beam angle, partial flux (15° cone angle),
+    and angular colour uniformity.  CIE S 025 was used as the test method. The results
+    demonstrated overall good agreement on luminous flux and colour quantities, however,
+    larger variations and various problems were identified in goniophotometric quantity
+    results. Near-field type and source-rotating type goniophotometers showed equivalent
+    accuracies overall to those of far-field mirror type goniophotometers.
 ext:
   schema_version: v1.0.0
   doctype:

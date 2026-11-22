@@ -48,13 +48,13 @@ abstract:
     luminance factor and coefficient of luminous intensity of fluorescent and/or retroreflective
     surfaces. Geometrical quantities covered in this standard include light emitting
     area and corresponding contrast ratios of light sources.NOTE 1: Where the term
-    “device” or “DUT" ("device under test") is used in this document, the term
-    covers light sources (replaceable or non-replaceable), light source modules, road
-    illumination devices, light-signalling devices and retroreflective devices.NOTE
-    2: The text within this document is written as technology neutral as possible
-    always trying to provide multiple possibilities for the measurement of a photometric
-    quantity to allow laboratories a maximum of flexibility in recording and analysing
-    the required data.'
+    “device” or “DUT" ("device under test") is used in this document, the term covers
+    light sources (replaceable or non-replaceable), light source modules, road illumination
+    devices, light-signalling devices and retroreflective devices.NOTE 2: The text
+    within this document is written as technology neutral as possible always trying
+    to provide multiple possibilities for the measurement of a photometric quantity
+    to allow laboratories a maximum of flexibility in recording and analysing the
+    required data.'
 ext:
   schema_version: v1.0.0
   doctype:

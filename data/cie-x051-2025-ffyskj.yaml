@@ -2,11 +2,6 @@
 id: CIEx0512025ffyskj
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x051:2025/ffyskj
-  type: title-main
-- content: CIE x051:2025/ffyskj
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x051-2025-ffyskj?product_id=3039902
@@ -114,10 +109,10 @@ abstract:
     were able to show that these dispersions were still acceptable, and that characterizing
     the optical properties of a pavement is an advantage over the traditional use
     of CIE standard r-tables. By carrying out these measurements in different observation
-    geometries, we also showed that reconsidering the standard 1° geometry would
-    offer the possibility of reducing measurement uncertainties. This contributes
-    to current research aimed at better integrating different types of night-time
-    mobility into urban lighting practices.
+    geometries, we also showed that reconsidering the standard 1° geometry would offer
+    the possibility of reducing measurement uncertainties. This contributes to current
+    research aimed at better integrating different types of night-time mobility into
+    urban lighting practices.
 ext:
   schema_version: v1.0.0
   doctype:

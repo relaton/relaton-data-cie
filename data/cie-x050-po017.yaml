@@ -115,10 +115,10 @@ abstract:
     hospital. Six months of sunlight irradiance data were collected onsite to inform
     the development of a custom NICU lighting plan. We analysed wavelength composition
     of this data throughout the day by assessing photon flux (photons/cm2/s) across
-    three wavelength ranges: (1) 380 – 430 nm (violet, opsin 5 absorption), (2)
-    430 – 530 nm (blue, opsin 3 and 4 absorption), and (3) 630 – 730 nm (red,
-    for spectral balance). Here, we introduce our NICU lighting plan that emulates
-    daylight’s composition and adheres to colour rendering metrics.'
+    three wavelength ranges: (1) 380 – 430 nm (violet, opsin 5 absorption), (2) 430
+    – 530 nm (blue, opsin 3 and 4 absorption), and (3) 630 – 730 nm (red, for spectral
+    balance). Here, we introduce our NICU lighting plan that emulates daylight’s composition
+    and adheres to colour rendering metrics.'
 ext:
   schema_version: v1.0.0
   doctype:

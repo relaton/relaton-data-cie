@@ -3,11 +3,9 @@ id: CIEx050PO044
 schema_version: v1.5.6
 type: standard
 title:
-- content: RESEARCH ON THE BRIGHTNESS LIMIT OF MEDIA FACADE IN MIXED COMMERCIAL AND
-    RESIDENTIAL STREETS
+- content: CIE x050-PO044
   type: title-main
-- content: RESEARCH ON THE BRIGHTNESS LIMIT OF MEDIA FACADE IN MIXED COMMERCIAL AND
-    RESIDENTIAL STREETS
+- content: CIE x050-PO044
   type: main
 source:
 - type: src
@@ -87,9 +85,9 @@ abstract:
     as the distance (r) between the display screen and the window location increases;
     The accuracy of the theoretical derivations decreases as the angle (α) between
     the line (d) connecting the window and the display screen and the normal vector
-    of the screen increases, with α<52° considered to yield relatively accurate
-    results. The angle (β) between the normal vector of the window and the display
-    screen had minimal impact on the results.'
+    of the screen increases, with α<52° considered to yield relatively accurate results.
+    The angle (β) between the normal vector of the window and the display screen had
+    minimal impact on the results.'
 ext:
   schema_version: v1.0.0
   doctype:

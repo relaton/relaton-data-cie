@@ -42,8 +42,8 @@ abstract:
     chroma, saturation and hue. It includes two methods for calculating Euclidean
     distances in this space to represent the relative perceived magnitude of colour
     differences. It also specifies the method of calculating the coordinates of the
-    u′,v′ uniform chromaticity scale diagram.This ISO/CIE International Standard
-    is applicable to tristimulus values calculated using the colour-matching functions
+    u′,v′ uniform chromaticity scale diagram.This ISO/CIE International Standard is
+    applicable to tristimulus values calculated using the colour-matching functions
     of the CIE 1931 standard colorimetric system or the CIE 1964 standard colorimetric
     system. This document is applicable for the specification of colour stimuli perceived
     as belonging to a reflecting or transmitting object, where a three-dimensional

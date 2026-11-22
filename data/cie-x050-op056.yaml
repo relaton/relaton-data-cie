@@ -2,11 +2,6 @@
 id: CIEx050OP056
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x050-OP056
-  type: title-main
-- content: CIE x050-OP056
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-op056?product_id=2579020
@@ -84,8 +79,8 @@ abstract:
     studies involving 149 participants in office-like settings, and evaluated their
     glare sensitivity to visible sun-disc behind either colour-neutral glazing or
     saturated blue-coloured glazing, both with very low visual transmittances. Findings
-    revealed that in neutral daylit conditions, participants’ measured MPOD did
-    not have any significant influence on their glare sensitivity. However, in conditions
+    revealed that in neutral daylit conditions, participants’ measured MPOD did not
+    have any significant influence on their glare sensitivity. However, in conditions
     where the sun was visible through blue-coloured glazing, participants with higher
     MPOD demonstrated lower sensitivity to glare. These findings elucidate the role
     of macular pigments on individual glare sensitivity and provide insights for future

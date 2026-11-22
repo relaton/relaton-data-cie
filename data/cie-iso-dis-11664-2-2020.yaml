@@ -3,9 +3,11 @@ id: CIEISODIS1166422020
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE ISO DIS 11664-2:2020
+- content: Colorimetry
   type: title-main
-- content: CIE ISO DIS 11664-2:2020
+- content: 'Part 2: CIE standard illuminants'
+  type: title-part
+- content: 'Colorimetry - Part 2: CIE standard illuminants'
   type: main
 source:
 - type: src

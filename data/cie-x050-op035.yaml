@@ -2,6 +2,11 @@
 id: CIEx050OP035
 schema_version: v1.5.6
 type: standard
+title:
+- content: CIE x050-OP035
+  type: title-main
+- content: CIE x050-OP035
+  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x050-op035?product_id=2579006
@@ -46,8 +51,8 @@ abstract:
     luminous efficiency function VF(λ) based on the CIE cone-fundamentals as a standard
     function to derive photometry quantities, instead of current V(λ) function. While
     adopting a scientifically more rigorous concept in the SI is quite important,
-    there seems controversy on the idea to replace from V(λ) to VF(λ). Two ways
-    of analysis, in terms of the potential change of photometric values and an instrument
+    there seems controversy on the idea to replace from V(λ) to VF(λ). Two ways of
+    analysis, in terms of the potential change of photometric values and an instrument
     quality index, were made to identify the real impact when the standard photometric
     function V(λ) is replaced with VF(λ). It was found that the potential changes
     caused by the replacement of the standard photometric function are not negligible

@@ -2,11 +2,6 @@
 id: CIEx0512025bp38fd
 schema_version: v1.5.6
 type: standard
-title:
-- content: CIE x051:2025/bp38fd
-  type: title-main
-- content: CIE x051:2025/bp38fd
-  type: main
 source:
 - type: src
   content: https://store.accuristech.com/standards/cie-x051-2025-bp38fd?product_id=3039883
@@ -115,10 +110,10 @@ abstract:
     atmosphere, while a larger number and shorter interval enhanced vitality. Furthermore,
     in experimental environment resembling actual usage conditions, we conducted impression
     evaluations separately during seating and passage. Compared to static lighting,
-    significant differences were observed in “comfort” during seating, and in
-    “visibility” during passage. This suggests that fluctuating light can create
-    a pleasant spatial ambiance, although the evaluation of "vitality" may be influenced
-    by the size of the installation space.
+    significant differences were observed in “comfort” during seating, and in “visibility”
+    during passage. This suggests that fluctuating light can create a pleasant spatial
+    ambiance, although the evaluation of "vitality" may be influenced by the size
+    of the installation space.
 ext:
   schema_version: v1.0.0
   doctype:

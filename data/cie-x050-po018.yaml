@@ -3,9 +3,9 @@ id: CIEx050PO018
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE x050-PO018
+- content: WINDOW-VIEW-RECOGNITION BASED ACCEPTABLE DYNAMIC DAYLIGHTING OF RESIDENCE
   type: title-main
-- content: CIE x050-PO018
+- content: WINDOW-VIEW-RECOGNITION BASED ACCEPTABLE DYNAMIC DAYLIGHTING OF RESIDENCE
   type: main
 source:
 - type: src
@@ -83,9 +83,9 @@ abstract:
     the centre of the window with mean absolute percentage error below 0.6%. The prediction
     with high accuracy is based on the local climate data, window orientation, and
     a vertical window view fisheye image, which can be used in extensive surveys.
-    A pilot survey was conducted to collect the window view data and occupants’
-    subjective evaluation of the residential daylight environment to explore the acceptable
-    dynamic daylighting. The annual average luminous flux at the window plane is significantly
+    A pilot survey was conducted to collect the window view data and occupants’ subjective
+    evaluation of the residential daylight environment to explore the acceptable dynamic
+    daylighting. The annual average luminous flux at the window plane is significantly
     correlated with occupants’ evaluations. The workflow for window-view-recognition
     based acceptable dynamic daylighting of residence is testified to be feasible.
 ext:
