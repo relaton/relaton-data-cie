@@ -3,9 +3,11 @@ id: CIEISODIS235392021
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE ISO DIS 23539:2021
+- content: Photometry
+  type: title-intro
+- content: The CIE system of physical photometry
   type: title-main
-- content: CIE ISO DIS 23539:2021
+- content: Photometry - The CIE system of physical photometry
   type: main
 source:
 - type: src
