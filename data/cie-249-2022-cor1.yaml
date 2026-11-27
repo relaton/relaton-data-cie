@@ -1,4 +1,5 @@
-id: CIE2492022Cor12026
+---
+id: CIE2492022Cor1
 schema_version: v1.5.6
 type: standard
 title:
@@ -10,12 +11,12 @@ source:
 - type: src
   content: https://store.accuristech.com/standards/cie-249-2022-cor1?product_id=3133443
 docidentifier:
-- content: CIE 249:2022/Cor1:2026
+- content: CIE 249:2022-Cor1
   type: CIE
   primary: true
 - content: '9783902842978'
   type: ISBN
-docnumber: 249:2022/Cor1:2026
+docnumber: 249:2022-Cor1
 date:
 - type: published
   at: '2026'
@@ -36,32 +37,40 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'CIE 249:2022-Cor1 Visual Aspects of Time-Modulated Lighting Systems (incl. Corrigendum 1)
-    has superseded CIE 249:2022 Visual Aspects of Time-Modulated Lighting Systems.DOI: 10.25039/TR.249.2022.Cor1The
-    fast rate at which solid-state light sources can change their luminous output is one of the main drivers
-    behind the revolution in the lighting industry and applications of lighting. The fast rate of the
-    intensity change means that a modulation of the luminous output, both intended and unintended, is
-    directly linked to the modulation of the driving current. In turn, the light modulation can give rise
-    to distortions in the perception of the environment. While in some very specific entertainment applications
-    a distorted perception due to light modulation is desired, for most everyday applications and activities
-    the distortion is detrimental and undesired. These changes in the perception of the environment are
-    called “temporal light artefacts” (TLAs) and can have a large influence on the experience of the illumination
-    quality. Moreover, studies indicate that exposure to light exhibiting visible and measurable temporal
-    modulation can lead to a decrease in performance, increased fatigue as well as acute health problems
-    like migraine episodes.The potential negative effect of temporal light artefacts has prompted lighting
-    manufacturers, lighting application specialists, universities and governments to look for ways to
-    measure the effect and come to a better understanding of the temporal quality aspects of lighting
-    systems. In this context, the CIE established Technical Committee (TC) 1-83 "Visual Aspects of Time-Modulated
-    Lighting Systems".In 2016 the CIE published the first output of TC 1-83, Technical Note (TN) 006:2016
-    “Visual Aspects of Time-Modulated Lighting Systems – Definitions and Measurement Models”. This Technical
-    Report builds on this previously published TN. In the first part of this document, the definitions
-    for the perceptual effects that modulated light can produce are given. In the second part, an overview
-    of the relevant literature is given as well as an overview of the parameters that influence the visibility
-    of the different TLAs. The next part gives a description of two methods, one in the frequency domain
-    and one in the time domain, which can be used to quantify visibility of TLAs. Three different implementations
-    of these methods into specific visibility measures are given as an example. In the following part
-    practical guidelines are outlined on how to test light sources. Finally, recommendations are provided
-    on the use of the definitions and quantification methods, together with directions for future work.'
+  content: 'CIE 249:2022-Cor1 Visual Aspects of Time-Modulated Lighting Systems (incl.
+    Corrigendum 1) has superseded CIE 249:2022 Visual Aspects of Time-Modulated Lighting
+    Systems.DOI: 10.25039/TR.249.2022.Cor1The fast rate at which solid-state light
+    sources can change their luminous output is one of the main drivers behind the
+    revolution in the lighting industry and applications of lighting. The fast rate
+    of the intensity change means that a modulation of the luminous output, both intended
+    and unintended, is directly linked to the modulation of the driving current. In
+    turn, the light modulation can give rise to distortions in the perception of the
+    environment. While in some very specific entertainment applications a distorted
+    perception due to light modulation is desired, for most everyday applications
+    and activities the distortion is detrimental and undesired. These changes in the
+    perception of the environment are called “temporal light artefacts” (TLAs) and
+    can have a large influence on the experience of the illumination quality. Moreover,
+    studies indicate that exposure to light exhibiting visible and measurable temporal
+    modulation can lead to a decrease in performance, increased fatigue as well as
+    acute health problems like migraine episodes.The potential negative effect of
+    temporal light artefacts has prompted lighting manufacturers, lighting application
+    specialists, universities and governments to look for ways to measure the effect
+    and come to a better understanding of the temporal quality aspects of lighting
+    systems. In this context, the CIE established Technical Committee (TC) 1-83 "Visual
+    Aspects of Time-Modulated Lighting Systems".In 2016 the CIE published the first
+    output of TC 1-83, Technical Note (TN) 006:2016 “Visual Aspects of Time-Modulated
+    Lighting Systems – Definitions and Measurement Models”. This Technical Report
+    builds on this previously published TN. In the first part of this document, the
+    definitions for the perceptual effects that modulated light can produce are given.
+    In the second part, an overview of the relevant literature is given as well as
+    an overview of the parameters that influence the visibility of the different TLAs.
+    The next part gives a description of two methods, one in the frequency domain
+    and one in the time domain, which can be used to quantify visibility of TLAs.
+    Three different implementations of these methods into specific visibility measures
+    are given as an example. In the following part practical guidelines are outlined
+    on how to test light sources. Finally, recommendations are provided on the use
+    of the definitions and quantification methods, together with directions for future
+    work.'
 relation:
 - type: updates
   bibitem:

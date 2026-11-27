@@ -3,9 +3,14 @@ id: CIEISO109162024
 schema_version: v1.5.6
 type: standard
 title:
-- content: CIE ISO 10916:2024
+- content: Light and lighting
+  type: title-intro
+- content: Energy performance of lighting in buildings
   type: title-main
-- content: CIE ISO 10916:2024
+- content: Calculation of the impact of daylight utilization
+  type: title-part
+- content: Light and lighting - Energy performance of lighting in buildings - Calculation
+    of the impact of daylight utilization
   type: main
 source:
 - type: src
